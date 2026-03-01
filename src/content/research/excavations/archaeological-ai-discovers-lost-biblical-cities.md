@@ -70,3 +70,9 @@ Archaeology, aided by AI, paves the way for ongoing research. Current studies fo
 In summary, the integration of AI into archaeology marks a transformative era in the exploration of lost biblical cities. This technology does not merely confirm ancient accounts; it revives historical contexts, enriches modern understanding, and opens new avenues for research. As we stand at this crossroads of technology and tradition, there is an invitation to all who are intrigued by history to engage and contribute. Whether through academic pursuit, technological innovation, or intellectual curiosity, the sands of time are ripe for shifting, revealing secrets of our shared past. Let this be a call to action for scholars, researchers, and enthusiasts alike to delve deeper into this blend of ancient mystery and modern discovery.
  
 This article underscores the importance of continued research and collaboration, fostering an appreciation for the complexities of our history and the technological advancements that allow us to uncover its hidden chapters.
+
+---
+
+### Related Pilgrimage Guides
+
+- [Rabbi Nachman's Journey to Israel](/stories/rabbi-nachman-journey-to-israel)

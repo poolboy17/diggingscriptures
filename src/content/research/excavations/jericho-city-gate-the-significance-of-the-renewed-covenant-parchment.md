@@ -172,3 +172,9 @@ The Jericho City Gate is more than a relic of the past; it encapsulates the stor
 The city gate stands as a reminder of the layered narratives that characterize human experience. Scholars, including archaeologists and theologians, continue to unearth meanings in these ancient sites that challenge and enrich contemporary perspectives.
  
 So, what can you take away from the tales of Jericho? Perhaps its the realization that the echoes of ancient covenants ring in modern hearts, urging you to consider the delicate intersection of history, faith, and community. In a world often seeking connection, these timeless stories remind you of the ties that bind us across ages, urging you to honor the legacy left behind.
+
+---
+
+### Related Pilgrimage Guides
+
+- [Shikoku 88 Temple Pilgrimage: Historic Pilgrimage Route](/routes/shikoku-88-temples)

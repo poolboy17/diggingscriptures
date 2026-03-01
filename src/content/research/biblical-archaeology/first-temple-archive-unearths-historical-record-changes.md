@@ -78,3 +78,9 @@ The unearthing of the First Temple archive is a testament to the intricate histo
 Continued exploration and research at this site can potentially revolutionize our foundational narratives and fill gaps in historical knowledge. As more is learned, it could help foster a deeper understanding of the past, informing modern perspectives on faith, culture, and history.
  
 In the end, the unearthing of the First Temple archive reminds us of history's complexity and the evolving nature of our understanding, urging us to remain curious and open to the stories still waiting to be told.
+
+---
+
+### Related Pilgrimage Guides
+
+- [How Pilgrims Ascended the Temple Mount in Ancient Jerusalem](/routes/temple-mount-ascent)

@@ -89,3 +89,10 @@ The route's passage through four countries and multiple linguistic regions adds 
 - [Helena and the True Cross](/stories/helena-and-the-true-cross) — Early Christian pilgrimage that shaped the routes
 
 </Fragment>
+
+---
+
+### Related Research
+
+- [Exploring Ancient Jerusalem: Pilgrim Routes Unearthed](/research/excavations/exploring-ancient-jerusalem-pilgrim-routes-unearthed)
+- [Unraveling Ancient Jerusalem: a Deep Dive into the Temple](/research/excavations/ancient-jerusalem-street-reveals-temple-pilgrim-path)

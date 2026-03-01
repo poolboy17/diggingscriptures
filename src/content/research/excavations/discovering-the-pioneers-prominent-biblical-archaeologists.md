@@ -137,3 +137,9 @@ The legacy of biblical archaeologists is evident in the significant advancements
 Continued research and future prospects in biblical archaeology offer exciting possibilities. As technology and techniques improve, archaeologists can delve deeper into the mysteries of the past and uncover new insights into ancient civilizations. The integration of scientific methods, such as remote sensing and DNA analysis, with traditional excavation practices holds the promise of answering long-standing questions and challenging existing theories.
 
 By building on the foundation laid by the pioneers of biblical archaeology, future generations of archaeologists can continue to enhance our understanding of the Bible and its historical context. Through their work, we can connect with our ancient past, gaining a deeper appreciation for the cultural, societal, and religious practices of those who came before us.
+
+---
+
+### Related Pilgrimage Guides
+
+- [Rabbi Nachman's Journey to Israel](/stories/rabbi-nachman-journey-to-israel)

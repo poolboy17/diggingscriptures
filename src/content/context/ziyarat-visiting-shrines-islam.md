@@ -69,3 +69,10 @@ The hadith encouraging grave visitation appears in the collections of Muslim and
 <!-- LAYER 3: Hydration pending -->
 
 </Fragment>
+
+---
+
+### Related Research
+
+- [Exploring Ancient Jerusalem: Pilgrim Routes Unearthed](/research/excavations/exploring-ancient-jerusalem-pilgrim-routes-unearthed)
+- [Mountaintop Shrine: the Sacred Journey in Biblical Archaeology](/research/faith/mountaintop-shrine-pilgrims-seek-echoes-of-the-arks-holiness)

@@ -73,3 +73,10 @@ The Old City of Hebron, surrounding the Cave, contains a traditional market (sou
 - [Relics and Sacred Objects](/context/relics-and-sacred-objects) — The veneration of patriarchal remains across traditions
 
 </Fragment>
+
+---
+
+### Related Research
+
+- [Unearth Secrets of Ancient Temples: a Journey into Biblical](/research/biblical-archaeology/biblical-archaeology-discovering-ancient-temple-sites)
+- [The Unearthing of Ancient Temples: a Biblical Archaeological](/research/biblical-archaeology/the-unearthing-of-ancient-temples-a-biblical-archaeological-expedition)

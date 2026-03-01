@@ -86,3 +86,10 @@ The Kumano Kodō demonstrates a model of pilgrimage route management that balanc
 - [Kōbō Daishi and the Shikoku Circuit](/stories/kobo-daishi-shikoku) — The founder of Shingon Buddhism and his pilgrimage legacy
 
 </Fragment>
+
+---
+
+### Related Research
+
+- [Unraveling Ancient Jerusalem: a Deep Dive into the Temple](/research/excavations/ancient-jerusalem-street-reveals-temple-pilgrim-path)
+- [Ancient Temple Seal Discovery Rewrites Biblical History](/research/artifacts/ancient-temple-seal-discovery-rewrites-biblical-history)

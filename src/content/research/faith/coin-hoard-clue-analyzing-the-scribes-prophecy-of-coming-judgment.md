@@ -154,3 +154,9 @@ In summary, the narrative surrounding the Scribes' Prophecy of Coming Judgment i
 Each coin could be a narrative of judgment, a lesson in morality, or a reminder of human behavior under duress. As you reflect on the implications of these ancient artifacts, one thing remains crystal clear: the past and present are forever intertwined, guiding you in facing future choices.
  
 So, the next time you come across an artifact or a historical account, consider the deeper stories they might unveil  hidden treasures of human experience waiting to inform your journey.
+
+---
+
+### Related Pilgrimage Guides
+
+- [Rabbi Nachman's Journey to Israel](/stories/rabbi-nachman-journey-to-israel)

@@ -120,3 +120,9 @@ Explore the Enigmatic World of Biblical Archaeology Sites Map
 Biblical Archaeology Excavation Techniques Unraveled
 Explore the Enigmatic World of Biblical Archaeology Sites Map
 Biblical Archaeology Excavation Techniques Unraveled
+
+---
+
+### Related Pilgrimage Guides
+
+- [How Pilgrims Ascended the Temple Mount in Ancient Jerusalem](/routes/temple-mount-ascent)

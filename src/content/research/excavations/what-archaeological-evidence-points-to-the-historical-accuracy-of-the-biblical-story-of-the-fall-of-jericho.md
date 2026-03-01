@@ -51,3 +51,9 @@ The archaeological findings at Jericho, including the fallen mudbrick city walls
 - Burnt large storage jars found at Jericho suggest a swift and violent episode, consistent with a city under siege and destruction.
 
 Additionally, the presence of collapsed mudbricks along the stone retaining wall provides physical evidence of the city's destruction. These archaeological pieces collectively contribute to a clearer understanding of the events that transpired at Jericho, reinforcing the historical accuracy of the Biblical story of the city's downfall.
+
+---
+
+### Related Pilgrimage Guides
+
+- [Rabbi Nachman's Journey to Israel](/stories/rabbi-nachman-journey-to-israel)

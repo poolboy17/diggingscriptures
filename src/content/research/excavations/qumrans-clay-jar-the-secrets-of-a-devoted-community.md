@@ -118,3 +118,9 @@ For individuals today, the beliefs and practices of the Qumran community offer a
 As we unravel the secrets of Qumran's clay jars, we're reminded that these simple artifacts hold profound insights into the lives and beliefs of an ancient, devoted community. Their commitment to preserving sacred texts has opened a window into a world characterized by intense spiritual fervor and theological questioning.
  
 The Qumran community serves as a poignant reminder of humanity's enduring quest for understanding, connection, and meaning. Through their teachings, writings, and even their pottery, they invite you to contemplate your spiritual journey and the legacy you wish to leave behind. In grappling with these ancient truths, you may find not only a glimpse into the past but also a compass for navigating the complexities of modern life.
+
+---
+
+### Related Pilgrimage Guides
+
+- [How Pilgrims Ascended the Temple Mount in Ancient Jerusalem](/routes/temple-mount-ascent)

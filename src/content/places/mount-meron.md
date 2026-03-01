@@ -75,3 +75,10 @@ Safed itself warrants a visit. The hilltop city, with its blue-painted artists' 
 - [The Three Pilgrim Festivals of Judaism](/context/three-pilgrim-festivals-judaism) — The biblical pilgrimage cycle
 
 </Fragment>
+
+---
+
+### Related Research
+
+- [Significant Biblical Excavations Uncover Ancient Mysteries](/research/excavations/significant-biblical-excavations-uncover-ancient-mysteries)
+- [Biblical Archaeology Excavation Projects Unearth Ancient Wonders](/research/biblical-archaeology/biblical-archaeology-excavation-projects-unearth-ancient-wonders)

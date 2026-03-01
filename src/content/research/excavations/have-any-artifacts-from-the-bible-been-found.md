@@ -57,3 +57,9 @@ Amidst the sands of time, biblical archaeology continues to disclose enthralling
 Moreover, the excavation of artifacts in the City of David has provided valuable insights into Jerusalem's history, confirming its importance as a center of power and culture in the region. The Moabite Stone, commemorating King Mesha's victories over Israel, is another remarkable discovery linking to biblical narratives. Additionally, the identification of the Mt. Ebal Curse Tablet, containing a curse ceremony involving the tetragrammaton name of God, adds a layer of religious significance to the archaeological findings.
 
 These exciting revelations not only validate certain biblical accounts but also contribute to a deeper comprehension of the ancient world and the cultures that shaped it. Each artifact serves as a tangible link to the past, allowing us to piece together the intricate tapestry of history.
+
+---
+
+### Related Pilgrimage Guides
+
+- [Jerusalem Old City: Sacred Pilgrimage Destination](/places/jerusalem-old-city)

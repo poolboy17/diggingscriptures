@@ -68,3 +68,9 @@ The ongoing research into this port citys findings remains dynamic, with interdi
 ## Concluding Reflections
  
 In summary, the recent archaeological discoveries provide a tangible bridge between biblical narratives and historical reality. These findings enrich our understanding of ancient urban life, validating historical accounts within the Bible. Looking ahead, they invite continued exploration and scholarship, urging academics, theologians, and enthusiasts to persist in their quest for understanding. In doing so, you contribute to the ongoing dialogue that spans millennia, revealing truths once believed to be lost to the sands of time.
+
+---
+
+### Related Pilgrimage Guides
+
+- [Rabbi Nachman's Journey to Israel](/stories/rabbi-nachman-journey-to-israel)

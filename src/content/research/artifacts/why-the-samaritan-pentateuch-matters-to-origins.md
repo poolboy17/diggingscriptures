@@ -155,3 +155,9 @@ While it may offer alternative viewpoints, most religious traditions integrate i
 Yes, translations and analyses are available for laypersons interested in understanding this unique biblical text.
  
 This guide hopefully equips you with a better understanding of the Samaritan Pentateuch and its pivotal role in illuminating the origins of sacred texts. As we unravel the complexities of historical manuscripts, we gain not only academic insights but also a richer grasp of humanity's shared religious heritage.
+
+---
+
+### Related Pilgrimage Guides
+
+- [Jerusalem Old City: Sacred Pilgrimage Destination](/places/jerusalem-old-city)

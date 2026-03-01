@@ -141,3 +141,9 @@ As we've journeyed through the narrative of the Judean Desert, it becomes clear 
 While the past provides invaluable lessons, today's context situates the Judean Desert as a living testamentone that continues to inspire reflection, understanding, and dialogue. You can see how as we navigate our contemporary realities, the insights gleaned from this ancient space offer a compass for traversing our paths forward.
  
 The Judean Desert may appear formidable, but in its rocks and riverbeds, it carries a wealth of stories that are, at their core, reflections of your own human experiencemarked by exile, longing, and a quest for belonging.
+
+---
+
+### Related Pilgrimage Guides
+
+- [How Pilgrims Ascended the Temple Mount in Ancient Jerusalem](/routes/temple-mount-ascent)

@@ -83,3 +83,10 @@ Peter Brown's The Cult of the Saints (1981) remains the foundational scholarly t
 - [Four Sacred Sites of Buddhism](/context/four-sacred-sites-buddhism) — Sites connected to the original distribution of the Buddha's relics
 
 </Fragment>
+
+---
+
+### Related Research
+
+- [Temple Artifacts Reveal Ancient Worship Practices](/research/artifacts/temple-artifacts-reveal-ancient-worship-practices)
+- [Unraveling Ancient Jerusalem: a Deep Dive into the Temple](/research/excavations/ancient-jerusalem-street-reveals-temple-pilgrim-path)

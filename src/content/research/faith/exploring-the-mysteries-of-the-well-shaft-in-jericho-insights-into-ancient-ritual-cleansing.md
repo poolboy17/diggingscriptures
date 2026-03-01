@@ -133,3 +133,9 @@ When reading about historical topics, it's necessary to judge the credibility of
 The well shaft in Jericho isnt merely a relic of the past but a vibrant beacon illuminating the complexities of human experience. You now see how its role in ancient rituals provides a multifaceted view into the culture and spirituality of early societies. Whether you approach it from an archaeological, theological, or cultural perspective, the well shaft invites you to ponder the significant connections between the past and modernity.
  
 As you reflect on this ancient site, remember that its mysteries have much to teach us about our identityboth communal and individualin this rapidly changing world. Indeed, the echoes of Jericho whisper truths about ritual, community, and the inextricable link between life and water.
+
+---
+
+### Related Pilgrimage Guides
+
+- [Rabbi Nachman's Journey to Israel](/stories/rabbi-nachman-journey-to-israel)

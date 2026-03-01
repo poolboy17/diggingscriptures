@@ -78,3 +78,10 @@ The pilgrimage commandment appears in three Torah passages: Exodus 23:14-17, Exo
 - [Rabbi Nachman's Journey to Israel](/stories/rabbi-nachman-journey-to-israel) — A later expression of Jewish pilgrimage longing
 
 </Fragment>
+
+---
+
+### Related Research
+
+- [Unearth Secrets of Ancient Temples: a Journey into Biblical](/research/biblical-archaeology/biblical-archaeology-discovering-ancient-temple-sites)
+- [The Unearthing of Ancient Temples: a Biblical Archaeological](/research/biblical-archaeology/the-unearthing-of-ancient-temples-a-biblical-archaeological-expedition)

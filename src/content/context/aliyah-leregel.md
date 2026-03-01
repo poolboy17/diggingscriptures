@@ -73,3 +73,10 @@ The biblical foundations appear in Exodus 23:14-17, Exodus 34:22-24, and Deutero
 - [Jerusalem Old City](/places/jerusalem-old-city) — The city that received the pilgrims
 
 </Fragment>
+
+---
+
+### Related Research
+
+- [Unearth Secrets of Ancient Temples: a Journey into Biblical](/research/biblical-archaeology/biblical-archaeology-discovering-ancient-temple-sites)
+- [The Unearthing of Ancient Temples: a Biblical Archaeological](/research/biblical-archaeology/the-unearthing-of-ancient-temples-a-biblical-archaeological-expedition)

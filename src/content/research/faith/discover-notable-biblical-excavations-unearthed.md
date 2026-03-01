@@ -130,3 +130,9 @@ Exploring Ancient Biblical Sites: A Journey Through History
 Unraveling the Mysteries of Biblical History Research
 Exploring Ancient Biblical Sites: A Journey Through History
 Unraveling the Mysteries of Biblical History Research
+
+---
+
+### Related Pilgrimage Guides
+
+- [How Pilgrims Ascended the Temple Mount in Ancient Jerusalem](/routes/temple-mount-ascent)

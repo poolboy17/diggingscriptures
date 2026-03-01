@@ -157,3 +157,9 @@ Unveiling the Intriguing World of Biblical Archaeology History
 Excavations Unveiling Biblical Archaeology
 Unveiling the Intriguing World of Biblical Archaeology History
 Excavations Unveiling Biblical Archaeology
+
+---
+
+### Related Pilgrimage Guides
+
+- [Shikoku 88 Temple Pilgrimage: Historic Pilgrimage Route](/routes/shikoku-88-temples)

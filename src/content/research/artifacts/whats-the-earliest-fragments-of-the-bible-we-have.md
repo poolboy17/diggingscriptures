@@ -185,3 +185,9 @@ Paleography helps place text within specific historical contexts, providing insi
 Apart from their historical importance, these fragments help you understand the roots and evolution of religious beliefs fundamental to many cultures today.
  
 Exploring these fragments isn't just about uncovering the past but better understanding our present. They speak to a continuity of thought, belief, and scholarship that has shaped societies for centuries, serving as a bridge between the ancient and modern worlds. So, the next time you find yourself pondering the pages of history, imagine how a small piece of papyrus or parchment transformed our understanding of history itself.
+
+---
+
+### Related Pilgrimage Guides
+
+- [Shikoku 88 Temple Pilgrimage: Historic Pilgrimage Route](/routes/shikoku-88-temples)

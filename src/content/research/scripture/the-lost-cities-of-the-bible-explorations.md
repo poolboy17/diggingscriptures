@@ -94,3 +94,9 @@ A: Exploring the lost cities of the Bible can be challenging due to factors such
 #### Q: How can the exploration of the lost cities of the Bible benefit us today?
 
 A: The exploration of the lost cities of the Bible can enrich our understanding of history, provide insights into ancient civilizations, inspire further archaeological research, and help us appreciate the rich cultural heritage that has shaped our world today.
+
+---
+
+### Related Pilgrimage Guides
+
+- [Shikoku 88 Temple Pilgrimage: Historic Pilgrimage Route](/routes/shikoku-88-temples)

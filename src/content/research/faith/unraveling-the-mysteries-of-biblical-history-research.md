@@ -126,3 +126,9 @@ Discover Notable Biblical Excavations Unearthed
 Understanding Historical Context: Exploring the Past with Clarity
 Discover Notable Biblical Excavations Unearthed
 Interpreting Biblical Texts with Clarity
+
+---
+
+### Related Pilgrimage Guides
+
+- [Relics and Sacred Objects: Pilgrimage History & Context](/context/relics-and-sacred-objects)

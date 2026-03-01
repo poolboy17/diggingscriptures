@@ -93,3 +93,9 @@ A: Biblical archaeology can provide information about daily life, customs, writi
 #### Q: How does biblical archaeology help illuminate the Word of God?
 
 A: By uncovering physical evidence that aligns with the biblical narrative, biblical archaeology strengthens the faith of believers, offers context to biblical stories, and helps bridge the gap between ancient texts and modern readers.
+
+---
+
+### Related Pilgrimage Guides
+
+- [Rabbi Nachman's Journey to Israel](/stories/rabbi-nachman-journey-to-israel)

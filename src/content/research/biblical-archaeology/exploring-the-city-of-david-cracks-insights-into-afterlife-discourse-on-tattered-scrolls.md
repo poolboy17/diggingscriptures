@@ -90,3 +90,9 @@ When you consider the interplay between ancient texts, archaeological findings, 
 In todays world, good scholarship and faith can coalesce to reveal wisdom from antiquity that still applies. What you learn from these ancient texts can inform your understanding of life today and the mysterious realm of what comes after. And while the scrolls may be tattered, the insights they provide remain beautifully intact, whispering questions that have echoed through centuries, waiting for modern minds to consider their weight.
  
 This exploration invites you to reflect on the past while embracing the relevant questions it provokes about your own beliefs regarding the afterlife. The journey through the City of David is not simply a venture into archaeology; its a walk through the heart of human inquiry.
+
+---
+
+### Related Pilgrimage Guides
+
+- [How Pilgrims Ascended the Temple Mount in Ancient Jerusalem](/routes/temple-mount-ascent)

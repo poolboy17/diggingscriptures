@@ -55,3 +55,9 @@ The impact of the first Bible found at St. Catherine's Monastery can be summariz
 - **Historical Significance**: The Codex Sinaiticus contains the oldest surviving complete manuscript of the New Testament. This ancient text provides a crucial link to the early Christian scriptures, offering scholars valuable insights into the historical context and development of the Bible.
 - **Scholarly Research**: The discovery of the first complete Bible contributed significantly to scholarly research on the evolution of the Christian Bible. By studying this manuscript, researchers have gained a deeper understanding of how the biblical texts were transmitted, preserved, and interpreted over time.
 - **Understanding Christian Faith**: The Codex Sinaiticus's discovery marked a pivotal moment in understanding the origins and development of the Christian Bible. It provided a tangible connection to the early Christian communities and their beliefs, enriching our knowledge of the foundations of the Christian faith.
+
+---
+
+### Related Pilgrimage Guides
+
+- [Rabbi Nachman's Journey to Israel](/stories/rabbi-nachman-journey-to-israel)

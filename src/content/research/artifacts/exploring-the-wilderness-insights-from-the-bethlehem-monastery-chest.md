@@ -142,3 +142,9 @@ The Bethlehem Monastery Chest and the Wilderness Penance Manuscript within it pr
 Ultimately, as you set your sights on the teachings stored in this enlightening manuscript, dont forget the invaluable lessons they impart. They call for reflection on forgiveness, community, and the spiritual quests every individual embarks upon, regardless of the era.
  
 As you continue on your own path, consider how the ancient wisdom of the Wilderness Penance Manuscript informs your present experiences, reinforcing both your connection to history and your commitment to living thoughtfully in the world today.
+
+---
+
+### Related Pilgrimage Guides
+
+- [History of Christian Pilgrimage](/context/history-of-christian-pilgrimage)

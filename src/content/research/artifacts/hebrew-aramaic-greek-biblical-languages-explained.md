@@ -154,3 +154,9 @@ Biblical linguistics overlaps with history, archaeology, and social studies. The
  Technology has made access to resources more widespread and learning more interactive.
  
 Through confronting these ancient languages, your grasp of sacred texts may deepen, and you may be inspired to embark on new secular and spiritual inquiries. Understanding the original words of these texts isnt just an academic exerciseit's a journey through the heart of culture, history, and divinity.
+
+---
+
+### Related Pilgrimage Guides
+
+- [Rabbi Nachman's Journey to Israel](/stories/rabbi-nachman-journey-to-israel)

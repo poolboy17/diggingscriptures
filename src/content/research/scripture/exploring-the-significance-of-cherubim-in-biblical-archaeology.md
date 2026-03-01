@@ -102,3 +102,9 @@ No matter how you slice it, the cherubim are a rich tapestry woven through histo
 Whether in ancient artistry, biblical texts, or contemporary reflections, cherubim embody the complex relationship between the earthly and the divine. By understanding their historical and cultural significance, you gain insight into how ancient communities viewed the divine. From guardian to messenger, cherubim play an irreplaceable role in the ongoing dialogue between faith, history, and culture.
  
 So, the next time you encounter a cherub, remember: behind that cute facade lies a profound legacy, echoing through the ages.
+
+---
+
+### Related Pilgrimage Guides
+
+- [Shikoku 88 Temple Pilgrimage: Historic Pilgrimage Route](/routes/shikoku-88-temples)

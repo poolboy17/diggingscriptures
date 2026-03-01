@@ -98,3 +98,10 @@ The study of pilgrimage has itself become a significant academic field. Scholars
 - [Camino de Santiago](/routes/camino-de-santiago) — The most traveled medieval pilgrimage route
 
 </Fragment>
+
+---
+
+### Related Research
+
+- [Ancient Temple Seal Discovery Rewrites Biblical History](/research/artifacts/ancient-temple-seal-discovery-rewrites-biblical-history)
+- [Unraveling Ancient Jerusalem: a Deep Dive into the Temple](/research/excavations/ancient-jerusalem-street-reveals-temple-pilgrim-path)

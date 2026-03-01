@@ -273,3 +273,9 @@ The Dead Sea Scrolls have had a profound impact on biblical studies. They have p
 The scrolls' influence extends beyond academia, inspiring popular fascination and attracting visitors to museums and exhibitions around the world. They continue to stimulate public interest and curiosity in ancient Jewish history, biblical studies, and the diverse religious and philosophical beliefs of the ancient world.
 
 Overall, the Dead Sea Scrolls represent an extraordinary archaeological find that has revolutionized our understanding of ancient Judaism, biblical literature, and the historical context of the biblical texts.
+
+---
+
+### Related Pilgrimage Guides
+
+- [How Pilgrims Ascended the Temple Mount in Ancient Jerusalem](/routes/temple-mount-ascent)

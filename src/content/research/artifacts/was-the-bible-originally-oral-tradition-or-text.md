@@ -192,3 +192,9 @@ Archaeology provides physical evidence supporting biblical narratives, offering 
 **How do modern scholars study ancient biblical texts?**
  
 Modern scholars employ interdisciplinary approaches, including textual criticism, history, and language studies, alongside technological tools like digital imaging and analytical software, to study ancient biblical texts comprehensively.
+
+---
+
+### Related Pilgrimage Guides
+
+- [Jerusalem Old City: Sacred Pilgrimage Destination](/places/jerusalem-old-city)

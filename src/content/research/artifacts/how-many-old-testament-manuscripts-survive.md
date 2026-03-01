@@ -185,3 +185,9 @@ It allows global access to these ancient texts, aids preservation, and provides 
 The primary languages are Hebrew and Aramaic, with Greek being significant due to the Septuagint translation.
  
 As custodians of history and religion, Old Testament manuscripts remain vital in our quest to connect with the past and enhance our understanding of ancient texts in an ever-evolving world.
+
+---
+
+### Related Pilgrimage Guides
+
+- [Shikoku 88 Temple Pilgrimage: Historic Pilgrimage Route](/routes/shikoku-88-temples)

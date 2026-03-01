@@ -141,3 +141,9 @@ Discoveries in Biblical Archaeology Unearth New Insights
 Biblical Archaeology Revelations: Unearthing Ancient Truths
 Discoveries in Biblical Archaeology Unearth New Insights
 Biblical Archaeology Revelations: Unearthing Ancient Truths
+
+---
+
+### Related Pilgrimage Guides
+
+- [Relics and Sacred Objects: Pilgrimage History & Context](/context/relics-and-sacred-objects)

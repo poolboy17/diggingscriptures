@@ -70,3 +70,10 @@ The Quranic foundations of the Hajj appear primarily in Surah Al-Baqarah (2:196-
 - [Ibn Battuta: The Pilgrim Traveler](/stories/ibn-battuta-pilgrim-traveler) — A medieval Hajj that became one of history's great journeys
 
 </Fragment>
+
+---
+
+### Related Research
+
+- [Exploring Ancient Jerusalem: Pilgrim Routes Unearthed](/research/excavations/exploring-ancient-jerusalem-pilgrim-routes-unearthed)
+- [Mountaintop Shrine: the Sacred Journey in Biblical Archaeology](/research/faith/mountaintop-shrine-pilgrims-seek-echoes-of-the-arks-holiness)

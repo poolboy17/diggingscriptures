@@ -213,3 +213,9 @@ Biblical archaeology serves as a valuable educational tool, offering students an
 ## Preserving and Interpreting the Past
 
 The preservation and interpretation of the past are integral to the mission of biblical archaeology. By excavating and conserving ancient sites, preserving artifacts, and documenting historical and cultural contexts, archaeologists ensure that future generations can continue to learn from and appreciate our shared heritage. Through careful interpretation and dissemination of findings, biblical archaeologists act as stewards of the past, bridging the gap between the ancient world and the present.
+
+---
+
+### Related Pilgrimage Guides
+
+- [How Pilgrims Ascended the Temple Mount in Ancient Jerusalem](/routes/temple-mount-ascent)

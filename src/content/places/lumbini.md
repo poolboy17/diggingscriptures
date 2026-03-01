@@ -75,3 +75,10 @@ Accommodation options include guest houses in Lumbini village, lodgings offered 
 - [Xuanzang, Buddhist Pilgrim](/stories/xuanzang-buddhist-pilgrim) — The Chinese monk who recorded his visit to Lumbini
 
 </Fragment>
+
+---
+
+### Related Research
+
+- [Temple Artifacts Reveal Ancient Worship Practices](/research/artifacts/temple-artifacts-reveal-ancient-worship-practices)
+- [Discover Ancient Temple Artifacts in Qumran: Secrets of](/research/excavations/exploring-the-qumran-workshop-ruins-a-quest-for-temple-artifacts)

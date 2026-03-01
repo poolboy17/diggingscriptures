@@ -77,3 +77,10 @@ The best visiting season is October through March, when temperatures are moderat
 - [Pilgrimage and Tourism in the Modern Era](/context/pilgrimage-tourism-modern-era) — The intersection of sacred travel and tourism
 
 </Fragment>
+
+---
+
+### Related Research
+
+- [Unearth Secrets of Ancient Temples: a Journey into Biblical](/research/biblical-archaeology/biblical-archaeology-discovering-ancient-temple-sites)
+- [The Unearthing of Ancient Temples: a Biblical Archaeological](/research/biblical-archaeology/the-unearthing-of-ancient-temples-a-biblical-archaeological-expedition)

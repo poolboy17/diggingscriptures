@@ -99,3 +99,9 @@ In today's fast-paced society, the jar serves as a reminder of the importance of
 In the end, the Jordan Orchard Jar is more than just a relic; its a testament to the enduring nature of human spirituality and the complexities of our cultural heritage. It challenges you to think about how shared beliefs shape community identity and the lasting significance of ancient practices in todays world. By connecting the dots between past and present, you gain valuable insight into the everyday lives and spiritual journeys of those who once roamed the lands of the Jordan River.
  
 As we reflect on these historical elements, its essential to remember that the story of the Jordan Orchard Jar is not merely about religion; it's about humanity's quest for meaning, connection, and understandingone jar at a time.
+
+---
+
+### Related Pilgrimage Guides
+
+- [Shikoku 88 Temple Pilgrimage: Historic Pilgrimage Route](/routes/shikoku-88-temples)

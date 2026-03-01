@@ -46,3 +46,9 @@ The final form of the Old Testament canon, or the official list of books conside
 In the Christian tradition, the Old Testament is considered divinely inspired and seen as setting the stage for the coming of Jesus Christ in the New Testament. The process of canonization for the Christian Old Testament followed the Jewish example, with the addition of several books known as the Deuterocanonical or Apocryphal books in some Christian traditions.
  
 Overall, the composition and compilation of the Old Testament reflect the ancient Israelites' religious and cultural beliefs, as well as the collective wisdom and experiences of the Jewish people throughout their history. The texts in the Old Testament are seen as valuable for understanding the origins of Judaism and Christianity and provide a rich source of spiritual teachings and moral guidance.
+
+---
+
+### Related Pilgrimage Guides
+
+- [Rabbi Nachman's Journey to Israel](/stories/rabbi-nachman-journey-to-israel)

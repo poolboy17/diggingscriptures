@@ -146,3 +146,9 @@ Interpreting Biblical Archaeology Discoveries for Insight
 Discover Fascinating Biblical Archaeology Artifacts in Ancient Ruins
 Interpreting Biblical Archaeology Discoveries for Insight
 Discover Fascinating Biblical Archaeology Artifacts in Ancient Ruins
+
+---
+
+### Related Pilgrimage Guides
+
+- [How Pilgrims Ascended the Temple Mount in Ancient Jerusalem](/routes/temple-mount-ascent)

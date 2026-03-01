@@ -49,3 +49,9 @@ The discovery of the oldest biblical fragments sheds light on the early transmis
 Regarding specific biblical fragments, one notable discovery is the ancient silver amulets dating from the 6th-7th century B.C. that contain text from Numbers 6:22-27. These amulets provide a glimpse into how biblical verses were used in ancient Jewish practices. Moving forward in time, the oldest complete Old Covenant manuscript is the Book of Isaiah, dating back around 100 years B.C. This manuscript is important for understanding the preservation of the Old Covenant text over the centuries.
 
 Moving on to the New Covenant, the oldest fragment is P52, known as the John Rylands fragment, dating from A.D. 110-140 and containing portions of the Gospel of John. For complete New Covenant manuscripts, the Codex Sinaiticus, compiled around A.D. 350, stands out as an important find. These ancient biblical fragments and manuscripts play a key role in reconstructing the early versions of the texts and understanding the transmission of the biblical text throughout history.
+
+---
+
+### Related Pilgrimage Guides
+
+- [Shikoku 88 Temple Pilgrimage: Historic Pilgrimage Route](/routes/shikoku-88-temples)

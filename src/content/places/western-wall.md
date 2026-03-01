@@ -75,3 +75,10 @@ The Western Wall is located within the Old City, accessible through the Jaffa Ga
 - [Three Pilgrim Festivals of Judaism](/context/three-pilgrim-festivals-judaism) — The festivals that drove Temple-era pilgrimage
 
 </Fragment>
+
+---
+
+### Related Research
+
+- [Unraveling Ancient Jerusalem: a Deep Dive into the Temple](/research/excavations/ancient-jerusalem-street-reveals-temple-pilgrim-path)
+- [Ancient Jerusalem Marketplace Near Temple Unveiled](/research/excavations/ancient-jerusalem-marketplace-near-temple-unveiled)

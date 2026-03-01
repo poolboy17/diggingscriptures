@@ -140,3 +140,9 @@ Exploring Biblical Archaeology Discoveries
 Biblical Historical Sites Unveiled
 Exploring Biblical Archaeology Discoveries
 Biblical Historical Sites Unveiled
+
+---
+
+### Related Pilgrimage Guides
+
+- [How Pilgrims Ascended the Temple Mount in Ancient Jerusalem](/routes/temple-mount-ascent)

@@ -172,3 +172,9 @@ As we reflect on High Holy Psalms and the priests who circled the Ark of the Cov
 Engaging with High Holy Psalms today allows you to connect with your spiritual heritage while navigating the complexities of modern life. Just as the ancient priests found meaning and connection in their worship, you too can experience the soulful echoes of these timeless prayers.
  
 In essence, High Holy Psalms continue to offer a melodic prayer that resonates with your heart, inviting you to step into a sacred space where faith is both expressed and experienced. As you journey through your own spiritual narrative, remember the profound impact of these ancient melodies that still seek a place in your life today.
+
+---
+
+### Related Pilgrimage Guides
+
+- [How Pilgrims Ascended the Temple Mount in Ancient Jerusalem](/routes/temple-mount-ascent)

@@ -155,3 +155,9 @@ The arcane tapestry of the Dead Sea Scrolls continues to unravel through our col
 By immersing ourselves in the intriguing narratives represented by the scrolls, you engage not only with history but also with your understanding of spirituality and community.
  
 If layers of meaning await discovery, isnt it thrilling to think about who you might become in the light of this wisdom? The journey through the uncharted Qumran Passage has only sparked the beginning of endless questionsand perhaps, answerswaiting just around the corner.
+
+---
+
+### Related Pilgrimage Guides
+
+- [Shikoku 88 Temple Pilgrimage: Historic Pilgrimage Route](/routes/shikoku-88-temples)

@@ -79,3 +79,10 @@ Benjamin of Tudela's Sefer ha-Massa'ot (c. 1173) is the foundational medieval Je
 - [The Three Pilgrim Festivals of Judaism](/context/three-pilgrim-festivals-judaism) — The festival cycle that sustained pilgrimage memory
 
 </Fragment>
+
+---
+
+### Related Research
+
+- [Unraveling Ancient Jerusalem: a Deep Dive into the Temple](/research/excavations/ancient-jerusalem-street-reveals-temple-pilgrim-path)
+- [Ancient Temple Mount Discovery Shifts Biblical](/research/excavations/ancient-temple-mount-discovery-shifts-biblical-understanding)

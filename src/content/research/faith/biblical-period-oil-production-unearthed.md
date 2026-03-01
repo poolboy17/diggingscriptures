@@ -71,3 +71,9 @@ The archaeological uncovering of biblical period oil production sites offers a r
 As we continue to study and interpret these findings, we stand to gain greater insight into our past and, perhaps, carry its lessons forward into our modern world. Understanding how ancient societies innovated and thrived using what resources they had can inspire us as we navigate a complex future.
  
 Those with an interest in biblical history can further explore these findings through academic publications and attend discussions at upcoming archaeological symposiums, ensuring that the light these ancient oil passages once illuminated continues to burn brightly in the illuminating corridors of historical inquiry.
+
+---
+
+### Related Pilgrimage Guides
+
+- [Rabbi Nachman's Journey to Israel](/stories/rabbi-nachman-journey-to-israel)

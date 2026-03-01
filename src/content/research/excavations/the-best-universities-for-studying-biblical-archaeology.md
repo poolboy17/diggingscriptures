@@ -115,3 +115,9 @@ In addition to its academic programs, the University of Pennsylvania is home to 
 Conclusion:
 
 When it comes to studying biblical archaeology, these universities offer exceptional programs and resources that enable students to gain a comprehensive understanding of the field. From world-class faculty to extensive libraries and museums, these institutions provide the necessary tools and support for aspiring biblical archaeologists. Whether one's interest lies in the ancient Near East, the study of world religions, or the exploration of ancient civilizations, these universities offer a vibrant learning environment for pursuing studies in biblical archaeology.
+
+---
+
+### Related Pilgrimage Guides
+
+- [Jerusalem Old City: Sacred Pilgrimage Destination](/places/jerusalem-old-city)

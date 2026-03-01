@@ -75,3 +75,10 @@ Egeria's travel account survives in a single manuscript (the Codex Aretinus) and
 <!-- LAYER 3: Hydration pending -->
 
 </Fragment>
+
+---
+
+### Related Research
+
+- [Unraveling Ancient Jerusalem: a Deep Dive into the Temple](/research/excavations/ancient-jerusalem-street-reveals-temple-pilgrim-path)
+- [Ancient Jerusalem Marketplace Near Temple Unveiled](/research/excavations/ancient-jerusalem-marketplace-near-temple-unveiled)

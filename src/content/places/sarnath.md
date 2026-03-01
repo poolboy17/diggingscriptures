@@ -76,3 +76,10 @@ Most visitors base themselves in Varanasi, where accommodation ranges from budge
 - [Varanasi](/places/varanasi) — The neighboring Hindu holy city on the Ganges
 
 </Fragment>
+
+---
+
+### Related Research
+
+- [Temple Mount Secrets: Unearthing Hidden History with Advanced](/research/excavations/archaeological-scanning-unveils-temple-mount-secrets)
+- [Unearthing Ancient Jerusalem: a Glimpse into First Temples](/research/excavations/biblical-archaeology-first-temple-period-market-discovery)

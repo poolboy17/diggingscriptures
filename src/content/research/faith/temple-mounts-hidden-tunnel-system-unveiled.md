@@ -62,3 +62,9 @@ The unveiling of the Temple Mount's hidden tunnel system marks a significant mil
 In the meantime, you are invited to reflect on what these discoveries might mean for our current worldview and future explorations into ancient civilizations. It is a call to consider how the silent stories of the past can inform our present and guide our quest for knowledge.
  
 Let this new chapter in the storied history of the Temple Mount inspire your own explorations into the profound connections between our past and the possibilities it holds for the future.
+
+---
+
+### Related Pilgrimage Guides
+
+- [How Pilgrims Ascended the Temple Mount in Ancient Jerusalem](/routes/temple-mount-ascent)

@@ -131,3 +131,9 @@ In the grand tapestry of history, Ein Gedi holds a unique thread. From its ancie
 Reflecting on the past illuminates paths to the present, making it clear that the lessons learned from these discoveries are pertinent today. Its a harmonization of ancient practices with modern sensibilities, weaving continuity into the fabric of cultural identity.
  
 As you consider the implications of these findings, think about how they shape your understanding of history. What connections do you see between the stories of the past and the realities of today? The treasures of Ein Gedi remind us that history is not just a distant story; its an ongoing dialogue that calls for your engagement and reflection.
+
+---
+
+### Related Pilgrimage Guides
+
+- [Rabbi Nachman's Journey to Israel](/stories/rabbi-nachman-journey-to-israel)

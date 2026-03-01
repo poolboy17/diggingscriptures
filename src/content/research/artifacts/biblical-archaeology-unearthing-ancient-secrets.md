@@ -91,3 +91,9 @@ A: Biblical Archaeology can reveal details about daily life, trade routes, relig
 #### Q: How does Biblical Archaeology contribute to our knowledge of the Bible?
 
 A: Biblical Archaeology contributes to our knowledge of the Bible by providing tangible evidence that supports the historical accuracy of biblical accounts, clarifies ambiguous passages, and offers cultural and historical context to enhance interpretation and understanding of the scriptures.
+
+---
+
+### Related Pilgrimage Guides
+
+- [Shikoku 88 Temple Pilgrimage: Historic Pilgrimage Route](/routes/shikoku-88-temples)

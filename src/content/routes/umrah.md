@@ -77,3 +77,10 @@ Ramadan is the peak season for Umrah. The Prophet Muhammad stated that performin
 <!-- LAYER 3: Hydration pending -->
 
 </Fragment>
+
+---
+
+### Related Research
+
+- [Exploring Ancient Jerusalem: Pilgrim Routes Unearthed](/research/excavations/exploring-ancient-jerusalem-pilgrim-routes-unearthed)
+- [Mountaintop Shrine: the Sacred Journey in Biblical Archaeology](/research/faith/mountaintop-shrine-pilgrims-seek-echoes-of-the-arks-holiness)

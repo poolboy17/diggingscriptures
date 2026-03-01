@@ -75,3 +75,10 @@ The Hajj remains a profoundly equalizing experience. When pilgrims don the white
 This site examines Islamic pilgrimage traditions with the same scholarly rigor applied to all faith traditions. Content covers the major sacred sites of Islam, the historical development of pilgrimage practices, and the stories of notable Muslim travelers and pilgrims. The approach is descriptive and respectful, presenting Islamic traditions as understood by their practitioners while maintaining analytical perspective.
 
 Readers will find detailed articles on Mecca, Medina, and the Dome of the Rock as pilgrimage destinations, along with an examination of the Hajj route and its rituals. Stories of historical figures like Ibn Battuta illuminate the lived experience of Islamic pilgrimage across centuries. Background articles provide context on the Five Pillars and the theological foundations that make pilgrimage central to Islamic practice.
+
+---
+
+### Related Research
+
+- [Unraveling Ancient Jerusalem: a Deep Dive into the Temple](/research/excavations/ancient-jerusalem-street-reveals-temple-pilgrim-path)
+- [Jerusalem Temple Foundations Finally Discovered](/research/excavations/jerusalem-temple-foundations-finally-discovered)

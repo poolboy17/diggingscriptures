@@ -70,3 +70,10 @@ Victor Turner and Edith Turner, *Image and Pilgrimage in Christian Culture* (197
 <!-- LAYER 3: Hydration pending -->
 
 </Fragment>
+
+---
+
+### Related Research
+
+- [Mountaintop Shrine: the Sacred Journey in Biblical Archaeology](/research/faith/mountaintop-shrine-pilgrims-seek-echoes-of-the-arks-holiness)
+- [Exploring Ancient Jerusalem: Pilgrim Routes Unearthed](/research/excavations/exploring-ancient-jerusalem-pilgrim-routes-unearthed)

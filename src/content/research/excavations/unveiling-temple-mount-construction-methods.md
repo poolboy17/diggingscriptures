@@ -74,3 +74,9 @@ Current research on the Temple Mount's construction is ongoing, with scholars an
 In summary, the Temple Mount's construction methods have been a subject of fascination for generations, enriching our knowledge of history and faith. The monumental effort required to construct this site speaks to the ingenuity and dedication of its creators. As research progresses, we anticipate more discoveries that will shed light on this remarkable structure.
  
 For those interested in further exploring this topic, engage with recent archaeological publications or visit exhibitions showcasing the latest findings. Your understanding and appreciation of the Temple Mount will undoubtedly deepen as you continue to uncover its secrets.
+
+---
+
+### Related Pilgrimage Guides
+
+- [How Pilgrims Ascended the Temple Mount in Ancient Jerusalem](/routes/temple-mount-ascent)

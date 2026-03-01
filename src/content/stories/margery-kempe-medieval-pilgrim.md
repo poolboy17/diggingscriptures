@@ -65,3 +65,10 @@ Margery Kempe remains a figure who resists comfortable categorization. She was a
 - [Christian Pilgrimage Traditions](/journeys/christian-pilgrimage-traditions) — The tradition within which Margery traveled
 
 </Fragment>
+
+---
+
+### Related Research
+
+- [Exploring Ancient Jerusalem: Pilgrim Routes Unearthed](/research/excavations/exploring-ancient-jerusalem-pilgrim-routes-unearthed)
+- [Unraveling Ancient Jerusalem: a Deep Dive into the Temple](/research/excavations/ancient-jerusalem-street-reveals-temple-pilgrim-path)

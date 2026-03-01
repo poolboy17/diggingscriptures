@@ -106,3 +106,9 @@ As we wrap up this exploration of the Jordan Slope Stone, you're left with a dee
 Understanding the connection between these ancient texts and modern practices enriches your perspective, reminding you that the pursuit of meaning and connection transcends time. Through exploring artifacts like the Jordan Slope Stone, youre not just uncovering history; you're participating in a conversation that has echoed through the ages, reminding you of the universality of faith, struggle, and community.
  
 In the end, the Jordan Slope Stone stands as a beautiful testament to the aspirations, voices, and experiences of those who walked the earth before you, proving that their echoes can still be heard today, inviting personal reflection and shared spirituality.
+
+---
+
+### Related Pilgrimage Guides
+
+- [Rabbi Nachman's Journey to Israel](/stories/rabbi-nachman-journey-to-israel)

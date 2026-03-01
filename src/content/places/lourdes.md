@@ -83,3 +83,10 @@ Accommodation ranges from hotels along the commercial boulevards to religious gu
 - [Relics and Sacred Objects](/context/relics-and-sacred-objects) — The material culture of pilgrimage devotion
 
 </Fragment>
+
+---
+
+### Related Research
+
+- [Exploring Ancient Jerusalem: Pilgrim Routes Unearthed](/research/excavations/exploring-ancient-jerusalem-pilgrim-routes-unearthed)
+- [Mountaintop Shrine: the Sacred Journey in Biblical Archaeology](/research/faith/mountaintop-shrine-pilgrims-seek-echoes-of-the-arks-holiness)

@@ -128,3 +128,9 @@ Throughout this exploration of Jesus in the Old Testament, we have seen the unde
 ### Concluding thoughts on understanding Jesus in the light of the Old Testament
  
 Understanding Jesus in the light of the Old Testament provides a holistic perspective on His life, teachings, and purpose. It reveals the continuity of God's plan throughout history and demonstrates the faithfulness of God in fulfilling His promises. As believers, this understanding strengthens our faith and deepens our appreciation for the unity of Scripture and the remarkable work of redemption accomplished by Jesus Christ.
+
+---
+
+### Related Pilgrimage Guides
+
+- [Rabbi Nachman's Journey to Israel](/stories/rabbi-nachman-journey-to-israel)

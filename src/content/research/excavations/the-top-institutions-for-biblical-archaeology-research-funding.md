@@ -157,3 +157,9 @@ Through its grants program, The American Society of the University of Haifa prov
 To be eligible for funding from The American Society of the University of Haifa, researchers must demonstrate their expertise in the field of biblical archaeology and present a compelling research proposal that aligns with the society's mission of supporting research and scholarship in the ancient Near East.
 
 In conclusion, there are numerous institutions that offer grants and funding opportunities for researchers in the field of biblical archaeology. These institutions recognize the importance of uncovering the ancient world and understanding its connections to biblical narratives. By providing financial support, they enable scholars to undertake excavation projects, conduct laboratory analysis, and publish their findings, contributing to the advancement of knowledge in this fascinating field of research.
+
+---
+
+### Related Pilgrimage Guides
+
+- [Shikoku 88 Temple Pilgrimage: Historic Pilgrimage Route](/routes/shikoku-88-temples)

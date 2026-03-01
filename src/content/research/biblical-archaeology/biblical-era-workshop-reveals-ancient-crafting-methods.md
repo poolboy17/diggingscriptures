@@ -72,3 +72,9 @@ Approximately 125 words
 In summation, the revelation of crafting methods from a biblical-era workshop underscores the profound relationship between archaeology and ancient texts. These findings not only provide a tangible link to the past but also serve as a foundation for further exploration in the field of biblical archaeology. As research progresses, the potential for new discoveries remains vast, offering exciting possibilities for scholars and enthusiasts alike.
  
 As we look to the future, the call to engage with these ancient worlds resonates more than ever. Whether through visits to archaeological sites, supporting ongoing research, or simply cultivating an interest in history, each step contributes to the broader understanding and appreciation of our shared cultural heritage.
+
+---
+
+### Related Pilgrimage Guides
+
+- [Shikoku 88 Temple Pilgrimage: Historic Pilgrimage Route](/routes/shikoku-88-temples)

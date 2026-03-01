@@ -139,3 +139,9 @@ As you wrap your mind around these intricate connections, it becomes clear that 
 By demanding that we engage with the ethical teachings of the past, we're nudged toward considering our role in the societal fabric. So, what will you do with these ancient lessons? Perhaps its time to reflect on your ethical commitments and how they echo the timeless wisdom found in the corridors of ancient cities.
  
 In conclusion, the inquiries of the past are not just whispers in the wind; they are calls to actionguiding us toward a more just and principled society.
+
+---
+
+### Related Pilgrimage Guides
+
+- [Shikoku 88 Temple Pilgrimage: Historic Pilgrimage Route](/routes/shikoku-88-temples)

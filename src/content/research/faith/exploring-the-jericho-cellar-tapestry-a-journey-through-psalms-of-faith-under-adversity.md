@@ -149,3 +149,9 @@ In reflecting on the Jericho Cellar Tapestry, you discover a rich tradition enco
 Faith amidst adversity is a universal theme that transcends time and cultures. The Psalms resonate with your own life experiences and encourage you to consider your stories of struggle and triumph. Just like those who have come before you, your journey matters, interlacing your life into the grand tapestry of human experience.
  
 As you think about the ancient voices, remember that your story contributes to the ongoing narrative of hope and steadfastness demonstrated through the ages. The Jericho Cellar Tapestry ultimately reminds you of the beauty found in faith during even the most challenging moments, weaving together a legacy worth sharing with those who walk alongside you on this journey.
+
+---
+
+### Related Pilgrimage Guides
+
+- [Rabbi Nachman's Journey to Israel](/stories/rabbi-nachman-journey-to-israel)

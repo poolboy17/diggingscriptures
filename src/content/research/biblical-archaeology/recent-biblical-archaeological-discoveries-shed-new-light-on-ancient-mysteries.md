@@ -128,3 +128,9 @@ Biblical Archaeology Excavation Projects Unearth Ancient Wonders
 Unveiling Remarkable Biblical Archaeology Discoveries List
 Biblical Archaeology Excavation Projects Unearth Ancient Wonders
 Unveiling Remarkable Biblical Archaeology Discoveries List
+
+---
+
+### Related Pilgrimage Guides
+
+- [How Pilgrims Ascended the Temple Mount in Ancient Jerusalem](/routes/temple-mount-ascent)

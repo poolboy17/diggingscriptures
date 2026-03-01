@@ -445,3 +445,9 @@ Biblical Archaeology & Dead Sea Scrolls | Pillar Page
       layers of richness to the biblical narrative. And so, the search continuesdigging deeper,
       reading further, and ever seeking the ancient voice echoing through desert caves and fortified
       hills.
+
+---
+
+### Related Pilgrimage Guides
+
+- [Shikoku 88 Temple Pilgrimage: Historic Pilgrimage Route](/routes/shikoku-88-temples)

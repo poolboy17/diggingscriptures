@@ -70,3 +70,9 @@ In summary, the unveiling of archaeological maps of ancient Jerusalem presents a
 In this ever-evolving tapestry, we find that each discovery enriches not only the annals of history but reaffirms the eternal quest for knowledgea pursuit that belongs to all of us.
  
 Finding the balance of modern technology and the past, these efforts serve as the golden thread weaving the narrative of ancient life into today's fabric, urging us to preserve the stories yet to be told.
+
+---
+
+### Related Pilgrimage Guides
+
+- [How Pilgrims Ascended the Temple Mount in Ancient Jerusalem](/routes/temple-mount-ascent)

@@ -112,3 +112,9 @@ Reflecting on the Wall Niche offers you a window into understanding the broader 
 Taking cues from both antiquity and contemporary society, youre encouraged to foster discussions surrounding ethics in authority. Collectively applying these lessons can contribute to a more transparent, ethical future.
  
 In considering your place within society, remember that just like the materials used to construct those ancient walls, your actions can help shape the moral grounds of your community. By holding yourself and your leaders accountable, you can become a part of the legacy that enriches the fabric of societya society that learns from the past, looks towards the future, and, like the Wall Niche, stands sturdy against the winds of corruption.
+
+---
+
+### Related Pilgrimage Guides
+
+- [Jerusalem Old City: Sacred Pilgrimage Destination](/places/jerusalem-old-city)

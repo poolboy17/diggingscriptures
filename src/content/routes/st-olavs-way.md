@@ -85,3 +85,10 @@ The St. Olav's Way's integration into the Council of Europe's network of Cultura
 - [Pilgrimage and Tourism in the Modern Era](/context/pilgrimage-tourism-modern-era) — Contemporary pilgrimage route development
 
 </Fragment>
+
+---
+
+### Related Research
+
+- [Exploring Ancient Jerusalem: Pilgrim Routes Unearthed](/research/excavations/exploring-ancient-jerusalem-pilgrim-routes-unearthed)
+- [Mountaintop Shrine: the Sacred Journey in Biblical Archaeology](/research/faith/mountaintop-shrine-pilgrims-seek-echoes-of-the-arks-holiness)

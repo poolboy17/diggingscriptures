@@ -101,3 +101,9 @@ The Qumran Stairway and Sunken Room present a narrative rich with historical sig
 Through the lens of the Qumran community, you can appreciate the value of sacred spaces, communal rituals, and intentionality in daily livinga legacy that appears more relevant than ever.
  
 Connecting ancient understandings to modern spirituality can provide pathways for growth, reminding you that your own ascentwhether literal or metaphoricalis as significant today as it was thousands of years ago. The ancient world of Qumran still whispers truths worth listening to, encouraging a continual reflection on the sacredness of our own journeys.
+
+---
+
+### Related Pilgrimage Guides
+
+- [How Pilgrims Ascended the Temple Mount in Ancient Jerusalem](/routes/temple-mount-ascent)

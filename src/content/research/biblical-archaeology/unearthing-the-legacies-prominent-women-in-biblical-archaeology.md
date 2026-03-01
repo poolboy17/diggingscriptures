@@ -117,3 +117,9 @@ Women are at the forefront of embracing these advancements and incorporating dig
 One of the most important aspects for the future of women in biblical archaeology is the empowerment of the next generation of female archaeologists. Providing young women with access to quality education, mentorship, and equal opportunities from the early stages of their careers is crucial for the field's continued growth.
 
 Efforts are being made to inspire and support young women in pursuing careers in biblical archaeology. Educational programs, workshops, and summer field schools specifically designed for young female archaeologists are being organized to provide hands-on experience and networking opportunities. By empowering and encouraging the next generation, we can ensure that women's contributions to biblical archaeology will continue to shape our understanding of the past.
+
+---
+
+### Related Pilgrimage Guides
+
+- [Rabbi Nachman's Journey to Israel](/stories/rabbi-nachman-journey-to-israel)

@@ -131,3 +131,9 @@ Exploring the Wonders of Biblical Archaeology Exploration
 The Significance of Biblical Archaeology
 Exploring the Wonders of Biblical Archaeology Exploration
 The Significance of Biblical Archaeology
+
+---
+
+### Related Pilgrimage Guides
+
+- [Relics and Sacred Objects: Pilgrimage History & Context](/context/relics-and-sacred-objects)

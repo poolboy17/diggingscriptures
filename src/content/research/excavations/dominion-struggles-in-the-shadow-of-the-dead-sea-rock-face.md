@@ -131,3 +131,9 @@ Contemporary theologians continue to grapple with the themes found within the De
 As you wrap your mind around the struggles for dominion in the shadow of the Dead Sea rock face, consider the rich history that frames the region. From biblical accounts to archaeological finds, the threads of power and control knit together a complex narrative that resonates through the ages.
  
 This land tells tales of human ambition, resilient faith, and the ongoing quest for authorityone that has shaped not only its past but continues to influence its present. Take this moment to reflect on how these ancient echoes enrich your understanding of modern dominion struggles, intertwining history, culture, and faith into a tapestry that is as relevant today as it was centuries ago.
+
+---
+
+### Related Pilgrimage Guides
+
+- [Rabbi Nachman's Journey to Israel](/stories/rabbi-nachman-journey-to-israel)

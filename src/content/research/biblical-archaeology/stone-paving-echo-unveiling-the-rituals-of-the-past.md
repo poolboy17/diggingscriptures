@@ -109,3 +109,9 @@ As you think back on the discussions around the true purpose of these ancient pr
 In this light, your exploration of stone paving and the rituals of the past is not merely an academic pursuit but a journey into understanding ourselves.
  
 So, what echoes might you hear calling from the past? How can those whispers inform your present? The stories woven into stone continue to resonate, inviting you to listen, reflect, and perhaps even participate in the age-old dance of human connection.
+
+---
+
+### Related Pilgrimage Guides
+
+- [Jerusalem Old City: Sacred Pilgrimage Destination](/places/jerusalem-old-city)

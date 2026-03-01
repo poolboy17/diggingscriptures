@@ -144,3 +144,9 @@ Starting your own journey towards liberation often begins with a shift in mindse
 In the grand tapestry of history, the desert and the hostel symbolize the eternal struggle for liberation. They remind us that while the path may be fraught with challenges, it is through understanding, education, and community that we find our way towards freedom.
  
 As a modern seeker, you have the power to shape your journey. The teachings of the desert hostel, woven with the threads of history and spirituality, continue to guide you toward a greater understanding of liberation. So, the next time you think of a desert, consider not only the physical space but also what it represents for the human spirit. Your adventure from the confines of societal norms to the expansive expanse of personal freedom can be transformativeboth for yourself and for those you inspire along the way.
+
+---
+
+### Related Pilgrimage Guides
+
+- [Hebron and the Cave of the Patriarchs — Sacred Guide](/places/hebron-cave-patriarchs)

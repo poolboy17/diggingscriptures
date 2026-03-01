@@ -123,3 +123,9 @@ When we unravel the strands of history, geography, and prophecy tied to the mona
 In this age of fast-paced information, the reflective practice rooted in monastic traditions serves as a reminder of the slow, deliberate path towards spiritual understanding. Whether through the mystique of the desert, the wisdom of the Dead Sea Scrolls, or the profound significance of the Ark of the Covenant, the prophetic insights remain as relevant now as they ever were.
  
 So, what happens when you connect these ancient stories to your modern life? You may find that the wisdom contained within those humble chests holds the key to unlocking deeper truths about yourself and your place in the world.
+
+---
+
+### Related Pilgrimage Guides
+
+- [Rabbi Nachman's Journey to Israel](/stories/rabbi-nachman-journey-to-israel)

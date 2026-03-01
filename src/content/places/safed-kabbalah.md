@@ -75,3 +75,10 @@ The Lag BaOmer celebration at Mount Meron (a short drive from Safed) occurs in l
 - [Rabbi Nachman's Journey to Israel](/stories/rabbi-nachman-journey-to-israel) — A later mystical figure influenced by Safed's legacy
 
 </Fragment>
+
+---
+
+### Related Research
+
+- [Exploring Ancient Jerusalem: Pilgrim Routes Unearthed](/research/excavations/exploring-ancient-jerusalem-pilgrim-routes-unearthed)
+- [Unraveling Ancient Jerusalem: a Deep Dive into the Temple](/research/excavations/ancient-jerusalem-street-reveals-temple-pilgrim-path)

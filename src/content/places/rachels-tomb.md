@@ -77,3 +77,10 @@ Transportation from Jerusalem is available by bus (lines serving the Gush Etzion
 - [Rabbi Nachman's Journey to Israel](/stories/rabbi-nachman-journey-to-israel) — A pilgrimage story driven by longing for the Holy Land
 
 </Fragment>
+
+---
+
+### Related Research
+
+- [Exploring Ancient Jerusalem: Pilgrim Routes Unearthed](/research/excavations/exploring-ancient-jerusalem-pilgrim-routes-unearthed)
+- [Unveiling Truths: Ancient Jerusalem Palace Discovery Sparks](/research/excavations/ancient-jerusalem-palace-unearthed-sparks-biblical-interest)

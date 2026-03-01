@@ -74,3 +74,9 @@ Current research is vibrant and ongoing, with scholars and archaeologists focusi
 The advent of remote sensing has unlocked the door to a deeper understanding of biblical history, revealing towns once shrouded in myth and obscurity. These discoveries challenge existing notions, compelling us to reassess our historical and spiritual understandings. As research progresses, it beckons both scholars and laypeople to remain engaged and curious. Ultimately, remote sensing not only reshapes our knowledge of the past but also sets a new course for future explorations, inviting us to imagine what other lost tales still lie hidden, waiting to be discovered.
  
 Join the conversation. What do you think will be uncovered next? The realm of remote sensing may just hold the key.
+
+---
+
+### Related Pilgrimage Guides
+
+- [Rabbi Nachman's Journey to Israel](/stories/rabbi-nachman-journey-to-israel)

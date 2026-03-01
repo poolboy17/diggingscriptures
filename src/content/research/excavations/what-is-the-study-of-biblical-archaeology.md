@@ -55,3 +55,9 @@ The evolution of biblical archaeology towards the incorporation of advanced tech
 - The impact of biblical archaeology extends beyond academia, influencing public perceptions of the Bible's historical narratives and relevance in modern society.
 - Continued research in biblical archaeology aims to uncover new evidence supporting biblical accounts, shedding light on previously obscure aspects of ancient cultures.
 - The integration of advanced technology and interdisciplinary collaborations not only advances archaeological methods but also contributes to the broader field of biblical studies, deepening our appreciation of the interconnectedness between archaeology, history, and theology.
+
+---
+
+### Related Pilgrimage Guides
+
+- [Rabbi Nachman's Journey to Israel](/stories/rabbi-nachman-journey-to-israel)

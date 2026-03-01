@@ -78,3 +78,10 @@ The diaspora has created new pilgrimage contexts. Buddhist temples and meditatio
 This site covers Buddhist pilgrimage as part of its multi-tradition approach to sacred journeys. Detailed articles examine Bodh Gaya, Lumbini, and Mount Koya as pilgrimage destinations. Route articles describe the Shikoku 88 Temples circuit, the kora around Mount Kailash, and the Kumano Kodo trails. The story of Xuanzang, the seventh-century Chinese monk whose sixteen-year journey to India and back became one of the most celebrated pilgrimages in world history, illuminates the tradition of Buddhist scholarly pilgrimage.
 
 Background articles on the Four Sacred Sites and the theological foundations of Buddhist pilgrimage practice provide context for understanding these journeys within their religious and cultural frameworks.
+
+---
+
+### Related Research
+
+- [Unearth Secrets of Ancient Temples: a Journey into Biblical](/research/biblical-archaeology/biblical-archaeology-discovering-ancient-temple-sites)
+- [The Unearthing of Ancient Temples: a Biblical Archaeological](/research/biblical-archaeology/the-unearthing-of-ancient-temples-a-biblical-archaeological-expedition)

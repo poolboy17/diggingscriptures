@@ -159,3 +159,9 @@ Yes, many universities offer specialized courses, some even available online, fo
 Most reputable online platforms offer free access, although some academic tools or curated collections might have subscription fees.
  
 With this guide, you're now equipped to embark on your exploration journey into biblical manuscripts online. Whether for academic research, personal interest, or spiritual growth, these texts offer rich insights into the past, waiting to inspire and illuminate the present.
+
+---
+
+### Related Pilgrimage Guides
+
+- [Shikoku 88 Temple Pilgrimage: Historic Pilgrimage Route](/routes/shikoku-88-temples)

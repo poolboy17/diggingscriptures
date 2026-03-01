@@ -113,3 +113,9 @@ Historical Bible Evidence Unveiled
 Biblical Archaeology Uncovers Ancient Mysteries
 Historical Bible Evidence Unveiled
 Biblical Archaeology Uncovers Ancient Mysteries
+
+---
+
+### Related Pilgrimage Guides
+
+- [Shikoku 88 Temple Pilgrimage: Historic Pilgrimage Route](/routes/shikoku-88-temples)

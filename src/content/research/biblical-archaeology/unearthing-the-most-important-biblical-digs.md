@@ -138,3 +138,9 @@ Biblical Historical Sites Unveiled
 Unveiling Biblical Archaeological Finds: Discovering Ancient Treasures
 Biblical Historical Sites Unveiled
 Unveiling Biblical Archaeological Finds: Discovering Ancient Treasures
+
+---
+
+### Related Pilgrimage Guides
+
+- [Jerusalem Old City: Sacred Pilgrimage Destination](/places/jerusalem-old-city)

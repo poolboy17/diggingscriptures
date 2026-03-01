@@ -142,3 +142,9 @@ While major discoveries are less common today, the possibility of unidentified m
 ### What role does technology play in preserving biblical texts today?
  
 Technology, particularly digital imaging, enables clearer visualization of faded texts and greater access to scholars worldwide, aiding preservation and study.
+
+---
+
+### Related Pilgrimage Guides
+
+- [Jerusalem Old City: Sacred Pilgrimage Destination](/places/jerusalem-old-city)

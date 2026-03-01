@@ -141,3 +141,9 @@ The Fallen Stones of Ein Gedi stand as eternal markers of hope in the arid lands
 By understanding their historical context, theological implications, and cultural legacy, you gain more than just knowledge; you gain a sense of connection to humanity's enduring quest for hope.
  
 As you navigate through your own deserts, may the stories of these fallen stones inspire you to find your oasis and remind you that hope, indeed, can thriveeven in the harshest landscapes.
+
+---
+
+### Related Pilgrimage Guides
+
+- [Rabbi Nachman's Journey to Israel](/stories/rabbi-nachman-journey-to-israel)

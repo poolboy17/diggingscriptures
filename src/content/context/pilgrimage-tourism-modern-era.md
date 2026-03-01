@@ -89,3 +89,10 @@ Erik Cohen's foundational work on pilgrim-tourist typologies appears in "Pilgrim
 - [Abraham Path](/routes/abraham-path) — A contemporary route designed for interfaith cultural exchange
 
 </Fragment>
+
+---
+
+### Related Research
+
+- [Temple Objects Reveal Ancient Ritual Practices](/research/faith/temple-objects-reveal-ancient-ritual-practices)
+- [Temple Artifacts Reveal Ancient Worship Practices](/research/artifacts/temple-artifacts-reveal-ancient-worship-practices)

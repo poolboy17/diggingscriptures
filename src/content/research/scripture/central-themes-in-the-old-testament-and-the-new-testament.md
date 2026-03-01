@@ -146,3 +146,9 @@ The New Testament introduces new figures, the most prominent being Jesus Christ 
 Analyzing the role and significance of these figures allows us to see the interconnectedness of the biblical narrative and the themes of faith, redemption, and the unfolding plan of God. The figures in the Old Testament foreshadow and prefigure the coming of Jesus and the realization of God's plan of salvation. Understanding their narrative arcs across the Testaments provides continuity and cohesiveness to the biblical message and encourages believers to follow their example of faith, obedience, and perseverance.
  
 In conclusion, the figures in the Old Testament and the New Testament play pivotal roles, contributing to the overarching narrative and serving as examples for believers. Identifying and analyzing these figures allows for a deeper understanding of the biblical message and its relevance to our lives today.
+
+---
+
+### Related Pilgrimage Guides
+
+- [Rabbi Nachman's Journey to Israel](/stories/rabbi-nachman-journey-to-israel)

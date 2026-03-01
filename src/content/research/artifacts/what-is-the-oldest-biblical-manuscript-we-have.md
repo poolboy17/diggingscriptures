@@ -55,3 +55,9 @@ The Codex Sinaiticus stands as an important resource for scholars, historians, a
 Dating back to around A.D. 110-140, P52 stands as one of the earliest surviving New Scripture manuscripts, offering valuable insights into the early circulation of Gospel texts. This fragment, a piece of the Gospel of John, contains portions of John 18:31-34 and 18:37-38. Discovered in Egypt, P52 is now housed at the John Rylands Library in Manchester, UK. The small size of P52, approximately 3.5 by 2.5 inches, coupled with its early date, makes it a significant piece of evidence for understanding the transmission of New Scripture texts in the early Christian era.
 **P52: Oldest New Scripture Manuscript****Manuscript Name**P52**Fragment Content**Gospel of John**Date**A.D. 110-140**Discovery Location**Egypt**Current Repository**John Rylands Library
 Scholars consider P52 a critical piece of evidence for establishing the reliability and early dating of the Gospel of John. Its existence close to the time of the original composition of the New Scripture texts adds weight to the argument for the accuracy of the biblical manuscripts we have today. P52's presence in the John Rylands Library allows researchers and historians to study and analyze this early Christian artifact, shedding light on the transmission and preservation of biblical texts in the formative years of Christianity.
+
+---
+
+### Related Pilgrimage Guides
+
+- [Jerusalem Old City: Sacred Pilgrimage Destination](/places/jerusalem-old-city)

@@ -154,3 +154,9 @@ The New Testament's teachings on worship continue to influence contemporary Chri
 ### The impact of the New Testaments teachings on worship for various Christian denominations
  
 The New Testament's teachings on worship have had a significant impact on various Christian denominations. Different denominations have interpreted and applied these teachings in diverse ways, resulting in a rich tapestry of worship practices. Some denominations emphasize structured liturgy, incorporating elements such as the Eucharist, creeds, and set prayers. Others focus on the spontaneity and freedom of worship through charismatic expressions, including contemporary music and spiritual manifestations. The New Testament's teachings have contributed to the diversity and unity of worship within the worldwide Christian community.
+
+---
+
+### Related Pilgrimage Guides
+
+- [Shikoku 88 Temple Pilgrimage: Historic Pilgrimage Route](/routes/shikoku-88-temples)

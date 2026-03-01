@@ -86,3 +86,10 @@ Unlike the Camino de Santiago, the Shikoku Pilgrimage has no central administrat
 - [Kōbō Daishi and the Shikoku Circuit](/stories/kobo-daishi-shikoku) — The founder's story and the pilgrimage he inspired
 
 </Fragment>
+
+---
+
+### Related Research
+
+- [Temple Artifacts Reveal Ancient Worship Practices](/research/artifacts/temple-artifacts-reveal-ancient-worship-practices)
+- [Unraveling Ancient Jerusalem: a Deep Dive into the Temple](/research/excavations/ancient-jerusalem-street-reveals-temple-pilgrim-path)

@@ -111,3 +111,9 @@ Exploring Biblical Archaeology Methods in Ancient Sites
 Historical Bible Evidence Unveiled
 Exploring Biblical Archaeology Methods in Ancient Sites
 Historical Bible Evidence Unveiled
+
+---
+
+### Related Pilgrimage Guides
+
+- [Relics and Sacred Objects: Pilgrimage History & Context](/context/relics-and-sacred-objects)

@@ -188,3 +188,9 @@ Unearthing Ancient Mysteries: Biblical Sites Excavation
 Exciting Biblical Archaeology Excavation Discoveries Unveiled
 Unearthing Ancient Mysteries: Biblical Sites Excavation
 Exciting Biblical Archaeology Excavation Discoveries Unveiled
+
+---
+
+### Related Pilgrimage Guides
+
+- [Shikoku 88 Temple Pilgrimage: Historic Pilgrimage Route](/routes/shikoku-88-temples)

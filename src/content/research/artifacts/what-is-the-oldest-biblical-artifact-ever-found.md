@@ -59,3 +59,9 @@ Dating back to around 600-700 B.C.E., the Ketef Hinnom silver scrolls stand as t
 The silver scrolls are a witness to the early preservation of biblical texts, dating back to a critical period. Being among the earliest texts containing biblical verses, they shed light on the religious beliefs and practices of ancient times. The scrolls offer a glimpse into the way biblical scriptures were revered and safeguarded in antiquity.
 
 The discovery of the Ketef Hinnom silver scrolls near Jerusalem is a milestone in biblical archaeology. The scrolls' content, particularly the Priestly Blessing from the Book of Numbers, adds to our understanding of the religious traditions of the period. Their existence underscores the enduring significance of biblical texts and their meticulous preservation throughout history.
+
+---
+
+### Related Pilgrimage Guides
+
+- [Jerusalem Old City: Sacred Pilgrimage Destination](/places/jerusalem-old-city)

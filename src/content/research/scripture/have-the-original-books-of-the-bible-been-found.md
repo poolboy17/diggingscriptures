@@ -59,3 +59,9 @@ The utilization of virtual unwrapping technology funded by Google and the U.S. N
 - The release of this technology as open-source software opens doors for wider accessibility and collaborative research in the field of manuscript analysis.
 
 This innovative approach not only allows for a deeper investigation into the New Scripture books and other ancient texts but also contributes to the evolving science of textual criticism. The application of virtual unwrapping technology signifies a paradigm shift in the study of ancient manuscripts, promising a wealth of discoveries and revelations yet to be disclosed.
+
+---
+
+### Related Pilgrimage Guides
+
+- [Rabbi Nachman's Journey to Israel](/stories/rabbi-nachman-journey-to-israel)

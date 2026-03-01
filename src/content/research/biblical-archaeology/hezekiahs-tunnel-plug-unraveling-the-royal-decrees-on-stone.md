@@ -114,3 +114,9 @@ This focus on ongoing research allows for a continual fresh lens on ancient hist
 Hezekiahs Tunnel and its associated findings underscore the intricate tapestry of faith, leadership, and engineering that shaped ancient Jerusalem. By intertwining scripture with archaeological evidence, you're invited to consider the rich complexity of Hezekiah's reign.
  
 As you ponder these insights, remember that the ancient world continues to echo through modern times. The physical remnants of Hezekiahs era offer more than just a glimpse into the past; they allow for a continuous dialogue between ancient wisdom and contemporary understanding.
+
+---
+
+### Related Pilgrimage Guides
+
+- [Jerusalem Old City: Sacred Pilgrimage Destination](/places/jerusalem-old-city)

@@ -64,3 +64,10 @@ The modern revival of the Shikoku Pilgrimage, with its growing international par
 - [Buddhist Pilgrimage Paths](/journeys/buddhist-pilgrimage-paths) — The broader tradition of Buddhist sacred travel
 
 </Fragment>
+
+---
+
+### Related Research
+
+- [Unraveling Ancient Jerusalem: a Deep Dive into the Temple](/research/excavations/ancient-jerusalem-street-reveals-temple-pilgrim-path)
+- [Temple Mount Secrets: Unearthing Hidden History with Advanced](/research/excavations/archaeological-scanning-unveils-temple-mount-secrets)

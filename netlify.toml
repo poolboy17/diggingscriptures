@@ -21,4 +21,64 @@
     Cache-Control = "public, max-age=31536000, immutable"
     Vary = "Accept"
 
-# No redirects needed — static site with directory-based routing
+# 301 redirects — old WordPress URLs still indexed by Google
+[[redirects]]
+  from = "/the-ultimate-beginners-guide-to-biblical-archaeology/"
+  to = "/research/biblical-archaeology/the-ultimate-beginners-guide-to-biblical-archaeology/"
+  status = 301
+
+[[redirects]]
+  from = "/were-the-new-testament-books-written-in-hebrew/"
+  to = "/research/scripture/were-the-new-testament-books-written-in-hebrew/"
+  status = 301
+
+[[redirects]]
+  from = "/continuity-and-discontinuity-the-relationship-between-the-old-testament-and-the-new-testament/"
+  to = "/research/scripture/continuity-and-discontinuity-the-relationship-between-the-old-testament-and-the-new-testament/"
+  status = 301
+
+[[redirects]]
+  from = "/is-the-ethiopian-bible-the-most-accurate/"
+  to = "/research/scripture/is-the-ethiopian-bible-the-most-accurate/"
+  status = 301
+
+[[redirects]]
+  from = "/what-is-the-difference-between-the-ethiopian-bible-and-the-bible/"
+  to = "/research/scripture/what-is-the-difference-between-the-ethiopian-bible-and-the-bible/"
+  status = 301
+
+[[redirects]]
+  from = "/how-many-times-has-the-bible-been-changed/"
+  to = "/research/scripture/how-many-times-has-the-bible-been-changed/"
+  status = 301
+
+# Also handle without trailing slash
+[[redirects]]
+  from = "/the-ultimate-beginners-guide-to-biblical-archaeology"
+  to = "/research/biblical-archaeology/the-ultimate-beginners-guide-to-biblical-archaeology/"
+  status = 301
+
+[[redirects]]
+  from = "/were-the-new-testament-books-written-in-hebrew"
+  to = "/research/scripture/were-the-new-testament-books-written-in-hebrew/"
+  status = 301
+
+[[redirects]]
+  from = "/continuity-and-discontinuity-the-relationship-between-the-old-testament-and-the-new-testament"
+  to = "/research/scripture/continuity-and-discontinuity-the-relationship-between-the-old-testament-and-the-new-testament/"
+  status = 301
+
+[[redirects]]
+  from = "/is-the-ethiopian-bible-the-most-accurate"
+  to = "/research/scripture/is-the-ethiopian-bible-the-most-accurate/"
+  status = 301
+
+[[redirects]]
+  from = "/what-is-the-difference-between-the-ethiopian-bible-and-the-bible"
+  to = "/research/scripture/what-is-the-difference-between-the-ethiopian-bible-and-the-bible/"
+  status = 301
+
+[[redirects]]
+  from = "/how-many-times-has-the-bible-been-changed"
+  to = "/research/scripture/how-many-times-has-the-bible-been-changed/"
+  status = 301

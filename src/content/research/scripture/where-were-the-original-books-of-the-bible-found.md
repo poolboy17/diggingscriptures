@@ -53,3 +53,9 @@ Here are three significant historical translations and versions of the Bible:
 - **Septuagint**: The Septuagint, a Greek translation of the Hebrew Bible dating back to the 3rd to 2nd centuries BC, is one of the oldest and most important translations of the Old **Covenant**. It was pivotal in making the scriptures available to Greek-speaking Jews and early Christians.
 - **Vulgate**: Translated by Jerome in the 4th century, the Vulgate became the standard Latin version of the Bible for the Western Church. Its impact on medieval Christianity and Western culture was profound, shaping theological thought and literary expression for centuries.
 - **Gothic Bible**: The Gothic Bible, translated by Ulfilas in the 4th century, was the first Bible translation into a Germanic language. This translation played a vital role in the spread of Christianity among the Germanic tribes and contributed to the development of vernacular languages in Europe.
+
+---
+
+### Related Pilgrimage Guides
+
+- [Rabbi Nachman's Journey to Israel](/stories/rabbi-nachman-journey-to-israel)

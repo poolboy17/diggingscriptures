@@ -51,3 +51,9 @@ Exploring the intersection of biblical texts and archaeological discoveries enha
 - **Clarifying Ancient Customs:** Archaeological findings help clarify ancient customs and laws mentioned in biblical texts, offering a clearer understanding of the societal norms and practices of the time.
 - **Revealing Historical Settings:** By uncovering details about historical settings, such as architecture, artifacts, and geographical features, archaeology assists in reconstructing the environments in which biblical events occurred, aiding in a more accurate interpretation of scripture.
 - **Supporting Biblical Narratives:** The tangible evidence unearthed through archaeological excavations provides support for various biblical narratives, validating the historical accuracy of certain events and figures mentioned in the Bible.
+
+---
+
+### Related Pilgrimage Guides
+
+- [Rabbi Nachman's Journey to Israel](/stories/rabbi-nachman-journey-to-israel)

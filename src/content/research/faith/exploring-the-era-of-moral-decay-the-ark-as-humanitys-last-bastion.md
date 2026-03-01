@@ -177,3 +177,9 @@ As the chaos of moral decay surrounds us, consider the story of the Ark. It serv
 In your personal journey, you are not alone; the quest for an ethical compass transcends time. Just like the Ark, you have the power to embody resilience and foster hope. By embracing your values and forging meaningful connections, you can contribute your own piece to humanity's ongoing narrativeone that aspires toward grace, integrity, and ultimately, a more harmonious existence.
  
 So, what will your Ark look like in this era of moral decay? Its within your power to create a sanctuary, both for yourself and those around you, as we all navigate the tempestuous waters of contemporary life.
+
+---
+
+### Related Pilgrimage Guides
+
+- [Rabbi Nachman's Journey to Israel](/stories/rabbi-nachman-journey-to-israel)

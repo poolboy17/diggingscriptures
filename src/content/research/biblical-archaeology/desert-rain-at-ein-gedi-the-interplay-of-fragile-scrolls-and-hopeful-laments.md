@@ -143,3 +143,9 @@ Like the deserts of Ein Gedi that bloom after rare rains, the fragile scrolls an
 Engaging with the stories of the past can illuminate your understanding of your life, encouraging you to embrace your narratives while recognizing the interconnectedness of all human experiences. The dance of history and hope, much like the interplay of fragile scrolls and fervent laments, invites you to weave your own tale into the grand tapestry of existence.
  
 While the sands of time may obscure some details, the essence of these ancient writings enduresreminding you that amidst the vast desert of uncertainty, there exists a fountain of hope waiting to be discovered. Through the lens of Ein Gedi, may you find renewed inspiration in your own journey, carrying forward the legacy of those who came before you.
+
+---
+
+### Related Pilgrimage Guides
+
+- [Shikoku 88 Temple Pilgrimage: Historic Pilgrimage Route](/routes/shikoku-88-temples)

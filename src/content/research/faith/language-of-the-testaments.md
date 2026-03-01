@@ -70,3 +70,9 @@ The different genres found in both the Old and New Testaments contribute to a co
 The genres found in the Old and New Testaments have greatly influenced religious and historical writings throughout centuries. The narrative style of the Old Testament narratives has served as a model for storytelling in subsequent literature and has influenced historical writing. The poetic and wisdom genres have shaped religious and philosophical thought, inspiring works outside of religious contexts. Similarly, the genres in the New Testament have played a foundational role in shaping Christian literature, homilies, hymns, and theological reflections, providing a framework for religious teachings.
  
 Continued below...
+
+---
+
+### Related Pilgrimage Guides
+
+- [Rabbi Nachman's Journey to Israel](/stories/rabbi-nachman-journey-to-israel)

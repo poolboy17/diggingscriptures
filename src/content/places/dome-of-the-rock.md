@@ -78,3 +78,10 @@ The Western Wall plaza, directly below the platform's western retaining wall, pr
 - [Western Wall](/places/western-wall) — The Jewish pilgrimage site at the base of the Temple Mount
 
 </Fragment>
+
+---
+
+### Related Research
+
+- [Unraveling Ancient Jerusalem: a Deep Dive into the Temple](/research/excavations/ancient-jerusalem-street-reveals-temple-pilgrim-path)
+- [Ancient Jerusalem Marketplace Near Temple Unveiled](/research/excavations/ancient-jerusalem-marketplace-near-temple-unveiled)

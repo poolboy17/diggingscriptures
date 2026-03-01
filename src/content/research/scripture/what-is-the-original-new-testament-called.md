@@ -158,3 +158,9 @@ The preservation of the early New Testament manuscripts is of utmost importance 
 ### Future of the original New Testament texts
  
 The future of the original New Testament texts lies in ongoing preservation efforts, technological advancements, and scholarly research. Preservationists and institutions dedicated to the conservation of ancient manuscripts continue to prioritize the digitization, restoration, and protection of these valuable artifacts. Technological advancements, such as high-resolution imaging techniques and spectral analysis, aid in the study and preservation of the texts. Scholars will continue to explore and analyze the existing manuscripts, refining our understanding of the New Testament's original form and further deepening our knowledge of early Christianity.
+
+---
+
+### Related Pilgrimage Guides
+
+- [Rabbi Nachman's Journey to Israel](/stories/rabbi-nachman-journey-to-israel)

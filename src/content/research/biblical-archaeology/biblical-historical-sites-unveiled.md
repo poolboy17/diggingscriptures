@@ -106,3 +106,9 @@ Significant Biblical Excavations Uncover Ancient Mysteries
 Unearthing the Most Important Biblical Digs
 Significant Biblical Excavations Uncover Ancient Mysteries
 Unearthing the Most Important Biblical Digs
+
+---
+
+### Related Pilgrimage Guides
+
+- [Shikoku 88 Temple Pilgrimage: Historic Pilgrimage Route](/routes/shikoku-88-temples)

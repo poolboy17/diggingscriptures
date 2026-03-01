@@ -120,3 +120,9 @@ Join us on a captivating journey through time as we explore the world of biblica
 Biblical Archaeology Unearthing Ancient Wonders
 
 Biblical Archaeology Unearthing Ancient Wonders
+
+---
+
+### Related Pilgrimage Guides
+
+- [Shikoku 88 Temple Pilgrimage: Historic Pilgrimage Route](/routes/shikoku-88-temples)

@@ -156,3 +156,9 @@ Scholars use methods like textural criticism and digital reconstruction techniqu
 Ancient texts are valuable as they offer insights into historical cultures, contribute to our understanding of human civilization, and influence modern thought and legal systems.
  
 The meticulous work of reconstructing ancient texts not only preserves humanity's cultural heritage but also connects us to our past, offering lessons and inspiration as we journey into the future. By deciphering these age-old stories and records, scholars ensure that these fragments of history remain a vital part of our collective consciousness.
+
+---
+
+### Related Pilgrimage Guides
+
+- [Shikoku 88 Temple Pilgrimage: Historic Pilgrimage Route](/routes/shikoku-88-temples)

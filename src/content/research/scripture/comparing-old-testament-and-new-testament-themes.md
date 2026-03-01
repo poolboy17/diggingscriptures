@@ -264,3 +264,9 @@ Another significant messianic prophecy is found in Isaiah 53, often referred to 
 An analysis of the Gospels reveals numerous instances where Jesus explicitly identifies Himself as the fulfillment of messianic prophecies. In Luke 4:18-21, Jesus reads from the book of Isaiah and declares that the prophecy of the Messiah's anointing and mission is fulfilled in Him.
  
 By examining these messianic prophecies in the Old Testament and their fulfillment in the life and teachings of Jesus Christ in the New Testament, we can appreciate the profound connection between the two Testaments and recognize Jesus as the long-awaited Messiah who fulfills God's promises.
+
+---
+
+### Related Pilgrimage Guides
+
+- [Jerusalem Old City: Sacred Pilgrimage Destination](/places/jerusalem-old-city)

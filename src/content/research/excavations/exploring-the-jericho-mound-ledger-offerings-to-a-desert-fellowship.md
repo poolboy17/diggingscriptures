@@ -145,3 +145,9 @@ Understanding ancient practices, such as those recorded in the Jericho Mound Led
 ### Summary
  
 By peeling back the layers of history, we can appreciate the legacy of Jericho and its ancient peoples. The insights gained from studying the Jericho Mound Ledger and its offerings provide valuable touchstones as we navigate our paths through modern life. Your appreciation for these historical nuances enriches your understanding of human culture and spirituality. The lessons drawn from ancient rituals remain relevant now, reminding you of the importance of fellowship and the beauty inherent in communal sharing.
+
+---
+
+### Related Pilgrimage Guides
+
+- [Rabbi Nachman's Journey to Israel](/stories/rabbi-nachman-journey-to-israel)

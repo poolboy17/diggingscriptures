@@ -144,3 +144,9 @@ Modern perspectives encourage an engagement with these themes that remain releva
 As you consider this rich narrative, challenge yourself to think about how the stories and symbols of the past influence the present. How do ancient covenants resonate in a modern world searching for meaning and connection?
  
 Royal Chronicles invites you to keep the conversation alive about the treasures of the past, ensuring they continue to inspire discussions for generations to come.
+
+---
+
+### Related Pilgrimage Guides
+
+- [How Pilgrims Ascended the Temple Mount in Ancient Jerusalem](/routes/temple-mount-ascent)

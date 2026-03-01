@@ -263,3 +263,9 @@ As you explore the Old Testament and the New Testament, take time to reflect per
 Reflect on the richness and diversity of the biblical texts, appreciating the various genres, historical contexts, and theological truths they convey. Allow the messages of grace, redemption, love, and justice to inspire and transform your life as you seek to live out your faith in tangible ways.
  
 Finally, recognize that the study of the Old Testament and the New Testament is a lifelong journey. There is always more to learn, discover, and comprehend. Embrace the opportunity to delve deeper into the Scriptures, engage in meaningful conversations, and grow in your understanding and love for God and His word.
+
+---
+
+### Related Pilgrimage Guides
+
+- [Rabbi Nachman's Journey to Israel](/stories/rabbi-nachman-journey-to-israel)

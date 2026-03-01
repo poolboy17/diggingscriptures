@@ -128,3 +128,9 @@ Unearthing the Most Important Biblical Digs
 Exploring Ancient Biblical Sites: A Journey Through History
 Unearthing the Most Important Biblical Digs
 Exploring Ancient Biblical Sites: A Journey Through History
+
+---
+
+### Related Pilgrimage Guides
+
+- [Shikoku 88 Temple Pilgrimage: Historic Pilgrimage Route](/routes/shikoku-88-temples)

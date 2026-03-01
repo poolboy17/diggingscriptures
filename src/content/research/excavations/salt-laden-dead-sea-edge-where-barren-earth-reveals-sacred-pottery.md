@@ -117,3 +117,9 @@ As you reflect on the salt-laden shores of the Dead Sea, you understand that eac
 The intersection of archaeology and theology reveals layers of thought that transcend time, reminding you that you are part of a continuum of seekers. The discoveries at the Dead Sea not only illuminate the past but also speak to the ever-evolving questions of existence, purpose, and belief today.
  
 In this realm where the earth is salt-laden, you find the sacredness of human experience beautifully layered in the fragments of pottery that still tell their storieswhispering secrets from centuries ago, urging those willing to listen.
+
+---
+
+### Related Pilgrimage Guides
+
+- [Rabbi Nachman's Journey to Israel](/stories/rabbi-nachman-journey-to-israel)

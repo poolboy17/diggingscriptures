@@ -72,3 +72,9 @@ Current research at the site is ongoing, with archaeologists continuing to unear
 ## Conclusion
  
 In summary, the unearthing of an ancient Hebrew military camp in these biblical lands provides invaluable insights into the military strategies and daily life of a significant historical era. As new findings emerge, they offer the potential to reshape existing narratives and reinforce the historical grounding of biblical texts. You are invited to follow the ongoing research and engage with the unfolding story, which continues to enrich our understanding of ancient history. Through further exploration and study, this discovery may yield even more revelations about the ancient world and its people.
+
+---
+
+### Related Pilgrimage Guides
+
+- [Rabbi Nachman's Journey to Israel](/stories/rabbi-nachman-journey-to-israel)

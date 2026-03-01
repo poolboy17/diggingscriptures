@@ -133,3 +133,9 @@ Kathleen Kenyon's excavations spanned several notable biblical sites, shedding n
 Kenyon's excavations unearthed numerous significant artifacts and structures that played a crucial role in reconstructing the ancient biblical world. From pottery fragments and religious artifacts to city walls and residential structures, each discovery offered valuable insights into the lives of ancient civilizations. Noteworthy finds include the Jericho Tower and the Ishtar Temple in Samaria, which stood as testament to the architectural achievements of the ancient cities.
 
 In conclusion, Kathleen Kenyon's contributions to biblical archaeology have left an indelible mark on the field. Her meticulous excavation techniques, innovative methodologies, and insightful interpretations have provided a wealth of knowledge about the ancient biblical world. From her groundbreaking work in Jericho, Jerusalem, and Samaria to her influential publications and legacy, Kenyon's impact on scholarship continues to shape our understanding of the ancient past and the intertwined narratives of archaeology and biblical interpretation.
+
+---
+
+### Related Pilgrimage Guides
+
+- [How Pilgrims Ascended the Temple Mount in Ancient Jerusalem](/routes/temple-mount-ascent)

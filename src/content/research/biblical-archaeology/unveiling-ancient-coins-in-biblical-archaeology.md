@@ -58,3 +58,9 @@ In contemporary biblical studies, ancient coins are invaluable, providing critic
 In summary, ancient coins in biblical archaeology serve as portals to the past, bridging sacred texts with tangible evidence. As new findings emerge, they promise to deepen our understanding of the complex tapestry of historical events, economic systems, and cultural exchanges during biblical times. These discoveries not only validate and illuminate biblical narratives but also challenge and inspire ongoing research. You are invited to engage in this fascinating intersection of history, archaeology, and theologya pursuit that continues to yield profound insights into the ancient world.
  
 Participate in dialogues and explorations that challenge long-held assumptions and invite fresh perspectives on the ever-evolving story of our shared past. The revelations held within these ancient coins await your curiosity and scholarly examination.
+
+---
+
+### Related Pilgrimage Guides
+
+- [Shikoku 88 Temple Pilgrimage: Historic Pilgrimage Route](/routes/shikoku-88-temples)

@@ -148,3 +148,9 @@ As we reflect on the Qumran community's initiation rites, theres much to conside
 The continued fascination with the Qumran community stems from a universal human desire for connection, purity, and purpose. Understanding their practices offers a rich tapestry of insights not just related to ancient history but to modern spiritual exploration.
  
 So, as you ponder the ancient secrets of Qumran, remember that their journey continues, not just in the pages of dusty scrolls but within the ever-evolving landscape of human spirituality. Perhaps theres a piece of Qumran in all of us, searching, yearning, and reaching for deeper truths amid the clamor of life.
+
+---
+
+### Related Pilgrimage Guides
+
+- [Shikoku 88 Temple Pilgrimage: Historic Pilgrimage Route](/routes/shikoku-88-temples)

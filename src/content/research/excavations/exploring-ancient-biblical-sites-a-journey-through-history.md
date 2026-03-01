@@ -134,3 +134,9 @@ Unveiling Biblical Archaeological Finds: Discovering Ancient Treasures
 Discover Notable Biblical Excavations Unearthed
 Unveiling Biblical Archaeological Finds: Discovering Ancient Treasures
 Discover Notable Biblical Excavations Unearthed
+
+---
+
+### Related Pilgrimage Guides
+
+- [How Pilgrims Ascended the Temple Mount in Ancient Jerusalem](/routes/temple-mount-ascent)

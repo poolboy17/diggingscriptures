@@ -120,3 +120,9 @@ Exciting Biblical Archaeology Excavation Discoveries Unveiled
 Exciting Biblical Archaeology Excavation Finds Unearthed
 Exciting Biblical Archaeology Excavation Discoveries Unveiled
 Exciting Biblical Archaeology Excavation Finds Unearthed
+
+---
+
+### Related Pilgrimage Guides
+
+- [Shikoku 88 Temple Pilgrimage: Historic Pilgrimage Route](/routes/shikoku-88-temples)

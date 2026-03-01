@@ -78,3 +78,9 @@ In essence, the First Temple storage complex serves as a gateway to understandin
 The insights from the storage complex remind us of the intricate connections between history, religion, and archaeology, encouraging continued exploration and dialogue within these fields. The story of the First Temple is far from complete, awaiting further revelations from beneath the sands of Jerusalem.
  
 As researchers continue to peel away the layers of history, one cannot help but feel a sense of anticipation for what lies beneath the ancient city's storied soils. By engaging with these findings, you not only enrich your understanding of the ancient world but also contribute to the ongoing conversation about our shared human heritage.
+
+---
+
+### Related Pilgrimage Guides
+
+- [How Pilgrims Ascended the Temple Mount in Ancient Jerusalem](/routes/temple-mount-ascent)

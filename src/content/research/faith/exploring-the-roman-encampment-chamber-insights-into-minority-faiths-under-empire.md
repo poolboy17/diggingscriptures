@@ -128,3 +128,9 @@ In wrapping things up, the story of minority faiths under the Roman Empire is on
 Understanding this history provides enlightening perspectives on current issues of religious diversity and the ongoing struggle for the recognition of minority beliefs. Just as those early Christians and Jews navigated their realities, individuals and communities today continue to seek spaces where their beliefs can thrive, often against the backdrop of a dominant culture.
  
 So, take a moment to think about that question you started with: how do these historical narratives shape your understanding of faith today? Every thread from the past weaves into the rich tapestry of present beliefs, reminding us that the struggle for understanding inclusivity is as relevant now as it was then.
+
+---
+
+### Related Pilgrimage Guides
+
+- [Shikoku 88 Temple Pilgrimage: Historic Pilgrimage Route](/routes/shikoku-88-temples)

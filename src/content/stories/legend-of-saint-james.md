@@ -75,3 +75,10 @@ The story of Saint James thus serves as a case study in how sacred narratives fu
 - [Faith-Based Journeys and Pilgrimages](/journeys/faith-based-journeys) — Overview of pilgrimage across traditions
 
 </Fragment>
+
+---
+
+### Related Research
+
+- [Unveiling Truths: Ancient Jerusalem Palace Discovery Sparks](/research/excavations/ancient-jerusalem-palace-unearthed-sparks-biblical-interest)
+- [Biblical Towns Uncovered: Ancient Texts Reveal Stories](/research/excavations/biblical-towns-uncovered-ancient-texts-reveal-stories)

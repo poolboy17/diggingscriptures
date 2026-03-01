@@ -125,3 +125,9 @@ You might find relevance in contemporary life regarding communities and their fa
 In reflecting upon the collapse of the Outer Qumran Wall and its corresponding covenant curses in Deuteronomy, we gain rich insights that echo throughout time. Yes, a wall might fall, but the implicationsspiritual, communal, and personalcan resonate deeply. The Qumran community's experiences invite you to reflect on the significance of your own commitments and the possible consequences of straying from them.
  
 As you contemplate the lessons from the past, consider how they might inform your journey today. A commitment to integrity, faith, and communal responsibility could ensure that your own "walls" stand tall and resilient, safeguarding your beliefs and values. This ancient narrative isnt just history; its a call to conscious living, fostering a lasting connection to both faith and community.
+
+---
+
+### Related Pilgrimage Guides
+
+- [Shikoku 88 Temple Pilgrimage: Historic Pilgrimage Route](/routes/shikoku-88-temples)

@@ -77,3 +77,10 @@ Visitors typically spend two to four days in Medina. Beyond the Prophet's Mosque
 - [Ibn Battuta, Pilgrim Traveler](/stories/ibn-battuta-pilgrim-traveler) — The medieval scholar who visited Medina multiple times
 
 </Fragment>
+
+---
+
+### Related Research
+
+- [Exploring Ancient Jerusalem: Pilgrim Routes Unearthed](/research/excavations/exploring-ancient-jerusalem-pilgrim-routes-unearthed)
+- [Unraveling Ancient Jerusalem: a Deep Dive into the Temple](/research/excavations/ancient-jerusalem-street-reveals-temple-pilgrim-path)

@@ -181,3 +181,9 @@ Kenyon's career and accomplishments shattered gender barriers and opened doors f
 Kenyon's legacy in empowering women archaeologists cannot be overstated. Through her pioneering work, she showed that gender should not be a barrier to pursuing a successful career in archaeology. Kenyon's achievements continue to inspire and empower women in the field, encouraging them to pursue their passions and make enduring contributions to the study of the past.
 
 In conclusion, Kathleen Kenyon's career as an archaeologist was marked by a passion for uncovering the secrets of the past, meticulous excavation techniques, and groundbreaking discoveries. From her early days in England to her renowned excavations in Jericho, the City of David, Samaria, and Jerusalem, Kenyon's contributions to the field of biblical archaeology were significant and far-reaching. Her innovative methods, attention to detail, and dedication to the scientific process continue to influence archaeologists today. Moreover, her legacy extends beyond her excavations, as she paved the way for women in archaeology and continues to inspire future generations of researchers. Kathleen Kenyon's lasting impact on the field of archaeology and her contributions to gender equality have solidified her place as one of the most influential archaeologists of the 20th century.
+
+---
+
+### Related Pilgrimage Guides
+
+- [How Pilgrims Ascended the Temple Mount in Ancient Jerusalem](/routes/temple-mount-ascent)

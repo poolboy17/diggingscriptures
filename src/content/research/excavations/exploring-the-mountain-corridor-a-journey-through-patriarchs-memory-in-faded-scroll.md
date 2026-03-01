@@ -139,3 +139,9 @@ As you finish this exploration of the Mountain Corridor, remember that youve jus
 This journey reminds you to appreciate your roots, recognize the importance of history, and embrace the ongoing conversations between past, present, and future. Each story and artifact serves as a reminder of the collective legacy you carry. In understanding the paths walked by the patriarchs, you also navigate your own journey, enriched by the wisdom of your ancestors and the lessons etched into these ancient scrolls.
  
 So, when faced with the complexities of modern life, reflect on the lessons from the Mountain Corridor. They are not merely tales of antiquity; they are guiding lights that can inspire and shape your path forward.
+
+---
+
+### Related Pilgrimage Guides
+
+- [Rabbi Nachman's Journey to Israel](/stories/rabbi-nachman-journey-to-israel)

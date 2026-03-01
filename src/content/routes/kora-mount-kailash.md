@@ -84,3 +84,10 @@ The environmental and cultural impact of increasing visitor numbers has raised c
 - [Pilgrimage and Tourism in the Modern Era](/context/pilgrimage-tourism-modern-era) — Managing sacred sites in the contemporary world
 
 </Fragment>
+
+---
+
+### Related Research
+
+- [Exploring Ancient Jerusalem: Pilgrim Routes Unearthed](/research/excavations/exploring-ancient-jerusalem-pilgrim-routes-unearthed)
+- [Unraveling Ancient Jerusalem: a Deep Dive into the Temple](/research/excavations/ancient-jerusalem-street-reveals-temple-pilgrim-path)

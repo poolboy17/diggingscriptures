@@ -279,3 +279,9 @@ The emphasis on love, justice, mercy, forgiveness, and humility found in the tea
 Moreover, the teachings on ethical and moral norms challenge believers to examine their hearts, motives, and intentions. They prompt self-reflection and drive personal transformation, as individuals seek to align their lives with the ethical standards set forth in the biblical texts.
  
 In essence, the teachings on ethics and morality in the Old Testament and the New Testament serve as a moral compass and provide a framework for ethical decision-making for contemporary Christians.
+
+---
+
+### Related Pilgrimage Guides
+
+- [Rabbi Nachman's Journey to Israel](/stories/rabbi-nachman-journey-to-israel)

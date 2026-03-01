@@ -159,3 +159,9 @@ Biblical Archaeology Evidence Unveiled
 Biblical Archaeology Investigation Reveals Ancient Secrets
 Biblical Archaeology Evidence Unveiled
 Biblical Archaeology Investigation Reveals Ancient Secrets
+
+---
+
+### Related Pilgrimage Guides
+
+- [Shikoku 88 Temple Pilgrimage: Historic Pilgrimage Route](/routes/shikoku-88-temples)

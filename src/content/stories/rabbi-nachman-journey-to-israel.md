@@ -63,3 +63,10 @@ The relationship between Nachman's journey and his subsequent creative output ra
 - [Three Pilgrim Festivals of Judaism](/context/three-pilgrim-festivals-judaism) — The liturgical framework connecting Jews to the Land of Israel
 
 </Fragment>
+
+---
+
+### Related Research
+
+- [Unraveling Ancient Jerusalem: a Deep Dive into the Temple](/research/excavations/ancient-jerusalem-street-reveals-temple-pilgrim-path)
+- [Ancient Jerusalem Marketplace Near Temple Unveiled](/research/excavations/ancient-jerusalem-marketplace-near-temple-unveiled)

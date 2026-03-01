@@ -143,3 +143,9 @@ The Qumran Storeroom Trunk, therefore, becomes more than just an archaeological 
 While the community may be ancient, the principles they encompassedhonesty, justice, purityremain crucial today. As you navigate your life, think of Qumran not only as a physical location but as a persistent challenge to uphold moral integrity in your own storerooms, be they literal or metaphorical.
  
 So, what will you choose as you engage with your community and the world around you? The lessons gleaned from the past provide a rich tapestry that not only informs but inspires. In this light, the Qumranites commitment to moral integrity shines brightly, inviting you to adopt a similar approach in navigating the complexities of modern life.
+
+---
+
+### Related Pilgrimage Guides
+
+- [Shikoku 88 Temple Pilgrimage: Historic Pilgrimage Route](/routes/shikoku-88-temples)

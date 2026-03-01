@@ -141,3 +141,9 @@ Today, continued efforts strive to produce translations accessible to diverse la
  
  
 The exploration of biblical languages is not merely an academic exercise but a journey into the profound depths of humanity's spiritual and cultural legacy. Engaging with the Bible's original languages opens a door to greater understanding and appreciation of this timeless text's wisdom.
+
+---
+
+### Related Pilgrimage Guides
+
+- [Rabbi Nachman's Journey to Israel](/stories/rabbi-nachman-journey-to-israel)

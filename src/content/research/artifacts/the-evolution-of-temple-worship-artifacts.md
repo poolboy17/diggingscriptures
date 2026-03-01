@@ -86,3 +86,9 @@ This image is property of www.ramana-maharshi.org.
 In summation, the exploration of temple worship artifacts provides not only a deeper understanding of past religious practices but also an appreciation for their role in shaping human cultural evolution. As discoveries continue to be made, these artifacts offer new insights and inspire ongoing inquiry into how they have influenced modern worship. **Consider how these ancient objects inform our current understanding of faith and culture, and stay curious about what future discoveries may further reveal.**
   
 This exploration of temple worship artifacts invites thoughtful reflection on the convergence of the historical, the cultural, and the religious, accentuating their timeless relevance.
+
+---
+
+### Related Pilgrimage Guides
+
+- [Shikoku 88 Temple Pilgrimage: Historic Pilgrimage Route](/routes/shikoku-88-temples)

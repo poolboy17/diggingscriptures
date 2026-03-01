@@ -95,3 +95,9 @@ As you walk away from this exploration, youre left with the profound realization
 By seeking out these ancient narratives, you reconnect with the profound truths of human existenceidentity, belonging, and hope. Just as the exiles sought Jerusalem and the communities they've built over centuries, you too search for your own space of solace and security in a rapidly changing world.
  
 In this journey, may the echoes of the past guide your path, as you reflect on how stories from Jerusalem still resonate with our modern lives. After all, the narrative of human longing and the quest for home transcends time and geography, knitting together the fabric of who we are.
+
+---
+
+### Related Pilgrimage Guides
+
+- [How Pilgrims Ascended the Temple Mount in Ancient Jerusalem](/routes/temple-mount-ascent)

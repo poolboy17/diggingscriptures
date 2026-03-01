@@ -75,3 +75,10 @@ Accommodation ranges from dharamsalas (pilgrim guesthouses) maintained by variou
 - [Four Sacred Sites of Buddhism](/context/four-sacred-sites-buddhism) — Context on the places the Buddha designated for pilgrimage
 
 </Fragment>
+
+---
+
+### Related Research
+
+- [Temple Mount Secrets: Unearthing Hidden History with Advanced](/research/excavations/archaeological-scanning-unveils-temple-mount-secrets)
+- [Unearthing Ancient Jerusalem: a Glimpse into First Temples](/research/excavations/biblical-archaeology-first-temple-period-market-discovery)

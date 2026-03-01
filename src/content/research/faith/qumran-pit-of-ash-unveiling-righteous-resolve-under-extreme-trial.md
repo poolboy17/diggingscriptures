@@ -97,3 +97,9 @@ These teachings remind you that even in extreme trials, the essence of righteous
 In contemplating the Qumran communitys journey, consider what it means to walk a righteous path in your own life. What is the ash you need to rid yourself of, and how can you embody the unwavering resolve that continues to inspire?
  
 The echoes of the past are within you; they call you to nurture integrity, resilience, and a spirit of courage.
+
+---
+
+### Related Pilgrimage Guides
+
+- [How Pilgrims Ascended the Temple Mount in Ancient Jerusalem](/routes/temple-mount-ascent)

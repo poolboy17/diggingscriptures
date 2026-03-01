@@ -110,3 +110,9 @@ Traditionally, many books of the Old Testament were believed to be authored by f
 Similarly, the process of canonization, whereby certain texts were deemed "inspired" and included in the official biblical canon, has been a topic of discussion and disagreement. Different religious traditions have variations in their accepted canons, with the Protestant, Catholic, and Eastern Orthodox Bibles containing varying numbers of books.
  
 Despite these controversies, the Old Testament's continued relevance in contemporary contexts remains undisputed. Its impact on religious, cultural, and literary spheres is unparalleled, and its timeless insights and teachings continue to shape individual lives and societies worldwide. The debates surrounding authorship and canonization serve as reminders of the complexity and ongoing interpretation of sacred texts, allowing for continued exploration and engagement with the Old Testament's profound significance.
+
+---
+
+### Related Pilgrimage Guides
+
+- [Rabbi Nachman's Journey to Israel](/stories/rabbi-nachman-journey-to-israel)

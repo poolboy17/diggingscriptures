@@ -173,3 +173,9 @@ In addition, the integration of geospatial data with other sources, such as text
 The use of geospatial technology in biblical archaeology has transformed the way we explore and understand the past. By combining advanced mapping techniques, remote sensing technologies, and data visualization tools, researchers are able to create detailed and accurate models of ancient sites and artifacts.
 
 Through the analysis of spatial patterns, the excavation and documentation of sites, and the visualization of data, geospatial technology has allowed us to uncover new insights into the history, culture, and geography of the biblical world. With each discovery, we come one step closer to unraveling the mysteries of the past and deepening our understanding of our shared human history.
+
+---
+
+### Related Pilgrimage Guides
+
+- [How Pilgrims Ascended the Temple Mount in Ancient Jerusalem](/routes/temple-mount-ascent)

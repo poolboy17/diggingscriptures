@@ -82,3 +82,9 @@ This image is property of img.haarets.co.il.
 In summary, the unearthing of First Temple Period artifacts holds a mirror to a past world, steadfast in its spiritual and cultural endeavors. These discoveries bridge the ancient with the modern, offering tangible links that bind historical accounts with contemporary understanding. As research progresses, the narrative of the First Temple Period evolves, inviting both scholars and enthusiasts to reconsider the foundations upon which much of biblical history rests.
  
 In light of these revelations, it is crucial for continued support and interest in archaeological pursuits. Each find propels us closer to a comprehensive understanding of our past, inviting you to reflect on the enduring legacy of history in shaping modern identity.
+
+---
+
+### Related Pilgrimage Guides
+
+- [How Pilgrims Ascended the Temple Mount in Ancient Jerusalem](/routes/temple-mount-ascent)

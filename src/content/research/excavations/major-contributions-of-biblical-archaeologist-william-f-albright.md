@@ -149,3 +149,9 @@ Albright's work occasionally drew criticism for his perceived political and ideo
 ### Legacy of Albright's influence on the field of biblical archaeology
 
 Despite the critiques and controversies surrounding his work, there is no denying William F. Albright's immense influence on the field of biblical archaeology. His pioneering research, meticulous excavations, and interdisciplinary approach elevated the study of ancient civilizations and their biblical connections. Albright's legacy lives on through the countless scholars, students, and archaeologists who continue to build upon his foundation and advance our understanding of the biblical world.
+
+---
+
+### Related Pilgrimage Guides
+
+- [Rabbi Nachman's Journey to Israel](/stories/rabbi-nachman-journey-to-israel)

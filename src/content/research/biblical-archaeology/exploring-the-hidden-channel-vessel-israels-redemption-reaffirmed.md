@@ -96,3 +96,9 @@ In wrapping up your journey through the Hidden Channel Vessel, you should apprec
 The theme of redemption remains relevant in todays world, resonating through personal struggles and broader societal issues. By reflecting on the past, you can glean insights that inform your understanding of the present. The Hidden Channel Vessel not only enriches the archaeological record but also invites you to contemplate the ideals of renewal and hope.
  
 As you step back from the intricate details surrounding this artifact, its clear: redemption is a narrative woven into the fabric of human experience, and the Hidden Channel Vessel serves as a poignant reminder of our shared history.
+
+---
+
+### Related Pilgrimage Guides
+
+- [Rabbi Nachman's Journey to Israel](/stories/rabbi-nachman-journey-to-israel)

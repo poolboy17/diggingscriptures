@@ -168,3 +168,9 @@ In the New Testament, Jesus and the apostles place a significant emphasis on the
 The apostles, following the teachings of Jesus, encourage believers to pray and intercede for one another. They also pronounce blessings on the early Christian communities as a way of affirming God's favor and grace upon them.
  
 By exploring the trends and importance of prayers in Old Testament worship, the role of blessings in Old Testament worship, and the teachings of Jesus and the apostles on prayer and blessings in New Testament worship, we can appreciate the significance of communication with God and the power of words in worship.
+
+---
+
+### Related Pilgrimage Guides
+
+- [How Pilgrims Ascended the Temple Mount in Ancient Jerusalem](/routes/temple-mount-ascent)

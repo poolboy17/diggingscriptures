@@ -162,3 +162,9 @@ The manuscripts discovered in the Jericho Alcove provide a unique window into th
 In many ways, the lessons gleaned from Jericho resonate with contemporary issues of territorial claims, cultural identities, and environmental stewardship. The stories of our past continue to inform our actions and beliefs in the present.
  
 As you ponder the nuances of occupation at Jericho, remember that history is rarely simple. The city holds within its walls a tapestry of human experienceone that continues to speak to us today.
+
+---
+
+### Related Pilgrimage Guides
+
+- [Rabbi Nachman's Journey to Israel](/stories/rabbi-nachman-journey-to-israel)

@@ -167,3 +167,9 @@ In conclusion, archaeological discoveries related to the Bible have provided val
 - "The Cities That Built the Bible" by Robert R. Cargill
 
 - "The Bible as It Was" by James L. Kugel
+
+---
+
+### Related Pilgrimage Guides
+
+- [How Pilgrims Ascended the Temple Mount in Ancient Jerusalem](/routes/temple-mount-ascent)

@@ -106,3 +106,9 @@ A: The Dead Sea Scrolls have contributed significantly to our understanding of t
 #### Q: Can the general public view the Dead Sea Scrolls?
 
 A: Some of the Dead Sea Scrolls are on display in museums around the world, such as the Israel Museum in Jerusalem. However, due to their fragile nature, many scrolls are stored in climate-controlled vaults and can only be viewed by a select group of researchers. Online digital archives also provide access to high-resolution images of the scrolls for public viewing.
+
+---
+
+### Related Pilgrimage Guides
+
+- [How Pilgrims Ascended the Temple Mount in Ancient Jerusalem](/routes/temple-mount-ascent)

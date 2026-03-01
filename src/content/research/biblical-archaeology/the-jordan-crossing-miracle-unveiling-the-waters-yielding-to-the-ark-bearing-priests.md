@@ -115,3 +115,9 @@ The Jordan Crossing Miracle is not just an ancient tale but a narrative brimming
 As the waters parted for the Israelites, know that the challenges you face may also yield to your courage and faith. Reflecting on this miraculous event can inspire you to embrace your journeys, celebrating both the struggles and triumphs along the way.
  
 So, what now? Carry the weight of this miracle with youlet it serve as a reminder that, in moments of uncertainty, divine presence and communal support can lead you across any Jordan River you may encounter.
+
+---
+
+### Related Pilgrimage Guides
+
+- [Rabbi Nachman's Journey to Israel](/stories/rabbi-nachman-journey-to-israel)

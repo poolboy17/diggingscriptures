@@ -154,3 +154,9 @@ The footfalls you hear on the cobblestones echo stories of resilience, bravery, 
 As you immerse yourself in this singular experience, remember that the stories unfold beneath the surfacestories of fellowship forged amidst oppression, birthed out of resilience and hope. The Jerusalem market is not just a locality; it's a living testament to the power of community and culture triumphing over adversity.
  
 In a world often polarized by conflict, the fellowship you witness in the market transcends religious and cultural divisions, reminding us all that shared humanity can flourish even in the most challenging of environments.
+
+---
+
+### Related Pilgrimage Guides
+
+- [Jerusalem Old City: Sacred Pilgrimage Destination](/places/jerusalem-old-city)

@@ -77,3 +77,10 @@ The climate is notably cooler and wetter than the lowlands—temperatures averag
 - [Kobo Daishi and the Shikoku Pilgrimage](/stories/kobo-daishi-shikoku) — The founder of Mount Koya
 
 </Fragment>
+
+---
+
+### Related Research
+
+- [Unraveling Ancient Jerusalem: a Deep Dive into the Temple](/research/excavations/ancient-jerusalem-street-reveals-temple-pilgrim-path)
+- [Temple Objects Reveal Ancient Ritual Practices](/research/faith/temple-objects-reveal-ancient-ritual-practices)

@@ -181,3 +181,9 @@ The Qumran Boundary Stone offers so much more than just a glimpse into a past er
 Understanding how this community contributed to our knowledge of ancient calendars provides a fresh perspective into Jewish history, casting a long shadow that influences how timesacred or mundaneis perceived even today.
  
 As you think back on the significance of calendars in shaping religious practices, it becomes evident that the echoes of the past resonate powerfully, guiding modern faith experiences and communal identities into the future.
+
+---
+
+### Related Pilgrimage Guides
+
+- [How Pilgrims Ascended the Temple Mount in Ancient Jerusalem](/routes/temple-mount-ascent)

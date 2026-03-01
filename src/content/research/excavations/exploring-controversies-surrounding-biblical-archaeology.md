@@ -145,3 +145,9 @@ The future of biblical archaeology lies in collaborative and interdisciplinary r
 ### Cultivating Responsible Stewardship
 
 As biblical archaeology moves forward, the importance of fostering responsible stewardship becomes increasingly critical. Engaging in sustainable practices, prioritizing local involvement and empowerment, and advocating for the protection of archaeological sites and cultural heritage are paramount. Cultivating a culture of ethical responsibility ensures the long-term preservation and meaningful study of the biblical world, enriching our understanding of the past and present.
+
+---
+
+### Related Pilgrimage Guides
+
+- [Rabbi Nachman's Journey to Israel](/stories/rabbi-nachman-journey-to-israel)

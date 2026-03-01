@@ -112,3 +112,9 @@ Excavations Unveiling Biblical Archaeology
 Biblical Archaeology Evidence Unveiled
 Excavations Unveiling Biblical Archaeology
 Biblical Archaeology Evidence Unveiled
+
+---
+
+### Related Pilgrimage Guides
+
+- [Shikoku 88 Temple Pilgrimage: Historic Pilgrimage Route](/routes/shikoku-88-temples)

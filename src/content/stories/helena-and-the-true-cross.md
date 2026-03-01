@@ -63,3 +63,10 @@ The scholarly debate surrounding Helena's discoveries continues to evolve. Archa
 - [Relics and Sacred Objects](/context/relics-and-sacred-objects) — The relic culture Helena's discovery inaugurated
 
 </Fragment>
+
+---
+
+### Related Research
+
+- [Unraveling Ancient Jerusalem: a Deep Dive into the Temple](/research/excavations/ancient-jerusalem-street-reveals-temple-pilgrim-path)
+- [Temple Mount Secrets: Unearthing Hidden History with Advanced](/research/excavations/archaeological-scanning-unveils-temple-mount-secrets)

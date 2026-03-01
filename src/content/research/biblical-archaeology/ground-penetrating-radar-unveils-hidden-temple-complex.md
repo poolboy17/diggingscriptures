@@ -78,3 +78,9 @@ This image is property of pub.mdpi-res.com.
 In summation, the unveiling of this hidden temple complex through ground-penetrating radar marks a significant milestone in biblical archaeology. Each layer of discovery adds depth to our understanding, bridging gaps between ancient narratives and modern science. As we advance this research, the hope is to foster a deeper connection to our shared past, encouraging dialogue and exploration among scholars, theologians, and history enthusiasts alike.
  
 You, as a reader, are invited to reflect on these revelations and consider their impact on your understanding of history and spirituality. In an ever-expanding world of discovery, the stories of the past continually reshape our views, prompting us to question and learn. We stand at the cusp of knowledge, with technology as our guide in unearthing the stories that the earth has held secret for centuries.
+
+---
+
+### Related Pilgrimage Guides
+
+- [Shikoku 88 Temple Pilgrimage: Historic Pilgrimage Route](/routes/shikoku-88-temples)

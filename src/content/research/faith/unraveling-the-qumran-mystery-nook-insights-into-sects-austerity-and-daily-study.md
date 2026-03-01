@@ -85,3 +85,9 @@ As you piece together the fragments of the Qumran communitys life, a broader tap
 Through the lens of Qumran, youre prompted to reflect on how to live with intention and community in this modern age, converting echoes of the past into guiding principles for today. With every new understanding of the Essenes, the enormity of their legacy surfacesa reminder that even in austerity, richness of spirit can thrive.
  
 In this hustle of life, perhaps theres a resonating truth from Qumran: that every day can be an opportunity, a fragment of the greater narrative, waiting for you to engage with it meaningfully.
+
+---
+
+### Related Pilgrimage Guides
+
+- [Shikoku 88 Temple Pilgrimage: Historic Pilgrimage Route](/routes/shikoku-88-temples)

@@ -53,3 +53,9 @@ The structure of the course is designed to offer a thorough learning experience 
 - **Short Video Lectures and Extensive Illustrative Materials:** Students engage with the course material through a series of concise video lectures that cover key topics in biblical archaeology. These videos are complemented by a wealth of illustrative materials such as maps, diagrams, and images to enhance the learning process.
 - **On-Site Visits to Archaeological Locations:** One of the highlights of the course is the opportunity for students to participate in on-site visits to significant archaeological sites. This hands-on experience allows students to witness firsthand the excavation process, interact with archaeological finds, and gain a deeper appreciation for the fieldwork involved in biblical archaeology.
 - **Exploration of the Complex Relationship between Archaeology, History, and the Bible:** Throughout the course, students analyze the intricate connections between archaeology, history, and biblical texts. By studying archaeological finds in conjunction with historical records and biblical narratives, students develop a nuanced understanding of how these elements intersect and inform one another. Additionally, interviews with leading researchers in the field provide valuable insights into current trends and perspectives within biblical archaeology.
+
+---
+
+### Related Pilgrimage Guides
+
+- [Jerusalem Old City: Sacred Pilgrimage Destination](/places/jerusalem-old-city)

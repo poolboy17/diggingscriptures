@@ -155,3 +155,9 @@ The Greek composition of the New Testament has had a profound impact on the trad
 ### Cultural and historical context of Greek New Testament
  
 The Greek New Testament is embedded in a specific cultural and historical context, which shapes the understanding and interpretation of its teachings. By examining the Greek texts within their cultural and historical backdrop, scholars can uncover the various influences and dynamics at play during the time of their composition. This understanding aids in contextualizing the teachings of the New Testament and helps to illuminate their original significance and relevance.
+
+---
+
+### Related Pilgrimage Guides
+
+- [Rabbi Nachman's Journey to Israel](/stories/rabbi-nachman-journey-to-israel)

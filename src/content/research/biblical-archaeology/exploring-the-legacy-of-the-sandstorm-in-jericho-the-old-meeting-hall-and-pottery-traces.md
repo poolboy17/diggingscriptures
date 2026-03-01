@@ -189,3 +189,9 @@ In contemplating the legacy of the sandstorm in Jericho, remember that every fin
 Summarizing our exploration, the Old Meeting Hall and the pottery traces uncovered after the storm serve as reminders of the complex social and spiritual lives of Jerichos ancient inhabitants. They highlight the resilience of communities in the face of natural forces, while also inviting modern individuals to learn from those who walked this land millennia ago.
  
 By looking ahead while keeping one eye firmly on the past, you ensure that the rich tapestry of human history remains vibrant and relevant. Ultimately, its this blend of history and contemporary perspectives that makes the study of places like Jericho not just an academic pursuit but a personal journey.
+
+---
+
+### Related Pilgrimage Guides
+
+- [Rabbi Nachman's Journey to Israel](/stories/rabbi-nachman-journey-to-israel)

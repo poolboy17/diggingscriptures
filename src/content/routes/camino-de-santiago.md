@@ -115,3 +115,10 @@ The diversity of contemporary pilgrims extends to their motivations and framewor
 - [Jerusalem](/places/jerusalem) — Another major Christian pilgrimage destination
 
 </Fragment>
+
+---
+
+### Related Research
+
+- [Exploring Ancient Jerusalem: Pilgrim Routes Unearthed](/research/excavations/exploring-ancient-jerusalem-pilgrim-routes-unearthed)
+- [Unraveling Ancient Jerusalem: a Deep Dive into the Temple](/research/excavations/ancient-jerusalem-street-reveals-temple-pilgrim-path)

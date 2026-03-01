@@ -129,3 +129,9 @@ The extensive manuscript collections and the rigorous scholarship surrounding Qu
 In the sands of Qumran, ascetic confessions beckon you to consider the deep-rooted philosophies and practices that shaped a community built around shared beliefs. As you journey through their world, you find echoes of ancient wisdom that persist even in modern timesguiding the search for purity, community, and purpose beyond mere individual existence.
  
 Remember, these ascetic principles arent merely relics of the past; they offer a lens through which to view not only the history of faith but also your personal journey in seeking understanding and connection in a complex world. The legacy of Qumran serves as a reminder that beneath the weight of time lies insight that is as relevant today as it was millennia ago.
+
+---
+
+### Related Pilgrimage Guides
+
+- [Shikoku 88 Temple Pilgrimage: Historic Pilgrimage Route](/routes/shikoku-88-temples)

@@ -64,3 +64,10 @@ Modern scholarship continues to mine the Rihla for insights into fourteenth-cent
 - [Medina](/places/medina) — The Prophet's city, visited by Ibn Battuta multiple times
 
 </Fragment>
+
+---
+
+### Related Research
+
+- [Exploring Ancient Jerusalem: Pilgrim Routes Unearthed](/research/excavations/exploring-ancient-jerusalem-pilgrim-routes-unearthed)
+- [Mountaintop Shrine: the Sacred Journey in Biblical Archaeology](/research/faith/mountaintop-shrine-pilgrims-seek-echoes-of-the-arks-holiness)

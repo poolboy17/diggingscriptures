@@ -122,3 +122,9 @@ In summary, communal worship in drought-land showcases resilience, hope, and cre
 Whether it's through ritual, shared traditions, or innovative spaces, the principle remains: community sustains you, reviving spirits and enriching lives even in the most desolate landscapes. This deep sense of communion not only nurtures the soul but also serves to honor the enduring spirit of humanity, pulling you together across the barren expanses of life.
  
 As you move forward, consider how you can cultivate your own communal practices, creating opportunities for connection in your life, especially in times of scarcity or spiritual drought. After all, it is often in the most challenging settings that you uncover the most profound community bonds and shared experiences.
+
+---
+
+### Related Pilgrimage Guides
+
+- [Why Walking to Sacred Places Changes People](/context/psychology-of-pilgrimage)

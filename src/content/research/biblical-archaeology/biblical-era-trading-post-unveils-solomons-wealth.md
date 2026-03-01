@@ -75,3 +75,9 @@ While these findings propel our knowledge, ongoing research is crucial. Future d
 In summary, the discoveries at this ancient trading post divulge a tapestry of wealth and influence that aligns with biblical accounts of King Solomon's era. These artifacts offer invaluable insights into the economic and cultural exchanges that defined ancient trade networks. As further research unfolds, there is potential for more revelations that might change our historical narratives about this intriguing period.
  
 Scholars and enthusiasts alike are encouraged to keep abreast of these findings as they provide a fascinating window into the world that once was. The ongoing excavations and study ensure that the mysteries of ancient kingdoms continue to be brought to light, expanding our comprehension of history's vast and intricate web.
+
+---
+
+### Related Pilgrimage Guides
+
+- [Rabbi Nachman's Journey to Israel](/stories/rabbi-nachman-journey-to-israel)

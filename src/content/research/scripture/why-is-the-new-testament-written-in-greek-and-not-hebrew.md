@@ -151,3 +151,9 @@ The use of Greek in the New Testament facilitated the spread of Christianity amo
 ### The effect on subsequent translations and versions of the Bible
  
 The New Testament's initial composition in Greek set the stage for its translation and dissemination into various languages in the following centuries. As Christianity spread across different regions and cultures, the New Testament was translated and adapted into numerous languages. The Greek source text remained fundamental to these translations, ensuring the continuity and preservation of the Christian message.
+
+---
+
+### Related Pilgrimage Guides
+
+- [Rabbi Nachman's Journey to Israel](/stories/rabbi-nachman-journey-to-israel)

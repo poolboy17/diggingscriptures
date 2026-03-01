@@ -145,3 +145,9 @@ Biblical Archaeology Uncovers Ancient Mysteries
 Exciting Discoveries Await Biblical Archaeology Excavation Teams
 Biblical Archaeology Uncovers Ancient Mysteries
 Exciting Discoveries Await Biblical Archaeology Excavation Teams
+
+---
+
+### Related Pilgrimage Guides
+
+- [How Pilgrims Ascended the Temple Mount in Ancient Jerusalem](/routes/temple-mount-ascent)

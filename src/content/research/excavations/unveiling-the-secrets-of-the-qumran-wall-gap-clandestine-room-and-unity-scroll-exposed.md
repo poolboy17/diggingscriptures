@@ -119,3 +119,9 @@ As you reflect on all these intricate layershidden rooms, scrolls, community dyn
  
  
 By considering these ancient narratives, you invite a broader interpretation of your own beliefscreating a bridge that spans both time and culture. So rather than dismissing these texts and their contexts, why not allow them to resonate within your own life? After all, the past has a remarkable way of echoing through the present.
+
+---
+
+### Related Pilgrimage Guides
+
+- [Shikoku 88 Temple Pilgrimage: Historic Pilgrimage Route](/routes/shikoku-88-temples)

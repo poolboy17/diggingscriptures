@@ -65,3 +65,9 @@ Female biblical archaeologists have made remarkable discoveries at various bibli
 Anna Papastrati, a Greek archaeologist, conducted
 
 *[Remaining text is truncated for brevity]*
+
+---
+
+### Related Pilgrimage Guides
+
+- [Jerusalem Old City: Sacred Pilgrimage Destination](/places/jerusalem-old-city)

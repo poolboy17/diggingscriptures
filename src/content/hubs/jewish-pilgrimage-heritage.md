@@ -79,3 +79,10 @@ The intersection of pilgrimage and tourism in Israel raises questions familiar f
 This site examines Jewish pilgrimage traditions as part of its broader coverage of faith-based journeys. Articles on the Western Wall, Safed, and the Cave of the Patriarchs in Hebron provide detailed accounts of specific pilgrimage destinations. The story of Rabbi Nachman's journey to Israel illuminates the personal dimensions of Jewish sacred travel. Background articles on the three pilgrim festivals and the theological foundations of Jewish pilgrimage provide context for understanding these practices within their religious framework.
 
 The approach is descriptive and historically grounded, presenting Jewish pilgrimage as understood by its practitioners while maintaining the analytical perspective appropriate to a site that covers multiple traditions. Readers will find information useful whether they are planning visits to Jewish sacred sites, studying the comparative history of pilgrimage, or simply curious about practices that have sustained Jewish communities across centuries of dispersion and return.
+
+---
+
+### Related Research
+
+- [Unearth Secrets of Ancient Temples: a Journey into Biblical](/research/biblical-archaeology/biblical-archaeology-discovering-ancient-temple-sites)
+- [The Unearthing of Ancient Temples: a Biblical Archaeological](/research/biblical-archaeology/the-unearthing-of-ancient-temples-a-biblical-archaeological-expedition)

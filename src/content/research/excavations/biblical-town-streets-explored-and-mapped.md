@@ -74,3 +74,9 @@ Continuing research aims to uncover further clues that will deepen our understan
 ## Conclusion
  
 In summary, the exploration and mapping of biblical town streets offer a remarkable intersection between history, archaeology, and theology. Through precise archaeological evidence and expert interpretations, the ages-old parallels between biblical narratives and physical remnants stir the imagination. Future implications include expanded research and richer understandings of both the ancient and modern worlds. As these journeys continue, they invite you to reflect on the rich tapestry of human history and its ongoing revelation. Embrace the stories unearthed from the dust, for they are not only tales of yesterday but are also stepping stones to understanding today.
+
+---
+
+### Related Pilgrimage Guides
+
+- [Rabbi Nachman's Journey to Israel](/stories/rabbi-nachman-journey-to-israel)

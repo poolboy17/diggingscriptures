@@ -191,3 +191,9 @@ The discoveries and interpretations of biblical archaeology have a significant i
 ### Archaeological ethics and responsibilities
 
 Biblical archaeology, like all branches of archaeology, carries ethical responsibilities and considerations. The responsible excavation, documentation, and preservation of artifacts and sites are essential to safeguard cultural heritage for future generations. The representation and interpretation of findings must be conducted with integrity, accuracy, and sensitivity toward the communities affected by the research. Archaeologists must prioritize collaboration, inclusivity, and cultural preservation to ensure that biblical archaeology benefits society while respecting ethical standards.
+
+---
+
+### Related Pilgrimage Guides
+
+- [How Pilgrims Ascended the Temple Mount in Ancient Jerusalem](/routes/temple-mount-ascent)

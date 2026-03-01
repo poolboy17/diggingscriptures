@@ -213,3 +213,9 @@ This method helps identify cultural phases, technological advancements, or the i
 Typology, like other relative dating methods, has limitations. One limitation is that it establishes relative chronologies rather than exact ages for artifacts. While it can provide insights into the relative order of objects, it does not pinpoint specific dates or timeframes.
 
 Additionally, the accuracy and validity of typology depend on the availability of a robust and well-defined typological framework. In cases where the types or attributes used for classification are subjective or poorly defined, the reliability of typology as a dating method may be compromised.
+
+---
+
+### Related Pilgrimage Guides
+
+- [Kora Around Mount Kailash: Historic Pilgrimage Route](/routes/kora-mount-kailash)

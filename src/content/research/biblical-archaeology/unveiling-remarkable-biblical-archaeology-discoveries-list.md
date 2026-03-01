@@ -128,3 +128,9 @@ Recent Biblical Archaeological Discoveries Shed New Light on Ancient Mysteries
 Biblical Archaeology Unearthing Ancient Wonders
 Recent Biblical Archaeological Discoveries Shed New Light on Ancient Mysteries
 Biblical Archaeology Unearthing Ancient Wonders
+
+---
+
+### Related Pilgrimage Guides
+
+- [Shikoku 88 Temple Pilgrimage: Historic Pilgrimage Route](/routes/shikoku-88-temples)

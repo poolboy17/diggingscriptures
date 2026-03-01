@@ -93,3 +93,9 @@ A: The mysteries of Qumran include the origins of the Dead Sea Scrolls, the iden
 #### Q: What can viewers expect to learn from 'The Quest For Qumran - What Mysteries Lie Buried In The Holy Land?'?
 
 A: Viewers can expect to learn about the history of Qumran, the significance of the Dead Sea Scrolls, the archaeological excavations at the site, the lifestyle of its ancient inhabitants, and the enduring impact of this discovery on our understanding of biblical history and texts.
+
+---
+
+### Related Pilgrimage Guides
+
+- [Jerusalem Old City: Sacred Pilgrimage Destination](/places/jerusalem-old-city)

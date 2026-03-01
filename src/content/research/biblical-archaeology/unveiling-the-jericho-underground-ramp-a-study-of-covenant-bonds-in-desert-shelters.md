@@ -94,3 +94,9 @@ Reflecting on Jericho's Underground Ramp and its covenant bonds presents a rich 
 The stories unearthed from the soil of Jericho challenge you to consider your connections today. Are you fostering the bonds that matter in your life? As you ponder the past, remember that the present and future are also imbued with the potential for covenant tiescommunity forms supporting one another, just as they have for thousands of years.
  
 As the sands of time shift, the remnants of Jericho remain steadfast, reminding us of the enduring nature of human bonds. They guide us toward understanding our journey, reinforcing that even in solitude, we are never truly alone. Wouldnt it be fitting to carry those lessons forward, bridging the ancient with the contemporary?
+
+---
+
+### Related Pilgrimage Guides
+
+- [Rabbi Nachman's Journey to Israel](/stories/rabbi-nachman-journey-to-israel)

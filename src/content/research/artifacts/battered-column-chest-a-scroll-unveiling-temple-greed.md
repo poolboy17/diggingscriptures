@@ -112,3 +112,9 @@ In the end, as you reflect on the rich tapestry woven by the Battered Column Che
 This ancient artifact paints a vivid picture of human nature, revealing that the ancient struggle against greed is a narrative that transcends time. Wealth can shape society, but its true value should always reside in the choices you make, fueled by morality and integrity.
  
 As you step back and consider the implications of this exploration, remember that the past holds keys to understanding modern dilemmas. Temples may have crumbled, but the lessons of wealth and greed continue to resonate in your world. Turning these reflections into actions shapes not only your life but the lives of those around you, leading to a richer, more meaningful existence.
+
+---
+
+### Related Pilgrimage Guides
+
+- [How Pilgrims Ascended the Temple Mount in Ancient Jerusalem](/routes/temple-mount-ascent)

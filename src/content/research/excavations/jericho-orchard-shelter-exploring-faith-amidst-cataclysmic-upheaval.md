@@ -116,3 +116,9 @@ As todays world grapples with its uncertainties, you may ponder how faith can in
 ## Summing It All Up
  
 The Jericho Orchard Shelter stands as a poignant reminder of how faith can endure and flourish amidst catastrophic upheavals. By drawing upon the historical, archaeological, and psychological facets of Jericho, you can appreciate not just the grit of humanity but also its ability to come together through cultivation and belief. In times of uncertainty, the lessons of Jericho encourage you to reflect on your own faith and community, highlighting the timeless nature of resilience that transcends generations.
+
+---
+
+### Related Pilgrimage Guides
+
+- [Rabbi Nachman's Journey to Israel](/stories/rabbi-nachman-journey-to-israel)

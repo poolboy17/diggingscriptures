@@ -53,3 +53,9 @@ The significance of the Dead Sea Scrolls as archaeological evidence can't be ove
 In the exploration of ancient texts related to biblical narratives and historical figures, Pre-Exilic Aramaic inscriptions like the Zakkur Stele and Tel Dan Stele offer significant archaeological insights into the early presence of Aramaic-speaking communities in the ancient Near East. These inscriptions, dating back to the 9th and 8th centuries BCE, provide tangible evidence of the existence of Aramaic-speaking societies during that time period.
 Aramaic InscriptionsHistorical SignificanceZakkur SteleMentions Hazael, king of Aram-Damascus, linking to biblical narratives involving the Northern Kingdom of Israel.Tel Dan SteleReferences the 'House of David,' offering one of the earliest extra-biblical mentions of King David and his lineage.
 The Zakkur Stele's connection to Hazael sheds light on the political landscape of the ancient Near East, illustrating the interactions between different kingdoms and regions. On the other hand, the Tel Dan Stele's mention of the 'House of David' provides archaeological support for the historical existence of King David, a prominent figure in biblical accounts. These pre-Exilic Aramaic texts not only enrich our understanding of biblical history but also demonstrate the interconnectedness of ancient cultures in the region during this period.
+
+---
+
+### Related Pilgrimage Guides
+
+- [Rabbi Nachman's Journey to Israel](/stories/rabbi-nachman-journey-to-israel)

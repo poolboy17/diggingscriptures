@@ -281,3 +281,9 @@ The Old Testament continues to play a vital role in Christian doctrine, influenc
 Jesus' use of the Old Testament in his teachings demonstrates the continuity, authority, and relevancy of the Old Testament. His reinterpretation of the law and his identification as the fulfillment of messianic prophecies have profound implications for Christian theology, challenging believers to embrace the entirety of scripture and adopt a transformative interpretation.
  
 In summary, understanding the Old Testament in Jesus' time not only provides historical and cultural context but also enriches our interpretation of scripture, enables us to appreciate its relevance to Jesus' life and teachings, and deepens our understanding of God's redemptive plan for humanity.
+
+---
+
+### Related Pilgrimage Guides
+
+- [How Pilgrims Ascended the Temple Mount in Ancient Jerusalem](/routes/temple-mount-ascent)

@@ -138,3 +138,9 @@ As you consider the accumulation of knowledge about storage cave debris, it is a
 Storage cave debris invites us to acknowledge the challenges society has posed over millennia and celebrates the spirit of those who dared to stand firm against worldly conformity. Each artifact, each layer, and each story serves as a reminder that amidst the pressures of society, the quest for individuality, authenticity, and truth is perhaps one of humanity's most noble pursuits.
  
 So, the next time you find yourself feeling like a cog in the wheel of conformity, remember those who came before you, whose wisdom and struggles continue to resonate through time. Each discovery in the dirt beneath our feet is a connection to our shared human story, reminding us that we are all part of this ongoing journey.
+
+---
+
+### Related Pilgrimage Guides
+
+- [Relics and Sacred Objects: Pilgrimage History & Context](/context/relics-and-sacred-objects)

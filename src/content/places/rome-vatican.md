@@ -84,3 +84,10 @@ Accommodation options range from religious guesthouses and convents that welcome
 - [Helena and the True Cross](/stories/helena-and-the-true-cross) — The empress whose journey shaped Christian pilgrimage geography
 
 </Fragment>
+
+---
+
+### Related Research
+
+- [Biblical Archaeology Excavation Projects Unearth Ancient Wonders](/research/biblical-archaeology/biblical-archaeology-excavation-projects-unearth-ancient-wonders)
+- [Exploring the Ancient World: the Most Popular Excavation](/research/biblical-archaeology/exploring-the-ancient-world-the-most-popular-excavation-techniques-in-biblical-archaeology)

@@ -70,3 +70,10 @@ Friday prayers at Al-Aqsa draw the largest regular congregations, with tens of t
 <!-- LAYER 3: Hydration pending -->
 
 </Fragment>
+
+---
+
+### Related Research
+
+- [Unraveling Ancient Jerusalem: a Deep Dive into the Temple](/research/excavations/ancient-jerusalem-street-reveals-temple-pilgrim-path)
+- [Ancient Jerusalem Marketplace Near Temple Unveiled](/research/excavations/ancient-jerusalem-marketplace-near-temple-unveiled)

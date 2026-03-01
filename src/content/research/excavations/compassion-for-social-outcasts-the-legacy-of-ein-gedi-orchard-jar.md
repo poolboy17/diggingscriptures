@@ -85,3 +85,9 @@ In the shadow of the Ein Gedi Orchard Jar lies a story of compassion that resona
 Compassion is not merely a historical footnote but a living principle that can shape our current attitudes and practices. Whether by sharing resources, supporting those in need, or simply being kind to someone who feels like an outcast, your empathy can echo the care demonstrated in ancient narratives.
  
 In the journey through history, you have the opportunity to embrace compassion, ensuring that the legacy of the Ein Gedi Orchard Jar continues to inspire generations to come. The challenges of today's society may seem daunting, but remember that every act of kindness counts. Your role in fostering a compassionate community can undoubtedly make a difference.
+
+---
+
+### Related Pilgrimage Guides
+
+- [Rabbi Nachman's Journey to Israel](/stories/rabbi-nachman-journey-to-israel)

@@ -186,3 +186,9 @@ The ancient focus on preserving law teaches us that laws are not just rules but 
 Preserving the law is a time-honored endeavor that carries a significant weight in both ancient and modern contexts. The hillside dwelling, with its historical prominence, serves as a poignant reminder of the effort involved in safeguarding knowledge.
  
 As we reflect on the scribes' dedication and the various cultural practices of law preservation, it becomes clear that laws are not merely imposed rules but rather reflections of our collective values and commitments. By acknowledging the past, we can strive to create a future where laws continue to serve as a foundation for justice, community, and ethical living.
+
+---
+
+### Related Pilgrimage Guides
+
+- [Rabbi Nachman's Journey to Israel](/stories/rabbi-nachman-journey-to-israel)

@@ -82,3 +82,10 @@ The question of Jewish prayer on the Temple Mount itself remains one of the most
 - [The Three Pilgrim Festivals of Judaism](/context/three-pilgrim-festivals-judaism) — The calendar and ritual cycle
 
 </Fragment>
+
+---
+
+### Related Research
+
+- [Unearth Secrets of Ancient Temples: a Journey into Biblical](/research/biblical-archaeology/biblical-archaeology-discovering-ancient-temple-sites)
+- [The Unearthing of Ancient Temples: a Biblical Archaeological](/research/biblical-archaeology/the-unearthing-of-ancient-temples-a-biblical-archaeological-expedition)

@@ -298,3 +298,9 @@ Both events involved the sacrificial offering and consumption of bread and wine.
 The Last Supper also reveals Jesus' role as the ultimate Passover Lamb, fulfilling the prophetic significance of the Passover and inaugurating a new era of redemption and salvation.
  
 While the Last Supper and Passover share key elements and theological connections, the Last Supper takes on additional significance as it points to the sacrificial death and atonement brought about by Jesus' life, death, and resurrection. The Eucharist/Communion emerges from this context, serving as a sacramental means of remembering, participating, and communing with the resurrected Christ.
+
+---
+
+### Related Pilgrimage Guides
+
+- [How Pilgrims Ascended the Temple Mount in Ancient Jerusalem](/routes/temple-mount-ascent)

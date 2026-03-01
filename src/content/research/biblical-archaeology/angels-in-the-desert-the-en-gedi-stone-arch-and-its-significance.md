@@ -160,3 +160,9 @@ In the end, En Gedi is more than a physical location; it acts as a metaphorical 
  
  
 Ultimately, the stories of angels in the desert, embodied by the En Gedi Stone Arch, invite you to contemplate your own connections to the sacred and the significant moments that resonate through every human life. So, what stories will you carry forth from this oasis into the vast deserts of your life?
+
+---
+
+### Related Pilgrimage Guides
+
+- [Why Walking to Sacred Places Changes People](/context/psychology-of-pilgrimage)

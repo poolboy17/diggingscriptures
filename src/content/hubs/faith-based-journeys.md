@@ -126,3 +126,10 @@ The site treats pilgrimage as genuinely significant without requiring acceptance
 Readers will find information organized around places, routes, traditions, and historical context. Sacred sites are presented with attention to their history, their significance within particular traditions, and the practical realities of visiting them today. Pilgrimage routes are described in terms of their development, their cultural meaning, and contemporary conditions. Background articles provide context on the traditions, practices, and ideas that shape pilgrimage across different communities.
 
 Faith-based journeys represent one of humanity's most persistent and widespread practices. Understanding them illuminates not only religious history but human nature itself—the impulse to seek meaning through movement, to find the sacred in particular places, and to connect with communities across time and space through shared practice. This site offers resources for that understanding.
+
+---
+
+### Related Research
+
+- [Exploring Ancient Jerusalem: Pilgrim Routes Unearthed](/research/excavations/exploring-ancient-jerusalem-pilgrim-routes-unearthed)
+- [Discover Ancient Jerusalem: Unveiling Biblical Secrets In](/research/excavations/archaeological-maps-of-ancient-jerusalem-unveiled)

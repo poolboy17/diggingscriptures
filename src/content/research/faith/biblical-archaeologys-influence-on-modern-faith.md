@@ -92,3 +92,9 @@ A: Biblical archaeology intersects with fields such as ancient history, anthropo
 #### Q: What are the ethical considerations in biblical archaeology?
 
 A: Ethical considerations in biblical archaeology include respecting the rights of local communities, preserving archaeological sites for future generations, and ensuring that research is conducted in a sensitive and culturally appropriate manner.
+
+---
+
+### Related Pilgrimage Guides
+
+- [Rabbi Nachman's Journey to Israel](/stories/rabbi-nachman-journey-to-israel)

@@ -149,3 +149,9 @@ Elijah's Cave, nestled at the foot of Mount Carmel, is believed to be the place 
 ## Muhraqa
 
 Muhraqa, meaning "the place of burning," is a site believed to be where the prophet Elijah confronted the prophets of Baal and demonstrated the supremacy of the God of Israel. Located on the peak of Mount Carmel, Muhraqa provides breathtaking panoramic views of the surrounding countryside. Visitors can explore the site, which includes a small chapel and an open-air platform, and envision the dramatic events that took place here. Muhraqa serves as a reminder of the power and influence of biblical figures and the enduring messages found within their stories.
+
+---
+
+### Related Pilgrimage Guides
+
+- [How Pilgrims Ascended the Temple Mount in Ancient Jerusalem](/routes/temple-mount-ascent)

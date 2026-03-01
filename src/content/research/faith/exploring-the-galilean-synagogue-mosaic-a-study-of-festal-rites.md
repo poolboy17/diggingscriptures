@@ -176,3 +176,9 @@ In a world characterized by rapid change, the lessons and symbols of past ritual
 The Galilean Synagogue Mosaic stands as a vibrant testament to ancient Jewish life, rich with festal rites and cultural significance. It is not merely art but a narrative tapestry illustrating spirituality, community, and historical continuity. These intricate designs foster a bridge to the present, stimulating your thoughts on faith, tradition, and the enduring human experience.
  
 As you consider the stories echoed in the stones, remember that the past continues to influence the present, reminding you of the shared human yearning for connection, meaning, and celebration. In a world that often seems disconnected, the mosaic serves as a colorful call to recognize the threads that bind ussocially, spiritually, and culturally.
+
+---
+
+### Related Pilgrimage Guides
+
+- [Rabbi Nachman's Journey to Israel](/stories/rabbi-nachman-journey-to-israel)

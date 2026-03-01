@@ -91,3 +91,10 @@ The Abraham Path demonstrates that pilgrimage routes need not be ancient to be m
 - [Pilgrimage and Tourism in the Modern Era](/context/pilgrimage-tourism-modern-era) — The evolving intersection of sacred and secular travel
 
 </Fragment>
+
+---
+
+### Related Research
+
+- [Uncovering Ancient Trade Routes Through Biblical Archaeology](/research/faith/uncovering-ancient-trade-routes-through-biblical-archaeology)
+- [Exploring Ancient Religious Practices Through Biblical](/research/faith/exploring-ancient-religious-practices-through-biblical-archaeology)

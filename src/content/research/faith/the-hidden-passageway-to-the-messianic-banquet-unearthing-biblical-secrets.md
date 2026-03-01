@@ -137,3 +137,9 @@ As you reflect on the intriguing narrative of the Messianic Banquet, it becomes 
 Ultimately, the promise of the Messianic Banquet serves as an invitation, calling you to partake in a gathering that transcends time and space. The communal act of sharing and feasting, laden with divine promise, speaks to a hope that spans generations.
  
  -  **Final Thought:** As you ponder this grand banquet, consider what it means for your journey of faith and how you relate to this rich historical narrative. The doorway into the Messianic feast may reveal itself through the connections you forge, the traditions you cherish, and the community you build in pursuit of divine presence.
+
+---
+
+### Related Pilgrimage Guides
+
+- [Rabbi Nachman's Journey to Israel](/stories/rabbi-nachman-journey-to-israel)

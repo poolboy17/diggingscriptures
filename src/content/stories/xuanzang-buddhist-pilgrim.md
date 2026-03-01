@@ -62,3 +62,10 @@ Xuanzang's journey also demonstrates the transformative potential of pilgrimage 
 - [Lumbini](/places/lumbini) — The Buddha's birthplace, another site Xuanzang visited and documented
 
 </Fragment>
+
+---
+
+### Related Research
+
+- [Temple Mount Secrets: Unearthing Hidden History with Advanced](/research/excavations/archaeological-scanning-unveils-temple-mount-secrets)
+- [Exploring the Temple era Gardens in Biblical Archaeology](/research/biblical-archaeology/exploring-the-temple-era-gardens-in-biblical-archaeology)

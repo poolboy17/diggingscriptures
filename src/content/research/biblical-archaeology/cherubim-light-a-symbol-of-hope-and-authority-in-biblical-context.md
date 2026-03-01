@@ -128,3 +128,9 @@ In tracing the significance of cherubim from the biblical context to contemporar
  
  
 Cherubim are integral symbols that connect humanity with the divine. Their light shines through various contexts, offering a bridge of hope that resonates deeply, encouraging you to see the authority and love poured forth by the divine presence in your life.
+
+---
+
+### Related Pilgrimage Guides
+
+- [Shikoku 88 Temple Pilgrimage: Historic Pilgrimage Route](/routes/shikoku-88-temples)

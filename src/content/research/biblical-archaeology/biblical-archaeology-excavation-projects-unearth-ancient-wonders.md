@@ -134,3 +134,9 @@ Exciting Biblical Archaeology Excavation Finds Unearthed
 Recent Biblical Archaeological Discoveries Shed New Light on Ancient Mysteries
 Exciting Biblical Archaeology Excavation Finds Unearthed
 Recent Biblical Archaeological Discoveries Shed New Light on Ancient Mysteries
+
+---
+
+### Related Pilgrimage Guides
+
+- [How Pilgrims Ascended the Temple Mount in Ancient Jerusalem](/routes/temple-mount-ascent)

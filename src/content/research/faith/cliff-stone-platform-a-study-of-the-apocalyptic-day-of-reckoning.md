@@ -129,3 +129,9 @@ In wrapping up, the Cliff Stone Platform serves not just as a historical artifac
 As you reflect on the presence of the Cliff Stone Platform and the narratives surrounding the Day of Reckoning, consider this: conclusions often lead to new journeys. Just as old civilizations have left their mark upon the world, so will your understanding evolve as you traverse the interconnected narratives of history, culture, and human experience.
  
 Take a moment to appreciate how these stories endure, how they speak to you, perhaps nudging you to ponder your role in the grand tapestry of existence. What kind of legacy will you leave behind in the Circle of Time? The sense of end can signal a new dawnone that invites you to embrace, learn, and grow.
+
+---
+
+### Related Pilgrimage Guides
+
+- [Rabbi Nachman's Journey to Israel](/stories/rabbi-nachman-journey-to-israel)

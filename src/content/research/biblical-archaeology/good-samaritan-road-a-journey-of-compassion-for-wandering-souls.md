@@ -163,3 +163,9 @@ Are you ready to apply the lessons of the Good Samaritan Road in your own life? 
 The parables message transcends time and space, beckoning you to embody the spirit of kindness. Whether through small gestures or meaningful activism, your journey toward compassion can echo throughout your community and beyond, reminding others that they too are not alone.
  
 By intertwining historical insights, theological reflections, and cultural expressions, you can appreciate the depth of the Good Samaritan Roada journey that invites you to participate in a world that thrives on empathy, kindness, and unwavering compassion for wandering souls.
+
+---
+
+### Related Pilgrimage Guides
+
+- [Jerusalem Old City: Sacred Pilgrimage Destination](/places/jerusalem-old-city)

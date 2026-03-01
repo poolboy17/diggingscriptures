@@ -73,3 +73,9 @@ In summary, uncovering the stories of biblical towns is a testament to the endur
 The journey of discovery does not end here. Engage in understanding and sharing these insights, as each new finding transforms the ancient past. Join in supporting archaeological exploration, for each unearthed artifact and newly deciphered text expands the rich tapestry of our shared history.
  
 By enriching our knowledge of biblical towns, we not only uncover stories of the past but build bridges to better appreciate and understand our present.
+
+---
+
+### Related Pilgrimage Guides
+
+- [Shikoku 88 Temple Pilgrimage: Historic Pilgrimage Route](/routes/shikoku-88-temples)

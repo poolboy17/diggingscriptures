@@ -59,3 +59,9 @@ Key archaeological discoveries have provided compelling evidence connecting to t
 The Dead Sea Scrolls, comprising over 980 manuscripts from the 3rd century BC to 1st century AD, provide essential insights into biblical texts, showcasing remarkable preservation with minimal alterations. Additionally, the Silver Ketef Hinnom Scrolls, featuring biblical inscriptions such as the Priestly Benediction, represent the earliest known section of Scripture found outside the Bible, reinforcing the authenticity of ancient Hebrew texts.
 
 These archaeological findings play a pivotal role in substantiating biblical narratives, offering significant evidence that bolsters the historical accuracy of the Bible and enriches our understanding of ancient civilizations and religious practices.
+
+---
+
+### Related Pilgrimage Guides
+
+- [Shikoku 88 Temple Pilgrimage: Historic Pilgrimage Route](/routes/shikoku-88-temples)

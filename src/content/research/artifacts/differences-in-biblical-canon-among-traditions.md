@@ -138,3 +138,9 @@ Overall, the Orthodox Bible contains more books and includes additional texts li
 **What insights do the Dead Sea Scrolls offer?**
  
 These scrolls present alternative textual traditions of the Old Testament, shedding light on early Judaism and scriptural interpretation variations.
+
+---
+
+### Related Pilgrimage Guides
+
+- [Rabbi Nachman's Journey to Israel](/stories/rabbi-nachman-journey-to-israel)

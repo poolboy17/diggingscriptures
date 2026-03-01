@@ -154,3 +154,9 @@ The oldest writings in the Old Testament, such as the book of Job and the Psalms
 ### Implications for understanding the Bible as a whole
  
 The study of the oldest writings in the Old Testament has far-reaching implications for understanding the Bible as a whole. By examining the texts in their historical and cultural contexts, we can gain a deeper appreciation for the diverse perspectives, genres, and themes present throughout the Old Testament. Understanding the ancient origins of the texts informs our understanding of the progressive revelation of God's plan and His interactions with His people.
+
+---
+
+### Related Pilgrimage Guides
+
+- [Shikoku 88 Temple Pilgrimage: Historic Pilgrimage Route](/routes/shikoku-88-temples)

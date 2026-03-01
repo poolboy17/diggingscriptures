@@ -90,3 +90,9 @@ A: Some key discoveries in Biblical Archaeology include the Dead Sea Scrolls, th
 #### Q: How can I learn more about Biblical Archaeology?
 
 A: You can learn more about Biblical Archaeology through books, documentaries, online resources, visiting archaeological sites and museums, and attending lectures and seminars by scholars in the field.
+
+---
+
+### Related Pilgrimage Guides
+
+- [Rabbi Nachman's Journey to Israel](/stories/rabbi-nachman-journey-to-israel)

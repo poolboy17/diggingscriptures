@@ -84,3 +84,10 @@ The Mahaparinibbana Sutta (Digha Nikaya 16) provides the canonical foundation fo
 - [Xuanzang: The Buddhist Pilgrim](/stories/xuanzang-buddhist-pilgrim) — The monk who documented these sites in the seventh century
 
 </Fragment>
+
+---
+
+### Related Research
+
+- [Unearth Secrets of Ancient Temples: a Journey into Biblical](/research/biblical-archaeology/biblical-archaeology-discovering-ancient-temple-sites)
+- [The Unearthing of Ancient Temples: a Biblical Archaeological](/research/biblical-archaeology/the-unearthing-of-ancient-temples-a-biblical-archaeological-expedition)

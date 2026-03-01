@@ -69,3 +69,9 @@ The research into the role of markets in temple economies is ongoing, with new d
 ## Conclusion
  
 In summary, the exploration of ancient markets and their role in temple economies underscores a complex and dynamic interplay between religious and economic spheres. Recent archaeological findings enrich this narrative, offering substantive evidence of past economic practices. As research progresses, these insights provide a deeper understanding of ancient societies' economic structures, revealing the intricate balance of power, spirituality, and economics. Such a comprehensive understanding encourages further scholarly exploration, inviting a re-examination of both ancient texts and material culture. The ongoing investigation into these fascinating intersections continues to reshape our historical narrative, offering valuable lessons for the present and future. Pursuing these inquiries not only bridges the gap between past and present but also enriches our collective cultural heritage.
+
+---
+
+### Related Pilgrimage Guides
+
+- [Shikoku 88 Temple Pilgrimage: Historic Pilgrimage Route](/routes/shikoku-88-temples)

@@ -62,3 +62,9 @@ Today, the continued excavation and analysis of temple storerooms act as a cruci
 As we resurface from this voyage into the storerooms of ancient temples, we carry with us a deeper understanding of this critical component of biblical archaeology. Not only do these storerooms hold secrets of past socio-religious complexities, but they also enhance our present-day appreciation of these ancient worlds. The discoveries from these storerooms are continuously rewriting the narrative of history, urging us ever onward to unearth further layers of our shared past.
  
 In the spirit of exploration and respect for ancient wisdom, it is incumbent upon scholars and enthusiasts alike to remain engaged with these discoveries, supporting ongoing research that broadens our horizons. With each artifact, a piece of history unfurlsnot only adding to our knowledge but enriching our cultural and spiritual heritage.
+
+---
+
+### Related Pilgrimage Guides
+
+- [How Pilgrims Ascended the Temple Mount in Ancient Jerusalem](/routes/temple-mount-ascent)

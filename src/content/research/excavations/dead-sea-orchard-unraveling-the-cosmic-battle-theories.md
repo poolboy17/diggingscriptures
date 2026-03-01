@@ -101,3 +101,9 @@ The narrative of cosmic battles, as teased out from the Dead Sea Scrolls and the
 As you walk through your life, think of the cosmic struggles depicted in these ancient texts as reminders of your own power to choose light over darkness, hope over despair. The ancient battles of the past may guide you in shaping a future grounded in wisdomthat is as relevant today as it was centuries ago.
  
 In navigating both the visible and invisible conflicts surrounding you, may you find strength in the wisdom of those who walked before and continue the dialogue that these beautifully complex scrolls have initiated. Your journey is a part of this larger narrativea cosmic battle that is still being written.
+
+---
+
+### Related Pilgrimage Guides
+
+- [Shikoku 88 Temple Pilgrimage: Historic Pilgrimage Route](/routes/shikoku-88-temples)

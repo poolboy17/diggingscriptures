@@ -96,3 +96,10 @@ Some travelers engage organized pilgrimage programs that combine walking portion
 - [Jerusalem](/places/jerusalem) — Another major Christian pilgrimage destination
 
 </Fragment>
+
+---
+
+### Related Research
+
+- [Exploring Ancient Jerusalem: Pilgrim Routes Unearthed](/research/excavations/exploring-ancient-jerusalem-pilgrim-routes-unearthed)
+- [Unraveling Ancient Jerusalem: a Deep Dive into the Temple](/research/excavations/ancient-jerusalem-street-reveals-temple-pilgrim-path)

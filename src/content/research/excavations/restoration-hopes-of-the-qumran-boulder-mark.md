@@ -135,3 +135,9 @@ As insights from the Qumran Boulder Mark emerge, they could provoke deeper inqui
 While the Qumran Boulder Mark may merely appear to be a rock, beneath its weathered surface lies a treasure trove of historical significance and cultural insight. The restoration efforts surrounding this artifact not only aim to preserve a piece of history but also to enrich our understanding of the pasts impact on contemporary society. As you digest this intersection of archaeology, theology, and cultural heritage, may it encourage you to appreciate the enduring legacies of those who came before us and how their stories continue to shape our lives today.
  
 In the rich landscape of archaeological discoveries, the hopes for the Qumran Boulder Mark reflect a broader narrative of seeking understanding amidst the sands of time. It resonates within you, inviting reflection on how the past molds our identities and informs our shared human experience.
+
+---
+
+### Related Pilgrimage Guides
+
+- [Shikoku 88 Temple Pilgrimage: Historic Pilgrimage Route](/routes/shikoku-88-temples)

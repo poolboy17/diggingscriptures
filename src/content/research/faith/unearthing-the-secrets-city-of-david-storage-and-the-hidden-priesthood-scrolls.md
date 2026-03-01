@@ -131,3 +131,9 @@ Finding the Priesthood Scrolls in the City of David reveals a tapestry that intr
 By studying the artifacts, understanding the archaeological methods, and examining the theological implications, you can appreciate the depth and complexity of ancient beliefs and their parallel narratives in todays world. As the modern landscape of faith continues to evolve, the Priesthood Scrolls stand as a testament to the enduring quest for understanding, identity, and communion within the tapestry of history.
  
 As you reflect on this knowledge, consider what these ancient practices and beliefs mean for you today. Perhaps, like the scrolls themselves, they offer wisdom that can guide you in an ever-changing world.
+
+---
+
+### Related Pilgrimage Guides
+
+- [How Pilgrims Ascended the Temple Mount in Ancient Jerusalem](/routes/temple-mount-ascent)

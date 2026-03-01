@@ -143,3 +143,9 @@ In unraveling the story of the City of David's blocked door, you find a narrativ
 In understanding the significance of this blocked door, you peel back layers of history that continue to inform the present and suggest possibilities for the future. Just like every door, it may take effort to open, but what lies on the other side could be transformative. Whether for yourself, your community, or society at large, unblocking potential allows for the discovery of new pathways and opportunitiesmuch like the ongoing journey of restoring the City of David.
  
 By understanding these connections and insights, you cultivate a richer appreciation for the narratives that shaped Jerusalem, offering a window into how ancient histories can inform modern lives. The City of David, through its stories, whispers timeless truths that resonate with the quest for restoration and renewal, carving out an enduring legacy for all who venture to listen.
+
+---
+
+### Related Pilgrimage Guides
+
+- [How Pilgrims Ascended the Temple Mount in Ancient Jerusalem](/routes/temple-mount-ascent)

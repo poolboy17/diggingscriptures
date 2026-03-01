@@ -129,3 +129,9 @@ Cultural heritage isnt just an echo from the past; it's a foundation for underst
 The Ravine Settlement offers not just relics of the past but patterns of community life that resonate even in our modern world. Through careful examination, the artifacts and documents pave a path from antiquity to the present, reminding us of our interconnectedness.
  
 The intricate story of the Ravine Settlement under Roman rule illustrates how civilizations adapt and thrive, leaving a rich tapestry of history. As we reflect on these ancient lives, lets carry forward the lessons of communal strength, governance, and cultural exchange. After all, understanding our history enhances our perspective on the human experience today and tomorrow.
+
+---
+
+### Related Pilgrimage Guides
+
+- [Shikoku 88 Temple Pilgrimage: Historic Pilgrimage Route](/routes/shikoku-88-temples)

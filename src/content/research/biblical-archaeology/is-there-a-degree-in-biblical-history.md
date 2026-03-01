@@ -61,3 +61,9 @@ Academic expertise in Biblical history encompasses a multidisciplinary approach 
 Academic advancement in the field of Biblical history often involves exploring distinct paths tailored to individual scholarly interests and goals. For those considering a bachelor's degree in this field, programs typically require a foundational understanding of biblical Hebrew and Greek, along with coursework in related disciplines. Trinity Southwest University offers specialized M.A. and Ph.D. degrees in Archaeology & Biblical History focusing on the Near East. These advanced degrees delve deeper into areas such as Old or New Covenant periods, historical geography, and archaeological studies.
 
 Individuals pursuing a master's degree often engage in rigorous academic study, examining the historical reliability of biblical narratives, developing hermeneutical frameworks, and gaining a contextual understanding of ancient texts. Trinity Southwest University's curriculum is known for emphasizing these aspects while providing opportunities for fieldwork, research projects, and study tours. Students are encouraged to participate in excavation projects and engage with local cultures to enrich their academic experience.
+
+---
+
+### Related Pilgrimage Guides
+
+- [Rabbi Nachman's Journey to Israel](/stories/rabbi-nachman-journey-to-israel)

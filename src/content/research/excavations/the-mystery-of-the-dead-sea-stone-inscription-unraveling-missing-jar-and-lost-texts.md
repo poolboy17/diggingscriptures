@@ -162,3 +162,9 @@ As we draw closer to the end of our journey through the mysteries of the Dead Se
 The history woven through these ancient inscriptions serves as a mirror reflecting our contemporary struggles, joys, and beliefs. The missing jar and lost texts remind us of how history can illuminate the present, and in turn, shape the future.
  
 In conclusion, the intrigue surrounding the Dead Sea Stone Inscription underscores a collective yearning to connect with our past. As you ponder these ancient relics, consider how they can nourish your understanding of identity, faith, and history. Its all about the conversationboth with those who walked the earth before us and among ourselves as we forge forward into the unknown.
+
+---
+
+### Related Pilgrimage Guides
+
+- [Shikoku 88 Temple Pilgrimage: Historic Pilgrimage Route](/routes/shikoku-88-temples)

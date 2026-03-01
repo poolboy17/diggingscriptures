@@ -173,3 +173,9 @@ The Jericho Boundary Crack reminds us of the intricate interplay between history
 As you reflect on the lessons derived from Jericho, consider how these insights can contribute to your understanding of community and spirituality today. By fostering a sense of spiritual unity, not only can we draw strength from our past, but we can also create a more harmonious future.
  
 Ultimately, the essence of Jerichoits boundary crack echoing the fragility and potential for renewalencourages us to appreciate the threads that connect us all, transcending time and space. Embracing that unity can indeed become a key to survival for us all.
+
+---
+
+### Related Pilgrimage Guides
+
+- [Kora Around Mount Kailash: Historic Pilgrimage Route](/routes/kora-mount-kailash)

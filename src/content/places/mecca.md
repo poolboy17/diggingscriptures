@@ -73,3 +73,10 @@ Transportation within the holy sites has been improved by the Haramain High Spee
 - [Dome of the Rock](/places/dome-of-the-rock) — Jerusalem's iconic Islamic shrine
 
 </Fragment>
+
+---
+
+### Related Research
+
+- [Exploring Ancient Jerusalem: Pilgrim Routes Unearthed](/research/excavations/exploring-ancient-jerusalem-pilgrim-routes-unearthed)
+- [Unraveling Ancient Jerusalem: a Deep Dive into the Temple](/research/excavations/ancient-jerusalem-street-reveals-temple-pilgrim-path)

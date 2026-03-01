@@ -46,3 +46,9 @@ On the other hand, a key passage in the New Testament that reveals the central t
 By comparing and analyzing these key passages, we can observe the shift in emphasis from law to grace, from the Old Testament to the New Testament. The Old Testament places importance on obedience to the law as a means of maintaining a covenant relationship with God, while the New Testament emphasizes that salvation is a gift of God's grace, received through faith in Jesus Christ.
  
 In conclusion, exploring the contrasting themes in the Old Testament and the New Testament, understanding their historical and cultural contexts, and analyzing key passages from each Testament are essential in gaining a comprehensive understanding of the messages conveyed in both. These insights help to deepen our appreciation for the rich and diverse narratives contained within the Holy Bible, while also recognizing the continuity and unity of God's plan of salvation throughout history.
+
+---
+
+### Related Pilgrimage Guides
+
+- [Rabbi Nachman's Journey to Israel](/stories/rabbi-nachman-journey-to-israel)

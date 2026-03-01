@@ -62,3 +62,10 @@ Egeria's text continues to generate scholarly discussion, with debates ongoing a
 - [Relics and Sacred Objects](/context/relics-and-sacred-objects) — The material culture Egeria encountered
 
 </Fragment>
+
+---
+
+### Related Research
+
+- [Unveiling Truths: Ancient Jerusalem Palace Discovery Sparks](/research/excavations/ancient-jerusalem-palace-unearthed-sparks-biblical-interest)
+- [Exploring Ancient Jerusalem: Pilgrim Routes Unearthed](/research/excavations/exploring-ancient-jerusalem-pilgrim-routes-unearthed)

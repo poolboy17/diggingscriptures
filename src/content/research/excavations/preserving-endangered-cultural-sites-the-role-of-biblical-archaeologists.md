@@ -85,3 +85,9 @@ Raising awareness and promoting cultural heritage among the general public is fu
 Biblical archaeologists occupy a crucial position in the preservation of endangered cultural sites. Their research, documentation, and advocacy efforts contribute to the survival and appreciation of these historical treasures. By collaborating with local communities, authorities, and international organizations, biblical archaeologists ensure that the delicate balance between preservation and development is maintained.
 
 Preserving the past not only enriches our understanding of history but also safeguards cultural diversity and heritage for future generations. Through their work, biblical archaeologists inspire appreciation and understanding of our shared human story. By recognizing the importance of their vital role, we can collectively ensure that our cultural sites are protected, celebrated, and cherished as symbols of our collective identity and heritage.
+
+---
+
+### Related Pilgrimage Guides
+
+- [Jerusalem Old City: Sacred Pilgrimage Destination](/places/jerusalem-old-city)

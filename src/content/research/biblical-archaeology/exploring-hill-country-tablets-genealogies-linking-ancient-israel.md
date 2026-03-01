@@ -110,3 +110,9 @@ As you reflect upon the Hill-Country Tablets and their genealogies, consider the
 The stories captured within these carvings not only enrich our understanding of ancient Israel but also resonate with our modern experiences. By examining these artifacts, you open a window to the complexities of human relationships that have transcended time and cultural boundaries.
  
 Ultimately, engaging with the Hill-Country Tablets and their genealogies connects you to the rich tapestry of heritage, spirituality, and societal structures that persist in shaping our world today. They inform our understanding of not just who we are, but where we come from, intertwining our histories with those of our ancestors. So, as you mine the depths of these ancient genealogies, know that you are part of a legacy that echoes through time.
+
+---
+
+### Related Pilgrimage Guides
+
+- [Jerusalem Old City: Sacred Pilgrimage Destination](/places/jerusalem-old-city)
