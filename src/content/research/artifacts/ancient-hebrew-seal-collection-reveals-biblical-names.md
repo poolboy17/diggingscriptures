@@ -6,6 +6,9 @@ parentHub: "artifacts"
 pubDate: 2024-10-30
 lastUpdated: 2024-10-30
 draft: false
+image: "/images/research/artifacts/ancient-hebrew-seal-collection-reveals-biblical-names.jpg"
+imageAlt: "bust, head, sculpture, art, hellenic, craft, workmanship, museum, mythology, religion, ancient, museum, museum, museum, museum, museum, mythology, ancient"
+imageCredit: "Image by Engin_Akyurt on Pixabay"
 ---
 
 ## Have You Ever Considered the Secrets Hidden Within Ancient Seals?

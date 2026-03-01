@@ -6,6 +6,9 @@ parentHub: "excavations"
 pubDate: 2024-02-06
 lastUpdated: 2024-02-06
 draft: false
+image: "/images/research/excavations/unearthing-the-truth-current-controversies-in-biblical-archaeology.jpg"
+imageAlt: "jerash, jordan, ruins, ancient, architecture, roman, archeology, pillar, historic, stone, column, brown stone, jerash, jerash, jordan, jordan, jordan, jordan, jordan"
+imageCredit: "Image by Graham-H on Pixabay"
 ---
 
 Unearthing the Truth: Current Controversies in Biblical Archaeology takes readers on a captivating journey into the intriguing world of archaeological discoveries related to the Bible. This article explores the current debates and controversies that have emerged within the field, shedding light on the complex and ever-evolving nature of deciphering ancient texts and uncovering historical truths. From contested interpretations of ancient artifacts to disputes over the authenticity of biblical sites, this article delves into the heated discussions that shape our understanding of biblical events and raises fascinating questions about the intersection of faith, history, and science.

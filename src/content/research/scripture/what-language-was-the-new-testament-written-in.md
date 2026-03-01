@@ -6,6 +6,9 @@ parentHub: "scripture"
 pubDate: 2024-04-27
 lastUpdated: 2024-04-27
 draft: false
+image: "/images/research/scripture/what-language-was-the-new-testament-written-in.jpg"
+imageAlt: "book, manuscript, paper, ancient, manuscript, manuscript, manuscript, manuscript, manuscript"
+imageCredit: "Image by TonyPrats on Pixabay"
 ---
 
 In the captivating article titled "What language was the New Testament written in?", Anita Love, a renowned theologian and scholar, explores the language behind one of the most influential texts in human history. With her expertise in ancient biblical manuscripts and religious studies, Anita delves into the origins of the New Testament, shedding light on the language in which it was written. Through her nuanced perspective and extensive research, she aims to uncover the significance and implications of the language choice in this sacred text.

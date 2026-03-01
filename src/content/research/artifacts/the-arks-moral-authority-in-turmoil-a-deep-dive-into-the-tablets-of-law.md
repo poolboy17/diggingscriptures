@@ -6,6 +6,9 @@ parentHub: "artifacts"
 pubDate: 2025-05-30
 lastUpdated: 2025-05-30
 draft: false
+image: "/images/research/artifacts/the-arks-moral-authority-in-turmoil-a-deep-dive-into-the-tablets-of-law.jpg"
+imageAlt: "rubber stamp, wooden stamp, round, seen, read, laughing, logo, seal, funny"
+imageCredit: "Image by Negrobike on Pixabay"
 ---
 
 Have you ever pondered the significance of the Tablets of Law in shaping moral authority throughout history? Its an intriguing exploration, wrapped in layers of cultural, theological, and historical narratives. As we dissect this fascinating subject, we'll look to the Ark of the Covenant and the moral implications of the commandments inscribed upon those iconic tablets.

@@ -6,6 +6,9 @@ parentHub: "faith"
 pubDate: 2025-01-28
 lastUpdated: 2025-01-28
 draft: false
+image: "/images/research/faith/exploring-the-mysteries-of-the-well-shaft-in-jericho-insights-into-ancient-ritual-cleansing.jpg"
+imageAlt: "masjid prophetic, medina, religion, muslim, islam, architectural, hz, mohammed, the last prophet, architectural history"
+imageCredit: "Image by Konevi on Pixabay"
 ---
 
 What secrets do ancient sites hold beneath the surface?

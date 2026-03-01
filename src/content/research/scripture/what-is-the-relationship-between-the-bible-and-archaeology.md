@@ -6,6 +6,9 @@ parentHub: "scripture"
 pubDate: 2024-03-04
 lastUpdated: 2024-03-04
 draft: false
+image: "/images/research/scripture/what-is-the-relationship-between-the-bible-and-archaeology.jpg"
+imageAlt: "antique, yellow pages, chapter, open book, new chapter, hebrew text, bookmark, bookworm, brown wallpaper, book wallpaper, literature, education, letterpress, textured pages, old book, book, study, storytelling, study break, old text, story, hardcover, classroom, i read, reflection, open book, education, education, old book, old book, book, book, book, book, study, study, storytelling, storytelling, storytelling, storytelling, story, story, story, story, story"
+imageCredit: "Image by Ri_Ya on Pixabay"
 ---
 
 The discovery of the Dead Sea Scrolls in Qumran, Israel, in 1947 was a pivotal moment that sparked a deeper exploration into the relationship between the Bible and archaeology.

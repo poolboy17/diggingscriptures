@@ -6,6 +6,9 @@ parentHub: "excavations"
 pubDate: 2024-02-06
 lastUpdated: 2024-02-06
 draft: false
+image: "/images/research/excavations/unearthing-the-past-biblical-archaeology-reveals-ancient-biblical-sites.jpg"
+imageAlt: "masada national park, masada, the great revolt, roman siege ramp, cliff, desert, unesco heritage site, tourism, israel, palaces of king herod the great, nature, aerial view"
+imageCredit: "Image by samirsmier on Pixabay"
 ---
 
 In the fascinating world of biblical archaeology, ancient biblical sites are being brought to light, unveiling the rich history of the Bible. Through meticulous excavation and interpretation, archaeologists are uncovering clues and artifacts that provide a glimpse into the lives and events described in biblical texts. This article explores the intriguing field of biblical archaeology and how it is illuminating our understanding of the ancient biblical sites mentioned in the Bible.

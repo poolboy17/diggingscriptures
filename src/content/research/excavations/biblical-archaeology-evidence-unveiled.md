@@ -6,6 +6,9 @@ parentHub: "excavations"
 pubDate: 2024-05-27
 lastUpdated: 2024-05-27
 draft: false
+image: "/images/research/excavations/biblical-archaeology-evidence-unveiled.jpg"
+imageAlt: "greece, parthenon, temple, ruins, building, architecture, pillars, columns, europe, ancient, history, greek, greek architecture, landmark, places of interest, tourist attraction, tourist destination, greece, greece, greece, greece, greece, parthenon, history, history, greek"
+imageCredit: "Image by nonbirinonko on Pixabay"
 ---
 
 Unearthing the secrets of past civilizations, the realm of ancient artifacts and historical artifacts offers a window into the mysteries of bygone eras. Through the exploration of **ancient ruins** and **archaeological findings**, we can piece together the puzzle of our history and gain insight into the religious practices of ancient societies. 

@@ -6,6 +6,9 @@ parentHub: "excavations"
 pubDate: 2024-10-30
 lastUpdated: 2024-10-30
 draft: false
+image: "/images/research/excavations/lidar-technology-uncovers-biblical-archaeological-sites.jpg"
+imageAlt: "ruins, sunset, nature, travel, outdoors, castle, fortress, architecture, dusk, sky, clouds, greece, silhouette"
+imageCredit: "Image by papazachariasa on Pixabay"
 ---
 
 Have you ever wondered how modern technology can aid in uncovering the mysteries of ancient biblical sites? With the advent of LiDAR technology, archaeologists are now able to explore areas shrouded in mystery, reviving places only mentioned in ancient texts. This breakthrough poses exciting possibilities, making previously inaccessible archaeological sites available for study and analysis. In this comprehensive article, we delve into how LiDAR technology is revolutionizing biblical archaeology, revealing new insights, supporting historical narratives, and opening new avenues for research.

@@ -6,6 +6,9 @@ parentHub: "biblical-archaeology"
 pubDate: 2025-05-30
 lastUpdated: 2025-05-30
 draft: false
+image: "/images/research/biblical-archaeology/hezekiahs-tunnel-plug-unraveling-the-royal-decrees-on-stone.jpg"
+imageAlt: "desert, camel, sand, pyramid, dry, travel, pharaohs, landscape, hot, archaeology, nature, tourism, warmth, heat, sahara, giza, vacations, desert, desert, desert, desert, camel, camel, camel, camel, camel, pyramid, pyramid"
+imageCredit: "Image by 8moments on Pixabay"
 ---
 
 Have you ever considered how ancient texts and archaeological finds inform our understanding of past civilizations? The intersection of scripture and archaeology is a riveting journey, particularly when it leads us to Hezekiahs Tunnel and its associated discoveries.

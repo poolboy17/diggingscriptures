@@ -6,6 +6,9 @@ parentHub: "biblical-archaeology"
 pubDate: 2024-10-30
 lastUpdated: 2024-10-30
 draft: false
+image: "/images/research/biblical-archaeology/solomons-lost-quarries-unveiled-revelations-in-temple-construction.jpg"
+imageAlt: "petra, ad deir, world heritage, sand stone, antique, historically, nature, archaeology, monument, culture, ad dayr, history, stones, sky, tourism, travel, vacations, middle east, jordan"
+imageCredit: "Image by ChiemSeherin on Pixabay"
 ---
 
 Have you ever wondered what secrets lie within the stones quarried for King Solomon's Temple? As we delve into the recesses of ancient history, the very stones bear witness to tales untold, offering a portal into a world where mythology meets archaeology. The unveiling of Solomon's lost quarries not only adds layers to biblical narratives but reshapes our understanding of an era marked by monumental construction feats.

@@ -6,6 +6,9 @@ parentHub: "scripture"
 pubDate: 2024-04-27
 lastUpdated: 2024-04-27
 draft: false
+image: "/images/research/scripture/understanding-jesus-in-the-old-testament.jpg"
+imageAlt: "mesopotamia, myth, mythology, history, landscape, ruins, anunnaki, sumerian, gods, enki, enlil, cuneiform, tablet, writings, clay tablets, texts, ancient"
+imageCredit: "Image by BenFishold on Pixabay"
 ---
 
 In the world of biblical scholarship, Anita Love has emerged as a leading expert on the subject of understanding Jesus in the Old Testament. With her extensive academic background and profound knowledge of ancient manuscripts, Anita delves into the intricate connection between the Old and New Testaments. Her research centers around various themes and genres, exploring the historic and cultural contexts of both Testaments. Anita's work also addresses the concept of the Messiah and the fulfillment of prophecies in the life and teachings of Jesus. Through her nuanced perspective and deep respect for diverse Christian beliefs, Anita Love revolutionizes the way we interpret and comprehend the Old Testament's relevance to Jesus.

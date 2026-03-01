@@ -6,6 +6,9 @@ parentHub: "scripture"
 pubDate: 2024-03-04
 lastUpdated: 2024-03-04
 draft: false
+image: "/images/research/scripture/is-ethiopian-bible-accurate.jpg"
+imageAlt: "diary, ipad, write, blog, workplace, notebook, coffee mug, mockup, diary, blog, blog, blog, blog, blog"
+imageCredit: "Image by Edar on Pixabay"
 ---
 
 Amidst the rugged terrain of the Tigrai Highlands in Ethiopia, the ancient echoes of the Garima Gospels resonate.

@@ -6,6 +6,9 @@ parentHub: "biblical-archaeology"
 pubDate: 2025-05-30
 lastUpdated: 2025-05-30
 draft: false
+image: "/images/research/biblical-archaeology/qumran-storage-surprise-unveiling-ascetic-confessions.jpg"
+imageAlt: "temple, jupiter, roman, antique, column, architecture, ancient, stone, antiquity, baalbek, lebanon, brown stone, temple, temple, temple, roman, roman, roman, roman, ancient, ancient, lebanon, lebanon, lebanon, lebanon, lebanon"
+imageCredit: "Image by djedj on Pixabay"
 ---
 
 What if I told you that beneath the arid sands of the Judean Desert lay secrets about a group of ascetics who were not just spiritually inclined, but also profoundly organized in their way of living?

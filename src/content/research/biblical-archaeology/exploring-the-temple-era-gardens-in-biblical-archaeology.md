@@ -6,6 +6,9 @@ parentHub: "biblical-archaeology"
 pubDate: 2024-10-30
 lastUpdated: 2024-10-30
 draft: false
+image: "/images/research/biblical-archaeology/exploring-the-temple-era-gardens-in-biblical-archaeology.jpg"
+imageAlt: "contrast, abstract, nature, minimalism, windows, stone wall, desert, israel"
+imageCredit: "Image by Pix-Off on Pixabay"
 ---
 
 Have you ever wondered about the gardens that flourished during the Temple Era, as described in biblical texts, and what they can tell us about that time? This exploration of Temple Era gardens in biblical archaeology invites you to journey back in history to better understand these verdant sanctuaries that played a pivotal role in religious, cultural, and social life.

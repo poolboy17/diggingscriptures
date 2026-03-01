@@ -6,6 +6,9 @@ parentHub: "biblical-archaeology"
 pubDate: 2024-10-30
 lastUpdated: 2024-10-30
 draft: false
+image: "/images/research/biblical-archaeology/advanced-imaging-illuminates-ancient-hebrew-texts.jpg"
+imageAlt: "egypt, temple, hieroglyphics, pharaoh, egyptian temple, travel, statue, columns, pierre, story, nile, edfu, archaeologist, archaeology, archaeological excavations, archaeologist, archaeologist, archaeologist, archaeologist, archaeologist"
+imageCredit: "Image by NadineDoerle on Pixabay"
 ---
 
 Have you ever considered how advanced imaging techniques could revolutionize our understanding of ancient texts? In today's scholarly realm, technological advancements are peeling back the layers of time, bringing to light texts that have been shrouded for centuries. One such triumph of modern technology is the discovery and illumination of ancient Hebrew texts. This journey through time is being reshaped by the lens of advanced imaging, offering profound insights into our biblical heritage.

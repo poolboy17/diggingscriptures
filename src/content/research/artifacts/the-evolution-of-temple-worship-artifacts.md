@@ -6,6 +6,9 @@ parentHub: "artifacts"
 pubDate: 2024-10-30
 lastUpdated: 2024-10-30
 draft: false
+image: "/images/research/artifacts/the-evolution-of-temple-worship-artifacts.jpg"
+imageAlt: "hieroglyphs, egypt, stone, art, old, egyptian, history, antique, mona, museum, archeology, font, historic, ancient, glyphs, black art, black history, black old, black stone, egypt, egypt, egypt, egyptian, egyptian, archeology, archeology, archeology, archeology, archeology"
+imageCredit: "Image by barasa81 on Pixabay"
 ---
 
 Have you ever wondered about the artifacts that have shaped the practices of temple worship over centuries? Objects that have been central to some of the oldest religious traditions throughout history can tell us a great deal about the cultures and eras they come from. In discussing these artifacts, we traverse a path woven through millennia, tracing how the tangible elements of worship have transformed alongside beliefs and rituals. "The Evolution of Temple Worship Artifacts" sheds light on this captivating journey, offering insights into ancient practices and their enduring influence on contemporary worship.

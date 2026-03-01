@@ -6,6 +6,9 @@ parentHub: "scripture"
 pubDate: 2024-04-27
 lastUpdated: 2024-04-27
 draft: false
+image: "/images/research/scripture/what-language-was-the-old-testament-written-in.jpg"
+imageAlt: "qumran national park, qumran, archeology, dead sea scrolls, cave number 4, discovery, cave, scroll, qumran, qumran, qumran, qumran, qumran, dead sea scrolls"
+imageCredit: "Image by samirsmier on Pixabay"
 ---
 
 Have you ever wondered about the origins of the Old Testament? Well, you're in luck! , we will explore the language of the oldest Old Testament manuscripts and uncover the fascinating details behind its composition. Anita Love, a renowned theologian and expert in ancient biblical manuscripts, will guide us through the linguistic journey of the Old Testament. With her extensive knowledge and passion for religious studies, Anita sheds light on this intriguing topic, addressing the language in which the Old Testament was written and its significance in understanding the scriptures. So,  right in and discover the language of the oldest Old Testament manuscripts.

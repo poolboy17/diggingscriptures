@@ -6,6 +6,9 @@ parentHub: "faith"
 pubDate: 2024-02-06
 lastUpdated: 2024-02-06
 draft: false
+image: "/images/research/faith/unearthing-the-secrets-discoveries-of-biblical-archaeologists.jpg"
+imageAlt: "mosaic, floor, tile, famous, antique, roman, italy, rome, museum"
+imageCredit: "Image by RGY23 on Pixabay"
 ---
 
 Unearthing the Secrets: Discoveries of Biblical Archaeologists takes readers on a fascinating journey through the ancient world, where dedicated researchers have unearthed remarkable treasures and shed light on centuries-old mysteries. From the opulent ruins of lost civilizations to the humble artifacts of everyday life, these groundbreaking discoveries offer a rare glimpse into the lives of those who came before us. Join the intrepid explorers as they unearth hidden clues and piece together the puzzle of our shared human history.

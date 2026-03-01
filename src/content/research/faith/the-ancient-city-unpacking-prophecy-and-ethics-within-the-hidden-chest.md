@@ -6,6 +6,9 @@ parentHub: "faith"
 pubDate: 2025-01-28
 lastUpdated: 2025-01-28
 draft: false
+image: "/images/research/faith/the-ancient-city-unpacking-prophecy-and-ethics-within-the-hidden-chest.jpg"
+imageAlt: "temple, shrine, architecture, travel, tourist attraction, landscape, temple, temple, temple, temple, temple"
+imageCredit: "Image by gorkhe1980 on Pixabay"
 ---
 
 What if the stories told in ancient cities hold secrets not just of history, but also of prophecy and ethics that resonate today? Perhaps there's more beneath the surface of the dust-covered ruins and scrolls than meets the eye. Lets unravel this enigma together.

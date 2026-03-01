@@ -6,6 +6,9 @@ parentHub: "faith"
 pubDate: 2024-03-04
 lastUpdated: 2024-03-04
 draft: false
+image: "/images/research/faith/exploring-the-depths-of-biblical-archaeology.jpg"
+imageAlt: "church, cathedral, architecture, chapel, france, normandy, religion, faith, christianity, catholic, church, church, church, church, church, cathedral, cathedral, france, france, catholic"
+imageCredit: "Image by Tama66 on Pixabay"
 ---
 
 ## Understanding Biblical Archaeology

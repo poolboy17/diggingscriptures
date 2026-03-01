@@ -6,6 +6,9 @@ parentHub: "biblical-archaeology"
 pubDate: 2024-10-30
 lastUpdated: 2024-10-30
 draft: false
+image: "/images/research/biblical-archaeology/discovering-history-the-temple-mount-scanning-project.jpg"
+imageAlt: "pretty much, jerash, oval forum, roman, culture, story, historical, ancient, columns, stone, ruins, jordan, tourism, to travel, middle east, jerash, jerash, jordan, jordan, jordan, jordan, jordan, middle east"
+imageCredit: "Image by ChiemSeherin on Pixabay"
 ---
 
 Have you ever wondered what lies beneath the historic grounds of the Temple Mount in Jerusalem? This question has intrigued historians, archaeologists, and theologians throughout centuries. The Temple Mount Scanning Project, an innovative archaeological endeavor, offers exciting insights that make us rethink our understanding of this sacred site. , we will explore the context of these discoveries, the archaeological evidence gathered, and the significance of these findings for both historical scholarship and modern understanding.

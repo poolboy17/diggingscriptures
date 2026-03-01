@@ -6,6 +6,9 @@ parentHub: "artifacts"
 pubDate: 2025-07-16
 lastUpdated: 2025-07-16
 draft: false
+image: "/images/research/artifacts/what-is-the-masoretic-text-and-how-was-it-formed.jpg"
+imageAlt: "british museum, parthenon, acropolis, ancient, archaeology, athens, elgin, greece, greek, marble, heritage, museum, british museum, british museum, british museum, british museum, british museum, parthenon, parthenon, parthenon, parthenon, parthenon, elgin, elgin"
+imageCredit: "Image by Tasos_Lekkas on Pixabay"
 ---
 
 What draws your curiosity to ancient texts and their formation? It's a thought worth pondering, especially when considering how the Masoretic Text came into existence. As someone with a PhD in Theology and a passion for biblical manuscripts, exploring the Masoretic Text offers rich insights into the world of the Hebrew Bible and helps understand its significance, especially as we approach the year 2025. This text, compiled between the 7th and 10th century CE by Jewish scholars known as the Masoretes, serves as the foundational Hebrew text for the Old Testament in both Judaism and mainstream Christianity.

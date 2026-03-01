@@ -6,6 +6,9 @@ parentHub: "artifacts"
 pubDate: 2024-03-04
 lastUpdated: 2024-03-04
 draft: false
+image: "/images/research/artifacts/what-is-the-oldest-biblical-artifact-ever-found.jpg"
+imageAlt: "museum, artifacts, antiquities, culture, history, vietnam, south east asia, antique statues, black and white, history, black and white, black and white, black and white, black and white, black and white"
+imageCredit: "Image by NguyenHoangThach on Pixabay"
 ---
 
 Among the many ancient relics that have surfaced over the years, one particular biblical artifact stands out for its remarkable age and potential significance.

@@ -6,6 +6,9 @@ parentHub: "faith"
 pubDate: 2025-01-28
 lastUpdated: 2025-01-28
 draft: false
+image: "/images/research/faith/cliff-stone-platform-a-study-of-the-apocalyptic-day-of-reckoning.jpg"
+imageAlt: "mosque, crowd, worship, mecca, islam, religion, kaaba, trip, architectural, city, qibla, tawaf, building, cami, mosque, mosque, mecca, islam, islam, islam, islam, islam, kaaba"
+imageCredit: "Image by Konevi on Pixabay"
 ---
 
 What do you think happens when the sun sets on the world as we know it? It's a question thats likely crossed your mind, especially when pondering apocalyptic scenarios. The Cliff Stone Platform is no ordinary site; it beckons as a realm where both history and mythology intertwine, shedding light on an age-old question: what does the Day of Reckoning really mean?

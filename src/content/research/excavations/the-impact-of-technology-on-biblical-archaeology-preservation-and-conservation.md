@@ -6,6 +6,9 @@ parentHub: "excavations"
 pubDate: 2024-02-06
 lastUpdated: 2024-02-06
 draft: false
+image: "/images/research/excavations/the-impact-of-technology-on-biblical-archaeology-preservation-and-conservation.jpg"
+imageAlt: "mining excavator, electric, bucket wheel excavator, walking excavator, moscow region, ladle, body, night, technique, construction, excavator, special equipment, tractor, building object, dig, industry, sand, construction site, wheels, laying, grader, master, workers, yellow, construction machinery, building, excavator digging, heavy machinery, playground, pipe, flashlight, construction, construction, construction, construction, construction, excavator, tractor, construction site, construction site"
+imageCredit: "Image by xusenru on Pixabay"
 ---
 
 In the realm of biblical archaeology, technology has become an invaluable tool for the preservation and conservation of ancient artifacts. From advanced imaging techniques to 3D modeling, these technological advancements have revolutionized the way researchers protect and study precious archaeological finds. By harnessing the power of technology, experts can now gain a deeper understanding of biblical history while ensuring that these treasures are safeguarded for future generations.

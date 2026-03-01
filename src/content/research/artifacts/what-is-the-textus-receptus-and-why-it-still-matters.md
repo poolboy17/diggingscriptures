@@ -6,6 +6,9 @@ parentHub: "artifacts"
 pubDate: 2025-07-19
 lastUpdated: 2025-07-19
 draft: false
+image: "/images/research/artifacts/what-is-the-textus-receptus-and-why-it-still-matters.jpg"
+imageAlt: "museum, artifacts, antiquities, culture, history, vietnam, south east asia, antique statues, black and white, history, black and white, black and white, black and white, black and white, black and white"
+imageCredit: "Image by NguyenHoangThach on Pixabay"
 ---
 
 Have you ever wondered about the origins of the texts that form the foundation of the New Testament in the Christian Bible? What is this "Textus Receptus" that scholars and theologians often mention, and why does it still hold significance today?

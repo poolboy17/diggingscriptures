@@ -6,6 +6,9 @@ parentHub: "faith"
 pubDate: 2025-05-30
 lastUpdated: 2025-05-30
 draft: false
+image: "/images/research/faith/exploring-the-jericho-cellar-tapestry-a-journey-through-psalms-of-faith-under-adversity.jpg"
+imageAlt: "temple, shrine, architecture, travel, tourist attraction, landscape, temple, temple, temple, temple, temple"
+imageCredit: "Image by gorkhe1980 on Pixabay"
 ---
 
 Have you ever pondered the significance of faith during times of adversity? The nuances of the human experience take center stage when you consider how ancient texts speak to our struggles today. The Jericho Cellar Tapestry is a compelling representation of this dynamica woven narrative underscoring the profound relationship between trials and faith, drawn vividly from the rich tradition of the Psalms.

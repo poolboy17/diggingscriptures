@@ -6,6 +6,9 @@ parentHub: "biblical-archaeology"
 pubDate: 2024-10-30
 lastUpdated: 2024-10-30
 draft: false
+image: "/images/research/biblical-archaeology/scientific-dating-in-biblical-archaeology-coin-insights.jpg"
+imageAlt: "museum, artifacts, antiquities, culture, history, vietnam, south east asia, antique statues, black and white, history, black and white, black and white, black and white, black and white, black and white"
+imageCredit: "Image by NguyenHoangThach on Pixabay"
 ---
 
 Have you ever wondered how ancient coins can unlock secrets of the past? In the realm of biblical archaeology, coins serve as a unique time capsule, offering a glimpse into the societal and cultural landscapes of their respective eras. This article examines the fascinating practice of scientific dating of biblical period coins, exploring their role in enhancing our understanding of history as described in biblical texts.

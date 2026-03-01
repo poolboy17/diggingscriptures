@@ -6,6 +6,9 @@ parentHub: "scripture"
 pubDate: 2024-03-04
 lastUpdated: 2024-03-04
 draft: false
+image: "/images/research/scripture/is-the-ethiopian-bible-the-first-bible.jpg"
+imageAlt: "desktop, laptop, crafts, still life, mockup, table, decoration, design, workspace, presents, gifts, laptop, laptop, laptop, laptop, laptop, workspace"
+imageCredit: "Image by rawpixel on Pixabay"
 ---
 
 In the domain of ancient Biblical texts, the Ethiopian Bible stands as a significant contender for the title of the first Bible.

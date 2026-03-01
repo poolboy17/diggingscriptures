@@ -6,6 +6,9 @@ parentHub: "excavations"
 pubDate: 2024-02-06
 lastUpdated: 2024-02-06
 draft: false
+image: "/images/research/excavations/exploring-biblical-archaeology-unveiling-the-secrets-of-ancient-relics.jpg"
+imageAlt: "mining excavator, electric, bucket wheel excavator, walking excavator, moscow region, ladle, body, night, technique, construction, excavator, special equipment, tractor, building object, dig, industry, sand, construction site, wheels, laying, grader, master, workers, yellow, construction machinery, building, excavator digging, heavy machinery, playground, pipe, flashlight, construction, construction, construction, construction, construction, excavator, tractor, construction site, construction site"
+imageCredit: "Image by xusenru on Pixabay"
 ---
 
 With a sense of curiosity and wonder, this article takes a captivating journey into the fascinating world of biblical archaeology. As the reader delves into the pages, they will be transported back in time, uncovering the secrets of ancient relics that hold a wealth of information about the past. From uncovering fragments of pottery to deciphering ancient inscriptions, this exploration of biblical archaeology provides a unique opportunity to connect with history and gain a deeper understanding of our cultural heritage.

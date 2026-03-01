@@ -6,6 +6,9 @@ parentHub: "biblical-archaeology"
 pubDate: 2025-05-30
 lastUpdated: 2025-05-30
 draft: false
+image: "/images/research/biblical-archaeology/the-outer-qumran-wall-collapse-an-exploration-of-covenant-curses-in-deuteronomy.jpg"
+imageAlt: "masada national park, masada, the great revolt, roman siege ramp, cliff, desert, unesco heritage site, tourism, israel, palaces of king herod the great, nature, aerial view"
+imageCredit: "Image by samirsmier on Pixabay"
 ---
 
 What if the ancient walls of Qumran could tell stories? Stories of faith lost and found, of curses and covenants, and of the very essence of human experience intricately woven through time and faith? Lets take a journey through history and theology, examining how the collapse of the Outer Qumran Wall may have deeper implications tied to the Covenant Curses outlined in Deuteronomy.

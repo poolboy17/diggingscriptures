@@ -6,6 +6,9 @@ parentHub: "biblical-archaeology"
 pubDate: 2024-03-04
 lastUpdated: 2024-03-04
 draft: false
+image: "/images/research/biblical-archaeology/what-are-the-techniques-used-in-archaeology-surveying.jpg"
+imageAlt: "museum, artifacts, antiquities, culture, history, vietnam, south east asia, antique statues, black and white, history, black and white, black and white, black and white, black and white, black and white"
+imageCredit: "Image by NguyenHoangThach on Pixabay"
 ---
 
 In the domain of archaeology surveying, there exists a vast array of techniques that go beyond mere excavation. From the utilization of advanced tools like total stations to the intricate process of site grid creation, each step plays a pivotal role in unraveling the mysteries of the past.

@@ -6,6 +6,9 @@ parentHub: "excavations"
 pubDate: 2024-02-06
 lastUpdated: 2024-02-06
 draft: false
+image: "/images/research/excavations/integrating-biblical-archaeology-in-educational-curriculums.jpg"
+imageAlt: "jerash, jordan, roman, gerasa, travel, architecture, ancient, historic, tourism, culture, history, stone, archaeology, ruins, ruin, vacations, pillar, antiquity, building, column, civilization, relief, pillars, gate, temple, jerash, jerash, jerash, jerash, jerash, jordan"
+imageCredit: "Image by 8834113 on Pixabay"
 ---
 
 There is a growing recognition of the importance of integrating Biblical archaeology into educational curriculums. As educators strive to provide students with a well-rounded understanding of history and culture, the study of Biblical archaeology offers a unique perspective. By exploring the fascinating discoveries and ancient artifacts that shed light on the stories and events of the Bible, students not only deepen their knowledge of the past but also gain a deeper appreciation for the relevance and impact of these ancient texts . This article explores practical ways in which Biblical archaeology can be incorporated into educational curriculums, providing teachers with valuable insights on how to engage and inspire their students.

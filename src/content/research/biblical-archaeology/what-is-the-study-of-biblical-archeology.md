@@ -6,6 +6,9 @@ parentHub: "biblical-archaeology"
 pubDate: 2024-03-04
 lastUpdated: 2024-03-04
 draft: false
+image: "/images/research/biblical-archaeology/what-is-the-study-of-biblical-archeology.jpg"
+imageAlt: "pretty much, jerash, oval forum, roman, culture, story, historical, ancient, columns, stone, ruins, jordan, tourism, to travel, middle east, jerash, jerash, jordan, jordan, jordan, jordan, jordan, middle east"
+imageCredit: "Image by ChiemSeherin on Pixabay"
 ---
 
 Biblical archaeology, often likened to a detective unraveling clues from the past, navigates the intricate relationship between ancient artifacts and biblical narratives. As researchers meticulously unearth remnants of ancient civilizations, they open windows into the lives of individuals who shaped the stories we read today.

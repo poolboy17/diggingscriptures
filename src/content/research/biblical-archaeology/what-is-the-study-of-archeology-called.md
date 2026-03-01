@@ -6,6 +6,9 @@ parentHub: "biblical-archaeology"
 pubDate: 2024-03-04
 lastUpdated: 2024-03-04
 draft: false
+image: "/images/research/biblical-archaeology/what-is-the-study-of-archeology-called.jpg"
+imageAlt: "pretty much, jerash, columns, roman, ancient, culture, story, historical, ruins, stone, jordan, tourism, to travel, middle east, jerash, jerash, jordan, jordan, jordan, jordan, jordan"
+imageCredit: "Image by ChiemSeherin on Pixabay"
 ---
 
 Archaeology is the systematic study of human history through material remains. It is often mistaken for anthropology or paleontology. But what is the study of archeology called exactly?

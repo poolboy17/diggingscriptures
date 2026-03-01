@@ -6,6 +6,9 @@ parentHub: "excavations"
 pubDate: 2025-01-28
 lastUpdated: 2025-01-28
 draft: false
+image: "/images/research/excavations/the-hidden-scrolls-of-the-temple-unearthing-mysteries-of-ancient-construction.jpg"
+imageAlt: "workers, construction, excavation, dig, building, construction workers, helmet, safety vest, construction site, soil, construction, excavation, excavation, excavation, excavation, excavation, construction workers, construction workers, safety vest, safety vest, safety vest, safety vest, safety vest, construction site, construction site"
+imageCredit: "Image by planet_fox on Pixabay"
 ---
 
 What if I told you that within the ancient sands of time lies the key to understanding unprecedented feats of human ingenuity? The mysteries of ancient construction, particularly related to significant biblical sites, have long captivated historians, archaeologists, and enthusiasts alike. You might find yourself pondering how these monumental structures were crafted and what secrets may still be hidden beneath the dust.

@@ -6,6 +6,9 @@ parentHub: "excavations"
 pubDate: 2024-10-30
 lastUpdated: 2024-10-30
 draft: false
+image: "/images/research/excavations/ancient-jerusalem-street-reveals-temple-pilgrim-path.jpg"
+imageAlt: "western wall, jerusalem, jews, pray, orthodox, holy, religious, western, wall, torah, temple, judaism, israel, jewish, religion, prayer, old, god, rock, east, stone, faith, hebrew, belief, judaic, spirituality, spiritual, architecture, traditional, city, synagogue, worship, wailing, ancient, people, sacred, brown city, brown wall, brown god, brown pray, brown rock, brown prayer, brown stone, western wall, jerusalem, jerusalem, jews, jews, judaism, judaism, israel, israel, israel, jewish, jewish, jewish, jewish, jewish"
+imageCredit: "Image by rliessum on Pixabay"
 ---
 
 Have you ever wondered about the hidden stories embedded within the ancient streets of Jerusalem? The discovery of a historic street in ancient Jerusalem has generated intrigue, shedding light on its role as the Temple Pilgrim Path, a passage deeply woven into the religious and cultural tapestry of the region. This remarkable archaeological find opens up new avenues of understanding, connecting past narratives with contemporary interpretations.

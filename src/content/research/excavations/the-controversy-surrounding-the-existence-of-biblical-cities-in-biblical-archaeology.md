@@ -6,6 +6,9 @@ parentHub: "excavations"
 pubDate: 2024-02-06
 lastUpdated: 2024-02-06
 draft: false
+image: "/images/research/excavations/the-controversy-surrounding-the-existence-of-biblical-cities-in-biblical-archaeology.jpg"
+imageAlt: "greece, parthenon, temple, ruins, building, architecture, pillars, columns, europe, ancient, history, greek, greek architecture, landmark, places of interest, tourist attraction, tourist destination, greece, greece, greece, greece, greece, parthenon, history, history, greek"
+imageCredit: "Image by nonbirinonko on Pixabay"
 ---
 
 In the fascinating world of Biblical Archaeology, a contentious debate has taken center stage - the controversy surrounding the existence of biblical cities. This age-old dispute has captured the attention of scholars, historians, and religious enthusiasts alike, each with their own compelling arguments and theories. While some assert that these ancient cities mentioned in the Bible are indeed real and can be proven through archaeological findings, others remain skeptical, questioning the reliability of biblical texts and interpreting the evidence through a more critical lens. As the debate rages on, the search for concrete evidence continues, leaving us intrigued and captivated by the enigma that is biblical archaeology.

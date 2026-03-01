@@ -6,6 +6,9 @@ parentHub: "scripture"
 pubDate: 2024-03-04
 lastUpdated: 2024-03-04
 draft: false
+image: "/images/research/scripture/where-is-the-oldest-bible-in-the-world-kept.jpg"
+imageAlt: "books, stack, book store, stack of books, 2nd hand, retro, hipster, shop, old, trendy, vintage, travel, venice, messy, literature, library, education, knowledge, novels, stories, books, books, books, books, books, library, education"
+imageCredit: "Image by EliFrancis on Pixabay"
 ---
 
 Symbolizing a beacon of ancient wisdom, the Codex Sinaiticus stands as evidence to the early Christian faith and the evolution of biblical texts.

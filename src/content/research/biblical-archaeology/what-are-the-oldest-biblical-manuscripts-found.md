@@ -6,6 +6,9 @@ parentHub: "biblical-archaeology"
 pubDate: 2024-03-04
 lastUpdated: 2024-03-04
 draft: false
+image: "/images/research/biblical-archaeology/what-are-the-oldest-biblical-manuscripts-found.jpg"
+imageAlt: "pottery shard, clay pot, shard, burning clay, craft, burma, myanmar"
+imageCredit: "Image by thomaspedrazzoli on Pixabay"
 ---
 
 In the vast tapestry of ancient texts, the quest to uncover the oldest biblical manuscripts is akin to unraveling layers of history. The Nash Papyrus and the Dead Sea Scrolls offer glimpses into the distant past, shedding light on the evolution of biblical texts.

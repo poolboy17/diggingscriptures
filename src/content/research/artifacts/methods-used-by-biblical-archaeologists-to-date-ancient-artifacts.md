@@ -6,6 +6,9 @@ parentHub: "artifacts"
 pubDate: 2024-02-06
 lastUpdated: 2024-02-06
 draft: false
+image: "/images/research/artifacts/methods-used-by-biblical-archaeologists-to-date-ancient-artifacts.jpg"
+imageAlt: "man, neanderthal, cave man, prehistoric, primitive human, museum, houston museum of science, artifact, ancient, ape, historic, adventure, discovery science, research, hairy, beast, pre-historic, history, old man, evolution, display, strange, orange hair, monkey"
+imageCredit: "Image by ArtisticOperations on Pixabay"
 ---
 
 Biblical Archaeologists employ a variety of techniques to uncover and determine the age of ancient artifacts. By utilizing methods such as pottery typology, carbon dating, and stratigraphy, these experts are able to piece together the puzzle of the past. Through analyzing the different styles, shapes, and decorations of pottery, they can establish a timeline for human occupation and development. Additionally, carbon dating allows them to accurately determine the age of organic materials, providing crucial insights into ancient civilizations. Furthermore, the study of stratigraphy, or the layers of sediment and soil, assists in deciphering the chronological order of artifacts found within archaeological sites. Together, these methods shed light on the rich history and cultural significance of ancient objects, allowing us to gain a deeper understanding of our past.

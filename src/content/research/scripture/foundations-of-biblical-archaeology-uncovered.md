@@ -6,6 +6,9 @@ parentHub: "scripture"
 pubDate: 2024-10-30
 lastUpdated: 2024-10-30
 draft: false
+image: "/images/research/scripture/foundations-of-biblical-archaeology-uncovered.jpg"
+imageAlt: "antique, yellow pages, chapter, open book, new chapter, hebrew text, bookmark, bookworm, brown wallpaper, book wallpaper, literature, education, letterpress, textured pages, old book, book, study, storytelling, study break, old text, story, hardcover, classroom, i read, reflection, open book, education, education, old book, old book, book, book, book, book, study, study, storytelling, storytelling, storytelling, storytelling, story, story, story, story, story"
+imageCredit: "Image by Ri_Ya on Pixabay"
 ---
 
 Have you ever pondered how monumental discoveries in biblical archaeology might reshape your understanding of history and scripture? The exploration of biblical archaeology offers a captivating intersection of faith and empirical investigation, transforming ancient texts from mere stories into tangible history. This scholarly pursuit seeks to unveil artifacts and evidence that fortify the narratives enshrined in the Bible. By excavating sites and scrutinizing material culture, biblical archaeology endeavors to provide insights into ancient civilizations and their religious experiences.

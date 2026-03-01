@@ -6,6 +6,9 @@ parentHub: "scripture"
 pubDate: 2024-04-27
 lastUpdated: 2024-04-27
 draft: false
+image: "/images/research/scripture/the-language-of-the-original-old-testament-exploring-ancient-biblical-manuscripts.jpg"
+imageAlt: "paper, writing, old, antique, write, letter, text, retro, pages, handwriting, writer, words, documents, macro, parchment, to blog, writing, writing, writing, writing, writing, words"
+imageCredit: "Image by Nile on Pixabay"
 ---
 
 Anita Love, a renowned scholar in the field of biblical studies, has dedicated her career to unraveling the mysteries of ancient biblical manuscripts. With a deep understanding of the historical and cultural contexts surrounding the Old Testament, Anita's work sheds light on the language in which the original text was written. Her expertise in theology and religious studies has led her to conclude that the original Old Testament was written primarily in Hebrew, with some portions in Aramaic. By exploring these ancient manuscripts, Anita Love invites us on a captivating journey to discover the language that forms the foundation of one of the world's most influential religious texts.

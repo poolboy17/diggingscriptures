@@ -6,6 +6,9 @@ parentHub: "excavations"
 pubDate: 2025-01-28
 lastUpdated: 2025-01-28
 draft: false
+image: "/images/research/excavations/qumrans-clay-jar-the-secrets-of-a-devoted-community.jpg"
+imageAlt: "city, frankfurt, cityscape, skyscrapers, dusk, twilight, night, lights, aerial view, city, city, city, city, frankfurt, frankfurt, frankfurt, frankfurt, frankfurt"
+imageCredit: "Image by Bru-nO on Pixabay"
 ---
 
 What secrets might a simple clay jar hold? It may seem like just a relic of the past, but when we're talking about Qumran, it becomes a portal into the life and beliefs of an ancient community whose impact resonates through the ages. This article takes you on a journey through the sands of time, revealing how a devoted group of individuals lived, worshipped, and preserved their sacred texts.

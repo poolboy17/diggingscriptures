@@ -6,6 +6,9 @@ parentHub: "biblical-archaeology"
 pubDate: 2024-05-27
 lastUpdated: 2024-05-27
 draft: false
+image: "/images/research/biblical-archaeology/discoveries-in-biblical-archaeology-unearth-new-insights.jpg"
+imageAlt: "pretty much, jerash, columns, roman, ancient, culture, story, historical, ruins, stone, jordan, tourism, to travel, middle east, jerash, jerash, jordan, jordan, jordan, jordan, jordan"
+imageCredit: "Image by ChiemSeherin on Pixabay"
 ---
 
 Delving into the realm of Biblical archaeology reveals a world of intrigue and fascination. Recent excavations in Israel have unveiled a plethora of **ancient artifacts**, offering fresh insights into the past. 

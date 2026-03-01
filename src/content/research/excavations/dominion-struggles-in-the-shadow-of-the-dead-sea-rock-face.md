@@ -6,6 +6,9 @@ parentHub: "excavations"
 pubDate: 2025-01-28
 lastUpdated: 2025-01-28
 draft: false
+image: "/images/research/excavations/dominion-struggles-in-the-shadow-of-the-dead-sea-rock-face.jpg"
+imageAlt: "archaeology, archaeological dig, documenting, digging, research, archaeologist, digger, brown research, brown document, archaeology, archaeology, archaeologist, archaeologist, archaeologist, archaeologist, archaeologist"
+imageCredit: "Image by JamesDeMers on Pixabay"
 ---
 
 What comes to your mind when you hear about struggles for dominion in a land as desolate yet storied as the region surrounding the Dead Sea? Picture towering rock faces that rise from the arid expanse, guarding secrets of ancient civilizations and their relentless quests for power. Yet beneath this stark beauty lies a tapestry of struggleone that echoes through biblical texts and archaeological discoveries alike.

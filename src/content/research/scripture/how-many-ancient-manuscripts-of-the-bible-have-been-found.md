@@ -6,6 +6,9 @@ parentHub: "scripture"
 pubDate: 2024-03-04
 lastUpdated: 2024-03-04
 draft: false
+image: "/images/research/scripture/how-many-ancient-manuscripts-of-the-bible-have-been-found.jpg"
+imageAlt: "qumran national park, drone footage, aerial shot, archeology park, cave, aqueduct, silo, travel, history, dead sea scrolls, qumran, visitors center, tourism, drone footage, drone footage, drone footage, drone footage, drone footage"
+imageCredit: "Image by samirsmier on Pixabay"
 ---
 
 Among the dusty shelves of ancient libraries and hidden archives, a treasure trove of biblical manuscripts awaits exploration. The sheer number of these texts is staggering, yet the question remains: do these manuscripts hold the key to opening the mysteries of biblical history and interpretation?

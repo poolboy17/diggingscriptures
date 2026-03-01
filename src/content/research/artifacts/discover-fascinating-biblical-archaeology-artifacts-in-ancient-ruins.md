@@ -6,6 +6,9 @@ parentHub: "artifacts"
 pubDate: 2024-05-27
 lastUpdated: 2024-05-27
 draft: false
+image: "/images/research/artifacts/discover-fascinating-biblical-archaeology-artifacts-in-ancient-ruins.jpg"
+imageAlt: "hieroglyphs, egypt, stone, art, old, egyptian, history, antique, mona, museum, archeology, font, historic, ancient, glyphs, black art, black history, black old, black stone, egypt, egypt, egypt, egyptian, egyptian, archeology, archeology, archeology, archeology, archeology"
+imageCredit: "Image by barasa81 on Pixabay"
 ---
 
 Embark on a captivating journey through the depths of history as we unveil a plethora of archaeological findings in long-forgotten ruins. The allure of delving into these **historical artifacts** is irresistible, providing a window into bygone eras like no other. 

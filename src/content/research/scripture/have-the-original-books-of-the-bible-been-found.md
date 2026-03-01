@@ -6,6 +6,9 @@ parentHub: "scripture"
 pubDate: 2024-03-04
 lastUpdated: 2024-03-04
 draft: false
+image: "/images/research/scripture/have-the-original-books-of-the-bible-been-found.jpg"
+imageAlt: "book, manuscript, paper, ancient, manuscript, manuscript, manuscript, manuscript, manuscript"
+imageCredit: "Image by TonyPrats on Pixabay"
 ---
 
 While the original manuscripts of the Bible remain elusive, the journey to uncover ancient biblical texts has captivated scholars and enthusiasts alike.

@@ -6,6 +6,9 @@ parentHub: "excavations"
 pubDate: 2024-03-04
 lastUpdated: 2024-03-04
 draft: false
+image: "/images/research/excavations/what-is-the-study-of-biblical-archaeology.jpg"
+imageAlt: "workshop, carpenter, crafts, artisan, drink, work, tool, vintage, workshop, workshop, workshop, workshop, workshop, carpenter, carpenter"
+imageCredit: "Image by ThMilherou on Pixabay"
 ---
 
 Contrary to popular belief, the study of biblical archaeology is not just about digging up ancient artifacts and hoping to stumble upon Noah's Ark. It is a meticulous and multidisciplinary field that intertwines history, archaeology, and biblical studies to unravel the layers of the past and shed light on the narratives we have inherited.

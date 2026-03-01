@@ -6,6 +6,9 @@ parentHub: "biblical-archaeology"
 pubDate: 2025-05-30
 lastUpdated: 2025-05-30
 draft: false
+image: "/images/research/biblical-archaeology/the-jordan-crossing-miracle-unveiling-the-waters-yielding-to-the-ark-bearing-priests.jpg"
+imageAlt: "petra, jordan, royal tombs, sand stone, antique, historically, history, culture, archaeology, world heritage, monument, stone, architecture, travel, vacation, tourism, middle east, petra, petra, petra, petra, petra"
+imageCredit: "Image by ChiemSeherin on Pixabay"
 ---
 
 Have you ever found yourself captivated by stories of miraculous events that challenge our understanding of the natural world? One such story resides within the pages of the Biblespecifically, the crossing of the Jordan River by the Israelites, led by the Ark of the Covenant. Lets unpack this miracle together, sprinkling in some archaeological and historical context, as well as a dash of theological significance.

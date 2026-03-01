@@ -6,6 +6,9 @@ parentHub: "scripture"
 pubDate: 2024-03-04
 lastUpdated: 2024-03-04
 draft: false
+image: "/images/research/scripture/has-the-bible-ever-been-mistranslated.jpg"
+imageAlt: "song, sheet music, music notes, notenblatt, melody, music wallpaper, sounds of music, tune, clef, classical music, legato, muse, music book, music sheet, musical notes, musical score, closeup, just, music score, stave, partition, texture, new page, music world, tempo, song, song, song, sheet music, sheet music, sheet music, music notes, music notes, music notes, music notes, music notes, musical notes"
+imageCredit: "Image by Ri_Ya on Pixabay"
 ---
 
 One intriguing statistic reveals that over 700,000 words make up the Bible, with translations into hundreds of languages worldwide. However, amidst this vast linguistic landscape, questions arise regarding the accuracy of these translations.

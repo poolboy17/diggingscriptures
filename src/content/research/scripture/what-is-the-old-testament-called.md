@@ -6,6 +6,9 @@ parentHub: "scripture"
 pubDate: 2024-04-27
 lastUpdated: 2024-04-27
 draft: false
+image: "/images/research/scripture/what-is-the-old-testament-called.png"
+imageAlt: "to learn, read, a book, literature, old, old book, to study, school, training, middle ages, study, bound, historical, leather binding, writing, book pages, pitched, isolated"
+imageCredit: "Image by garten-gg on Pixabay"
 ---
 
 Anita Love, a renowned theologian and scholar, has dedicated her life's work to unraveling the mysteries of the Old Testament and shedding light on its profound significance. With her extensive knowledge and deep understanding of ancient biblical manuscripts and historical context, Anita has become a leading authority on the subject. Through her published books and scholarly articles, she invites readers to explore the rich narratives, cultural nuances, and timeless messages hidden within the Old Testament. Anita's valuable insights and holistic approach have earned her acclaim in both academic and ecumenical circles, making her a trusted source in the study of Christianity's historical foundations.

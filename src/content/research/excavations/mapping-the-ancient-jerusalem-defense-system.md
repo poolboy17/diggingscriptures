@@ -6,6 +6,9 @@ parentHub: "excavations"
 pubDate: 2024-10-30
 lastUpdated: 2024-10-30
 draft: false
+image: "/images/research/excavations/mapping-the-ancient-jerusalem-defense-system.jpg"
+imageAlt: "landscape, tree, stone, wall, travel, ancient, old, architecture, archeology, roman, nature, roman construction, roman remains, empúries, ampurias, ruins of ampurias, roman empire, antiquity, city, site, ruins, history, ancient rome"
+imageCredit: "Image by Photos_Marta on Pixabay"
 ---
 
 Have you ever wondered how ancient civilizations protected themselves against invaders? "Mapping the Ancient Jerusalem Defense System" delves into the intricacies of the legendary fortifications surrounding one of history's most storied cities. Set against the backdrop of biblical narratives, Jerusalem's defense mechanisms have long captivated scholars, combining elements of biblical tales with archaeological evidence. This piece explores the historical and biblical significance, shedding light on how these ancient defenses shaped the city's destiny.

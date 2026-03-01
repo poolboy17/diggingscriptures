@@ -6,6 +6,9 @@ parentHub: "excavations"
 pubDate: 2025-01-28
 lastUpdated: 2025-01-28
 draft: false
+image: "/images/research/excavations/city-of-david-blocked-door-a-journey-into-restoration.jpg"
+imageAlt: "valley of the kings, deir el-bahri, egypt, hatshepsut's mortuary temple, archaeology, architecture, mountain, sandstone, hatshepsut, nature, brown king"
+imageCredit: "Image by RonPorter on Pixabay"
 ---
 
 Have you ever wondered what secrets lie behind a blocked door, especially one steeped in history? The City of David, a site rich in biblical lore and archaeological significance, is home to such a doornot an ordinary one, but one that speaks volumes about restoration, both physical and metaphorical.

@@ -6,6 +6,9 @@ parentHub: "excavations"
 pubDate: 2024-03-04
 lastUpdated: 2024-03-04
 draft: false
+image: "/images/research/excavations/when-did-biblical-archeology-start.jpg"
+imageAlt: "greece, parthenon, temple, ruins, building, architecture, pillars, columns, europe, ancient, history, greek, greek architecture, landmark, places of interest, tourist attraction, tourist destination, greece, greece, greece, greece, greece, parthenon, history, history, greek"
+imageCredit: "Image by nonbirinonko on Pixabay"
 ---
 
 Coincidentally, the origins of Biblical archaeology trace back to a pivotal period in the 19th century, sparked by a growing interest in unraveling the historical contexts of biblical accounts.

@@ -6,6 +6,9 @@ parentHub: "scripture"
 pubDate: 2024-04-27
 lastUpdated: 2024-04-27
 draft: false
+image: "/images/research/scripture/comparing-the-old-testament-and-the-new-testament.jpg"
+imageAlt: "mesopotamia, myth, mythology, history, landscape, ruins, anunnaki, sumerian, gods, enki, enlil, cuneiform, tablet, writings, clay tablets, texts, ancient"
+imageCredit: "Image by BenFishold on Pixabay"
 ---
 
 In Anita Love's thought-provoking article entitled "Comparing the Old Testament and the New Testament," she explores the fascinating relationship between these two sections of the Bible. With her extensive academic background and deep understanding of religious studies, Anita embarks on a journey to examine the contrasting themes, literary genres, historical contexts, messianic prophecies, and the shift from law to grace that exist between the two Testaments. Drawing from her expertise, Anita offers valuable insights that shed light on the interconnectedness and significance of both the Old and New Testaments within the Christian faith. Prepare to delve into the rich tapestry of biblical knowledge and discover the remarkable ways in which these sacred texts shape our understanding of Christianity.

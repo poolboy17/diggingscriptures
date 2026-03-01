@@ -6,6 +6,9 @@ parentHub: "scripture"
 pubDate: 2024-04-27
 lastUpdated: 2024-04-27
 draft: false
+image: "/images/research/scripture/the-language-of-the-new-testament-exploring-its-origins.jpg"
+imageAlt: "scroll, feather, ink, caligraphy, hebrew, writing, characters, paper, papirus, old style, brown paper, brown writing, scroll, scroll, scroll, scroll, scroll, hebrew, hebrew"
+imageCredit: "Image by zofiaEliyahu on Pixabay"
 ---
 
 Have you ever wondered in what language the New Testament was originally written? Well, the New Testament is actually a compilation of texts that were primarily written in Greek. The Language of the New Testament: Exploring its Origins delves into the fascinating world of ancient biblical manuscripts and explores the origins of the language in which the New Testament was composed. Join renowned theologian and scholar Anita Love as she uncovers the historical and cultural contexts surrounding these texts, shedding light on the rich linguistic heritage of Christianity's foundational document. Through Anita's extensive research and expertise, you'll gain a deeper understanding of the New Testament and its significance in the modern world.

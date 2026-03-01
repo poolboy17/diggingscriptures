@@ -6,6 +6,9 @@ parentHub: "scripture"
 pubDate: 2024-03-04
 lastUpdated: 2024-03-04
 draft: false
+image: "/images/research/scripture/what-is-the-earliest-archaeological-evidence-of-the-bible.jpg"
+imageAlt: "a book, antiquariat, old books, used books, old, literature, worn, second hand, brown, leather bindings, antique, read, nostalgic, browse, to learn, look up, knowledge, pitched, to study, pages, paper, bound, hardback, book pages, hardback, hardback, hardback, hardback, hardback"
+imageCredit: "Image by ulleo on Pixabay"
 ---
 
 Comparable to a breadcrumb trail through history, the quest for the earliest archaeological evidence of the Bible reveals intriguing artifacts that shed light on ancient narratives.

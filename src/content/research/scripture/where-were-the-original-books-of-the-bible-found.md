@@ -6,6 +6,9 @@ parentHub: "scripture"
 pubDate: 2024-03-04
 lastUpdated: 2024-03-04
 draft: false
+image: "/images/research/scripture/where-were-the-original-books-of-the-bible-found.jpg"
+imageAlt: "to learn, read, a book, literature, old, old book, to study, school, training, middle ages, study, bound, historical, leather binding, writing, book pages, old book, old book, old book, old book, old book, middle ages"
+imageCredit: "Image by garten-gg on Pixabay"
 ---
 
 Some of the original books of the Bible, like the Dead Sea Scrolls discovered in the mid-20th century, have shed light on biblical texts' early versions and variations. As scholars trace the origins of these sacred writings, they expose intriguing details about their transmission and preservation over centuries.

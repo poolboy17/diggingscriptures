@@ -6,6 +6,9 @@ parentHub: "biblical-archaeology"
 pubDate: 2024-02-06
 lastUpdated: 2024-02-06
 draft: false
+image: "/images/research/biblical-archaeology/exploring-the-intersection-of-biblical-archaeology-and-anthropology.jpg"
+imageAlt: "israel, jerusalem, old city, damascus gate, gate, wall, architecture, stone, old, ancient, stronghold, fortification, city, protection, defence, travel, israel, jerusalem, jerusalem, jerusalem, jerusalem, jerusalem, stronghold, stronghold"
+imageCredit: "Image by 2427999 on Pixabay"
 ---
 
 In the fascinating realm where Biblical Archaeology meets anthropology, a world of ancient wonders is unlocked. This unique intersection brings together the study of ancient civilizations through both religious texts and physical evidence. Combining the rich history of the Bible with the meticulous techniques of archaeological research, scholars dive deep into the past, unearthing treasures that shed light on the lives of people who lived thousands of years ago. Join us as we embark on a captivating journey through time, exploring how these two fields intertwine to unveil the secrets of ancient civilizations.

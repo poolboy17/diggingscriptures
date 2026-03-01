@@ -6,6 +6,9 @@ parentHub: "excavations"
 pubDate: 2025-01-28
 lastUpdated: 2025-01-28
 draft: false
+image: "/images/research/excavations/qumran-fallen-beams-the-tug-of-war-between-piety-and-rigor-in-scroll-writings.jpg"
+imageAlt: "archaeology, archaeological dig, documenting, digging, research, archaeologist, digger, brown research, brown document, archaeology, archaeology, archaeologist, archaeologist, archaeologist, archaeologist, archaeologist"
+imageCredit: "Image by JamesDeMers on Pixabay"
 ---
 
 What if the ancient scrolls hidden in the caves of Qumran could speak to us today? Would their messages tug at your heartstrings or spark a heated debate? The interplay of faith and discipline embedded in these biblical texts offers a fascinating glimpse into a bygone worlda world where spirituality often collided with the rigorous expectations of a devout community.

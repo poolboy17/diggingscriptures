@@ -6,6 +6,9 @@ parentHub: "scripture"
 pubDate: 2024-04-27
 lastUpdated: 2024-04-27
 draft: false
+image: "/images/research/scripture/old-testament-books-written-in-aramaic.jpg"
+imageAlt: "books, students, library, university, knowledge, literature, brown book, brown books, brown library, brown knowledge, books, library, library, library, library, library, university, university"
+imageCredit: "Image by Pexels on Pixabay"
 ---
 
 In the vast array of ancient biblical manuscripts, there exists a small but significant cluster written in Aramaic, a language closely related to Hebrew. These texts, known as the Old Testament Books Written in Aramaic, offer a unique glimpse into the rich tapestry of biblical literature. As you embark on a journey to explore these lesser-known writings, guided by the expertise of acclaimed theologian Anita Love, you will uncover hidden treasures and deepen your understanding of the Old Testament's historical and cultural contexts. Discover the fascinating tales and timeless wisdom contained within these ancient Aramaic texts and unravel the intricate connections between the Old Testament and Christianity's foundation.

@@ -6,6 +6,9 @@ parentHub: "biblical-archaeology"
 pubDate: 2024-10-30
 lastUpdated: 2024-10-30
 draft: false
+image: "/images/research/biblical-archaeology/maps-of-ancient-commerce-in-the-biblical-era.jpg"
+imageAlt: "excavation, archaeology, high culture, culture, temple, old, stone, limestone, decorated, malta, mnajdra, malta, malta, malta, malta, malta, mnajdra"
+imageCredit: "Image by Efraimstochter on Pixabay"
 ---
 
 Have you ever wondered how ancient trade routes shaped societies and influenced the course of history? In the Biblical era, commerce was a vital component of life, intertwining various cultures and regions through intricate networks.

@@ -6,6 +6,9 @@ parentHub: "scripture"
 pubDate: 2024-03-04
 lastUpdated: 2024-03-04
 draft: false
+image: "/images/research/scripture/does-the-original-bible-still-exist.jpg"
+imageAlt: "manuscript, medieval, antique, paper, parchment, vintage, document, lettering, yellow, brown, calligraphy, brown letter, brown document, medieval, parchment, parchment, parchment, parchment, parchment"
+imageCredit: "Image by V2Melody on Pixabay"
 ---
 
 The search for the original Bible manuscripts has intrigued scholars and believers alike for centuries. While the Dead Sea Scrolls have provided invaluable insights into ancient biblical texts, the quest for the exact, untouched originals remains elusive.

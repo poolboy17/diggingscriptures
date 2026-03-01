@@ -6,6 +6,9 @@ parentHub: "biblical-archaeology"
 pubDate: 2024-03-04
 lastUpdated: 2024-03-04
 draft: false
+image: "/images/research/biblical-archaeology/how-do-you-become-a-biblical-archaeologist.jpg"
+imageAlt: "jordan, petra, camels, dromedary, nature, desert, tourism"
+imageCredit: "Image by mikaelthunberg on Pixabay"
 ---
 
 By chance, have you ever considered how one becomes a Biblical archaeologist?

@@ -6,6 +6,9 @@ parentHub: "excavations"
 pubDate: 2024-10-30
 lastUpdated: 2024-10-30
 draft: false
+image: "/images/research/excavations/archaeological-maps-of-ancient-jerusalem-unveiled.jpg"
+imageAlt: "chichen itza, mexico, pyramid, milky way, night, mayans, archaeology, archaeological site, stars, starry sky, starry night, landmark, famous, places of interest, chichen itza, mexico, mexico, mexico, mexico, mexico, pyramid"
+imageCredit: "Image by Walkerssk on Pixabay"
 ---
 
 Have you ever wondered what secrets lie beneath the ancient stones of Jerusalem? Recent archaeological endeavors have unveiled detailed maps that could redefine our understanding of this storied city. With each map offering a new perspective, the enigma of Ancient Jerusalem becomes an intricate tapestry woven from biblical, historical, and modern strands. As we delve into these maps, you'll embark on a journey that traverses ages and intersects with moments captured in historical texta discovery promising to reshape our perceptions of the biblical and historical landscape.

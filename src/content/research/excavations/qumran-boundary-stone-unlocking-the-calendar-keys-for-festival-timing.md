@@ -6,6 +6,9 @@ parentHub: "excavations"
 pubDate: 2025-01-28
 lastUpdated: 2025-01-28
 draft: false
+image: "/images/research/excavations/qumran-boundary-stone-unlocking-the-calendar-keys-for-festival-timing.jpg"
+imageAlt: "egypt, temple, hieroglyphics, pharaoh, egyptian temple, travel, statue, columns, pierre, story, nile, edfu, archaeologist, archaeology, archaeological excavations, archaeologist, archaeologist, archaeologist, archaeologist, archaeologist"
+imageCredit: "Image by NadineDoerle on Pixabay"
 ---
 
 Have you ever wondered how ancient calendars influenced religious traditions and festival practices? Let's unfold this fascinating tapestry by looking into the Qumran Boundary Stone and how it reveals crucial insights regarding festival timing.

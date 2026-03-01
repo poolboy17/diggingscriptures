@@ -6,6 +6,9 @@ parentHub: "scripture"
 pubDate: 2024-03-04
 lastUpdated: 2024-03-04
 draft: false
+image: "/images/research/scripture/how-many-different-versions-of-the-bible-are-there.jpg"
+imageAlt: "calligraphy, story, ink, feather, a book, vintage, old, wood, fairy tale, author, writer, diary, story, story, story, story, author, author, writer, writer, writer, writer, writer, diary"
+imageCredit: "Image by Ghinzo on Pixabay"
 ---
 
 One might be surprised to learn that the New International Version (NIV) of the Bible alone has sold over 450 million copies worldwide. This staggering number raises the question: how many different versions of the Bible are out there, and what sets them apart?

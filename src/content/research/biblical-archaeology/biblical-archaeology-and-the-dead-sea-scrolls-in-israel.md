@@ -6,6 +6,9 @@ parentHub: "biblical-archaeology"
 pubDate: 2025-01-02
 lastUpdated: 2025-01-02
 draft: false
+image: "/images/research/biblical-archaeology/biblical-archaeology-and-the-dead-sea-scrolls-in-israel.jpg"
+imageAlt: "petra, ad deir, world heritage, sand stone, antique, historically, nature, archaeology, monument, culture, ad dayr, history, stones, sky, tourism, travel, vacations, middle east, jordan"
+imageCredit: "Image by ChiemSeherin on Pixabay"
 ---
 
 Biblical Archaeology & Dead Sea Scrolls | Pillar Page

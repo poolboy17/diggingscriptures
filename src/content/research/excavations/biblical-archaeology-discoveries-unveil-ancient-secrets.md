@@ -6,6 +6,9 @@ parentHub: "excavations"
 pubDate: 2024-05-27
 lastUpdated: 2024-05-27
 draft: false
+image: "/images/research/excavations/biblical-archaeology-discoveries-unveil-ancient-secrets.jpg"
+imageAlt: "jerash, jordan, roman, gerasa, travel, architecture, ancient, historic, tourism, culture, history, stone, archaeology, ruins, ruin, vacations, pillar, antiquity, building, column, civilization, relief, pillars, gate, temple, jerash, jerash, jerash, jerash, jerash, jordan"
+imageCredit: "Image by 8834113 on Pixabay"
 ---
 
 The field of Biblical archaeology, with its rich tapestry of ancient ruins and historical artifacts, continues to unveil the mysteries of bygone civilizations through meticulous archaeological excavation. Excavations have revealed a treasure trove of **ancient manuscripts** and pottery shards, offering fascinating insights into the practices and beliefs of ancient peoples. 

@@ -6,6 +6,9 @@ parentHub: "excavations"
 pubDate: 2024-02-06
 lastUpdated: 2024-02-06
 draft: false
+image: "/images/research/excavations/exploring-the-link-biblical-archaeology-and-the-dead-sea-scrolls.jpg"
+imageAlt: "jerusalem, dome of the rock, islam, israel, mosque, temple mount, holy site, religion, gold dome, jerusalem, jerusalem, jerusalem, islam, islam, islam, israel, israel, mosque, mosque, mosque, mosque, mosque"
+imageCredit: "Image by jdblack on Pixabay"
 ---
 
 In the world of Biblical archaeology, the discovery of the Dead Sea Scrolls has been nothing short of groundbreaking. These ancient manuscripts, found in caves near the Dead Sea, have shed light on the history and teachings of Judaism and Christianity. What makes this connection between archaeology and the Dead Sea Scrolls so fascinating is the way in which these texts provide tangible evidence of the events and people referenced in the Bible. By exploring the link between Biblical archaeology and the Dead Sea Scrolls, researchers and enthusiasts alike are able to gain a deeper understanding of the religious and historical significance of these ancient texts.

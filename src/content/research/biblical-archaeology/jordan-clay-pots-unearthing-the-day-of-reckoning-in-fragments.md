@@ -6,6 +6,9 @@ parentHub: "biblical-archaeology"
 pubDate: 2025-05-30
 lastUpdated: 2025-05-30
 draft: false
+image: "/images/research/biblical-archaeology/jordan-clay-pots-unearthing-the-day-of-reckoning-in-fragments.jpg"
+imageAlt: "israel, jerusalem, jewish, palestine, religion, temple, judaism, holy, torah, architecture, old, ancient, history, rabbi, pray, east, israel, israel, jerusalem, jerusalem, jerusalem, jerusalem, jerusalem"
+imageCredit: "Image by Nick115 on Pixabay"
 ---
 
 Have you ever wondered what stories ancient artifacts might tell if they could speak? Imagine unearthing relics from thousands of years ago, feeling the weight of history in your hands. Such is the case with the Jordan clay pots, which hold secrets that beckon enthusiasts of archaeology, history, and biblical narratives alike.

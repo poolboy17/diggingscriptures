@@ -6,6 +6,9 @@ parentHub: "biblical-archaeology"
 pubDate: 2025-05-30
 lastUpdated: 2025-05-30
 draft: false
+image: "/images/research/biblical-archaeology/unveiling-the-jericho-underground-ramp-a-study-of-covenant-bonds-in-desert-shelters.jpg"
+imageAlt: "archaeology, excavation, sun sails, protection, sun protection, archaeological excavation, research, archaeological site, coast, landscape, mnajdra, malta, excavation, sun protection, research, archaeological site, mnajdra, mnajdra, mnajdra, mnajdra, mnajdra, malta, malta, malta, malta"
+imageCredit: "Image by Efraimstochter on Pixabay"
 ---
 
 What stories do the ancient remnants of Jericho whisper to us today? Its fascinating to think about how a city, famous for its walls, offers profound insights into the human experience, especially in its architectural marvels like the Underground Ramp.

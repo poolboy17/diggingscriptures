@@ -6,6 +6,9 @@ parentHub: "scripture"
 pubDate: 2024-04-27
 lastUpdated: 2024-04-27
 draft: false
+image: "/images/research/scripture/are-all-new-testament-books-written-in-greek.jpg"
+imageAlt: "calligraphy, story, ink, feather, a book, vintage, old, wood, fairy tale, author, writer, diary, story, story, story, story, author, author, writer, writer, writer, writer, writer, diary"
+imageCredit: "Image by Ghinzo on Pixabay"
 ---
 
 In the fascinating realm of biblical scholarship, one question that often arises is whether all New Testament books were written in Greek. Anita Love, a distinguished authority on the historical and contemporary significance of Christianity, explores this intriguing topic with her extensive knowledge and expertise. With her academic background in Theology and Religious Studies, Anita has delved into the study of ancient biblical manuscripts to shed light on the language in which these sacred texts were penned. As we journey through her insightful writings, we will discover the complexities and intricacies woven into the rich tapestry of the New Testament's linguistic origins.

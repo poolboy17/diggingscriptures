@@ -6,6 +6,9 @@ parentHub: "scripture"
 pubDate: 2024-04-27
 lastUpdated: 2024-04-27
 draft: false
+image: "/images/research/scripture/language-of-the-old-testament-exploring-the-scriptures.jpg"
+imageAlt: "books, library, read, shelves, shelf, reading, culture, book, edition, books, books, books, books, books, library, library, book, book"
+imageCredit: "Image by Marisa_Sias on Pixabay"
 ---
 
 Are you curious about the language in which the Old Testament was written? Well, the Old Testament, also known as the Hebrew Bible, was originally written primarily in biblical Hebrew, with some portions in Aramaic. This language holds great historical and cultural significance as it is the language in which many of the foundational religious texts of Judaism, as well as a significant portion of Christian scripture, were composed. Exploring the Language of the Old Testament allows us to delve into the rich complexities of biblical Hebrew and gain a deeper understanding of the scriptures that have shaped our world.

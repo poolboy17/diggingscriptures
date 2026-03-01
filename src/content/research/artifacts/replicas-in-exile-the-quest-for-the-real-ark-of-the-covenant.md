@@ -6,6 +6,9 @@ parentHub: "artifacts"
 pubDate: 2025-05-30
 lastUpdated: 2025-05-30
 draft: false
+image: "/images/research/artifacts/replicas-in-exile-the-quest-for-the-real-ark-of-the-covenant.jpg"
+imageAlt: "coins, ancient, ancient coin, financial, currency, gold, coins, ancient, ancient coin, ancient coin, ancient coin, ancient coin, ancient coin"
+imageCredit: "Image by cho_phophimon on Pixabay"
 ---
 
 What would you risk to uncover a piece of history?

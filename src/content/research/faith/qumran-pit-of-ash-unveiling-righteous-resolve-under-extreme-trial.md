@@ -6,6 +6,9 @@ parentHub: "faith"
 pubDate: 2025-05-30
 lastUpdated: 2025-05-30
 draft: false
+image: "/images/research/faith/qumran-pit-of-ash-unveiling-righteous-resolve-under-extreme-trial.jpg"
+imageAlt: "interior, ceiling, window, old, church, architecture, interior, ceiling, window, church, church, church, church, church"
+imageCredit: "Image by analogicus on Pixabay"
 ---
 
 What drives a person to remain steadfast in their beliefs, especially when faced with the harshest challenges? The answer often lies in the heart of one's convictions, a testament to human resilience even amid chaos.

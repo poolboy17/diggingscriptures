@@ -6,6 +6,9 @@ parentHub: "biblical-archaeology"
 pubDate: 2024-03-04
 lastUpdated: 2024-03-04
 draft: false
+image: "/images/research/biblical-archaeology/what-is-the-course-on-biblical-archeology.jpg"
+imageAlt: "jerusalem, israel, old town, walls, the rock temple, dome of the rock, the holy city, israeli town, panorama, city view, jerusalem, jerusalem, jerusalem, jerusalem, jerusalem, israel, israel, israel, israel"
+imageCredit: "Image by Walkerssk on Pixabay"
 ---
 
 Coincidentally, as students explore the course on Biblical Archeology, they uncover fascinating connections between ancient artifacts and biblical narratives.

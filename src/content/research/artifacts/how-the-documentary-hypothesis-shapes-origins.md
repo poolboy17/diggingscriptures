@@ -6,6 +6,9 @@ parentHub: "artifacts"
 pubDate: 2025-07-29
 lastUpdated: 2025-07-29
 draft: false
+image: "/images/research/artifacts/how-the-documentary-hypothesis-shapes-origins.jpg"
+imageAlt: "aged, ancient, antique, ceramic, clay, container, containers, crock, crockery, domestic, historic, jar, jug, old, pitcher, porcelain, pot, pots, pottery, vintage, jug, jug, pitcher, pitcher, pitcher, pottery, pottery, pottery, pottery, pottery"
+imageCredit: "Image by PublicDomainPictures on Pixabay"
 ---
 
 Have you ever wondered how the Bible came to be in its present form, or who wrote its many books? If so, you're not alone. This question has intrigued scholars, theologians, and laypeople for centuries. The Documentary Hypothesis proposes an answer, suggesting that the Pentateuch (the first five books of the Bible) was derived from multiple sources, written by different authors at various points in history. This idea has profound implications for how we understand the origins of biblical texts and, by extension, the theological concepts they convey.

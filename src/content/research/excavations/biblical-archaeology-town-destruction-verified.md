@@ -6,6 +6,9 @@ parentHub: "excavations"
 pubDate: 2024-10-30
 lastUpdated: 2024-10-30
 draft: false
+image: "/images/research/excavations/biblical-archaeology-town-destruction-verified.jpg"
+imageAlt: "workers, construction, excavation, dig, building, construction workers, helmet, safety vest, construction site, soil, construction, excavation, excavation, excavation, excavation, excavation, construction workers, construction workers, safety vest, safety vest, safety vest, safety vest, safety vest, construction site, construction site"
+imageCredit: "Image by planet_fox on Pixabay"
 ---
 
 Have you ever wondered how modern archaeological discoveries align with the ancient narratives of biblical texts? The field of Biblical Archaeology offers fascinating insights, particularly through verified cases of ancient town destruction that correspond with biblical records. This area of study bridges the ancient past with contemporary scholarship, providing a window into the historical realities behind sacred texts.

@@ -6,6 +6,9 @@ parentHub: "excavations"
 pubDate: 2024-10-30
 lastUpdated: 2024-10-30
 draft: false
+image: "/images/research/excavations/ancient-temple-mount-discovery-shifts-biblical-understanding.jpg"
+imageAlt: "masada national park, masada, the great revolt, roman siege ramp, cliff, desert, unesco heritage site, tourism, israel, palaces of king herod the great, nature, aerial view"
+imageCredit: "Image by samirsmier on Pixabay"
 ---
 
 Have you ever considered how a single archaeological discovery might alter our understanding of biblical history? The Ancient Temple Mount Discovery is one such remarkable event that has the potential to shift long-held perspectives about biblical history and culture. This discovery offers staggering insights into the ancient world, allowing for a reevaluation of historical narratives and prompting scholars to reconsider their interpretations.

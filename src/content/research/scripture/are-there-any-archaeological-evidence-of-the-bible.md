@@ -6,6 +6,9 @@ parentHub: "scripture"
 pubDate: 2024-03-04
 lastUpdated: 2024-03-04
 draft: false
+image: "/images/research/scripture/are-there-any-archaeological-evidence-of-the-bible.jpg"
+imageAlt: "qumran national park, qumran, archeology, dead sea scrolls, cave number 4, discovery, cave, scroll, qumran, qumran, qumran, qumran, qumran, dead sea scrolls"
+imageCredit: "Image by samirsmier on Pixabay"
 ---
 
 In the vast landscape of historical exploration, archaeology acts as a skilled detective, unearthing clues that may shed light on the biblical narratives. The quest for tangible evidence of the Bible has sparked much debate and fascination among scholars and enthusiasts alike.

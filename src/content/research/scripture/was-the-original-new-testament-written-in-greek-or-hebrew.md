@@ -6,6 +6,9 @@ parentHub: "scripture"
 pubDate: 2024-04-27
 lastUpdated: 2024-04-27
 draft: false
+image: "/images/research/scripture/was-the-original-new-testament-written-in-greek-or-hebrew.jpg"
+imageAlt: "scroll, feather, ink, caligraphy, hebrew, writing, characters, paper, papirus, old style, brown paper, brown writing, scroll, scroll, scroll, scroll, scroll, hebrew, hebrew"
+imageCredit: "Image by zofiaEliyahu on Pixabay"
 ---
 
 Anita Love, a renowned authority in the realm of Christianity's historical foundations and its contemporary relevance, has dedicated her expertise to answering one intriguing question: was the original New Testament written in Greek or Hebrew? With an impressive background in Theology and Religious Studies, Anita has extensively researched ancient biblical manuscripts and delved into the authenticity of religious teachings. Her body of work, consisting of published books and scholarly articles, offers a nuanced perspective that honors the diversity of Christian denominations while shedding light on the scriptural events that have shaped our understanding of faith. Join Anita on this fascinating investigation as she navigates through the historical accuracy and cultural contexts surrounding the writing of the New Testament, ultimately revealing the linguistic origins that underpin this profound religious text.

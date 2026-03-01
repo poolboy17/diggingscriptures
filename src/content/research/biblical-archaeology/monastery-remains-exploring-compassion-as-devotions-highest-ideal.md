@@ -6,6 +6,9 @@ parentHub: "biblical-archaeology"
 pubDate: 2025-05-30
 lastUpdated: 2025-05-30
 draft: false
+image: "/images/research/biblical-archaeology/monastery-remains-exploring-compassion-as-devotions-highest-ideal.jpg"
+imageAlt: "pretty much, jerash, oval forum, roman, culture, story, historical, ancient, columns, stone, ruins, jordan, tourism, to travel, middle east, jerash, jerash, jordan, jordan, jordan, jordan, jordan, middle east"
+imageCredit: "Image by ChiemSeherin on Pixabay"
 ---
 
 Have you ever found yourself pondering the deeper meanings behind devotion and how it shapes our spiritual practices? The concept of compassion as the highest form of devotion runs deep, particularly in the context of monasteries. These hallowed spaces, often seen as sanctuaries for the soul, hold remnants of a practice that emphasizes compassion above all. Lets unpack the layers of history, tradition, and meaning behind monastery remains, and how they encapsulate this profound ideal.

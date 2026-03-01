@@ -6,6 +6,9 @@ parentHub: "scripture"
 pubDate: 2024-04-27
 lastUpdated: 2024-04-27
 draft: false
+image: "/images/research/scripture/the-original-language-of-the-new-testament-bible.jpg"
+imageAlt: "qumran national park, qumran, archeology, dead sea scrolls, cave number 4, discovery, cave, scroll, qumran, qumran, qumran, qumran, qumran, dead sea scrolls"
+imageCredit: "Image by samirsmier on Pixabay"
 ---
 
 Did you ever wonder what language the original New Testament Bible was written in? Well, the answer may surprise you. The New Testament, that sacred collection of texts that encapsulates the life and teachings of Jesus Christ, was actually written in Greek. Yes, Greek! This captivating fact shines a spotlight on the rich linguistic history of Christianity and the interconnectedness of cultures in the ancient world. With her extensive knowledge and expertise, Anita Love, a renowned scholar who has dedicated her life to the study of theology and religious texts, sheds light on this fascinating topic. So, let's join Anita on this journey of discovery as we delve into the original language of the New Testament Bible.

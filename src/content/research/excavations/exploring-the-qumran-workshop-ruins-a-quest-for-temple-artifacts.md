@@ -6,6 +6,9 @@ parentHub: "excavations"
 pubDate: 2025-01-28
 lastUpdated: 2025-01-28
 draft: false
+image: "/images/research/excavations/exploring-the-qumran-workshop-ruins-a-quest-for-temple-artifacts.jpg"
+imageAlt: "city, frankfurt, cityscape, skyscrapers, dusk, twilight, night, lights, aerial view, city, city, city, city, frankfurt, frankfurt, frankfurt, frankfurt, frankfurt"
+imageCredit: "Image by Bru-nO on Pixabay"
 ---
 
 What if I told you that the remnants of a once-thriving community are whispering secrets about ancient rituals, sacred texts, and temple artifacts? You might be surprised to learn that such a place exists, known as the Qumran Workshop Ruins. This site, nestled near the shores of the Dead Sea, holds the key to unlocking chapters of history that many may have thought lost to time.

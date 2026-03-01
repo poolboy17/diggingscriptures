@@ -6,6 +6,9 @@ parentHub: "excavations"
 pubDate: 2024-02-06
 lastUpdated: 2024-02-06
 draft: false
+image: "/images/research/excavations/10-famous-biblical-archaeologists-you-should-know.jpg"
+imageAlt: "archaeology, excavation, sun sails, protection, sun protection, archaeological excavation, research, archaeological site, coast, landscape, mnajdra, malta, excavation, sun protection, research, archaeological site, mnajdra, mnajdra, mnajdra, mnajdra, mnajdra, malta, malta, malta, malta"
+imageCredit: "Image by Efraimstochter on Pixabay"
 ---
 
 In the world of biblical archaeology, there are a select few individuals who have made significant contributions to our understanding of ancient history. From unearthing ancient artifacts to deciphering ancient texts, these famous biblical archaeologists have dedicated their lives to uncovering the mysteries of the past. , we will introduce you to ten of these renowned figures, showcasing their groundbreaking discoveries and the impact they have made on our understanding of biblical times. Join us as we embark on a journey through time with some of the most influential personalities in the field of biblical archaeology.

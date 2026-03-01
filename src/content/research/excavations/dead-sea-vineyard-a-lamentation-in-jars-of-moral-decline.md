@@ -6,6 +6,9 @@ parentHub: "excavations"
 pubDate: 2025-01-28
 lastUpdated: 2025-01-28
 draft: false
+image: "/images/research/excavations/dead-sea-vineyard-a-lamentation-in-jars-of-moral-decline.jpg"
+imageAlt: "jerusalem, dome of the rock, islam, israel, mosque, temple mount, holy site, religion, gold dome, jerusalem, jerusalem, jerusalem, islam, islam, islam, israel, israel, mosque, mosque, mosque, mosque, mosque"
+imageCredit: "Image by jdblack on Pixabay"
 ---
 
 What if the ancient world offered us a mirror, reflecting our own moral dilemmas back to us? As you ponder this idea, you may find yourself led to the mystical shores of the Dead Sea, an area steeped in history, spirituality, and, most intriguingly, a lamentation for the moral decline encapsulated in the artifacts found there.

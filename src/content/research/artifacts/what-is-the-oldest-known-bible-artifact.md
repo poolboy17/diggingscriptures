@@ -6,6 +6,9 @@ parentHub: "artifacts"
 pubDate: 2024-03-04
 lastUpdated: 2024-03-04
 draft: false
+image: "/images/research/artifacts/what-is-the-oldest-known-bible-artifact.jpg"
+imageAlt: "man, neanderthal, cave man, prehistoric, primitive human, museum, houston museum of science, artifact, ancient, ape, historic, adventure, discovery science, research, hairy, beast, pre-historic, history, old man, evolution, display, strange, orange hair, monkey"
+imageCredit: "Image by ArtisticOperations on Pixabay"
 ---
 
 Amidst the sands of time, a silent witness to ancient beliefs emerges, challenging conventional wisdom and sparking intrigue among scholars.

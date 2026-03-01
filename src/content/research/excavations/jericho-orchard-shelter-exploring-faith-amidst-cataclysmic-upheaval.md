@@ -6,6 +6,9 @@ parentHub: "excavations"
 pubDate: 2025-05-30
 lastUpdated: 2025-05-30
 draft: false
+image: "/images/research/excavations/jericho-orchard-shelter-exploring-faith-amidst-cataclysmic-upheaval.jpg"
+imageAlt: "jerash, jordan, ruins, ancient, architecture, roman, archeology, pillar, historic, stone, column, brown stone, jerash, jerash, jordan, jordan, jordan, jordan, jordan"
+imageCredit: "Image by Graham-H on Pixabay"
 ---
 
 Isnt it fascinating to think about how faith can endure even amidst the most tumultuous of times? When one looks at the Jericho Orchard Shelter, a symbol of shelter and sanctuary, it brings to mind the myriad of people who have sought refuge not just from the elements, but from the chaos surrounding their lives. This article takes you through the compelling narrative of faith, perseverance, and survival during cataclysmic upheaval, all anchored in the historical and archaeological significance of Jericho.

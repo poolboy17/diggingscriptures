@@ -6,6 +6,9 @@ parentHub: "excavations"
 pubDate: 2025-01-28
 lastUpdated: 2025-01-28
 draft: false
+image: "/images/research/excavations/jericho-city-gate-the-significance-of-the-renewed-covenant-parchment.jpg"
+imageAlt: "greece, parthenon, temple, ruins, building, architecture, pillars, columns, europe, ancient, history, greek, greek architecture, landmark, places of interest, tourist attraction, tourist destination, greece, greece, greece, greece, greece, parthenon, history, history, greek"
+imageCredit: "Image by nonbirinonko on Pixabay"
 ---
 
 What if I told you that a seemingly ordinary location, the Jericho City Gate, hides profound stories about ancient covenants and their meanings? You might find it surprising, but the Jericho City Gate not only served as a protective barrier for one of the oldest inhabited cities on Earth but also as a backdrop for some of the most significant events in biblical history. Its fascinating to think about how much history can live within those stones, wouldnt you agree?

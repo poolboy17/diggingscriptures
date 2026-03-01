@@ -6,6 +6,9 @@ parentHub: "scripture"
 pubDate: 2024-04-27
 lastUpdated: 2024-04-27
 draft: false
+image: "/images/research/scripture/why-is-the-old-testament-called-the-old-testament.jpg"
+imageAlt: "antique, yellow pages, chapter, open book, new chapter, hebrew text, bookmark, bookworm, brown wallpaper, book wallpaper, literature, education, letterpress, textured pages, old book, book, study, storytelling, study break, old text, story, hardcover, classroom, i read, reflection, open book, education, education, old book, old book, book, book, book, book, study, study, storytelling, storytelling, storytelling, storytelling, story, story, story, story, story"
+imageCredit: "Image by Ri_Ya on Pixabay"
 ---
 
 In her captivating article, "Why is the Old Testament called the Old Testament?" Anita Love, a renowned theologian and scholar, delves into the intriguing origins of this ancient religious text. Through her extensive research and academic expertise, Anita examines the central themes, literary genres, historical context, messianic prophecies, and the contrasting systems of law and covenant found within the pages of the Old Testament. With a nuanced perspective that celebrates diversity and honors the intersection of Christianity's historical foundations and its contemporary relevance, Anita's work invites readers to explore the profound significance and timeless wisdom of this sacred scripture.

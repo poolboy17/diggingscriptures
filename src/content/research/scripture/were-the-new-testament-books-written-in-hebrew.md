@@ -6,6 +6,9 @@ parentHub: "scripture"
 pubDate: 2024-04-27
 lastUpdated: 2024-04-27
 draft: false
+image: "/images/research/scripture/were-the-new-testament-books-written-in-hebrew.jpg"
+imageAlt: "manuscript, medieval, antique, paper, parchment, vintage, document, lettering, yellow, brown, calligraphy, brown letter, brown document, medieval, parchment, parchment, parchment, parchment, parchment"
+imageCredit: "Image by V2Melody on Pixabay"
 ---
 
 In "Were the New Testament Books Written in Hebrew?" Anita Love, an esteemed authority on the relationship between Christianity's historical foundations and its contemporary relevance, explores the question surrounding the original language of the New Testament books. With a passion for investigating ancient biblical manuscripts, the authenticity of religious teachings, and the historical accuracy of scriptural events, Anita's extensive academic background in Theology and Religious Studies brings a nuanced perspective to this subject. Through her body of published work, she delves into the depths of Old Testament narratives, the role of cultural context in interpreting scriptures, and the divine inspiration that influenced the canonization process. With a commitment to embracing the diversity of Christian denominations, belief systems, and lifestyles, Anita's analysis of whether the New Testament books were written in Hebrew adds further dimension to the ongoing discourse in ecumenical circles.

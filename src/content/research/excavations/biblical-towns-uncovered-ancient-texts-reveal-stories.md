@@ -6,6 +6,9 @@ parentHub: "excavations"
 pubDate: 2024-10-30
 lastUpdated: 2024-10-30
 draft: false
+image: "/images/research/excavations/biblical-towns-uncovered-ancient-texts-reveal-stories.jpg"
+imageAlt: "ruins, sunset, nature, travel, outdoors, castle, fortress, architecture, dusk, sky, clouds, greece, silhouette"
+imageCredit: "Image by papazachariasa on Pixabay"
 ---
 
 Have you ever wondered what stories lie beneath the ancient stones of biblical towns, waiting to be uncovered by the diligent work of archaeologists? The quest to understand the history and significance of biblical towns has seen remarkable progress in recent years, with ancient texts and modern science combining to shed light on these storied sites.

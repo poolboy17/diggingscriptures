@@ -6,6 +6,9 @@ parentHub: "biblical-archaeology"
 pubDate: 2024-02-28
 lastUpdated: 2024-02-28
 draft: false
+image: "/images/research/biblical-archaeology/uncovering-rare-finds-in-biblical-archaeology.jpg"
+imageAlt: "jordan, petra, camels, dromedary, nature, desert, tourism"
+imageCredit: "Image by mikaelthunberg on Pixabay"
 ---
 
 Over the centuries, **Biblical archaeology** has unearthed **rare** and **fascinating** artifacts that provide valuable insights into ancient civilizations and **Biblical events**. These **discoveries** have helped piece together the **past** and validate the stories and accounts found in the **Bible**. From **ancient scrolls** to well-preserved **artifacts**, each **find** offers a **glimpse** into the **history** and **culture** of **people** mentioned in the **Bible**. Join us as we explore some of the most **significant** and **remarkable** discoveries in **Biblical archaeology**.

@@ -6,6 +6,9 @@ parentHub: "artifacts"
 pubDate: 2025-01-28
 lastUpdated: 2025-01-28
 draft: false
+image: "/images/research/artifacts/ravine-settlement-a-glimpse-into-roman-rule-and-communal-documents.jpg"
+imageAlt: "cents, coins, currency, cash, money, wealth, finance, loose change, coins, money, money, money, money, money"
+imageCredit: "Image by stux on Pixabay"
 ---
 
 What comes to mind when you think of ancient settlements? Perhaps a vision of dusty ruins, crumbling stone walls, and stories that echo through time? Settlements, especially from the era of Roman rule, are treasure troves of history waiting to be unearthed. One such site that offers a fascinating glimpse into the past is the Ravine Settlement, where communal documents and evidence of Roman governance intertwine. Let's take a stroll through history and see what the Ravine Settlement reveals about life during that remarkable period.

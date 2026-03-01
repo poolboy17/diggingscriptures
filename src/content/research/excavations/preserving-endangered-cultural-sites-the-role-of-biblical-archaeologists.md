@@ -6,6 +6,9 @@ parentHub: "excavations"
 pubDate: 2024-02-06
 lastUpdated: 2024-02-06
 draft: false
+image: "/images/research/excavations/preserving-endangered-cultural-sites-the-role-of-biblical-archaeologists.jpg"
+imageAlt: "egyptian temple, historic site, structure, land lot, archaeological site, outdoor structure, mortuary temple, ancient history, facade, roof, history, egyptian temple, egyptian temple, egyptian temple, egyptian temple, egyptian temple"
+imageCredit: "Image by Wael-Ezz on Pixabay"
 ---
 
 In the quest to preserve endangered cultural sites around the world, a group of individuals has emerged as unsung heroes: biblical archaeologists. These dedicated individuals use their expertise and passion to not only uncover ancient biblical artifacts, but also to protect and conserve the sites they excavate. By meticulously studying and documenting these cultural treasures, biblical archaeologists are able to contribute invaluable knowledge to the preservation and understanding of our shared history. , we will explore the vital role that biblical archaeologists play in safeguarding these endangered cultural sites for future generations to appreciate and learn from.

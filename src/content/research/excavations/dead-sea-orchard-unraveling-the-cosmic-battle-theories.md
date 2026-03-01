@@ -6,6 +6,9 @@ parentHub: "excavations"
 pubDate: 2025-01-28
 lastUpdated: 2025-01-28
 draft: false
+image: "/images/research/excavations/dead-sea-orchard-unraveling-the-cosmic-battle-theories.jpg"
+imageAlt: "landscape, tree, stone, wall, travel, ancient, old, architecture, archeology, roman, nature, roman construction, roman remains, empúries, ampurias, ruins of ampurias, roman empire, antiquity, city, site, ruins, history, ancient rome"
+imageCredit: "Image by Photos_Marta on Pixabay"
 ---
 
 Have you ever pondered how ancient texts might weave together the threads of a cosmic struggle, revealing ancient wisdom locked away in the cradle of time? The Dead Sea Scrolls and the archaeological wonders of the Judean Desert open fascinating doors that lead back to tumultuous chapters of human history. Its here that we encounter theories of cosmic battles, personal enlightenment, and the search for truth, all wrapped in layers of broken clay and faded ink.

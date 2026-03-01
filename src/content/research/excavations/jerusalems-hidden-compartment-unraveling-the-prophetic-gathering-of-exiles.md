@@ -6,6 +6,9 @@ parentHub: "excavations"
 pubDate: 2025-05-30
 lastUpdated: 2025-05-30
 draft: false
+image: "/images/research/excavations/jerusalems-hidden-compartment-unraveling-the-prophetic-gathering-of-exiles.jpg"
+imageAlt: "castle, travel, architecture, outdoors, daytime, medieval, hill, landmark, tower, military, fortification, scenic, landscape, ancient, building, fortress, sky, tree, nature, forest"
+imageCredit: "Image by Pexels on Pixabay"
 ---
 
 What if you could unearth secrets hidden beneath the stones of one of the oldest cities in the world? Picture yourself walking through the winding streets of Jerusalem, surrounded by history whispered through the ages. You might not realize it, but buried within these ancient paths lies a treasure trove of storiesespecially concerning the prophetic gathering of exiles. Lets unravel this captivating narrative together.

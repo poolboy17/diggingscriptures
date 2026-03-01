@@ -6,6 +6,9 @@ parentHub: "biblical-archaeology"
 pubDate: 2024-03-04
 lastUpdated: 2024-03-04
 draft: false
+image: "/images/research/biblical-archaeology/are-archeology-degrees-worth-it.jpg"
+imageAlt: "masada national park, masada, the great revolt, roman siege ramp, cliff, desert, unesco heritage site, tourism, israel, palaces of king herod the great, nature, aerial view"
+imageCredit: "Image by samirsmier on Pixabay"
 ---
 
 In the intricate layers of academic pursuits, the question lingers: are archaeology degrees worth the excavation?

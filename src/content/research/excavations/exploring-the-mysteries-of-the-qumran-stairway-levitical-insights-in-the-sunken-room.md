@@ -6,6 +6,9 @@ parentHub: "excavations"
 pubDate: 2025-01-28
 lastUpdated: 2025-01-28
 draft: false
+image: "/images/research/excavations/exploring-the-mysteries-of-the-qumran-stairway-levitical-insights-in-the-sunken-room.jpg"
+imageAlt: "archaeology, excavation, sun sails, protection, sun protection, archaeological excavation, research, archaeological site, coast, landscape, mnajdra, malta, excavation, sun protection, research, archaeological site, mnajdra, mnajdra, mnajdra, mnajdra, mnajdra, malta, malta, malta, malta"
+imageCredit: "Image by Efraimstochter on Pixabay"
 ---
 
 Have you ever wondered what secrets lie beneath the surface of ancient sites, especially the enigmatic Qumran? The mysteries of this area can ignite curiosity about everything from biblical history to archaeological practices. Specifically, the Qumran Stairway and the adjacent Sunken Room offer intriguing insights into practices and beliefs during the Second Temple period.

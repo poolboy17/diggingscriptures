@@ -6,6 +6,9 @@ parentHub: "faith"
 pubDate: 2024-10-30
 lastUpdated: 2024-10-30
 draft: false
+image: "/images/research/faith/digital-mapping-of-biblical-cities-unearthing-lost-histories.jpg"
+imageAlt: "angel, icon, wall paint, iconography, damaged, weathered, aged, church, archangel michael, 12th century, orthodox, christianity, medieval, kato lefkara, cyprus, brown angel, archangel michael, archangel michael, archangel michael, archangel michael, archangel michael"
+imageCredit: "Image by dimitrisvetsikas1969 on Pixabay"
 ---
 
 Have you ever wondered how digital technology might bridge the gaps between ancient Biblical narratives and the tangible remnants of history? The fusion of archaeological exploration and modern digital mapping is transforming the study of ancient Biblical cities. This fascinating confluence empowers scholars and enthusiasts to unearth Biblical narratives with unprecedented precision.

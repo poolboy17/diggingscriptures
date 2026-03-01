@@ -6,6 +6,9 @@ parentHub: "scripture"
 pubDate: 2024-04-27
 lastUpdated: 2024-04-27
 draft: false
+image: "/images/research/scripture/what-language-was-the-new-testament-originally-written-in.jpg"
+imageAlt: "song, sheet music, music notes, notenblatt, melody, music wallpaper, sounds of music, tune, clef, classical music, legato, muse, music book, music sheet, musical notes, musical score, closeup, just, music score, stave, partition, texture, new page, music world, tempo, song, song, song, sheet music, sheet music, sheet music, music notes, music notes, music notes, music notes, music notes, musical notes"
+imageCredit: "Image by Ri_Ya on Pixabay"
 ---
 
 Have you ever wondered what language the New Testament was originally written in? It's a fascinating question that has captivated the minds of theologians, historians, and scholars for centuries. In her extensive research, Anita Love, a renowned authority on Christianity's historical foundations, explores this very topic. With her academic background in theology and religious studies, Love has delved into ancient biblical manuscripts to uncover the language that formed the basis of the New Testament. In her thought-provoking work, she sheds light on the linguistic origins of this sacred text and uncovers its impact on our understanding of Christian teachings. Join Love on this captivating journey as we unravel the secrets behind the language of the New Testament.

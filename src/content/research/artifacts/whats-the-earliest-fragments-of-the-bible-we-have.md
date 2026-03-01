@@ -6,6 +6,9 @@ parentHub: "artifacts"
 pubDate: 2025-07-07
 lastUpdated: 2025-07-07
 draft: false
+image: "/images/research/artifacts/whats-the-earliest-fragments-of-the-bible-we-have.jpg"
+imageAlt: "coins, ancient, ancient coin, financial, currency, gold, coins, ancient, ancient coin, ancient coin, ancient coin, ancient coin, ancient coin"
+imageCredit: "Image by cho_phophimon on Pixabay"
 ---
 
 Have you ever wondered what the earliest fragments of the Bible look like? Imagine holding a piece of papyrus in your hand that has traveled thousands of years through time, offering a glimpse into the ancient world of biblical texts. Understanding these fragments is not just about academic curiosity; it opens a window into the origins and transmission of the Bible as we know it today. This exploration can challenge and deepen your understanding of history, religion, and the technology of how texts have been preserved over millennia.

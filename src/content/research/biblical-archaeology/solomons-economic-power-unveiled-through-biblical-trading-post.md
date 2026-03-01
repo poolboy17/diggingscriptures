@@ -6,6 +6,9 @@ parentHub: "biblical-archaeology"
 pubDate: 2024-10-30
 lastUpdated: 2024-10-30
 draft: false
+image: "/images/research/biblical-archaeology/solomons-economic-power-unveiled-through-biblical-trading-post.jpg"
+imageAlt: "jerusalem, israel, old town, walls, the rock temple, dome of the rock, the holy city, israeli town, panorama, city view, jerusalem, jerusalem, jerusalem, jerusalem, jerusalem, israel, israel, israel, israel"
+imageCredit: "Image by Walkerssk on Pixabay"
 ---
 
 **Solomon's Economic Power Unveiled Through Biblical Trading Post**

@@ -6,6 +6,9 @@ parentHub: "scripture"
 pubDate: 2024-04-27
 lastUpdated: 2024-04-27
 draft: false
+image: "/images/research/scripture/the-historical-accuracy-of-the-new-testament.jpg"
+imageAlt: "parchment, contract, paper, document, old, manuscript, retro, yellow, sheet, business, ancient, letter, ink, typewriter, history, certificate, vintage, education, scroll, text, typography, antique, diploma, university, school, degree, graduation, graduate, message, old school, communication, brown school, brown education, brown community, brown communication, brown letter, brown graduation, brown document, certificate, certificate, certificate, scroll, scroll, diploma, diploma, diploma, diploma, diploma"
+imageCredit: "Image by icame on Pixabay"
 ---
 
 Have you ever wondered about the historical accuracy of the New Testament? Well, you're not alone. , we will explore the intriguing research of Anita Love, a highly-respected scholar in the field of biblical studies. With a deep understanding of ancient manuscripts and a dedication to uncovering religious truths, Anita takes us on a journey through the central themes, literary genres, historical contexts, and messianic prophecies of the Old and New Testaments. Her thought-provoking insights shed light on the differences between the two, providing a richer understanding of the foundations of Christianity. So, let's  and discover the fascinating world of the New Testament's historical accuracy. And to answer your question, no, the New Testament was not primarily written in Hebrew.

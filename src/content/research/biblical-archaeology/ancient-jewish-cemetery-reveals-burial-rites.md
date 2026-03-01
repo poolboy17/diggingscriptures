@@ -6,6 +6,9 @@ parentHub: "biblical-archaeology"
 pubDate: 2024-10-30
 lastUpdated: 2024-10-30
 draft: false
+image: "/images/research/biblical-archaeology/ancient-jewish-cemetery-reveals-burial-rites.jpg"
+imageAlt: "pretty much, jerash, columns, roman, ancient, culture, story, historical, ruins, stone, jordan, tourism, to travel, middle east, jerash, jerash, jordan, jordan, jordan, jordan, jordan"
+imageCredit: "Image by ChiemSeherin on Pixabay"
 ---
 
 Have you ever wondered what ancient burial rites can tell us about past civilizations, particularly those with deep biblical connections? Unearthing ancient cemeteries often provides unique insights into the cultural and religious practices of the times. The recent discovery of an ancient Jewish cemetery has opened the doors to understanding the burial rites of this community, revealing both the customs of the past and the stories buried with them.

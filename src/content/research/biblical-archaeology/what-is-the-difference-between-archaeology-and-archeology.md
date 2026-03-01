@@ -6,6 +6,9 @@ parentHub: "biblical-archaeology"
 pubDate: 2024-03-04
 lastUpdated: 2024-03-04
 draft: false
+image: "/images/research/biblical-archaeology/what-is-the-difference-between-archaeology-and-archeology.jpg"
+imageAlt: "amman, jordan, city, urban, buildings, downtown, city life, architecture, landscape, amman, amman, amman, amman, jordan, jordan, jordan, jordan, jordan"
+imageCredit: "Image by Jonny_Joka on Pixabay"
 ---
 
 In the labyrinth of linguistic nuances, the distinction between 'archaeology' and 'archeology' may seem like a mere twist of fate. However, the divergence between these two spellings holds a deeper significance that extends beyond mere orthographic preferences.

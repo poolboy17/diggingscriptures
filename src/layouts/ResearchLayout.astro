@@ -11,15 +11,19 @@
  */
 
 import BaseLayout from './BaseLayout.astro';
+import CdnImage from '../components/CdnImage.astro';
 
 interface Props {
     title: string;
     description: string;
     category: string;
     pubDate?: Date;
+    image?: string;
+    imageAlt?: string;
+    imageCredit?: string;
 }
 
-const { title, description, category, pubDate } = Astro.props;
+const { title, description, category, pubDate, image, imageAlt, imageCredit } = Astro.props;
 
 const categoryLabels: Record<string, string> = {
     'biblical-archaeology': 'Biblical Archaeology',
@@ -39,6 +43,14 @@ const categoryLabels: Record<string, string> = {
                     {categoryLabels[category] || category}
                 </a>
             </div>
+
+            {image && (
+                <div class="hero-image mb-8 rounded-xl overflow-hidden" style="max-width:900px;margin:0 auto 1.5rem;">
+                    <CdnImage src={image} alt={imageAlt || title} loading="eager" fetchpriority="high" width={1080} height={720} sizes="(max-width: 1080px) 100vw, 1080px" class="w-full object-cover rounded-xl" style="max-height:420px;" />
+                    {imageCredit && <p style="font-size:0.75rem;color:#a8a29e;margin-top:0.5rem;">{imageCredit}</p>}
+                </div>
+            )}
+
             <h1>{title}</h1>
             <p class="context-description">{description}</p>
             {pubDate && (

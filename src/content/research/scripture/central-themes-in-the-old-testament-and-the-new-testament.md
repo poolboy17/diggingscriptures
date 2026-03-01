@@ -6,6 +6,9 @@ parentHub: "scripture"
 pubDate: 2024-04-27
 lastUpdated: 2024-04-27
 draft: false
+image: "/images/research/scripture/central-themes-in-the-old-testament-and-the-new-testament.jpg"
+imageAlt: "calligraphy, story, ink, feather, a book, vintage, old, wood, fairy tale, author, writer, diary, story, story, story, story, author, author, writer, writer, writer, writer, writer, diary"
+imageCredit: "Image by Ghinzo on Pixabay"
 ---
 
 In "Central Themes in the Old Testament and the New Testament," Anita Love, a renowned expert in biblical studies, explores the key concepts and messages found in both testaments of the Holy Bible. With her extensive academic background and profound understanding of ancient manuscripts and religious teachings, Anita delves into various topics, such as contrasting themes, literary genres, historical contexts, messianic prophecies, and the distinction between law and covenant. Through her writings, Anita provides readers with a fresh and inclusive perspective on the intersection of Christianity's historical foundations and its contemporary relevance. With her expertise guiding the way, readers are invited to embark on a journey through the rich and profound teachings of both the Old and New Testaments. So, which testament comes first?

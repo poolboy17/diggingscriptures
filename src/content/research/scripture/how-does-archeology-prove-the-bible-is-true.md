@@ -6,6 +6,9 @@ parentHub: "scripture"
 pubDate: 2024-03-04
 lastUpdated: 2024-03-04
 draft: false
+image: "/images/research/scripture/how-does-archeology-prove-the-bible-is-true.jpg"
+imageAlt: "qumran national park, qumran, archeology, dead sea scrolls, cave number 4, discovery, cave, scroll, qumran, qumran, qumran, qumran, qumran, dead sea scrolls"
+imageCredit: "Image by samirsmier on Pixabay"
 ---
 
 Archaeology acts as an authenticator, affirming the Bible's veracity through tangible discoveries that correspond with biblical narratives.

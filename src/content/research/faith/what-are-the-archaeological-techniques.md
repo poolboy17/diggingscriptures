@@ -6,6 +6,9 @@ parentHub: "faith"
 pubDate: 2024-03-04
 lastUpdated: 2024-03-04
 draft: false
+image: "/images/research/faith/what-are-the-archaeological-techniques.jpg"
+imageAlt: "monk, pilgrimage, path, sunset, pilgrim, walk, road, enlightenment, tradition, culture, afternoon, nature, field, farm, landscape, rural, countryside, dusk"
+imageCredit: "Image by josealbafotos on Pixabay"
 ---
 
 Have you ever wondered how archaeologists uncover the secrets of ancient civilizations?

@@ -6,6 +6,9 @@ parentHub: "excavations"
 pubDate: 2024-02-06
 lastUpdated: 2024-02-06
 draft: false
+image: "/images/research/excavations/top-excavation-sites-for-biblical-archaeologists.jpg"
+imageAlt: "jerusalem, dome of the rock, islam, israel, mosque, temple mount, holy site, religion, gold dome, jerusalem, jerusalem, jerusalem, islam, islam, islam, israel, israel, mosque, mosque, mosque, mosque, mosque"
+imageCredit: "Image by jdblack on Pixabay"
 ---
 
 In the world of Biblical Archaeology, there are several captivating excavation sites that have become popular destinations for researchers and history enthusiasts alike. These sites hold the promise of unearthing ancient artifacts and shedding light on the stories and events depicted in the Bible. With their rich history and archaeological significance, these top excavation sites are an absolute treasure trove for those passionate about uncovering the mysteries of the past.

@@ -6,6 +6,9 @@ parentHub: "excavations"
 pubDate: 2024-02-06
 lastUpdated: 2024-02-06
 draft: false
+image: "/images/research/excavations/notable-discoveries-by-female-biblical-archaeologists.jpg"
+imageAlt: "jerusalem, dome of the rock, islam, israel, mosque, temple mount, holy site, religion, gold dome, jerusalem, jerusalem, jerusalem, islam, islam, islam, israel, israel, mosque, mosque, mosque, mosque, mosque"
+imageCredit: "Image by jdblack on Pixabay"
 ---
 
 Throughout history, there have been numerous female biblical archaeologists who have made remarkable contributions to the field. From unearthing ancient artifacts to deciphering ancient texts, these women have played a vital role in shedding light on biblical history and deepening our understanding of ancient civilizations. Their notable discoveries have not only challenged traditional interpretations but have also brought to the forefront the important role that women have played in uncovering our shared human history.

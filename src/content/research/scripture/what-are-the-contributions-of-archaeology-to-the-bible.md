@@ -6,6 +6,9 @@ parentHub: "scripture"
 pubDate: 2024-03-04
 lastUpdated: 2024-03-04
 draft: false
+image: "/images/research/scripture/what-are-the-contributions-of-archaeology-to-the-bible.jpg"
+imageAlt: "writing, manuscript, letter, document, ancient, lyrics, feather, ink, calligraphy"
+imageCredit: "Image by makamuki0 on Pixabay"
 ---
 
 In the intricate tapestry of biblical scholarship, archaeology functions as a steady hand, delicately weaving together threads of historical evidence and cultural context to disclose the rich layers of the Bible's narrative. As researchers peel back the earth's layers, uncovering ancient artifacts and forgotten ruins, they provide a tangible connection to the stories and figures immortalized in scripture.

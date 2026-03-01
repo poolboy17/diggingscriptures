@@ -6,6 +6,9 @@ parentHub: "excavations"
 pubDate: 2024-05-27
 lastUpdated: 2024-05-27
 draft: false
+image: "/images/research/excavations/exploring-ancient-biblical-sites-a-journey-through-history.jpg"
+imageAlt: "workshop, carpenter, crafts, artisan, drink, work, tool, vintage, workshop, workshop, workshop, workshop, workshop, carpenter, carpenter"
+imageCredit: "Image by ThMilherou on Pixabay"
 ---
 
 Embarking on a historical journey through ancient ruins reveals the profound significance of these sacred sites. Jerusalem, Jericho, and Bethlehem, among others, are revered as **historical landmarks** that offer a glimpse into the past. 

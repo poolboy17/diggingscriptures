@@ -6,6 +6,9 @@ parentHub: "artifacts"
 pubDate: 2024-02-06
 lastUpdated: 2024-02-06
 draft: false
+image: "/images/research/artifacts/exploring-the-ethical-implications-of-displaying-biblical-archaeological-artifacts.jpg"
+imageAlt: "zen, buddha, peace, meditation, statue, sculpture, buddhism, spiritual, eastern, buddhist, religion, figurine, buddha purnima, buddha statue, buddha sculpture"
+imageCredit: "Image by Helena on Pixabay"
 ---
 
 , the ethical implications of displaying biblical archaeological artifacts are explored. From ancient pottery fragments to delicate scrolls, these artifacts carry immense historical and cultural significance. However, the question arises: does showcasing these objects in museums and exhibitions inadvertently promote religious bias or favoritism? This article will delve into the various perspectives surrounding the display of these artifacts, examining the potential impact on religious inclusivity and cultural representation.

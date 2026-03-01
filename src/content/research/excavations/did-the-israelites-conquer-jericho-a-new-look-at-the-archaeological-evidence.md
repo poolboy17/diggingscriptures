@@ -6,6 +6,9 @@ parentHub: "excavations"
 pubDate: 2024-03-04
 lastUpdated: 2024-03-04
 draft: false
+image: "/images/research/excavations/did-the-israelites-conquer-jericho-a-new-look-at-the-archaeological-evidence.jpg"
+imageAlt: "streets, night, lights, circle, highways, top view, cityscape, aerial view, urban, crossroads, freeway, traffic, city lights, night photography, city view, aerial photography, circle, top view, cityscape, cityscape, cityscape, cityscape, aerial view, urban, crossroads, crossroads, freeway, city lights, city lights, city lights, city lights, city lights, night photography, night photography, night photography, city view, city view"
+imageCredit: "Image by csliaw on Pixabay"
 ---
 
 In a surprising turn of events, recent archaeological investigations at Jericho have sparked fresh debates on the historical validity of the Israelite conquest. Scholars are reevaluating long-held beliefs in light of new findings that challenge traditional narratives.

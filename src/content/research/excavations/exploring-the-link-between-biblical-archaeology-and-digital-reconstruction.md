@@ -6,6 +6,9 @@ parentHub: "excavations"
 pubDate: 2024-02-06
 lastUpdated: 2024-02-06
 draft: false
+image: "/images/research/excavations/exploring-the-link-between-biblical-archaeology-and-digital-reconstruction.jpg"
+imageAlt: "architecture, old, stone, ancient, building, historic, antique, facade, exterior, ruins, heritage, vintage, tourism, architectural, town, structure, history, culture, wall, remains, monument, fort, golconda, historical, landmark, archeology, brown history, brown culture, fort, fort, fort, golconda, golconda, golconda, golconda, golconda"
+imageCredit: "Image by jeh6 on Pixabay"
 ---
 
 In the fascinating field of biblical archaeology, a new frontier is being explored - the link between traditional excavation techniques and the emerging field of digital reconstruction. This innovative approach offers a unique perspective on ancient sites, allowing researchers to virtually recreate and explore these historical locations in a way that was previously impossible. By combining the physical evidence uncovered through archaeological digs with cutting-edge digital technologies, experts are able to gain valuable insights into the past while also preserving and sharing these important sites for future generations.

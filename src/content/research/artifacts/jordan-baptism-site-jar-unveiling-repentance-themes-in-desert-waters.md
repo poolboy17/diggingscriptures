@@ -6,6 +6,9 @@ parentHub: "artifacts"
 pubDate: 2025-05-30
 lastUpdated: 2025-05-30
 draft: false
+image: "/images/research/artifacts/jordan-baptism-site-jar-unveiling-repentance-themes-in-desert-waters.jpg"
+imageAlt: "chinese, free background, mac wallpaper, vase, 4k wallpaper 1920x1080, windows wallpaper, wallpaper 4k, free wallpaper, tea cup, 4k wallpaper, ceramics, full hd wallpaper, wallpaper hd, white, isolated, antique, cool backgrounds, tea, desktop backgrounds, background, blue, art, laptop wallpaper, pottery, traditional, culture, vintage, oriental, asia, oldies, porcelain, bowl, expedition, hd wallpaper, cup, ancient, beautiful wallpaper, decoration, colorful, asian, tradition, old, mystery"
+imageCredit: "Image by 947051 on Pixabay"
 ---
 
 What comes to mind when you think about water in a spiritual context? Is it the gentle babbling of a brook, the quiet lapping of waves against the shore, or perhaps, the powerful rush of a waterfall? For many, particularly within a biblical framework, water is a profound symboloften associated with renewal, cleansing, and spiritual rebirth. In the age-old narrative of the Jordan River, one can find deeply woven themes of repentance and transformation, particularly at the site traditionally believed to be where John the Baptist performed baptisms. The artifacts uncovered in this region, including jars that have their own story to tell, reveal insights that connect ancient practices with modern spiritual reflections.

@@ -6,6 +6,9 @@ parentHub: "biblical-archaeology"
 pubDate: 2024-03-04
 lastUpdated: 2024-03-04
 draft: false
+image: "/images/research/biblical-archaeology/what-is-the-difference-between-archeology-and-historical-archeology.jpg"
+imageAlt: "western wall, jerusalem, jews, pray, orthodox, holy, religious, western, wall, torah, temple, judaism, israel, jewish, religion, prayer, old, god, rock, east, stone, faith, hebrew, belief, judaic, spirituality, spiritual, architecture, traditional, city, synagogue, worship, wailing, ancient, people, sacred, brown city, brown wall, brown god, brown pray, brown rock, brown prayer, brown stone, western wall, jerusalem, jerusalem, jews, jews, judaism, judaism, israel, israel, israel, jewish, jewish, jewish, jewish, jewish"
+imageCredit: "Image by rliessum on Pixabay"
 ---
 
 Archaeology and historical archaeology may seem similar at first glance, but the nuances in their approaches and focuses make them distinct fields within the study of the past.

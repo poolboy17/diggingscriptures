@@ -6,6 +6,9 @@ parentHub: "biblical-archaeology"
 pubDate: 2024-03-04
 lastUpdated: 2024-03-04
 draft: false
+image: "/images/research/biblical-archaeology/what-is-the-earliest-archeological-evidence-of-the-israelites.jpg"
+imageAlt: "israel, jerusalem, jewish, palestine, religion, temple, judaism, holy, torah, architecture, old, ancient, history, rabbi, pray, east, israel, israel, jerusalem, jerusalem, jerusalem, jerusalem, jerusalem"
+imageCredit: "Image by Nick115 on Pixabay"
 ---
 
 The quest to discover the earliest archaeological traces of the Israelites reveals intriguing insights into the ancient origins of this historical group. From enigmatic inscriptions to enigmatic ruins, the evidence offers a tantalizing glimpse into the past.

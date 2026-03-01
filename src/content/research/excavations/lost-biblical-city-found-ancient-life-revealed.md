@@ -6,6 +6,9 @@ parentHub: "excavations"
 pubDate: 2024-10-30
 lastUpdated: 2024-10-30
 draft: false
+image: "/images/research/excavations/lost-biblical-city-found-ancient-life-revealed.jpg"
+imageAlt: "death valley, desert, highway, road, rural, countryside, landscape, sky, nature, sunny, california, desert, highway, road, road, road, road, road, sky, sky"
+imageCredit: "Image by jplenio on Pixabay"
 ---
 
 Have you ever wondered what daily life in one of the long-lost biblical cities might have been like? The discovery of a once-hidden city, mentioned in biblical texts, offers an enlightening glimpse into ancient life. This article titled "Lost Biblical City Found: Ancient Life Revealed" explores the contexts of this incredible find, delving into its biblical significance, archaeological evidence, and its implications for both history and the modern world.

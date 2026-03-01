@@ -6,6 +6,9 @@ parentHub: "biblical-archaeology"
 pubDate: 2025-01-28
 lastUpdated: 2025-01-28
 draft: false
+image: "/images/research/biblical-archaeology/windstorm-in-judean-valley-a-call-for-moral-renewal.jpg"
+imageAlt: "san galgano, abbey, ruins, tuscany, church, architecture, medieval, italy, religion, cathedral, ancient, stone, galgano, ruin, brick, history, old, gothic, brown church, brown history, brown old, brown stone, ruins, church, medieval, italy, italy, cathedral, ancient, ancient, history, history, history, history, history"
+imageCredit: "Image by ClickerHappy on Pixabay"
 ---
 
 What would you do if a sudden storm arose, tearing through your surroundings, forcing you to reflect on your life and values? This sense of upheaval might remind you of a windstorm not just in the physical sense, but also in the moral fabric of societya call for renewal that resonates across ages.

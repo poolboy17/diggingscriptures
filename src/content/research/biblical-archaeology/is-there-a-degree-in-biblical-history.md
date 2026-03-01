@@ -6,6 +6,9 @@ parentHub: "biblical-archaeology"
 pubDate: 2024-03-04
 lastUpdated: 2024-03-04
 draft: false
+image: "/images/research/biblical-archaeology/is-there-a-degree-in-biblical-history.jpg"
+imageAlt: "jerusalem, israel, old town, walls, the rock temple, dome of the rock, the holy city, israeli town, panorama, city view, jerusalem, jerusalem, jerusalem, jerusalem, jerusalem, israel, israel, israel, israel"
+imageCredit: "Image by Walkerssk on Pixabay"
 ---
 
 Have you ever wondered if there is a degree in Biblical History?

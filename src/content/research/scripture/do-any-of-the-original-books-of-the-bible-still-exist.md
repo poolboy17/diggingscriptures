@@ -6,6 +6,9 @@ parentHub: "scripture"
 pubDate: 2024-03-04
 lastUpdated: 2024-03-04
 draft: false
+image: "/images/research/scripture/do-any-of-the-original-books-of-the-bible-still-exist.jpg"
+imageAlt: "scroll, feather, ink, caligraphy, hebrew, writing, characters, paper, papirus, old style, brown paper, brown writing, scroll, scroll, scroll, scroll, scroll, hebrew, hebrew"
+imageCredit: "Image by zofiaEliyahu on Pixabay"
 ---
 
 By a stroke of luck, an intriguing question arises: Do any of the original books of the Bible still exist today?

@@ -6,6 +6,9 @@ parentHub: "scripture"
 pubDate: 2024-03-04
 lastUpdated: 2024-03-04
 draft: false
+image: "/images/research/scripture/how-many-times-has-the-bible-been-changed.jpg"
+imageAlt: "sütterlin, windows wallpaper, wallpaper 4k, beautiful wallpaper, handwriting, cool backgrounds, hd wallpaper, typography, font, letter, 4k wallpaper, laptop wallpaper, desktop backgrounds, paper, book page, book, full hd wallpaper, text, message, free wallpaper, nostalgia, vintage, free background, mac wallpaper, antique, old, 4k wallpaper 1920x1080, wallpaper hd, background"
+imageCredit: "Image by cocoparisienne on Pixabay"
 ---
 
 Through the corridors of time, the Bible has been a beacon of faith, guiding generations with its sacred words. But how many times has this cornerstone of Christianity truly been altered?

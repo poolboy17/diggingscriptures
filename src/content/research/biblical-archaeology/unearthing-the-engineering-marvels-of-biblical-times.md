@@ -6,6 +6,9 @@ parentHub: "biblical-archaeology"
 pubDate: 2024-02-06
 lastUpdated: 2024-02-06
 draft: false
+image: "/images/research/biblical-archaeology/unearthing-the-engineering-marvels-of-biblical-times.jpg"
+imageAlt: "archaeology, excavation, sun sails, protection, sun protection, archaeological excavation, research, archaeological site, coast, landscape, mnajdra, malta, excavation, sun protection, research, archaeological site, mnajdra, mnajdra, mnajdra, mnajdra, mnajdra, malta, malta, malta, malta"
+imageCredit: "Image by Efraimstochter on Pixabay"
 ---
 
 In "Unearthing the Engineering Marvels of Biblical Times," the article explores the fascinating world of biblical archaeology and the incredible hydraulic engineering systems that existed during ancient times. From the intricate water supply networks to the impressive irrigation infrastructure, this piece delves into the remarkable feats accomplished by ancient civilizations and the significant impact they had on society. The article offers a glimpse into the marvels of engineering from biblical times, showcasing the ingenuity and technical prowess of our ancestors.

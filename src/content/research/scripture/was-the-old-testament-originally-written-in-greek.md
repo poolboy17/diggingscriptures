@@ -6,6 +6,9 @@ parentHub: "scripture"
 pubDate: 2024-04-27
 lastUpdated: 2024-04-27
 draft: false
+image: "/images/research/scripture/was-the-old-testament-originally-written-in-greek.jpg"
+imageAlt: "books, library, read, shelves, shelf, reading, culture, book, edition, books, books, books, books, books, library, library, book, book"
+imageCredit: "Image by Marisa_Sias on Pixabay"
 ---
 
 In the realm of biblical scholarship, there is a question that often sparks curiosity and debate: Was the Old Testament originally written in Greek? This inquiry delves into the origins of one of the most significant religious texts in history and invites us to explore the complexities of its composition. Anita Love, a renowned theologian with a profound understanding of ancient biblical manuscripts, historical context, and theological implications, offers insights and analysis that shed light on this enigma. By blending academic rigor with a friendly and inclusive tone, Anita uncovers the historical foundations of the Old Testament, challenging assumptions and inspiring a deeper appreciation for the rich tapestry of these ancient writings.

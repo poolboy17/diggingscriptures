@@ -6,6 +6,9 @@ parentHub: "excavations"
 pubDate: 2024-03-04
 lastUpdated: 2024-03-04
 draft: false
+image: "/images/research/excavations/what-is-the-science-of-biblical-archeology.jpg"
+imageAlt: "chichen itza, mexico, pyramid, milky way, night, mayans, archaeology, archaeological site, stars, starry sky, starry night, landmark, famous, places of interest, chichen itza, mexico, mexico, mexico, mexico, mexico, pyramid"
+imageCredit: "Image by Walkerssk on Pixabay"
 ---
 
 In biblical archaeology, each artifact unearthed is like a piece of a complex puzzle, revealing glimpses of ancient civilizations and shedding light on biblical narratives. As researchers meticulously uncover remnants of the past, the layers of history intertwine with the verses of scripture, offering a unique perspective on the cultures and events of antiquity.

@@ -6,6 +6,9 @@ parentHub: "excavations"
 pubDate: 2024-05-27
 lastUpdated: 2024-05-27
 draft: false
+image: "/images/research/excavations/famous-biblical-dig-sites-revealed.jpg"
+imageAlt: "archaeology, archaeological dig, documenting, digging, research, archaeologist, digger, brown research, brown document, archaeology, archaeology, archaeologist, archaeologist, archaeologist, archaeologist, archaeologist"
+imageCredit: "Image by JamesDeMers on Pixabay"
 ---
 
 Beneath the layers of time and earth, remnants of ancient civilizations lie waiting to be unearthed. Through meticulous excavation of famous archaeological sites such as **Jerusalem**, **Megiddo**, **Masada**, **Qumran**, and **Mount Sinai**, historians and archaeologists have revealed a wealth of knowledge about the past. 

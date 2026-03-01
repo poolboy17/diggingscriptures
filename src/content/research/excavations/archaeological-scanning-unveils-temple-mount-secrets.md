@@ -6,6 +6,9 @@ parentHub: "excavations"
 pubDate: 2024-10-30
 lastUpdated: 2024-10-30
 draft: false
+image: "/images/research/excavations/archaeological-scanning-unveils-temple-mount-secrets.jpg"
+imageAlt: "workshop, carpenter, crafts, artisan, drink, work, tool, vintage, workshop, workshop, workshop, workshop, workshop, carpenter, carpenter"
+imageCredit: "Image by ThMilherou on Pixabay"
 ---
 
 Have you ever wondered what secrets lie hidden beneath the storied stones of the Temple Mount? This ancient site, one of the most significant in religious history, continues to intrigue and mystify scholars and archaeologists worldwide. Recent advances in archaeological scanning technology have begun to peel back the layers of time, revealing secrets kept locked beneath this sacred ground.

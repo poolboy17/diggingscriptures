@@ -6,6 +6,9 @@ parentHub: "artifacts"
 pubDate: 2025-01-28
 lastUpdated: 2025-01-28
 draft: false
+image: "/images/research/artifacts/the-jordan-orchard-jar-a-glimpse-into-worship-rites-of-a-wandering-sect.jpg"
+imageAlt: "zen, buddha, peace, meditation, statue, sculpture, buddhism, spiritual, eastern, buddhist, religion, figurine, buddha purnima, buddha statue, buddha sculpture"
+imageCredit: "Image by Helena on Pixabay"
 ---
 
 What if I told you that a simple jar can open a window into the lives of a wandering sect whose rituals and beliefs are often shrouded in mystery? The Jordan Orchard Jar, a fascinating artifact, serves as a tangible link to an ancient world that practiced unique forms of worship. This piece not only tells a story about the people who used it but also invites us to ponder the significance of religious symbols and the role they play in community identity.

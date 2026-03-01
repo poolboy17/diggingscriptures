@@ -6,6 +6,9 @@ parentHub: "faith"
 pubDate: 2025-01-28
 lastUpdated: 2025-01-28
 draft: false
+image: "/images/research/faith/exploring-the-galilean-synagogue-mosaic-a-study-of-festal-rites.jpg"
+imageAlt: "mosaic, mosaic tiles, floor, ancient, decorative, decoration, tile, geometric, old church, archaeology, ornament, euphrasian basilica, porec, mosaic, mosaic tiles, euphrasian basilica, porec, porec, porec, porec, porec"
+imageCredit: "Image by BiljaST on Pixabay"
 ---
 
 What if a single mosaic could unlock the secrets of ancient festal rites? Picture this: a vibrant tapestry of colors and shapes preserved in time, offering whispers of a world long gone. The Galilean Synagogue Mosaic, unearthed in Israel, is not just a mere decoration but a portal to understanding the rituals and cultural life of its era. Youre about to step into a narrative woven with threads of history, faith, and intricate artistry.

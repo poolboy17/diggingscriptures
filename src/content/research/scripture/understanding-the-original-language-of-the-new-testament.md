@@ -6,6 +6,9 @@ parentHub: "scripture"
 pubDate: 2024-04-27
 lastUpdated: 2024-04-27
 draft: false
+image: "/images/research/scripture/understanding-the-original-language-of-the-new-testament.jpg"
+imageAlt: "bhagavad gita, ancient scriptures, john rylands library, book, old, literature, library, education, paper, knowledge, read, brown education, brown library, brown paper, brown reading, brown knowledge, bhagavad gita, bhagavad gita, bhagavad gita, bhagavad gita, bhagavad gita"
+imageCredit: "Image by nmoodley on Pixabay"
 ---
 
 Have you ever wondered about the original language of the New Testament? It's a fascinating topic, and Anita Love, a renowned authority in Christian theology, has dedicated her career to understanding the intricacies of ancient biblical manuscripts. With her expertise and academic background, Anita has brought to light the importance of interpreting the New Testament within its historical and cultural context. Through her extensive research, she has uncovered the truth about the language of the New Testament and how it impacts our understanding of Christianity. So, what was the entire New Testament originally written in? Let's find out!

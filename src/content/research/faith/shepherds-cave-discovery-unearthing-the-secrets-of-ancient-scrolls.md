@@ -6,6 +6,9 @@ parentHub: "faith"
 pubDate: 2025-01-28
 lastUpdated: 2025-01-28
 draft: false
+image: "/images/research/faith/shepherds-cave-discovery-unearthing-the-secrets-of-ancient-scrolls.jpg"
+imageAlt: "jerusalem, historic center, city wall, dome of the rock, western wall, temple mount, holy city, golden, israel, dome, building, houses, city, jerusalem, jerusalem, jerusalem, jerusalem, jerusalem, israel"
+imageCredit: "Image by Buecherwurm_65 on Pixabay"
 ---
 
 What if you stumbled upon a hidden cave that contained secrets from thousands of years ago? A place where whispers of ancient beliefs are etched into fragile parchment? Well, your imagination might just find a home in the fascinating world of biblical archaeology, specifically in the context of the Shepherds Cave and its groundbreaking discoveries.

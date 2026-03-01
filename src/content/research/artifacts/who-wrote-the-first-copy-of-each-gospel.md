@@ -6,6 +6,9 @@ parentHub: "artifacts"
 pubDate: 2025-07-28
 lastUpdated: 2025-07-28
 draft: false
+image: "/images/research/artifacts/who-wrote-the-first-copy-of-each-gospel.jpg"
+imageAlt: "hieroglyphs, egypt, stone, art, old, egyptian, history, antique, mona, museum, archeology, font, historic, ancient, glyphs, black art, black history, black old, black stone, egypt, egypt, egypt, egyptian, egyptian, archeology, archeology, archeology, archeology, archeology"
+imageCredit: "Image by barasa81 on Pixabay"
 ---
 
 Have you ever wondered who was behind the first copies of the Gospels in the New Testament? It's a fascinating question that leads us deep into the early days of Christianity, piecing together who actually penned the words that have influenced billions over the centuries. The mystery surrounding the authorship of the Gospels intrigues scholars and laypeople alike, and it's an important topic to explore, especially as we approach 2025. Understanding the origins of these texts can offer insight into their reliability and the context in which they were written.

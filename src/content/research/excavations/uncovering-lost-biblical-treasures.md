@@ -6,6 +6,9 @@ parentHub: "excavations"
 pubDate: 2024-02-06
 lastUpdated: 2024-02-06
 draft: false
+image: "/images/research/excavations/uncovering-lost-biblical-treasures.jpg"
+imageAlt: "egyptian temple, historic site, structure, land lot, archaeological site, outdoor structure, mortuary temple, ancient history, facade, roof, history, brown history, egyptian temple, egyptian temple, egyptian temple, egyptian temple, egyptian temple"
+imageCredit: "Image by Wael-Ezz on Pixabay"
 ---
 
 Hidden beneath layers of dirt and time, lie the secrets of ancient civilizations and their deep spiritual histories. In the quest to unearth the mysteries of the Bible, a team of dedicated biblical archaeologists have dedicated their lives to searching for lost biblical treasures. Through their tireless efforts, they have made key discoveries that shed light on the past and enhance our understanding of the sacred texts. These remarkable findings not only offer valuable insights into biblical times, but also serve as a testament to the enduring power and importance of these ancient stories.

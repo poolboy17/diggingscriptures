@@ -6,6 +6,9 @@ parentHub: "biblical-archaeology"
 pubDate: 2025-05-30
 lastUpdated: 2025-05-30
 draft: false
+image: "/images/research/biblical-archaeology/mapping-the-priestly-lineages-of-qumran-old-crates-on-parchment.jpg"
+imageAlt: "egypt, temple, hieroglyphics, pharaoh, egyptian temple, travel, statue, columns, pierre, story, nile, edfu, archaeologist, archaeology, archaeological excavations, archaeologist, archaeologist, archaeologist, archaeologist, archaeologist"
+imageCredit: "Image by NadineDoerle on Pixabay"
 ---
 
 What if I told you that ancient scrolls could unlock secrets about religious lineages, rituals, and human connections that date back to thousands of years? Intrigued? You should be. The story of Qumran and its scrolls is woven deeply into the tapestry of biblical history and archaeological intrigue. Lets delve into the fascinating world of the priestly lineages as mapped out on those remarkable parchments.

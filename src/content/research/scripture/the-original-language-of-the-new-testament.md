@@ -6,6 +6,9 @@ parentHub: "scripture"
 pubDate: 2024-04-27
 lastUpdated: 2024-04-27
 draft: false
+image: "/images/research/scripture/the-original-language-of-the-new-testament.jpg"
+imageAlt: "dead sea scrolls, qumran caves, scripture, israel, dead sea, landscape, bible, essenes, brown bible, qumran caves, israel, dead sea, dead sea, dead sea, dead sea, dead sea, bible, essenes, essenes, essenes"
+imageCredit: "Image by jdblack on Pixabay"
 ---
 
 "The Original Language of the New Testament" explores the fascinating subject of the language in which the New Testament was originally written. With tasks focusing on contrasting themes, literary genres, historical context, messianic prophecies, and the differences between law and covenant in the Old and New Testaments, this article delves into the deep-rooted foundations of Christianity. Written by Anita Love, a distinguished authority on Christian history and theology, this captivating introduction offers a glimpse into the extensive research and expertise that Anita brings to her writings. So, what was the New Testament written in originally?

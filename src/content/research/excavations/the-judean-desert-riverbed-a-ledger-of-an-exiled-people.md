@@ -6,6 +6,9 @@ parentHub: "excavations"
 pubDate: 2025-01-28
 lastUpdated: 2025-01-28
 draft: false
+image: "/images/research/excavations/the-judean-desert-riverbed-a-ledger-of-an-exiled-people.jpg"
+imageAlt: "castle, travel, architecture, outdoors, daytime, medieval, hill, landmark, tower, military, fortification, scenic, landscape, ancient, building, fortress, sky, tree, nature, forest"
+imageCredit: "Image by Pexels on Pixabay"
 ---
 
 Have you ever pondered what stories the landscape could tell if it could speak? Imagine standing in the heart of the Judean Desert, surrounded by stark rocks and whispering winds, where every stone and every riverbed holds secrets of a people long exiled. The Judean Desert is not just a desolate expanse; it serves as a ledger of history, reflecting the lives, struggles, and aspirations of those who wandered its ancient pathways. Let's unravel this narrative together.

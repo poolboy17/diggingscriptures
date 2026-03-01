@@ -6,6 +6,9 @@ parentHub: "faith"
 pubDate: 2024-03-04
 lastUpdated: 2024-03-04
 draft: false
+image: "/images/research/faith/what-does-the-name-archaeology-mean.jpg"
+imageAlt: "christ, icon, hagia sophia, istanbul, mosaic, ancient art, 13th century, faith, jesus, religion, christian, holy, religious, christianity, spiritual, church, sign, christian symbols, jesus christ, devotion, turkey, pantocrator, deisius, constantinople, artwork, bible, biblical, iconography, old, ancient, jesus, jesus, jesus, jesus, jesus, jesus christ"
+imageCredit: "Image by gunthersimmermacher on Pixabay"
 ---
 
 In a world where the term 'Archaeology' may seem shrouded in mystery and intrigue, its true essence lies in the meticulous unraveling of the past through tangible remnants left behind by ancient civilizations.

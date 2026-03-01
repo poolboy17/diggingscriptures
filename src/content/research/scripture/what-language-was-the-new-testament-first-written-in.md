@@ -6,6 +6,9 @@ parentHub: "scripture"
 pubDate: 2024-04-27
 lastUpdated: 2024-04-27
 draft: false
+image: "/images/research/scripture/what-language-was-the-new-testament-first-written-in.jpg"
+imageAlt: "calligraphy, story, ink, feather, a book, vintage, old, wood, fairy tale, author, writer, diary, story, story, story, story, author, author, writer, writer, writer, writer, writer, diary"
+imageCredit: "Image by Ghinzo on Pixabay"
 ---
 
 , we will explore the fascinating question of what language the New Testament was first written in. With central themes, literary genres, historical context, messianic prophecies, and the significance of law and covenant, we delve into the rich tapestry of the New Testament's origins and its connection to the Old Testament. Anita Love, a renowned theologian and scholar, brings her expertise and academic rigor to shed light on this intriguing topic. As we embark on this journey, we will uncover the linguistic foundations of Christianity's most revered scripture and gain a deeper understanding of its cultural and historical context. Get ready to uncover the secrets of the New Testament and discover the language that shaped Christianity as we know it.

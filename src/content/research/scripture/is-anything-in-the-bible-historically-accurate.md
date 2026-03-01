@@ -6,6 +6,9 @@ parentHub: "scripture"
 pubDate: 2024-03-04
 lastUpdated: 2024-03-04
 draft: false
+image: "/images/research/scripture/is-anything-in-the-bible-historically-accurate.jpg"
+imageAlt: "mesopotamia, myth, mythology, history, landscape, ruins, anunnaki, sumerian, gods, enki, enlil, cuneiform, tablet, writings, clay tablets, texts, ancient"
+imageCredit: "Image by BenFishold on Pixabay"
 ---
 
 In the domain of historical analysis, the Bible often serves as a cornerstone for many scholars. However, the question lingers: can everything within its pages be deemed historically accurate?

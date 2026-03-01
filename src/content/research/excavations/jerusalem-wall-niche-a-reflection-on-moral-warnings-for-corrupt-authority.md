@@ -6,6 +6,9 @@ parentHub: "excavations"
 pubDate: 2025-01-28
 lastUpdated: 2025-01-28
 draft: false
+image: "/images/research/excavations/jerusalem-wall-niche-a-reflection-on-moral-warnings-for-corrupt-authority.jpg"
+imageAlt: "mining excavator, electric, bucket wheel excavator, walking excavator, moscow region, ladle, body, night, technique, construction, excavator, special equipment, tractor, building object, dig, industry, sand, construction site, wheels, laying, grader, master, workers, yellow, construction machinery, building, excavator digging, heavy machinery, playground, pipe, flashlight, construction, construction, construction, construction, construction, excavator, tractor, construction site, construction site"
+imageCredit: "Image by xusenru on Pixabay"
 ---
 
 What do you think of when you hear the words Jerusalem Wall Niche? Picture this: centuries of history layered in stone, echoes of faith and triumph mingling with cautionary tales about authority and corruption. In Jerusalem, every nook and cranny whispers stories, especially those connected to the famed walls. One such intriguing element is the Wall Niche, a structure that invites contemplation on moral failings, the essence of power, and the consequences that come with corruption.

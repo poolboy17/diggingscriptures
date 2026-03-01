@@ -6,6 +6,9 @@ parentHub: "scripture"
 pubDate: 2024-04-27
 lastUpdated: 2024-04-27
 draft: false
+image: "/images/research/scripture/was-the-new-testament-originally-written-in-hebrew.jpg"
+imageAlt: "books, stack, book store, stack of books, 2nd hand, retro, hipster, shop, old, trendy, vintage, travel, venice, messy, literature, library, education, knowledge, novels, stories, books, books, books, books, books, library, education"
+imageCredit: "Image by EliFrancis on Pixabay"
 ---
 
 In the realm of biblical scholarship, one question often sparks passionate debate: Was the New Testament originally written in Hebrew? This query has intrigued scholars and religious thinkers for centuries, prompting rigorous examination of ancient manuscripts and linguistic analysis. Anita Love, a highly regarded authority on Christian history and theology, brings her expertise to the forefront as she delves into this captivating subject. With her vast knowledge and nuanced perspective, she sheds light on the complex relationship between the Old and New Testaments, exploring the fascinating linguistic and cultural factors that contribute to our understanding of these sacred texts. Prepare to embark on a thought-provoking journey as we unravel the mystery of the language in which the New Testament was originally composed.

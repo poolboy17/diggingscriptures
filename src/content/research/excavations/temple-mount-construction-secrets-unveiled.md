@@ -6,6 +6,9 @@ parentHub: "excavations"
 pubDate: 2024-10-30
 lastUpdated: 2024-10-30
 draft: false
+image: "/images/research/excavations/temple-mount-construction-secrets-unveiled.jpg"
+imageAlt: "workshop, carpenter, crafts, artisan, drink, work, tool, vintage, workshop, workshop, workshop, workshop, workshop, carpenter, carpenter"
+imageCredit: "Image by ThMilherou on Pixabay"
 ---
 
 Have you ever wondered about the secrets that lie beneath the Temple Mount's sacred grounds? Known as one of the most compelling historical and religious sites in the world, the Temple Mount holds a significant place in biblical archaeology. Unveiling its construction secrets can offer profound insights into our historical past, shining light on ancient civilizations and their architectural accomplishments.

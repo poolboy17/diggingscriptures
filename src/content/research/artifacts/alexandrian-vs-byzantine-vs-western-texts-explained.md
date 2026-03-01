@@ -6,6 +6,9 @@ parentHub: "artifacts"
 pubDate: 2025-07-14
 lastUpdated: 2025-07-14
 draft: false
+image: "/images/research/artifacts/alexandrian-vs-byzantine-vs-western-texts-explained.jpg"
+imageAlt: "man, neanderthal, cave man, prehistoric, primitive human, museum, houston museum of science, artifact, ancient, ape, historic, adventure, discovery science, research, hairy, beast, pre-historic, history, old man, evolution, display, strange, orange hair, monkey"
+imageCredit: "Image by ArtisticOperations on Pixabay"
 ---
 
 Have you ever wondered why there are so many different versions of biblical texts and where they come from? It's a question that delves into the heart of textual criticism and the history of biblical manuscripts. Understanding the differences between the Alexandrian, Byzantine, and Western texts is crucial, especially as digital history and theology studies advance into new territories in 2025. As someone with a PhD in Theology and countless hours spent examining these ancient manuscripts, let me guide you through a journey to understand these essential strands of Biblical tradition.

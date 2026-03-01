@@ -6,6 +6,9 @@ parentHub: "faith"
 pubDate: 2025-01-28
 lastUpdated: 2025-01-28
 draft: false
+image: "/images/research/faith/unveiling-the-mystery-of-the-collapsed-tower-over-jordan-a-liberation-fragments-significance.jpg"
+imageAlt: "angel, icon, wall paint, iconography, damaged, weathered, aged, church, archangel michael, 12th century, orthodox, christianity, medieval, kato lefkara, cyprus, brown angel, archangel michael, archangel michael, archangel michael, archangel michael, archangel michael"
+imageCredit: "Image by dimitrisvetsikas1969 on Pixabay"
 ---
 
 What if the remnants of a long-lost tower could tell us tales of liberation, ancient struggles, and theological significance? This question hovers over the recent discovery of a collapsed tower in Jordan, linked to the fabled texts of liberation that have evoked fascination for centuries. Grab a cup of your favorite beverage and settle in as we unravel the layers surrounding this archaeological treasure.

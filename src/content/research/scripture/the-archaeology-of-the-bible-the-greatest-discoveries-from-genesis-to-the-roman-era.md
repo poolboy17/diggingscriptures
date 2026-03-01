@@ -6,6 +6,9 @@ parentHub: "scripture"
 pubDate: 2024-02-06
 lastUpdated: 2024-02-06
 draft: false
+image: "/images/research/scripture/the-archaeology-of-the-bible-the-greatest-discoveries-from-genesis-to-the-roman-era.jpg"
+imageAlt: "writing, manuscript, letter, document, ancient, lyrics, feather, ink, calligraphy"
+imageCredit: "Image by makamuki0 on Pixabay"
 ---
 
 "The Archaeology of the Bible: The Greatest Discoveries From Genesis to the Roman Era" takes readers on an enthralling journey through the ancient world, uncovering the captivating artifacts and archaeological finds that provide insights into the stories and events of the Bible. From the cradle of civilization in Mesopotamia to the grandeur of ancient Egypt and the rise of the Roman Empire, this book explores the remarkable discoveries that shed light on the historical and cultural contexts of Biblical narratives. With richly detailed descriptions and stunning visuals, "The Archaeology of the Bible" is a must-read for anyone seeking a deeper understanding of the fascinating intersection of archaeology and the world's most influential religious texts.

@@ -6,6 +6,9 @@ parentHub: "scripture"
 pubDate: 2024-10-30
 lastUpdated: 2024-10-30
 draft: false
+image: "/images/research/scripture/exploring-ancient-hebrew-homes-through-archaeology.jpg"
+imageAlt: "to learn, read, a book, literature, old, old book, to study, school, training, middle ages, study, bound, historical, leather binding, writing, book pages, old book, old book, old book, old book, old book, middle ages"
+imageCredit: "Image by garten-gg on Pixabay"
 ---
 
 ## Exploring Ancient Hebrew Homes Through Archaeology

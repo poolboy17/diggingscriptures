@@ -6,6 +6,9 @@ parentHub: "excavations"
 pubDate: 2024-10-30
 lastUpdated: 2024-10-30
 draft: false
+image: "/images/research/excavations/unveiling-temple-tools-in-biblical-archaeology.jpg"
+imageAlt: "architecture, old, stone, ancient, building, historic, antique, facade, exterior, ruins, heritage, vintage, tourism, architectural, town, structure, history, culture, wall, remains, monument, fort, golconda, historical, landmark, archeology, brown history, brown culture, fort, fort, fort, golconda, golconda, golconda, golconda, golconda"
+imageCredit: "Image by jeh6 on Pixabay"
 ---
 
 Have you ever wondered about the tools used in ancient temples and how they contribute to our understanding of biblical history? The field of biblical archaeology provides a fascinating window into the past, offering insights into the everyday and sacred practices of civilizations from thousands of years ago. By examining temple tools, we unveil myriad secrets embedded within these ancient artifacts, connecting them to the stories and settings of the scriptures.

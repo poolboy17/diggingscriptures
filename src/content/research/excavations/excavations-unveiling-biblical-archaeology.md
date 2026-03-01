@@ -6,6 +6,9 @@ parentHub: "excavations"
 pubDate: 2024-05-27
 lastUpdated: 2024-05-27
 draft: false
+image: "/images/research/excavations/excavations-unveiling-biblical-archaeology.jpg"
+imageAlt: "chichen itza, mexico, pyramid, milky way, night, mayans, archaeology, archaeological site, stars, starry sky, starry night, landmark, famous, places of interest, chichen itza, mexico, mexico, mexico, mexico, mexico, pyramid"
+imageCredit: "Image by Walkerssk on Pixabay"
 ---
 
 Uncovering ancient ruins and historical artifacts through meticulous excavations offers a mesmerizing glimpse into the bygone eras of biblical archaeology. Across the globe, **dig sites** serve as portals to ancient civilizations, providing invaluable insights into the past and linking us to our roots. 

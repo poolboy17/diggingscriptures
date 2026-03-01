@@ -6,6 +6,9 @@ parentHub: "biblical-archaeology"
 pubDate: 2024-05-27
 lastUpdated: 2024-05-27
 draft: false
+image: "/images/research/biblical-archaeology/unearthing-the-most-important-biblical-digs.jpg"
+imageAlt: "excavation, archaeology, high culture, culture, temple, old, stone, limestone, decorated, malta, mnajdra, malta, malta, malta, malta, malta, mnajdra"
+imageCredit: "Image by Efraimstochter on Pixabay"
 ---
 
 Exploring the ancient history of Jerusalem unveils a world rich with mysteries waiting to be unraveled. Among the numerous **biblical excavations** and **ancient ruins** scattered throughout Israel, each archaeological site offers valuable insights into our past. 

@@ -6,6 +6,9 @@ parentHub: "biblical-archaeology"
 pubDate: 2024-03-04
 lastUpdated: 2024-03-04
 draft: false
+image: "/images/research/biblical-archaeology/why-is-archaeology-called-archaeology.jpg"
+imageAlt: "archaeology, city, petra, jordan, historical site, landscape, petra, petra, petra, petra, petra, jordan, jordan, jordan"
+imageCredit: "Image by StockSnap on Pixabay"
 ---
 
 In the vast tapestry of human history, archaeology stands as a key thread, unraveling the mysteries of our ancient past.

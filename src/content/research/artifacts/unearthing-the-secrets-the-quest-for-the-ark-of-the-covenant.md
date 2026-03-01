@@ -6,6 +6,9 @@ parentHub: "artifacts"
 pubDate: 2024-02-06
 lastUpdated: 2024-02-06
 draft: false
+image: "/images/research/artifacts/unearthing-the-secrets-the-quest-for-the-ark-of-the-covenant.jpg"
+imageAlt: "text, egypt, pyramid, symbol, message, egypt, egypt, egypt, egypt, egypt, pyramid"
+imageCredit: "Image by tumtac on Pixabay"
 ---
 
 In this fascinating article, the author takes us on a captivating journey through the world of biblical archaeology and the enduring fascination with the Ark of the Covenant. From ancient texts to modern excavations, we follow the footsteps of passionate archaeologists as they endeavor to unearth the secrets and discover the truth behind this legendary artifact. Through their tireless efforts, this elusive quest offers a glimpse into the mysteries of history and the enduring power of human curiosity.

@@ -6,6 +6,9 @@ parentHub: "artifacts"
 pubDate: 2025-07-11
 lastUpdated: 2025-07-11
 draft: false
+image: "/images/research/artifacts/why-the-septuagint-is-called-the-first-bible.jpg"
+imageAlt: "chain, gold, human, girl, woman, person, close up, detail, person human"
+imageCredit: "Image by Pezibear on Pixabay"
 ---
 
 Ever wondered why the Septuagint is often referred to as the "First Bible"? This fascinating topic has been debated by scholars and theologians for centuries, and it's more relevant today than ever. By diving into the roots of this critical text, we can understand its profound impact on history, religion, and even modern culture.

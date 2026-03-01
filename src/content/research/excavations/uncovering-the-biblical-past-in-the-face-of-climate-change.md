@@ -6,6 +6,9 @@ parentHub: "excavations"
 pubDate: 2024-02-06
 lastUpdated: 2024-02-06
 draft: false
+image: "/images/research/excavations/uncovering-the-biblical-past-in-the-face-of-climate-change.jpg"
+imageAlt: "egyptian temple, historic site, structure, land lot, archaeological site, outdoor structure, mortuary temple, ancient history, facade, roof, history, egyptian temple, egyptian temple, egyptian temple, egyptian temple, egyptian temple"
+imageCredit: "Image by Wael-Ezz on Pixabay"
 ---
 
 As the world faces the challenges of climate change, it is increasingly important to understand the effects of this global crisis on the preservation of our history. In the realm of biblical archaeology, this issue takes on a particular significance, as the uncovering of artifacts and ancient sites provides invaluable insights into the stories written in scripture. This article explores the impact of climate change on biblical archaeology, shedding light on the fascinating intersection between the ancient past and the urgent concerns of the present. From rising sea levels threatening coastal archaeological sites to shifting weather patterns affecting excavation efforts, these environmental changes present both obstacles and opportunities for uncovering the biblical past. Join us in this exploration as we delve into the nexus of climate change and biblical archaeology.

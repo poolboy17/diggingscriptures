@@ -6,6 +6,9 @@ parentHub: "excavations"
 pubDate: 2025-01-28
 lastUpdated: 2025-01-28
 draft: false
+image: "/images/research/excavations/compassion-for-social-outcasts-the-legacy-of-ein-gedi-orchard-jar.jpg"
+imageAlt: "death valley, desert, highway, road, rural, countryside, landscape, sky, nature, sunny, california, desert, highway, road, road, road, road, road, sky, sky"
+imageCredit: "Image by jplenio on Pixabay"
 ---
 
 Have you ever thought about the significance of compassion in ancient societies, particularly toward those who were often marginalized? The story of the Ein Gedi Orchard Jar opens a window into how those in antiquity viewed social outcasts, and what we can learn from their actions today.

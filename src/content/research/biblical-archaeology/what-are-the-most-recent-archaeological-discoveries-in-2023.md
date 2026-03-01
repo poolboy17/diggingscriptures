@@ -6,6 +6,9 @@ parentHub: "biblical-archaeology"
 pubDate: 2024-03-04
 lastUpdated: 2024-03-04
 draft: false
+image: "/images/research/biblical-archaeology/what-are-the-most-recent-archaeological-discoveries-in-2023.jpg"
+imageAlt: "jordan, petra, camels, dromedary, nature, desert, tourism"
+imageCredit: "Image by mikaelthunberg on Pixabay"
 ---
 
 In 2023, archaeologists have unearthed significant findings across the globe. From an ancient human genome discovered in Spain to the decoding of Egyptian mummy details, these recent discoveries promise to reshape our understanding of the past.

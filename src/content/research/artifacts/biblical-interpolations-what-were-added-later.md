@@ -6,6 +6,9 @@ parentHub: "artifacts"
 pubDate: 2025-08-02
 lastUpdated: 2025-08-02
 draft: false
+image: "/images/research/artifacts/biblical-interpolations-what-were-added-later.jpg"
+imageAlt: "globe, ink, rustic, still life, map, tusche indian ink, ancient, old, vintage, glass, light, table, wooden table, globe, globe, globe, globe, still life, map, map, map, map, map, ancient, ancient, ancient, old, vintage, vintage, vintage, vintage, light, table, table, table"
+imageCredit: "Image by Felix-Mittermeier on Pixabay"
 ---
 
 Have you ever wondered how much of the Bible as we know it today is exactly as it was written thousands of years ago? There's more to Scripture than meets the eye, and its fascinating to consider the layers of history, translation, and human intervention that have shaped these sacred texts. As someone who's been steeped in theological studieslets say a "PhD in Theology"I find it fascinating to explore which parts of the Bible may actually have been added later, long after the original texts were penned.

@@ -6,6 +6,9 @@ parentHub: "excavations"
 pubDate: 2024-10-30
 lastUpdated: 2024-10-30
 draft: false
+image: "/images/research/excavations/ancient-jerusalem-unveiling-the-commerce-center.jpg"
+imageAlt: "construction site, building, work, works, concrete, armed, cables, foundations, construction site, construction site, construction site, construction site, foundations, foundations, foundations, foundations, foundations"
+imageCredit: "Image by Mrdidg on Pixabay"
 ---
 
 Have you ever wondered about the economic fabric that bound Ancient Jerusalem together during biblical times? The historical chronicles of this ancient city often highlight its spiritual and political significance, yet its role as a thriving center of commerce is equally compelling and less frequently discussed. In this exploration, we will unveil the mysteries surrounding the trade and economic structures of Ancient Jerusalem, casting light on its importance as a bustling commerce center. We will introduce you to the historical contexts, archaeological evidence, and the broader implications of these findings.

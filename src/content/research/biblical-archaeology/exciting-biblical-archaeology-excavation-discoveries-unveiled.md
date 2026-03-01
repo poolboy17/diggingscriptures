@@ -6,6 +6,9 @@ parentHub: "biblical-archaeology"
 pubDate: 2024-05-27
 lastUpdated: 2024-05-27
 draft: false
+image: "/images/research/biblical-archaeology/exciting-biblical-archaeology-excavation-discoveries-unveiled.jpg"
+imageAlt: "archaeology, archaeological dig, documenting, digging, research, archaeologist, digger, brown research, brown document, archaeology, archaeology, archaeologist, archaeologist, archaeologist, archaeologist, archaeologist"
+imageCredit: "Image by JamesDeMers on Pixabay"
 ---
 
 Recent groundbreaking discoveries in the field of Biblical archaeology have unveiled a treasure trove of ancient artifacts, shedding new light on our understanding of history and biblical narratives. Prominent excavation sites such as Jerusalem, the Dead Sea Scrolls, and Canaanite cities have yielded remarkable **historical findings** that offer invaluable insights into the people and cultures of **antiquity**. 

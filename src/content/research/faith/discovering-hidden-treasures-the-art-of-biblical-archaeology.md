@@ -6,6 +6,9 @@ parentHub: "faith"
 pubDate: 2024-02-06
 lastUpdated: 2024-02-06
 draft: false
+image: "/images/research/faith/discovering-hidden-treasures-the-art-of-biblical-archaeology.jpg"
+imageAlt: "architecture, ceiling, rome, rome, rome, rome, rome, rome"
+imageCredit: "Image by raffalel on Pixabay"
 ---
 
 In the fascinating world of biblical archaeology, uncovering hidden treasures and artifacts from ancient times is an art in itself. Through meticulous excavation and careful examination of ancient sites, researchers and archaeologists have been able to unearth remarkable relics that shed light on the people, places, and events depicted in the bible. From ancient manuscripts and clay tablets to ancient temples and pottery, the study of biblical archaeology offers a captivating journey into the past, revealing countless hidden treasures waiting to be discovered.

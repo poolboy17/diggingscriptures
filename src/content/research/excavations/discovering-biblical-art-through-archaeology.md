@@ -6,6 +6,9 @@ parentHub: "excavations"
 pubDate: 2024-10-30
 lastUpdated: 2024-10-30
 draft: false
+image: "/images/research/excavations/discovering-biblical-art-through-archaeology.jpg"
+imageAlt: "city, frankfurt, cityscape, skyscrapers, dusk, twilight, night, lights, aerial view, city, city, city, city, frankfurt, frankfurt, frankfurt, frankfurt, frankfurt"
+imageCredit: "Image by Bru-nO on Pixabay"
 ---
 
 Have you ever wondered how archaeological discoveries can help us understand the artistic expressions found in biblical texts? Biblical art, often cherished for its historical and spiritual significance, can be better appreciated through the lens of archaeology. By examining the artifacts unearthed over centuries, we gain profound insights into the past cultures and societies that influenced and produced these works of art. This article examines how archaeological findings illuminate biblical art, offering a deeper understanding of its historical, religious, and artistic dimensions.

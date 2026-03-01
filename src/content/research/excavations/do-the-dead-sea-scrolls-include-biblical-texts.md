@@ -6,6 +6,9 @@ parentHub: "excavations"
 pubDate: 2025-07-11
 lastUpdated: 2025-07-11
 draft: false
+image: "/images/research/excavations/do-the-dead-sea-scrolls-include-biblical-texts.jpg"
+imageAlt: "construction site, building, work, works, concrete, armed, cables, foundations, construction site, construction site, construction site, construction site, foundations, foundations, foundations, foundations, foundations"
+imageCredit: "Image by Mrdidg on Pixabay"
 ---
 
 Have you ever wondered whether the Dead Sea Scrolls include any biblical texts? This question is not just a matter of curiosity; it delves deep into religious, historical, and archeological significance. Imagine standing at the crossroads of ancient history and theologya place where artifacts from centuries past reveal the complexities of our written traditions.

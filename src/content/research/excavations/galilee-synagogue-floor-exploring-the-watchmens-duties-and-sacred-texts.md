@@ -6,6 +6,9 @@ parentHub: "excavations"
 pubDate: 2025-01-28
 lastUpdated: 2025-01-28
 draft: false
+image: "/images/research/excavations/galilee-synagogue-floor-exploring-the-watchmens-duties-and-sacred-texts.jpg"
+imageAlt: "chichen itza, mexico, pyramid, milky way, night, mayans, archaeology, archaeological site, stars, starry sky, starry night, landmark, famous, places of interest, chichen itza, mexico, mexico, mexico, mexico, mexico, pyramid"
+imageCredit: "Image by Walkerssk on Pixabay"
 ---
 
 What if the ancient stones beneath your feet could whisper tales of worship, watchfulness, and wisdom? The Galilee Synagogue floor is more than just a relic of antiquity; its a canvas that captures the essence of sacred duties and divine texts. Lets unravel the multifaceted layers of this remarkable site, exploring the role of the watchmen and the texts that once reverberated within its walls.

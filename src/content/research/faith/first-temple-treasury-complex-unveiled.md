@@ -6,6 +6,9 @@ parentHub: "faith"
 pubDate: 2024-10-30
 lastUpdated: 2024-10-30
 draft: false
+image: "/images/research/faith/first-temple-treasury-complex-unveiled.jpg"
+imageAlt: "church, monastery, architecture, st geronimo, granada, columns, religion, spirituality, cathedral, church, church, church, church, church, architecture, architecture, architecture, architecture, granada, granada, granada, religion, cathedral, cathedral, cathedral"
+imageCredit: "Image by ELG21 on Pixabay"
 ---
 
 Have you ever wondered about the hidden treasures of the First Temple and what their discovery might reveal to us today?

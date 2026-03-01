@@ -6,6 +6,9 @@ parentHub: "artifacts"
 pubDate: 2025-08-12
 lastUpdated: 2025-08-12
 draft: false
+image: "/images/research/artifacts/why-jerome-rejected-parts-of-the-septuagint.jpg"
+imageAlt: "temple, burma, wall, stone, figurines, cubby holes, ruins, attraction, old, outdoor, spiritual, architecture, tourism, culture, heritage, asia, myanmar, ancient, buddhism, bagan, monastery, destination, monument, traditional, praying, archaeological, spirituality, golden, ethnicity, exterior, structure, mandalay, sacred, worship, majestic, famous, shrine, buddhist, statues, buddha, meditation, sculpture, zen, peace, god, oriental, pray, meditate, symbol, eastern, china, serene, buddha purnima, enlightenment, holy, faith, wisdom, decoration, yellow, tourist, japanese, bronze, icon, inle lake, antique, archaeology, artifacts, carve, city, brown meditation, brown god, brown pray, brown peace, brown buddha"
+imageCredit: "Image by awenstrom on Pixabay"
 ---
 
 Have you ever wondered why Jerome chose to reject certain parts of the Septuagint when he had a rich tapestry of texts to draw upon? Diving into this question provides not just a glimpse into the mind of a scholarly giant but also a window into the complex world of ancient biblical translations. I'm Dr. Alex Winslow, holding a PhD in Theology with over two decades of experience exploring religious texts. As we edge closer to 2025, understanding Jerome's choices becomes increasingly relevant, reflecting ongoing dialogues about textual purity, authenticity, and translation.

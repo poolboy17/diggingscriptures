@@ -6,6 +6,9 @@ parentHub: "biblical-archaeology"
 pubDate: 2024-03-04
 lastUpdated: 2024-03-04
 draft: false
+image: "/images/research/biblical-archaeology/what-is-the-oldest-archaeological-find-in-israel.jpg"
+imageAlt: "excavation, archaeology, high culture, culture, temple, old, stone, limestone, decorated, malta, mnajdra, malta, malta, malta, malta, malta, mnajdra"
+imageCredit: "Image by Efraimstochter on Pixabay"
 ---
 
 Amidst the sun-baked sands and ancient stones of Israel lies a discovery that reverberates through the corridors of time, challenging preconceived notions of early civilizations.

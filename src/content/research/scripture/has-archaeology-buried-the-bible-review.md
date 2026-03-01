@@ -6,6 +6,9 @@ parentHub: "scripture"
 pubDate: 2024-03-04
 lastUpdated: 2024-03-04
 draft: false
+image: "/images/research/scripture/has-archaeology-buried-the-bible-review.jpg"
+imageAlt: "paper, writing, old, antique, write, letter, text, retro, pages, handwriting, writer, words, documents, macro, parchment, to blog, writing, writing, writing, writing, writing, words"
+imageCredit: "Image by Nile on Pixabay"
 ---
 
 Has archaeology buried the Bible review?

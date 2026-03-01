@@ -6,6 +6,9 @@ parentHub: "excavations"
 pubDate: 2024-02-06
 lastUpdated: 2024-02-06
 draft: false
+image: "/images/research/excavations/kathleen-kenyons-contributions-to-biblical-archaeology.jpg"
+imageAlt: "ruin, landscape, heaven, castle, ruins, fantasy, nature, gothic, mystical, architecture, ireland, building, dragon, old, clouds, peru, sea, mood, dark, fortress, horror, ancient, magic, mysterious, ireland, ireland, ireland, ireland, ireland, peru"
+imageCredit: "Image by jusuf111 on Pixabay"
 ---
 
 Kathleen Kenyon, a trailblazing figure in the field of Biblical archaeology, left an indelible mark through her groundbreaking contributions. With meticulous research, Kenyon unearthed vital evidence and advanced our understanding of the ancient world. Through her excavations in Jericho and Jerusalem, she not only uncovered invaluable artifacts but also challenged conventional wisdom and shed light on the historical context of biblical narratives. Kenyon's work continues to shape the field, inspiring future generations of scholars to delve deeper into the mysteries of the past.

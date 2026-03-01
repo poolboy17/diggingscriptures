@@ -6,6 +6,9 @@ parentHub: "excavations"
 pubDate: 2024-02-06
 lastUpdated: 2024-02-06
 draft: false
+image: "/images/research/excavations/the-dead-sea-scrolls-unearthed-secrets-of-the-bible.jpg"
+imageAlt: "jerash, jordan, ruins, ancient, architecture, roman, archeology, pillar, historic, stone, column, brown stone, jerash, jerash, jordan, jordan, jordan, jordan, jordan"
+imageCredit: "Image by Graham-H on Pixabay"
 ---
 
 The Dead Sea Scrolls: Unearthed Secrets of the Bible takes readers on an intriguing journey through one of the most popular archaeological discoveries in history. These ancient manuscripts, dating back over two thousand years, have captivated scholars and religious enthusiasts alike. With their remarkable preservation and profound insights into biblical texts, the Dead Sea Scrolls offer a glimpse into the mysteries of the past, shedding light on religious customs, practices, and the development of sacred texts. Step into the world of these extraordinary scrolls and uncover the secrets they hold within their delicate pages.

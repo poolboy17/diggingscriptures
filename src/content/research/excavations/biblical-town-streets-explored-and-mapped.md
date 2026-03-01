@@ -6,6 +6,9 @@ parentHub: "excavations"
 pubDate: 2024-10-30
 lastUpdated: 2024-10-30
 draft: false
+image: "/images/research/excavations/biblical-town-streets-explored-and-mapped.jpg"
+imageAlt: "ruin, landscape, heaven, castle, ruins, fantasy, nature, gothic, mystical, architecture, ireland, building, dragon, old, clouds, peru, sea, mood, dark, fortress, horror, ancient, magic, mysterious, ireland, ireland, ireland, ireland, ireland, peru"
+imageCredit: "Image by jusuf111 on Pixabay"
 ---
 
 Have you ever wondered about the bustling life that once filled the streets of biblical towns? The exploration and mapping of these ancient streets open a window into a world often draped in mystique and curiosity. As the biblical narratives come alive with the insights from new archaeological discoveries, our understanding of these ancient towns deepens significantly. The meticulous work of archaeologists, piecing together stories from layers of earth and stone, reveals insights not just into the daily lives of those who walked these paths but also into the overarching narratives of history and faith.

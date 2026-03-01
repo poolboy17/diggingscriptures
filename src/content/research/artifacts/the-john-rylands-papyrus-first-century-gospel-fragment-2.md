@@ -6,6 +6,9 @@ parentHub: "artifacts"
 pubDate: 2025-07-11
 lastUpdated: 2025-07-11
 draft: false
+image: "/images/research/artifacts/the-john-rylands-papyrus-first-century-gospel-fragment-2.jpg"
+imageAlt: "glasses, case, reading glasses, glasses case, optically, case, case, case, case, case, optically"
+imageCredit: "Image by HOerwin56 on Pixabay"
 ---
 
 Have you ever wondered about the oldest known remnants of the New Testament? Imagine holding a fragment that traces back to Christianity's earliest days. Welcome to the fascinating world of the John Rylands Papyrusa captivating window into first-century gospel history.

@@ -6,6 +6,9 @@ parentHub: "excavations"
 pubDate: 2025-01-28
 lastUpdated: 2025-01-28
 draft: false
+image: "/images/research/excavations/exploring-the-jericho-mound-ledger-offerings-to-a-desert-fellowship.jpg"
+imageAlt: "landscape, tree, stone, wall, travel, ancient, old, architecture, archeology, roman, nature, roman construction, roman remains, empúries, ampurias, ruins of ampurias, roman empire, antiquity, city, site, ruins, history, ancient rome"
+imageCredit: "Image by Photos_Marta on Pixabay"
 ---
 
 What do you know about the Jericho Mound Ledger and its significance in the context of ancient offerings and community?

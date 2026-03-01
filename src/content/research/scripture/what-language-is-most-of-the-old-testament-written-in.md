@@ -6,6 +6,9 @@ parentHub: "scripture"
 pubDate: 2024-04-27
 lastUpdated: 2024-04-27
 draft: false
+image: "/images/research/scripture/what-language-is-most-of-the-old-testament-written-in.jpg"
+imageAlt: "paper, writing, old, antique, write, letter, text, retro, pages, handwriting, writer, words, documents, macro, parchment, to blog, writing, writing, writing, writing, writing, words"
+imageCredit: "Image by Nile on Pixabay"
 ---
 
 In the vast realm of biblical scholarship, few questions are as foundational as the language in which the Old Testament was written. Anita Love, a renowned theologian and scholar, has dedicated her career to exploring this very question. With her extensive expertise in ancient biblical manuscripts and the historical context of the scriptures, Anita has uncovered fascinating insights into the linguistic origins of the Old Testament. Through her meticulous research and nuanced perspective, she reveals that the majority of the Old Testament is written in a language that has shaped the course of human history: Hebrew. Delving into the intricacies and complexities of this ancient language, Anita's work not only sheds light on the historical foundations of Christianity but also highlights the enduring relevance of these ancient texts.

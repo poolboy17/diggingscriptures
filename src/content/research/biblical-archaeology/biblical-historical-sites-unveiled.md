@@ -6,6 +6,9 @@ parentHub: "biblical-archaeology"
 pubDate: 2024-05-27
 lastUpdated: 2024-05-27
 draft: false
+image: "/images/research/biblical-archaeology/biblical-historical-sites-unveiled.jpg"
+imageAlt: "pyramids, egypt, egyptian, ancient, desert, giza, historical, architecture, sand, dunes, sand dunes, barren, nature, barren landscape, landmark, sunset, panorama, panoramic"
+imageCredit: "Image by TheDigitalArtist on Pixabay"
 ---
 
 Embark on a journey through the remarkable history of ancient ruins, sacred landmarks, and archaeological sites scattered across the Holy Land. Jerusalem, Jericho, and Bethlehem, among others, serve as tangible evidence of the deep-rooted importance these locations carry in religious history. 

@@ -6,6 +6,9 @@ parentHub: "artifacts"
 pubDate: 2025-06-30
 lastUpdated: 2025-06-30
 draft: false
+image: "/images/research/artifacts/how-and-why-the-original-bible-autographs-were-lost.jpg"
+imageAlt: "latin, rome, vatican, inscription, wall, stone, latin, latin, latin, latin, latin"
+imageCredit: "Image by jillmackie on Pixabay"
 ---
 
 Have you ever wondered why we don't have the original autographs of the Bible? , we'll explore the reasons behind the loss of these ancient texts and how this impacts modern biblical studies. As a scholar with a PhD in Theology, I've spent years studying this topic and believe it remains incredibly relevant, especially as we approach 2025. Our understanding of these lost documents continues to shape theological interpretations, historical context, and even cultural beliefs today.

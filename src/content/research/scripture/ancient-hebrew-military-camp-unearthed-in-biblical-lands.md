@@ -6,6 +6,9 @@ parentHub: "scripture"
 pubDate: 2024-10-30
 lastUpdated: 2024-10-30
 draft: false
+image: "/images/research/scripture/ancient-hebrew-military-camp-unearthed-in-biblical-lands.jpg"
+imageAlt: "scroll, feather, ink, caligraphy, hebrew, writing, characters, paper, papirus, old style, brown paper, brown writing, scroll, scroll, scroll, scroll, scroll, hebrew, hebrew"
+imageCredit: "Image by zofiaEliyahu on Pixabay"
 ---
 
 Have you ever wondered about the untold stories hidden beneath the ancient landscapes of biblical lands? In the heart of these historically rich territories, an awe-inspiring archaeological discovery has emergeda military camp that is believed to have been used by the ancient Hebrews. This unearthing invites us to revisit our understanding of biblical history and offers a new perspective on the military strategies and daily life of a people often shrouded in mystery.

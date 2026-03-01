@@ -6,6 +6,9 @@ parentHub: "biblical-archaeology"
 pubDate: 2025-05-30
 lastUpdated: 2025-05-30
 draft: false
+image: "/images/research/biblical-archaeology/donkey-kicked-boulder-a-journey-through-trials-and-tribulations.jpg"
+imageAlt: "petra, ad deir, world heritage, sand stone, antique, historically, nature, archaeology, monument, culture, ad dayr, history, stones, sky, tourism, travel, vacations, middle east, jordan"
+imageCredit: "Image by ChiemSeherin on Pixabay"
 ---
 
 What would you do if you stumbled upon a piece of ancient history while going about your daily life?

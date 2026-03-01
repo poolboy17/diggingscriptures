@@ -6,6 +6,9 @@ parentHub: "scripture"
 pubDate: 2024-03-04
 lastUpdated: 2024-03-04
 draft: false
+image: "/images/research/scripture/what-is-the-oldest-bible-in-existence-today.jpg"
+imageAlt: "document, parchment, the middle ages, ducal, royal, history, old times, manuscript, europe, poland, silesia, parchment, parchment, parchment, parchment, history, history, history, manuscript, manuscript, manuscript, manuscript, manuscript"
+imageCredit: "Image by Arcaion on Pixabay"
 ---
 
 Among the ancient manuscripts that have survived the test of time, the search for the oldest Bible leads scholars on a fascinating journey through history.

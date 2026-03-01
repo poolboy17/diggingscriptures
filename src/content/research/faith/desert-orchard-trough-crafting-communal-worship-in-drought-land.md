@@ -6,6 +6,9 @@ parentHub: "faith"
 pubDate: 2025-05-30
 lastUpdated: 2025-05-30
 draft: false
+image: "/images/research/faith/desert-orchard-trough-crafting-communal-worship-in-drought-land.jpg"
+imageAlt: "church windows, stained glass windows, church, cathedral, decoration, interiors, interior decoration, windows, stained glass, glass, architecture, glass window, old window, jesus, religion, holy, faith, window grilles, chapel, church, church, church, church, church, jesus, jesus, jesus, jesus, religion"
+imageCredit: "Image by NoName_13 on Pixabay"
 ---
 
 What if you could think about worship not merely as a sanctuary experience but as a communal journey carved in the arid landscape of a drought-stricken land?

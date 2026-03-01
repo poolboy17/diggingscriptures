@@ -6,6 +6,9 @@ parentHub: "biblical-archaeology"
 pubDate: 2025-01-28
 lastUpdated: 2025-01-28
 draft: false
+image: "/images/research/biblical-archaeology/the-secret-hideout-unveiling-the-chest-of-prophecy-debates-in-wartime.jpg"
+imageAlt: "whitby abbey, dracula, bram stoker, haunted, ruin, moody, whitby, yorkshire, history, historic, gothic, landscape, grey, old, whitby, yorkshire, history, history, history, history, history, gothic"
+imageCredit: "Image by TimHill on Pixabay"
 ---
 
 What do you think motivates people to seek hidden truths during tumultuous times?

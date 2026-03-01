@@ -6,6 +6,9 @@ parentHub: "scripture"
 pubDate: 2024-04-27
 lastUpdated: 2024-04-27
 draft: false
+image: "/images/research/scripture/when-was-the-new-testament-actually-written.jpg"
+imageAlt: "calligraphy, story, ink, feather, a book, vintage, old, wood, fairy tale, author, writer, diary, story, story, story, story, author, author, writer, writer, writer, writer, writer, diary"
+imageCredit: "Image by Ghinzo on Pixabay"
 ---
 
 In her compelling exploration of Christianity's historical foundations, Anita Love, a renowned scholar with an extensive background in Theology and Religious Studies, delves into the question of when the New Testament was actually written. Drawing on her expertise in biblical manuscripts and the authenticity of religious teachings, Anita's thought-provoking work aims to shed light on the origins and historical accuracy of the New Testament. With a nuanced perspective that values the diversity of Christian denominations and belief systems, Anita's research offers fresh insights into the timeless relevance of this sacred text.

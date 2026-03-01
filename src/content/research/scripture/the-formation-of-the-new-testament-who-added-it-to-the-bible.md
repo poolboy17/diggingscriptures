@@ -6,6 +6,9 @@ parentHub: "scripture"
 pubDate: 2024-04-27
 lastUpdated: 2024-04-27
 draft: false
+image: "/images/research/scripture/the-formation-of-the-new-testament-who-added-it-to-the-bible.png"
+imageAlt: "to learn, read, a book, literature, old, old book, to study, school, training, middle ages, study, bound, historical, leather binding, writing, book pages, pitched, isolated"
+imageCredit: "Image by garten-gg on Pixabay"
 ---
 
 In "The Formation of the New Testament: Who Added it to the Bible?" Anita Love, a renowned authority in Christian theology and biblical studies, explores the origins of the New Testament and the individuals responsible for its inclusion in the Bible. Drawing upon her extensive academic background and meticulous research, Anita delves into the historical context of the New Testament and the factors that influenced its canonization process. By shedding light on this oft-contemplated question, Anita invites readers to embark on a captivating journey of discovery and understanding regarding the formation of the sacred texts that shape the foundation of Christianity.
