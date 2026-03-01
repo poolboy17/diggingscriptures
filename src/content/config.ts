@@ -234,6 +234,49 @@ const context = defineCollection({
 });
 
 // ================================================================================
+// RESEARCH COLLECTION
+// ================================================================================
+// Purpose: Biblical archaeology blog posts (imported from WordPress)
+// Function: Topical authority / informational SEO arm
+// Word count: Varies (800-4000+ words)
+// URL structure: /research/[category]/[slug]
+// ================================================================================
+const research = defineCollection({
+    type: 'content',
+    schema: z.object({
+        // Required fields
+        title: z.string(),
+        description: z.string().max(160),
+
+        // Categorization — maps to Tier 2 hub
+        category: z.enum([
+            'biblical-archaeology',
+            'scripture',
+            'excavations',
+            'artifacts',
+            'faith',
+        ]),
+
+        // Taxonomy
+        topics: z.array(z.string()).optional(),
+
+        // Relationships
+        parentHub: z.string().optional(),
+
+        // Image
+        image: z.string().optional(),
+        imageAlt: z.string().optional(),
+
+        // SEO and metadata
+        pubDate: z.date().optional(),
+        lastUpdated: z.date().optional(),
+
+        // Publishing state
+        draft: z.boolean().default(false),
+    }),
+});
+
+// ================================================================================
 // EXPORT COLLECTIONS
 // ================================================================================
 export const collections = {
@@ -242,4 +285,5 @@ export const collections = {
     routes,
     stories,
     context,
+    research,
 };

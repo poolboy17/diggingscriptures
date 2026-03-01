@@ -1,0 +1,55 @@
+---
+/**
+ * ================================================================================
+ * RESEARCH PAGE TEMPLATE
+ * ================================================================================
+ * Purpose: Biblical archaeology blog posts (imported from WordPress)
+ * Function: Topical authority / informational SEO arm
+ * 
+ * MONETIZATION: NEVER — pure informational content
+ * ================================================================================
+ */
+
+import BaseLayout from './BaseLayout.astro';
+
+interface Props {
+    title: string;
+    description: string;
+    category: string;
+    pubDate?: Date;
+}
+
+const { title, description, category, pubDate } = Astro.props;
+
+const categoryLabels: Record<string, string> = {
+    'biblical-archaeology': 'Biblical Archaeology',
+    'scripture': 'Scripture Studies',
+    'excavations': 'Excavations & Sites',
+    'artifacts': 'Artifacts & Discoveries',
+    'faith': 'Faith & Theology',
+};
+---
+
+<BaseLayout title={title} description={description}>
+    <article class="research-page">
+        <header class="context-header">
+            <div style="display:flex;gap:0.5rem;margin-bottom:0.75rem;">
+                <a href="/research" class="badge" style="text-decoration:none;">Research</a>
+                <a href={`/research/${category}`} class="badge" style="text-decoration:none;">
+                    {categoryLabels[category] || category}
+                </a>
+            </div>
+            <h1>{title}</h1>
+            <p class="context-description">{description}</p>
+            {pubDate && (
+                <time datetime={pubDate.toISOString()} style="font-size:0.8rem;color:#a8a29e;">
+                    {pubDate.toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric' })}
+                </time>
+            )}
+        </header>
+
+        <section class="context-content">
+            <slot />
+        </section>
+    </article>
+</BaseLayout>

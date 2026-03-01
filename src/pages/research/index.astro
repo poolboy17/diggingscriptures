@@ -1,0 +1,63 @@
+---
+/**
+ * RESEARCH HUB — Tier 1: /research/
+ * Biblical Archaeology & Scripture Research
+ */
+import { getCollection } from 'astro:content';
+import BaseLayout from '../../layouts/BaseLayout.astro';
+
+const articles = await getCollection('research', ({ data }) => !data.draft);
+
+const categoryLabels: Record<string, string> = {
+    'biblical-archaeology': 'Biblical Archaeology',
+    'scripture': 'Scripture Studies',
+    'excavations': 'Excavations & Sites',
+    'artifacts': 'Artifacts & Discoveries',
+    'faith': 'Faith & Theology',
+};
+
+// Group by category with counts
+const categories = Object.entries(categoryLabels).map(([key, label]) => ({
+    key,
+    label,
+    count: articles.filter(a => a.data.category === key).length,
+    latest: articles
+        .filter(a => a.data.category === key)
+        .sort((a, b) => (b.data.pubDate?.getTime() || 0) - (a.data.pubDate?.getTime() || 0))
+        .slice(0, 3),
+})).filter(c => c.count > 0);
+---
+
+<BaseLayout 
+    title="Biblical Archaeology & Scripture Research" 
+    description="Explore biblical archaeology, ancient excavations, scripture studies, and faith through in-depth research articles."
+    breadcrumbs={[
+        { name: 'Home', url: '/' },
+        { name: 'Research', url: '/research' }
+    ]}
+>
+    <section class="section">
+        <div class="container">
+            <h1 class="page-heading">Biblical Archaeology & Scripture Research</h1>
+            <p style="max-width:680px;margin:0 auto 2.5rem;text-align:center;color:#78716c;">
+                Exploring the intersection of archaeology, ancient texts, and faith — {articles.length} articles across {categories.length} topics.
+            </p>
+
+            <div class="grid gap-8 sm:grid-cols-2 lg:grid-cols-3">
+                {categories.map(cat => (
+                    <a href={`/research/${cat.key}`} class="card block p-6">
+                        <h2 class="text-lg font-semibold mb-1 text-text-dark">{cat.label}</h2>
+                        <p class="text-sm text-text-muted mb-3">{cat.count} articles</p>
+                        <ul style="list-style:none;padding:0;margin:0;">
+                            {cat.latest.map(article => (
+                                <li style="font-size:0.85rem;color:#57534e;margin-bottom:0.35rem;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;">
+                                    {article.data.title}
+                                </li>
+                            ))}
+                        </ul>
+                    </a>
+                ))}
+            </div>
+        </div>
+    </section>
+</BaseLayout>

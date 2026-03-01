@@ -1,0 +1,59 @@
+---
+/**
+ * RESEARCH CATEGORY HUB — Tier 2: /research/[category]/
+ */
+import { getCollection } from 'astro:content';
+import BaseLayout from '../../../layouts/BaseLayout.astro';
+
+const categoryLabels: Record<string, string> = {
+    'biblical-archaeology': 'Biblical Archaeology',
+    'scripture': 'Scripture Studies',
+    'excavations': 'Excavations & Sites',
+    'artifacts': 'Artifacts & Discoveries',
+    'faith': 'Faith & Theology',
+};
+
+export async function getStaticPaths() {
+    const allArticles = await getCollection('research', ({ data }) => !data.draft);
+    const categories = [...new Set(allArticles.map(a => a.data.category))];
+    
+    return categories.map(cat => ({
+        params: { category: cat },
+        props: {
+            articles: allArticles
+                .filter(a => a.data.category === cat)
+                .sort((a, b) => (b.data.pubDate?.getTime() || 0) - (a.data.pubDate?.getTime() || 0)),
+        },
+    }));
+}
+
+const { articles } = Astro.props;
+const category = Astro.params.category as string;
+const label = categoryLabels[category] || category;
+---
+
+<BaseLayout 
+    title={`${label} — Research`}
+    description={`Browse ${articles.length} articles on ${label.toLowerCase()}.`}
+    breadcrumbs={[
+        { name: 'Home', url: '/' },
+        { name: 'Research', url: '/research' },
+        { name: label, url: `/research/${category}` }
+    ]}
+>
+    <section class="section">
+        <div class="container">
+            <h1 class="page-heading">{label}</h1>
+            <p style="text-align:center;color:#78716c;margin-bottom:2rem;">{articles.length} articles</p>
+
+            <div class="grid gap-6 sm:grid-cols-2 lg:grid-cols-3">
+                {articles.map((article: any) => (
+                    <a href={`/research/${category}/${article.slug.split('/').pop()}`} class="card block p-5">
+                        <h3 class="text-base font-semibold mb-1 text-text-dark line-clamp-2">{article.data.title}</h3>
+                        <p class="text-sm text-text-muted line-clamp-2">{article.data.description}</p>
+                    </a>
+                ))}
+            </div>
+        </div>
+    </section>
+</BaseLayout>
