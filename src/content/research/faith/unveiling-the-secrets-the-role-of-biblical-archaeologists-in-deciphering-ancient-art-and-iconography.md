@@ -1,5 +1,5 @@
 ---
-title: "Unveiling the Secrets: the Role of Biblical Archaeologists in"
+title: "Unearthing the Secrets: the Role of Biblical Archaeologists in"
 description: "In the fascinating world of biblical archaeology, a group of dedicated individuals take on the important task of unraveling the mysteries hidden within..."
 category: "faith"
 parentHub: "faith"

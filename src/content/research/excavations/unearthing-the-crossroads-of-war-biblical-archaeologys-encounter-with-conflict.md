@@ -10,7 +10,7 @@ draft: false
 
 In "Unearthing the Crossroads of War: Biblical Archaeology's Encounter with Conflict," the article explores the intriguing and intricate relationship between war and biblical archaeology. Delving into the impact of warfare and conflict on the field, the author uncovers how the tumultuous history of armed conflicts has shaped and influenced the study of biblical sites and artifacts. From the ruins of ancient battlegrounds to the discovery of hidden treasures amidst war-torn landscapes, this captivating exploration offers a unique perspective on the interconnectedness of war and the excavation of biblical archaeology.
 
-# Unearthing the Crossroads of War: Biblical Archaeology's Encounter with Conflict
+## Unearthing the Crossroads of War: Biblical Archaeology's Encounter with Conflict
 
  
 

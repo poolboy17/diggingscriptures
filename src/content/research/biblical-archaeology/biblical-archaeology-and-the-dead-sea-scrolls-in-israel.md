@@ -51,7 +51,7 @@ Biblical Archaeology & Dead Sea Scrolls | Pillar Page
 
   
     
-# Biblical Archaeology and the Dead Sea Scrolls in Israel
+## Biblical Archaeology and the Dead Sea Scrolls in Israel
 
     
 **Approx. 3,000 Words**
