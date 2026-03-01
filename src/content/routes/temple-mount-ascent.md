@@ -35,7 +35,7 @@ The Southern Steps — a broad, monumental staircase leading up to the Hulda Gat
 
 </Fragment>
 
-<Fragment slot="culture">
+<Fragment slot="journey">
 
 The Temple pilgrimage was not merely a religious obligation but a defining expression of Jewish collective identity. The Mishnah's tractate Hagigah and the historical accounts of Josephus describe Jerusalem during the festivals as a city transformed. The population, normally around 60,000 during the late Second Temple period, swelled to several hundred thousand. Pilgrims camped in the surrounding hills, filled the city's guest rooms, and overflowed into nearby towns. The economic impact was enormous — the pilgrimage trade sustained Jerusalem's economy — but the social impact was greater. Jews from across the Mediterranean world, speaking different languages and following different local customs, gathered in a single place, reinforcing the sense of a people united by covenant and practice.
 
@@ -47,7 +47,7 @@ The archaeological recovery of the pilgrim route has added a material dimension 
 
 </Fragment>
 
-<Fragment slot="stages">
+<Fragment slot="places">
 
 **Stage 1 — Ritual Immersion.** Pilgrims began by immersing in one of the mikvaot clustered south and southwest of the Temple Mount. Over fifty ritual baths have been excavated in this area, ranging from simple stepped pools to large installations capable of serving hundreds of people. The immersion was required for anyone entering the Temple precincts and marked the transition from ordinary space to sacred territory.
 
