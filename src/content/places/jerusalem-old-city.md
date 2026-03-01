@@ -1,6 +1,6 @@
 ---
-title: "Jerusalem Old City"
-description: "The walled heart of Jerusalem, sacred to Christianity, Judaism, and Islam since antiquity."
+title: "Jerusalem Old City: Sacred Pilgrimage Destination"
+description: "The walled heart of Jerusalem, sacred to Christianity, Judaism, and Islam since antiquity. The Old City of Jerusalem occupies less than one square."
 region: "Middle East"
 country: "Israel"
 coordinates:

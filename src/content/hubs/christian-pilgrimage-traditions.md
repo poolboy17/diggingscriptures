@@ -1,6 +1,6 @@
 ---
 title: "Christian Pilgrimage Traditions"
-description: "An exploration of Christian pilgrimage practices from early sacred journeys to diverse modern traditions."
+description: "An exploration of Christian pilgrimage practices from early sacred journeys to diverse modern traditions. The act of undertaking a journey to a place."
 topics:
   - christianity
   - pilgrimage

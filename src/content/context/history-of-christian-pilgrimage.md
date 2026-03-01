@@ -1,7 +1,7 @@
 ---
 title: "History of Christian Pilgrimage"
 parentHub: "christian-pilgrimage-traditions"
-description: "An overview of the development of pilgrimage practices within Christian traditions from antiquity to the present."
+description: "An overview of the development of pilgrimage practices within Christian traditions from antiquity to the present. Christian pilgrimage did not emerge in a."
 contextType: "historical-background"
 faithTraditions:
   - Christianity

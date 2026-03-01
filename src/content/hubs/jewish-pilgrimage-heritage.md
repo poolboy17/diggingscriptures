@@ -1,6 +1,6 @@
 ---
-title: "Jewish Pilgrimage Heritage"
-description: "The history of Jewish pilgrimage from the three Temple festivals to modern journeys to sacred sites."
+title: "Jewish Pilgrimage Heritage: Sacred Pilgrimage Traditions"
+description: "The history of Jewish pilgrimage from the three Temple festivals to modern journeys to sacred sites. Jewish pilgrimage tradition begins with the Temple in."
 topics:
   - judaism
   - pilgrimage

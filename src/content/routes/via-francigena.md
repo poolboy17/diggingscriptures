@@ -1,5 +1,5 @@
 ---
-title: "Via Francigena"
+title: "Via Francigena: Historic Pilgrimage Route"
 description: "The medieval pilgrimage route from Canterbury to Rome, crossing England, France, Switzerland, and Italy over nearly 2,000 kilometers."
 region: "Western Europe"
 countries:

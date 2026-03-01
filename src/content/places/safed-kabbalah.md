@@ -1,6 +1,6 @@
 ---
-title: "Safed and the Kabbalistic Tradition"
-description: "The Galilean hilltop city that became the center of Jewish mysticism in the sixteenth century."
+title: "Safed and the Kabbalistic Tradition — Sacred Guide"
+description: "The Galilean hilltop city that became the center of Jewish mysticism in the sixteenth century. Safed (Tzfat) sits at approximately 900 meters elevation in."
 region: "Middle East"
 country: "Israel"
 coordinates:

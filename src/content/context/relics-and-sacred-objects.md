@@ -1,5 +1,5 @@
 ---
-title: "Relics and Sacred Objects"
+title: "Relics and Sacred Objects: Pilgrimage History & Context"
 parentHub: "faith-based-journeys"
 description: "The role of physical objects — bones, clothing, artifacts, and natural features — in the practice and motivation of pilgrimage across religious traditions."
 contextType: "cultural-overview"

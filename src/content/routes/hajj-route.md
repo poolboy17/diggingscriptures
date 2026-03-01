@@ -1,5 +1,5 @@
 ---
-title: "The Hajj Route"
+title: "The Hajj Route: Historic Pilgrimage Route"
 description: "The sacred pilgrimage to Mecca that every able Muslim must undertake once in a lifetime, following rituals established by the Prophet Muhammad."
 region: "Middle East"
 countries:

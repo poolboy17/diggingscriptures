@@ -1,7 +1,7 @@
 ---
 title: "Ibn Battuta: The Pilgrim Traveler"
 parentHub: "islamic-pilgrimage-traditions"
-description: "How a young Moroccan scholar's Hajj journey in 1325 became one of the greatest travel narratives in human history."
+description: "How a young Moroccan scholar's Hajj journey in 1325 became one of the greatest travel narratives in human history. In June 1325, a twenty-one-year-old."
 storyType: "historical-figure"
 faithTraditions:
   - Islam

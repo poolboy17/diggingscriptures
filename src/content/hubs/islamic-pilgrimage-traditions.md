@@ -1,6 +1,6 @@
 ---
-title: "Islamic Pilgrimage Traditions"
-description: "The history and practice of pilgrimage in Islam, from the obligatory Hajj to voluntary ziyarat."
+title: "Islamic Pilgrimage Traditions: Sacred Pilgrimage Traditions"
+description: "The history and practice of pilgrimage in Islam, from the obligatory Hajj to voluntary ziyarat. Among the world's pilgrimage traditions, the Hajj holds a."
 topics:
   - islam
   - pilgrimage

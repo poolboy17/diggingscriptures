@@ -1,5 +1,5 @@
 ---
-title: "Shikoku 88 Temple Pilgrimage"
+title: "Shikoku 88 Temple Pilgrimage: Historic Pilgrimage Route"
 description: "Japan's most famous pilgrimage circuit, linking eighty-eight Buddhist temples around the island of Shikoku in a journey of approximately 1,200 kilometers."
 region: "East Asia"
 countries:

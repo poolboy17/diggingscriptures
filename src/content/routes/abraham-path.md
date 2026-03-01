@@ -1,5 +1,5 @@
 ---
-title: "Abraham Path"
+title: "Abraham Path: Historic Pilgrimage Route"
 description: "A long-distance walking trail tracing the journey of Abraham through the Middle East, crossing Turkey, Syria, Jordan, Palestine, and Israel."
 region: "Middle East"
 countries:

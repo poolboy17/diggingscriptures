@@ -1,6 +1,6 @@
 ---
-title: "Mecca"
-description: "The holiest city in Islam and destination of the Hajj, the world's largest annual pilgrimage."
+title: "Mecca: Sacred Pilgrimage Destination"
+description: "The holiest city in Islam and destination of the Hajj, the world's largest annual pilgrimage. Mecca's sacred status predates Islam by."
 region: "Middle East"
 country: "Saudi Arabia"
 coordinates:

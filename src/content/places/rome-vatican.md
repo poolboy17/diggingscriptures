@@ -1,6 +1,6 @@
 ---
-title: "Rome and the Vatican"
-description: "The heart of Catholic Christianity and a pilgrimage destination for nearly two millennia."
+title: "Rome and the Vatican: Sacred Pilgrimage Destination"
+description: "The heart of Catholic Christianity and a pilgrimage destination for nearly two millennia. Rome's status as a Christian pilgrimage destination rests on two."
 region: "Southern Europe"
 country: "Italy"
 coordinates:

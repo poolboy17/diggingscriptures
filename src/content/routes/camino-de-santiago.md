@@ -1,6 +1,6 @@
 ---
-title: "Camino de Santiago"
-description: "The network of pilgrimage routes crossing Europe to reach the shrine of Saint James in Santiago de Compostela, walked continuously for over a thousand years."
+title: "Camino de Santiago: Historic Pilgrimage Route"
+description: "The network of pilgrimage routes crossing Europe to reach the shrine of Saint James in Santiago de Compostela, walked continuously for over a thousand."
 region: "Western Europe"
 countries:
   - Spain

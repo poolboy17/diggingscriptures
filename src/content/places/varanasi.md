@@ -1,6 +1,6 @@
 ---
-title: "Varanasi"
-description: "India's holiest city on the Ganges, sacred to Hinduism, Buddhism, and Jainism for over three millennia."
+title: "Varanasi: Sacred Pilgrimage Destination"
+description: "India's holiest city on the Ganges, sacred to Hinduism, Buddhism, and Jainism for over three millennia. Varanasi (also known as Banaras or Kashi, \"the."
 region: "South Asia"
 country: "India"
 coordinates:

@@ -1,5 +1,5 @@
 ---
-title: "Kora Around Mount Kailash"
+title: "Kora Around Mount Kailash: Historic Pilgrimage Route"
 description: "The sacred circumambulation of Mount Kailash in western Tibet, revered by Buddhists, Hindus, Jains, and followers of Bön as the center of the world."
 region: "Central Asia"
 countries:

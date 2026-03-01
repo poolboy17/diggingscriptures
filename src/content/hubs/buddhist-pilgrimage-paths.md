@@ -1,6 +1,6 @@
 ---
-title: "Buddhist Pilgrimage Paths"
-description: "Sacred journeys in Buddhism from the four great sites of the Buddha's life to temple circuits across Asia."
+title: "Buddhist Pilgrimage Paths: Sacred Pilgrimage Traditions"
+description: "Sacred journeys in Buddhism from the four great sites of the Buddha's life to temple circuits across Asia. Buddhist pilgrimage rests on a specific textual."
 topics:
   - buddhism
   - pilgrimage

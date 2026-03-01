@@ -1,6 +1,6 @@
 ---
-title: "Lourdes"
-description: "The Marian apparition site in southern France that became one of Catholicism's most visited shrines."
+title: "Lourdes: Sacred Pilgrimage Destination"
+description: "The Marian apparition site in southern France that became one of Catholicism's most visited shrines. In 1858, a fourteen-year-old girl named Bernadette."
 region: "Western Europe"
 country: "France"
 coordinates:

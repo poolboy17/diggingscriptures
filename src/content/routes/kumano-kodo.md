@@ -1,5 +1,5 @@
 ---
-title: "Kumano Kodō"
+title: "Kumano Kodō: Historic Pilgrimage Route"
 description: "A network of ancient pilgrimage trails through the mountainous Kii Peninsula of Japan, connecting three grand shrines sacred to both Shinto and Buddhist..."
 region: "East Asia"
 countries:

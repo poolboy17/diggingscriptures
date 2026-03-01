@@ -1,6 +1,6 @@
 ---
-title: "Lumbini"
-description: "The birthplace of the Buddha in Nepal, one of the four great pilgrimage sites of Buddhism."
+title: "Lumbini: Sacred Pilgrimage Destination"
+description: "The birthplace of the Buddha in Nepal, one of the four great pilgrimage sites of Buddhism. Lumbini preserves the site where, according to Buddhist."
 region: "South Asia"
 country: "Nepal"
 coordinates:

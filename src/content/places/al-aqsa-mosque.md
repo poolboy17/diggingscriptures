@@ -1,6 +1,6 @@
 ---
 title: "Al-Aqsa and the Night Journey That Made Jerusalem Holy"
-description: "How the Prophet Muhammad's miraculous night journey established Jerusalem as Islam's third holiest city."
+description: "How the Prophet Muhammad's miraculous night journey established Jerusalem as Islam's third holiest city. Jerusalem's holiness in Islam rests primarily on."
 region: "Middle East"
 country: "Palestine"
 coordinates:

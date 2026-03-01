@@ -1,6 +1,6 @@
 ---
-title: "How the Umrah Differs from the Hajj"
-description: "A guide to Islam's lesser pilgrimage — its rituals, spiritual significance, and how it relates to the obligatory Hajj."
+title: "How the Umrah Differs from the Hajj — Pilgrimage Guide"
+description: "A guide to Islam's lesser pilgrimage — its rituals, spiritual significance, and how it relates to the obligatory Hajj. The Umrah is the lesser pilgrimage."
 region: "Middle East"
 countries:
   - Saudi Arabia

@@ -1,6 +1,6 @@
 ---
 title: "Faith-Based Journeys and Pilgrimages"
-description: "An introduction to pilgrimage across cultures, exploring why humans undertake sacred journeys."
+description: "An introduction to pilgrimage across cultures, exploring why humans undertake sacred journeys. Throughout recorded history, human beings have set out on."
 topics:
   - pilgrimage
   - sacred travel

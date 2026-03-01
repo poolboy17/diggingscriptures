@@ -1,6 +1,6 @@
 ---
-title: "Western Wall"
-description: "The holiest site in Judaism, a remnant of the Second Temple's retaining wall in Jerusalem."
+title: "Western Wall: Sacred Pilgrimage Destination"
+description: "The holiest site in Judaism, a remnant of the Second Temple's retaining wall in Jerusalem. The Western Wall (HaKotel HaMa'aravi) is a section of the."
 region: "Middle East"
 country: "Israel"
 coordinates:

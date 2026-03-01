@@ -1,5 +1,5 @@
 ---
-title: "Helena and the True Cross"
+title: "Helena and the True Cross: A Pilgrimage Story"
 parentHub: "christian-pilgrimage-traditions"
 description: "How the mother of Emperor Constantine traveled to the Holy Land in the fourth century and shaped the geography of Christian pilgrimage for all time."
 storyType: "historical-figure"

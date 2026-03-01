@@ -47,7 +47,7 @@ The Imam Ali Shrine in Najaf is one of the most architecturally distinguished bu
 
 The Imam Hussein Shrine in Karbala mirrors Najaf's architectural grandeur with its own golden dome and minarets. Adjacent to it is the Shrine of Abbas, Hussein's half-brother, who was killed attempting to bring water to the besieged camp. Abbas is revered as a symbol of loyalty and sacrifice, and his shrine draws nearly as many visitors as Hussein's. The two shrines are connected by a pedestrian street that forms the spiritual and commercial heart of Karbala.
 
-Wadi al-Salam (Valley of Peace), the cemetery adjacent to the Imam Ali Shrine in Najaf, is one of the largest cemeteries in the world, covering more than six square kilometers with an estimated five to six million burials. Shia Muslims from across the world seek burial near Imam Ali, and the cemetery has been in continuous use for over fourteen centuries. Its vast expanse of tombs, mausoleums, and catacomb-like underground chambers is a landscape of collective memory that embodies the Shia relationship with death, mourning, and hope for intercession.
+Wadi al-Salam (Valley of Peace), the cemetery adjacent to the Imam Ali Shrine in Najaf, is one of the largest cemeteries in the world, covering more than six square kilometers with an estimated five to six million burials. Shia Muslims from across the world seek burial near Imam Ali, and the cemetery has been in continuous use for over fourteen centuries. Its vast expanse of tombs, mausoleums, and catacomb-like underground chambers is a of collective memory that embodies the Shia relationship with death, mourning, and hope for intercession.
 
 </Fragment>
 

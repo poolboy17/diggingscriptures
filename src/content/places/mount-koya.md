@@ -1,6 +1,6 @@
 ---
-title: "Mount Koya"
-description: "The sacred mountain headquarters of Shingon Buddhism, founded by Kobo Daishi in 816 CE."
+title: "Mount Koya: Sacred Pilgrimage Destination"
+description: "The sacred mountain headquarters of Shingon Buddhism, founded by Kobo Daishi in 816 CE. Mount Koya (Koyasan) was established in 816 CE when the monk Kukai."
 region: "East Asia"
 country: "Japan"
 coordinates:

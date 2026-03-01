@@ -1,7 +1,7 @@
 ---
-title: "The Legend of Saint James"
+title: "The Legend of Saint James: A Pilgrimage Story"
 parentHub: "christian-pilgrimage-traditions"
-description: "The traditional narrative surrounding the apostle James and the origins of the Santiago de Compostela pilgrimage."
+description: "The traditional narrative surrounding the apostle James and the origins of the Santiago de Compostela pilgrimage. James the son of Zebedee appears in the."
 storyType: "legend"
 faithTraditions:
   - Christianity

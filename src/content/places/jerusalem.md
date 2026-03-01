@@ -1,5 +1,5 @@
 ---
-title: "Jerusalem"
+title: "Jerusalem: Sacred Pilgrimage Destination"
 description: "The ancient city sacred to Judaism, Christianity, and Islam, and the original destination of Christian pilgrimage since the fourth century."
 region: "Middle East"
 country: "Israel"

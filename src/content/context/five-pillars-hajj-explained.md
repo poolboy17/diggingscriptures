@@ -1,5 +1,5 @@
 ---
-title: "The Five Pillars and the Hajj Explained"
+title: "The Five Pillars and the Hajj Explained — Sacred Guide"
 parentHub: "islamic-pilgrimage-traditions"
 description: "Understanding the Hajj pilgrimage within the theological framework of Islam's Five Pillars and the broader structure of Muslim obligation."
 contextType: "religious-context"

@@ -1,6 +1,6 @@
 ---
-title: "Dome of the Rock"
-description: "The iconic golden-domed shrine on Jerusalem's Temple Mount, sacred in Islam and Judaism."
+title: "Dome of the Rock: Sacred Pilgrimage Destination"
+description: "The iconic golden-domed shrine on Jerusalem's Temple Mount, sacred in Islam and Judaism. The Dome of the Rock was completed in 691-692 CE under the."
 region: "Middle East"
 country: "Israel"
 coordinates:

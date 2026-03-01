@@ -1,6 +1,6 @@
 ---
-title: "St. Olav's Way"
-description: "Scandinavia's premier pilgrimage route, crossing Norway from Oslo to the medieval cathedral city of Trondheim along paths walked since the eleventh century."
+title: "St. Olav's Way: Historic Pilgrimage Route"
+description: "Scandinavia's premier pilgrimage route, crossing Norway from Oslo to the medieval cathedral city of Trondheim along paths walked since the eleventh."
 region: "Northern Europe"
 countries:
   - Norway

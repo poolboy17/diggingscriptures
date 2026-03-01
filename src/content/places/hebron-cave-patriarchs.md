@@ -1,6 +1,6 @@
 ---
-title: "Hebron and the Cave of the Patriarchs"
-description: "One of the oldest continuously sacred sites on earth, venerated in Judaism, Christianity, and Islam."
+title: "Hebron and the Cave of the Patriarchs — Sacred Guide"
+description: "One of the oldest continuously sacred sites on earth, venerated in Judaism, Christianity, and Islam. The Cave of Machpelah in Hebron holds claims to being."
 region: "Middle East"
 country: "West Bank"
 coordinates:

@@ -1,6 +1,6 @@
 ---
-title: "Santiago de Compostela"
-description: "The cathedral city in Galicia housing the shrine of Saint James, destination of the Camino."
+title: "Santiago de Compostela: Sacred Pilgrimage Destination"
+description: "The cathedral city in Galicia housing the shrine of Saint James, destination of the Camino. Santiago de Compostela became one of the three great."
 region: "Galicia"
 country: "Spain"
 coordinates:

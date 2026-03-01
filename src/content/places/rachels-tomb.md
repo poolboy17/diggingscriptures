@@ -53,7 +53,7 @@ The cenotaph â€” the stone structure understood to mark Rachel's burial place â€
 
 Adjacent rooms house shelves of prayer books, psalters, and collections of personal petitions (kvitlach) left by pilgrims. A small study hall allows visitors to engage in Torah learning at the site, connecting the devotional practice of pilgrimage with the intellectual practice of study that Judaism regards as its own form of worship.
 
-The surrounding area, once an open landscape between Jerusalem and Bethlehem, is now dominated by the Israeli separation barrier and military infrastructure. The transformation of the site from an accessible roadside shrine to a fortified compound reflects the broader political realities of the region and has become a subject of debate among Israelis, Palestinians, and the international community.
+The surrounding area, once an open between Jerusalem and Bethlehem, is now dominated by the Israeli separation barrier and military infrastructure. The transformation of the site from an accessible roadside shrine to a fortified compound reflects the broader political realities of the region and has become a subject of debate among Israelis, Palestinians, and the international community.
 
 </Fragment>
 

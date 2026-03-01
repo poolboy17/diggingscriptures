@@ -1,6 +1,6 @@
 ---
-title: "Medina"
-description: "The city of the Prophet Muhammad's mosque and tomb, Islam's second holiest destination."
+title: "Medina: Sacred Pilgrimage Destination"
+description: "The city of the Prophet Muhammad's mosque and tomb, Islam's second holiest destination. Medina—originally known as Yathrib—entered Islamic history in 622."
 region: "Middle East"
 country: "Saudi Arabia"
 coordinates:

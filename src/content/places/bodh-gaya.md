@@ -1,6 +1,6 @@
 ---
-title: "Bodh Gaya"
-description: "The site of the Buddha's enlightenment and the most sacred destination in Buddhism."
+title: "Bodh Gaya: Sacred Pilgrimage Destination"
+description: "The site of the Buddha's enlightenment and the most sacred destination in Buddhism. Bodh Gaya marks the location where Siddhartha Gautama, after years of."
 region: "South Asia"
 country: "India"
 coordinates:
