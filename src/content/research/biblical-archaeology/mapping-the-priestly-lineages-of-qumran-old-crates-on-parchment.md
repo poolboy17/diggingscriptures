@@ -11,9 +11,10 @@ imageAlt: "egypt, temple, hieroglyphics, pharaoh, egyptian temple, travel, statu
 imageCredit: "Image by NadineDoerle on Pixabay"
 imageWidth: 1280
 imageHeight: 850
----
+---Unlocking Ancient Scrolls: A Fascinating Journey into is a topic in biblical archaeology that connects ancient material evidence with scriptual narratives.
 
-Unlocking Ancient Scrolls: A Fascinating Journey into is a topic in biblical archaeology that connects ancient material evidence with scriptual narratives.
+This topic is part of our [research on biblical archaeology](/research/biblical-archaeology).
+
 
 What if I told you that ancient scrolls could reveal secrets about religious lineages, rituals, and human connections that date back to thousands of years? Intrigued? You should be. The story of Qumran and its scrolls is woven deeply into the tapestry of biblical history and archaeological intrigue. Lets examine into the fascinating world of the priestly lineages as mapped out on those remarkable parchments.
  
@@ -116,6 +117,12 @@ Each parchment, each inscription holds within it a story of longing, belonging, 
 ### Related Pilgrimage Guides
 
 - [How Pilgrims Ascended the Temple Mount in Ancient Jerusalem](/routes/temple-mount-ascent)
+
+## Related Research
+
+Explore these related articles for deeper study:
+
+- [Unlocking Afterlife Mysteries: Decoding Ancient Scrolls in](/research/biblical-archaeology/exploring-the-city-of-david-cracks-insights-into-afterlife-discourse-on-tattered-scrolls)
 
 ## Frequently Asked Questions
 

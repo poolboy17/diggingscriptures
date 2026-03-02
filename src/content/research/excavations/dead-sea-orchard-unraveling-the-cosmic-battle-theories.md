@@ -11,9 +11,10 @@ imageAlt: "landscape, tree, stone, wall, travel, ancient, old, architecture, arc
 imageCredit: "Image by Photos_Marta on Pixabay"
 imageWidth: 1280
 imageHeight: 960
----
+---Exploring Ancient Cosmic Battle Theories in the Dead Sea Scrolls is an area of archaeological investigation that has yielded significant findings about the ancient world.
 
-Exploring Ancient Cosmic Battle Theories in the Dead Sea Scrolls is an area of archaeological investigation that has yielded significant findings about the ancient world.
+This topic is part of our [research on archaeological excavations](/research/excavations).
+
 
 Have you ever pondered how ancient texts might weave together the threads of a cosmic struggle, revealing ancient wisdom locked away in the cradle of time? The Dead Sea Scrolls and the archaeological wonders of the Judean Desert open fascinating doors that lead back to tumultuous chapters of human history. Its here that we encounter theories of cosmic battles, personal enlightenment, and the search for truth, all wrapped in layers of broken clay and faded ink.
   
@@ -114,6 +115,12 @@ In navigating both the visible and invisible conflicts surrounding you, may you 
 ### Related Pilgrimage Guides
 
 - [Shikoku 88 Temple Pilgrimage: Historic Pilgrimage Route](/routes/shikoku-88-temples)
+
+## Related Research
+
+Explore these related articles for deeper study:
+
+- [Exploring Ancient Moral Dilemmas at the Dead Sea Vineyard](/research/excavations/dead-sea-vineyard-a-lamentation-in-jars-of-moral-decline)
 
 ## Frequently Asked Questions
 

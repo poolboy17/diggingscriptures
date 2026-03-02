@@ -11,9 +11,10 @@ imageAlt: "mosaic, mosaic tiles, floor, ancient, decorative, decoration, tile, g
 imageCredit: "Image by BiljaST on Pixabay"
 imageWidth: 1280
 imageHeight: 960
----
+---Unearthing Biblical Truths: the Impact of Archaeology on Modern is a theological subject that explores the intersection of faith traditions and historical evidence.
 
-Unearthing Biblical Truths: the Impact of Archaeology on Modern is a theological subject that explores the intersection of faith traditions and historical evidence.
+This topic is part of our [research on faith and history](/research/faith).
+
 
 In "Unearthing Biblical Truths: The Impact of Archaeology on Modern Religious Beliefs," this article explores the fascinating world of biblical archaeology and its profound influence on contemporary religious beliefs. From unearthing ancient artifacts to deciphering ancient texts, scholars and archaeologists have embarked on a journey to examine into the past to shed light on the origins and authenticity of biblical narratives. By examining the tangible evidence left by ancient civilizations, this field of study has the potential to challenge, confirm, or reshape our understanding of religious traditions and their historical accuracy. Join us as we uncover the significance of biblical archaeology and its impact on modern faith communities.
 
@@ -66,6 +67,12 @@ Archaeological discoveries have far-reaching implications for religious practice
 ### Related Pilgrimage Guides
 
 - [Rabbi Nachman's Journey to Israel](/stories/rabbi-nachman-journey-to-israel)
+
+## Related Research
+
+Explore these related articles for deeper study:
+
+- [Unearthing the Truth: the Impact of Biblical Archaeology on](/research/faith/unearthing-the-truth-the-impact-of-biblical-archaeology-on-biblical-interpretation)
 
 ## Frequently Asked Questions
 

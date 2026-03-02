@@ -11,9 +11,10 @@ imageAlt: "masada national park, masada, the great revolt, roman siege ramp, cli
 imageCredit: "Image by samirsmier on Pixabay"
 imageWidth: 1280
 imageHeight: 720
----
+---Salt-encrusted Secrets: how the Dead sea Reveals Ancient History is an area of archaeological investigation that has yielded significant findings about the ancient world.
 
-Salt-encrusted Secrets: how the Dead sea Reveals Ancient History is an area of archaeological investigation that has yielded significant findings about the ancient world.
+This topic is part of our [research on archaeological excavations](/research/excavations).
+
 
 What would it feel like to stand on the edge of a body of water so unique that it doesn't support life? The Dead Sea, known for its high salt content and striking geographical features, is a place where the barren earth meets extraordinary history. As you wander along its shores, you might stumble upon remnants of the pastartifacts that tell stories of ancient civilizations, sacred rituals, and a culture long faded but not forgotten. This conversation explores how the salty expanse reveals secrets, particularly those found in pottery, illuminating a fascinating intersection of archaeology, theology, and culture.
  
@@ -130,6 +131,12 @@ In this field where the earth is salt-laden, you find the sacredness of human ex
 ### Related Pilgrimage Guides
 
 - [Rabbi Nachman's Journey to Israel](/stories/rabbi-nachman-journey-to-israel)
+
+## Related Research
+
+Explore these related articles for deeper study:
+
+- [Unearthing Leadership: How Qumrans Ancient History Reveals](/research/biblical-archaeology/the-chosen-leader-unifying-the-scattered-around-the-qumran-collapsed-wall)
 
 ## Frequently Asked Questions
 

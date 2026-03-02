@@ -11,9 +11,10 @@ imageAlt: "a book, antiquariat, old books, used books, old, literature, worn, se
 imageCredit: "Image by ulleo on Pixabay"
 imageWidth: 1280
 imageHeight: 783
----
+---What is the Earliest Archaeological Evidence of the Bible? refers to a subject within biblical manuscript studies that scholars continue to investigate.
 
-What is the Earliest Archaeological Evidence of the Bible? refers to a subject within biblical manuscript studies that scholars continue to investigate.
+This topic is part of our [research on biblical scripture studies](/research/scripture).
+
 
 Comparable to a breadcrumb trail through history, the quest for the earliest archaeological evidence of the Bible reveals intriguing artifacts that shed light on ancient narratives.
 
@@ -66,6 +67,12 @@ The Zakkur Stele's connection to Hazael sheds light on the political landscape o
 ### Related Pilgrimage Guides
 
 - [Rabbi Nachman's Journey to Israel](/stories/rabbi-nachman-journey-to-israel)
+
+## Related Research
+
+Explore these related articles for deeper study:
+
+- [Are There any Archaeological Evidence of the Bible?](/research/scripture/are-there-any-archaeological-evidence-of-the-bible)
 
 ## Frequently Asked Questions
 

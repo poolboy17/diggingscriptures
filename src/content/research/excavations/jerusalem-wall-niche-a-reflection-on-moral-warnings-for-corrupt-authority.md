@@ -11,9 +11,10 @@ imageAlt: "mining excavator, electric, bucket wheel excavator, walking excavator
 imageCredit: "Image by xusenru on Pixabay"
 imageWidth: 1280
 imageHeight: 853
----
+---Unearthed Testament: Jerusalem Walls Powerful Message is an area of archaeological investigation that has yielded significant findings about the ancient world.
 
-Unearthed Testament: Jerusalem Walls Powerful Message is an area of archaeological investigation that has yielded significant findings about the ancient world.
+This topic is part of our [research on archaeological excavations](/research/excavations).
+
 
 What do you think of when you hear the words Jerusalem Wall Niche? Picture this: centuries of history layered in stone, echoes of faith and triumph mingling with cautionary tales about authority and corruption. In Jerusalem, every nook and cranny whispers stories, especially those connected to the famed walls. One such intriguing element is the Wall Niche, a structure that invites contemplation on moral failings, the essence of power, and the consequences that come with corruption.
  
@@ -125,6 +126,12 @@ In considering your place within society, remember that just like the materials 
 ### Related Pilgrimage Guides
 
 - [Jerusalem Old City: Sacred Pilgrimage Destination](/places/jerusalem-old-city)
+
+## Related Research
+
+Explore these related articles for deeper study:
+
+- [Exploring Ancient Jerusalem: Pilgrim Routes Unearthed](/research/excavations/exploring-ancient-jerusalem-pilgrim-routes-unearthed)
 
 ## Frequently Asked Questions
 

@@ -11,9 +11,10 @@ imageAlt: "pretty much, jerash, columns, roman, ancient, culture, story, histori
 imageCredit: "Image by ChiemSeherin on Pixabay"
 imageWidth: 1280
 imageHeight: 961
----
+---Ancient Jewish Cemetery Reveals Burial Rites is a topic in biblical archaeology that connects ancient material evidence with scriptual narratives.
 
-Ancient Jewish Cemetery Reveals Burial Rites is a topic in biblical archaeology that connects ancient material evidence with scriptual narratives.
+This topic is part of our [research on biblical archaeology](/research/biblical-archaeology).
+
 
 Have you ever wondered what ancient burial rites can tell us about past civilizations, particularly those with deep biblical connections? Unearthing ancient cemeteries often provides unique insights into the cultural and religious practices of the times. The recent discovery of an ancient Jewish cemetery has opened the doors to understanding the burial rites of this community, revealing both the customs of the past and the stories buried with them.
   
@@ -83,6 +84,12 @@ In sum, the exploration of this ancient Jewish cemetery has provided valuable in
 ### Related Pilgrimage Guides
 
 - [How Pilgrims Ascended the Temple Mount in Ancient Jerusalem](/routes/temple-mount-ascent)
+
+## Related Research
+
+Explore these related articles for deeper study:
+
+- [Ancient Jewish Quarter Reveals Temple era Commerce](/research/faith/ancient-jewish-quarter-reveals-temple-era-commerce)
 
 ## Frequently Asked Questions
 

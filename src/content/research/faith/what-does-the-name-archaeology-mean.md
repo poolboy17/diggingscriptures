@@ -11,9 +11,10 @@ imageAlt: "christ, icon, hagia sophia, istanbul, mosaic, ancient art, 13th centu
 imageCredit: "Image by gunthersimmermacher on Pixabay"
 imageWidth: 1280
 imageHeight: 960
----
+---What Does the Name Archaeology Mean? is a theological subject that explores the intersection of faith traditions and historical evidence.
 
-What Does the Name Archaeology Mean? is a theological subject that explores the intersection of faith traditions and historical evidence.
+This topic is part of our [research on faith and history](/research/faith).
+
 
 In a world where the term 'Archaeology' may seem shrouded in mystery and intrigue, its true essence lies in the meticulous unraveling of the past through tangible remnants left behind by ancient civilizations.
 
@@ -58,6 +59,13 @@ Archaeology is particularly essential in shaping our understanding of history th
 - **Archaeological Discoveries:** The discoveries made by archaeological expeditions contribute significantly to our knowledge of art, technology, religion, and economy in ancient civilizations, enriching our understanding of the past.
 
 Through the meticulous examination of material culture, the field of archaeology, as supported by institutions like the Archaeological Institute, plays an important role in preserving and interpreting the remnants of past societies, providing valuable insights into the cultural and societal impact of ancient civilizations.
+
+## Related Research
+
+Explore these related articles for deeper study:
+
+- [From Ruins to Revelation  What can Biblical Archaeology Teach us](/research/faith/biblical-archaeology-from-ruins-to-revelation)
+- [Inscriptions and Insights  how Does Biblical Archaeology](/research/faith/biblical-archaeology-illuminating-the-word-of-god)
 
 ## Frequently Asked Questions
 

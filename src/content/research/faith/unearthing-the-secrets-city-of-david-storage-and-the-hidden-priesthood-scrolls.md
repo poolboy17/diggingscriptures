@@ -11,9 +11,10 @@ imageAlt: "flooring, mosaic tile, wood, mosaic, tile, floor, pattern, design, ge
 imageCredit: "Image by shannonrphillips on Pixabay"
 imageWidth: 1280
 imageHeight: 853
----
+---Unlocking Ancient Scrolls: how TheyRe Transforming Faith is a theological subject that explores the intersection of faith traditions and historical evidence.
 
-Unlocking Ancient Scrolls: how TheyRe Transforming Faith is a theological subject that explores the intersection of faith traditions and historical evidence.
+This topic is part of our [research on faith and history](/research/faith).
+
 
 What if you could stumble upon relics from a civilization long lost, revealing secrets buried in the earth for centuries? The City of David, an archaeological gold mine located just outside the walls of Jerusalems Old City, is a site overflowing with history, much of it obscured by time and layers of sediment. Among its treasures, you might find references to the mysterious Priesthood Scrolls, documents that may challenge everything you thought you knew about the ancient world and its religious practices.
  
@@ -144,6 +145,12 @@ As you reflect on this knowledge, consider what these ancient practices and beli
 ### Related Pilgrimage Guides
 
 - [How Pilgrims Ascended the Temple Mount in Ancient Jerusalem](/routes/temple-mount-ascent)
+
+## Related Research
+
+Explore these related articles for deeper study:
+
+- [Unlocking Afterlife Mysteries: Decoding Ancient Scrolls in](/research/biblical-archaeology/exploring-the-city-of-david-cracks-insights-into-afterlife-discourse-on-tattered-scrolls)
 
 ## Frequently Asked Questions
 

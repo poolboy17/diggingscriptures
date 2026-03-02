@@ -11,9 +11,10 @@ imageAlt: "notre-dame cathedral, catholic, church, cathedral, dame, notre, paris
 imageCredit: "Image by dancepool on Pixabay"
 imageWidth: 1280
 imageHeight: 851
----
+---What do you think life was like for a group of people living in the shadows of the Dead Sea, hidden away in the rugged landscape of Qumran? Imagine a community so steeped in austerity, dedicating their days to study and ritual, where every whispered word carried the weight of their beliefs. This is not just an intriguing story but a lens through which you can glimpse the daily rhythms and profound ideals of a sect that lived over two thousand years ago.
 
-What do you think life was like for a group of people living in the shadows of the Dead Sea, hidden away in the rugged landscape of Qumran? Imagine a community so steeped in austerity, dedicating their days to study and ritual, where every whispered word carried the weight of their beliefs. This is not just an intriguing story but a lens through which you can glimpse the daily rhythms and profound ideals of a sect that lived over two thousand years ago.
+This topic is part of our [research on faith and history](/research/faith).
+
  
 
  
@@ -96,6 +97,12 @@ In this hustle of life, perhaps theres a resonating truth from Qumran: that ever
 ### Related Pilgrimage Guides
 
 - [Shikoku 88 Temple Pilgrimage: Historic Pilgrimage Route](/routes/shikoku-88-temples)
+
+## Related Research
+
+Explore these related articles for deeper study:
+
+- [Unearthing Ancient Wisdom: How Biblical Archaeology Reveals](/research/biblical-archaeology/windstorm-in-judean-valley-a-call-for-moral-renewal)
 
 ## Frequently Asked Questions
 

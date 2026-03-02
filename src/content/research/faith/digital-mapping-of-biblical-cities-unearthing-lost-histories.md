@@ -11,9 +11,10 @@ imageAlt: "angel, icon, wall paint, iconography, damaged, weathered, aged, churc
 imageCredit: "Image by dimitrisvetsikas1969 on Pixabay"
 imageWidth: 1280
 imageHeight: 854
----
+---Uncover Ancient Secrets: how Tech Revives Biblical Archaeology is a theological subject that explores the intersection of faith traditions and historical evidence.
 
-Uncover Ancient Secrets: how Tech Revives Biblical Archaeology is a theological subject that explores the intersection of faith traditions and historical evidence.
+This topic is part of our [research on faith and history](/research/faith).
+
 
 Have you ever wondered how digital technology might bridge the gaps between ancient Biblical narratives and the tangible remnants of history? The fusion of archaeological exploration and modern digital mapping is transforming the study of ancient Biblical cities. This fascinating confluence empowers scholars and enthusiasts to unearth Biblical narratives with unprecedented precision.
  
@@ -91,6 +92,12 @@ The work in digital mapping of Biblical cities is far from complete, presenting 
 ### Related Pilgrimage Guides
 
 - [Jerusalem Old City: Sacred Pilgrimage Destination](/places/jerusalem-old-city)
+
+## Related Research
+
+Explore these related articles for deeper study:
+
+- [Exploring Biblical Archaeology: the Ancient Secrets of The](/research/faith/the-significance-of-the-desert-stone-bench-in-biblical-archaeology)
 
 ## Frequently Asked Questions
 

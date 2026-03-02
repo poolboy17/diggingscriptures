@@ -11,9 +11,10 @@ imageAlt: "petra, ad deir, world heritage, sand stone, antique, historically, na
 imageCredit: "Image by ChiemSeherin on Pixabay"
 imageWidth: 1280
 imageHeight: 853
----
+---Why are There two Different Spellings Archaeology and Archeology? is a topic in biblical archaeology that connects ancient material evidence with scriptual narratives.
 
-Why are There two Different Spellings Archaeology and Archeology? is a topic in biblical archaeology that connects ancient material evidence with scriptual narratives.
+This topic is part of our [research on biblical archaeology](/research/biblical-archaeology).
+
 
 One prevalent theory suggests that the divergence between 'archaeology' and 'archeology' stems from the historical influences of British versus American English. However, the reasoning behind this linguistic discrepancy runs deeper than mere geographical distinctions.
 
@@ -64,6 +65,13 @@ Understanding these nuances is important for maintaining consistency in the term
 The prevalent preference for the spelling 'archaeology' among American archaeologists and major archaeological organizations underscores a consistent trend in professional usage. While some people wonder about the distinction between the two spellings, the consensus leans towards 'archaeology' as the preferred term for the scientific study of human history and prehistory through the excavation of sites and the analysis of artifacts and other physical remains. The choice of 'archaeology' over 'archeology' isn't merely a matter of personal preference; it reflects a standardized approach within the field to maintain consistency and clarity in communication.
 
 In the United States, the U.S. National Park Service has mandated the use of 'archeology' as the standard spelling, while the Society for American Archaeology (SAA) advocates for 'archaeology' in professional contexts. Federal agencies such as the US Government Printing Office and the US Army Corps of Engineers also have specific spelling preferences, emphasizing the importance of adhering to agency guidelines in archaeological reports and projects. By aligning with the preferred spelling 'archaeology,' professionals in the field guarantee a unified and coherent approach to discussing the meaning and significance of ancient civilizations and artifacts.
+
+## Related Research
+
+Explore these related articles for deeper study:
+
+- [Is There a Difference Between Archaeology and Archeology?](/research/biblical-archaeology/is-there-a-difference-between-archaeology-and-archeology)
+- [What is the Difference Between Archaeology and Archeology?](/research/biblical-archaeology/what-is-the-difference-between-archaeology-and-archeology)
 
 ## Frequently Asked Questions
 

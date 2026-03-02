@@ -11,9 +11,10 @@ imageAlt: "masada national park, masada, the great revolt, roman siege ramp, cli
 imageCredit: "Image by samirsmier on Pixabay"
 imageWidth: 1280
 imageHeight: 720
----
+---In the intricate layers of academic pursuits, the question lingers: are archaeology degrees worth the excavation?
 
-In the intricate layers of academic pursuits, the question lingers: are archaeology degrees worth the excavation?
+This topic is part of our [research on biblical archaeology](/research/biblical-archaeology).
+
 
 The answer lies in the delicate balance of weighing the intrinsic value of knowledge against the practicality of career prospects. As the discussion unfolds, perspectives on job market trends, earning potential, academic challenges, skill acquisition, and personal fulfillment in the domain of archaeology degrees will shed light on the path ahead for aspiring archaeologists.
 
@@ -67,6 +68,13 @@ The profound connection individuals establish with the past through their archae
 - **Connection to History:** Developing a profound connection to historical artifacts and sites can be emotionally fulfilling. It allows archaeologists to feel a sense of continuity with the past, fostering a deep appreciation for the complexities of human civilization.
 - **Contributing to Understanding:** Being able to contribute to the understanding of history and sharing those discoveries with the world brings a unique sense of fulfillment. Archaeologists take pride in unraveling the stories of ancient societies and making them accessible to others.
 - **Alignment with Personal Values:** For many individuals passionate about archaeology, pursuing this field aligns with their core values and interests. The fulfillment derived from following one's passion often outweighs any potential financial considerations.
+
+## Related Research
+
+Explore these related articles for deeper study:
+
+- [Is There a Difference Between Archaeology and Archeology?](/research/biblical-archaeology/is-there-a-difference-between-archaeology-and-archeology)
+- [What is the Course on Biblical Archeology?](/research/biblical-archaeology/what-is-the-course-on-biblical-archeology)
 
 ## Frequently Asked Questions
 

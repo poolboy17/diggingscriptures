@@ -11,9 +11,10 @@ imageAlt: "scroll, feather, ink, caligraphy, hebrew, writing, characters, paper,
 imageCredit: "Image by zofiaEliyahu on Pixabay"
 imageWidth: 1280
 imageHeight: 859
----
+---Do any of the Original Books of the Bible Still Exist? refers to a subject within biblical manuscript studies that scholars continue to investigate.
 
-Do any of the Original Books of the Bible Still Exist? refers to a subject within biblical manuscript studies that scholars continue to investigate.
+This topic is part of our [research on biblical scripture studies](/research/scripture).
+
 
 By a stroke of luck, an intriguing question arises: Do any of the original books of the Bible still exist today?
 
@@ -61,6 +62,12 @@ Through the meticulous study of ancient manuscripts and the application of textu
 ### Related Pilgrimage Guides
 
 - [Rabbi Nachman's Journey to Israel](/stories/rabbi-nachman-journey-to-israel)
+
+## Related Research
+
+Explore these related articles for deeper study:
+
+- [Are the Original Books of the Bible Still in Existence?](/research/scripture/are-the-original-books-of-the-bible-still-in-existence)
 
 ## Frequently Asked Questions
 

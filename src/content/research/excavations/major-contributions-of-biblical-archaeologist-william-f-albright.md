@@ -11,9 +11,10 @@ imageAlt: "mountain, erosion, death valley, desert, dry, drought, rock formation
 imageCredit: "Image by jplenio on Pixabay"
 imageWidth: 1280
 imageHeight: 720
----
+---Major Contributions of Biblical Archaeologist William f. Albright is an area of archaeological investigation that has yielded significant findings about the ancient world.
 
-Major Contributions of Biblical Archaeologist William f. Albright is an area of archaeological investigation that has yielded significant findings about the ancient world.
+This topic is part of our [research on archaeological excavations](/research/excavations).
+
 
 In the world of Biblical archaeology, the name William F. Albright stands tall for his remarkable contributions. With a keen eye and unwavering dedication, Albright has unearthed countless treasures that shed light on the ancient civilizations mentioned in the Bible. From deciphering inscriptions to confirming Biblical narratives, his work has revolutionized our understanding of the historical context of the Bible. Through his meticulous research and groundbreaking discoveries, Albright has left an indelible mark on the field, forever shaping our knowledge of the ancient world.
 
@@ -162,6 +163,12 @@ Despite the critiques and controversies surrounding his work, there is no denyin
 ### Related Pilgrimage Guides
 
 - [Rabbi Nachman's Journey to Israel](/stories/rabbi-nachman-journey-to-israel)
+
+## Related Research
+
+Explore these related articles for deeper study:
+
+- [Kathleen Kenyon's Contributions to Biblical Archaeology](/research/excavations/kathleen-kenyons-contributions-to-biblical-archaeology)
 
 ## Frequently Asked Questions
 

@@ -11,9 +11,10 @@ imageAlt: "architecture, ceiling, rome, rome, rome, rome, rome, rome"
 imageCredit: "Image by raffalel on Pixabay"
 imageWidth: 1280
 imageHeight: 853
----
+---In the fascinating world of biblical archaeology, uncovering hidden treasures and artifacts from ancient times is an art in itself. Through meticulous excavation and careful examination of ancient sites, researchers and archaeologists have been able to unearth remarkable relics that shed light on the people, places, and events depicted in the bible. From ancient manuscripts and clay tablets to ancient temples and pottery, the study of biblical archaeology offers a captivating journey into the past, revealing countless hidden treasures waiting to be discovered.
 
-In the fascinating world of biblical archaeology, uncovering hidden treasures and artifacts from ancient times is an art in itself. Through meticulous excavation and careful examination of ancient sites, researchers and archaeologists have been able to unearth remarkable relics that shed light on the people, places, and events depicted in the bible. From ancient manuscripts and clay tablets to ancient temples and pottery, the study of biblical archaeology offers a captivating journey into the past, revealing countless hidden treasures waiting to be discovered.
+This topic is part of our [research on faith and history](/research/faith).
+
 
 ## The Importance of Biblical Archaeology
 
@@ -164,6 +165,12 @@ Engaging in open dialogue between scientists and religious communities is essent
 ### Related Pilgrimage Guides
 
 - [How Pilgrims Ascended the Temple Mount in Ancient Jerusalem](/routes/temple-mount-ascent)
+
+## Related Research
+
+Explore these related articles for deeper study:
+
+- [Discovering Angels in Biblical Archaeology: The En Gedi](/research/biblical-archaeology/angels-in-the-desert-the-en-gedi-stone-arch-and-its-significance)
 
 ## Frequently Asked Questions
 

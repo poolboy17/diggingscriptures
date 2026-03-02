@@ -11,9 +11,10 @@ imageAlt: "baptism, candle, decoration, christianity, religious, cross, symbol, 
 imageCredit: "Image by karoligraphics on Pixabay"
 imageWidth: 1280
 imageHeight: 853
----
+---Unraveling the Controversy: Biblical Archaeology's Debated is a theological subject that explores the intersection of faith traditions and historical evidence.
 
-Unraveling the Controversy: Biblical Archaeology's Debated is a theological subject that explores the intersection of faith traditions and historical evidence.
+This topic is part of our [research on faith and history](/research/faith).
+
 
 Unraveling the Controversy: Biblical Archaeology's Debated Findings takes readers on an intriguing journey through the tangled web of controversies surrounding the field of biblical archaeology. From disputed artifact interpretations to differing historical narratives, this article uncovers the heated debates that have shaped our understanding of ancient biblical civilizations. Delving into the heart of these controversies, it explores the clash of perspectives within the archaeological community and the implications these debates have for our knowledge of biblical history. Whether one is a scholar, a history enthusiast, or simply curious about the mysteries of the past, this article offers an engaging exploration of biblical archaeology's most debated findings.
 
@@ -172,6 +173,12 @@ Addressing the biases and limitations of prior research is an ongoing challenge 
 ### Related Pilgrimage Guides
 
 - [Rabbi Nachman's Journey to Israel](/stories/rabbi-nachman-journey-to-israel)
+
+## Related Research
+
+Explore these related articles for deeper study:
+
+- [Exploring Biblical Archaeology: Unraveling Ancient History](/research/faith/date-palm-crevice-a-sanctuary-of-faith)
 
 ## Frequently Asked Questions
 

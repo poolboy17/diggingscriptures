@@ -11,9 +11,10 @@ imageAlt: "pray, buddha statue, measure, religion, buddhism, asia, prayer, relig
 imageCredit: "Image by setthayos on Pixabay"
 imageWidth: 1280
 imageHeight: 854
----
+---Mountaintop Shrine: the Sacred Journey in Biblical Archaeology is a theological subject that explores the intersection of faith traditions and historical evidence.
 
-Mountaintop Shrine: the Sacred Journey in Biblical Archaeology is a theological subject that explores the intersection of faith traditions and historical evidence.
+This topic is part of our [research on faith and history](/research/faith).
+
 
 What would drive someone to scale treacherous mountains and traverse rugged landscapes in search of echoes from a divine past? If youre curious about this, you might be tapping into the timeless human quest for connection with that which transcends mundane existence. The allure of sacred places has beckoned pilgrims for centuries, and one such destination is the Mountaintop Shrine, where seekers hope to find traces of the Ark of the Covenants holiness.
  
@@ -175,6 +176,12 @@ Your personal pilgrimage becomes a way to intertwine stories, histories, and asp
 ### Related Pilgrimage Guides
 
 - [How Pilgrims Ascended the Temple Mount in Ancient Jerusalem](/routes/temple-mount-ascent)
+
+## Related Research
+
+Explore these related articles for deeper study:
+
+- [Journey into Biblical Archaeology: Unearthing joy in Ancient](/research/biblical-archaeology/joyous-festival-processions-at-the-city-sewer-grate-chamber)
 
 ## Frequently Asked Questions
 

@@ -11,9 +11,10 @@ imageAlt: "excavator, construction machine, two-way excavator, gripper, site, co
 imageCredit: "Image by Tama66 on Pixabay"
 imageWidth: 1280
 imageHeight: 954
----
+---In the world of biblical archaeology, there are several renowned individuals who have made significant discoveries. From unearthing ancient artifacts to deciphering ancient texts, these archaeologists have shed light on the historical context of biblical events. With their meticulous excavations and extensive research, they have pieced together fragments of the past, providing valuable insights into the lives and cultures of our ancestors. This article takes a closer look at some of these famous biblical archaeologists and the contributions they have made to the field.
 
-In the world of biblical archaeology, there are several renowned individuals who have made significant discoveries. From unearthing ancient artifacts to deciphering ancient texts, these archaeologists have shed light on the historical context of biblical events. With their meticulous excavations and extensive research, they have pieced together fragments of the past, providing valuable insights into the lives and cultures of our ancestors. This article takes a closer look at some of these famous biblical archaeologists and the contributions they have made to the field.
+This topic is part of our [research on biblical archaeology](/research/biblical-archaeology).
+
 
 ## Heading 1: Introduction
 
@@ -74,6 +75,12 @@ Archaeological digs across the Middle East, particularly in Israel and Jordan, c
 ### Related Pilgrimage Guides
 
 - [Jerusalem Old City: Sacred Pilgrimage Destination](/places/jerusalem-old-city)
+
+## Related Research
+
+Explore these related articles for deeper study:
+
+- [10 Famous Biblical Archaeologists you Should Know](/research/excavations/10-famous-biblical-archaeologists-you-should-know)
 
 ## Frequently Asked Questions
 

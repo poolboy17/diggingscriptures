@@ -11,9 +11,10 @@ imageAlt: "architecture, old, stone, ancient, building, historic, antique, facad
 imageCredit: "Image by jeh6 on Pixabay"
 imageWidth: 1280
 imageHeight: 853
----
+---Unveiling Temple Tools in Biblical Archaeology is an area of archaeological investigation that has yielded significant findings about the ancient world.
 
-Unveiling Temple Tools in Biblical Archaeology is an area of archaeological investigation that has yielded significant findings about the ancient world.
+This topic is part of our [research on archaeological excavations](/research/excavations).
+
 
 Have you ever wondered about the tools used in ancient temples and how they contribute to our understanding of biblical history? The field of biblical archaeology provides a fascinating window into the past, offering insights into the everyday and sacred practices of civilizations from thousands of years ago. By examining temple tools, we unveil myriad secrets embedded within these ancient artifacts, connecting them to the stories and settings of the scriptures.
  
@@ -93,6 +94,12 @@ As we hold these artifacts in our present, we are reminded of the delicate balan
 ### Related Pilgrimage Guides
 
 - [How Pilgrims Ascended the Temple Mount in Ancient Jerusalem](/routes/temple-mount-ascent)
+
+## Related Research
+
+Explore these related articles for deeper study:
+
+- [Excavations Unveiling Biblical Archaeology](/research/excavations/excavations-unveiling-biblical-archaeology)
 
 ## Frequently Asked Questions
 

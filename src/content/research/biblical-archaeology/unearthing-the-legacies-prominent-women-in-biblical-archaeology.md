@@ -11,9 +11,10 @@ imageAlt: "egypt, temple, hieroglyphics, pharaoh, egyptian temple, travel, statu
 imageCredit: "Image by NadineDoerle on Pixabay"
 imageWidth: 1280
 imageHeight: 850
----
+---Unearthing the Legacies: Prominent Women in Biblical Archaeology is a captivating article that sheds light on the remarkable women who have made significant contributions to the field of biblical archaeology. Through their unwavering dedication and groundbreaking discoveries, these women have unearthed truths and insights that have forever transformed our understanding of ancient civilizations and biblical texts. This article pays tribute to their invaluable work, highlighting their extraordinary achievements and the legacies they have left behind.
 
-Unearthing the Legacies: Prominent Women in Biblical Archaeology is a captivating article that sheds light on the remarkable women who have made significant contributions to the field of biblical archaeology. Through their unwavering dedication and groundbreaking discoveries, these women have unearthed truths and insights that have forever transformed our understanding of ancient civilizations and biblical texts. This article pays tribute to their invaluable work, highlighting their extraordinary achievements and the legacies they have left behind.
+This topic is part of our [research on biblical archaeology](/research/biblical-archaeology).
+
 
 ## Early Pioneers in Biblical Archaeology
 
@@ -128,6 +129,12 @@ Efforts are being made to inspire and support young women in pursuing careers in
 ### Related Pilgrimage Guides
 
 - [Rabbi Nachman's Journey to Israel](/stories/rabbi-nachman-journey-to-israel)
+
+## Related Research
+
+Explore these related articles for deeper study:
+
+- [Biblical Archaeology Revelations: Unearthing Ancient Truths](/research/biblical-archaeology/biblical-archaeology-revelations-unearthing-ancient-truths)
 
 ## Frequently Asked Questions
 

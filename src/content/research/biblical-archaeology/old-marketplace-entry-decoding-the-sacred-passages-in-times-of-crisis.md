@@ -11,9 +11,10 @@ imageAlt: "archaeology, city, petra, jordan, historical site, landscape, petra, 
 imageCredit: "Image by StockSnap on Pixabay"
 imageWidth: 1280
 imageHeight: 854
----
+---Unearth Ancient Wisdom: Navigating Modern Crises with Sacred is a topic in biblical archaeology that connects ancient material evidence with scriptual narratives.
 
-Unearth Ancient Wisdom: Navigating Modern Crises with Sacred is a topic in biblical archaeology that connects ancient material evidence with scriptual narratives.
+This topic is part of our [research on biblical archaeology](/research/biblical-archaeology).
+
 
 Have you ever found yourself wandering through the pages of history, wondering how ancient wisdom applies to our tumultuous times? Its a journey that leads us not just through archaeology but into the hearts and minds of those who faced crises far greater than a fleeting moment. In interpreting sacred passages, we reveal doors to understandingespecially during times of turmoil.
  
@@ -130,6 +131,12 @@ In wrapping up, driving home the importance of these sacred insights can provide
 ### Related Pilgrimage Guides
 
 - [Jerusalem Old City: Sacred Pilgrimage Destination](/places/jerusalem-old-city)
+
+## Related Research
+
+Explore these related articles for deeper study:
+
+- [Unearth Secrets of Ancient Temples: a Journey into Biblical](/research/biblical-archaeology/biblical-archaeology-discovering-ancient-temple-sites)
 
 ## Frequently Asked Questions
 

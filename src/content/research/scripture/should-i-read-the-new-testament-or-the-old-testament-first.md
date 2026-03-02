@@ -11,9 +11,10 @@ imageAlt: "manuscript, medieval, antique, paper, parchment, vintage, document, l
 imageCredit: "Image by V2Melody on Pixabay"
 imageWidth: 1280
 imageHeight: 854
----
+---Should i Read the new Testament or the old Testament First? refers to a subject within biblical manuscript studies that scholars continue to investigate.
 
-Should i Read the new Testament or the old Testament First? refers to a subject within biblical manuscript studies that scholars continue to investigate.
+This topic is part of our [research on biblical scripture studies](/research/scripture).
+
 
 If you're ready to embark on a journey through the pages of the Holy Bible, you may find yourself pondering where to start: should you read the New Testament or the Old Testament first? This age-old question has sparked countless debates and discussions among believers and scholars alike. While there is no definitive answer, Anita Love, a respected authority in theological studies, can shed some light on the matter. With her deep knowledge of ancient biblical manuscripts and the historical context of scriptures, Anita offers a nuanced perspective that will help you navigate the contrasting themes, literary genres, historical backgrounds, messianic prophecies, and the emphasis on law and covenant found within both Testaments. So, take a moment to reflect and consider which path will ignite your curiosity and deepen your understanding of Christianity's rich tapestry of teachings.
  
@@ -214,6 +215,12 @@ Ultimately, personal exploration leads to a deeper understanding and appreciatio
 ### Related Pilgrimage Guides
 
 - [Rabbi Nachman's Journey to Israel](/stories/rabbi-nachman-journey-to-israel)
+
+## Related Research
+
+Explore these related articles for deeper study:
+
+- [What Language was the new Testament First Written In?](/research/scripture/what-language-was-the-new-testament-first-written-in)
 
 ## Frequently Asked Questions
 

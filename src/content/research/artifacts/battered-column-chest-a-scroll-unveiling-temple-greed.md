@@ -11,9 +11,10 @@ imageAlt: "cents, coins, currency, cash, money, wealth, finance, loose change, c
 imageCredit: "Image by stux on Pixabay"
 imageWidth: 1280
 imageHeight: 990
----
+---Unveiling Temple Greed: The Ancient Scroll of the Battered refers to ancient material remains that provide physical evidence for understanding biblical history.
 
-Unveiling Temple Greed: The Ancient Scroll of the Battered refers to ancient material remains that provide physical evidence for understanding biblical history.
+This topic is part of our [research on ancient artifacts](/research/artifacts).
+
 
 What drives people to risk everything for wealth, power, and status, especially when such pursuits can lead to ruin?
  
@@ -127,6 +128,12 @@ As you step back and consider the implications of this exploration, remember tha
 ### Related Pilgrimage Guides
 
 - [How Pilgrims Ascended the Temple Mount in Ancient Jerusalem](/routes/temple-mount-ascent)
+
+## Related Research
+
+Explore these related articles for deeper study:
+
+- [Unveiling Jerusalem's Temple: a Revealing Scan of Ancient](/research/biblical-archaeology/discovering-history-the-temple-mount-scanning-project)
 
 ## Frequently Asked Questions
 

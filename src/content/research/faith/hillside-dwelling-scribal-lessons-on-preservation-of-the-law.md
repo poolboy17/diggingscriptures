@@ -11,9 +11,10 @@ imageAlt: "architecture, ceiling, rome, rome, rome, rome, rome, rome"
 imageCredit: "Image by raffalel on Pixabay"
 imageWidth: 1280
 imageHeight: 853
----
+---Uncover Ancient Secrets: How Scribes Preserved Law in is a theological subject that explores the intersection of faith traditions and historical evidence.
 
-Uncover Ancient Secrets: How Scribes Preserved Law in is a theological subject that explores the intersection of faith traditions and historical evidence.
+This topic is part of our [research on faith and history](/research/faith).
+
 
 What do you think about the concept of preserving ancient laws? It's fascinating to consider how much effort and care went into safeguarding these guidelines, especially in the context of history where every word counted. Hillside dwellings, often associated with ancient scribes, serve as a remarkable backdrop for this exploration. Let's take a closer look at how these structures connect to the preservation of laws, with a dash of wit and insight.
  
@@ -199,6 +200,12 @@ As we reflect on the scribes' dedication and the various cultural practices of l
 ### Related Pilgrimage Guides
 
 - [Rabbi Nachman's Journey to Israel](/stories/rabbi-nachman-journey-to-israel)
+
+## Related Research
+
+Explore these related articles for deeper study:
+
+- [Unlocking Ancient Secrets: How Qumran Scribes Preserved](/research/excavations/unveiling-qumran-sublevel-a-study-of-generational-text-preservation-methods)
 
 ## Frequently Asked Questions
 

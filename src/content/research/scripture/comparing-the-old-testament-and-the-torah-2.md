@@ -11,9 +11,10 @@ imageAlt: "diary, ipad, write, blog, workplace, notebook, coffee mug, mockup, di
 imageCredit: "Image by Edar on Pixabay"
 imageWidth: 1280
 imageHeight: 960
----
+---Comparing the old Testament and the Torah refers to a subject within biblical manuscript studies that scholars continue to investigate.
 
-Comparing the old Testament and the Torah refers to a subject within biblical manuscript studies that scholars continue to investigate.
+This topic is part of our [research on biblical scripture studies](/research/scripture).
+
 
 In her extensive body of work, Anita Love, a respected authority on Christianity and its historical foundations, delves into the depths of the Old Testament narratives and their contemporary relevance. With a Ph.D. in Theology and a Master's in Religious Studies, Anita brings a nuanced perspective to her study of ancient biblical manuscripts, exploring the authenticity of religious teachings and the historical accuracy of scriptural events. Her impressive insights into the role of cultural context in interpreting scriptures and the divine inspiration behind the canonization process have earned her recognition in ecumenical circles. With a dedication to honoring the diversity of Christian denominations, belief systems, and lifestyles, Anita's scholarship invites readers to explore the similarities and differences between the Old Testament and the Torah, shedding light on the question: Is the Old Testament and the Torah the same?
  
@@ -478,6 +479,12 @@ As individuals and communities engage with the Old Testament and the Torah, gain
 ### Related Pilgrimage Guides
 
 - [How Pilgrims Ascended the Temple Mount in Ancient Jerusalem](/routes/temple-mount-ascent)
+
+## Related Research
+
+Explore these related articles for deeper study:
+
+- [Comparing old Testament and new Testament Themes](/research/scripture/comparing-old-testament-and-new-testament-themes)
 
 ## Frequently Asked Questions
 

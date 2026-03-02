@@ -11,9 +11,10 @@ imageAlt: "manuscript, medieval, antique, paper, parchment, vintage, document, l
 imageCredit: "Image by V2Melody on Pixabay"
 imageWidth: 1280
 imageHeight: 854
----
+---As the saying goes, 'All roads lead to Rome,' but when it comes to the Bible's origins, the path is not as straightforward.
 
-As the saying goes, 'All roads lead to Rome,' but when it comes to the Bible's origins, the path is not as straightforward.
+This topic is part of our [research on biblical scripture studies](/research/scripture).
+
 
 The question of where the Bible was originally found sparks a fascinating journey through ancient texts, archaeological sites, and historical mysteries. Unraveling the intricate web of clues left by centuries-old manuscripts and scrolls offers a glimpse into the rich tapestry of history intertwined with the sacred scriptures.
 
@@ -66,6 +67,12 @@ These artifacts and texts provide tangible evidence of the early stages of bibli
 ### Related Pilgrimage Guides
 
 - [How Pilgrims Ascended the Temple Mount in Ancient Jerusalem](/routes/temple-mount-ascent)
+
+## Related Research
+
+Explore these related articles for deeper study:
+
+- [Have the Original Books of the Bible Been Found?](/research/scripture/have-the-original-books-of-the-bible-been-found)
 
 ## Frequently Asked Questions
 

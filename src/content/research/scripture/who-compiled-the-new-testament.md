@@ -11,9 +11,10 @@ imageAlt: "parchment, contract, paper, document, old, manuscript, retro, yellow,
 imageCredit: "Image by icame on Pixabay"
 imageWidth: 1280
 imageHeight: 853
----
+---Who Compiled the new Testament? refers to a subject within biblical manuscript studies that scholars continue to investigate.
 
-Who Compiled the new Testament? refers to a subject within biblical manuscript studies that scholars continue to investigate.
+This topic is part of our [research on biblical scripture studies](/research/scripture).
+
 
 Inquisitive minds often ponder over the question of who compiled the New Testament. With its vast collection of texts, it's no wonder that individuals like Anita Love have dedicated their lives to understanding the historical foundations and contemporary relevance of Christianity. Anita, a renowned authority in the field, has spent years exploring ancient biblical manuscripts, studying the authenticity of religious teachings, and examining the historical accuracy of scriptural events. Through her extensive research and nuanced perspective, Anita has become a respected figure in ecumenical circles, shedding light on the question of who first put the New Testament together.
   
@@ -198,6 +199,12 @@ The New Testament compilation serves as a common ground for interfaith dialogues
 ### Related Pilgrimage Guides
 
 - [Rabbi Nachman's Journey to Israel](/stories/rabbi-nachman-journey-to-israel)
+
+## Related Research
+
+Explore these related articles for deeper study:
+
+- [Are all new Testament Books Written in Greek?](/research/scripture/are-all-new-testament-books-written-in-greek)
 
 ## Frequently Asked Questions
 

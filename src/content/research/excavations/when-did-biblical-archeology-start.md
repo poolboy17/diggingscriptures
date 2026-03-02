@@ -11,9 +11,10 @@ imageAlt: "greece, parthenon, temple, ruins, building, architecture, pillars, co
 imageCredit: "Image by nonbirinonko on Pixabay"
 imageWidth: 1280
 imageHeight: 852
----
+---When did Biblical Archeology Start? is an area of archaeological investigation that has yielded significant findings about the ancient world.
 
-When did Biblical Archeology Start? is an area of archaeological investigation that has yielded significant findings about the ancient world.
+This topic is part of our [research on archaeological excavations](/research/excavations).
+
 
 Coincidentally, the origins of Biblical archaeology trace back to a pivotal period in the 19th century, sparked by a growing interest in unraveling the historical contexts of biblical accounts.
 
@@ -64,6 +65,12 @@ The impact of biblical archaeology on modern archaeological practices extends be
 ### Related Pilgrimage Guides
 
 - [Shikoku 88 Temple Pilgrimage: Historic Pilgrimage Route](/routes/shikoku-88-temples)
+
+## Related Research
+
+Explore these related articles for deeper study:
+
+- [What is the Science of Biblical Archeology?](/research/excavations/what-is-the-science-of-biblical-archeology)
 
 ## Frequently Asked Questions
 

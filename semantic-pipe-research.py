@@ -22,6 +22,11 @@ from datetime import datetime
 from pathlib import Path
 from concurrent.futures import ThreadPoolExecutor, as_completed
 
+# Internal linker integration (lazy import to avoid circular deps)
+def _get_linker():
+    import internal_linker
+    return internal_linker
+
 SPEC_VERSION = "DiggingScriptures-Research-2.1"
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 RESEARCH_DIR = os.path.join(BASE_DIR, "src", "content", "research")
@@ -709,7 +714,7 @@ def load_inventory():
 
 
 # ── Core Optimizer (v2.0 with multi-layer scoring) ──────────
-def optimize_article(slug, data, dry_run=False, show_diff=False, audit_only=False, aeo_harden=False, fix_openers=False, regen_faq=False):
+def optimize_article(slug, data, dry_run=False, show_diff=False, audit_only=False, aeo_harden=False, fix_openers=False, regen_faq=False, fix_links=False):
     filepath = data['filepath']
     category = data['category']
     fm = copy.deepcopy(data['fm'])
@@ -744,6 +749,12 @@ def optimize_article(slug, data, dry_run=False, show_diff=False, audit_only=Fals
         if fix_openers:
             body, oc = harden_opener(body, fm.get('title', ''), category)
             changes.extend(oc)
+
+        # 6. Internal link injection — add hub links + Related Research
+        if fix_links:
+            linker = _get_linker()
+            body, lc = linker.fix_links_for_body(slug, body, category)
+            changes.extend(lc)
 
     # 5. Legacy semantic scores
     plain = strip_markdown(body)
@@ -809,22 +820,30 @@ def optimize_article(slug, data, dry_run=False, show_diff=False, audit_only=Fals
 
 
 # ── Pipeline Runner (v2.0 with grade distribution) ──────────
-def run_pipeline(slugs, articles, threads=4, dry_run=False, show_diff=False, audit_only=False, aeo_harden=False, fix_openers=False, regen_faq=False):
+def run_pipeline(slugs, articles, threads=4, dry_run=False, show_diff=False, audit_only=False, aeo_harden=False, fix_openers=False, regen_faq=False, fix_links=False):
     print(f"\n{'='*70}")
     print(f"SemanticPipe v2.1 — Research Edition")
     mode = 'AUDIT' if audit_only else 'DRY' if dry_run else 'LIVE'
     if aeo_harden: mode += '+AEO'
     if fix_openers: mode += '+OPENER'
     if regen_faq: mode += '+REGEN_FAQ'
+    if fix_links: mode += '+LINKS'
     print(f"Articles: {len(slugs)} | Threads: {threads} | Mode: {mode}")
     print(f"{'='*70}\n")
+
+    # Pre-build internal linker inventory if needed (must be done before threading)
+    if fix_links:
+        print("  Building internal link inventory...")
+        linker = _get_linker()
+        linker.get_inventory(force_rebuild=True)
+        print("  Link inventory ready.")
 
     saved, errors = [], []
     start = datetime.now()
 
     def process(slug):
         try:
-            return optimize_article(slug, articles[slug], dry_run, show_diff, audit_only, aeo_harden, fix_openers, regen_faq)
+            return optimize_article(slug, articles[slug], dry_run, show_diff, audit_only, aeo_harden, fix_openers, regen_faq, fix_links)
         except Exception as e:
             return {'slug': slug, 'status': 'ERROR', 'error': str(e), 'changes': [],
                     'grade': {'grade': '?', 'pct': 0}}
@@ -934,6 +953,7 @@ def main():
     parser.add_argument('--aeo-harden', action='store_true', help='Inject FAQ sections for AEO')
     parser.add_argument('--fix-openers', action='store_true', help='Harden weak opening paragraphs')
     parser.add_argument('--regen-faq', action='store_true', help='Strip and regenerate all FAQ sections with body-aware content')
+    parser.add_argument('--fix-links', action='store_true', help='Inject internal links (hub links + Related Research)')
     parser.add_argument('--all', action='store_true', help='Process all articles')
     parser.add_argument('--force', action='store_true', help='Re-optimize everything')
     parser.add_argument('--diff', action='store_true', help='Show before/after')
@@ -975,7 +995,8 @@ def main():
     run_pipeline(slugs, articles, threads=args.threads,
                  dry_run=args.dry_run, show_diff=args.diff,
                  audit_only=args.audit_only, aeo_harden=args.aeo_harden,
-                 fix_openers=args.fix_openers, regen_faq=args.regen_faq)
+                 fix_openers=args.fix_openers, regen_faq=args.regen_faq,
+                 fix_links=args.fix_links)
 
 if __name__ == '__main__':
     main()

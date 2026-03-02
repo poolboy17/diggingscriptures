@@ -11,9 +11,10 @@ imageAlt: "monk, pilgrimage, path, sunset, pilgrim, walk, road, enlightenment, t
 imageCredit: "Image by josealbafotos on Pixabay"
 imageWidth: 1280
 imageHeight: 854
----
+---Unearth Ancient Secrets: The Jordan Slope Stones Echo of Psalms is a theological subject that explores the intersection of faith traditions and historical evidence.
 
-Unearth Ancient Secrets: The Jordan Slope Stones Echo of Psalms is a theological subject that explores the intersection of faith traditions and historical evidence.
+This topic is part of our [research on faith and history](/research/faith).
+
 
 What do you imagine when you think of ancient texts whispering their secrets across the ages? Perhaps you consider the Psalmic verses that have transcended time, echoing through history and leaving behind traces in the most unexpected places. What if I told you that the Jordan Slope Stone offers a glimpse into that very echo?
  
@@ -119,6 +120,12 @@ In the end, the Jordan Slope Stone stands as a beautiful testament to the aspira
 ### Related Pilgrimage Guides
 
 - [Rabbi Nachman's Journey to Israel](/stories/rabbi-nachman-journey-to-israel)
+
+## Related Research
+
+Explore these related articles for deeper study:
+
+- [Ancient Secrets Revealed: Uncovering Jordan's Collapsed Tower](/research/faith/unveiling-the-mystery-of-the-collapsed-tower-over-jordan-a-liberation-fragments-significance)
 
 ## Frequently Asked Questions
 

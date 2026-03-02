@@ -11,9 +11,10 @@ imageAlt: "pottery shard, clay pot, shard, burning clay, craft, burma, myanmar"
 imageCredit: "Image by thomaspedrazzoli on Pixabay"
 imageWidth: 1280
 imageHeight: 1280
----
+---In the vast tapestry of ancient texts, the quest to uncover the oldest biblical manuscripts is akin to unraveling layers of history. The Nash Papyrus and the Dead Sea Scrolls offer glimpses into the distant past, shedding light on the evolution of biblical texts.
 
-In the vast tapestry of ancient texts, the quest to uncover the oldest biblical manuscripts is akin to unraveling layers of history. The Nash Papyrus and the Dead Sea Scrolls offer glimpses into the distant past, shedding light on the evolution of biblical texts.
+This topic is part of our [research on biblical archaeology](/research/biblical-archaeology).
+
 
 Yet, these are just fragments of a larger puzzle waiting to be explore further. As scholars unearth more artifacts and explore further into the mysteries of antiquity, what other treasures lie hidden, waiting to reveal their secrets?
 
@@ -60,6 +61,12 @@ Moving on to the New Covenant, the oldest fragment is P52, known as the John Ryl
 ### Related Pilgrimage Guides
 
 - [Shikoku 88 Temple Pilgrimage: Historic Pilgrimage Route](/routes/shikoku-88-temples)
+
+## Related Research
+
+Explore these related articles for deeper study:
+
+- [What is the Oldest Biblical Artifact Ever Found?](/research/artifacts/what-is-the-oldest-biblical-artifact-ever-found)
 
 ## Frequently Asked Questions
 

@@ -11,9 +11,10 @@ imageAlt: "ruins, sunset, nature, travel, outdoors, castle, fortress, architectu
 imageCredit: "Image by papazachariasa on Pixabay"
 imageWidth: 1280
 imageHeight: 853
----
+---Exploring the Connection: Architecture and Biblical Archaeology is an area of archaeological investigation that has yielded significant findings about the ancient world.
 
-Exploring the Connection: Architecture and Biblical Archaeology is an area of archaeological investigation that has yielded significant findings about the ancient world.
+This topic is part of our [research on archaeological excavations](/research/excavations).
+
 
 In the fascinating world of Biblical Archaeology, a unique connection emerges between the study of ancient architecture and the exploration of biblical narratives. Intricate structures, temples, and dwellings provide tangible evidence of the stories and accounts found within the pages of the Bible. Through decoding the secrets hidden within these ancient edifices, researchers are able to gain a deeper understanding of the historical context surrounding the events described in biblical texts. Join us on a journey as we uncover the remarkable connection between architecture and Biblical Archaeology, unveiling a wealth of knowledge that sheds light on the past.
 
@@ -148,6 +149,12 @@ As archaeological knowledge and resources increase, there are still countless un
 ### Related Pilgrimage Guides
 
 - [How Pilgrims Ascended the Temple Mount in Ancient Jerusalem](/routes/temple-mount-ascent)
+
+## Related Research
+
+Explore these related articles for deeper study:
+
+- [Exploring Biblical Archaeology in the Middle East: a Boost to](/research/excavations/exploring-biblical-archaeology-in-the-middle-east-a-boost-to-tourism)
 
 ## Frequently Asked Questions
 

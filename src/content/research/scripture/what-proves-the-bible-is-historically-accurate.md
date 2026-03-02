@@ -11,9 +11,10 @@ imageAlt: "dead sea scrolls, qumran caves, scripture, israel, dead sea, landscap
 imageCredit: "Image by jdblack on Pixabay"
 imageWidth: 1280
 imageHeight: 848
----
+---Many people are unaware that the historical accuracy of the Bible has been a subject of scholarly inquiry and debate for centuries. Various indicators, such as archaeological findings and external sources, contribute to the ongoing discussions regarding its credibility.
 
-Many people are unaware that the historical accuracy of the Bible has been a subject of scholarly inquiry and debate for centuries. Various indicators, such as archaeological findings and external sources, contribute to the ongoing discussions regarding its credibility.
+This topic is part of our [research on biblical scripture studies](/research/scripture).
+
 
 The correlation between biblical accounts and historical events, alongside the manuscript authenticity and textual analysis, raises intriguing questions about the Bible's validity.
 
@@ -62,6 +63,12 @@ These factors underscore the intricate nature of **evaluating** the historical a
 ### Related Pilgrimage Guides
 
 - [Jerusalem Old City: Sacred Pilgrimage Destination](/places/jerusalem-old-city)
+
+## Related Research
+
+Explore these related articles for deeper study:
+
+- [Is Anything in the Bible Historically Accurate?](/research/scripture/is-anything-in-the-bible-historically-accurate)
 
 ## Frequently Asked Questions
 

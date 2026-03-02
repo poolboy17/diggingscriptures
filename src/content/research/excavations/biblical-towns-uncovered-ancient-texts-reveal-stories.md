@@ -11,9 +11,10 @@ imageAlt: "ruins, sunset, nature, travel, outdoors, castle, fortress, architectu
 imageCredit: "Image by papazachariasa on Pixabay"
 imageWidth: 1280
 imageHeight: 853
----
+---Biblical Towns Uncovered: Ancient Texts Reveal Stories is an area of archaeological investigation that has yielded significant findings about the ancient world.
 
-Biblical Towns Uncovered: Ancient Texts Reveal Stories is an area of archaeological investigation that has yielded significant findings about the ancient world.
+This topic is part of our [research on archaeological excavations](/research/excavations).
+
 
 Have you ever wondered what stories lie beneath the ancient stones of biblical towns, waiting to be uncovered by the diligent work of archaeologists? The quest to understand the history and significance of biblical towns has seen remarkable progress in recent years, with ancient texts and modern science combining to shed light on these storied sites.
  
@@ -86,6 +87,12 @@ By enriching our knowledge of biblical towns, we not only uncover stories of the
 ### Related Pilgrimage Guides
 
 - [Shikoku 88 Temple Pilgrimage: Historic Pilgrimage Route](/routes/shikoku-88-temples)
+
+## Related Research
+
+Explore these related articles for deeper study:
+
+- [Discover Ancient Biblical Towns Unearthed by Modern Remote](/research/excavations/remote-sensing-reveals-lost-biblical-towns)
 
 ## Frequently Asked Questions
 

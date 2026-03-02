@@ -11,9 +11,10 @@ imageAlt: "archaeology, excavation, sun sails, protection, sun protection, archa
 imageCredit: "Image by Efraimstochter on Pixabay"
 imageWidth: 1280
 imageHeight: 960
----
+---Biblical Archaeology: the Mystery of Ancient Textiles is a topic in biblical archaeology that connects ancient material evidence with scriptual narratives.
 
-Biblical Archaeology: the Mystery of Ancient Textiles is a topic in biblical archaeology that connects ancient material evidence with scriptual narratives.
+This topic is part of our [research on biblical archaeology](/research/biblical-archaeology).
+
 
 In the fascinating field of biblical archaeology, a captivating mystery presents itself - the enigma of ancient textiles. Throughout history, garments and fabrics have not only played a crucial role in covering and adorning the human body, but they have also revealed insights into the lives and cultures of ancient civilizations. From the finely woven linens of Egypt to the intricately embroidered robes of Babylon, each textile tells a story waiting to be unraveled. Join us as we step back in time to explore the hidden secrets and enduring allure of these remarkable ancient textiles and clothing.
 
@@ -190,6 +191,12 @@ The study of ancient textiles in biblical archaeology provides valuable insights
 ### Related Pilgrimage Guides
 
 - [How Pilgrims Ascended the Temple Mount in Ancient Jerusalem](/routes/temple-mount-ascent)
+
+## Related Research
+
+Explore these related articles for deeper study:
+
+- [Biblical Archaeology Excavation Projects Unearth Ancient Wonders](/research/biblical-archaeology/biblical-archaeology-excavation-projects-unearth-ancient-wonders)
 
 ## Frequently Asked Questions
 

@@ -11,9 +11,10 @@ imageAlt: "angel, icon, wall paint, iconography, damaged, weathered, aged, churc
 imageCredit: "Image by dimitrisvetsikas1969 on Pixabay"
 imageWidth: 1280
 imageHeight: 854
----
+---Ancient Secrets Revealed: Uncovering Jordan's Collapsed Tower is a theological subject that explores the intersection of faith traditions and historical evidence.
 
-Ancient Secrets Revealed: Uncovering Jordan's Collapsed Tower is a theological subject that explores the intersection of faith traditions and historical evidence.
+This topic is part of our [research on faith and history](/research/faith).
+
 
 What if the remnants of a long-lost tower could tell us tales of liberation, ancient struggles, and theological significance? This question hovers over the recent discovery of a collapsed tower in Jordan, linked to the fabled texts of liberation that have evoked fascination for centuries. Grab a cup of your favorite beverage and settle in as we unravel the layers surrounding this archaeological treasure.
  
@@ -136,6 +137,12 @@ As the dust settles around this collapsed tower, it becomes a powerful symbol no
 ### Related Pilgrimage Guides
 
 - [Rabbi Nachman's Journey to Israel](/stories/rabbi-nachman-journey-to-israel)
+
+## Related Research
+
+Explore these related articles for deeper study:
+
+- [Unearthed Secrets: Ancient Jewish Festivals Revealed by](/research/faith/ancient-jewish-festival-evidence-uncovered)
 
 ## Frequently Asked Questions
 

@@ -11,9 +11,10 @@ imageAlt: "workshop, carpenter, crafts, artisan, drink, work, tool, vintage, wor
 imageCredit: "Image by ThMilherou on Pixabay"
 imageWidth: 1280
 imageHeight: 848
----
+---Contrary to popular belief, the study of biblical archaeology is not just about digging up ancient artifacts and hoping to stumble upon Noah's Ark. It is a meticulous and multidisciplinary field that intertwines history, archaeology, and biblical studies to unravel the layers of the past and shed light on the narratives we have inherited.
 
-Contrary to popular belief, the study of biblical archaeology is not just about digging up ancient artifacts and hoping to stumble upon Noah's Ark. It is a meticulous and multidisciplinary field that intertwines history, archaeology, and biblical studies to unravel the layers of the past and shed light on the narratives we have inherited.
+This topic is part of our [research on archaeological excavations](/research/excavations).
+
 
 But what exactly does this interdisciplinary approach entail, and how does it shape our understanding of the ancient world and its connection to the biblical texts we hold dear?
 
@@ -66,6 +67,12 @@ The evolution of biblical archaeology towards the incorporation of advanced tech
 ### Related Pilgrimage Guides
 
 - [Rabbi Nachman's Journey to Israel](/stories/rabbi-nachman-journey-to-israel)
+
+## Related Research
+
+Explore these related articles for deeper study:
+
+- [10 Steps to Volunteer on a Biblical Archaeology Dig](/research/excavations/10-steps-to-volunteer-on-a-biblical-archaeology-dig)
 
 ## Frequently Asked Questions
 

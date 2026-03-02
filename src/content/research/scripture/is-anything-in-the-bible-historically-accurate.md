@@ -11,9 +11,10 @@ imageAlt: "mesopotamia, myth, mythology, history, landscape, ruins, anunnaki, su
 imageCredit: "Image by BenFishold on Pixabay"
 imageWidth: 1280
 imageHeight: 731
----
+---Is Anything in the Bible Historically Accurate? refers to a subject within biblical manuscript studies that scholars continue to investigate.
 
-Is Anything in the Bible Historically Accurate? refers to a subject within biblical manuscript studies that scholars continue to investigate.
+This topic is part of our [research on biblical scripture studies](/research/scripture).
+
 
 In the domain of historical analysis, the Bible often serves as a cornerstone for many scholars. However, the question lingers: can everything within its pages be deemed historically accurate?
 
@@ -65,6 +66,12 @@ AspectDescriptionImportanceOld TestamentComprises the Hebrew Bible, reflecting h
 ### Related Pilgrimage Guides
 
 - [Rabbi Nachman's Journey to Israel](/stories/rabbi-nachman-journey-to-israel)
+
+## Related Research
+
+Explore these related articles for deeper study:
+
+- [What Proves the Bible is Historically Accurate?](/research/scripture/what-proves-the-bible-is-historically-accurate)
 
 ## Frequently Asked Questions
 

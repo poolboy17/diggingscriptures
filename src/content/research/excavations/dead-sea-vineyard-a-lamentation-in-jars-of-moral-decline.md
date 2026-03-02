@@ -11,9 +11,10 @@ imageAlt: "jerusalem, dome of the rock, islam, israel, mosque, temple mount, hol
 imageCredit: "Image by jdblack on Pixabay"
 imageWidth: 1280
 imageHeight: 822
----
+---Exploring Ancient Moral Dilemmas at the Dead Sea Vineyard is an area of archaeological investigation that has yielded significant findings about the ancient world.
 
-Exploring Ancient Moral Dilemmas at the Dead Sea Vineyard is an area of archaeological investigation that has yielded significant findings about the ancient world.
+This topic is part of our [research on archaeological excavations](/research/excavations).
+
 
 What if the ancient world offered us a mirror, reflecting our own moral dilemmas back to us? As you ponder this idea, you may find yourself led to the mystical shores of the Dead Sea, an area steeped in history, spirituality, and, most intriguingly, a lamentation for the moral decline encapsulated in the artifacts found there.
   
@@ -137,6 +138,12 @@ The Dead Sea Vineyard remains more than a historical site; its a testament to hu
 ### Related Pilgrimage Guides
 
 - [Shikoku 88 Temple Pilgrimage: Historic Pilgrimage Route](/routes/shikoku-88-temples)
+
+## Related Research
+
+Explore these related articles for deeper study:
+
+- [Exploring Ancient Cosmic Battle Theories in the Dead Sea Scrolls](/research/excavations/dead-sea-orchard-unraveling-the-cosmic-battle-theories)
 
 ## Frequently Asked Questions
 

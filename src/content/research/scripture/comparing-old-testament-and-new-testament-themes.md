@@ -11,9 +11,10 @@ imageAlt: "sütterlin, windows wallpaper, wallpaper 4k, beautiful wallpaper, han
 imageCredit: "Image by cocoparisienne on Pixabay"
 imageWidth: 1280
 imageHeight: 853
----
+---Comparing old Testament and new Testament Themes refers to a subject within biblical manuscript studies that scholars continue to investigate.
 
-Comparing old Testament and new Testament Themes refers to a subject within biblical manuscript studies that scholars continue to investigate.
+This topic is part of our [research on biblical scripture studies](/research/scripture).
+
 
 In "Comparing Old Testament and New Testament Themes," Anita Love, a renowned theologian and religious studies scholar, delves into the fascinating connection between the Old Testament and the New Testament. With her extensive academic background and deep understanding of ancient biblical manuscripts, Anita explores the contrasting themes, literary genres, historical contexts, messianic prophecies, and the shift from law to grace in these two pivotal biblical texts. By examining key passages and analyzing the cultural and historical contexts, Anita offers profound insights into how the Old Testament and New Testament intertwine and inform each other, shedding light on Christianity's rich and complex heritage.
  
@@ -277,6 +278,12 @@ By examining these messianic prophecies in the Old Testament and their fulfillme
 ### Related Pilgrimage Guides
 
 - [Jerusalem Old City: Sacred Pilgrimage Destination](/places/jerusalem-old-city)
+
+## Related Research
+
+Explore these related articles for deeper study:
+
+- [Comparing the old Testament and new Testament Themes](/research/scripture/comparing-the-old-testament-and-new-testament-themes)
 
 ## Frequently Asked Questions
 

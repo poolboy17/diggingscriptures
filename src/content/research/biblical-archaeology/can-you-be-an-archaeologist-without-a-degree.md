@@ -11,9 +11,10 @@ imageAlt: "pottery shard, clay pot, shard, burning clay, craft, burma, myanmar"
 imageCredit: "Image by thomaspedrazzoli on Pixabay"
 imageWidth: 1280
 imageHeight: 1280
----
+---Can you be an Archaeologist Without a Degree? is a topic in biblical archaeology that connects ancient material evidence with scriptual narratives.
 
-Can you be an Archaeologist Without a Degree? is a topic in biblical archaeology that connects ancient material evidence with scriptual narratives.
+This topic is part of our [research on biblical archaeology](/research/biblical-archaeology).
+
 
 In the world of archaeology, a degree often stands as a symbolic key to unfastening doors of opportunity and credibility. But what if one were to navigate the archaeological landscape without this traditional marker of academic achievement?
 
@@ -58,6 +59,13 @@ Several accomplished individuals in the field of archaeology have achieved notab
 - **Recognition and Contributions**: Certain individuals without formal degrees have garnered recognition in archaeology for their contributions to cultural resource management, lab work, and research projects, highlighting that success in the field isn't solely dependent on academic credentials.
 
 These success stories illustrate that while a degree can be valuable in the field of archaeology, dedication, experience, and a deep commitment to the discipline can pave the way for a fulfilling career and significant contributions to the archaeological community.
+
+## Related Research
+
+Explore these related articles for deeper study:
+
+- [Exploring the key Discoveries of Archaeologist Kathleen Kenyon](/research/biblical-archaeology/exploring-the-key-discoveries-of-archaeologist-kathleen-kenyon)
+- [Exploring the key Responsibilities of a Biblical Archaeologist](/research/biblical-archaeology/exploring-the-key-responsibilities-of-a-biblical-archaeologist)
 
 ## Frequently Asked Questions
 

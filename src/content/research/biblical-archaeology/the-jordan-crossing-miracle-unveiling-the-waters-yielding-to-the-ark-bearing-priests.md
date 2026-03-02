@@ -11,9 +11,10 @@ imageAlt: "petra, jordan, royal tombs, sand stone, antique, historically, histor
 imageCredit: "Image by ChiemSeherin on Pixabay"
 imageWidth: 1280
 imageHeight: 853
----
+---Miracle or History? Examining the Biblical Jordan Crossing Event is a topic in biblical archaeology that connects ancient material evidence with scriptual narratives.
 
-Miracle or History? Examining the Biblical Jordan Crossing Event is a topic in biblical archaeology that connects ancient material evidence with scriptual narratives.
+This topic is part of our [research on biblical archaeology](/research/biblical-archaeology).
+
 
 Have you ever found yourself captivated by stories of miraculous events that challenge our understanding of the natural world? One such story resides within the pages of the Biblespecifically, the crossing of the Jordan River by the Israelites, led by the Ark of the Covenant. Lets unpack this miracle together, sprinkling in some archaeological and historical context, as well as a dash of theological significance.
   
@@ -128,6 +129,12 @@ So, what now? Carry the weight of this miracle with youlet it serve as a reminde
 ### Related Pilgrimage Guides
 
 - [Rabbi Nachman's Journey to Israel](/stories/rabbi-nachman-journey-to-israel)
+
+## Related Research
+
+Explore these related articles for deeper study:
+
+- [Unveiling Biblical History: how Advanced Imaging Decodes](/research/biblical-archaeology/advanced-imaging-illuminates-ancient-hebrew-texts)
 
 ## Frequently Asked Questions
 

@@ -11,9 +11,10 @@ imageAlt: "jerash, jordan, ruins, ancient, architecture, roman, archeology, pill
 imageCredit: "Image by Graham-H on Pixabay"
 imageWidth: 1280
 imageHeight: 996
----
+---Explore Jerusalem: Unveiling Ancient Artifacts from The is an area of archaeological investigation that has yielded significant findings about the ancient world.
 
-Explore Jerusalem: Unveiling Ancient Artifacts from The is an area of archaeological investigation that has yielded significant findings about the ancient world.
+This topic is part of our [research on archaeological excavations](/research/excavations).
+
 
 Have you ever wondered about the secrets hidden beneath the ancient soils of Jerusalem? The remnants of what we call the First Temple Period are not just stones or relics buried in time; they are the whispers of history, echoing stories of faith, power, and civilization. The First Temple Period, often referred to in biblical texts, has captivated scholars and archaeologists alike, igniting quests to uncover the truths enshrined in the earth.
  
@@ -95,6 +96,12 @@ In light of these revelations, it is crucial for continued support and interest 
 ### Related Pilgrimage Guides
 
 - [How Pilgrims Ascended the Temple Mount in Ancient Jerusalem](/routes/temple-mount-ascent)
+
+## Related Research
+
+Explore these related articles for deeper study:
+
+- [Unveiling Truths: Ancient Jerusalem Palace Discovery Sparks](/research/excavations/ancient-jerusalem-palace-unearthed-sparks-biblical-interest)
 
 ## Frequently Asked Questions
 

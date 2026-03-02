@@ -11,9 +11,10 @@ imageAlt: "calligraphy, story, ink, feather, a book, vintage, old, wood, fairy t
 imageCredit: "Image by Ghinzo on Pixabay"
 imageWidth: 1280
 imageHeight: 853
----
+---Has Archeology Ever Disproved the Bible? refers to a subject within biblical manuscript studies that scholars continue to investigate.
 
-Has Archeology Ever Disproved the Bible? refers to a subject within biblical manuscript studies that scholars continue to investigate.
+This topic is part of our [research on biblical scripture studies](/research/scripture).
+
 
 In the domain of biblical studies, the intersection with archaeology has long been a subject of intrigue. While some scholars argue that archaeological findings have cast doubt on certain biblical accounts, a closer examination reveals a more nuanced relationship between the two disciplines.
 
@@ -68,6 +69,12 @@ The correlation between archeological findings and biblical interpretation is ev
 ### Related Pilgrimage Guides
 
 - [How Pilgrims Ascended the Temple Mount in Ancient Jerusalem](/routes/temple-mount-ascent)
+
+## Related Research
+
+Explore these related articles for deeper study:
+
+- [Has the Bible Ever Been Mistranslated?](/research/scripture/has-the-bible-ever-been-mistranslated)
 
 ## Frequently Asked Questions
 

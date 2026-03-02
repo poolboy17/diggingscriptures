@@ -11,9 +11,10 @@ imageAlt: "bible, book, highlighter, pages, text, open, open book, open bible, h
 imageCredit: "Image by Pexels on Pixabay"
 imageWidth: 1280
 imageHeight: 961
----
+---Contrasting Themes in the old Testament and the new Testament refers to a subject within biblical manuscript studies that scholars continue to investigate.
 
-Contrasting Themes in the old Testament and the new Testament refers to a subject within biblical manuscript studies that scholars continue to investigate.
+This topic is part of our [research on biblical scripture studies](/research/scripture).
+
 
 In her article titled "Contrasting Themes in the Old Testament and the New Testament," Anita Love, an esteemed authority in the field of Christianity's historical foundations, explores the intriguing relationship between the two parts of the Bible. With her extensive academic background focused on theology and religious studies, Love delves into the core themes, literary genres, historical contexts, messianic prophecies, and the contrast between law and grace in the Old and New Testaments. Her in-depth analysis sheds light on the intricate connections between the ancient biblical texts and their contemporary relevance, offering readers a profound understanding of how these contrasting themes shape our understanding of Christian teachings and traditions.
  
@@ -469,6 +470,12 @@ The interpretation and implementation of practices in contemporary Christianity 
 ### Related Pilgrimage Guides
 
 - [How Pilgrims Ascended the Temple Mount in Ancient Jerusalem](/routes/temple-mount-ascent)
+
+## Related Research
+
+Explore these related articles for deeper study:
+
+- [Central Themes in the old Testament and the new Testament](/research/scripture/central-themes-in-the-old-testament-and-the-new-testament)
 
 ## Frequently Asked Questions
 

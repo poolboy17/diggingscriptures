@@ -11,9 +11,10 @@ imageAlt: "temple, shrine, architecture, travel, tourist attraction, landscape, 
 imageCredit: "Image by gorkhe1980 on Pixabay"
 imageWidth: 1280
 imageHeight: 800
----
+---Exploring Ancient Prophecies: Unveiling Timeless Ethics in is a theological subject that explores the intersection of faith traditions and historical evidence.
 
-Exploring Ancient Prophecies: Unveiling Timeless Ethics in is a theological subject that explores the intersection of faith traditions and historical evidence.
+This topic is part of our [research on faith and history](/research/faith).
+
 
 What if the stories told in ancient cities hold secrets not just of history, but also of prophecy and ethics that resonate today? Perhaps there's more beneath the surface of the dust-covered ruins and scrolls than meets the eye. Lets unravel this enigma together.
  
@@ -152,6 +153,12 @@ By demanding that we engage with the ethical teachings of the past, we're nudged
 ### Related Pilgrimage Guides
 
 - [Shikoku 88 Temple Pilgrimage: Historic Pilgrimage Route](/routes/shikoku-88-temples)
+
+## Related Research
+
+Explore these related articles for deeper study:
+
+- [Unveiling Ancient Prophecies: The Forbidden Cave Plateaus](/research/faith/the-forbidden-cave-plateau-unearthing-war-time-prophecies-of-justice)
 
 ## Frequently Asked Questions
 

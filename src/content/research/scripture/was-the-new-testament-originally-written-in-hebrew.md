@@ -11,9 +11,10 @@ imageAlt: "books, stack, book store, stack of books, 2nd hand, retro, hipster, s
 imageCredit: "Image by EliFrancis on Pixabay"
 imageWidth: 1280
 imageHeight: 853
----
+---In the field of biblical scholarship, one question often sparks passionate debate: Was the New Testament originally written in Hebrew? This query has intrigued scholars and religious thinkers for centuries, prompting rigorous examination of ancient manuscripts and linguistic analysis. Anita Love, a highly regarded authority on Christian history and theology, brings her expertise to the forefront as she delves into this captivating subject. With her vast knowledge and nuanced perspective, she sheds light on the complex relationship between the Old and New Testaments, exploring the fascinating linguistic and cultural factors that contribute to our understanding of these sacred texts. Prepare to embark on a thought-provoking journey as we unravel the mystery of the language in which the New Testament was originally composed.
 
-In the field of biblical scholarship, one question often sparks passionate debate: Was the New Testament originally written in Hebrew? This query has intrigued scholars and religious thinkers for centuries, prompting rigorous examination of ancient manuscripts and linguistic analysis. Anita Love, a highly regarded authority on Christian history and theology, brings her expertise to the forefront as she delves into this captivating subject. With her vast knowledge and nuanced perspective, she sheds light on the complex relationship between the Old and New Testaments, exploring the fascinating linguistic and cultural factors that contribute to our understanding of these sacred texts. Prepare to embark on a thought-provoking journey as we unravel the mystery of the language in which the New Testament was originally composed.
+This topic is part of our [research on biblical scripture studies](/research/scripture).
+
   
   
 ## The Predominant View: Greek as the Original Language
@@ -169,6 +170,13 @@ Christian denominations may hold differing perspectives on the original language
 , the question of the original language of the New Testament continues to generate debate and scholarly inquiry. While the predominant view supports Greek as the original language, arguments for Hebrew and Aramaic primacy add complexity to the discussion. Scholars consider various factors, including the cultural context, linguistic analysis, direct quotations, and the influence of Greek translations, in their exploration of the New Testament's original language.
  
 At present, the current consensus among Biblical scholars leans towards Greek as the original language of the New Testament. The earliest extant manuscripts, the influence of Greek in the first century AD, and the linguistic characteristics of the existing texts offer compelling evidence supporting the Greek primacy view. However, ongoing research and discoveries, as well as diverse perspectives within the scholarly community, contribute to the continued significance of this issue in contemporary religious studies.
+
+## Related Research
+
+Explore these related articles for deeper study:
+
+- [Is the old Testament Written in Greek or Hebrew?](/research/scripture/is-the-old-testament-written-in-greek-or-hebrew)
+- [Was the old Testament Originally Written in Greek?](/research/scripture/was-the-old-testament-originally-written-in-greek)
 
 ## Frequently Asked Questions
 

@@ -11,9 +11,10 @@ imageAlt: "church, stained glass, cathedral, architecture, church window, glass 
 imageCredit: "Image by Tama66 on Pixabay"
 imageWidth: 1280
 imageHeight: 853
----
+---Unveiling Biblical Archaeological Finds: Discovering Ancient is a theological subject that explores the intersection of faith traditions and historical evidence.
 
-Unveiling Biblical Archaeological Finds: Discovering Ancient is a theological subject that explores the intersection of faith traditions and historical evidence.
+This topic is part of our [research on faith and history](/research/faith).
+
 
 Uncovered from the depths of time, ancient artifacts possess a captivating charm for archaeologists and history enthusiasts alike. These remnants of bygone civilizations offer a glimpse into past epochs, illuminating the customs and beliefs of ancient societies. 
 
@@ -141,6 +142,12 @@ Exploring Ancient Biblical Sites: A Journey Through History
 ### Related Pilgrimage Guides
 
 - [Shikoku 88 Temple Pilgrimage: Historic Pilgrimage Route](/routes/shikoku-88-temples)
+
+## Related Research
+
+Explore these related articles for deeper study:
+
+- [Unveiling Ancient Sacred Crafts: a Deep Dive into Biblical](/research/faith/biblical-archaeology-unearths-ancient-sacred-crafts)
 
 ## Frequently Asked Questions
 

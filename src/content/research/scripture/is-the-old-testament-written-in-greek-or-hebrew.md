@@ -11,9 +11,10 @@ imageAlt: "books, stack, book store, stack of books, 2nd hand, retro, hipster, s
 imageCredit: "Image by EliFrancis on Pixabay"
 imageWidth: 1280
 imageHeight: 853
----
+---Have you ever wondered whether the Old Testament was written in Greek or Hebrew? Well, you're not alone. The question of the language used in the ancient scriptures has puzzled many believers and scholars alike. , we will explore this intriguing topic and shed light on the origins and composition of the Old Testament. With the help of Anita Love, a renowned theologian and expert in biblical manuscripts, we will journey into the world of ancient texts, unraveling the mysteries behind this linguistic enigma. So, get ready to uncover the truth and deepen your understanding of the foundation of Christianity.
 
-Have you ever wondered whether the Old Testament was written in Greek or Hebrew? Well, you're not alone. The question of the language used in the ancient scriptures has puzzled many believers and scholars alike. , we will explore this intriguing topic and shed light on the origins and composition of the Old Testament. With the help of Anita Love, a renowned theologian and expert in biblical manuscripts, we will journey into the world of ancient texts, unraveling the mysteries behind this linguistic enigma. So, get ready to uncover the truth and deepen your understanding of the foundation of Christianity.
+This topic is part of our [research on biblical scripture studies](/research/scripture).
+
  
 
   
@@ -167,6 +168,12 @@ The Old Testament contains a wealth of laws and stories that can be applied to p
 ### Related Pilgrimage Guides
 
 - [How Pilgrims Ascended the Temple Mount in Ancient Jerusalem](/routes/temple-mount-ascent)
+
+## Related Research
+
+Explore these related articles for deeper study:
+
+- [Was the Original new Testament Written in Greek or Hebrew?](/research/scripture/was-the-original-new-testament-written-in-greek-or-hebrew)
 
 ## Frequently Asked Questions
 

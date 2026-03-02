@@ -11,9 +11,10 @@ imageAlt: "temple, jupiter, roman, antique, column, architecture, ancient, stone
 imageCredit: "Image by djedj on Pixabay"
 imageWidth: 1280
 imageHeight: 854
----
+---Discovering the Bible's Timeline: the Role of Modern Archaeology is a topic in biblical archaeology that connects ancient material evidence with scriptual narratives.
 
-Discovering the Bible's Timeline: the Role of Modern Archaeology is a topic in biblical archaeology that connects ancient material evidence with scriptual narratives.
+This topic is part of our [research on biblical archaeology](/research/biblical-archaeology).
+
 
 Have you ever wondered how scholars and archaeologists pinpoint the dates of events described in ancient texts, such as the Bible? The investigation into the past relays a detective-like intrigue where science and history intertwine seamlessly. In this explorative journey, we examine into "Unveiling the Past: Biblical Period Dating Methods," an academic yet accessible review that uncovers the methodologies used to date significant biblical periods. This article aims to clarify how ancient history is not just read but meticulously reconstructed through the lens of modern science.
   
@@ -92,6 +93,12 @@ In summary, the quest to date biblical periods intertwines science with history,
 ### Related Pilgrimage Guides
 
 - [Rabbi Nachman's Journey to Israel](/stories/rabbi-nachman-journey-to-israel)
+
+## Related Research
+
+Explore these related articles for deeper study:
+
+- [Discovering Angels in Biblical Archaeology: The En Gedi](/research/biblical-archaeology/angels-in-the-desert-the-en-gedi-stone-arch-and-its-significance)
 
 ## Frequently Asked Questions
 

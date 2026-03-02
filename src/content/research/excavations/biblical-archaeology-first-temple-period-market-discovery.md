@@ -11,9 +11,10 @@ imageAlt: "way, building, excavator, viaduct, road, cities, work, digging, build
 imageCredit: "Image by satynek on Pixabay"
 imageWidth: 1280
 imageHeight: 781
----
+---Unearthing Ancient Jerusalem: a Glimpse into First Temples is an area of archaeological investigation that has yielded significant findings about the ancient world.
 
-Unearthing Ancient Jerusalem: a Glimpse into First Temples is an area of archaeological investigation that has yielded significant findings about the ancient world.
+This topic is part of our [research on archaeological excavations](/research/excavations).
+
 
 Have you ever pondered the daily hustle and bustle of marketplaces that thrived thousands of years ago? The recent discovery of a First Temple Period market opens an intriguing window into such ancient commercial activities. This find is not just a monumental addition to the field of biblical archaeology but a vivid narrative of ancient economies and societies.
  
@@ -75,6 +76,12 @@ The discovery of a First Temple Period market is a profound strike against the s
 ### Related Pilgrimage Guides
 
 - [Shikoku 88 Temple Pilgrimage: Historic Pilgrimage Route](/routes/shikoku-88-temples)
+
+## Related Research
+
+Explore these related articles for deeper study:
+
+- [Unearthing Ancient Jerusalem: Secrets of the Prophetic Exile](/research/excavations/jerusalems-hidden-compartment-unraveling-the-prophetic-gathering-of-exiles)
 
 ## Frequently Asked Questions
 

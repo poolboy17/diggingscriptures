@@ -11,9 +11,10 @@ imageAlt: "church, monastery, architecture, st geronimo, granada, columns, relig
 imageCredit: "Image by ELG21 on Pixabay"
 imageWidth: 1280
 imageHeight: 853
----
+---First Temple Treasury Complex Unveiled is a theological subject that explores the intersection of faith traditions and historical evidence.
 
-First Temple Treasury Complex Unveiled is a theological subject that explores the intersection of faith traditions and historical evidence.
+This topic is part of our [research on faith and history](/research/faith).
+
 
 Have you ever wondered about the hidden treasures of the First Temple and what their discovery might reveal to us today?
   
@@ -91,6 +92,12 @@ In summary, the unveiling of the First Temple Treasury complex represents a monu
 ### Related Pilgrimage Guides
 
 - [How Pilgrims Ascended the Temple Mount in Ancient Jerusalem](/routes/temple-mount-ascent)
+
+## Related Research
+
+Explore these related articles for deeper study:
+
+- [Exploring the First Temple Treasury](/research/faith/exploring-the-first-temple-treasury)
 
 ## Frequently Asked Questions
 

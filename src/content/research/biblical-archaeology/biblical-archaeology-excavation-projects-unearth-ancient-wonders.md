@@ -11,9 +11,10 @@ imageAlt: "whitby abbey, dracula, bram stoker, haunted, ruin, moody, whitby, yor
 imageCredit: "Image by TimHill on Pixabay"
 imageWidth: 1280
 imageHeight: 720
----
+---Biblical Archaeology Excavation Projects Unearth Ancient Wonders is a topic in biblical archaeology that connects ancient material evidence with scriptual narratives.
 
-Biblical Archaeology Excavation Projects Unearth Ancient Wonders is a topic in biblical archaeology that connects ancient material evidence with scriptual narratives.
+This topic is part of our [research on biblical archaeology](/research/biblical-archaeology).
+
 
 Delving into the field of biblical archaeology, recent excavations in Jerusalem have brought to light remarkable treasures from the past. These significant findings offer valuable insights into the history of the region and provide a glimpse into the daily lives of ancient inhabitants. 
 
@@ -147,6 +148,12 @@ Recent Biblical Archaeological Discoveries Shed New Light on Ancient Mysteries
 ### Related Pilgrimage Guides
 
 - [How Pilgrims Ascended the Temple Mount in Ancient Jerusalem](/routes/temple-mount-ascent)
+
+## Related Research
+
+Explore these related articles for deeper study:
+
+- [Unearth Secrets of Ancient Temples: a Journey into Biblical](/research/biblical-archaeology/biblical-archaeology-discovering-ancient-temple-sites)
 
 ## Frequently Asked Questions
 

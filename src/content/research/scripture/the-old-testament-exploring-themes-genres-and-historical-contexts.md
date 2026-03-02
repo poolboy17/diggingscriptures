@@ -11,9 +11,10 @@ imageAlt: "book, manuscript, paper, ancient, manuscript, manuscript, manuscript,
 imageCredit: "Image by TonyPrats on Pixabay"
 imageWidth: 1280
 imageHeight: 850
----
+---The old Testament: Exploring Themes, Genres, and Historical refers to a subject within biblical manuscript studies that scholars continue to investigate.
 
-The old Testament: Exploring Themes, Genres, and Historical refers to a subject within biblical manuscript studies that scholars continue to investigate.
+This topic is part of our [research on biblical scripture studies](/research/scripture).
+
 
 In "The Old Testament: Exploring Themes, Genres, and Historical Contexts," Anita Love, a highly regarded theologian and religious scholar, delves into the depths of the Bible's Old Testament. With a deep appreciation for the historical context and diverse interpretations of these ancient texts, Love seeks to uncover the central themes, literary genres, and historical backgrounds that enrich our understanding of this sacred scripture. As a respected authority in her field, Love's work offers a nuanced perspective that honors the diversity of Christian denominations, belief systems, and lifestyles, making her a significant figure in the ecumenical community. Through her extensive research and profound insights, Love invites readers to explore the Old Testament's profound teachings and discover their contemporary relevance.
   
@@ -221,6 +222,12 @@ Additionally, the Old Testament's rich imagery, poetry, and prophetic messages c
 ### Related Pilgrimage Guides
 
 - [Jerusalem Old City: Sacred Pilgrimage Destination](/places/jerusalem-old-city)
+
+## Related Research
+
+Explore these related articles for deeper study:
+
+- [Understanding the old Testament: Exploring Themes and Contexts](/research/scripture/understanding-the-old-testament-exploring-themes-and-contexts)
 
 ## Frequently Asked Questions
 

@@ -11,9 +11,10 @@ imageAlt: "jerusalem, dome of the rock, islam, israel, mosque, temple mount, hol
 imageCredit: "Image by jdblack on Pixabay"
 imageWidth: 1280
 imageHeight: 822
----
+---Exploring the Link: Biblical Archaeology and the Dead sea Scrolls is an area of archaeological investigation that has yielded significant findings about the ancient world.
 
-Exploring the Link: Biblical Archaeology and the Dead sea Scrolls is an area of archaeological investigation that has yielded significant findings about the ancient world.
+This topic is part of our [research on archaeological excavations](/research/excavations).
+
 
 In the world of Biblical archaeology, the discovery of the Dead Sea Scrolls has been nothing short of groundbreaking. These ancient manuscripts, found in caves near the Dead Sea, have shed light on the history and teachings of Judaism and Christianity. What makes this connection between archaeology and the Dead Sea Scrolls so fascinating is the way in which these texts provide tangible evidence of the events and people referenced in the Bible. By exploring the link between Biblical archaeology and the Dead Sea Scrolls, researchers and enthusiasts alike are able to gain a deeper understanding of the religious and historical significance of these ancient texts.
 
@@ -168,6 +169,12 @@ The discovery and ongoing study of the Dead Sea Scrolls have revolutionized our 
 ### Related Pilgrimage Guides
 
 - [How Pilgrims Ascended the Temple Mount in Ancient Jerusalem](/routes/temple-mount-ascent)
+
+## Related Research
+
+Explore these related articles for deeper study:
+
+- [Exploring the Link Between Biblical Archaeology and Digital](/research/excavations/exploring-the-link-between-biblical-archaeology-and-digital-reconstruction)
 
 ## Frequently Asked Questions
 

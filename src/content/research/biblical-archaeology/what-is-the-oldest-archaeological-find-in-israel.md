@@ -11,9 +11,10 @@ imageAlt: "excavation, archaeology, high culture, culture, temple, old, stone, l
 imageCredit: "Image by Efraimstochter on Pixabay"
 imageWidth: 1280
 imageHeight: 960
----
+---What is the Oldest Archaeological Find in Israel? is a topic in biblical archaeology that connects ancient material evidence with scriptual narratives.
 
-What is the Oldest Archaeological Find in Israel? is a topic in biblical archaeology that connects ancient material evidence with scriptual narratives.
+This topic is part of our [research on biblical archaeology](/research/biblical-archaeology).
+
 
 Amidst the sun-baked sands and ancient stones of Israel lies a discovery that reverberates through the corridors of time, challenging preconceived notions of early civilizations.
 
@@ -64,6 +65,12 @@ Excavating the Bronze Age city ruins in Israel has exposed a window into the ear
 ### Related Pilgrimage Guides
 
 - [Jerusalem Old City: Sacred Pilgrimage Destination](/places/jerusalem-old-city)
+
+## Related Research
+
+Explore these related articles for deeper study:
+
+- [What is the Oldest Archaeological Evidence of Israel?](/research/biblical-archaeology/what-is-the-oldest-archaeological-evidence-of-israel)
 
 ## Frequently Asked Questions
 

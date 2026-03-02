@@ -11,9 +11,10 @@ imageAlt: "calligraphy, story, ink, feather, a book, vintage, old, wood, fairy t
 imageCredit: "Image by Ghinzo on Pixabay"
 imageWidth: 1280
 imageHeight: 853
----
+---In the fascinating field of biblical scholarship, one question that often arises is whether all New Testament books were written in Greek. Anita Love, a distinguished authority on the historical and contemporary significance of Christianity, explores this intriguing topic with her extensive knowledge and expertise. With her academic background in Theology and Religious Studies, Anita has delved into the study of ancient biblical manuscripts to shed light on the language in which these sacred texts were penned. As we journey through her insightful writings, we will discover the complexities and intricacies woven into the rich tapestry of the New Testament's linguistic origins.
 
-In the fascinating field of biblical scholarship, one question that often arises is whether all New Testament books were written in Greek. Anita Love, a distinguished authority on the historical and contemporary significance of Christianity, explores this intriguing topic with her extensive knowledge and expertise. With her academic background in Theology and Religious Studies, Anita has delved into the study of ancient biblical manuscripts to shed light on the language in which these sacred texts were penned. As we journey through her insightful writings, we will discover the complexities and intricacies woven into the rich tapestry of the New Testament's linguistic origins.
+This topic is part of our [research on biblical scripture studies](/research/scripture).
+
  
 
   
@@ -192,6 +193,13 @@ Several historical events during the New Testament era may have influenced the u
 ## Conclusion
  
 , the New Testament is a collection of 27 books that recount the life, teachings, death, and resurrection of Jesus Christ, as well as the early experiences of his apostles. While the majority of the New Testament books were written in Greek, there is ongoing debate regarding the possibility of Aramaic influences on the original texts. Latin, as the official language of the Roman Empire, also played a role during the New Testament era, although its direct impact on the texts is less pronounced. The translation of the New Testament into various languages has been crucial for its dissemination and interpretation throughout history. Modern scholarship continues to enhance our understanding of the Greek New Testament through various disciplines and discoveries. The cultural and historical context of Greek in the New Testament is significant for interpreting the texts accurately. Overall, the New Testament's language and cultural context provide valuable insights into the development of early Christianity and the spread of its message.
+
+## Related Research
+
+Explore these related articles for deeper study:
+
+- [Is the old Testament Written in Greek or Hebrew?](/research/scripture/is-the-old-testament-written-in-greek-or-hebrew)
+- [Old Testament Books Written in Aramaic](/research/scripture/old-testament-books-written-in-aramaic)
 
 ## Frequently Asked Questions
 

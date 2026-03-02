@@ -11,9 +11,10 @@ imageAlt: "notre-dame cathedral, catholic, church, cathedral, dame, notre, paris
 imageCredit: "Image by dancepool on Pixabay"
 imageWidth: 1280
 imageHeight: 851
----
+---First Temple Period Discovery Reveals Ancient is a theological subject that explores the intersection of faith traditions and historical evidence.
 
-First Temple Period Discovery Reveals Ancient is a theological subject that explores the intersection of faith traditions and historical evidence.
+This topic is part of our [research on faith and history](/research/faith).
+
 
 Do you ever wonder what secrets the ancient world might reveal to us if given the right tools and expertise? In a thrilling intersection of religion, history, and science, the First Temple Period discovery has unveiled treasures, both literal and metaphorical, that deepen our understanding of a bygone era. The journey between these sacred findings and the intricate tapestry of life during this period is nothing short of riveting. Within this narrative, we will traverse through a biblical passage of time, the archaeological treasures discovered, and their significance to our modern understanding of ancient history.
   
@@ -69,6 +70,12 @@ This archaeological endeavor uncovers a treasure trove of knowledge about the Fi
 ### Related Pilgrimage Guides
 
 - [How Pilgrims Ascended the Temple Mount in Ancient Jerusalem](/routes/temple-mount-ascent)
+
+## Related Research
+
+Explore these related articles for deeper study:
+
+- [Ancient Jewish Quarter Reveals Temple era Commerce](/research/faith/ancient-jewish-quarter-reveals-temple-era-commerce)
 
 ## Frequently Asked Questions
 

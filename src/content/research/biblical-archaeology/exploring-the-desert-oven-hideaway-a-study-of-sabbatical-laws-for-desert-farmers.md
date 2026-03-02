@@ -11,9 +11,10 @@ imageAlt: "jerusalem, israel, old town, walls, the rock temple, dome of the rock
 imageCredit: "Image by Walkerssk on Pixabay"
 imageWidth: 1280
 imageHeight: 493
----
+---Discovering Ancient Desert Farming: How Sabbatical Laws is a topic in biblical archaeology that connects ancient material evidence with scriptual narratives.
 
-Discovering Ancient Desert Farming: How Sabbatical Laws is a topic in biblical archaeology that connects ancient material evidence with scriptual narratives.
+This topic is part of our [research on biblical archaeology](/research/biblical-archaeology).
+
 
 What would it be like to step into the shoes of a desert farmer, surrounded by the vast, sunbaked expanse of arid land? Imagine the harshness of the sun bearing down, the challenge of cultivating crops in such conditions, and yet, amidst all this, the application of ancient laws as a guiding principle. It might seem perplexing, but this is the very essence of the Sabbatical laws that govern agricultural practices in the desert. Lets navigate through the intriguing relationship between these laws and modern farming in the desert, particularly at the Desert Oven Hideaway.
  
@@ -169,6 +170,13 @@ As you look to the complexities of modern farming in arid areas like the Desert 
 Reflecting back on the conceptualization of Sabbatical years, you realize it isnt just about farming. Its about life, responsibility, and the ethos that underpins our connection to the earth. By revisiting these ancient teachings in the context of contemporary issues, youre not just learning about agricultural practices; youre engaging in a conversation that spans millennia, bringing together lessons from generations past to inspire future stewardship of our planet.
  
 So next time you walk through a farming community, picture the rhythm of the landthe resting years, the vibrant blooms, and the hungry mouths it feeds. Thats the dance of sustainability, and its a dance worth mastering. After all, just as the land rejuvenates for another cycle, so too can we embrace renewal in our lives.
+
+## Related Research
+
+Explore these related articles for deeper study:
+
+- [Discovering Ancient Israel: a Deep Dive into Biblical](/research/biblical-archaeology/biblical-archaeology-and-the-dead-sea-scrolls-in-israel)
+- [Discovering the Ancient Jewish Bath House](/research/biblical-archaeology/discovering-the-ancient-jewish-bath-house)
 
 ## Frequently Asked Questions
 

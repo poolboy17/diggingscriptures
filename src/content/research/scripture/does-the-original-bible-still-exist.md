@@ -11,9 +11,10 @@ imageAlt: "manuscript, medieval, antique, paper, parchment, vintage, document, l
 imageCredit: "Image by V2Melody on Pixabay"
 imageWidth: 1280
 imageHeight: 854
----
+---Does the Original Bible Still Exist? refers to a subject within biblical manuscript studies that scholars continue to investigate.
 
-Does the Original Bible Still Exist? refers to a subject within biblical manuscript studies that scholars continue to investigate.
+This topic is part of our [research on biblical scripture studies](/research/scripture).
+
 
 The search for the original Bible manuscripts has intrigued scholars and believers alike for centuries. While the Dead Sea Scrolls have provided invaluable insights into ancient biblical texts, the quest for the exact, untouched originals remains elusive.
 
@@ -70,6 +71,12 @@ Despite uncertainties surrounding the original manuscripts, the enduring impact 
 ### Related Pilgrimage Guides
 
 - [Shikoku 88 Temple Pilgrimage: Historic Pilgrimage Route](/routes/shikoku-88-temples)
+
+## Related Research
+
+Explore these related articles for deeper study:
+
+- [Do any of the Original Books of the Bible Still Exist?](/research/scripture/do-any-of-the-original-books-of-the-bible-still-exist)
 
 ## Frequently Asked Questions
 

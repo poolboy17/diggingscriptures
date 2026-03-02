@@ -11,9 +11,10 @@ imageAlt: "glasses, case, reading glasses, glasses case, optically, case, case, 
 imageCredit: "Image by HOerwin56 on Pixabay"
 imageWidth: 1280
 imageHeight: 804
----
+---Deciphering the Gospel: John Rylands Papyrus and Early refers to ancient material remains that provide physical evidence for understanding biblical history.
 
-Deciphering the Gospel: John Rylands Papyrus and Early refers to ancient material remains that provide physical evidence for understanding biblical history.
+This topic is part of our [research on ancient artifacts](/research/artifacts).
+
 
 Have you ever wondered about the oldest known remnants of the New Testament? Imagine holding a fragment that traces back to Christianity's earliest days. Welcome to the fascinating world of the John Rylands Papyrusa captivating window into first-century gospel history.
  
@@ -176,6 +177,13 @@ Community engagement amplifies the papyrus' meaning. Workshops, lectures, and ed
  
  
 As the ancient meets the modern through community involvement, the papyrus transforms into a living piece of historyone that continues to inform, inspire, and challenge perspectives across generations.
+
+## Related Research
+
+Explore these related articles for deeper study:
+
+- [New Evidence Sheds Light: The John Rylands Papyrus and its Gospel](/research/artifacts/the-john-rylands-papyrus-first-century-gospel-fragment)
+- [Deciphering Codex Vaticanus: Its Transformative Influence on](/research/artifacts/how-codex-vaticanus-shapes-our-bible-text-today)
 
 ## Frequently Asked Questions
 

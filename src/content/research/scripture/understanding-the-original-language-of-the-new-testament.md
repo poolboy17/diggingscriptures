@@ -11,9 +11,10 @@ imageAlt: "bhagavad gita, ancient scriptures, john rylands library, book, old, l
 imageCredit: "Image by nmoodley on Pixabay"
 imageWidth: 1280
 imageHeight: 960
----
+---Understanding the Original Language of the new Testament refers to a subject within biblical manuscript studies that scholars continue to investigate.
 
-Understanding the Original Language of the new Testament refers to a subject within biblical manuscript studies that scholars continue to investigate.
+This topic is part of our [research on biblical scripture studies](/research/scripture).
+
 
 Have you ever wondered about the original language of the New Testament? It's a fascinating topic, and Anita Love, a renowned authority in Christian theology, has dedicated her career to understanding the intricacies of ancient biblical manuscripts. With her expertise and academic background, Anita has brought to light the importance of interpreting the New Testament within its historical and cultural context. Through her extensive research, she has uncovered the truth about the language of the New Testament and how it impacts our understanding of Christianity. So, what was the entire New Testament originally written in? Let's find out!
   
@@ -129,6 +130,12 @@ The preservation of the original language of the New Testament is primarily achi
 ### Related Pilgrimage Guides
 
 - [How Pilgrims Ascended the Temple Mount in Ancient Jerusalem](/routes/temple-mount-ascent)
+
+## Related Research
+
+Explore these related articles for deeper study:
+
+- [The Language of the old Testament: Exploring its Original Writing](/research/scripture/the-language-of-the-old-testament-exploring-its-original-writing)
 
 ## Frequently Asked Questions
 

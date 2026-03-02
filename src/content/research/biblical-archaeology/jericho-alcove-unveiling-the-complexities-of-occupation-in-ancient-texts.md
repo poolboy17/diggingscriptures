@@ -11,9 +11,10 @@ imageAlt: "petra, ad deir, world heritage, sand stone, antique, historically, na
 imageCredit: "Image by ChiemSeherin on Pixabay"
 imageWidth: 1280
 imageHeight: 853
----
+---Jerichos Hidden Past: Unearthing Ancient Secrets of is a topic in biblical archaeology that connects ancient material evidence with scriptual narratives.
 
-Jerichos Hidden Past: Unearthing Ancient Secrets of is a topic in biblical archaeology that connects ancient material evidence with scriptual narratives.
+This topic is part of our [research on biblical archaeology](/research/biblical-archaeology).
+
 
 When you think about ancient civilizations, what images come to mind? Is it the sprawling ruins of once-great cities, the mysterious artifacts left behind, or perhaps the stories etched in religious texts that tell tales of human experience? The ancient city of Jericho, one of the oldest continually inhabited places on earth, might just capture your imagination in a way few others can. Let's take a closer look at Jericho, specifically the intriguing complexities surrounding its occupation as unveiled in new manuscripts.
   
@@ -175,6 +176,12 @@ As you ponder the nuances of occupation at Jericho, remember that history is rar
 ### Related Pilgrimage Guides
 
 - [Rabbi Nachman's Journey to Israel](/stories/rabbi-nachman-journey-to-israel)
+
+## Related Research
+
+Explore these related articles for deeper study:
+
+- [Unearthing Ancient Secrets: The Spiritual Unity of](/research/biblical-archaeology/jericho-boundary-crack-unearthing-spiritual-unity-in-ancient-contexts)
 
 ## Frequently Asked Questions
 

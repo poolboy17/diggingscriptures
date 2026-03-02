@@ -11,9 +11,10 @@ imageAlt: "rubber stamp, wooden stamp, round, seen, read, laughing, logo, seal, 
 imageCredit: "Image by Negrobike on Pixabay"
 imageWidth: 1280
 imageHeight: 813
----
+---Comparing Ethics: how the Ark of the Covenant Challenges Modern refers to ancient material remains that provide physical evidence for understanding biblical history.
 
-Comparing Ethics: how the Ark of the Covenant Challenges Modern refers to ancient material remains that provide physical evidence for understanding biblical history.
+This topic is part of our [research on ancient artifacts](/research/artifacts).
+
 
 Have you ever pondered the significance of the Tablets of Law in shaping moral authority throughout history? Its an intriguing exploration, wrapped in layers of cultural, theological, and historical narratives. As we dissect this fascinating subject, we'll look to the Ark of the Covenant and the moral implications of the commandments inscribed upon those iconic tablets.
  
@@ -122,6 +123,12 @@ So, the next time you encounter a moral dilemma, think back to those tablets. Ar
 ### Related Pilgrimage Guides
 
 - [How Pilgrims Ascended the Temple Mount in Ancient Jerusalem](/routes/temple-mount-ascent)
+
+## Related Research
+
+Explore these related articles for deeper study:
+
+- [What Makes Acacia Wood so Significant in the Ark of the Covenant?](/research/artifacts/acacia-wood-blueprint-a-deep-dive-into-the-arks-design)
 
 ## Frequently Asked Questions
 

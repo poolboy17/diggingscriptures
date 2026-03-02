@@ -11,9 +11,10 @@ imageAlt: "egyptian temple, historic site, structure, land lot, archaeological s
 imageCredit: "Image by Wael-Ezz on Pixabay"
 imageWidth: 1280
 imageHeight: 853
----
+---As the world faces the challenges of climate change, it is increasingly important to understand the effects of this global crisis on the preservation of our history. In the field of biblical archaeology, this issue takes on a particular significance, as the uncovering of artifacts and ancient sites provides invaluable insights into the stories written in scripture. This article explores the impact of climate change on biblical archaeology, shedding light on the fascinating intersection between the ancient past and the urgent concerns of the present. From rising sea levels threatening coastal archaeological sites to shifting weather patterns affecting excavation efforts, these environmental changes present both obstacles and opportunities for uncovering the biblical past. Join us in this exploration as we examine into the nexus of climate change and biblical archaeology.
 
-As the world faces the challenges of climate change, it is increasingly important to understand the effects of this global crisis on the preservation of our history. In the field of biblical archaeology, this issue takes on a particular significance, as the uncovering of artifacts and ancient sites provides invaluable insights into the stories written in scripture. This article explores the impact of climate change on biblical archaeology, shedding light on the fascinating intersection between the ancient past and the urgent concerns of the present. From rising sea levels threatening coastal archaeological sites to shifting weather patterns affecting excavation efforts, these environmental changes present both obstacles and opportunities for uncovering the biblical past. Join us in this exploration as we examine into the nexus of climate change and biblical archaeology.
+This topic is part of our [research on archaeological excavations](/research/excavations).
+
 
 ## Exploring the Role of Biblical Archaeology
 
@@ -134,6 +135,12 @@ Biblical archaeology serves as a bridge between the ancient past and the present
 ### Related Pilgrimage Guides
 
 - [Why Walking to Sacred Places Changes People](/context/psychology-of-pilgrimage)
+
+## Related Research
+
+Explore these related articles for deeper study:
+
+- [Uncovering the Past: Biblical Archaeology Through Geospatial](/research/excavations/uncovering-the-past-biblical-archaeology-through-geospatial-technology)
 
 ## Frequently Asked Questions
 

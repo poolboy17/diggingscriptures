@@ -11,9 +11,10 @@ imageAlt: "candles, church, burning, religion, light, flame, fire, celebration, 
 imageCredit: "Image by Republica on Pixabay"
 imageWidth: 1280
 imageHeight: 920
----
+---The Infamous Relics: Famous Fakes and Forgeries in Biblical is a theological subject that explores the intersection of faith traditions and historical evidence.
 
-The Infamous Relics: Famous Fakes and Forgeries in Biblical is a theological subject that explores the intersection of faith traditions and historical evidence.
+This topic is part of our [research on faith and history](/research/faith).
+
 
 "The Infamous Relics: Famous Fakes and Forgeries in Biblical Archaeology" takes readers on a captivating journey through the fascinating world of counterfeit artifacts that have made their way into the field of biblical archaeology. From cleverly crafted replicas to audacious hoaxes, this article unveils the shocking tales of deceit and manipulation that have left experts and enthusiasts alike questioning the authenticity of some of the most treasured relics. examine into the intriguing stories behind these infamous forgeries and explore the lingering impact they have had on our understanding of history and faith.
 
@@ -286,6 +287,12 @@ Overall, the Dead Sea Scrolls represent an extraordinary archaeological find tha
 ### Related Pilgrimage Guides
 
 - [How Pilgrims Ascended the Temple Mount in Ancient Jerusalem](/routes/temple-mount-ascent)
+
+## Related Research
+
+Explore these related articles for deeper study:
+
+- [Uncovering Rare Relics  how Biblical Archaeology Shapes our](/research/faith/biblical-archaeology-uncovering-rare-relics-understanding-past)
 
 ## Frequently Asked Questions
 

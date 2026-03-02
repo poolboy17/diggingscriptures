@@ -11,9 +11,10 @@ imageAlt: "hieroglyphs, egypt, stone, art, old, egyptian, history, antique, mona
 imageCredit: "Image by barasa81 on Pixabay"
 imageWidth: 1280
 imageHeight: 853
----
+---The Evolution of Temple Worship Artifacts refers to ancient material remains that provide physical evidence for understanding biblical history.
 
-The Evolution of Temple Worship Artifacts refers to ancient material remains that provide physical evidence for understanding biblical history.
+This topic is part of our [research on ancient artifacts](/research/artifacts).
+
 
 Have you ever wondered about the artifacts that have shaped the practices of temple worship over centuries? Objects that have been central to some of the oldest religious traditions throughout history can tell us a great deal about the cultures and eras they come from. In discussing these artifacts, we traverse a path woven through millennia, tracing how the tangible elements of worship have transformed alongside beliefs and rituals. "The Evolution of Temple Worship Artifacts" sheds light on this captivating journey, offering insights into ancient practices and their enduring influence on contemporary worship.
  
@@ -99,6 +100,12 @@ This exploration of temple worship artifacts invites thoughtful reflection on th
 ### Related Pilgrimage Guides
 
 - [Shikoku 88 Temple Pilgrimage: Historic Pilgrimage Route](/routes/shikoku-88-temples)
+
+## Related Research
+
+Explore these related articles for deeper study:
+
+- [Temple Artifacts Reveal Ancient Worship Practices](/research/artifacts/temple-artifacts-reveal-ancient-worship-practices)
 
 ## Frequently Asked Questions
 

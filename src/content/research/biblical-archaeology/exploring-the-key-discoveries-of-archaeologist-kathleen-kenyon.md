@@ -11,9 +11,10 @@ imageAlt: "archaeology, excavation, sun sails, protection, sun protection, archa
 imageCredit: "Image by Efraimstochter on Pixabay"
 imageWidth: 1280
 imageHeight: 960
----
+---Archaeologist Kathleen Kenyon is renowned for her groundbreaking discoveries that shed light on the ancient world. Through her meticulous excavations in Jericho, Jerusalem, and various sites in the Middle East, she unearthed a wealth of artifacts and evidence that provided invaluable insights into biblical history and the development of human civilization. From the uncovering of the earliest stone houses in Jericho to the identification of significant architectural features in ancient Jerusalem, Kenyon's research has revolutionized our understanding of the past. Join us as we embark on a fascinating journey, exploring the key discoveries that have solidified Kathleen Kenyon's legacy as one of the most influential archaeologists of her time.
 
-Archaeologist Kathleen Kenyon is renowned for her groundbreaking discoveries that shed light on the ancient world. Through her meticulous excavations in Jericho, Jerusalem, and various sites in the Middle East, she unearthed a wealth of artifacts and evidence that provided invaluable insights into biblical history and the development of human civilization. From the uncovering of the earliest stone houses in Jericho to the identification of significant architectural features in ancient Jerusalem, Kenyon's research has revolutionized our understanding of the past. Join us as we embark on a fascinating journey, exploring the key discoveries that have solidified Kathleen Kenyon's legacy as one of the most influential archaeologists of her time.
+This topic is part of our [research on biblical archaeology](/research/biblical-archaeology).
+
 
 ## Early Life and Education
 
@@ -192,6 +193,12 @@ Kenyon's legacy in empowering women archaeologists cannot be overstated. Through
 ### Related Pilgrimage Guides
 
 - [How Pilgrims Ascended the Temple Mount in Ancient Jerusalem](/routes/temple-mount-ascent)
+
+## Related Research
+
+Explore these related articles for deeper study:
+
+- [Exploring Biblical Archaeology Discoveries](/research/biblical-archaeology/exploring-biblical-archaeology-discoveries)
 
 ## Frequently Asked Questions
 

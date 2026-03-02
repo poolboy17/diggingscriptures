@@ -11,9 +11,10 @@ imageAlt: "mosaic, mosaic tiles, floor, ancient, decorative, decoration, tile, g
 imageCredit: "Image by BiljaST on Pixabay"
 imageWidth: 1280
 imageHeight: 960
----
+---Explore the Ancient Galilean Synagogue Mosaic: a Journey is a theological subject that explores the intersection of faith traditions and historical evidence.
 
-Explore the Ancient Galilean Synagogue Mosaic: a Journey is a theological subject that explores the intersection of faith traditions and historical evidence.
+This topic is part of our [research on faith and history](/research/faith).
+
 
 What if a single mosaic could reveal the secrets of ancient festal rites? Picture this: a vibrant tapestry of colors and shapes preserved in time, offering whispers of a world long gone. The Galilean Synagogue Mosaic, unearthed in Israel, is not just a mere decoration but a portal to understanding the rituals and cultural life of its era. Youre about to step into a narrative woven with threads of history, faith, and intricate artistry.
  
@@ -189,6 +190,12 @@ As you consider the stories echoed in the stones, remember that the past continu
 ### Related Pilgrimage Guides
 
 - [Rabbi Nachman's Journey to Israel](/stories/rabbi-nachman-journey-to-israel)
+
+## Related Research
+
+Explore these related articles for deeper study:
+
+- [Explore Ancient Galilee Synagogue: Unveiling Watchmen's Sacred](/research/excavations/galilee-synagogue-floor-exploring-the-watchmens-duties-and-sacred-texts)
 
 ## Frequently Asked Questions
 

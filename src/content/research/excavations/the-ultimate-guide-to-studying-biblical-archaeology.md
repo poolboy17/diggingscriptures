@@ -11,9 +11,10 @@ imageAlt: "architecture, old, stone, ancient, building, historic, antique, facad
 imageCredit: "Image by jeh6 on Pixabay"
 imageWidth: 1280
 imageHeight: 853
----
+---The Ultimate Guide to Studying Biblical Archaeology is an area of archaeological investigation that has yielded significant findings about the ancient world.
 
-The Ultimate Guide to Studying Biblical Archaeology is an area of archaeological investigation that has yielded significant findings about the ancient world.
+This topic is part of our [research on archaeological excavations](/research/excavations).
+
 
 In "The Ultimate Guide to Studying Biblical Archaeology," readers will discover a comprehensive and accessible resource for exploring the fascinating world of biblical archaeology. From uncovering ancient artifacts to deciphering long-lost texts, this guide offers valuable insights and practical tips to help readers navigate the intricate field of biblical archaeology. Whether you're a seasoned scholar or simply curious about the subject, this guide provides the best ways to enhance your understanding and appreciation of this captivating discipline.
 
@@ -234,6 +235,12 @@ Promoting the conservation of archaeological sites and artifacts is a shared res
 ### Related Pilgrimage Guides
 
 - [Shikoku 88 Temple Pilgrimage: Historic Pilgrimage Route](/routes/shikoku-88-temples)
+
+## Related Research
+
+Explore these related articles for deeper study:
+
+- [The Ultimate Beginner's Guide to Biblical Archaeology](/research/biblical-archaeology/the-ultimate-beginners-guide-to-biblical-archaeology)
 
 ## Frequently Asked Questions
 

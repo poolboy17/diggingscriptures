@@ -11,9 +11,10 @@ imageAlt: "books, library, read, shelves, shelf, reading, culture, book, edition
 imageCredit: "Image by Marisa_Sias on Pixabay"
 imageWidth: 1280
 imageHeight: 720
----
+---Where is the Oldest Version of the Bible Located? refers to a subject within biblical manuscript studies that scholars continue to investigate.
 
-Where is the Oldest Version of the Bible Located? refers to a subject within biblical manuscript studies that scholars continue to investigate.
+This topic is part of our [research on biblical scripture studies](/research/scripture).
+
 
 Nestled in the quiet confines of Saint Catherine's Monastery in the Sinai Peninsula lies a time-worn relic that holds the secrets of the ancient world.
 
@@ -67,6 +68,13 @@ This manuscript is shared among multiple prominent institutions, including the B
 
 To provide a clearer overview, a table detailing the locations of the Codex Sinaiticus is presented below:
 **Institution****Location****Significance**British LibraryLondon, UKHouses a significant portion of the manuscriptLeipzig University LibraryLeipzig, GermanyHolds parts of the Codex SinaiticusRussian National LibrarySt. Petersburg, RussiaSafeguards a section of the ancient manuscriptSt. Catherine's MonasterySinai Peninsula, EgyptInitial discovery site of the Codex Sinaiticus
+
+## Related Research
+
+Explore these related articles for deeper study:
+
+- [Is the Ethiopian Bible the Oldest Bible?](/research/scripture/is-the-ethiopian-bible-the-oldest-bible)
+- [Is the Ethiopian Bible the Oldest?](/research/scripture/is-the-ethiopian-bible-the-oldest)
 
 ## Frequently Asked Questions
 

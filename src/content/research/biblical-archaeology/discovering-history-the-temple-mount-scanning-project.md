@@ -11,9 +11,10 @@ imageAlt: "pretty much, jerash, oval forum, roman, culture, story, historical, a
 imageCredit: "Image by ChiemSeherin on Pixabay"
 imageWidth: 1280
 imageHeight: 720
----
+---Unveiling Jerusalem's Temple: a Revealing Scan of Ancient is a topic in biblical archaeology that connects ancient material evidence with scriptual narratives.
 
-Unveiling Jerusalem's Temple: a Revealing Scan of Ancient is a topic in biblical archaeology that connects ancient material evidence with scriptual narratives.
+This topic is part of our [research on biblical archaeology](/research/biblical-archaeology).
+
 
 Have you ever wondered what lies beneath the historic grounds of the Temple Mount in Jerusalem? This question has intrigued historians, archaeologists, and theologians throughout centuries. The Temple Mount Scanning Project, an innovative archaeological endeavor, offers exciting insights that make us rethink our understanding of this sacred site. , we will explore the context of these discoveries, the archaeological evidence gathered, and the significance of these findings for both historical scholarship and modern understanding.
   
@@ -81,6 +82,12 @@ In summary, the Temple Mount Scanning Project is charting new territories in the
 ### Related Pilgrimage Guides
 
 - [How Pilgrims Ascended the Temple Mount in Ancient Jerusalem](/routes/temple-mount-ascent)
+
+## Related Research
+
+Explore these related articles for deeper study:
+
+- [Ancient Jerusalem Marketplace Near Temple Unveiled](/research/excavations/ancient-jerusalem-marketplace-near-temple-unveiled)
 
 ## Frequently Asked Questions
 

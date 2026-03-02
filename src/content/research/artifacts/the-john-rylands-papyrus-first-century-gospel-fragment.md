@@ -11,9 +11,10 @@ imageAlt: "temple, burma, wall, stone, figurines, cubby holes, ruins, attraction
 imageCredit: "Image by awenstrom on Pixabay"
 imageWidth: 1280
 imageHeight: 960
----
+---New Evidence Sheds Light: The John Rylands Papyrus and its Gospel refers to ancient material remains that provide physical evidence for understanding biblical history.
 
-New Evidence Sheds Light: The John Rylands Papyrus and its Gospel refers to ancient material remains that provide physical evidence for understanding biblical history.
+This topic is part of our [research on ancient artifacts](/research/artifacts).
+
 
 Have you ever wondered about the oldest written records of the New Testament? Discover the fascinating story of the John Rylands Papyrus, often hailed as one of the earliest fragments of the Gospel of John. Authored by Dr. James Elliott, with a PhD in Theology, this article explores why this papyrus remains significant in 2025. In a time of ongoing debates about the roots and reliability of biblical texts, understanding such early fragments can offer a glimpse into the transmission of these influential writings through history.
  
@@ -118,6 +119,13 @@ C. H. Roberts was the scholar who identified the text as part of the Gospel of J
 Textual variants refer to differences between manuscripts. Studying these helps scholars understand the transmission and integrity of biblical texts.
  
 As you continue reading, you'll uncover the vast array of information surrounding this unassuming fragment. The journey of the John Rylands Papyrus from a discovery in Egypt to its place in modern scholarly debate is a testament to the enduring mystery and educational promise that ancient manuscripts provide, extending far beyond the field of theology into the heart of history itself.
+
+## Related Research
+
+Explore these related articles for deeper study:
+
+- [Deciphering the Gospel: John Rylands Papyrus and Early](/research/artifacts/the-john-rylands-papyrus-first-century-gospel-fragment-2)
+- [New Evidence Sheds Light: Tech-Enhanced Analysis of Ancient](/research/artifacts/are-any-original-bible-manuscripts-still-in-existence)
 
 ## Frequently Asked Questions
 

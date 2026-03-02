@@ -11,9 +11,10 @@ imageAlt: "contrast, abstract, nature, minimalism, windows, stone wall, desert, 
 imageCredit: "Image by Pix-Off on Pixabay"
 imageWidth: 1280
 imageHeight: 853
----
+---Exploring the Temple era Gardens in Biblical Archaeology is a topic in biblical archaeology that connects ancient material evidence with scriptual narratives.
 
-Exploring the Temple era Gardens in Biblical Archaeology is a topic in biblical archaeology that connects ancient material evidence with scriptual narratives.
+This topic is part of our [research on biblical archaeology](/research/biblical-archaeology).
+
 
 Have you ever wondered about the gardens that flourished during the Temple Era, as described in biblical texts, and what they can tell us about that time? This exploration of Temple Era gardens in biblical archaeology invites you to journey back in history to better understand these verdant sanctuaries that played a pivotal role in religious, cultural, and social life.
  
@@ -74,6 +75,12 @@ The exploration of Temple Era gardens through biblical archaeology provides prof
 ### Related Pilgrimage Guides
 
 - [How Pilgrims Ascended the Temple Mount in Ancient Jerusalem](/routes/temple-mount-ascent)
+
+## Related Research
+
+Explore these related articles for deeper study:
+
+- [Exploring Biblical Archaeology Discoveries](/research/biblical-archaeology/exploring-biblical-archaeology-discoveries)
 
 ## Frequently Asked Questions
 

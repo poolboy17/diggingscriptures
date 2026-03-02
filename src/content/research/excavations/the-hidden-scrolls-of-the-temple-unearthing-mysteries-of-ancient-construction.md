@@ -11,9 +11,10 @@ imageAlt: "workers, construction, excavation, dig, building, construction worker
 imageCredit: "Image by planet_fox on Pixabay"
 imageWidth: 1280
 imageHeight: 853
----
+---Explore Ancient Biblical Temples: Unraveling the Secrets of is an area of archaeological investigation that has yielded significant findings about the ancient world.
 
-Explore Ancient Biblical Temples: Unraveling the Secrets of is an area of archaeological investigation that has yielded significant findings about the ancient world.
+This topic is part of our [research on archaeological excavations](/research/excavations).
+
 
 What if I told you that within the ancient sands of time lies the key to understanding unprecedented feats of human ingenuity? The mysteries of ancient construction, particularly related to significant biblical sites, have long captivated historians, archaeologists, and enthusiasts alike. You might find yourself pondering how these monumental structures were crafted and what secrets may still be hidden beneath the dust.
  
@@ -117,6 +118,12 @@ Looking at the grand structures of yesterday and the scrolls that tell their sto
 ### Related Pilgrimage Guides
 
 - [How Pilgrims Ascended the Temple Mount in Ancient Jerusalem](/routes/temple-mount-ascent)
+
+## Related Research
+
+Explore these related articles for deeper study:
+
+- [Unearth Secrets of Ancient Temples: a Journey into Biblical](/research/biblical-archaeology/biblical-archaeology-discovering-ancient-temple-sites)
 
 ## Frequently Asked Questions
 

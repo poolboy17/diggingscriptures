@@ -11,9 +11,10 @@ imageAlt: "british museum, parthenon, acropolis, ancient, archaeology, athens, e
 imageCredit: "Image by Tasos_Lekkas on Pixabay"
 imageWidth: 1280
 imageHeight: 978
----
+---How Scholars Reconstruct The Earliest Texts refers to ancient material remains that provide physical evidence for understanding biblical history.
 
-How Scholars Reconstruct The Earliest Texts refers to ancient material remains that provide physical evidence for understanding biblical history.
+This topic is part of our [research on ancient artifacts](/research/artifacts).
+
 
 Have you ever wondered how scholars unravel the mysteries of ancient texts? These timeworn documents carry the wisdom, culture, and tales of civilizations that paved the way for modern society. Yet, the journey to deciphering them is anything but straightforward. I'm Dr. Alex Moon, holding a PhD in Ancient History, and I'm here to shed light on the meticulous work that goes into reconstructing humanity's earliest written records.
  
@@ -117,6 +118,13 @@ Discovered in the mid-20th century, these texts have provided immense insights i
 ### The Epic of Gilgamesh
  
 Reconstructing this epic involved piecing together tablets from different periods and regions. The process has provided a window into Mesopotamian civilization and its literature, revealing the epic's themes of heroism and mortality.
+
+## Related Research
+
+Explore these related articles for deeper study:
+
+- [Analyzing Byzantine, Alexandrian, and Western Texts: Their](/research/artifacts/alexandrian-vs-byzantine-vs-western-texts-explained)
+- [How Church Fathers Help Reconstruct Originals](/research/artifacts/how-church-fathers-help-reconstruct-originals)
 
 ## Frequently Asked Questions
 

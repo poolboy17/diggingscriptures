@@ -11,9 +11,10 @@ imageAlt: "israel, jerusalem, jewish, palestine, religion, temple, judaism, holy
 imageCredit: "Image by Nick115 on Pixabay"
 imageWidth: 1280
 imageHeight: 854
----
+---What is the Earliest Archeological Evidence of the Israelites? is a topic in biblical archaeology that connects ancient material evidence with scriptual narratives.
 
-What is the Earliest Archeological Evidence of the Israelites? is a topic in biblical archaeology that connects ancient material evidence with scriptual narratives.
+This topic is part of our [research on biblical archaeology](/research/biblical-archaeology).
+
 
 The quest to discover the earliest archaeological traces of the Israelites reveals intriguing insights into the ancient origins of this historical group. From enigmatic inscriptions to enigmatic ruins, the evidence offers a tantalizing glimpse into the past.
 
@@ -60,6 +61,12 @@ The development of city-states and urban centers in ancient Israel reshaped the 
 ### Related Pilgrimage Guides
 
 - [Shikoku 88 Temple Pilgrimage: Historic Pilgrimage Route](/routes/shikoku-88-temples)
+
+## Related Research
+
+Explore these related articles for deeper study:
+
+- [What is the Earliest Archaeological Evidence of the Bible?](/research/scripture/what-is-the-earliest-archaeological-evidence-of-the-bible)
 
 ## Frequently Asked Questions
 

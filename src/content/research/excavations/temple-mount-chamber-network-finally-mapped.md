@@ -11,9 +11,10 @@ imageAlt: "chichen itza, mexico, pyramid, milky way, night, mayans, archaeology,
 imageCredit: "Image by Walkerssk on Pixabay"
 imageWidth: 1280
 imageHeight: 773
----
+---Temple Mount Chamber Network Finally Mapped is an area of archaeological investigation that has yielded significant findings about the ancient world.
 
-Temple Mount Chamber Network Finally Mapped is an area of archaeological investigation that has yielded significant findings about the ancient world.
+This topic is part of our [research on archaeological excavations](/research/excavations).
+
 
 Have you ever pondered the mysteries hidden beneath the surface of the Temple Mount? Recent archaeological advancements have allowed scientists to finally map the intricate network of chambers hidden beneath this historically significant site. This breakthrough in our understanding provides not only a more tangible connection to biblical narratives but also sets the stage for modern theological and historical discourse.
  
@@ -73,6 +74,12 @@ For those intrigued by these mysteries, you are encouraged to stay informed abou
 ### Related Pilgrimage Guides
 
 - [How Pilgrims Ascended the Temple Mount in Ancient Jerusalem](/routes/temple-mount-ascent)
+
+## Related Research
+
+Explore these related articles for deeper study:
+
+- [Ancient Temple Mount Discovery Shifts Biblical](/research/excavations/ancient-temple-mount-discovery-shifts-biblical-understanding)
 
 ## Frequently Asked Questions
 

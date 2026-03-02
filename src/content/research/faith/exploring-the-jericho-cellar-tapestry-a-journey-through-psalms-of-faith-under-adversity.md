@@ -11,9 +11,10 @@ imageAlt: "temple, shrine, architecture, travel, tourist attraction, landscape, 
 imageCredit: "Image by gorkhe1980 on Pixabay"
 imageWidth: 1280
 imageHeight: 800
----
+---Unveiling Ancient Psalms: A Deep Dive into Faith & is a theological subject that explores the intersection of faith traditions and historical evidence.
 
-Unveiling Ancient Psalms: A Deep Dive into Faith & is a theological subject that explores the intersection of faith traditions and historical evidence.
+This topic is part of our [research on faith and history](/research/faith).
+
 
 Have you ever pondered the significance of faith during times of adversity? The nuances of the human experience take center stage when you consider how ancient texts speak to our struggles today. The Jericho Cellar Tapestry is a compelling representation of this dynamica woven narrative underscoring the profound relationship between trials and faith, drawn vividly from the rich tradition of the Psalms.
  
@@ -162,6 +163,12 @@ As you think about the ancient voices, remember that your story contributes to t
 ### Related Pilgrimage Guides
 
 - [Rabbi Nachman's Journey to Israel](/stories/rabbi-nachman-journey-to-israel)
+
+## Related Research
+
+Explore these related articles for deeper study:
+
+- [Unveiling Ancient Sacred Crafts: a Deep Dive into Biblical](/research/faith/biblical-archaeology-unearths-ancient-sacred-crafts)
 
 ## Frequently Asked Questions
 

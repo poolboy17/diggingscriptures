@@ -11,9 +11,10 @@ imageAlt: "jerash, jordan, roman, gerasa, travel, architecture, ancient, histori
 imageCredit: "Image by 8834113 on Pixabay"
 imageWidth: 1280
 imageHeight: 853
----
+---Exploring Ancient Jerusalem: Pilgrim Routes Unearthed is an area of archaeological investigation that has yielded significant findings about the ancient world.
 
-Exploring Ancient Jerusalem: Pilgrim Routes Unearthed is an area of archaeological investigation that has yielded significant findings about the ancient world.
+This topic is part of our [research on archaeological excavations](/research/excavations).
+
 
 Have you ever imagined walking in the footsteps of pilgrims who traversed the ancient city of Jerusalem thousands of years ago? In a world where modern life often overshadows the bustling progress of history, uncovering the ancient paths of Jerusalem that people once trod in search of spiritual fulfillment offers a captivating glimpse into the past. The city, with its profound religious significance, holds secrets waiting to be discovered beneath its surface. Recent archaeological excavations have unearthed fascinating details about these pilgrim routesrevealing the heart of a city consistently teeming with faith, history, and cultural intersection.
   
@@ -75,6 +76,12 @@ In summary, the ongoing excavation of ancient pilgrim routes in Jerusalem unveil
 ### Related Pilgrimage Guides
 
 - [How Pilgrims Ascended the Temple Mount in Ancient Jerusalem](/routes/temple-mount-ascent)
+
+## Related Research
+
+Explore these related articles for deeper study:
+
+- [Exploring the Ancient Jerusalem Palace Complex Discoveries](/research/excavations/exploring-the-ancient-jerusalem-palace-complex-discoveries)
 
 ## Frequently Asked Questions
 

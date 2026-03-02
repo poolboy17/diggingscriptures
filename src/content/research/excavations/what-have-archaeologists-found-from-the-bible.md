@@ -11,9 +11,10 @@ imageAlt: "masada national park, masada, the great revolt, roman siege ramp, cli
 imageCredit: "Image by samirsmier on Pixabay"
 imageWidth: 1280
 imageHeight: 720
----
+---What Have Archaeologists Found from the Bible? is an area of archaeological investigation that has yielded significant findings about the ancient world.
 
-What Have Archaeologists Found from the Bible? is an area of archaeological investigation that has yielded significant findings about the ancient world.
+This topic is part of our [research on archaeological excavations](/research/excavations).
+
 
 In the vast landscape of archaeological findings related to the Bible, one particular discovery stands out like a beacon illuminating the past.
 
@@ -62,6 +63,12 @@ Through these discoveries, the intricate details of ancient cultural practices a
 ### Related Pilgrimage Guides
 
 - [Jerusalem Old City: Sacred Pilgrimage Destination](/places/jerusalem-old-city)
+
+## Related Research
+
+Explore these related articles for deeper study:
+
+- [Have any Artifacts from the Bible Been Found?](/research/excavations/have-any-artifacts-from-the-bible-been-found)
 
 ## Frequently Asked Questions
 

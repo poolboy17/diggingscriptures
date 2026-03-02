@@ -11,9 +11,10 @@ imageAlt: "church, ceiling, dome, architecture, cathedral, historical, basilica,
 imageCredit: "Image by ArminEP on Pixabay"
 imageWidth: 1280
 imageHeight: 853
----
+---High Holy Psalms: Unraveling the Mysteries of Ancient Biblical is a theological subject that explores the intersection of faith traditions and historical evidence.
 
-High Holy Psalms: Unraveling the Mysteries of Ancient Biblical is a theological subject that explores the intersection of faith traditions and historical evidence.
+This topic is part of our [research on faith and history](/research/faith).
+
 
 What if you could stand among ancient priests, encircling the Ark of the Covenant, listening to the melodic prayers that resonated through the ages? The notion of sacred music, deep-rooted in biblical traditions, evokes a sense of timeless spirituality. High Holy Psalms hold the essence of this experience, blending history, faith, and music into an enduring legacy. Lets unravel the captivating tapestry of these psalms and their significance in sacred rituals.
  
@@ -185,6 +186,12 @@ In essence, High Holy Psalms continue to offer a melodic prayer that resonates w
 ### Related Pilgrimage Guides
 
 - [How Pilgrims Ascended the Temple Mount in Ancient Jerusalem](/routes/temple-mount-ascent)
+
+## Related Research
+
+Explore these related articles for deeper study:
+
+- [Unraveling Biblical Mysteries: Journey into Ancient History](/research/faith/cliff-stone-platform-a-study-of-the-apocalyptic-day-of-reckoning)
 
 ## Frequently Asked Questions
 

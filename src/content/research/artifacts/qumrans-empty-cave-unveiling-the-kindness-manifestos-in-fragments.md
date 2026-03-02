@@ -11,9 +11,10 @@ imageAlt: "coins, ancient, roman, money, old, copper, bronze, collection, financ
 imageCredit: "Image by papazachariasa on Pixabay"
 imageWidth: 1280
 imageHeight: 853
----
+---Have you ever stumbled upon a piece of history that made you stop and think, "What was life like back then?" The discovery of the Dead Sea Scrolls, particularly the fragments found in Qumrans so-called Empty Cave, provides a glimpse into a world brimming with complexitiesfaith, kindness, and societal norms that resonate even today. Lets unpack the treasure trove of findings and decipher the kindness manifestos hidden within those age-old texts.
 
-Have you ever stumbled upon a piece of history that made you stop and think, "What was life like back then?" The discovery of the Dead Sea Scrolls, particularly the fragments found in Qumrans so-called Empty Cave, provides a glimpse into a world brimming with complexitiesfaith, kindness, and societal norms that resonate even today. Lets unpack the treasure trove of findings and decipher the kindness manifestos hidden within those age-old texts.
+This topic is part of our [research on ancient artifacts](/research/artifacts).
+
  
 
  
@@ -126,6 +127,13 @@ In wrapping up the exploration of Qumrans Empty Cave and its kindness manifestos
 You might find it endlessly fascinating that despite the miles and years separating us from those ancient authors, their messages of compassion continue to bear witness to a crucial aspect of the human experience. So, as you carry on with your daily life, consider how you can embody the spirit of kindness, echoing the ancient teachings that persist through worship and scholarship alike.
  
 Remember, kindness is not just an emotion; its a legacy that you have the power to nurture and pass onone small act at a time.
+
+## Related Research
+
+Explore these related articles for deeper study:
+
+- [Discover Ancient Ethics: Qumran Storeroom's Timeless Lessons](/research/excavations/exploring-the-qumran-storeroom-trunk-a-study-in-moral-integrity)
+- [Qumran Wadi Silt: a Window into Ancient Biblical Life and Lessons](/research/excavations/qumran-wadi-silt-and-the-book-of-jobs-righteous-resolve)
 
 ## Frequently Asked Questions
 

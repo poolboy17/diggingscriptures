@@ -11,9 +11,10 @@ imageAlt: "qumran national park, qumran, archeology, dead sea scrolls, cave numb
 imageCredit: "Image by samirsmier on Pixabay"
 imageWidth: 1280
 imageHeight: 720
----
+---Are There any Archaeological Evidence of the Bible? refers to a subject within biblical manuscript studies that scholars continue to investigate.
 
-Are There any Archaeological Evidence of the Bible? refers to a subject within biblical manuscript studies that scholars continue to investigate.
+This topic is part of our [research on biblical scripture studies](/research/scripture).
+
 
 In the vast landscape of historical exploration, archaeology acts as a skilled detective, unearthing clues that may shed light on the biblical narratives. The quest for tangible evidence of the Bible has sparked much debate and fascination among scholars and enthusiasts alike.
 
@@ -68,6 +69,12 @@ Additionally, the Kuntillet Ajrud inscriptions, which associate Yahweh with Ashe
 ### Related Pilgrimage Guides
 
 - [How Pilgrims Ascended the Temple Mount in Ancient Jerusalem](/routes/temple-mount-ascent)
+
+## Related Research
+
+Explore these related articles for deeper study:
+
+- [What is the Earliest Archaeological Evidence of the Bible?](/research/scripture/what-is-the-earliest-archaeological-evidence-of-the-bible)
 
 ## Frequently Asked Questions
 

@@ -11,9 +11,10 @@ imageAlt: "masada national park, masada, the great revolt, roman siege ramp, cli
 imageCredit: "Image by samirsmier on Pixabay"
 imageWidth: 1280
 imageHeight: 720
----
+---Could it be that our understanding of ancient human migrations is on the cusp of a paradigm shift thanks to advances in DNA analysis? As researchers reveal genetic secrets buried deep within ancient bones, the migratory paths of our ancestors are being mapped with unprecedented clarity. This article examines how the transformative nature of DNA analysis is painting a new picture of ancient migrations, particularly in the context of biblical history.
 
-Could it be that our understanding of ancient human migrations is on the cusp of a paradigm shift thanks to advances in DNA analysis? As researchers reveal genetic secrets buried deep within ancient bones, the migratory paths of our ancestors are being mapped with unprecedented clarity. This article examines how the transformative nature of DNA analysis is painting a new picture of ancient migrations, particularly in the context of biblical history.
+This topic is part of our [research on biblical archaeology](/research/biblical-archaeology).
+
   
   
 ## Introduction
@@ -83,6 +84,12 @@ The integration of DNA analysis into the study of ancient migrations marks a tra
 ### Related Pilgrimage Guides
 
 - [Rabbi Nachman's Journey to Israel](/stories/rabbi-nachman-journey-to-israel)
+
+## Related Research
+
+Explore these related articles for deeper study:
+
+- [Unveiling Biblical History: how Advanced Imaging Decodes](/research/biblical-archaeology/advanced-imaging-illuminates-ancient-hebrew-texts)
 
 ## Frequently Asked Questions
 

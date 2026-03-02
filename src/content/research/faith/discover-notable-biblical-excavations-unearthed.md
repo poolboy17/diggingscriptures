@@ -11,9 +11,10 @@ imageAlt: "church, ceiling, dome, architecture, cathedral, historical, basilica,
 imageCredit: "Image by ArminEP on Pixabay"
 imageWidth: 1280
 imageHeight: 853
----
+---Discover Notable Biblical Excavations Unearthed is a theological subject that explores the intersection of faith traditions and historical evidence.
 
-Discover Notable Biblical Excavations Unearthed is a theological subject that explores the intersection of faith traditions and historical evidence.
+This topic is part of our [research on faith and history](/research/faith).
+
 
 examine into the captivating world of uncovering the mysteries of biblical history through fascinating ancient artifacts found in archaeological discoveries. 
 
@@ -143,6 +144,12 @@ Unraveling the Mysteries of Biblical History Research
 ### Related Pilgrimage Guides
 
 - [How Pilgrims Ascended the Temple Mount in Ancient Jerusalem](/routes/temple-mount-ascent)
+
+## Related Research
+
+Explore these related articles for deeper study:
+
+- [Discover Ancient Biblical Towns Unearthed by Modern Remote](/research/excavations/remote-sensing-reveals-lost-biblical-towns)
 
 ## Frequently Asked Questions
 

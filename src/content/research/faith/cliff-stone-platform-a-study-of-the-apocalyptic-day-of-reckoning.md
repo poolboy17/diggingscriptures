@@ -11,9 +11,10 @@ imageAlt: "mosque, crowd, worship, mecca, islam, religion, kaaba, trip, architec
 imageCredit: "Image by Konevi on Pixabay"
 imageWidth: 1280
 imageHeight: 853
----
+---Unraveling Biblical Mysteries: Journey into Ancient History is a theological subject that explores the intersection of faith traditions and historical evidence.
 
-Unraveling Biblical Mysteries: Journey into Ancient History is a theological subject that explores the intersection of faith traditions and historical evidence.
+This topic is part of our [research on faith and history](/research/faith).
+
 
 What do you think happens when the sun sets on the world as we know it? It's a question thats likely crossed your mind, especially when pondering apocalyptic scenarios. The Cliff Stone Platform is no ordinary site; it beckons as a field where both history and mythology intertwine, shedding light on an age-old question: what does the Day of Reckoning really mean?
  
@@ -142,6 +143,12 @@ Take a moment to appreciate how these stories endure, how they speak to you, per
 ### Related Pilgrimage Guides
 
 - [Rabbi Nachman's Journey to Israel](/stories/rabbi-nachman-journey-to-israel)
+
+## Related Research
+
+Explore these related articles for deeper study:
+
+- [Exploring Biblical Archaeology: Unraveling Ancient History](/research/faith/date-palm-crevice-a-sanctuary-of-faith)
 
 ## Frequently Asked Questions
 

@@ -11,9 +11,10 @@ imageAlt: "calligraphy, story, ink, feather, a book, vintage, old, wood, fairy t
 imageCredit: "Image by Ghinzo on Pixabay"
 imageWidth: 1280
 imageHeight: 853
----
+---Worship in the old and new Testament refers to a subject within biblical manuscript studies that scholars continue to investigate.
 
-Worship in the old and new Testament refers to a subject within biblical manuscript studies that scholars continue to investigate.
+This topic is part of our [research on biblical scripture studies](/research/scripture).
+
 
 In "Worship in the Old and New Testament," Anita Love, a renowned author and scholar in theology and religious studies, explores the practices and traditions of worship in biblical times. With a deep understanding of ancient manuscripts, cultural context, and the canonization process, Anita delves into the diverse nature of worship in both the Old and New Testaments. By analyzing passages and historical events, Anita sheds light on the contrasting themes, literary genres, historical backgrounds, messianic prophecies, and the shift from law to grace in worship practices throughout biblical history. Join Anita on this enlightening journey as she unravels the essence of worship in ancient times and its relevance to modern believers.
   
@@ -181,6 +182,12 @@ By exploring the trends and importance of prayers in Old Testament worship, the 
 ### Related Pilgrimage Guides
 
 - [How Pilgrims Ascended the Temple Mount in Ancient Jerusalem](/routes/temple-mount-ascent)
+
+## Related Research
+
+Explore these related articles for deeper study:
+
+- [Contrasting Worship in the old Testament and the new Testament](/research/scripture/contrasting-worship-in-the-old-testament-and-the-new-testament)
 
 ## Frequently Asked Questions
 

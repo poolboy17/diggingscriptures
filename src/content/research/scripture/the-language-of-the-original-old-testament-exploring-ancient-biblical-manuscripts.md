@@ -11,9 +11,10 @@ imageAlt: "paper, writing, old, antique, write, letter, text, retro, pages, hand
 imageCredit: "Image by Nile on Pixabay"
 imageWidth: 1280
 imageHeight: 783
----
+---The Language of the Original old Testament: Exploring Ancient refers to a subject within biblical manuscript studies that scholars continue to investigate.
 
-The Language of the Original old Testament: Exploring Ancient refers to a subject within biblical manuscript studies that scholars continue to investigate.
+This topic is part of our [research on biblical scripture studies](/research/scripture).
+
 
 Anita Love, a renowned scholar in the field of biblical studies, has dedicated her career to unraveling the mysteries of ancient biblical manuscripts. With a deep understanding of the historical and cultural contexts surrounding the Old Testament, Anita's work sheds light on the language in which the original text was written. Her expertise in theology and religious studies has led her to conclude that the original Old Testament was written primarily in Hebrew, with some portions in Aramaic. By exploring these ancient manuscripts, Anita Love invites us on a captivating journey to discover the language that forms the foundation of one of the world's most influential religious texts.
   
@@ -143,6 +144,12 @@ Studying the messianic prophecies of the Old Testament through the lens of the o
 ### Related Pilgrimage Guides
 
 - [Rabbi Nachman's Journey to Israel](/stories/rabbi-nachman-journey-to-israel)
+
+## Related Research
+
+Explore these related articles for deeper study:
+
+- [The Language of the old Testament: Exploring its Original Writing](/research/scripture/the-language-of-the-old-testament-exploring-its-original-writing)
 
 ## Frequently Asked Questions
 

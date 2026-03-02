@@ -11,9 +11,10 @@ imageAlt: "archaeology, archaeological dig, documenting, digging, research, arch
 imageCredit: "Image by JamesDeMers on Pixabay"
 imageWidth: 1280
 imageHeight: 1165
----
+---Unearthed during excavations are ancient artifacts that have intrigued experts for centuries, providing a fascinating glimpse into past civilizations. **Biblical discoveries** have provided valuable insights into ancient mysteries, shedding light on the customs, beliefs, and practices of our ancestors. 
 
-Unearthed during excavations are ancient artifacts that have intrigued experts for centuries, providing a fascinating glimpse into past civilizations. **Biblical discoveries** have provided valuable insights into ancient mysteries, shedding light on the customs, beliefs, and practices of our ancestors. 
+This topic is part of our [research on biblical archaeology](/research/biblical-archaeology).
+
 
  These findings offer a unique perspective on history, allowing researchers to piece together the puzzle of our ancient past. 
 
@@ -142,6 +143,12 @@ The Significance of Biblical Archaeology
 ### Related Pilgrimage Guides
 
 - [Relics and Sacred Objects: Pilgrimage History & Context](/context/relics-and-sacred-objects)
+
+## Related Research
+
+Explore these related articles for deeper study:
+
+- [Biblical Archaeology Uncovers Ancient Mysteries](/research/faith/biblical-archaeology-uncovers-ancient-mysteries)
 
 ## Frequently Asked Questions
 

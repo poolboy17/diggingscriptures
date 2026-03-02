@@ -11,9 +11,10 @@ imageAlt: "mosque, crowd, worship, mecca, islam, religion, kaaba, trip, architec
 imageCredit: "Image by Konevi on Pixabay"
 imageWidth: 1280
 imageHeight: 853
----
+---Exploring the old Testament's Role in Christianity is a theological subject that explores the intersection of faith traditions and historical evidence.
 
-Exploring the old Testament's Role in Christianity is a theological subject that explores the intersection of faith traditions and historical evidence.
+This topic is part of our [research on faith and history](/research/faith).
+
 
 In the field of Christianity, the Old Testament holds a significant role as the foundation for many of its beliefs and practices. Whether you're a devoted follower or simply curious about the subject, it's fascinating to explore the contrasting themes, various literary genres, and historical contexts of this ancient scripture. Anita Love, a renowned authority in the field, presents a captivating body of work that delves into the depths of Old Testament narratives. With her nuanced perspective and extensive knowledge, she unveils the role of cultural context in interpreting scriptures and the divine inspiration that underlies the canonization process. With Anita's guidance, you'll embark on a journey of discovery, uncovering the rich historical and theological implications of the Old Testament's impact on Christianity.
   
@@ -189,6 +190,12 @@ The belief in divine inspiration of the Old Testament scriptures is fundamental 
 ### Related Pilgrimage Guides
 
 - [Jerusalem Old City: Sacred Pilgrimage Destination](/places/jerusalem-old-city)
+
+## Related Research
+
+Explore these related articles for deeper study:
+
+- [Exploring the Controversies: the Role of Biblical Archaeologists](/research/faith/exploring-the-controversies-the-role-of-biblical-archaeologists)
 
 ## Frequently Asked Questions
 

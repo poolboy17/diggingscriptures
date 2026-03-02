@@ -11,9 +11,10 @@ imageAlt: "bhagavad gita, ancient scriptures, john rylands library, book, old, l
 imageCredit: "Image by nmoodley on Pixabay"
 imageWidth: 1280
 imageHeight: 960
----
+---Where did the Original Books of the Bible Come From? refers to a subject within biblical manuscript studies that scholars continue to investigate.
 
-Where did the Original Books of the Bible Come From? refers to a subject within biblical manuscript studies that scholars continue to investigate.
+This topic is part of our [research on biblical scripture studies](/research/scripture).
+
 
 Many people may not realize that the original books of the Bible have a complex and fascinating history of how they came to be.
 
@@ -62,6 +63,13 @@ Preserving the integrity of the Bible books throughout centuries demanded meticu
 Early church fathers and councils also contributed notably to the preservation of the Bible. They affirmed the canonical status of certain books, helping to solidify the accepted list of texts that make up the Bible today. Translations of the Bible, such as the Latin Vulgate by St. Jerome, were instrumental in disseminating and preserving the original books through different languages and cultures. These translations allowed the message of the Bible to reach a broader audience and ensured its survival through the ages.
 
 The preservation of the Bible through the centuries underscores the dedication and care with which scribes, scholars, and religious authorities worked to maintain the accuracy and sanctity of the sacred texts. The meticulous efforts of these individuals have guaranteed that the Bible remains a foundational text for billions of people worldwide.
+
+## Related Research
+
+Explore these related articles for deeper study:
+
+- [Are the Original Books of the Bible Still in Existence?](/research/scripture/are-the-original-books-of-the-bible-still-in-existence)
+- [Do any of the Original Books of the Bible Still Exist?](/research/scripture/do-any-of-the-original-books-of-the-bible-still-exist)
 
 ## Frequently Asked Questions
 

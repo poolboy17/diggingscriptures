@@ -11,9 +11,10 @@ imageAlt: "scroll, feather, ink, caligraphy, hebrew, writing, characters, paper,
 imageCredit: "Image by zofiaEliyahu on Pixabay"
 imageWidth: 1280
 imageHeight: 859
----
+---The Historical Context of the old Testament and the new Testament refers to a subject within biblical manuscript studies that scholars continue to investigate.
 
-The Historical Context of the old Testament and the new Testament refers to a subject within biblical manuscript studies that scholars continue to investigate.
+This topic is part of our [research on biblical scripture studies](/research/scripture).
+
 
 In exploring the historical context of the Old Testament and the New Testament, it becomes evident that these two divisions of the Holy Bible possess distinct characteristics and themes. Task 1 highlights the contrasting themes such as law, covenant, redemption, and the nature of God. Task 2 examines the different literary genres within each Testament and how they contribute to the understanding of their messages. Task 3 delves into the historical backgrounds associated with each Testament and how they shape interpretation. Task 4 connects the prophecies about a Messiah in the Old Testament to the life and teachings of Jesus in the New Testament. Lastly, Task 5 compares the emphasis on law and covenant in the Old Testament to the emphasis on grace and a new covenant in the New Testament. With Anita Love, a renowned theologian, as our guide, we will explore these fascinating topics and gain a deeper understanding of the foundations of Christianity and their relevance in the present day. So, what is the age difference between the Old Testament and the New Testament? The Old Testament encompasses a span of approximately 1,000 years, from around 1500 BCE to 400 BCE, while the New Testament covers a much shorter timeframe of around 70 years, from around 30 CE to 100 CE.
   
@@ -187,6 +188,12 @@ The Bible holds a central role as a religious text in Christian faith, serving a
 ### Related Pilgrimage Guides
 
 - [Rabbi Nachman's Journey to Israel](/stories/rabbi-nachman-journey-to-israel)
+
+## Related Research
+
+Explore these related articles for deeper study:
+
+- [The Historical Accuracy of the new Testament](/research/scripture/the-historical-accuracy-of-the-new-testament)
 
 ## Frequently Asked Questions
 

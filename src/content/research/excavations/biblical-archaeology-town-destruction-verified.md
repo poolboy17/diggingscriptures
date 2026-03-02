@@ -11,9 +11,10 @@ imageAlt: "workers, construction, excavation, dig, building, construction worker
 imageCredit: "Image by planet_fox on Pixabay"
 imageWidth: 1280
 imageHeight: 853
----
+---Unraveling the Past: the Intersection of Biblical is an area of archaeological investigation that has yielded significant findings about the ancient world.
 
-Unraveling the Past: the Intersection of Biblical is an area of archaeological investigation that has yielded significant findings about the ancient world.
+This topic is part of our [research on archaeological excavations](/research/excavations).
+
 
 Have you ever wondered how modern archaeological discoveries align with the ancient narratives of biblical texts? The field of Biblical Archaeology offers fascinating insights, particularly through verified cases of ancient town destruction that correspond with biblical records. This area of study bridges the ancient past with contemporary scholarship, providing a window into the historical realities behind sacred texts.
   
@@ -87,6 +88,12 @@ As you examine deeper into these historical narratives, consider how the evolvin
 ### Related Pilgrimage Guides
 
 - [Rabbi Nachman's Journey to Israel](/stories/rabbi-nachman-journey-to-israel)
+
+## Related Research
+
+Explore these related articles for deeper study:
+
+- [Uncovering the Past: the Intersection of Biblical Archaeology](/research/biblical-archaeology/uncovering-the-past-the-intersection-of-biblical-archaeology-and-geography)
 
 ## Frequently Asked Questions
 

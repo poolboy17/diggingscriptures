@@ -11,9 +11,10 @@ imageAlt: "pretty much, jerash, columns, roman, ancient, culture, story, histori
 imageCredit: "Image by ChiemSeherin on Pixabay"
 imageWidth: 1280
 imageHeight: 961
----
+---Archaeology Unveils: Ancient Sandstorms Impact on Jericho's is a topic in biblical archaeology that connects ancient material evidence with scriptual narratives.
 
-Archaeology Unveils: Ancient Sandstorms Impact on Jericho's is a topic in biblical archaeology that connects ancient material evidence with scriptual narratives.
+This topic is part of our [research on biblical archaeology](/research/biblical-archaeology).
+
 
 What do you think about the interplay between ancient events and modern archaeological discoveries? Its fascinating how remnants of the past can shape our understanding of history, isn't it? In this piece, we'll take a closer look at the legacy of a significant sandstorm in Jericho and how it intertwined with the Old Meeting Hall and pottery traces, shedding light on a captivating chapter of biblical archaeology.
  
@@ -202,6 +203,12 @@ By looking ahead while keeping one eye firmly on the past, you ensure that the r
 ### Related Pilgrimage Guides
 
 - [Rabbi Nachman's Journey to Israel](/stories/rabbi-nachman-journey-to-israel)
+
+## Related Research
+
+Explore these related articles for deeper study:
+
+- [Discovering Ancient Truths: how Biblical Archaeology Unveils](/research/excavations/exploring-biblical-archaeological-evidence)
 
 ## Frequently Asked Questions
 

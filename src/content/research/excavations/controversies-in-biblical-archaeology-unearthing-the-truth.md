@@ -11,9 +11,10 @@ imageAlt: "mountain, erosion, death valley, desert, dry, drought, rock formation
 imageCredit: "Image by jplenio on Pixabay"
 imageWidth: 1280
 imageHeight: 720
----
+---Controversies in Biblical Archaeology: Unearthing the Truth is an area of archaeological investigation that has yielded significant findings about the ancient world.
 
-Controversies in Biblical Archaeology: Unearthing the Truth is an area of archaeological investigation that has yielded significant findings about the ancient world.
+This topic is part of our [research on archaeological excavations](/research/excavations).
+
 
 "Controversies in Biblical Archaeology: Unearthing the Truth" takes readers on a fascinating journey through the most notable controversies in the history of Biblical archaeology. From contentious interpretations of ancient texts to heated debates surrounding the authenticity of archaeological findings, this article explores the intricacies and complexities that have shaped our understanding of the Bible and its historical context. Uncovering the truth requires an examination of conflicting theories and evidence, offering readers a chance to examine into the captivating world of Biblical archaeology.
 
@@ -208,6 +209,12 @@ The Dead Sea Scrolls have deepened our understanding of Jewish religious and soc
 ### Related Pilgrimage Guides
 
 - [How Pilgrims Ascended the Temple Mount in Ancient Jerusalem](/routes/temple-mount-ascent)
+
+## Related Research
+
+Explore these related articles for deeper study:
+
+- [Unearthing the Truth: Current Controversies in Biblical](/research/excavations/unearthing-the-truth-current-controversies-in-biblical-archaeology)
 
 ## Frequently Asked Questions
 

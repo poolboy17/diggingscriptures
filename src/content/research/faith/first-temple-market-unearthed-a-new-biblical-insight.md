@@ -11,9 +11,10 @@ imageAlt: "candles, church, burning, religion, light, flame, fire, celebration, 
 imageCredit: "Image by Republica on Pixabay"
 imageWidth: 1280
 imageHeight: 920
----
+---First Temple Market Unearthed: a new Biblical Insight is a theological subject that explores the intersection of faith traditions and historical evidence.
 
-First Temple Market Unearthed: a new Biblical Insight is a theological subject that explores the intersection of faith traditions and historical evidence.
+This topic is part of our [research on faith and history](/research/faith).
+
 
 Do you ever ponder the depths of history hidden beneath our feet, waiting to unravel tales of ancient times? A remarkable discovery of a **First Temple Market** has emerged, heralding a potentially groundbreaking insight into the biblical era. This finding not only uncovers a layer of daily life during this period but also propels us into a deeper understanding of historical contexts touched upon in biblical texts. The revelation of the First Temple Market isn't merely about unearthed artifacts; it's an invitation to revisit narratives, explore socio-economic dynamics, and re-evaluate our understanding of history.
   
@@ -83,6 +84,12 @@ Did this brief foray into ancient history spark further questions or insights in
 ### Related Pilgrimage Guides
 
 - [How Pilgrims Ascended the Temple Mount in Ancient Jerusalem](/routes/temple-mount-ascent)
+
+## Related Research
+
+Explore these related articles for deeper study:
+
+- [Royal Seals Unearthed from the First Temple Period](/research/biblical-archaeology/royal-seals-unearthed-from-the-first-temple-period)
 
 ## Frequently Asked Questions
 

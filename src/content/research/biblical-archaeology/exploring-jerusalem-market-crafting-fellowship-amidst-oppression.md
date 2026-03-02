@@ -11,9 +11,10 @@ imageAlt: "pyramids, egypt, egyptian, ancient, desert, giza, historical, archite
 imageCredit: "Image by TheDigitalArtist on Pixabay"
 imageWidth: 1280
 imageHeight: 480
----
+---Jerusalems Market: A Testament to Resilience and Unity in History is a topic in biblical archaeology that connects ancient material evidence with scriptual narratives.
 
-Jerusalems Market: A Testament to Resilience and Unity in History is a topic in biblical archaeology that connects ancient material evidence with scriptual narratives.
+This topic is part of our [research on biblical archaeology](/research/biblical-archaeology).
+
 
 What if I told you that the simple act of shopping could be a profound experience that touches upon centuries of culture, conflict, and community? In the heart of Jerusalem, the market stands as a testament to both resilience and fellowship. While the area around you may reflect a long history of oppression, the market pulses with life, stories, and connections that defy such circumstances.
  
@@ -167,6 +168,12 @@ In a world often polarized by conflict, the fellowship you witness in the market
 ### Related Pilgrimage Guides
 
 - [Jerusalem Old City: Sacred Pilgrimage Destination](/places/jerusalem-old-city)
+
+## Related Research
+
+Explore these related articles for deeper study:
+
+- [Unveiling Biblical History: how Advanced Imaging Decodes](/research/biblical-archaeology/advanced-imaging-illuminates-ancient-hebrew-texts)
 
 ## Frequently Asked Questions
 

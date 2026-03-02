@@ -11,9 +11,10 @@ imageAlt: "amman, jordan, city, urban, buildings, downtown, city life, architect
 imageCredit: "Image by Jonny_Joka on Pixabay"
 imageWidth: 1280
 imageHeight: 853
----
+---Is There a Difference Between Archaeology and Archeology? is a topic in biblical archaeology that connects ancient material evidence with scriptual narratives.
 
-Is There a Difference Between Archaeology and Archeology? is a topic in biblical archaeology that connects ancient material evidence with scriptual narratives.
+This topic is part of our [research on biblical archaeology](/research/biblical-archaeology).
+
 
 Amidst the archaeological community, the distinction between 'archaeology' and 'archeology' has sparked scholarly intrigue. The variance in spelling goes beyond mere orthographic dissimilarities, hinting at deeper historical and cultural underpinnings that shape the discourse.
 
@@ -56,6 +57,13 @@ The prevailing usage and preference for 'archaeology' over 'archeology' undersco
 - **Linguistic Considerations**: The historical roots of the word 'archaeology' align more closely with its Greek origins, which may contribute to its broader acceptance and usage in English-speaking countries.
 
 Looking ahead, the trend towards 'archaeology' as the preferred term is likely to continue, especially as academic publications, research papers, and institutional standards increasingly standardize their usage. However, in regions like New Zealand, where 'archaeology' and 'archeology' are both recognized English terms, individual preferences may still determine the prevalent spelling in various contexts. As the field evolves, understanding the nuances between 'archaeology' and 'archeology' will remain essential for effectively communicating within the archaeological community.
+
+## Related Research
+
+Explore these related articles for deeper study:
+
+- [What is the Difference Between Archaeology and Archeology?](/research/biblical-archaeology/what-is-the-difference-between-archaeology-and-archeology)
+- [What is the Difference Between Archeology and Historical](/research/biblical-archaeology/what-is-the-difference-between-archeology-and-historical-archeology)
 
 ## Frequently Asked Questions
 

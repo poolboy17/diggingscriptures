@@ -11,9 +11,10 @@ imageAlt: "temple of heaven, beijing, stairs, temple, landmark, historical, chin
 imageCredit: "Image by jplenio on Pixabay"
 imageWidth: 1280
 imageHeight: 853
----
+---What if the answers we seek about our past are wrapped in coins buried beneath layers of time? This thought doesnt just spark curiosity; it invites you to ponder the complex narratives spun by ancient civilizations and their artifacts. The findings today often lead us back to the pages of sacred texts, especially when it comes to prophecies, judgments, and the spiritual landscape of cultures that once thrived.
 
-What if the answers we seek about our past are wrapped in coins buried beneath layers of time? This thought doesnt just spark curiosity; it invites you to ponder the complex narratives spun by ancient civilizations and their artifacts. The findings today often lead us back to the pages of sacred texts, especially when it comes to prophecies, judgments, and the spiritual landscape of cultures that once thrived.
+This topic is part of our [research on faith and history](/research/faith).
+
  
 
  
@@ -165,6 +166,12 @@ So, the next time you come across an artifact or a historical account, consider 
 ### Related Pilgrimage Guides
 
 - [Rabbi Nachman's Journey to Israel](/stories/rabbi-nachman-journey-to-israel)
+
+## Related Research
+
+Explore these related articles for deeper study:
+
+- [Examining Prophecies: the Sealed Jar's Ancient Secrets Revealed](/research/biblical-archaeology/the-sealed-jar-with-no-opening-a-flowing-prophecy-like-spring-water)
 
 ## Frequently Asked Questions
 

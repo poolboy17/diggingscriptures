@@ -11,9 +11,10 @@ imageAlt: "scroll, feather, ink, caligraphy, hebrew, writing, characters, paper,
 imageCredit: "Image by zofiaEliyahu on Pixabay"
 imageWidth: 1280
 imageHeight: 859
----
+---Anita Love, a renowned authority in the field of Christianity's historical foundations and its contemporary relevance, has dedicated her expertise to answering one intriguing question: was the original New Testament written in Greek or Hebrew? With an impressive background in Theology and Religious Studies, Anita has extensively researched ancient biblical manuscripts and delved into the authenticity of religious teachings. Her body of work, consisting of published books and scholarly articles, offers a nuanced perspective that honors the diversity of Christian denominations while shedding light on the scriptural events that have shaped our understanding of faith. Join Anita on this fascinating investigation as she navigates through the historical accuracy and cultural contexts surrounding the writing of the New Testament, ultimately revealing the linguistic origins that underpin this profound religious text.
 
-Anita Love, a renowned authority in the field of Christianity's historical foundations and its contemporary relevance, has dedicated her expertise to answering one intriguing question: was the original New Testament written in Greek or Hebrew? With an impressive background in Theology and Religious Studies, Anita has extensively researched ancient biblical manuscripts and delved into the authenticity of religious teachings. Her body of work, consisting of published books and scholarly articles, offers a nuanced perspective that honors the diversity of Christian denominations while shedding light on the scriptural events that have shaped our understanding of faith. Join Anita on this fascinating investigation as she navigates through the historical accuracy and cultural contexts surrounding the writing of the New Testament, ultimately revealing the linguistic origins that underpin this profound religious text.
+This topic is part of our [research on biblical scripture studies](/research/scripture).
+
   
   
 ## Background of Biblical Languages
@@ -93,6 +94,13 @@ After weighing the evidence and considering the various arguments, it is apparen
 However, the presence of Hebrew influence, as seen through historical evidence, Hebraisms, and claims by early church fathers, cannot be ignored. Additionally, the role of Aramaic and the influence of the Septuagint further complicate the debate.
  
 Ultimately, it is crucial to recognize the complexity of determining the 'original' language and to approach the New Testament with an understanding of the implications for biblical interpretation. Acknowledging the diverse linguistic and cultural influences on the text enhances our appreciation and comprehension of this sacred collection of writings.
+
+## Related Research
+
+Explore these related articles for deeper study:
+
+- [Is the old Testament Written in Greek or Hebrew?](/research/scripture/is-the-old-testament-written-in-greek-or-hebrew)
+- [Why is the new Testament Written in Greek and not Hebrew?](/research/scripture/why-is-the-new-testament-written-in-greek-and-not-hebrew)
 
 ## Frequently Asked Questions
 

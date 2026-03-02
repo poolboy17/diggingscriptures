@@ -11,9 +11,10 @@ imageAlt: "western wall, jerusalem, jews, pray, orthodox, holy, religious, weste
 imageCredit: "Image by rliessum on Pixabay"
 imageWidth: 1280
 imageHeight: 960
----
+---Unearthing Ancient Temples: Biblical Secrets & is a theological subject that explores the intersection of faith traditions and historical evidence.
 
-Unearthing Ancient Temples: Biblical Secrets & is a theological subject that explores the intersection of faith traditions and historical evidence.
+This topic is part of our [research on faith and history](/research/faith).
+
 
 Have you ever wondered about the intertwining narratives of temple construction as viewed through both biblical texts and archaeological discoveries? The age-old intrigue surrounding the construction of ancient temples is a compelling convergence of history, theology, and archaeology. Understanding these monumental structures demands a journey through ancient scriptures and the dusty excavations of learned archaeologists. This exploration provides insight into the religious, cultural, and historical significance of these architectures. In this exploration, we'll examine into the fascinating connections that biblical references and archaeological evidence reveal about temple construction, unearthing a rich tapestry of history and belief.
   
@@ -81,6 +82,12 @@ In summary, the intersection of biblical accounts and archaeological findings pr
 ### Related Pilgrimage Guides
 
 - [How Pilgrims Ascended the Temple Mount in Ancient Jerusalem](/routes/temple-mount-ascent)
+
+## Related Research
+
+Explore these related articles for deeper study:
+
+- [Unearth Secrets of Ancient Temples: a Journey into Biblical](/research/biblical-archaeology/biblical-archaeology-discovering-ancient-temple-sites)
 
 ## Frequently Asked Questions
 

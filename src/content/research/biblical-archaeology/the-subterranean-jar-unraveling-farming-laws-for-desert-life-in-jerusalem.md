@@ -11,9 +11,10 @@ imageAlt: "contrast, abstract, nature, minimalism, windows, stone wall, desert, 
 imageCredit: "Image by Pix-Off on Pixabay"
 imageWidth: 1280
 imageHeight: 853
----
+---Unlocking Jerusalems Ancient Secrets: The Subterranean is a topic in biblical archaeology that connects ancient material evidence with scriptual narratives.
 
-Unlocking Jerusalems Ancient Secrets: The Subterranean is a topic in biblical archaeology that connects ancient material evidence with scriptual narratives.
+This topic is part of our [research on biblical archaeology](/research/biblical-archaeology).
+
 
 Isn't it fascinating how the remnants of ancient civilizations continue to affect our present-day understanding of agriculture and community in challenging environments like the deserts surrounding Jerusalem? Lets take a closer look at how farming laws in these arid lands shaped life from antiquity to modern times, particularly through the lens of archaeological finds like the Subterranean Jar.
  
@@ -164,6 +165,12 @@ By looking back, we can appreciate the lessons learned from those who lived in a
 ### Related Pilgrimage Guides
 
 - [Jerusalem Old City: Sacred Pilgrimage Destination](/places/jerusalem-old-city)
+
+## Related Research
+
+Explore these related articles for deeper study:
+
+- [Unlocking En Gedis Ancient Secrets: A Deep Dive into Scribe](/research/biblical-archaeology/cave-wall-message-unveiling-the-scribe-diaries-from-en-gedis-twilight)
 
 ## Frequently Asked Questions
 

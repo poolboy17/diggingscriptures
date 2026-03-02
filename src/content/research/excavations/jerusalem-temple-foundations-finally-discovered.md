@@ -11,9 +11,10 @@ imageAlt: "workers, construction, excavation, dig, building, construction worker
 imageCredit: "Image by planet_fox on Pixabay"
 imageWidth: 1280
 imageHeight: 853
----
+---Jerusalem Temple Foundations Finally Discovered is an area of archaeological investigation that has yielded significant findings about the ancient world.
 
-Jerusalem Temple Foundations Finally Discovered is an area of archaeological investigation that has yielded significant findings about the ancient world.
+This topic is part of our [research on archaeological excavations](/research/excavations).
+
 
 Have you ever wondered about the origins of one of the most significant sites in biblical history? Recent findings have brought to light the intriguing discovery of the Jerusalem Temple Foundations, a revelation that could redefine our understanding of this ancient, sacred site. This breakthrough not only confirms long-held biblical accounts but also enriches our comprehension of the ancient worlds complex narratives.
  
@@ -85,6 +86,12 @@ For those intrigued by this discovery, it offers an opportunity to engage deeper
 ### Related Pilgrimage Guides
 
 - [How Pilgrims Ascended the Temple Mount in Ancient Jerusalem](/routes/temple-mount-ascent)
+
+## Related Research
+
+Explore these related articles for deeper study:
+
+- [Jerusalem Temple Construction Methods Finally Revealed](/research/excavations/jerusalem-temple-construction-methods-finally-revealed)
 
 ## Frequently Asked Questions
 

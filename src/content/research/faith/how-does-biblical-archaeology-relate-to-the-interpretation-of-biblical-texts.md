@@ -11,9 +11,10 @@ imageAlt: "masjid prophetic, medina, religion, muslim, islam, architectural, hz,
 imageCredit: "Image by Konevi on Pixabay"
 imageWidth: 1280
 imageHeight: 853
----
+---How Does Biblical Archaeology Relate to the Interpretation of is a theological subject that explores the intersection of faith traditions and historical evidence.
 
-How Does Biblical Archaeology Relate to the Interpretation of is a theological subject that explores the intersection of faith traditions and historical evidence.
+This topic is part of our [research on faith and history](/research/faith).
+
 
 When exploring the intricate tapestry of biblical texts, biblical archaeology serves as a guiding light, illuminating hidden truths and offering a glimpse into the ancient world.
 
@@ -64,6 +65,12 @@ Exploring the intersection of biblical texts and archaeological discoveries enha
 ### Related Pilgrimage Guides
 
 - [Rabbi Nachman's Journey to Israel](/stories/rabbi-nachman-journey-to-israel)
+
+## Related Research
+
+Explore these related articles for deeper study:
+
+- [From Ruins to Revelation  What can Biblical Archaeology Teach us](/research/faith/biblical-archaeology-from-ruins-to-revelation)
 
 ## Frequently Asked Questions
 

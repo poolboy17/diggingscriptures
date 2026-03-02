@@ -11,9 +11,10 @@ imageAlt: "parthenon, monument, temple, greece, athens, acropolis, greek archite
 imageCredit: "Image by Nick115 on Pixabay"
 imageWidth: 1280
 imageHeight: 850
----
+---Exploring Biblical Archaeology: Uncovering Ancient Sites is a topic in biblical archaeology that connects ancient material evidence with scriptual narratives.
 
-Exploring Biblical Archaeology: Uncovering Ancient Sites is a topic in biblical archaeology that connects ancient material evidence with scriptual narratives.
+This topic is part of our [research on biblical archaeology](/research/biblical-archaeology).
+
 
 In "Exploring Biblical Archaeology: Uncovering Ancient Sites," this article provides a captivating exploration of major biblical archaeology sites found across the world. From the majestic city of Petra in Jordan to the sacred Temple Mount in Jerusalem, these archaeological wonders offer a window into the ancient world of biblical times. Join us on a fascinating journey as we examine into the fascinating discoveries and untold stories waiting to be unearthed at these sacred sites.
 
@@ -226,6 +227,12 @@ The preservation and interpretation of the past are integral to the mission of b
 ### Related Pilgrimage Guides
 
 - [How Pilgrims Ascended the Temple Mount in Ancient Jerusalem](/routes/temple-mount-ascent)
+
+## Related Research
+
+Explore these related articles for deeper study:
+
+- [Exploring Biblical Archaeology Methods in Ancient Sites](/research/biblical-archaeology/exploring-biblical-archaeology-methods-in-ancient-sites)
 
 ## Frequently Asked Questions
 

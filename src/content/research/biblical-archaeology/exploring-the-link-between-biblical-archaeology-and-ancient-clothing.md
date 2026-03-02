@@ -11,9 +11,10 @@ imageAlt: "pretty much, jerash, oval forum, roman, culture, story, historical, a
 imageCredit: "Image by ChiemSeherin on Pixabay"
 imageWidth: 1280
 imageHeight: 720
----
+---Exploring the Link Between Biblical Archaeology and Ancient is a topic in biblical archaeology that connects ancient material evidence with scriptual narratives.
 
-Exploring the Link Between Biblical Archaeology and Ancient is a topic in biblical archaeology that connects ancient material evidence with scriptual narratives.
+This topic is part of our [research on biblical archaeology](/research/biblical-archaeology).
+
 
 In the fascinating world of Biblical Archaeology, researchers have discovered a captivating link between the artifacts they unearth and the study of ancient clothing. Through their meticulous excavations and analysis, these archaeologists have unraveled the secrets of the past, shedding light on the garments worn by our ancient ancestors. As they examine deeper into this intersection, a clearer picture emerges of the way clothing played a significant role in the lives of people thousands of years ago. Join us on this remarkable journey as we explore the intricate connection between Biblical Archaeology and ancient clothing.
 
@@ -66,6 +67,12 @@ Over the years, several notable discoveries in biblical archaeology have shed li
 ### Related Pilgrimage Guides
 
 - [Rabbi Nachman's Journey to Israel](/stories/rabbi-nachman-journey-to-israel)
+
+## Related Research
+
+Explore these related articles for deeper study:
+
+- [Exploring Biblical Archaeology Methods in Ancient Sites](/research/biblical-archaeology/exploring-biblical-archaeology-methods-in-ancient-sites)
 
 ## Frequently Asked Questions
 

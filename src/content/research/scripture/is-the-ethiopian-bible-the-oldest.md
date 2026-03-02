@@ -11,9 +11,10 @@ imageAlt: "bible, book, highlighter, pages, text, open, open book, open bible, h
 imageCredit: "Image by Pexels on Pixabay"
 imageWidth: 1280
 imageHeight: 961
----
+---Is the Ethiopian Bible the Oldest? refers to a subject within biblical manuscript studies that scholars continue to investigate.
 
-Is the Ethiopian Bible the Oldest? refers to a subject within biblical manuscript studies that scholars continue to investigate.
+This topic is part of our [research on biblical scripture studies](/research/scripture).
+
 
 Many researchers have marveled at the antiquity of the Ethiopian Bible, yet debates persist regarding its true age. With carbon dating placing it far back in history, the Ethiopian Bible's claim to being the oldest remains a subject of intrigue and controversy among scholars.
 
@@ -62,6 +63,13 @@ Ongoing scholarly discourse surrounding the Ethiopian Bible's age and origins re
 Recent research has introduced new perspectives that challenge previous beliefs regarding the age and composition of the Ethiopian Bible. These findings prompt scholars to reevaluate existing theories and probe deeper into the origins of this ancient text. The debate surrounding the Ethiopian Bible's antiquity and relevance persists, drawing the attention of researchers from various disciplines, including history, archaeology, and religious studies.
 
 Scholarly discussions on the Ethiopian Bible encompass a wide array of topics, including the linguistic analysis of the text, the cultural influences shaping its contents, and the transmission of religious narratives through the manuscripts. As researchers continue to explore the complexities surrounding the Ethiopian Bible, the scholarly community anticipates further insights that may shed light on its significance in the broader context of religious and historical studies.
+
+## Related Research
+
+Explore these related articles for deeper study:
+
+- [Is the Ethiopian Bible the Oldest Bible?](/research/scripture/is-the-ethiopian-bible-the-oldest-bible)
+- [How Does the Ethiopian Bible Differ from the Bible?](/research/scripture/how-does-the-ethiopian-bible-differ-from-the-bible)
 
 ## Frequently Asked Questions
 

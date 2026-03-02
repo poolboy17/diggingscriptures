@@ -11,9 +11,10 @@ imageAlt: "pottery shard, clay pot, shard, burning clay, craft, burma, myanmar"
 imageCredit: "Image by thomaspedrazzoli on Pixabay"
 imageWidth: 1280
 imageHeight: 1280
----
+---Jerichos Legacy: How Ancient Scribes and Workers Sculpted Society is a topic in biblical archaeology that connects ancient material evidence with scriptual narratives.
 
-Jerichos Legacy: How Ancient Scribes and Workers Sculpted Society is a topic in biblical archaeology that connects ancient material evidence with scriptual narratives.
+This topic is part of our [research on biblical archaeology](/research/biblical-archaeology).
+
 
 What do you think about the intersection of education and labor in ancient societies? It's fascinating, isn't it? In our modern world, we often draw clear lines between the two, but history shows us that such distinctions weren't always so straightforward. In places like ancient Jericho, especially in its rural settings, scribal schools and labor laws reflect a complex tapestry of life that continues to intrigue scholars and curious minds alike.
  
@@ -129,6 +130,13 @@ Like the labor laws of ancient Jericho, contemporary labor laws strive to balanc
 ## Conclusion: Tying the Threads Together
  
 The examination of rural Jericho, particularly how scribal schools
+
+## Related Research
+
+Explore these related articles for deeper study:
+
+- [Unveiling Ancient Scribes: The Impact of Buried Wine Jars on](/research/biblical-archaeology/buried-wine-jar-scribes-told-to-copy-without-bias-in-ancient-texts)
+- [Jerichos Hidden Past: Unearthing Ancient Secrets of](/research/biblical-archaeology/jericho-alcove-unveiling-the-complexities-of-occupation-in-ancient-texts)
 
 ## Frequently Asked Questions
 

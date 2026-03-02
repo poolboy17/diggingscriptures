@@ -11,9 +11,10 @@ imageAlt: "scroll, feather, ink, caligraphy, hebrew, writing, characters, paper,
 imageCredit: "Image by zofiaEliyahu on Pixabay"
 imageWidth: 1280
 imageHeight: 859
----
+---What is the Oldest Bible Found? refers to a subject within biblical manuscript studies that scholars continue to investigate.
 
-What is the Oldest Bible Found? refers to a subject within biblical manuscript studies that scholars continue to investigate.
+This topic is part of our [research on biblical scripture studies](/research/scripture).
+
 
 In the annals of biblical history, a pivotal discovery sheds light on the origins of the Christian faith.
 
@@ -58,6 +59,13 @@ The preservation of ancient scriptures, spanning from the 4th century with manus
 - **Leningrad Codex (circa 1000 **C.E.)**:** As an important manuscript for the Hebrew Bible's Masoretic Text, the Leningrad Codex contributes significantly to the preservation and accurate transmission of the Jewish scriptures.
 
 These manuscripts, along with others like the Aleppo Codex and Codex Vaticanus, whether complete or as fragments, are housed in libraries, museums, and religious institutions, ensuring that ancient scriptures are accessible for scholarly research and cultural heritage preservation.
+
+## Related Research
+
+Explore these related articles for deeper study:
+
+- [Have the Original Books of the Bible Been Found?](/research/scripture/have-the-original-books-of-the-bible-been-found)
+- [How Many Ancient Manuscripts of the Bible Have Been Found?](/research/scripture/how-many-ancient-manuscripts-of-the-bible-have-been-found)
 
 ## Frequently Asked Questions
 

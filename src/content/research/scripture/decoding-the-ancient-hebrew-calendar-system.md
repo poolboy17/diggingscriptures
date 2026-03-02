@@ -11,9 +11,10 @@ imageAlt: "books, library, read, shelves, shelf, reading, culture, book, edition
 imageCredit: "Image by Marisa_Sias on Pixabay"
 imageWidth: 1280
 imageHeight: 720
----
+---Decoding the Ancient Hebrew Calendar System refers to a subject within biblical manuscript studies that scholars continue to investigate.
 
-Decoding the Ancient Hebrew Calendar System refers to a subject within biblical manuscript studies that scholars continue to investigate.
+This topic is part of our [research on biblical scripture studies](/research/scripture).
+
 
 Have you ever pondered how ancient societies tracked time, marking sacred events and seasonal changes? The ancient Hebrew calendar, with its rich historical and biblical significance, offers a fascinating glimpse into how time was understood in the ancient world. This article delves into the intricacies of this calendar system, revealing its remarkable complexity and significance. Through exploring biblical references and archaeological evidence, we aim to piece together how the ancient Hebrews marked time and the implications it holds today.
   
@@ -76,6 +77,12 @@ Ultimately, these explorations of the ancient Hebrew calendar invite us to appre
 ### Related Pilgrimage Guides
 
 - [Rabbi Nachman's Journey to Israel](/stories/rabbi-nachman-journey-to-israel)
+
+## Related Research
+
+Explore these related articles for deeper study:
+
+- [Ancient Hebrew Time System Decoded at Last](/research/scripture/ancient-hebrew-time-system-decoded-at-last)
 
 ## Frequently Asked Questions
 

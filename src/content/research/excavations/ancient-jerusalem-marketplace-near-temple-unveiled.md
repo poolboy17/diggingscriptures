@@ -11,9 +11,10 @@ imageAlt: "city, frankfurt, cityscape, skyscrapers, dusk, twilight, night, light
 imageCredit: "Image by Bru-nO on Pixabay"
 imageWidth: 1280
 imageHeight: 853
----
+---Ancient Jerusalem Marketplace Near Temple Unveiled is an area of archaeological investigation that has yielded significant findings about the ancient world.
 
-Ancient Jerusalem Marketplace Near Temple Unveiled is an area of archaeological investigation that has yielded significant findings about the ancient world.
+This topic is part of our [research on archaeological excavations](/research/excavations).
+
 
 Have you ever wondered what hidden stories lie beneath the ancient stones of Jerusalem? The recent archaeological unveiling of a marketplace near the Temple of Jerusalem offers us a window into the past, a discovery that enriches our understanding of this historic city. This marketplace is not just a relic of ancient commerce; it is a testament to the vibrant life that once pulsed through the heart of Jerusalem. With archaeological evidence and scholarly interpretations, we are offered new insights into the everyday life and cultural dynamics of biblical times. Let us journey through this remarkable discovery and explore its implications on our understanding of both historical and biblical narratives.
   
@@ -82,6 +83,12 @@ This discovery provides an opportunitya call to those passionate about history a
 ### Related Pilgrimage Guides
 
 - [How Pilgrims Ascended the Temple Mount in Ancient Jerusalem](/routes/temple-mount-ascent)
+
+## Related Research
+
+Explore these related articles for deeper study:
+
+- [Unraveling Ancient Jerusalem: a Deep Dive into the Temple](/research/excavations/ancient-jerusalem-street-reveals-temple-pilgrim-path)
 
 ## Frequently Asked Questions
 

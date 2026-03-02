@@ -11,9 +11,10 @@ imageAlt: "excavation, archaeology, high culture, culture, temple, old, stone, l
 imageCredit: "Image by Efraimstochter on Pixabay"
 imageWidth: 1280
 imageHeight: 960
----
+---Unearthing the Most Important Biblical Digs is a topic in biblical archaeology that connects ancient material evidence with scriptual narratives.
 
-Unearthing the Most Important Biblical Digs is a topic in biblical archaeology that connects ancient material evidence with scriptual narratives.
+This topic is part of our [research on biblical archaeology](/research/biblical-archaeology).
+
 
 Exploring the ancient history of Jerusalem unveils a world rich with mysteries waiting to be unraveled. Among the numerous **biblical excavations** and **ancient ruins** scattered throughout Israel, each archaeological site offers valuable insights into our past. 
 
@@ -151,6 +152,12 @@ Unveiling Biblical Archaeological Finds: Discovering Ancient Treasures
 ### Related Pilgrimage Guides
 
 - [Jerusalem Old City: Sacred Pilgrimage Destination](/places/jerusalem-old-city)
+
+## Related Research
+
+Explore these related articles for deeper study:
+
+- [Biblical Archaeology Revelations: Unearthing Ancient Truths](/research/biblical-archaeology/biblical-archaeology-revelations-unearthing-ancient-truths)
 
 ## Frequently Asked Questions
 

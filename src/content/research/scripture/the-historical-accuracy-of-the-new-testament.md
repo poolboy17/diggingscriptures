@@ -11,9 +11,10 @@ imageAlt: "parchment, contract, paper, document, old, manuscript, retro, yellow,
 imageCredit: "Image by icame on Pixabay"
 imageWidth: 1280
 imageHeight: 853
----
+---The Historical Accuracy of the new Testament refers to a subject within biblical manuscript studies that scholars continue to investigate.
 
-The Historical Accuracy of the new Testament refers to a subject within biblical manuscript studies that scholars continue to investigate.
+This topic is part of our [research on biblical scripture studies](/research/scripture).
+
 
 Have you ever wondered about the historical accuracy of the New Testament? Well, you're not alone. , we will explore the intriguing research of Anita Love, a highly-respected scholar in the field of biblical studies. With a deep understanding of ancient manuscripts and a dedication to uncovering religious truths, Anita takes us on a journey through the central themes, literary genres, historical contexts, and messianic prophecies of the Old and New Testaments. Her thought-provoking insights shed light on the differences between the two, providing a richer understanding of the foundations of Christianity. So, let's  and discover the fascinating world of the New Testament's historical accuracy. And to answer your question, no, the New Testament was not primarily written in Hebrew.
  
@@ -168,6 +169,12 @@ Modern biblical criticism employs various scholarly methods to discern the histo
 ### Related Pilgrimage Guides
 
 - [Jerusalem Old City: Sacred Pilgrimage Destination](/places/jerusalem-old-city)
+
+## Related Research
+
+Explore these related articles for deeper study:
+
+- [The Historical Context of the old Testament and the new Testament](/research/scripture/the-historical-context-of-the-old-testament-and-the-new-testament)
 
 ## Frequently Asked Questions
 

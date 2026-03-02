@@ -11,9 +11,10 @@ imageAlt: "jerash, jordan, roman, gerasa, travel, architecture, ancient, histori
 imageCredit: "Image by 8834113 on Pixabay"
 imageWidth: 1280
 imageHeight: 853
----
+---Biblical Archaeology Discoveries Unveil Ancient is an area of archaeological investigation that has yielded significant findings about the ancient world.
 
-Biblical Archaeology Discoveries Unveil Ancient is an area of archaeological investigation that has yielded significant findings about the ancient world.
+This topic is part of our [research on archaeological excavations](/research/excavations).
+
 
 The field of Biblical archaeology, with its rich tapestry of ancient ruins and historical artifacts, continues to unveil the mysteries of bygone civilizations through meticulous archaeological excavation. Excavations have revealed a treasure trove of **ancient manuscripts** and pottery shards, offering fascinating insights into the practices and beliefs of ancient peoples. 
 
@@ -133,6 +134,12 @@ Biblical Archaeology Unearthing Ancient Wonders
 ### Related Pilgrimage Guides
 
 - [Shikoku 88 Temple Pilgrimage: Historic Pilgrimage Route](/routes/shikoku-88-temples)
+
+## Related Research
+
+Explore these related articles for deeper study:
+
+- [Discovering Ancient Truths: how Biblical Archaeology Unveils](/research/excavations/exploring-biblical-archaeological-evidence)
 
 ## Frequently Asked Questions
 

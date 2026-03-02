@@ -11,11 +11,12 @@ imageAlt: "to learn, read, a book, literature, old, old book, to study, school, 
 imageCredit: "Image by garten-gg on Pixabay"
 imageWidth: 1280
 imageHeight: 884
----
-
-## Exploring Ancient Hebrew Homes Through Archaeology
+---## Exploring Ancient Hebrew Homes Through Archaeology
  
 Exploring Ancient Hebrew Homes Through Archaeology refers to a subject within biblical manuscript studies that scholars continue to investigate.
+
+This topic is part of our [research on biblical scripture studies](/research/scripture).
+
 
 Have you ever wondered how the ancient Hebrews lived, or what their homes looked like? The field of biblical archaeology opens a window into the past, revealing insights that not only illuminate biblical narratives but also enhance our understanding of ancient lifestyles. In this exploration, archaeological discoveries provide a tangible connection to the world of the Hebrews, whose stories have been recorded and retold for millennia.
  
@@ -88,6 +89,12 @@ Through the lens of archaeology, the ancient Hebrew world becomes palpably real.
 ### Related Pilgrimage Guides
 
 - [Rabbi Nachman's Journey to Israel](/stories/rabbi-nachman-journey-to-israel)
+
+## Related Research
+
+Explore these related articles for deeper study:
+
+- [Exploring Biblical Archaeology Methods in Ancient Sites](/research/biblical-archaeology/exploring-biblical-archaeology-methods-in-ancient-sites)
 
 ## Frequently Asked Questions
 

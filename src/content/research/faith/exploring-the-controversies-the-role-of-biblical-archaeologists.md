@@ -11,9 +11,10 @@ imageAlt: "altar, cathedral, catholic church, church, church art, faith, religio
 imageCredit: "Image by ChiemSeherin on Pixabay"
 imageWidth: 1280
 imageHeight: 853
----
+---Exploring the Controversies: the Role of Biblical Archaeologists is a theological subject that explores the intersection of faith traditions and historical evidence.
 
-Exploring the Controversies: the Role of Biblical Archaeologists is a theological subject that explores the intersection of faith traditions and historical evidence.
+This topic is part of our [research on faith and history](/research/faith).
+
 
 , we take a closer look at the fascinating and sometimes contentious world of biblical archaeologists. With a keen eye for historical clues buried deep within ancient sites, these dedicated professionals play a crucial role in unraveling the mysteries of the past. From deciphering ancient texts to uncovering ancient artifacts, their work has far-reaching implications for our understanding of the Bible and its historical accuracy. However, as we explore the controversies surrounding their findings, we begin to understand the challenges they face when it comes to interpreting the past and reconciling it with religious beliefs. Through their tireless efforts, biblical archaeologists illuminate the complexities of history, shedding light on the ever-evolving relationship between faith and science.
 
@@ -198,6 +199,12 @@ Through responsible digging, preservation of cultural heritage, interdisciplinar
 ### Related Pilgrimage Guides
 
 - [How Pilgrims Ascended the Temple Mount in Ancient Jerusalem](/routes/temple-mount-ascent)
+
+## Related Research
+
+Explore these related articles for deeper study:
+
+- [Exploring Ancient Biblical Artifacts: the Role of Archaeologists](/research/artifacts/exploring-ancient-biblical-artifacts-the-role-of-archaeologists-in-museums)
 
 ## Frequently Asked Questions
 

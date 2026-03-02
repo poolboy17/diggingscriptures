@@ -11,9 +11,10 @@ imageAlt: "city, aerial view, illuminated, city lights, cityscape, skyline, nigh
 imageCredit: "Image by Pexels on Pixabay"
 imageWidth: 1280
 imageHeight: 720
----
+---Discovering the Legacy: Exploring the Life and Work of William is an area of archaeological investigation that has yielded significant findings about the ancient world.
 
-Discovering the Legacy: Exploring the Life and Work of William is an area of archaeological investigation that has yielded significant findings about the ancient world.
+This topic is part of our [research on archaeological excavations](/research/excavations).
+
 
 In this captivating exploration of the life and work of esteemed biblical archaeologist William F. Albright, readers will dive into the rich legacy left behind by a true pioneer in his field. From his groundbreaking discoveries to his influential contributions to the understanding of biblical history, Albright's story is one that captures the essence of his passion for uncovering the truth of ancient civilizations. With each excavation and meticulous analysis, Albright left an indelible mark on the world of archaeology, providing invaluable insights into the mysteries of the past. Prepare to be inspired and enlightened as you embark on a journey through the remarkable life of William F. Albright.
 
@@ -148,6 +149,12 @@ By exploring the life and work of William F. Albright, it becomes evident how hi
 ### Related Pilgrimage Guides
 
 - [Rabbi Nachman's Journey to Israel](/stories/rabbi-nachman-journey-to-israel)
+
+## Related Research
+
+Explore these related articles for deeper study:
+
+- [Exploring the Legacy of w.f. Petrie in Biblical Archaeology](/research/excavations/exploring-the-legacy-of-w-f-petrie-in-biblical-archaeology)
 
 ## Frequently Asked Questions
 

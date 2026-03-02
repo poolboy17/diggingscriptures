@@ -11,9 +11,10 @@ imageAlt: "petra, ad deir, world heritage, sand stone, antique, historically, na
 imageCredit: "Image by ChiemSeherin on Pixabay"
 imageWidth: 1280
 imageHeight: 853
----
+---The Power of Interdisciplinary Collaboration in Biblical is a topic in biblical archaeology that connects ancient material evidence with scriptual narratives.
 
-The Power of Interdisciplinary Collaboration in Biblical is a topic in biblical archaeology that connects ancient material evidence with scriptual narratives.
+This topic is part of our [research on biblical archaeology](/research/biblical-archaeology).
+
 
 In the world of Biblical Archaeology, the power of interdisciplinary collaboration stands as an essential force driving groundbreaking discoveries. By bringing together experts from diverse fields such as archaeology, history, theology, and anthropology, this collaborative approach allows for a comprehensive understanding of ancient civilizations and their religious traditions. With their combined expertise, these researchers are able to reveal the mysteries of the past, revealing invaluable insights into the customs, beliefs, and lifestyles of ancient biblical societies. Through interdisciplinary collaboration, the field of Biblical Archaeology continues to flourish, shedding light on the rich tapestry of human history and strengthening the connection between religious texts and the archaeological record.
 
@@ -164,6 +165,12 @@ Interdisciplinary collaboration holds immense power in the field of biblical arc
 ### Related Pilgrimage Guides
 
 - [Rabbi Nachman's Journey to Israel](/stories/rabbi-nachman-journey-to-israel)
+
+## Related Research
+
+Explore these related articles for deeper study:
+
+- [Exploring the Power of Collaboration in Biblical Archaeology](/research/biblical-archaeology/exploring-the-power-of-collaboration-in-biblical-archaeology-research)
 
 ## Frequently Asked Questions
 

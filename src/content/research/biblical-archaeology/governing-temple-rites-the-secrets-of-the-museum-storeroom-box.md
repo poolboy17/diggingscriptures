@@ -11,9 +11,10 @@ imageAlt: "archeology, history, ancient, culture, architecture, antique, stone, 
 imageCredit: "Image by nikolabelopitov on Pixabay"
 imageWidth: 1280
 imageHeight: 854
----
+---Temple Wonders: 5 Hidden Rituals That Shaped Ancient Spirituality is a topic in biblical archaeology that connects ancient material evidence with scriptual narratives.
 
-Temple Wonders: 5 Hidden Rituals That Shaped Ancient Spirituality is a topic in biblical archaeology that connects ancient material evidence with scriptual narratives.
+This topic is part of our [research on biblical archaeology](/research/biblical-archaeology).
+
 
 What comes to mind when you think about ancient temples? Do you envision gilded altars and grand ceremonies, or do you ponder about the strict rules that governed them? The truth is, in the intricate world of temple rites, every detail mattered. From the sacred items stored in museum storerooms to the ancient texts that outline how religious practices were conducted, the governance of these rites reveals secrets that have captivated historians and the faithful alike.
  
@@ -166,6 +167,12 @@ By reflecting on these intricate tapestries of history, culture, and belief, you
 ### Related Pilgrimage Guides
 
 - [How Pilgrims Ascended the Temple Mount in Ancient Jerusalem](/routes/temple-mount-ascent)
+
+## Related Research
+
+Explore these related articles for deeper study:
+
+- [Biblical Archaeology Excavation Projects Unearth Ancient Wonders](/research/biblical-archaeology/biblical-archaeology-excavation-projects-unearth-ancient-wonders)
 
 ## Frequently Asked Questions
 

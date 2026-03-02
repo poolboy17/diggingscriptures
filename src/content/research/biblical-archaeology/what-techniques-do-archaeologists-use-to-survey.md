@@ -11,9 +11,10 @@ imageAlt: "masada national park, masada, the great revolt, roman siege ramp, cli
 imageCredit: "Image by samirsmier on Pixabay"
 imageWidth: 1280
 imageHeight: 720
----
+---What Techniques do Archaeologists use to Survey? is a topic in biblical archaeology that connects ancient material evidence with scriptual narratives.
 
-What Techniques do Archaeologists use to Survey? is a topic in biblical archaeology that connects ancient material evidence with scriptual narratives.
+This topic is part of our [research on biblical archaeology](/research/biblical-archaeology).
+
 
 Imagine standing in a vast field, equipped with tools that can reveal hidden treasures beneath the surface. Archaeologists are akin to detectives, using a variety of techniques to uncover the secrets of ancient civilizations. From cutting-edge technologies like ground-penetrating radar to traditional methods such as fieldwalking, the arsenal of survey techniques is diverse and essential for piecing together the puzzle of our history.
 
@@ -60,6 +61,13 @@ Fieldwalking and subsurface testing methodologies in archaeological surveys faci
 Fieldwalking involves walking through designated areas to collect surface artifacts, making it particularly effective in plowed fields where artifacts are brought to the surface through the plowing process. On the other hand, shovel testing, a method of subsurface testing, includes digging small holes at regular intervals to screen soil for artifacts. This technique not only aids in efficient surveying but also plays a vital role in development planning by mapping the locations of artifacts found during the survey.
 
 Both fieldwalking and shovel testing are essential components of archaeological surveys, supervised by trained archaeologists. The careful execution of these techniques plays an important role in the accurate identification and documentation of archaeological material. By systematically gathering surface artifacts and screening soil for subsurface finds, archaeologists can create a full picture of the archaeological landscape within the surveyed areas. This detailed understanding of the distribution of artifacts is invaluable for interpreting past human activities and informing future conservation and development decisions.
+
+## Related Research
+
+Explore these related articles for deeper study:
+
+- [Exploring the Techniques Employed by Biblical Archaeologists](/research/biblical-archaeology/exploring-the-techniques-employed-by-biblical-archaeologists)
+- [What Techniques did Archaeologists Use?](/research/biblical-archaeology/what-techniques-did-archaeologists-use)
 
 ## Frequently Asked Questions
 

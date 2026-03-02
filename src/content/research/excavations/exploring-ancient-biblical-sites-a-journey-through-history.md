@@ -11,9 +11,10 @@ imageAlt: "workshop, carpenter, crafts, artisan, drink, work, tool, vintage, wor
 imageCredit: "Image by ThMilherou on Pixabay"
 imageWidth: 1280
 imageHeight: 848
----
+---Exploring Ancient Biblical Sites: a Journey Through History is an area of archaeological investigation that has yielded significant findings about the ancient world.
 
-Exploring Ancient Biblical Sites: a Journey Through History is an area of archaeological investigation that has yielded significant findings about the ancient world.
+This topic is part of our [research on archaeological excavations](/research/excavations).
+
 
 Embarking on a historical journey through ancient ruins reveals the profound significance of these sacred sites. Jerusalem, Jericho, and Bethlehem, among others, are revered as **historical landmarks** that offer a glimpse into the past. 
 
@@ -147,6 +148,12 @@ Discover Notable Biblical Excavations Unearthed
 ### Related Pilgrimage Guides
 
 - [How Pilgrims Ascended the Temple Mount in Ancient Jerusalem](/routes/temple-mount-ascent)
+
+## Related Research
+
+Explore these related articles for deeper study:
+
+- [Exploring Biblical Archaeology Methods in Ancient Sites](/research/biblical-archaeology/exploring-biblical-archaeology-methods-in-ancient-sites)
 
 ## Frequently Asked Questions
 

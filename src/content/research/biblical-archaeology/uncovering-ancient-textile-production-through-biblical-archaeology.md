@@ -11,9 +11,10 @@ imageAlt: "desert, camel, sand, pyramid, dry, travel, pharaohs, landscape, hot, 
 imageCredit: "Image by 8moments on Pixabay"
 imageWidth: 1280
 imageHeight: 483
----
+---Uncovering Ancient Textile Production Through Biblical is a topic in biblical archaeology that connects ancient material evidence with scriptual narratives.
 
-Uncovering Ancient Textile Production Through Biblical is a topic in biblical archaeology that connects ancient material evidence with scriptual narratives.
+This topic is part of our [research on biblical archaeology](/research/biblical-archaeology).
+
 
 Uncovering Ancient Textile Production Through Biblical Archaeology takes readers on a captivating journey into the fascinating field of biblical archaeology, shedding light on the intricate process of textile production in ancient times. By examining various archaeological discoveries and analyzing the clues left behind, the article explores how biblical archaeology provides valuable insights into the ancient techniques, materials, and cultural significance of textile production. From the construction of looms to the dyeing and weaving processes, this article uncovers a treasure trove of knowledge about the ancient world through the lens of textile production.
 
@@ -66,6 +67,12 @@ The legacy of ancient textile production extends far beyond the ancient world. I
 ### Related Pilgrimage Guides
 
 - [Rabbi Nachman's Journey to Israel](/stories/rabbi-nachman-journey-to-israel)
+
+## Related Research
+
+Explore these related articles for deeper study:
+
+- [Biblical Archaeology: Uncovering Ancient Maritime Routes](/research/biblical-archaeology/biblical-archaeology-uncovering-ancient-maritime-routes)
 
 ## Frequently Asked Questions
 

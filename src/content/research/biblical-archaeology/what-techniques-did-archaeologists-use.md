@@ -11,9 +11,10 @@ imageAlt: "petra, jordan, royal tombs, sand stone, antique, historically, histor
 imageCredit: "Image by ChiemSeherin on Pixabay"
 imageWidth: 1280
 imageHeight: 853
----
+---What Techniques did Archaeologists Use? is a topic in biblical archaeology that connects ancient material evidence with scriptual narratives.
 
-What Techniques did Archaeologists Use? is a topic in biblical archaeology that connects ancient material evidence with scriptual narratives.
+This topic is part of our [research on biblical archaeology](/research/biblical-archaeology).
+
 
 In their quest to uncover ancient secrets, archaeologists employed a myriad of innovative techniques. From meticulous excavation methods to cutting-edge scientific dating procedures, these experts probed deep into the past using a blend of traditional practices and modern technologies.
 
@@ -62,6 +63,13 @@ Preservation practices play an important role in maintaining the cultural herita
 The utilization of cutting-edge technology plays an important role in revolutionizing archaeological research and exploration. Archaeologists have integrated various advanced technological tools into their practices to enhance the efficiency and accuracy of their work. Some of the key technology applications in archaeology include Lidar technology, CT scanning, hyperspectral imaging, underwater drones, and space archaeology.
 TechnologyApplicationLidar technologyCreates detailed 3D maps of archaeological sites, aiding in site mapping and feature identification.CT scanningAllows for artifact review without causing damage, providing insights into the object's internal structure.Hyperspectral imagingReveals hidden images in ancient manuscripts, assisting in the analysis of historical texts.Underwater dronesAssist in documenting and preserving underwater cultural heritage, capturing images and data from submerged sites.Space archaeologyUtilizes satellite imagery to make important archaeological discoveries, identifying potential sites from space.
 These technological advancements have improved the field of archaeology by enabling researchers to conduct in-depth analyses of archaeological remains, artifacts, and sites without compromising their integrity. By leveraging physical and chemical analysis techniques through CT scanning, uncovering hidden details with hyperspectral imaging, and exploring previously inaccessible areas with underwater drones, archaeologists can now examine deeper into the past and uncover valuable insights that contribute to our understanding of ancient civilizations. Additionally, space archaeology has expanded the scope of archaeological research by utilizing satellite data to identify new sites and monitor known ones from a bird's eye view.
+
+## Related Research
+
+Explore these related articles for deeper study:
+
+- [Exploring the Techniques Employed by Biblical Archaeologists](/research/biblical-archaeology/exploring-the-techniques-employed-by-biblical-archaeologists)
+- [What Techniques do Archaeologists use to Survey?](/research/biblical-archaeology/what-techniques-do-archaeologists-use-to-survey)
 
 ## Frequently Asked Questions
 

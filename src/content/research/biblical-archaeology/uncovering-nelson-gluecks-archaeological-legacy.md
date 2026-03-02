@@ -11,9 +11,10 @@ imageAlt: "pyramids, egypt, egyptian, ancient, desert, giza, historical, archite
 imageCredit: "Image by TheDigitalArtist on Pixabay"
 imageWidth: 1280
 imageHeight: 480
----
+---Uncovering Nelson Glueck's Archaeological Legacy is a topic in biblical archaeology that connects ancient material evidence with scriptual narratives.
 
-Uncovering Nelson Glueck's Archaeological Legacy is a topic in biblical archaeology that connects ancient material evidence with scriptual narratives.
+This topic is part of our [research on biblical archaeology](/research/biblical-archaeology).
+
 
 In the field of archaeology, few names shine as brightly as Nelson Glueck. Known for his groundbreaking work in the Middle East during the mid-20th century, Glueck's contributions to the field are both extensive and enduring. From uncovering ancient cities to deciphering biblical texts, he left an indelible mark on the world of archaeology. This article takes a closer look at Glueck's archaeological legacy, exploring the impact of his discoveries and shedding light on his extraordinary career.
 
@@ -148,6 +149,12 @@ Contemporary archaeologists build upon Nelson Glueck's research and methodologie
 ### Related Pilgrimage Guides
 
 - [Shikoku 88 Temple Pilgrimage: Historic Pilgrimage Route](/routes/shikoku-88-temples)
+
+## Related Research
+
+Explore these related articles for deeper study:
+
+- [10 Must-Visit Biblical Archaeological Sites](/research/biblical-archaeology/10-must-visit-biblical-archaeological-sites)
 
 ## Frequently Asked Questions
 

@@ -11,9 +11,10 @@ imageAlt: "temple of hercules, pillars, roman temple, historic site, amman citad
 imageCredit: "Image by dimitrisvetsikas1969 on Pixabay"
 imageWidth: 1280
 imageHeight: 915
----
+---In the fascinating world of Biblical Archaeology, researchers are dedicated to unraveling the mysteries held within ancient Biblical texts. With a keen focus on interpretation, these scholars diligently study the ancient writings to unearth the profound insights they offer about ancient civilizations and their belief systems. By embracing a meticulous approach to uncover the secrets nestled within these texts, these dedicated academic explorers strive to shed light on the rich history and cultural nuances that have shaped our understanding of the Bible.
 
-In the fascinating world of Biblical Archaeology, researchers are dedicated to unraveling the mysteries held within ancient Biblical texts. With a keen focus on interpretation, these scholars diligently study the ancient writings to unearth the profound insights they offer about ancient civilizations and their belief systems. By embracing a meticulous approach to uncover the secrets nestled within these texts, these dedicated academic explorers strive to shed light on the rich history and cultural nuances that have shaped our understanding of the Bible.
+This topic is part of our [research on faith and history](/research/faith).
+
 
 ## Textual Criticism and Biblical Archaeology
 
@@ -184,6 +185,12 @@ The field of Biblical archaeology has often been subject to controversies and de
 ### Related Pilgrimage Guides
 
 - [How Pilgrims Ascended the Temple Mount in Ancient Jerusalem](/routes/temple-mount-ascent)
+
+## Related Research
+
+Explore these related articles for deeper study:
+
+- [Unlocking Ancient Secrets: the Role of Coins in Biblical](/research/biblical-archaeology/scientific-dating-in-biblical-archaeology-coin-insights)
 
 ## Frequently Asked Questions
 

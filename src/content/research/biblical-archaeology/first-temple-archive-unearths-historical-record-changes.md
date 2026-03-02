@@ -11,9 +11,10 @@ imageAlt: "archaeology, excavation, sun sails, protection, sun protection, archa
 imageCredit: "Image by Efraimstochter on Pixabay"
 imageWidth: 1280
 imageHeight: 960
----
+---First Temple Archive Unearths Historical Record Changes is a topic in biblical archaeology that connects ancient material evidence with scriptual narratives.
 
-First Temple Archive Unearths Historical Record Changes is a topic in biblical archaeology that connects ancient material evidence with scriptual narratives.
+This topic is part of our [research on biblical archaeology](/research/biblical-archaeology).
+
 
 Have you ever wondered how new archaeological discoveries can redefine our understanding of ancient history? The unearthing of the First Temple archive is one such groundbreaking discovery that challenges and enriches the historical records of biblical times.
   
@@ -91,6 +92,12 @@ In the end, the unearthing of the First Temple archive reminds us of history's c
 ### Related Pilgrimage Guides
 
 - [How Pilgrims Ascended the Temple Mount in Ancient Jerusalem](/routes/temple-mount-ascent)
+
+## Related Research
+
+Explore these related articles for deeper study:
+
+- [Royal Seals Unearthed from the First Temple Period](/research/biblical-archaeology/royal-seals-unearthed-from-the-first-temple-period)
 
 ## Frequently Asked Questions
 

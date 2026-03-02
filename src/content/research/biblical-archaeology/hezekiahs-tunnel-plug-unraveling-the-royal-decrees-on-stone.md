@@ -11,9 +11,10 @@ imageAlt: "desert, camel, sand, pyramid, dry, travel, pharaohs, landscape, hot, 
 imageCredit: "Image by 8moments on Pixabay"
 imageWidth: 1280
 imageHeight: 483
----
+---Analyzing Hezekiah's Tunnel: a Unique Blend of Texts and is a topic in biblical archaeology that connects ancient material evidence with scriptual narratives.
 
-Analyzing Hezekiah's Tunnel: a Unique Blend of Texts and is a topic in biblical archaeology that connects ancient material evidence with scriptual narratives.
+This topic is part of our [research on biblical archaeology](/research/biblical-archaeology).
+
 
 Have you ever considered how ancient texts and archaeological finds inform our understanding of past civilizations? The intersection of scripture and archaeology is a riveting journey, particularly when it leads us to Hezekiahs Tunnel and its associated discoveries.
  
@@ -127,6 +128,12 @@ As you ponder these insights, remember that the ancient world continues to echo 
 ### Related Pilgrimage Guides
 
 - [Jerusalem Old City: Sacred Pilgrimage Destination](/places/jerusalem-old-city)
+
+## Related Research
+
+Explore these related articles for deeper study:
+
+- [Analyzing Byzantine, Alexandrian, and Western Texts: Their](/research/artifacts/alexandrian-vs-byzantine-vs-western-texts-explained)
 
 ## Frequently Asked Questions
 

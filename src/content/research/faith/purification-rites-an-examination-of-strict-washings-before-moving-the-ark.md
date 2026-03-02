@@ -11,9 +11,10 @@ imageAlt: "church, cathedral, architecture, chapel, france, normandy, religion, 
 imageCredit: "Image by Tama66 on Pixabay"
 imageWidth: 1280
 imageHeight: 853
----
+---Deciphering Sacred Rites: How Archaeology Sheds Light on Ancient is a theological subject that explores the intersection of faith traditions and historical evidence.
 
-Deciphering Sacred Rites: How Archaeology Sheds Light on Ancient is a theological subject that explores the intersection of faith traditions and historical evidence.
+This topic is part of our [research on faith and history](/research/faith).
+
 
 What do you think of when you hear the term purification rites? Perhaps images of elaborate rituals or meticulous preparations come to mind. Now, envision this in the context of the Ark of the Covenanta sacred symbol in ancient Israelite culture, representing divine presence and guidance. Today, lets unpack the fascinating subject of purification rites, particularly the strict washings mandated before moving this significant artifact.
  
@@ -157,6 +158,12 @@ Understanding purification rites not only brings us closer to ancient practices 
 ### Related Pilgrimage Guides
 
 - [Rabbi Nachman's Journey to Israel](/stories/rabbi-nachman-journey-to-israel)
+
+## Related Research
+
+Explore these related articles for deeper study:
+
+- [Interpreting the First Bible: Archaeology Sheds Light on Ancient](/research/artifacts/what-do-people-mean-by-original-bible-explained)
 
 ## Frequently Asked Questions
 

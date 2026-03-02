@@ -11,9 +11,10 @@ imageAlt: "death valley, desert, highway, road, rural, countryside, landscape, s
 imageCredit: "Image by jplenio on Pixabay"
 imageWidth: 1280
 imageHeight: 853
----
+---The Role of 3d Modeling in Biblical Archaeological Research is an area of archaeological investigation that has yielded significant findings about the ancient world.
 
-The Role of 3d Modeling in Biblical Archaeological Research is an area of archaeological investigation that has yielded significant findings about the ancient world.
+This topic is part of our [research on archaeological excavations](/research/excavations).
+
 
 In the fascinating world of Biblical Archaeological research, 3D modeling has emerged as a valuable tool for unraveling the secrets of the past. This innovative technology has revolutionized the way researchers analyze and interpret ancient artifacts, structures, and landscapes from biblical times. By creating faithful digital representations, archaeologists can virtually immerse themselves in the ancient world, exploring and uncovering new insights with unprecedented accuracy and detail. From reconstructing ancient cities to visualizing long-lost artifacts, 3D modeling has become an indispensable ally in the quest to understand the rich tapestry of biblical history.
 
@@ -104,6 +105,12 @@ Collaboration and data sharing are vital for the future of 3D modeling in Biblic
 ### Related Pilgrimage Guides
 
 - [How Pilgrims Ascended the Temple Mount in Ancient Jerusalem](/routes/temple-mount-ascent)
+
+## Related Research
+
+Explore these related articles for deeper study:
+
+- [Ways to Support Biblical Archaeological Research as a](/research/excavations/ways-to-support-biblical-archaeological-research-as-a-non-professional)
 
 ## Frequently Asked Questions
 

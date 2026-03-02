@@ -11,9 +11,10 @@ imageAlt: "western wall, jerusalem, jews, pray, orthodox, holy, religious, weste
 imageCredit: "Image by rliessum on Pixabay"
 imageWidth: 1280
 imageHeight: 960
----
+---What Bible Artifacts Were Found in 2023? is an area of archaeological investigation that has yielded significant findings about the ancient world.
 
-What Bible Artifacts Were Found in 2023? is an area of archaeological investigation that has yielded significant findings about the ancient world.
+This topic is part of our [research on archaeological excavations](/research/excavations).
+
 
 Within the domain of biblical archaeology, 2023 revealed a compelling array of ancient relics that shed light on historical mysteries. From the unearthing of ancient scrolls in the Judean Desert to the discovery of rare biblical coins in Galilee, the year held a trove of surprises.
 
@@ -68,6 +69,12 @@ These findings not only enrich our understanding of the ancient events but also 
 ### Related Pilgrimage Guides
 
 - [How Pilgrims Ascended the Temple Mount in Ancient Jerusalem](/routes/temple-mount-ascent)
+
+## Related Research
+
+Explore these related articles for deeper study:
+
+- [Have any Artifacts from the Bible Been Found?](/research/excavations/have-any-artifacts-from-the-bible-been-found)
 
 ## Frequently Asked Questions
 

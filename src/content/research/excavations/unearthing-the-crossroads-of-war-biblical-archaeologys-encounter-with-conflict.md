@@ -11,9 +11,10 @@ imageAlt: "western wall, jerusalem, jews, pray, orthodox, holy, religious, weste
 imageCredit: "Image by rliessum on Pixabay"
 imageWidth: 1280
 imageHeight: 960
----
+---Unearthing the Crossroads of war: Biblical Archaeology's is an area of archaeological investigation that has yielded significant findings about the ancient world.
 
-Unearthing the Crossroads of war: Biblical Archaeology's is an area of archaeological investigation that has yielded significant findings about the ancient world.
+This topic is part of our [research on archaeological excavations](/research/excavations).
+
 
 In "Unearthing the Crossroads of War: Biblical Archaeology's Encounter with Conflict," the article explores the intriguing and intricate relationship between war and biblical archaeology. Delving into the impact of warfare and conflict on the field, the author uncovers how the tumultuous history of armed conflicts has shaped and influenced the study of biblical sites and artifacts. From the ruins of ancient battlegrounds to the discovery of hidden treasures amidst war-torn landscapes, this captivating exploration offers a unique perspective on the interconnectedness of war and the excavation of biblical archaeology.
 
@@ -66,6 +67,12 @@ Biblical archaeology's encounter with war and conflict uncovers a wealth of know
 ### Related Pilgrimage Guides
 
 - [Jerusalem Old City: Sacred Pilgrimage Destination](/places/jerusalem-old-city)
+
+## Related Research
+
+Explore these related articles for deeper study:
+
+- [Controversies in Biblical Archaeology: Unearthing the Truth](/research/excavations/controversies-in-biblical-archaeology-unearthing-the-truth)
 
 ## Frequently Asked Questions
 

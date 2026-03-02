@@ -11,9 +11,10 @@ imageAlt: "jerusalem, dome of the rock, islam, israel, mosque, temple mount, hol
 imageCredit: "Image by jdblack on Pixabay"
 imageWidth: 1280
 imageHeight: 822
----
+---Notable Discoveries by Female Biblical Archaeologists is an area of archaeological investigation that has yielded significant findings about the ancient world.
 
-Notable Discoveries by Female Biblical Archaeologists is an area of archaeological investigation that has yielded significant findings about the ancient world.
+This topic is part of our [research on archaeological excavations](/research/excavations).
+
 
 Throughout history, there have been numerous female biblical archaeologists who have made remarkable contributions to the field. From unearthing ancient artifacts to deciphering ancient texts, these women have played a vital role in shedding light on biblical history and deepening our understanding of ancient civilizations. Their notable discoveries have not only challenged traditional interpretations but have also brought to the forefront the important role that women have played in uncovering our shared human history.
 
@@ -78,6 +79,12 @@ Anna Papastrati, a Greek archaeologist, conducted
 ### Related Pilgrimage Guides
 
 - [Jerusalem Old City: Sacred Pilgrimage Destination](/places/jerusalem-old-city)
+
+## Related Research
+
+Explore these related articles for deeper study:
+
+- [Famous Biblical Archaeologists and Their Discoveries](/research/biblical-archaeology/famous-biblical-archaeologists-and-their-discoveries)
 
 ## Frequently Asked Questions
 

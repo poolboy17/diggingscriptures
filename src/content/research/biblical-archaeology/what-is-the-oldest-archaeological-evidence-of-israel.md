@@ -11,9 +11,10 @@ imageAlt: "egypt, temple, hieroglyphics, pharaoh, egyptian temple, travel, statu
 imageCredit: "Image by NadineDoerle on Pixabay"
 imageWidth: 1280
 imageHeight: 850
----
+---What is the Oldest Archaeological Evidence of Israel? is a topic in biblical archaeology that connects ancient material evidence with scriptual narratives.
 
-What is the Oldest Archaeological Evidence of Israel? is a topic in biblical archaeology that connects ancient material evidence with scriptual narratives.
+This topic is part of our [research on biblical archaeology](/research/biblical-archaeology).
+
 
 In the quest to uncover the oldest archaeological evidence of Israel, scholars scrutinize the Southern Levant's Late Bronze Age artifacts for clues to the region's ancient past.
 
@@ -64,6 +65,12 @@ The analysis of skeletal remains from these prehistoric burial sites provides re
 ### Related Pilgrimage Guides
 
 - [Rabbi Nachman's Journey to Israel](/stories/rabbi-nachman-journey-to-israel)
+
+## Related Research
+
+Explore these related articles for deeper study:
+
+- [What is the Oldest Archaeological Find in Israel?](/research/biblical-archaeology/what-is-the-oldest-archaeological-find-in-israel)
 
 ## Frequently Asked Questions
 

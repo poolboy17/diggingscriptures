@@ -11,9 +11,10 @@ imageAlt: "church, ceiling, dome, architecture, cathedral, historical, basilica,
 imageCredit: "Image by ArminEP on Pixabay"
 imageWidth: 1280
 imageHeight: 853
----
+---The Uncovered Secrets: Most Intriguing Biblical Archaeological is a theological subject that explores the intersection of faith traditions and historical evidence.
 
-The Uncovered Secrets: Most Intriguing Biblical Archaeological is a theological subject that explores the intersection of faith traditions and historical evidence.
+This topic is part of our [research on faith and history](/research/faith).
+
 
 In the field of Biblical archaeology, numerous captivating discoveries have been unearthed over the past decade. These remarkable findings have not only shed light on the ancient world but have also provided valuable insight into biblical events and figures. From ancient cities to religious relics, the mysteries of the Bible continue to unravel through these fascinating archaeological endeavors.
 
@@ -208,6 +209,12 @@ Exploring the historical background and sociopolitical climate of Jesus' time en
 ### Related Pilgrimage Guides
 
 - [Shikoku 88 Temple Pilgrimage: Historic Pilgrimage Route](/routes/shikoku-88-temples)
+
+## Related Research
+
+Explore these related articles for deeper study:
+
+- [A Guide to Evaluating the Credibility of Biblical Archaeological](/research/faith/a-guide-to-evaluating-the-credibility-of-biblical-archaeological-findings)
 
 ## Frequently Asked Questions
 

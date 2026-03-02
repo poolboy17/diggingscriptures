@@ -11,9 +11,10 @@ imageAlt: "to learn, read, a book, literature, old, old book, to study, school, 
 imageCredit: "Image by garten-gg on Pixabay"
 imageWidth: 1280
 imageHeight: 1157
----
+---Have you ever wondered which books are missing from the Hebrew Bible? Anita Love, a renowned scholar in the field of Theology and Religious Studies, has dedicated her career to exploring the intricacies of ancient biblical manuscripts and the historical accuracy of scriptural events. With a deep understanding of the intersection between Christianity's historical foundations and its contemporary relevance, Anita's work sheds light on the books that did not make it into the Hebrew Bible. Her nuanced perspective embraces the diversity of Christian denominations, belief systems, and lifestyles, offering a comprehensive analysis that challenges conventional interpretations. Join Anita as she uncovers the hidden gems that are absent from the Hebrew Bible, revealing a deeper appreciation for the rich tapestry of religious texts.
 
-Have you ever wondered which books are missing from the Hebrew Bible? Anita Love, a renowned scholar in the field of Theology and Religious Studies, has dedicated her career to exploring the intricacies of ancient biblical manuscripts and the historical accuracy of scriptural events. With a deep understanding of the intersection between Christianity's historical foundations and its contemporary relevance, Anita's work sheds light on the books that did not make it into the Hebrew Bible. Her nuanced perspective embraces the diversity of Christian denominations, belief systems, and lifestyles, offering a comprehensive analysis that challenges conventional interpretations. Join Anita as she uncovers the hidden gems that are absent from the Hebrew Bible, revealing a deeper appreciation for the rich tapestry of religious texts.
+This topic is part of our [research on biblical scripture studies](/research/scripture).
+
  
 ## Understanding the Hebrew Bible
  
@@ -149,6 +150,12 @@ If the excluded books were included in the Hebrew Bible, there would likely be s
 ### Related Pilgrimage Guides
 
 - [Jerusalem Old City: Sacred Pilgrimage Destination](/places/jerusalem-old-city)
+
+## Related Research
+
+Explore these related articles for deeper study:
+
+- [Are all the Books of the old Testament in the Hebrew Bible?](/research/scripture/are-all-the-books-of-the-old-testament-in-the-hebrew-bible)
 
 ## Frequently Asked Questions
 

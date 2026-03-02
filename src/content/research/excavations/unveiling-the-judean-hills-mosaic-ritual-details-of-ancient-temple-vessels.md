@@ -11,9 +11,10 @@ imageAlt: "egyptian temple, historic site, structure, land lot, archaeological s
 imageCredit: "Image by Wael-Ezz on Pixabay"
 imageWidth: 1280
 imageHeight: 853
----
+---Unlocking the Secrets of Ancient Temple art in the Judean Hills is an area of archaeological investigation that has yielded significant findings about the ancient world.
 
-Unlocking the Secrets of Ancient Temple art in the Judean Hills is an area of archaeological investigation that has yielded significant findings about the ancient world.
+This topic is part of our [research on archaeological excavations](/research/excavations).
+
 
 What do you picture when you think about the ancient rituals performed in sacred temples? Perhaps it's a scene filled with majestic vessels, each crafted with meticulous care, holding deep significance in the spiritual lives of those who used them. The Judean Hills Mosaic brings to life the intricate details of these ancient temple vessels, revealing the richness of ritual practices in their time.
  
@@ -144,6 +145,12 @@ In understanding this complexity, you can appreciate how just as ancient people 
 ### Related Pilgrimage Guides
 
 - [How Pilgrims Ascended the Temple Mount in Ancient Jerusalem](/routes/temple-mount-ascent)
+
+## Related Research
+
+Explore these related articles for deeper study:
+
+- [Discover Ancient Temple Artifacts in Qumran: Secrets of](/research/excavations/exploring-the-qumran-workshop-ruins-a-quest-for-temple-artifacts)
 
 ## Frequently Asked Questions
 

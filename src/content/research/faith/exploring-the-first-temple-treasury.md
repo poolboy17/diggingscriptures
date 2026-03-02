@@ -11,9 +11,10 @@ imageAlt: "western wall, jerusalem, jews, pray, orthodox, holy, religious, weste
 imageCredit: "Image by rliessum on Pixabay"
 imageWidth: 1280
 imageHeight: 960
----
+---Exploring the First Temple Treasury is a theological subject that explores the intersection of faith traditions and historical evidence.
 
-Exploring the First Temple Treasury is a theological subject that explores the intersection of faith traditions and historical evidence.
+This topic is part of our [research on faith and history](/research/faith).
+
 
 What would it feel like to uncover treasures lost to antiquity? This thought provokes much fascination, particularly when discussing the First Temple Treasury, a subject rich in historical intrigue and biblical significance. The notion of uncovering lost artifacts from an ancient era captivates historians, archaeologists, and enthusiasts alike. The First Temple Treasury is not just a historical site; it represents the intersection of religious narratives, myths, and human history. As we explore the First Temple Treasury, we examine its biblical background, archaeological evidence, and the profound significance it holds today.
   
@@ -68,6 +69,12 @@ In exploring the First Temple Treasury, one traverses the fascinating intersecti
 ### Related Pilgrimage Guides
 
 - [How Pilgrims Ascended the Temple Mount in Ancient Jerusalem](/routes/temple-mount-ascent)
+
+## Related Research
+
+Explore these related articles for deeper study:
+
+- [First Temple Treasury Complex Unveiled](/research/faith/first-temple-treasury-complex-unveiled)
 
 ## Frequently Asked Questions
 

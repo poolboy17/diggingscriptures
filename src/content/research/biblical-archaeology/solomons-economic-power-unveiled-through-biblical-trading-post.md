@@ -11,9 +11,10 @@ imageAlt: "jerusalem, israel, old town, walls, the rock temple, dome of the rock
 imageCredit: "Image by Walkerssk on Pixabay"
 imageWidth: 1280
 imageHeight: 493
----
+---**Solomon's Economic Power Unveiled Through Biblical Trading Post**
 
-**Solomon's Economic Power Unveiled Through Biblical Trading Post**
+This topic is part of our [research on biblical archaeology](/research/biblical-archaeology).
+
  
 ### What was the economic might of King Solomon, and how did it shape an era founded on trade and prosperity?
  
@@ -81,6 +82,12 @@ In light of these revelations, further research can deepen the dialogue between 
 ### Related Pilgrimage Guides
 
 - [Shikoku 88 Temple Pilgrimage: Historic Pilgrimage Route](/routes/shikoku-88-temples)
+
+## Related Research
+
+Explore these related articles for deeper study:
+
+- [Biblical era Trading Post Unveils Solomon's Wealth](/research/biblical-archaeology/biblical-era-trading-post-unveils-solomons-wealth)
 
 ## Frequently Asked Questions
 

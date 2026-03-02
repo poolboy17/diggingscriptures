@@ -11,9 +11,10 @@ imageAlt: "parthenon, monument, temple, greece, athens, acropolis, greek archite
 imageCredit: "Image by Nick115 on Pixabay"
 imageWidth: 1280
 imageHeight: 850
----
+---Discover Ancient Temple Secrets with Ground-Penetrating Radar is a topic in biblical archaeology that connects ancient material evidence with scriptual narratives.
 
-Discover Ancient Temple Secrets with Ground-Penetrating Radar is a topic in biblical archaeology that connects ancient material evidence with scriptual narratives.
+This topic is part of our [research on biblical archaeology](/research/biblical-archaeology).
+
 
 Have you ever wondered what ancient secrets lie beneath our feet, hidden from view and yet promising to shed light on the past? Recent advancements in technology have led to groundbreaking discoveries in biblical archaeology, one of which is the unveiling of a hidden temple complex using ground-penetrating radar.
  
@@ -91,6 +92,12 @@ You, as a reader, are invited to reflect on these revelations and consider their
 ### Related Pilgrimage Guides
 
 - [Shikoku 88 Temple Pilgrimage: Historic Pilgrimage Route](/routes/shikoku-88-temples)
+
+## Related Research
+
+Explore these related articles for deeper study:
+
+- [Discover Ancient Temple Artifacts in Qumran: Secrets of](/research/excavations/exploring-the-qumran-workshop-ruins-a-quest-for-temple-artifacts)
 
 ## Frequently Asked Questions
 

@@ -11,9 +11,10 @@ imageAlt: "desktop, laptop, crafts, still life, mockup, table, decoration, desig
 imageCredit: "Image by rawpixel on Pixabay"
 imageWidth: 1280
 imageHeight: 916
----
+---Understanding the old Testament in Jesus's Time refers to a subject within biblical manuscript studies that scholars continue to investigate.
 
-Understanding the old Testament in Jesus's Time refers to a subject within biblical manuscript studies that scholars continue to investigate.
+This topic is part of our [research on biblical scripture studies](/research/scripture).
+
 
 In "Understanding the Old Testament in Jesus's Time," Anita Love, a renowned authority on Christianity's historical foundations, explores the relationship between the Old Testament and the New Testament. Through her thought-provoking content, Anita invites readers to examine into the central themes, literary genres, historical contexts, messianic prophecies, and the contrasting systems of law and covenant in both Testaments. With a deep understanding of biblical manuscripts and religious studies, Anita presents a captivating perspective that bridges the gap between ancient scriptures and their contemporary relevance. An expert in her field, Anita's writings cater to the diverse beliefs and denominations within Christianity, making her work highly regarded in ecumenical circles.
  
@@ -294,6 +295,12 @@ In summary, understanding the Old Testament in Jesus' time not only provides his
 ### Related Pilgrimage Guides
 
 - [How Pilgrims Ascended the Temple Mount in Ancient Jerusalem](/routes/temple-mount-ascent)
+
+## Related Research
+
+Explore these related articles for deeper study:
+
+- [Understanding Jesus in the old Testament](/research/scripture/understanding-jesus-in-the-old-testament)
 
 ## Frequently Asked Questions
 

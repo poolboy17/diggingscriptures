@@ -11,9 +11,10 @@ imageAlt: "archaeology, excavation, sun sails, protection, sun protection, archa
 imageCredit: "Image by Efraimstochter on Pixabay"
 imageWidth: 1280
 imageHeight: 960
----
+---Jerichos Underground Ramp: A Marvel of Ancient Engineering is a topic in biblical archaeology that connects ancient material evidence with scriptual narratives.
 
-Jerichos Underground Ramp: A Marvel of Ancient Engineering is a topic in biblical archaeology that connects ancient material evidence with scriptual narratives.
+This topic is part of our [research on biblical archaeology](/research/biblical-archaeology).
+
 
 What stories do the ancient remnants of Jericho whisper to us today? Its fascinating to think about how a city, famous for its walls, offers profound insights into the human experience, especially in its architectural marvels like the Underground Ramp.
   
@@ -107,6 +108,12 @@ As the sands of time shift, the remnants of Jericho remain steadfast, reminding 
 ### Related Pilgrimage Guides
 
 - [Rabbi Nachman's Journey to Israel](/stories/rabbi-nachman-journey-to-israel)
+
+## Related Research
+
+Explore these related articles for deeper study:
+
+- [Jerichos Hidden Past: Unearthing Ancient Secrets of](/research/biblical-archaeology/jericho-alcove-unveiling-the-complexities-of-occupation-in-ancient-texts)
 
 ## Frequently Asked Questions
 

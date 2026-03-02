@@ -11,9 +11,10 @@ imageAlt: "writing, manuscript, letter, document, ancient, lyrics, feather, ink,
 imageCredit: "Image by makamuki0 on Pixabay"
 imageWidth: 1280
 imageHeight: 960
----
+---Where was the First Bible Found? refers to a subject within biblical manuscript studies that scholars continue to investigate.
 
-Where was the First Bible Found? refers to a subject within biblical manuscript studies that scholars continue to investigate.
+This topic is part of our [research on biblical scripture studies](/research/scripture).
+
 
 In the intricate tapestry of biblical history, the quest for the first Bible's origin remains a fascinating enigma. Scholars and historians have long pondered the elusive beginnings of this sacred text, tracing its evolution through the annals of time.
 
@@ -68,6 +69,12 @@ The impact of the first Bible found at St. Catherine's Monastery can be summariz
 ### Related Pilgrimage Guides
 
 - [Rabbi Nachman's Journey to Israel](/stories/rabbi-nachman-journey-to-israel)
+
+## Related Research
+
+Explore these related articles for deeper study:
+
+- [Was the First Bible Found in Ethiopia?](/research/scripture/was-the-first-bible-found-in-ethiopia)
 
 ## Frequently Asked Questions
 

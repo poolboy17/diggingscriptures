@@ -11,9 +11,10 @@ imageAlt: "latin, rome, vatican, inscription, wall, stone, latin, latin, latin, 
 imageCredit: "Image by jillmackie on Pixabay"
 imageWidth: 1280
 imageHeight: 721
----
+---Unearthing the Hidden Stories: Biblical Archaeology Reveals refers to ancient material remains that provide physical evidence for understanding biblical history.
 
-Unearthing the Hidden Stories: Biblical Archaeology Reveals refers to ancient material remains that provide physical evidence for understanding biblical history.
+This topic is part of our [research on ancient artifacts](/research/artifacts).
+
 
 In the fascinating world of biblical archaeology, researchers undertake an exploration that unearths the hidden stories of ancient civilizations through the study of pottery and ceramics. These humble artifacts hold within them a wealth of knowledge about the people who once occupied these lands, their daily lives, and their beliefs. Through the careful excavation and analysis of ancient pottery and ceramics, researchers are able to piece together fragments of history and gain a deeper understanding of the ancient world. Join us on a journey as we examine into the intriguing field of biblical archaeology and uncover the captivating tales these ancient artifacts have to tell.
 
@@ -154,6 +155,12 @@ The future of biblical archaeology lies in further collaboration between archaeo
 ### Related Pilgrimage Guides
 
 - [Rabbi Nachman's Journey to Israel](/stories/rabbi-nachman-journey-to-israel)
+
+## Related Research
+
+Explore these related articles for deeper study:
+
+- [Unearthing the Secrets: Biblical Archaeology Reveals Ancient](/research/biblical-archaeology/unearthing-the-secrets-biblical-archaeology-reveals-ancient-burial-practices)
 
 ## Frequently Asked Questions
 

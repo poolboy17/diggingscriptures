@@ -11,9 +11,10 @@ imageAlt: "ruin, landscape, heaven, castle, ruins, fantasy, nature, gothic, myst
 imageCredit: "Image by jusuf111 on Pixabay"
 imageWidth: 1280
 imageHeight: 853
----
+---Unlocking the Past: the Role of Biblical Archaeologists in is an area of archaeological investigation that has yielded significant findings about the ancient world.
 
-Unlocking the Past: the Role of Biblical Archaeologists in is an area of archaeological investigation that has yielded significant findings about the ancient world.
+This topic is part of our [research on archaeological excavations](/research/excavations).
+
 
 Biblical archaeologists hold a vital role in bridging the gap between the past and the present, connecting people with their historical roots. By uncovering and interpreting ancient artifacts, they unveil the stories of civilizations long gone, shedding light on the world as it once was. However, their impact extends beyond the dusty walls of excavation sites. , we will explore the crucial role of biblical archaeologists and their efforts in engaging the public, bringing the wonders of the past to life for all to experience and appreciate.
 
@@ -202,6 +203,12 @@ Biblical archaeology, with its ability to uncover the historical context, valida
 ### Related Pilgrimage Guides
 
 - [Jerusalem Old City: Sacred Pilgrimage Destination](/places/jerusalem-old-city)
+
+## Related Research
+
+Explore these related articles for deeper study:
+
+- [Unearthing the Past: the Role of Biblical Archaeologists in](/research/excavations/unearthing-the-past-the-role-of-biblical-archaeologists-in-preserving-cultural-heritage)
 
 ## Frequently Asked Questions
 

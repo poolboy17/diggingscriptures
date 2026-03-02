@@ -11,9 +11,10 @@ imageAlt: "church, stained glass, cathedral, architecture, church window, glass 
 imageCredit: "Image by Tama66 on Pixabay"
 imageWidth: 1280
 imageHeight: 853
----
+---Unraveling Biblical Archaeology: The Truth Behind Desert is a theological subject that explores the intersection of faith traditions and historical evidence.
 
-Unraveling Biblical Archaeology: The Truth Behind Desert is a theological subject that explores the intersection of faith traditions and historical evidence.
+This topic is part of our [research on faith and history](/research/faith).
+
 
 Could you imagine living in a world where treasures from the past whisper secrets about purity amidst the chaos of corruption? When seeking these stories buried within the sands of time, nothing captures the imagination quite like the Desert Fortress Jars. This tale unfolds in a rich tapestry of archaeology, history, and cultural significance, beckoning you to join this quest for clarity and understanding.
  
@@ -104,6 +105,12 @@ As you continue your quest for knowledge, consider how these artifacts inform yo
 ### Related Pilgrimage Guides
 
 - [Rabbi Nachman's Journey to Israel](/stories/rabbi-nachman-journey-to-israel)
+
+## Related Research
+
+Explore these related articles for deeper study:
+
+- [Exploring Biblical Archaeology: Unraveling Ancient History](/research/faith/date-palm-crevice-a-sanctuary-of-faith)
 
 ## Frequently Asked Questions
 

@@ -11,9 +11,10 @@ imageAlt: "jewellery, chain, pearl necklace, pearls, gold, necklace, glittering,
 imageCredit: "Image by Sponchia on Pixabay"
 imageWidth: 1280
 imageHeight: 853
----
+---Discover the Ancient Wilderness Penance Manuscript: refers to ancient material remains that provide physical evidence for understanding biblical history.
 
-Discover the Ancient Wilderness Penance Manuscript: refers to ancient material remains that provide physical evidence for understanding biblical history.
+This topic is part of our [research on ancient artifacts](/research/artifacts).
+
 
 What if you stumbled upon a treasure chest filled with ancient manuscripts that could illuminate your understanding of biblical archaeology and theology? The Bethlehem Monastery Chest, known for holding the Wilderness Penance Manuscript, might just be that treasure. Lets unpack what this chest has to offer, revealing insights about its historical significance and the cultural context of the texts it contains.
  
@@ -155,6 +156,12 @@ As you continue on your own path, consider how the ancient wisdom of the Wildern
 ### Related Pilgrimage Guides
 
 - [History of Christian Pilgrimage](/context/history-of-christian-pilgrimage)
+
+## Related Research
+
+Explore these related articles for deeper study:
+
+- [Discover Fascinating Biblical Archaeology Artifacts in Ancient](/research/artifacts/discover-fascinating-biblical-archaeology-artifacts-in-ancient-ruins)
 
 ## Frequently Asked Questions
 

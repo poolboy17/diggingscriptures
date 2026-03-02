@@ -11,9 +11,10 @@ imageAlt: "pretty much, jerash, columns, roman, ancient, culture, story, histori
 imageCredit: "Image by ChiemSeherin on Pixabay"
 imageWidth: 1280
 imageHeight: 961
----
+---Archaeology is the systematic study of human history through material remains. It is often mistaken for anthropology or paleontology. But what is the study of archeology called exactly?
 
-Archaeology is the systematic study of human history through material remains. It is often mistaken for anthropology or paleontology. But what is the study of archeology called exactly?
+This topic is part of our [research on biblical archaeology](/research/biblical-archaeology).
+
 
 Revealing the layers of this intriguing field goes beyond just digging in the dirt. By unearthing ancient artifacts and deciphering lost civilizations, archaeologists piece together narratives that bring the past to life.
 
@@ -66,6 +67,13 @@ Studying the importance of archaeological research reveals invaluable insights i
 - **Insights into Ancient Economies and Social Structures**: Through excavations and analyses, archaeologists can uncover details about ancient economies, trade networks, and social hierarchies, providing a glimpse into how these societies functioned.
 - **Revealing Religious Practices and Technological Advancements**: By studying artifacts and architectural remains, archaeology helps in understanding the religious beliefs and practices of ancient civilizations, as well as their technological achievements and innovations.
 - **Enriching Historical Knowledge and Discovering Written Documents**: Archaeological research plays a pivotal role in expanding historical knowledge by piecing together the past through tangible evidence. Additionally, it enables the discovery and interpretation of written documents, such as inscriptions or scrolls, that offer direct insights into historical events and achievements.
+
+## Related Research
+
+Explore these related articles for deeper study:
+
+- [What is the Study of Biblical Archeology?](/research/biblical-archaeology/what-is-the-study-of-biblical-archeology)
+- [Are Archeology Degrees Worth It?](/research/biblical-archaeology/are-archeology-degrees-worth-it)
 
 ## Frequently Asked Questions
 

@@ -11,9 +11,10 @@ imageAlt: "archaeology, archaeological dig, documenting, digging, research, arch
 imageCredit: "Image by JamesDeMers on Pixabay"
 imageWidth: 1280
 imageHeight: 1165
----
+---Famous Biblical dig Sites Revealed is an area of archaeological investigation that has yielded significant findings about the ancient world.
 
-Famous Biblical dig Sites Revealed is an area of archaeological investigation that has yielded significant findings about the ancient world.
+This topic is part of our [research on archaeological excavations](/research/excavations).
+
 
 Beneath the layers of time and earth, remnants of ancient civilizations lie waiting to be unearthed. Through meticulous excavation of famous archaeological sites such as **Jerusalem**, **Megiddo**, **Masada**, **Qumran**, and **Mount Sinai**, historians and archaeologists have revealed a wealth of knowledge about the past. 
 
@@ -133,6 +134,12 @@ Biblical Archaeology Excavation Techniques Unraveled
 ### Related Pilgrimage Guides
 
 - [How Pilgrims Ascended the Temple Mount in Ancient Jerusalem](/routes/temple-mount-ascent)
+
+## Related Research
+
+Explore these related articles for deeper study:
+
+- [Preserving Biblical Archaeological Sites: Best Practices Revealed](/research/biblical-archaeology/preserving-biblical-archaeological-sites-best-practices-revealed)
 
 ## Frequently Asked Questions
 

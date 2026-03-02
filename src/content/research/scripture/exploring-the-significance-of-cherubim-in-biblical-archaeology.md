@@ -11,9 +11,10 @@ imageAlt: "scroll, feather, ink, caligraphy, hebrew, writing, characters, paper,
 imageCredit: "Image by zofiaEliyahu on Pixabay"
 imageWidth: 1280
 imageHeight: 859
----
+---Cherubim in the Bible: What were their True Roles in Ancient refers to a subject within biblical manuscript studies that scholars continue to investigate.
 
-Cherubim in the Bible: What were their True Roles in Ancient refers to a subject within biblical manuscript studies that scholars continue to investigate.
+This topic is part of our [research on biblical scripture studies](/research/scripture).
+
 
 What do you really know about cherubim beyond their cute depictions? In the field of biblical archaeology, cherubim sit at the crossroads of theology, history, and art. You may have seen those adorable chubby figures floating around in various artworks claiming to be angels, but the truth goes way deeper. Lets unravel the mystery behind these fascinating figures and their significance.
  
@@ -115,6 +116,12 @@ So, the next time you encounter a cherub, remember: behind that cute facade lies
 ### Related Pilgrimage Guides
 
 - [Shikoku 88 Temple Pilgrimage: Historic Pilgrimage Route](/routes/shikoku-88-temples)
+
+## Related Research
+
+Explore these related articles for deeper study:
+
+- [Unearthing History: how Ancient Hebrew Seals Link Bible And](/research/scripture/digital-recording-of-ancient-hebrew-seals-and-their-biblical-significance)
 
 ## Frequently Asked Questions
 

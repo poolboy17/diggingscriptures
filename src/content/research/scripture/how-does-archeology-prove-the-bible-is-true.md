@@ -11,9 +11,10 @@ imageAlt: "qumran national park, qumran, archeology, dead sea scrolls, cave numb
 imageCredit: "Image by samirsmier on Pixabay"
 imageWidth: 1280
 imageHeight: 720
----
+---How Does Archeology Prove the Bible is True? refers to a subject within biblical manuscript studies that scholars continue to investigate.
 
-How Does Archeology Prove the Bible is True? refers to a subject within biblical manuscript studies that scholars continue to investigate.
+This topic is part of our [research on biblical scripture studies](/research/scripture).
+
 
 Archaeology acts as an authenticator, affirming the Bible's veracity through tangible discoveries that correspond with biblical narratives.
 
@@ -66,6 +67,12 @@ Additionally, archaeological research at Bagazkoy and Ebla has supported the exi
 ### Related Pilgrimage Guides
 
 - [How Pilgrims Ascended the Temple Mount in Ancient Jerusalem](/routes/temple-mount-ascent)
+
+## Related Research
+
+Explore these related articles for deeper study:
+
+- [Cherubim in the Bible: What were their True Roles in Ancient](/research/scripture/exploring-the-significance-of-cherubim-in-biblical-archaeology)
 
 ## Frequently Asked Questions
 

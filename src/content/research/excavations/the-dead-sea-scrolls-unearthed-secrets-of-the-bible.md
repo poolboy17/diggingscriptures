@@ -11,9 +11,10 @@ imageAlt: "jerash, jordan, ruins, ancient, architecture, roman, archeology, pill
 imageCredit: "Image by Graham-H on Pixabay"
 imageWidth: 1280
 imageHeight: 996
----
+---The Dead sea Scrolls: Unearthed Secrets of the Bible is an area of archaeological investigation that has yielded significant findings about the ancient world.
 
-The Dead sea Scrolls: Unearthed Secrets of the Bible is an area of archaeological investigation that has yielded significant findings about the ancient world.
+This topic is part of our [research on archaeological excavations](/research/excavations).
+
 
 The Dead Sea Scrolls: Unearthed Secrets of the Bible takes readers on an intriguing journey through one of the most popular archaeological discoveries in history. These ancient manuscripts, dating back over two thousand years, have captivated scholars and religious enthusiasts alike. With their remarkable preservation and profound insights into biblical texts, the Dead Sea Scrolls offer a glimpse into the mysteries of the past, shedding light on religious customs, practices, and the development of sacred texts. Step into the world of these extraordinary scrolls and uncover the secrets they hold within their delicate pages.
 
@@ -208,6 +209,12 @@ Preserving the fragile materials of the Dead Sea Scrolls presents numerous chall
 ### Related Pilgrimage Guides
 
 - [Shikoku 88 Temple Pilgrimage: Historic Pilgrimage Route](/routes/shikoku-88-temples)
+
+## Related Research
+
+Explore these related articles for deeper study:
+
+- [Exploring Ancient Cosmic Battle Theories in the Dead Sea Scrolls](/research/excavations/dead-sea-orchard-unraveling-the-cosmic-battle-theories)
 
 ## Frequently Asked Questions
 

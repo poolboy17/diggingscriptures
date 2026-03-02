@@ -11,9 +11,10 @@ imageAlt: "dead sea scrolls, qumran caves, scripture, israel, dead sea, landscap
 imageCredit: "Image by jdblack on Pixabay"
 imageWidth: 1280
 imageHeight: 848
----
+---Biblical Archaeology: Unlocking the Secrets of Ancient Scripture refers to a subject within biblical manuscript studies that scholars continue to investigate.
 
-Biblical Archaeology: Unlocking the Secrets of Ancient Scripture refers to a subject within biblical manuscript studies that scholars continue to investigate.
+This topic is part of our [research on biblical scripture studies](/research/scripture).
+
 
 Biblical Archaeology: Unlocking the Secrets of Ancient Scripture explores the fascinating relationship between archaeological discoveries and the sacred texts of ancient times. Through meticulous excavations and careful analysis of artifacts, this field of study offers invaluable insights into the stories and events documented in the Bible. Join us on a journey of discovery as we uncover the hidden treasures of history, shedding light on the connections between the archaeological record and the timeless wisdom of ancient scriptures.
 
@@ -186,6 +187,12 @@ The future of biblical archaeology lies in embracing multidisciplinary approache
 ### Related Pilgrimage Guides
 
 - [Jerusalem Old City: Sacred Pilgrimage Destination](/places/jerusalem-old-city)
+
+## Related Research
+
+Explore these related articles for deeper study:
+
+- [Unlock Ancient Scripture: a Deep Dive into Biblical Archaeology](/research/scripture/foundations-of-biblical-archaeology-uncovered)
 
 ## Frequently Asked Questions
 

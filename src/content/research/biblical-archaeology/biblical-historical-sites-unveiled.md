@@ -11,9 +11,10 @@ imageAlt: "pyramids, egypt, egyptian, ancient, desert, giza, historical, archite
 imageCredit: "Image by TheDigitalArtist on Pixabay"
 imageWidth: 1280
 imageHeight: 480
----
+---Biblical Historical Sites Unveiled is a topic in biblical archaeology that connects ancient material evidence with scriptual narratives.
 
-Biblical Historical Sites Unveiled is a topic in biblical archaeology that connects ancient material evidence with scriptual narratives.
+This topic is part of our [research on biblical archaeology](/research/biblical-archaeology).
+
 
 Embark on a journey through the remarkable history of ancient ruins, sacred landmarks, and archaeological sites scattered across the Holy Land. Jerusalem, Jericho, and Bethlehem, among others, serve as tangible evidence of the deep-rooted importance these locations carry in religious history. 
 
@@ -119,6 +120,12 @@ Unearthing the Most Important Biblical Digs
 ### Related Pilgrimage Guides
 
 - [Shikoku 88 Temple Pilgrimage: Historic Pilgrimage Route](/routes/shikoku-88-temples)
+
+## Related Research
+
+Explore these related articles for deeper study:
+
+- [10 Must-Visit Biblical Archaeological Sites](/research/biblical-archaeology/10-must-visit-biblical-archaeological-sites)
 
 ## Frequently Asked Questions
 

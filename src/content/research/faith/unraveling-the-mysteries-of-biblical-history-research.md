@@ -11,9 +11,10 @@ imageAlt: "candles, church, burning, religion, light, flame, fire, celebration, 
 imageCredit: "Image by Republica on Pixabay"
 imageWidth: 1280
 imageHeight: 920
----
+---Unraveling the Mysteries of Biblical History Research is a theological subject that explores the intersection of faith traditions and historical evidence.
 
-Unraveling the Mysteries of Biblical History Research is a theological subject that explores the intersection of faith traditions and historical evidence.
+This topic is part of our [research on faith and history](/research/faith).
+
 
 Embarking on a captivating exploration through time, delving into the intriguing field of ancient texts and archaeological discoveries, holds the key to unraveling the enigmatic tapestry of biblical history research. The convergence of faith and science in this domain offers a fresh lens to view **historical evidence** and **religious studies**, providing valuable insights into the past and its relevance in our modern world. 
 
@@ -139,6 +140,12 @@ Interpreting Biblical Texts with Clarity
 ### Related Pilgrimage Guides
 
 - [Relics and Sacred Objects: Pilgrimage History & Context](/context/relics-and-sacred-objects)
+
+## Related Research
+
+Explore these related articles for deeper study:
+
+- [Unraveling Biblical Mysteries: Journey into Ancient History](/research/faith/cliff-stone-platform-a-study-of-the-apocalyptic-day-of-reckoning)
 
 ## Frequently Asked Questions
 

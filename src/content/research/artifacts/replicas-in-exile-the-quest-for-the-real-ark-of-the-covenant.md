@@ -11,9 +11,10 @@ imageAlt: "coins, ancient, ancient coin, financial, currency, gold, coins, ancie
 imageCredit: "Image by cho_phophimon on Pixabay"
 imageWidth: 1280
 imageHeight: 853
----
+---Ark of the Covenant: Divine Legacy Unraveled by Biblical refers to ancient material remains that provide physical evidence for understanding biblical history.
 
-Ark of the Covenant: Divine Legacy Unraveled by Biblical refers to ancient material remains that provide physical evidence for understanding biblical history.
+This topic is part of our [research on ancient artifacts](/research/artifacts).
+
 
 What would you risk to uncover a piece of history?
   
@@ -132,6 +133,12 @@ As you navigate your own journey, think of the Ark not just as a lost object but
 ### Related Pilgrimage Guides
 
 - [How Pilgrims Ascended the Temple Mount in Ancient Jerusalem](/routes/temple-mount-ascent)
+
+## Related Research
+
+Explore these related articles for deeper study:
+
+- [Biblical Archaeology Excavation Techniques Unraveled](/research/biblical-archaeology/biblical-archaeology-excavation-techniques-unraveled)
 
 ## Frequently Asked Questions
 

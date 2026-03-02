@@ -11,9 +11,10 @@ imageAlt: "archaeology, excavation, sun sails, protection, sun protection, archa
 imageCredit: "Image by Efraimstochter on Pixabay"
 imageWidth: 1280
 imageHeight: 960
----
+---Discover Ancient Rituals: a Deep Dive into Qumran Stairway's is an area of archaeological investigation that has yielded significant findings about the ancient world.
 
-Discover Ancient Rituals: a Deep Dive into Qumran Stairway's is an area of archaeological investigation that has yielded significant findings about the ancient world.
+This topic is part of our [research on archaeological excavations](/research/excavations).
+
 
 Have you ever wondered what secrets lie beneath the surface of ancient sites, especially the enigmatic Qumran? The mysteries of this area can ignite curiosity about everything from biblical history to archaeological practices. Specifically, the Qumran Stairway and the adjacent Sunken Room offer intriguing insights into practices and beliefs during the Second Temple period.
  
@@ -114,6 +115,12 @@ Connecting ancient understandings to modern spirituality can provide pathways fo
 ### Related Pilgrimage Guides
 
 - [How Pilgrims Ascended the Temple Mount in Ancient Jerusalem](/routes/temple-mount-ascent)
+
+## Related Research
+
+Explore these related articles for deeper study:
+
+- [Unraveling Ancient Jerusalem: a Deep Dive into the Temple](/research/excavations/ancient-jerusalem-street-reveals-temple-pilgrim-path)
 
 ## Frequently Asked Questions
 

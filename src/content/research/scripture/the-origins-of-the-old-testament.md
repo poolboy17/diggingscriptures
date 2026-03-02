@@ -11,9 +11,10 @@ imageAlt: "qumran national park, drone footage, aerial shot, archeology park, ca
 imageCredit: "Image by samirsmier on Pixabay"
 imageWidth: 1280
 imageHeight: 720
----
+---The Origins of the old Testament refers to a subject within biblical manuscript studies that scholars continue to investigate.
 
-The Origins of the old Testament refers to a subject within biblical manuscript studies that scholars continue to investigate.
+This topic is part of our [research on biblical scripture studies](/research/scripture).
+
 
 In Anita Love's thought-provoking exploration of the Old Testament, she sheds light on the origins and significance of this fundamental part of the Bible. As an esteemed theologian with a passion for unraveling ancient texts and uncovering the historical context behind religious teachings, Anita Love delves into the central themes, literary genres, historical context, messianic prophecies, and laws and covenants that shape the Old Testament. With her expertise and scholarly approach, Anita Love offers readers a captivating journey through the history and relevance of the Old Testament, demonstrating the profound impact it has on our understanding of Christianity today. So, where did the title "Old Testament" come from? Let's find out.
  
@@ -304,6 +305,12 @@ As Anita Love eloquently summarizes, the origins of the Old Testament lie in the
 ### Related Pilgrimage Guides
 
 - [How Pilgrims Ascended the Temple Mount in Ancient Jerusalem](/routes/temple-mount-ascent)
+
+## Related Research
+
+Explore these related articles for deeper study:
+
+- [The Language of the new Testament: Exploring its Origins](/research/scripture/the-language-of-the-new-testament-exploring-its-origins)
 
 ## Frequently Asked Questions
 

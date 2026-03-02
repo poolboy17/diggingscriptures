@@ -11,9 +11,10 @@ imageAlt: "death valley, desert, highway, road, rural, countryside, landscape, s
 imageCredit: "Image by jplenio on Pixabay"
 imageWidth: 1280
 imageHeight: 853
----
+---Have you ever thought about the significance of compassion in ancient societies, particularly toward those who were often marginalized? The story of the Ein Gedi Orchard Jar opens a window into how those in antiquity viewed social outcasts, and what we can learn from their actions today.
 
-Have you ever thought about the significance of compassion in ancient societies, particularly toward those who were often marginalized? The story of the Ein Gedi Orchard Jar opens a window into how those in antiquity viewed social outcasts, and what we can learn from their actions today.
+This topic is part of our [research on archaeological excavations](/research/excavations).
+
  
 
  
@@ -96,6 +97,12 @@ In the journey through history, you have the opportunity to embrace compassion, 
 ### Related Pilgrimage Guides
 
 - [Rabbi Nachman's Journey to Israel](/stories/rabbi-nachman-journey-to-israel)
+
+## Related Research
+
+Explore these related articles for deeper study:
+
+- [Unveiling Ancient Scribes: The Impact of Buried Wine Jars on](/research/biblical-archaeology/buried-wine-jar-scribes-told-to-copy-without-bias-in-ancient-texts)
 
 ## Frequently Asked Questions
 

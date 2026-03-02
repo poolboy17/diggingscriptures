@@ -11,9 +11,10 @@ imageAlt: "dead sea scrolls, qumran caves, scripture, israel, dead sea, landscap
 imageCredit: "Image by jdblack on Pixabay"
 imageWidth: 1280
 imageHeight: 848
----
+---How Does the Ethiopian Bible Differ from the Bible? refers to a subject within biblical manuscript studies that scholars continue to investigate.
 
-How Does the Ethiopian Bible Differ from the Bible? refers to a subject within biblical manuscript studies that scholars continue to investigate.
+This topic is part of our [research on biblical scripture studies](/research/scripture).
+
 
 Coincidentally, the Ethiopian Bible presents a fascinating departure from the traditional Bible known to many. With unique books and distinct translations, it raises intriguing questions about the differences in content and cultural influences.
 
@@ -66,6 +67,12 @@ The Ethiopian Bible's distinct canon, which includes additional texts beyond the
 ### Related Pilgrimage Guides
 
 - [Shikoku 88 Temple Pilgrimage: Historic Pilgrimage Route](/routes/shikoku-88-temples)
+
+## Related Research
+
+Explore these related articles for deeper study:
+
+- [Is Ethiopian Bible Accurate?: Scripture Studies](/research/scripture/is-ethiopian-bible-accurate)
 
 ## Frequently Asked Questions
 

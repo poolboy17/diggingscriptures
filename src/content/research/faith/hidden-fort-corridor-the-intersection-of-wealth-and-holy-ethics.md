@@ -11,9 +11,10 @@ imageAlt: "angel, icon, wall paint, iconography, damaged, weathered, aged, churc
 imageCredit: "Image by dimitrisvetsikas1969 on Pixabay"
 imageWidth: 1280
 imageHeight: 854
----
+---Deciphering Wealth & Ethics: A Historical Analysis in the Hidden is a theological subject that explores the intersection of faith traditions and historical evidence.
 
-Deciphering Wealth & Ethics: A Historical Analysis in the Hidden is a theological subject that explores the intersection of faith traditions and historical evidence.
+This topic is part of our [research on faith and history](/research/faith).
+
 
 What do you think happens when wealth meets ethical dilemmas infused with sacred traditions? There's a fascinating balanceor often imbalancethat societies have navigated throughout history when it comes to wealth and holy ethics, particularly within the context of the ancient world. Lets unpack that concept as we meander through the corridors of both history and sentiment.
  
@@ -150,6 +151,12 @@ In essence, the hidden fort corridor serves as a reminder that wealth is more th
 ### Related Pilgrimage Guides
 
 - [Shikoku 88 Temple Pilgrimage: Historic Pilgrimage Route](/routes/shikoku-88-temples)
+
+## Related Research
+
+Explore these related articles for deeper study:
+
+- [Discovering Hidden Treasures: the art of Biblical Archaeology](/research/faith/discovering-hidden-treasures-the-art-of-biblical-archaeology)
 
 ## Frequently Asked Questions
 

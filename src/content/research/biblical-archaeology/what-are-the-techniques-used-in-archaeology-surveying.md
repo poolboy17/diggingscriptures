@@ -11,9 +11,10 @@ imageAlt: "museum, artifacts, antiquities, culture, history, vietnam, south east
 imageCredit: "Image by NguyenHoangThach on Pixabay"
 imageWidth: 1280
 imageHeight: 853
----
+---What are the Techniques Used in Archaeology Surveying? is a topic in biblical archaeology that connects ancient material evidence with scriptual narratives.
 
-What are the Techniques Used in Archaeology Surveying? is a topic in biblical archaeology that connects ancient material evidence with scriptual narratives.
+This topic is part of our [research on biblical archaeology](/research/biblical-archaeology).
+
 
 In the domain of archaeology surveying, there exists a vast array of techniques that go beyond mere excavation. From the utilization of advanced tools like total stations to the intricate process of site grid creation, each step plays a pivotal role in unraveling the mysteries of the past.
 
@@ -70,6 +71,13 @@ Both fieldwalking and GPR are valuable tools in archaeological field surveys, as
 - **Fieldwalking**: Systematic collection of surface artifacts for analysis.
 - **Ground-Penetrating Radar (GPR)**: Non-invasive geophysical method for detecting subsurface features.
 - **Valuable insights**: Understanding artifact distributions and identifying buried structures.
+
+## Related Research
+
+Explore these related articles for deeper study:
+
+- [Biblical Archaeology Excavation Techniques Unraveled](/research/biblical-archaeology/biblical-archaeology-excavation-techniques-unraveled)
+- [What are the Methods Used in Biblical Archaeology?](/research/biblical-archaeology/what-are-the-methods-used-in-biblical-archaeology)
 
 ## Frequently Asked Questions
 

@@ -11,9 +11,10 @@ imageAlt: "necklace with winged heart, winged heart, red heart, necklace, gold n
 imageCredit: "Image by MAKY_OREL on Pixabay"
 imageWidth: 1280
 imageHeight: 853
----
+---First Temple Period Royal Seal Collection Unearthed refers to ancient material remains that provide physical evidence for understanding biblical history.
 
-First Temple Period Royal Seal Collection Unearthed refers to ancient material remains that provide physical evidence for understanding biblical history.
+This topic is part of our [research on ancient artifacts](/research/artifacts).
+
 
 Have you ever wondered what tangible connections remain today between us and the ancient biblical times, when kings and prophets walked the lands of Israel? The discovery of a collection of royal seals from the First Temple Period provides a fascinating glimpse into this divine era, unveiling artifacts that shed light on the cultural, political, and religious landscapes of ancient Judah. This article explores the monumental find, its significance, and how it shapes our understanding of biblical history.
   
@@ -81,6 +82,12 @@ In summary, the unearthing of the First Temple Period royal seal collection offe
 ### Related Pilgrimage Guides
 
 - [How Pilgrims Ascended the Temple Mount in Ancient Jerusalem](/routes/temple-mount-ascent)
+
+## Related Research
+
+Explore these related articles for deeper study:
+
+- [Royal Seals Unearthed from the First Temple Period](/research/biblical-archaeology/royal-seals-unearthed-from-the-first-temple-period)
 
 ## Frequently Asked Questions
 

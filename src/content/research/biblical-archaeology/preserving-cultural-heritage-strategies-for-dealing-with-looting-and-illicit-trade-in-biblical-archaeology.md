@@ -11,9 +11,10 @@ imageAlt: "contrast, abstract, nature, minimalism, windows, stone wall, desert, 
 imageCredit: "Image by Pix-Off on Pixabay"
 imageWidth: 1280
 imageHeight: 853
----
+---Preserving Cultural Heritage: Strategies for Dealing with is a topic in biblical archaeology that connects ancient material evidence with scriptual narratives.
 
-Preserving Cultural Heritage: Strategies for Dealing with is a topic in biblical archaeology that connects ancient material evidence with scriptual narratives.
+This topic is part of our [research on biblical archaeology](/research/biblical-archaeology).
+
 
 Preserving Cultural Heritage: Strategies for Dealing with Looting and Illicit Trade in Biblical Archaeology explores the challenges faced in protecting and preserving ancient artifacts of immense historical and cultural significance. This article sheds light on the alarming rise in looting and illicit trade in the field of Biblical Archaeology, highlighting the need for effective strategies to combat these illicit activities. By delving into the various methods employed by archaeologists and cultural preservation organizations, this piece aims to offer valuable insights into the importance of safeguarding our collective heritage and finding solutions to preserve these treasures for future generations.
 
@@ -87,6 +88,13 @@ Regular maintenance and conservation of archaeological sites are essential in pr
 
 Comprehensive documentation and inventory of cultural objects play a crucial role in preserving and protecting biblical artifacts. By maintaining detailed records of excavations, researchers can accurately trace the origin and provenance of archaeological finds. This documentation can aid in identifying stolen objects, detecting fakes, and supporting legal claims for repatriation.
 ar
+
+## Related Research
+
+Explore these related articles for deeper study:
+
+- [Preserving Endangered Cultural Sites: the Role of Biblical](/research/excavations/preserving-endangered-cultural-sites-the-role-of-biblical-archaeologists)
+- [The Impact of Biblical Archaeologists on Cultural Heritage](/research/faith/the-impact-of-biblical-archaeologists-on-cultural-heritage-preservation)
 
 ## Frequently Asked Questions
 

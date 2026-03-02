@@ -11,9 +11,10 @@ imageAlt: "jerash, jordan, ruins, ancient, architecture, roman, archeology, pill
 imageCredit: "Image by Graham-H on Pixabay"
 imageWidth: 1280
 imageHeight: 996
----
+---New Evidence Sheds Light on Jericho Orchards Testament of is an area of archaeological investigation that has yielded significant findings about the ancient world.
 
-New Evidence Sheds Light on Jericho Orchards Testament of is an area of archaeological investigation that has yielded significant findings about the ancient world.
+This topic is part of our [research on archaeological excavations](/research/excavations).
+
 
 Isnt it fascinating to think about how faith can endure even amidst the most tumultuous of times? When one looks at the Jericho Orchard Shelter, a symbol of shelter and sanctuary, it brings to mind the myriad of people who have sought refuge not just from the elements, but from the chaos surrounding their lives. This article takes you through the compelling narrative of faith, perseverance, and survival during cataclysmic upheaval, all anchored in the historical and archaeological significance of Jericho.
  
@@ -129,6 +130,12 @@ The Jericho Orchard Shelter stands as a poignant reminder of how faith can endur
 ### Related Pilgrimage Guides
 
 - [Rabbi Nachman's Journey to Israel](/stories/rabbi-nachman-journey-to-israel)
+
+## Related Research
+
+Explore these related articles for deeper study:
+
+- [New Evidence Sheds Light: Tech-Enhanced Analysis of Ancient](/research/artifacts/are-any-original-bible-manuscripts-still-in-existence)
 
 ## Frequently Asked Questions
 

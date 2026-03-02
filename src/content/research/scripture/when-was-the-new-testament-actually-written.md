@@ -11,9 +11,10 @@ imageAlt: "calligraphy, story, ink, feather, a book, vintage, old, wood, fairy t
 imageCredit: "Image by Ghinzo on Pixabay"
 imageWidth: 1280
 imageHeight: 853
----
+---In her compelling exploration of Christianity's historical foundations, Anita Love, a renowned scholar with an extensive background in Theology and Religious Studies, delves into the question of when the New Testament was actually written. Drawing on her expertise in biblical manuscripts and the authenticity of religious teachings, Anita's thought-provoking work aims to shed light on the origins and historical accuracy of the New Testament. With a nuanced perspective that values the diversity of Christian denominations and belief systems, Anita's research offers fresh insights into the timeless relevance of this sacred text.
 
-In her compelling exploration of Christianity's historical foundations, Anita Love, a renowned scholar with an extensive background in Theology and Religious Studies, delves into the question of when the New Testament was actually written. Drawing on her expertise in biblical manuscripts and the authenticity of religious teachings, Anita's thought-provoking work aims to shed light on the origins and historical accuracy of the New Testament. With a nuanced perspective that values the diversity of Christian denominations and belief systems, Anita's research offers fresh insights into the timeless relevance of this sacred text.
+This topic is part of our [research on biblical scripture studies](/research/scripture).
+
  
 
   
@@ -166,6 +167,12 @@ New Testament timelines also play a role in Christian apologetics, which seeks t
 ### Related Pilgrimage Guides
 
 - [Jerusalem Old City: Sacred Pilgrimage Destination](/places/jerusalem-old-city)
+
+## Related Research
+
+Explore these related articles for deeper study:
+
+- [Are all new Testament Books Written in Greek?](/research/scripture/are-all-new-testament-books-written-in-greek)
 
 ## Frequently Asked Questions
 

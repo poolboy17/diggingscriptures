@@ -11,9 +11,10 @@ imageAlt: "mining excavator, electric, bucket wheel excavator, walking excavator
 imageCredit: "Image by xusenru on Pixabay"
 imageWidth: 1280
 imageHeight: 853
----
+---Unearthing the Truth: the Debate Over Authenticity in Biblical is an area of archaeological investigation that has yielded significant findings about the ancient world.
 
-Unearthing the Truth: the Debate Over Authenticity in Biblical is an area of archaeological investigation that has yielded significant findings about the ancient world.
+This topic is part of our [research on archaeological excavations](/research/excavations).
+
 
 Unearthing the Truth: The Debate Over Authenticity in Biblical Archaeology takes readers on a captivating journey into the world of painstaking excavation and unraveling mysteries that lie hidden beneath layers of time. Within the field of biblical archaeology, a contentious debate rages on regarding the authenticity of artifacts and sites that claim to hold crucial historical and religious significance. With scholars and experts on both sides passionately defending their viewpoints, this article explores the various arguments and evidence presented, shedding light on the complex and intriguing nature of the ongoing controversy.
 
@@ -192,6 +193,12 @@ Moreover, the future of authenticity debates relies on a balance between scienti
 ### Related Pilgrimage Guides
 
 - [How Pilgrims Ascended the Temple Mount in Ancient Jerusalem](/routes/temple-mount-ascent)
+
+## Related Research
+
+Explore these related articles for deeper study:
+
+- [Unearthing Truth: the Debate Over the Reliability of Biblical](/research/biblical-archaeology/unearthing-truth-the-debate-over-the-reliability-of-biblical-archaeological-evidence)
 
 ## Frequently Asked Questions
 

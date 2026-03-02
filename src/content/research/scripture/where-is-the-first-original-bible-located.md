@@ -11,9 +11,10 @@ imageAlt: "bible, book, highlighter, pages, text, open, open book, open bible, h
 imageCredit: "Image by Pexels on Pixabay"
 imageWidth: 1280
 imageHeight: 961
----
+---Where is the First Original Bible Located? refers to a subject within biblical manuscript studies that scholars continue to investigate.
 
-Where is the First Original Bible Located? refers to a subject within biblical manuscript studies that scholars continue to investigate.
+This topic is part of our [research on biblical scripture studies](/research/scripture).
+
 
 Nestled within the halls of the British Museum lies a treasure trove of ancient wisdom, the Codex Sinaiticus. But where did this venerable manuscript truly originate from?
 
@@ -60,6 +61,13 @@ The comparison of paleographic features between the Codex Sinaiticus and other a
 The Codex Vaticanus, dated to the mid-fourth century, is another important manuscript that aids scholars in understanding the textual history of the Bible. By examining the writing techniques, letter forms, and ornamentation in both the Codex Sinaiticus and the Codex Vaticanus, researchers can establish connections and distinctions between these early Christian texts. Similarly, the Codex Alexandrinus, although slightly later in origin, offers additional comparative material for paleographic analysis.
 
 Studying these ancient Bibles in conjunction allows scholars to trace the evolution of script styles, identify scribes or scriptoria responsible for their production, and detect potential influences between different manuscript traditions. Through paleographic comparisons, researchers can deepen their comprehension of the historical contexts in which these texts were created and transmitted, shedding light on the complexities of early Christian manuscript production and dissemination.
+
+## Related Research
+
+Explore these related articles for deeper study:
+
+- [Where is the Original Bible Located?](/research/scripture/where-is-the-original-bible-located)
+- [Are the Original Books of the Bible Still in Existence?](/research/scripture/are-the-original-books-of-the-bible-still-in-existence)
 
 ## Frequently Asked Questions
 

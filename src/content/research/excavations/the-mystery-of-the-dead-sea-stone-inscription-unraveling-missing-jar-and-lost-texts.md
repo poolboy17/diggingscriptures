@@ -11,9 +11,10 @@ imageAlt: "ruin, landscape, heaven, castle, ruins, fantasy, nature, gothic, myst
 imageCredit: "Image by jusuf111 on Pixabay"
 imageWidth: 1280
 imageHeight: 853
----
+---Unlocking Secrets of Biblical Archaeology: the Dead sea Stone is an area of archaeological investigation that has yielded significant findings about the ancient world.
 
-Unlocking Secrets of Biblical Archaeology: the Dead sea Stone is an area of archaeological investigation that has yielded significant findings about the ancient world.
+This topic is part of our [research on archaeological excavations](/research/excavations).
+
 
 What if I told you that hidden among the sands of time and ancient texts lay a mystery that has baffled scholars for decades? The Dead Sea Stone Inscription, a relic that tantalizes historians and archaeologists alike, holds secrets that could reveal a deeper understanding of our history. So, grab a cup of your favorite brew as we unravel the captivating story behind this enigmatic artifact.
  
@@ -175,6 +176,12 @@ The history woven through these ancient inscriptions serves as a mirror reflecti
 ### Related Pilgrimage Guides
 
 - [Shikoku 88 Temple Pilgrimage: Historic Pilgrimage Route](/routes/shikoku-88-temples)
+
+## Related Research
+
+Explore these related articles for deeper study:
+
+- [Biblical Archaeology: Unlocking the Secrets of Ancient Scripture](/research/scripture/biblical-archaeology-unlocking-the-secrets-of-ancient-scripture)
 
 ## Frequently Asked Questions
 

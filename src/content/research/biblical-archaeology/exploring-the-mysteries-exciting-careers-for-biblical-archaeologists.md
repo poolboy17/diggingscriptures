@@ -11,9 +11,10 @@ imageAlt: "masada national park, masada, the great revolt, roman siege ramp, cli
 imageCredit: "Image by samirsmier on Pixabay"
 imageWidth: 1280
 imageHeight: 720
----
+---Exploring the Mysteries: Exciting Careers for Biblical is a topic in biblical archaeology that connects ancient material evidence with scriptual narratives.
 
-Exploring the Mysteries: Exciting Careers for Biblical is a topic in biblical archaeology that connects ancient material evidence with scriptual narratives.
+This topic is part of our [research on biblical archaeology](/research/biblical-archaeology).
+
 
 Have you ever wondered what it would be like to unearth ancient artifacts, decipher enigmatic texts, and dive deep into the historical mysteries of the Bible? If so, then the world of Biblical archaeology may be calling your name. With thrilling opportunities to explore the past and shed light on the narratives that have shaped our civilization, this captivating field offers a range of exciting careers for those with a passion for history, culture, and adventure. Whether you envision yourself sifting through ancient ruins, conducting groundbreaking research, or working alongside experts in the field, the mysteries of Biblical archaeology await, inviting you to embark on a thrilling journey of discovery.
 
@@ -188,6 +189,12 @@ Documentary filmmaking provides biblical archaeologists with a platform to visua
 ### Related Pilgrimage Guides
 
 - [How Pilgrims Ascended the Temple Mount in Ancient Jerusalem](/routes/temple-mount-ascent)
+
+## Related Research
+
+Explore these related articles for deeper study:
+
+- [Biblical Archaeology Findings Shed Light on Ancient Mysteries](/research/biblical-archaeology/biblical-archaeology-findings-shed-light-on-ancient-mysteries)
 
 ## Frequently Asked Questions
 

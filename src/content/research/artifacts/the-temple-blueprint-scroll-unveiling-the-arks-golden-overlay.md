@@ -11,9 +11,10 @@ imageAlt: "jewellery, chain, pearl necklace, pearls, gold, necklace, glittering,
 imageCredit: "Image by Sponchia on Pixabay"
 imageWidth: 1280
 imageHeight: 853
----
+---Analyzing the Temple Blueprint Scroll: Divine Mysteries of the refers to ancient material remains that provide physical evidence for understanding biblical history.
 
-Analyzing the Temple Blueprint Scroll: Divine Mysteries of the refers to ancient material remains that provide physical evidence for understanding biblical history.
+This topic is part of our [research on ancient artifacts](/research/artifacts).
+
 
 Have you ever wondered about the true significance of the Ark of the Covenant and its golden overlay? This mysterious artifact, cloaked in biblical history and theological implications, evokes both curiosity and reverence.
  
@@ -144,6 +145,12 @@ Whether you're drawn to the artistic, historical, or theological aspects of the 
 ### Related Pilgrimage Guides
 
 - [How Pilgrims Ascended the Temple Mount in Ancient Jerusalem](/routes/temple-mount-ascent)
+
+## Related Research
+
+Explore these related articles for deeper study:
+
+- [Unveiling Temple Greed: The Ancient Scroll of the Battered](/research/artifacts/battered-column-chest-a-scroll-unveiling-temple-greed)
 
 ## Frequently Asked Questions
 

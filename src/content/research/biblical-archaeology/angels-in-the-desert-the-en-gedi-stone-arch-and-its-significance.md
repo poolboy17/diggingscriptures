@@ -11,9 +11,10 @@ imageAlt: "pretty much, jerash, oval forum, roman, culture, story, historical, a
 imageCredit: "Image by ChiemSeherin on Pixabay"
 imageWidth: 1280
 imageHeight: 720
----
+---Discovering Angels in Biblical Archaeology: The En Gedi is a topic in biblical archaeology that connects ancient material evidence with scriptual narratives.
 
-Discovering Angels in Biblical Archaeology: The En Gedi is a topic in biblical archaeology that connects ancient material evidence with scriptual narratives.
+This topic is part of our [research on biblical archaeology](/research/biblical-archaeology).
+
 
 What comes to your mind when you think of angels? Do they float freely in the skies above or perch quietly in unexpected corners of the world? Its intriguing to imagine how the celestial can intertwine with the earthly, especially in a place as ancient and mystical as En Gedi.
  
@@ -173,6 +174,12 @@ Ultimately, the stories of angels in the desert, embodied by the En Gedi Stone A
 ### Related Pilgrimage Guides
 
 - [Why Walking to Sacred Places Changes People](/context/psychology-of-pilgrimage)
+
+## Related Research
+
+Explore these related articles for deeper study:
+
+- [Discovering Ancient Echoes: A Deep Dive into Biblical Archaeology](/research/biblical-archaeology/the-haunted-echoes-of-the-abandoned-stable-letters-from-the-past)
 
 ## Frequently Asked Questions
 

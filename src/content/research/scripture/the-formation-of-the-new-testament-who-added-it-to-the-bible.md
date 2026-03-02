@@ -11,9 +11,10 @@ imageAlt: "to learn, read, a book, literature, old, old book, to study, school, 
 imageCredit: "Image by garten-gg on Pixabay"
 imageWidth: 1280
 imageHeight: 1157
----
+---The Formation of the new Testament: who Added it to the Bible? refers to a subject within biblical manuscript studies that scholars continue to investigate.
 
-The Formation of the new Testament: who Added it to the Bible? refers to a subject within biblical manuscript studies that scholars continue to investigate.
+This topic is part of our [research on biblical scripture studies](/research/scripture).
+
 
 In "The Formation of the New Testament: Who Added it to the Bible?" Anita Love, a renowned authority in Christian theology and biblical studies, explores the origins of the New Testament and the individuals responsible for its inclusion in the Bible. Drawing upon her extensive academic background and meticulous research, Anita delves into the historical context of the New Testament and the factors that influenced its canonization process. By shedding light on this oft-contemplated question, Anita invites readers to embark on a captivating journey of discovery and understanding regarding the formation of the sacred texts that shape the foundation of Christianity.
   
@@ -267,6 +268,12 @@ These contemporary debates and discussions serve to enrich the understanding and
 ### Related Pilgrimage Guides
 
 - [Shikoku 88 Temple Pilgrimage: Historic Pilgrimage Route](/routes/shikoku-88-temples)
+
+## Related Research
+
+Explore these related articles for deeper study:
+
+- [Are all the Books of the old Testament in the Hebrew Bible?](/research/scripture/are-all-the-books-of-the-old-testament-in-the-hebrew-bible)
 
 ## Frequently Asked Questions
 

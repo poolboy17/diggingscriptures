@@ -11,9 +11,10 @@ imageAlt: "petra, jordan, royal tombs, sand stone, antique, historically, histor
 imageCredit: "Image by ChiemSeherin on Pixabay"
 imageWidth: 1280
 imageHeight: 853
----
+---Discovering the Ancient Jewish Bath House is a topic in biblical archaeology that connects ancient material evidence with scriptual narratives.
 
-Discovering the Ancient Jewish Bath House is a topic in biblical archaeology that connects ancient material evidence with scriptual narratives.
+This topic is part of our [research on biblical archaeology](/research/biblical-archaeology).
+
 
 Have you ever wondered about the ancient practices that shaped religious and cultural rituals through history? One such practicethe use of mikveh, or the ancient Jewish bath houseoffers a fascinating glimpse into a history rich with tradition and spiritual significance. These ancient structures not only provide insight into the daily lives of Jewish communities of the past but also serve as a testament to religious observances that have permeated through centuries.
  
@@ -85,6 +86,12 @@ In summary, the discovery and study of ancient Jewish bath houses provide profou
 ### Related Pilgrimage Guides
 
 - [How Pilgrims Ascended the Temple Mount in Ancient Jerusalem](/routes/temple-mount-ascent)
+
+## Related Research
+
+Explore these related articles for deeper study:
+
+- [Ancient Jewish Cemetery Reveals Burial Rites](/research/biblical-archaeology/ancient-jewish-cemetery-reveals-burial-rites)
 
 ## Frequently Asked Questions
 

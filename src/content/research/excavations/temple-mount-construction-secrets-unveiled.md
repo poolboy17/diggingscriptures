@@ -11,9 +11,10 @@ imageAlt: "workshop, carpenter, crafts, artisan, drink, work, tool, vintage, wor
 imageCredit: "Image by ThMilherou on Pixabay"
 imageWidth: 1280
 imageHeight: 848
----
+---Temple Mount Construction Secrets Unveiled is an area of archaeological investigation that has yielded significant findings about the ancient world.
 
-Temple Mount Construction Secrets Unveiled is an area of archaeological investigation that has yielded significant findings about the ancient world.
+This topic is part of our [research on archaeological excavations](/research/excavations).
+
 
 Have you ever wondered about the secrets that lie beneath the Temple Mount's sacred grounds? Known as one of the most compelling historical and religious sites in the world, the Temple Mount holds a significant place in biblical archaeology. Unveiling its construction secrets can offer profound insights into our historical past, shining light on ancient civilizations and their architectural accomplishments.
   
@@ -95,6 +96,12 @@ Experts and enthusiasts alike are encouraged to keep abreast of ongoing research
 ### Related Pilgrimage Guides
 
 - [How Pilgrims Ascended the Temple Mount in Ancient Jerusalem](/routes/temple-mount-ascent)
+
+## Related Research
+
+Explore these related articles for deeper study:
+
+- [Temple Mount Secrets: Unearthing Hidden History with Advanced](/research/excavations/archaeological-scanning-unveils-temple-mount-secrets)
 
 ## Frequently Asked Questions
 

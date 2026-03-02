@@ -11,9 +11,10 @@ imageAlt: "buddha, statue, temple, ruins, praying, worship, thailand, buddha pur
 imageCredit: "Image by qimono on Pixabay"
 imageWidth: 1280
 imageHeight: 853
----
+---Exploring Biblical Archaeology: Unraveling Ancient History is a theological subject that explores the intersection of faith traditions and historical evidence.
 
-Exploring Biblical Archaeology: Unraveling Ancient History is a theological subject that explores the intersection of faith traditions and historical evidence.
+This topic is part of our [research on faith and history](/research/faith).
+
 
 What comes to mind when you think of a sanctuary? Is it a quiet space filled with light, a gathering of friends, or perhaps a refuge where faith is nurtured? For communities around the world, sanctuaries can take on various forms, but few are as evocative as the Date Palm Crevice. This particular location symbolizes a blend of nature, spirituality, and cultural heritage. Let's embark on a journey through this fascinating intersection of faith and history.
   
@@ -155,6 +156,13 @@ By examining the crevice through the lens of history and faith, you can draw par
  
  
 As you carry these lessons into your own life, consider how you can create your sanctuaryone filled with faith, community, and a connection to the timeless roots of the world around you.
+
+## Related Research
+
+Explore these related articles for deeper study:
+
+- [Unraveling Biblical Mysteries: Journey into Ancient History](/research/faith/cliff-stone-platform-a-study-of-the-apocalyptic-day-of-reckoning)
+- [Exploring Ancient Languages Through Biblical Archaeology](/research/faith/exploring-ancient-languages-through-biblical-archaeology)
 
 ## Frequently Asked Questions
 

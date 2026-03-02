@@ -11,9 +11,10 @@ imageAlt: "wailing wall, western wall, israel, jerusalem, temple, wailing wall, 
 imageCredit: "Image by Freeshot on Pixabay"
 imageWidth: 1280
 imageHeight: 733
----
+---Sacred Vessels in Temple Worship Unveiled is a theological subject that explores the intersection of faith traditions and historical evidence.
 
-Sacred Vessels in Temple Worship Unveiled is a theological subject that explores the intersection of faith traditions and historical evidence.
+This topic is part of our [research on faith and history](/research/faith).
+
 
 Have you ever considered the profound legacy held within sacred vessels used in temple worship throughout history? The intersection of spirituality, anthropology, and archaeology holds a captivating treasure trove of insights into ancient practices that continue to resonate today. Unveiling these enigmatic artifacts not only enriches our understanding of religious rituals of the past but also deepens our appreciation for their ongoing influence.
   
@@ -75,6 +76,12 @@ The exploration of sacred vessels invites practitioners, scholars, and enthusias
 ### Related Pilgrimage Guides
 
 - [How Pilgrims Ascended the Temple Mount in Ancient Jerusalem](/routes/temple-mount-ascent)
+
+## Related Research
+
+Explore these related articles for deeper study:
+
+- [First Temple Treasury Complex Unveiled](/research/faith/first-temple-treasury-complex-unveiled)
 
 ## Frequently Asked Questions
 

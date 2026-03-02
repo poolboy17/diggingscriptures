@@ -11,9 +11,10 @@ imageAlt: "streets, night, lights, circle, highways, top view, cityscape, aerial
 imageCredit: "Image by csliaw on Pixabay"
 imageWidth: 1280
 imageHeight: 960
----
+---Did the Israelites Conquer Jericho a new Look at the is an area of archaeological investigation that has yielded significant findings about the ancient world.
 
-Did the Israelites Conquer Jericho a new Look at the is an area of archaeological investigation that has yielded significant findings about the ancient world.
+This topic is part of our [research on archaeological excavations](/research/excavations).
+
 
 In a surprising turn of events, recent archaeological investigations at Jericho have sparked fresh debates on the historical validity of the Israelite conquest. Scholars are reevaluating long-held beliefs in light of new findings that challenge traditional narratives.
 
@@ -66,6 +67,12 @@ Throughout the centuries, Jericho's significance has been intertwined with its r
 ### Related Pilgrimage Guides
 
 - [Rabbi Nachman's Journey to Israel](/stories/rabbi-nachman-journey-to-israel)
+
+## Related Research
+
+Explore these related articles for deeper study:
+
+- [Journey to Jericho  the Fascinating World of Biblical Archaeology](/research/excavations/exploring-biblical-archaeology-journey-to-jericho)
 
 ## Frequently Asked Questions
 

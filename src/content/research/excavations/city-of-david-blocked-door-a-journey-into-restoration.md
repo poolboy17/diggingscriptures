@@ -11,9 +11,10 @@ imageAlt: "valley of the kings, deir el-bahri, egypt, hatshepsut's mortuary temp
 imageCredit: "Image by RonPorter on Pixabay"
 imageWidth: 1280
 imageHeight: 853
----
+---Unlocking the City of David: a Journey Through Biblical is an area of archaeological investigation that has yielded significant findings about the ancient world.
 
-Unlocking the City of David: a Journey Through Biblical is an area of archaeological investigation that has yielded significant findings about the ancient world.
+This topic is part of our [research on archaeological excavations](/research/excavations).
+
 
 Have you ever wondered what secrets lie behind a blocked door, especially one steeped in history? The City of David, a site rich in biblical lore and archaeological significance, is home to such a doornot an ordinary one, but one that speaks volumes about restoration, both physical and metaphorical.
   
@@ -156,6 +157,12 @@ By understanding these connections and insights, you cultivate a richer apprecia
 ### Related Pilgrimage Guides
 
 - [How Pilgrims Ascended the Temple Mount in Ancient Jerusalem](/routes/temple-mount-ascent)
+
+## Related Research
+
+Explore these related articles for deeper study:
+
+- [Unlocking Biblical Secrets: a Scientific Journey Into](/research/biblical-archaeology/scientific-analysis-of-temple-artifacts-and-biblical-insights)
 
 ## Frequently Asked Questions
 

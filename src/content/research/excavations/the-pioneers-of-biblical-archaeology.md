@@ -11,9 +11,10 @@ imageAlt: "ruins, sunset, nature, travel, outdoors, castle, fortress, architectu
 imageCredit: "Image by papazachariasa on Pixabay"
 imageWidth: 1280
 imageHeight: 853
----
+---The Pioneers of Biblical Archaeology is an area of archaeological investigation that has yielded significant findings about the ancient world.
 
-The Pioneers of Biblical Archaeology is an area of archaeological investigation that has yielded significant findings about the ancient world.
+This topic is part of our [research on archaeological excavations](/research/excavations).
+
 
 Meet the trailblazers of Biblical Archaeology, the individuals who made groundbreaking discoveries and shaped our understanding of ancient religious texts. From William F. Albright's meticulous excavations to Kathleen Kenyon's groundbreaking work at Jericho, these pioneers of the field dedicated their lives to unearthing and interpreting the physical remnants of a centuries-old era. Their contributions have not only shed light on the historical accuracy of biblical accounts but also highlighted the cultural and societal context in which these stories unfolded. Join us as we take a closer look at the leading figures in the field of Biblical Archaeology and their invaluable contributions.
 
@@ -294,6 +295,12 @@ These new frontiers present exciting opportunities for the field to push the bou
 ### Related Pilgrimage Guides
 
 - [Rabbi Nachman's Journey to Israel](/stories/rabbi-nachman-journey-to-israel)
+
+## Related Research
+
+Explore these related articles for deeper study:
+
+- [10 Steps to Volunteer on a Biblical Archaeology Dig](/research/excavations/10-steps-to-volunteer-on-a-biblical-archaeology-dig)
 
 ## Frequently Asked Questions
 

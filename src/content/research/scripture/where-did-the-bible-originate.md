@@ -11,9 +11,10 @@ imageAlt: "desktop, laptop, crafts, still life, mockup, table, decoration, desig
 imageCredit: "Image by rawpixel on Pixabay"
 imageWidth: 1280
 imageHeight: 916
----
+---Where did the Bible Originate? refers to a subject within biblical manuscript studies that scholars continue to investigate.
 
-Where did the Bible Originate? refers to a subject within biblical manuscript studies that scholars continue to investigate.
+This topic is part of our [research on biblical scripture studies](/research/scripture).
+
 
 Ironically, the mystery surrounding the Bible's origin often raises eyebrows among scholars and believers alike. Many ponder the complexities of its inception, contemplating the intricate web of historical, cultural, and divine influences that shaped this revered text.
 
@@ -61,6 +62,12 @@ KeywordsDescriptionOld CovenantTook shape under the Persian EmpireNew CovenantCo
 ### Related Pilgrimage Guides
 
 - [Rabbi Nachman's Journey to Israel](/stories/rabbi-nachman-journey-to-israel)
+
+## Related Research
+
+Explore these related articles for deeper study:
+
+- [Are all the Books of the old Testament in the Hebrew Bible?](/research/scripture/are-all-the-books-of-the-old-testament-in-the-hebrew-bible)
 
 ## Frequently Asked Questions
 

@@ -11,9 +11,10 @@ imageAlt: "parchment, contract, paper, document, old, manuscript, retro, yellow,
 imageCredit: "Image by icame on Pixabay"
 imageWidth: 1280
 imageHeight: 853
----
+---Exploring the old Testament Through a Cultural Lens refers to a subject within biblical manuscript studies that scholars continue to investigate.
 
-Exploring the old Testament Through a Cultural Lens refers to a subject within biblical manuscript studies that scholars continue to investigate.
+This topic is part of our [research on biblical scripture studies](/research/scripture).
+
 
 In the captivating article, "Exploring the Old Testament through a Cultural Lens," Anita Love, an esteemed authority in Christian theology, delves into the depths of the Old Testament narratives by analyzing the historical and cultural contexts surrounding its passages. With a deep appreciation for the diversity within Christian denominations, belief systems, and lifestyles, Anita's work highlights the importance of understanding the Old Testament from a cultural perspective to better comprehend its messages and apply them to contemporary life. With her extensive background in Theology and Religious Studies, Anita's writings provide readers with a thought-provoking exploration of the ancient biblical manuscripts and the authenticities of religious teachings.
  
@@ -317,6 +318,12 @@ By recognizing the implications of the Old Testament for contemporary Christian 
 ### Related Pilgrimage Guides
 
 - [Rabbi Nachman's Journey to Israel](/stories/rabbi-nachman-journey-to-israel)
+
+## Related Research
+
+Explore these related articles for deeper study:
+
+- [Exploring the Authenticity of old Testament Manuscripts](/research/scripture/exploring-the-authenticity-of-old-testament-manuscripts)
 
 ## Frequently Asked Questions
 

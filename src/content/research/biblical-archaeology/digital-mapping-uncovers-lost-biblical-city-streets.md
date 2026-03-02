@@ -11,9 +11,10 @@ imageAlt: "egypt, temple, hieroglyphics, pharaoh, egyptian temple, travel, statu
 imageCredit: "Image by NadineDoerle on Pixabay"
 imageWidth: 1280
 imageHeight: 850
----
+---Unveiling Ancient Biblical Streets: the Power of Digital Mapping is a topic in biblical archaeology that connects ancient material evidence with scriptual narratives.
 
-Unveiling Ancient Biblical Streets: the Power of Digital Mapping is a topic in biblical archaeology that connects ancient material evidence with scriptual narratives.
+This topic is part of our [research on biblical archaeology](/research/biblical-archaeology).
+
 
 Have you ever wondered how technological advancements might reshape our understanding of ancient history? Digital mapping is doing just that by uncovering lost city streets that hold significance in biblical narratives. In recent times, advanced technology has opened new doors into the ancient past, allowing modern civilization to touch the stories once confined to sacred texts. This article delves into the extraordinary revelations brought to light by digital mapping, turning the pages of history to rediscover streets long considered lost.
   
@@ -87,6 +88,12 @@ In sum, the utilization of digital mapping in unearthing these lost biblical cit
 ### Related Pilgrimage Guides
 
 - [Relics and Sacred Objects: Pilgrimage History & Context](/context/relics-and-sacred-objects)
+
+## Related Research
+
+Explore these related articles for deeper study:
+
+- [Unveiling Ancient Secrets: A Deep Dive into Biblical Archaeology](/research/biblical-archaeology/cliffside-hollow-navigating-the-tension-between-law-and-tradition)
 
 ## Frequently Asked Questions
 

@@ -11,9 +11,10 @@ imageAlt: "egyptian temple, historic site, structure, land lot, archaeological s
 imageCredit: "Image by Wael-Ezz on Pixabay"
 imageWidth: 1280
 imageHeight: 853
----
+---Uncovering Lost Biblical Treasures is an area of archaeological investigation that has yielded significant findings about the ancient world.
 
-Uncovering Lost Biblical Treasures is an area of archaeological investigation that has yielded significant findings about the ancient world.
+This topic is part of our [research on archaeological excavations](/research/excavations).
+
 
 Hidden beneath layers of dirt and time, lie the secrets of ancient civilizations and their deep spiritual histories. In the quest to unearth the mysteries of the Bible, a team of dedicated biblical archaeologists have dedicated their lives to searching for lost biblical treasures. Through their tireless efforts, they have made key discoveries that shed light on the past and enhance our understanding of the sacred texts. These remarkable findings not only offer valuable insights into biblical times, but also serve as a testament to the enduring power and importance of these ancient stories.
 
@@ -76,6 +77,12 @@ Biblical archaeology has enriched our understanding of the Bible by unearthing l
 ### Related Pilgrimage Guides
 
 - [How Pilgrims Ascended the Temple Mount in Ancient Jerusalem](/routes/temple-mount-ascent)
+
+## Related Research
+
+Explore these related articles for deeper study:
+
+- [Hidden Temple Chamber Reveals Lost Biblical Treasures](/research/biblical-archaeology/hidden-temple-chamber-reveals-lost-biblical-treasures)
 
 ## Frequently Asked Questions
 

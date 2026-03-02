@@ -11,9 +11,10 @@ imageAlt: "workshop, carpenter, crafts, artisan, drink, work, tool, vintage, wor
 imageCredit: "Image by ThMilherou on Pixabay"
 imageWidth: 1280
 imageHeight: 848
----
+---Temple Mount Secrets: Unearthing Hidden History with Advanced is an area of archaeological investigation that has yielded significant findings about the ancient world.
 
-Temple Mount Secrets: Unearthing Hidden History with Advanced is an area of archaeological investigation that has yielded significant findings about the ancient world.
+This topic is part of our [research on archaeological excavations](/research/excavations).
+
 
 Have you ever wondered what secrets lie hidden beneath the storied stones of the Temple Mount? This ancient site, one of the most significant in religious history, continues to intrigue and mystify scholars and archaeologists worldwide. Recent advances in archaeological scanning technology have begun to peel back the layers of time, revealing secrets kept locked beneath this sacred ground.
  
@@ -77,6 +78,12 @@ As the sands of time are peeled back, what future revelations might shape our un
 ### Related Pilgrimage Guides
 
 - [How Pilgrims Ascended the Temple Mount in Ancient Jerusalem](/routes/temple-mount-ascent)
+
+## Related Research
+
+Explore these related articles for deeper study:
+
+- [Temple Mount Construction Secrets Unveiled](/research/excavations/temple-mount-construction-secrets-unveiled)
 
 ## Frequently Asked Questions
 

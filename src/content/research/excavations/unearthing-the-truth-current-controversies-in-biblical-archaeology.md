@@ -11,9 +11,10 @@ imageAlt: "jerash, jordan, ruins, ancient, architecture, roman, archeology, pill
 imageCredit: "Image by Graham-H on Pixabay"
 imageWidth: 1280
 imageHeight: 996
----
+---Unearthing the Truth: Current Controversies in Biblical is an area of archaeological investigation that has yielded significant findings about the ancient world.
 
-Unearthing the Truth: Current Controversies in Biblical is an area of archaeological investigation that has yielded significant findings about the ancient world.
+This topic is part of our [research on archaeological excavations](/research/excavations).
+
 
 Unearthing the Truth: Current Controversies in Biblical Archaeology takes readers on a captivating journey into the intriguing world of archaeological discoveries related to the Bible. This article explores the current debates and controversies that have emerged within the field, shedding light on the complex and ever-evolving nature of deciphering ancient texts and uncovering historical truths. From contested interpretations of ancient artifacts to disputes over the authenticity of biblical sites, this article delves into the heated discussions that shape our understanding of biblical events and raises fascinating questions about the intersection of faith, history, and science.
 
@@ -204,6 +205,12 @@ Biblical archaeology, like all branches of archaeology, carries ethical responsi
 ### Related Pilgrimage Guides
 
 - [How Pilgrims Ascended the Temple Mount in Ancient Jerusalem](/routes/temple-mount-ascent)
+
+## Related Research
+
+Explore these related articles for deeper study:
+
+- [Controversies in Biblical Archaeology: Unearthing the Truth](/research/excavations/controversies-in-biblical-archaeology-unearthing-the-truth)
 
 ## Frequently Asked Questions
 

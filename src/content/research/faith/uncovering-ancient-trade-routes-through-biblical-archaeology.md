@@ -11,9 +11,10 @@ imageAlt: "christ, icon, hagia sophia, istanbul, mosaic, ancient art, 13th centu
 imageCredit: "Image by gunthersimmermacher on Pixabay"
 imageWidth: 1280
 imageHeight: 960
----
+---Uncovering Ancient Trade Routes Through Biblical Archaeology is a theological subject that explores the intersection of faith traditions and historical evidence.
 
-Uncovering Ancient Trade Routes Through Biblical Archaeology is a theological subject that explores the intersection of faith traditions and historical evidence.
+This topic is part of our [research on faith and history](/research/faith).
+
 
 Uncovering Ancient Trade Routes through Biblical Archaeology takes readers on a fascinating journey into the world of ancient trade and commerce. This article explores the significant role that biblical archaeologists play in shedding light on the intricate web of trading networks that existed centuries ago. From unearthing valuable artifacts to deciphering ancient texts, these dedicated individuals use their expertise to piece together the puzzle of ancient trade routes, providing us with invaluable insights into the interconnectedness of civilizations. Through compelling discoveries and meticulous research, biblical archaeologists are uncovering the hidden stories of how goods and ideas were exchanged, deepening our understanding of the civilizations that came before us.
 
@@ -182,6 +183,12 @@ Dendrochronology and radiocarbon dating have provided valuable chronological inf
 ### Related Pilgrimage Guides
 
 - [Rabbi Nachman's Journey to Israel](/stories/rabbi-nachman-journey-to-israel)
+
+## Related Research
+
+Explore these related articles for deeper study:
+
+- [Biblical Archaeology: Uncovering Ancient Maritime Routes](/research/biblical-archaeology/biblical-archaeology-uncovering-ancient-maritime-routes)
 
 ## Frequently Asked Questions
 

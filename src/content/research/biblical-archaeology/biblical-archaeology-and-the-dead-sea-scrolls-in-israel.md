@@ -11,9 +11,10 @@ imageAlt: "petra, ad deir, world heritage, sand stone, antique, historically, na
 imageCredit: "Image by ChiemSeherin on Pixabay"
 imageWidth: 1280
 imageHeight: 853
----
+---Biblical Archaeology & Dead Sea Scrolls | Pillar Page
 
-Biblical Archaeology & Dead Sea Scrolls | Pillar Page
+This topic is part of our [research on biblical archaeology](/research/biblical-archaeology).
+
   
   
 
@@ -456,6 +457,12 @@ Biblical Archaeology & Dead Sea Scrolls | Pillar Page
 ### Related Pilgrimage Guides
 
 - [Shikoku 88 Temple Pilgrimage: Historic Pilgrimage Route](/routes/shikoku-88-temples)
+
+## Related Research
+
+Explore these related articles for deeper study:
+
+- [Discovering Ancient Echoes: A Deep Dive into Biblical Archaeology](/research/biblical-archaeology/the-haunted-echoes-of-the-abandoned-stable-letters-from-the-past)
 
 ## Frequently Asked Questions
 

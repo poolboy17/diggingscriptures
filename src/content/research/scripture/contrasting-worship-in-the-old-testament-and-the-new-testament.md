@@ -11,9 +11,10 @@ imageAlt: "books, stack, book store, stack of books, 2nd hand, retro, hipster, s
 imageCredit: "Image by EliFrancis on Pixabay"
 imageWidth: 1280
 imageHeight: 853
----
+---Contrasting Worship in the old Testament and the new Testament refers to a subject within biblical manuscript studies that scholars continue to investigate.
 
-Contrasting Worship in the old Testament and the new Testament refers to a subject within biblical manuscript studies that scholars continue to investigate.
+This topic is part of our [research on biblical scripture studies](/research/scripture).
+
 
 In "Contrasting Worship in the Old Testament and the New Testament," Anita Love, a renowned expert in Christian theology, delves into the distinction between worship practices in these two biblical periods. With her extensive knowledge and academic background, Love explores the differences in central themes, literary genres, historical contexts, messianic prophecies, and the emphasis on law and covenant. By examining key passages, analyzing cultural contexts, and drawing comparisons, Love uncovers the unique aspects and theological implications of worship in the Old Testament compared to the New Testament. Her expertise provides invaluable insights into the evolution of worship practices throughout Christianity's history.
  
@@ -311,6 +312,12 @@ While the Last Supper and Passover share key elements and theological connection
 ### Related Pilgrimage Guides
 
 - [How Pilgrims Ascended the Temple Mount in Ancient Jerusalem](/routes/temple-mount-ascent)
+
+## Related Research
+
+Explore these related articles for deeper study:
+
+- [Contrasting Themes in the old Testament and the new Testament](/research/scripture/contrasting-themes-in-the-old-testament-and-the-new-testament-4)
 
 ## Frequently Asked Questions
 

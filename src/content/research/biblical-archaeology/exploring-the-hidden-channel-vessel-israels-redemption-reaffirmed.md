@@ -11,9 +11,10 @@ imageAlt: "petra, ad deir, world heritage, sand stone, antique, historically, na
 imageCredit: "Image by ChiemSeherin on Pixabay"
 imageWidth: 1280
 imageHeight: 853
----
+---Unearthed: Ancient Israels Redemption Story in the Hidden is a topic in biblical archaeology that connects ancient material evidence with scriptual narratives.
 
-Unearthed: Ancient Israels Redemption Story in the Hidden is a topic in biblical archaeology that connects ancient material evidence with scriptual narratives.
+This topic is part of our [research on biblical archaeology](/research/biblical-archaeology).
+
 
 Have you ever wondered how ancient artifacts can reshape our understanding of history, faith, and identity? The past holds a treasure trove of secrets, each whispering tales of redemption and loss. As you examine into the intricate narrative of the "Hidden Channel Vessel," you'll discover how this artifact connects to broader themes within Israel's narrative of redemption.
   
@@ -109,6 +110,12 @@ As you step back from the intricate details surrounding this artifact, its clear
 ### Related Pilgrimage Guides
 
 - [Rabbi Nachman's Journey to Israel](/stories/rabbi-nachman-journey-to-israel)
+
+## Related Research
+
+Explore these related articles for deeper study:
+
+- [Unearthed Wisdom: Discovering Ancient Letters in Side Canyon](/research/biblical-archaeology/exploring-side-canyon-shelter-a-journey-through-patience-and-deliverance-letters)
 
 ## Frequently Asked Questions
 

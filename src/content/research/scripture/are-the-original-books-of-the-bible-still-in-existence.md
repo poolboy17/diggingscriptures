@@ -11,9 +11,10 @@ imageAlt: "book, manuscript, paper, ancient, manuscript, manuscript, manuscript,
 imageCredit: "Image by TonyPrats on Pixabay"
 imageWidth: 1280
 imageHeight: 850
----
+---Are the Original Books of the Bible Still in Existence? refers to a subject within biblical manuscript studies that scholars continue to investigate.
 
-Are the Original Books of the Bible Still in Existence? refers to a subject within biblical manuscript studies that scholars continue to investigate.
+This topic is part of our [research on biblical scripture studies](/research/scripture).
+
 
 Ancient manuscripts like the Codex Sinaiticus and Codex Vaticanus offer valuable insights into the original books of the Bible. While these physical copies have not survived the test of time, the meticulous work of scholars in textual criticism has been pivotal in ensuring the Bible's authenticity.
 
@@ -62,6 +63,12 @@ The significance of these existing ancient manuscripts is paramount in affirming
 ### Related Pilgrimage Guides
 
 - [Rabbi Nachman's Journey to Israel](/stories/rabbi-nachman-journey-to-israel)
+
+## Related Research
+
+Explore these related articles for deeper study:
+
+- [Do any of the Original Books of the Bible Still Exist?](/research/scripture/do-any-of-the-original-books-of-the-bible-still-exist)
 
 ## Frequently Asked Questions
 

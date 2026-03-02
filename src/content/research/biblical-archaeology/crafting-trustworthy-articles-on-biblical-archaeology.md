@@ -11,9 +11,10 @@ imageAlt: "amman, jordan, city, urban, buildings, downtown, city life, architect
 imageCredit: "Image by Jonny_Joka on Pixabay"
 imageWidth: 1280
 imageHeight: 853
----
+---How to Write Engaging and Trustworthy Biblical Archaeology is a topic in biblical archaeology that connects ancient material evidence with scriptual narratives.
 
-How to Write Engaging and Trustworthy Biblical Archaeology is a topic in biblical archaeology that connects ancient material evidence with scriptual narratives.
+This topic is part of our [research on biblical archaeology](/research/biblical-archaeology).
+
 
 What makes an article on biblical archaeology trustworthy? Is it solely the number of scholarly references? Or is it the ability to paint a vivid picture of ancient times, merging history with the invaluable insights found in the scriptures? Whether you're an avid explorer of ancient civilizations or someone who simply craves knowledge, understanding how to craft and consume trustworthy articles in this fascinating field is essential.
   
@@ -153,6 +154,12 @@ Through crafting trustworthy articles on biblical archaeology, you're not simply
 ### Related Pilgrimage Guides
 
 - [How Pilgrims Ascended the Temple Mount in Ancient Jerusalem](/routes/temple-mount-ascent)
+
+## Related Research
+
+Explore these related articles for deeper study:
+
+- [Discovering Angels in Biblical Archaeology: The En Gedi](/research/biblical-archaeology/angels-in-the-desert-the-en-gedi-stone-arch-and-its-significance)
 
 ## Frequently Asked Questions
 

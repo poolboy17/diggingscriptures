@@ -11,9 +11,10 @@ imageAlt: "city, frankfurt, cityscape, skyscrapers, dusk, twilight, night, light
 imageCredit: "Image by Bru-nO on Pixabay"
 imageWidth: 1280
 imageHeight: 853
----
+---What if I told you that the remnants of a once-thriving community are whispering secrets about ancient rituals, sacred texts, and temple artifacts? You might be surprised to learn that such a place exists, known as the Qumran Workshop Ruins. This site, nestled near the shores of the Dead Sea, holds the key to unlocking chapters of history that many may have thought lost to time.
 
-What if I told you that the remnants of a once-thriving community are whispering secrets about ancient rituals, sacred texts, and temple artifacts? You might be surprised to learn that such a place exists, known as the Qumran Workshop Ruins. This site, nestled near the shores of the Dead Sea, holds the key to unlocking chapters of history that many may have thought lost to time.
+This topic is part of our [research on archaeological excavations](/research/excavations).
+
  
 
  
@@ -161,6 +162,12 @@ In uncovering the Qumran Workshop Ruins and the artifacts associated with it, yo
 ### Related Pilgrimage Guides
 
 - [How Pilgrims Ascended the Temple Mount in Ancient Jerusalem](/routes/temple-mount-ascent)
+
+## Related Research
+
+Explore these related articles for deeper study:
+
+- [Discover Ancient Secrets: Qumran Stones Impact on Festival Timing](/research/excavations/qumran-boundary-stone-unlocking-the-calendar-keys-for-festival-timing)
 
 ## Frequently Asked Questions
 

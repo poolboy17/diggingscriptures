@@ -11,9 +11,10 @@ imageAlt: "parchment, contract, paper, document, old, manuscript, retro, yellow,
 imageCredit: "Image by icame on Pixabay"
 imageWidth: 1280
 imageHeight: 853
----
+---What is the Oldest Archaeological Evidence of the Bible? refers to a subject within biblical manuscript studies that scholars continue to investigate.
 
-What is the Oldest Archaeological Evidence of the Bible? refers to a subject within biblical manuscript studies that scholars continue to investigate.
+This topic is part of our [research on biblical scripture studies](/research/scripture).
+
 
 The quest for the oldest archaeological evidence of the Bible leads researchers on a fascinating journey through ancient artifacts and inscriptions that offer intriguing glimpses into the historical contexts of biblical narratives. From the enigmatic Merneptah Stele to the intriguing Tel Dan Inscription, these discoveries shed light on the intersection of archaeology and biblical accounts, sparking debates and shaping our understanding of the ancient world.
 
@@ -72,6 +73,12 @@ These archaeological findings play a pivotal role in substantiating biblical nar
 ### Related Pilgrimage Guides
 
 - [Shikoku 88 Temple Pilgrimage: Historic Pilgrimage Route](/routes/shikoku-88-temples)
+
+## Related Research
+
+Explore these related articles for deeper study:
+
+- [Are There any Archaeological Evidence of the Bible?](/research/scripture/are-there-any-archaeological-evidence-of-the-bible)
 
 ## Frequently Asked Questions
 

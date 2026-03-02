@@ -11,9 +11,10 @@ imageAlt: "mosque, crowd, worship, mecca, islam, religion, kaaba, trip, architec
 imageCredit: "Image by Konevi on Pixabay"
 imageWidth: 1280
 imageHeight: 853
----
+---In Anita Love's thought-provoking article, "Language of the Testaments," she explores the language in which the biblical testaments were written. With her extensive background in theology and religious studies, Anita delves into the complexities of the Old Testament and the New Testament, shedding light on their contrasting themes, literary genres, historical contexts, messianic prophecies, and the emphasis on law and covenant. As a respected authority in her field, Anita's work offers a nuanced perspective that fosters a deeper understanding of Christianity's historical foundations while acknowledging the diversity within the faith. So, what language were the testaments written in? Let's find out.
 
-In Anita Love's thought-provoking article, "Language of the Testaments," she explores the language in which the biblical testaments were written. With her extensive background in theology and religious studies, Anita delves into the complexities of the Old Testament and the New Testament, shedding light on their contrasting themes, literary genres, historical contexts, messianic prophecies, and the emphasis on law and covenant. As a respected authority in her field, Anita's work offers a nuanced perspective that fosters a deeper understanding of Christianity's historical foundations while acknowledging the diversity within the faith. So, what language were the testaments written in? Let's find out.
+This topic is part of our [research on faith and history](/research/faith).
+
   
   
 ## Historical Origin and Language of the Testaments
@@ -81,6 +82,12 @@ Continued below...
 ### Related Pilgrimage Guides
 
 - [Rabbi Nachman's Journey to Israel](/stories/rabbi-nachman-journey-to-israel)
+
+## Related Research
+
+Explore these related articles for deeper study:
+
+- [Comparing old and new Testaments: Central Themes](/research/faith/comparing-old-and-new-testaments-central-themes)
 
 ## Frequently Asked Questions
 

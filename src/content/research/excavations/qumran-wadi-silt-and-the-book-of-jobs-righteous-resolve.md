@@ -11,9 +11,10 @@ imageAlt: "streets, night, lights, circle, highways, top view, cityscape, aerial
 imageCredit: "Image by csliaw on Pixabay"
 imageWidth: 1280
 imageHeight: 960
----
+---Qumran Wadi Silt: a Window into Ancient Biblical Life and Lessons is an area of archaeological investigation that has yielded significant findings about the ancient world.
 
-Qumran Wadi Silt: a Window into Ancient Biblical Life and Lessons is an area of archaeological investigation that has yielded significant findings about the ancient world.
+This topic is part of our [research on archaeological excavations](/research/excavations).
+
 
 What if I told you that two seemingly unrelated topicsQumran Wadi silt and the Book of Jobreflect significant aspects of human resilience and spirituality? Lets sift through the sediment of history and belief to uncover what these two subjects reveal about our understanding of righteousness during trials.
  
@@ -134,6 +135,12 @@ Reflecting on their intertwined narratives not only illuminates the past but als
 ### Related Pilgrimage Guides
 
 - [Shikoku 88 Temple Pilgrimage: Historic Pilgrimage Route](/routes/shikoku-88-temples)
+
+## Related Research
+
+Explore these related articles for deeper study:
+
+- [Discover Ancient Ethics: Qumran Storeroom's Timeless Lessons](/research/excavations/exploring-the-qumran-storeroom-trunk-a-study-in-moral-integrity)
 
 ## Frequently Asked Questions
 

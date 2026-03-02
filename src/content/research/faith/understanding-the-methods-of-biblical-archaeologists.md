@@ -11,9 +11,10 @@ imageAlt: "wailing wall, western wall, israel, jerusalem, temple, wailing wall, 
 imageCredit: "Image by Freeshot on Pixabay"
 imageWidth: 1280
 imageHeight: 733
----
+---Understanding the Methods of Biblical Archaeologists is a theological subject that explores the intersection of faith traditions and historical evidence.
 
-Understanding the Methods of Biblical Archaeologists is a theological subject that explores the intersection of faith traditions and historical evidence.
+This topic is part of our [research on faith and history](/research/faith).
+
 
 In "Understanding the Methods of Biblical Archaeologists," the article delves into the intriguing world of biblical archaeology and explores the methods used by experts to analyze ancient texts and inscriptions. From deciphering ancient languages to excavating historical sites, these archaeologists employ a wide array of techniques to uncover the secrets of the past. By delving into their methods, readers will gain a deeper understanding of how these experts piece together the puzzle of ancient civilizations and shed light on the historical accuracy of biblical accounts.
 
@@ -172,6 +173,12 @@ Biblical archaeologists play a vital role in uncovering, interpreting, and conte
 ### Related Pilgrimage Guides
 
 - [Shikoku 88 Temple Pilgrimage: Historic Pilgrimage Route](/routes/shikoku-88-temples)
+
+## Related Research
+
+Explore these related articles for deeper study:
+
+- [Methods Used by Biblical Archaeologists to Date Ancient Artifacts](/research/artifacts/methods-used-by-biblical-archaeologists-to-date-ancient-artifacts)
 
 ## Frequently Asked Questions
 

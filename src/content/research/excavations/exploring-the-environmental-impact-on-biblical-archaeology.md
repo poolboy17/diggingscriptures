@@ -11,9 +11,10 @@ imageAlt: "death valley, desert, highway, road, rural, countryside, landscape, s
 imageCredit: "Image by jplenio on Pixabay"
 imageWidth: 1280
 imageHeight: 853
----
+---Exploring the Environmental Impact on Biblical Archaeology is an area of archaeological investigation that has yielded significant findings about the ancient world.
 
-Exploring the Environmental Impact on Biblical Archaeology is an area of archaeological investigation that has yielded significant findings about the ancient world.
+This topic is part of our [research on archaeological excavations](/research/excavations).
+
 
 Biblical Archaeology, a fascinating field that uncovers historical artifacts and evidence of biblical events, has always held a sense of intrigue and wonder. However, what many may not consider is the significant role that the environment plays in shaping and preserving these ancient treasures. From the effects of climate change on archaeological sites to the impact of deforestation and urbanization on the availability of crucial resources, this article explores the often overlooked connection between the environment and the study of biblical history.
 
@@ -216,6 +217,12 @@ Through a multidisciplinary approach, integrating archaeology, climatology, ecol
 ### Related Pilgrimage Guides
 
 - [Jerusalem Old City: Sacred Pilgrimage Destination](/places/jerusalem-old-city)
+
+## Related Research
+
+Explore these related articles for deeper study:
+
+- [Exploring the Impact of Biblical Archaeology on Public Policy](/research/excavations/exploring-the-impact-of-biblical-archaeology-on-public-policy)
 
 ## Frequently Asked Questions
 

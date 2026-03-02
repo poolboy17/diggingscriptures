@@ -11,9 +11,10 @@ imageAlt: "pretty much, jerash, oval forum, roman, culture, story, historical, a
 imageCredit: "Image by ChiemSeherin on Pixabay"
 imageWidth: 1280
 imageHeight: 720
----
+---What is the Study of Biblical Archeology? is a topic in biblical archaeology that connects ancient material evidence with scriptual narratives.
 
-What is the Study of Biblical Archeology? is a topic in biblical archaeology that connects ancient material evidence with scriptual narratives.
+This topic is part of our [research on biblical archaeology](/research/biblical-archaeology).
+
 
 Biblical archaeology, often likened to a detective unraveling clues from the past, navigates the intricate relationship between ancient artifacts and biblical narratives. As researchers meticulously unearth remnants of ancient civilizations, they open windows into the lives of individuals who shaped the stories we read today.
 
@@ -72,6 +73,12 @@ In the field of biblical archaeology, scholars must tread carefully to ensure th
 ### Related Pilgrimage Guides
 
 - [Rabbi Nachman's Journey to Israel](/stories/rabbi-nachman-journey-to-israel)
+
+## Related Research
+
+Explore these related articles for deeper study:
+
+- [What is the Course on Biblical Archeology?](/research/biblical-archaeology/what-is-the-course-on-biblical-archeology)
 
 ## Frequently Asked Questions
 

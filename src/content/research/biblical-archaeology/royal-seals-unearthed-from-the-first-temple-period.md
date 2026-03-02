@@ -11,9 +11,10 @@ imageAlt: "jordan, petra, camels, dromedary, nature, desert, tourism"
 imageCredit: "Image by mikaelthunberg on Pixabay"
 imageWidth: 1280
 imageHeight: 854
----
+---Royal Seals Unearthed from the First Temple Period is a topic in biblical archaeology that connects ancient material evidence with scriptual narratives.
 
-Royal Seals Unearthed from the First Temple Period is a topic in biblical archaeology that connects ancient material evidence with scriptual narratives.
+This topic is part of our [research on biblical archaeology](/research/biblical-archaeology).
+
 
 Have you ever wondered what artifacts lie beneath the sands of history and what stories they have to tell about ancient civilizations? In recent years, discoveries have illuminated our understanding of the First Temple Period, notably the unearthing of royal seals that shed light on the biblical era. These archaeological finds not only corroborate historical texts but also deepen our connection to a time shrouded in legend and lore.
  
@@ -83,6 +84,12 @@ In summary, the royal seals unearthed from the First Temple Period are more than
 ### Related Pilgrimage Guides
 
 - [How Pilgrims Ascended the Temple Mount in Ancient Jerusalem](/routes/temple-mount-ascent)
+
+## Related Research
+
+Explore these related articles for deeper study:
+
+- [First Temple Period Royal Seal Collection Unearthed](/research/artifacts/first-temple-period-royal-seal-collection-unearthed)
 
 ## Frequently Asked Questions
 

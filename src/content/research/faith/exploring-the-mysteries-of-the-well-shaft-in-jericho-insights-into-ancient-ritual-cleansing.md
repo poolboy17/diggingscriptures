@@ -11,9 +11,10 @@ imageAlt: "masjid prophetic, medina, religion, muslim, islam, architectural, hz,
 imageCredit: "Image by Konevi on Pixabay"
 imageWidth: 1280
 imageHeight: 853
----
+---Unveiling Jerichos Ancient Well: A Deep Dive into Ritual is a theological subject that explores the intersection of faith traditions and historical evidence.
 
-Unveiling Jerichos Ancient Well: A Deep Dive into Ritual is a theological subject that explores the intersection of faith traditions and historical evidence.
+This topic is part of our [research on faith and history](/research/faith).
+
 
 What secrets do ancient sites hold beneath the surface?
  
@@ -146,6 +147,12 @@ As you reflect on this ancient site, remember that its mysteries have much to te
 ### Related Pilgrimage Guides
 
 - [Rabbi Nachman's Journey to Israel](/stories/rabbi-nachman-journey-to-israel)
+
+## Related Research
+
+Explore these related articles for deeper study:
+
+- [Unveiling Ancient Sacred Crafts: a Deep Dive into Biblical](/research/faith/biblical-archaeology-unearths-ancient-sacred-crafts)
 
 ## Frequently Asked Questions
 

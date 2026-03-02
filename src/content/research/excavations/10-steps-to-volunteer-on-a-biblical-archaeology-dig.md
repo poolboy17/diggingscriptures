@@ -11,9 +11,10 @@ imageAlt: "egypt, temple, hieroglyphics, pharaoh, egyptian temple, travel, statu
 imageCredit: "Image by NadineDoerle on Pixabay"
 imageWidth: 1280
 imageHeight: 850
----
+---10 Steps to Volunteer on a Biblical Archaeology Dig is an area of archaeological investigation that has yielded significant findings about the ancient world.
 
-10 Steps to Volunteer on a Biblical Archaeology Dig is an area of archaeological investigation that has yielded significant findings about the ancient world.
+This topic is part of our [research on archaeological excavations](/research/excavations).
+
 
 Join the exciting world of Biblical Archaeology by following these 10 steps! From uncovering ancient artifacts to connecting with the rich history of the Bible, volunteering on a dig is a unique and rewarding experience. Discover the steps to becoming a part of this fascinating journey and explore the wonders of the past firsthand. Whether you're a history enthusiast, a religious scholar, or simply curious about the treasures hidden beneath the earth's surface, this guide will help you embark on an unforgettable adventure in Biblical Archaeology.
 
@@ -174,6 +175,13 @@ Volunteers are encouraged to share their knowledge and insights with others, bot
 ### Creating Memories
 
 One of the most rewarding aspects of volunteering on a Biblical Archaeology dig is the creation of lasting memories. The friendships formed, the knowledge gained, and the sense of contribution to historical research become cherished memories. Volunteers should take the time to reflect on the unique experiences and appreciate the archaeological journey they have been a part of.
+
+## Related Research
+
+Explore these related articles for deeper study:
+
+- [Steps for Conducting a Proper Excavation in Biblical Archaeology](/research/biblical-archaeology/steps-for-conducting-a-proper-excavation-in-biblical-archaeology)
+- [Advancing Biblical Archaeology Through Remote Sensing](/research/excavations/advancing-biblical-archaeology-through-remote-sensing)
 
 ## Frequently Asked Questions
 

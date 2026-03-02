@@ -11,9 +11,10 @@ imageAlt: "qumran national park, qumran, archeology, dead sea scrolls, cave numb
 imageCredit: "Image by samirsmier on Pixabay"
 imageWidth: 1280
 imageHeight: 720
----
+---What Language was the old Testament Written In? refers to a subject within biblical manuscript studies that scholars continue to investigate.
 
-What Language was the old Testament Written In? refers to a subject within biblical manuscript studies that scholars continue to investigate.
+This topic is part of our [research on biblical scripture studies](/research/scripture).
+
 
 Have you ever wondered about the origins of the Old Testament? Well, you're in luck! , we will explore the language of the oldest Old Testament manuscripts and uncover the fascinating details behind its composition. Anita Love, a renowned theologian and expert in ancient biblical manuscripts, will guide us through the linguistic journey of the Old Testament. With her extensive knowledge and passion for religious studies, Anita sheds light on this intriguing topic, addressing the language in which the Old Testament was written and its significance in understanding the scriptures. So,  right in and discover the language of the oldest Old Testament manuscripts.
   
@@ -325,6 +326,12 @@ By embracing the linguistic richness of the Old Testament, theologians and schol
 ### Related Pilgrimage Guides
 
 - [Shikoku 88 Temple Pilgrimage: Historic Pilgrimage Route](/routes/shikoku-88-temples)
+
+## Related Research
+
+Explore these related articles for deeper study:
+
+- [What Language is Most of the old Testament Written In?](/research/scripture/what-language-is-most-of-the-old-testament-written-in)
 
 ## Frequently Asked Questions
 

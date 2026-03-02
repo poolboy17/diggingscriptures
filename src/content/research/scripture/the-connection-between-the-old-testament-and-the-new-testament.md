@@ -11,9 +11,10 @@ imageAlt: "to learn, read, a book, literature, old, old book, to study, school, 
 imageCredit: "Image by garten-gg on Pixabay"
 imageWidth: 1280
 imageHeight: 884
----
+---The Connection Between the old Testament and the new Testament refers to a subject within biblical manuscript studies that scholars continue to investigate.
 
-The Connection Between the old Testament and the new Testament refers to a subject within biblical manuscript studies that scholars continue to investigate.
+This topic is part of our [research on biblical scripture studies](/research/scripture).
+
 
 In "The Connection Between the Old Testament and the New Testament," Anita Love, a renowned authority on Christianity's historical foundations, delves into the intricate relationship between these two crucial parts of the Holy Bible. With her vast knowledge and expertise, Anita explores various TEHI formats that focus on contrasting themes, literary genres, historical contexts, messianic prophecies, and the transition from law to grace. By comparing key passages, analyzing cultural and historical contexts, and examining the fulfillment of prophecies, Anita provides valuable insight into how the Old Testament and the New Testament are intricately connected. Through her nuanced perspective and distinguished writings, Anita embraces the diversity of Christian denominations, belief systems, and lifestyles, making her a respected figure in ecumenical circles.
  
@@ -299,6 +300,12 @@ The review and analysis of major fulfilled prophecies provide believers with rea
 ### Related Pilgrimage Guides
 
 - [How Pilgrims Ascended the Temple Mount in Ancient Jerusalem](/routes/temple-mount-ascent)
+
+## Related Research
+
+Explore these related articles for deeper study:
+
+- [Are all new Testament Books Written in Greek?](/research/scripture/are-all-new-testament-books-written-in-greek)
 
 ## Frequently Asked Questions
 

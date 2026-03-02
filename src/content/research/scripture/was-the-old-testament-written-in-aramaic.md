@@ -11,9 +11,10 @@ imageAlt: "books, students, library, university, knowledge, literature, brown bo
 imageCredit: "Image by Pexels on Pixabay"
 imageWidth: 1280
 imageHeight: 486
----
+---Was the old Testament Written in Aramaic? refers to a subject within biblical manuscript studies that scholars continue to investigate.
 
-Was the old Testament Written in Aramaic? refers to a subject within biblical manuscript studies that scholars continue to investigate.
+This topic is part of our [research on biblical scripture studies](/research/scripture).
+
 
 Get ready to embark on a fascinating journey into the heart of biblical history. In this thought-provoking article, we join Anita Love, a renowned scholar and theologian, as she delves into the question, "Was the Old Testament written in Aramaic?" With her vast knowledge and expertise in ancient manuscripts and religious studies, Anita leads us through a captivating exploration of the origins, themes, and unique characteristics of the Old Testament. Prepare to be amazed as you unravel the mysteries behind this ancient text and gain a deeper understanding of its cultural context and spiritual significance. Are you ready to uncover the truth about the language of the Old Testament? Let's begin our enlightening journey together.
   
@@ -167,6 +168,12 @@ The research on Aramaic and its relationship to the Bible has significant implic
 ### Related Pilgrimage Guides
 
 - [Shikoku 88 Temple Pilgrimage: Historic Pilgrimage Route](/routes/shikoku-88-temples)
+
+## Related Research
+
+Explore these related articles for deeper study:
+
+- [Old Testament Books Written in Aramaic](/research/scripture/old-testament-books-written-in-aramaic)
 
 ## Frequently Asked Questions
 

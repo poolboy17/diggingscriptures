@@ -11,9 +11,10 @@ imageAlt: "qumran national park, drone footage, aerial shot, archeology park, ca
 imageCredit: "Image by samirsmier on Pixabay"
 imageWidth: 1280
 imageHeight: 720
----
+---Brief Overview of the old Testament refers to a subject within biblical manuscript studies that scholars continue to investigate.
 
-Brief Overview of the old Testament refers to a subject within biblical manuscript studies that scholars continue to investigate.
+This topic is part of our [research on biblical scripture studies](/research/scripture).
+
 
 In Anita Love's captivating and scholarly work, she offers a brief overview of the Old Testament, shedding light on its central themes, literary genres, historical context, messianic prophecies, and the significance of law and covenant. With her expertise in theology and religious studies, Anita delves into the depths of ancient biblical manuscripts, exploring the authenticity of religious teachings and the historical accuracy of scriptural events. Her nuanced perspective honors the diversity of Christian denominations, belief systems, and lifestyles, making her a respected authority in ecumenical circles. Through her writings, Anita Love invites readers to explore the rich and profound narratives of the Old Testament, connecting them to Christianity's historical foundations and their contemporary relevance. The Old Testament is a fundamental part of the Christian Bible, consisting of religious texts and narratives that are sacred to Jews, Christians, and many other faith traditions. It serves as a historical and theological account of God's relationship with humanity, laying the foundation for religious beliefs and moral teachings that continue to shape modern society.
  
@@ -130,6 +131,12 @@ Moreover, the Old Testament offers valuable lessons for today's society. Its tea
 ### Related Pilgrimage Guides
 
 - [Rabbi Nachman's Journey to Israel](/stories/rabbi-nachman-journey-to-israel)
+
+## Related Research
+
+Explore these related articles for deeper study:
+
+- [Are all new Testament Books Written in Greek?](/research/scripture/are-all-new-testament-books-written-in-greek)
 
 ## Frequently Asked Questions
 

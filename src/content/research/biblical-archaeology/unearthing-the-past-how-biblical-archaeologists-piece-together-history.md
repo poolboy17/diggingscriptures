@@ -11,9 +11,10 @@ imageAlt: "pretty much, jerash, oval forum, roman, culture, story, historical, a
 imageCredit: "Image by ChiemSeherin on Pixabay"
 imageWidth: 1280
 imageHeight: 720
----
+---Unearthing the Past: how Biblical Archaeologists Piece Together is a topic in biblical archaeology that connects ancient material evidence with scriptual narratives.
 
-Unearthing the Past: how Biblical Archaeologists Piece Together is a topic in biblical archaeology that connects ancient material evidence with scriptual narratives.
+This topic is part of our [research on biblical archaeology](/research/biblical-archaeology).
+
 
 Unearthing the Past: How Biblical Archaeologists Piece Together History sheds light on the fascinating field of Biblical archaeology and its crucial role in reconstructing ancient history. By meticulously excavating ancient sites and meticulously analyzing the artifacts found, these archaeologists unveil hidden stories of the past, providing valuable insights into the cultures and events described in the Bible. Through their meticulous research methods and dedication to unraveling the mysteries of the past, these archaeologists offer a unique glimpse into the intricate tapestry of history.
 
@@ -142,6 +143,12 @@ Biblical archaeology combines scientific inquiry, historical analysis, and inter
 ### Related Pilgrimage Guides
 
 - [Jerusalem Old City: Sacred Pilgrimage Destination](/places/jerusalem-old-city)
+
+## Related Research
+
+Explore these related articles for deeper study:
+
+- [Unearthing the Past: the Role of Biblical Archaeologists in](/research/excavations/unearthing-the-past-the-role-of-biblical-archaeologists-in-preserving-cultural-heritage)
 
 ## Frequently Asked Questions
 

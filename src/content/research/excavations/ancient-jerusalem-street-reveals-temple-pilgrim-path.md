@@ -11,9 +11,10 @@ imageAlt: "western wall, jerusalem, jews, pray, orthodox, holy, religious, weste
 imageCredit: "Image by rliessum on Pixabay"
 imageWidth: 1280
 imageHeight: 960
----
+---Unraveling Ancient Jerusalem: a Deep Dive into the Temple is an area of archaeological investigation that has yielded significant findings about the ancient world.
 
-Unraveling Ancient Jerusalem: a Deep Dive into the Temple is an area of archaeological investigation that has yielded significant findings about the ancient world.
+This topic is part of our [research on archaeological excavations](/research/excavations).
+
 
 Have you ever wondered about the hidden stories embedded within the ancient streets of Jerusalem? The discovery of a historic street in ancient Jerusalem has generated intrigue, shedding light on its role as the Temple Pilgrim Path, a passage deeply woven into the religious and cultural tapestry of the region. This remarkable archaeological find opens up new avenues of understanding, connecting past narratives with contemporary interpretations.
  
@@ -83,6 +84,12 @@ For those who find history engaging and transformative, ancient Jerusalem contin
 ### Related Pilgrimage Guides
 
 - [How Pilgrims Ascended the Temple Mount in Ancient Jerusalem](/routes/temple-mount-ascent)
+
+## Related Research
+
+Explore these related articles for deeper study:
+
+- [Unlocking Ancient Jerusalem: a Deep Dive into Biblical Defense](/research/excavations/mapping-the-ancient-jerusalem-defense-system)
 
 ## Frequently Asked Questions
 

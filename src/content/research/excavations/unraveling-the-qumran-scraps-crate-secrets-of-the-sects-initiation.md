@@ -11,9 +11,10 @@ imageAlt: "mountain, erosion, death valley, desert, dry, drought, rock formation
 imageCredit: "Image by jplenio on Pixabay"
 imageWidth: 1280
 imageHeight: 720
----
+---New Evidence: Spirituality Secrets in Ancient Qumran Scrolls is an area of archaeological investigation that has yielded significant findings about the ancient world.
 
-New Evidence: Spirituality Secrets in Ancient Qumran Scrolls is an area of archaeological investigation that has yielded significant findings about the ancient world.
+This topic is part of our [research on archaeological excavations](/research/excavations).
+
 
 What if the secrets of an ancient sect, hidden for centuries, began to reveal themselves piece by piece? Imagine uncovering the initiation rites of the enigmatic Qumran community, famously linked to the Dead Sea Scrolls. Lets take a leisurely stroll through the intriguing labyrinth of biblical archaeology and uncover what lies beneath the surface.
  
@@ -161,6 +162,12 @@ So, as you ponder the ancient secrets of Qumran, remember that their journey con
 ### Related Pilgrimage Guides
 
 - [Shikoku 88 Temple Pilgrimage: Historic Pilgrimage Route](/routes/shikoku-88-temples)
+
+## Related Research
+
+Explore these related articles for deeper study:
+
+- [Discover Ancient Temple Artifacts in Qumran: Secrets of](/research/excavations/exploring-the-qumran-workshop-ruins-a-quest-for-temple-artifacts)
 
 ## Frequently Asked Questions
 

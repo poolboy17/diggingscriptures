@@ -11,9 +11,10 @@ imageAlt: "mountain, erosion, death valley, desert, dry, drought, rock formation
 imageCredit: "Image by jplenio on Pixabay"
 imageWidth: 1280
 imageHeight: 720
----
+---In this enlightening article, the focus is on exploring the profound impact that Biblical Archaeology has had on public policy. Delving into the intriguing intersection of ancient history and modern governance, it illuminates the ways in which archaeological discoveries from biblical times have influenced decision-making and shaped policies on a global scale. From excavations revealing new insights into ancient civilizations to the ethical considerations surrounding the preservation and ownership of historical artifacts, this article offers a captivating glimpse into the dynamic relationship between Biblical Archaeology and the field of public policy.
 
-In this enlightening article, the focus is on exploring the profound impact that Biblical Archaeology has had on public policy. Delving into the intriguing intersection of ancient history and modern governance, it illuminates the ways in which archaeological discoveries from biblical times have influenced decision-making and shaped policies on a global scale. From excavations revealing new insights into ancient civilizations to the ethical considerations surrounding the preservation and ownership of historical artifacts, this article offers a captivating glimpse into the dynamic relationship between Biblical Archaeology and the field of public policy.
+This topic is part of our [research on archaeological excavations](/research/excavations).
+
 
 ## I. Biblical Archaeology: An Overview
 
@@ -112,6 +113,12 @@ Moving forward, the integration of biblical archaeology into public policy shoul
 ### Related Pilgrimage Guides
 
 - [How Pilgrims Ascended the Temple Mount in Ancient Jerusalem](/routes/temple-mount-ascent)
+
+## Related Research
+
+Explore these related articles for deeper study:
+
+- [Exploring the Environmental Impact on Biblical Archaeology](/research/excavations/exploring-the-environmental-impact-on-biblical-archaeology)
 
 ## Frequently Asked Questions
 

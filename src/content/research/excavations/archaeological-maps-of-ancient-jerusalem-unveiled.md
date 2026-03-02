@@ -11,9 +11,10 @@ imageAlt: "chichen itza, mexico, pyramid, milky way, night, mayans, archaeology,
 imageCredit: "Image by Walkerssk on Pixabay"
 imageWidth: 1280
 imageHeight: 773
----
+---Discover Ancient Jerusalem: Unveiling Biblical Secrets In is an area of archaeological investigation that has yielded significant findings about the ancient world.
 
-Discover Ancient Jerusalem: Unveiling Biblical Secrets In is an area of archaeological investigation that has yielded significant findings about the ancient world.
+This topic is part of our [research on archaeological excavations](/research/excavations).
+
 
 Have you ever wondered what secrets lie beneath the ancient stones of Jerusalem? Recent archaeological endeavors have unveiled detailed maps that could redefine our understanding of this storied city. With each map offering a new perspective, the enigma of Ancient Jerusalem becomes an intricate tapestry woven from biblical, historical, and modern strands. As we examine into these maps, you'll embark on a journey that traverses ages and intersects with moments captured in historical texta discovery promising to reshape our perceptions of the biblical and historical landscape.
   
@@ -83,6 +84,12 @@ Finding the balance of modern technology and the past, these efforts serve as th
 ### Related Pilgrimage Guides
 
 - [How Pilgrims Ascended the Temple Mount in Ancient Jerusalem](/routes/temple-mount-ascent)
+
+## Related Research
+
+Explore these related articles for deeper study:
+
+- [Exploring Biblical Archaeology: Unveiling the Secrets of Ancient](/research/excavations/exploring-biblical-archaeology-unveiling-the-secrets-of-ancient-relics)
 
 ## Frequently Asked Questions
 

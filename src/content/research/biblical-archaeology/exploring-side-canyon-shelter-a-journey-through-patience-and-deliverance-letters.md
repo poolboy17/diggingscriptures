@@ -11,9 +11,10 @@ imageAlt: "pottery shard, clay pot, shard, burning clay, craft, burma, myanmar"
 imageCredit: "Image by thomaspedrazzoli on Pixabay"
 imageWidth: 1280
 imageHeight: 1280
----
+---Unearthed Wisdom: Discovering Ancient Letters in Side Canyon is a topic in biblical archaeology that connects ancient material evidence with scriptual narratives.
 
-Unearthed Wisdom: Discovering Ancient Letters in Side Canyon is a topic in biblical archaeology that connects ancient material evidence with scriptual narratives.
+This topic is part of our [research on biblical archaeology](/research/biblical-archaeology).
+
 
 What stories do you think the remnants of ancient civilizations might whisper to us if only we listened? The tale of Side Canyon Shelter, tucked away in an unassuming landscape, is one of patience and deliverance, steeped in archaeological mystery. It invites us to journey through historical narratives filled with letterscommunication spanning centuriesthat refuse to fade. Lets step into this fascinating world of the past and uncover its secrets together.
   
@@ -165,6 +166,13 @@ As we walk away from our journey through the Side Canyon Shelter, lets take a mo
 The lettersbe they written or unspokencaptured in artifacts, stories, and practices bridge the gap between ancient cultures and the modern world, infusing your life with a richness of understanding. Just as once there were humans who carved out their existence in the wilderness, so too can you carve out yours, grounded in patience and a relentless quest for deliverance.
  
 As you turn the pages of your own story, may the whispers from Side Canyon Shelter inspire you. Keep looking for the lessons that abound in the everyday, and remember: history isn't just about what was; it's also a guiding light for what can still be.
+
+## Related Research
+
+Explore these related articles for deeper study:
+
+- [Discovering Ancient Israel: a Deep Dive into Biblical](/research/biblical-archaeology/biblical-archaeology-and-the-dead-sea-scrolls-in-israel)
+- [Discover Ancient Biblical Archaeology: Unveiling Wisdom](/research/biblical-archaeology/desert-plateau-slab-the-exiled-teachers-call-to-steadfastness)
 
 ## Frequently Asked Questions
 

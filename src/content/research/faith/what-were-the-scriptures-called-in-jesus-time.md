@@ -11,9 +11,10 @@ imageAlt: "stained glass, window glass, church window, saint austremonius, saint
 imageCredit: "Image by WikiImages on Pixabay"
 imageWidth: 1280
 imageHeight: 1257
----
+---In Jesus' time, the scriptures that are known today as the Old Testament were commonly referred to as the Hebrew Bible or the Tanakh. These ancient texts held immense significance for the Jewish people and provided them with spiritual guidance, moral teachings, and historical accounts. Through her extensive research and study, Anita Love sheds light on the historical context behind these scriptures, exploring their central themes, literary genres, and the rich tapestry of messianic prophecies they contain. With her expertise in theology and religious studies, Anita presents a captivating analysis of the Old Testament and its profound connection to the life and teachings of Jesus Christ.
 
-In Jesus' time, the scriptures that are known today as the Old Testament were commonly referred to as the Hebrew Bible or the Tanakh. These ancient texts held immense significance for the Jewish people and provided them with spiritual guidance, moral teachings, and historical accounts. Through her extensive research and study, Anita Love sheds light on the historical context behind these scriptures, exploring their central themes, literary genres, and the rich tapestry of messianic prophecies they contain. With her expertise in theology and religious studies, Anita presents a captivating analysis of the Old Testament and its profound connection to the life and teachings of Jesus Christ.
+This topic is part of our [research on faith and history](/research/faith).
+
   
   
 ## The Old Testament in the Time of Jesus
@@ -169,6 +170,12 @@ Jesus' teachings, as recorded in the New Testament, provide insight into the nat
 ### Related Pilgrimage Guides
 
 - [Rabbi Nachman's Journey to Israel](/stories/rabbi-nachman-journey-to-israel)
+
+## Related Research
+
+Explore these related articles for deeper study:
+
+- [Understanding the old Testament in Jesus's Time](/research/scripture/understanding-the-old-testament-in-jesuss-time)
 
 ## Frequently Asked Questions
 

@@ -11,9 +11,10 @@ imageAlt: "western wall, jerusalem, jews, pray, orthodox, holy, religious, weste
 imageCredit: "Image by rliessum on Pixabay"
 imageWidth: 1280
 imageHeight: 960
----
+---Discovering the Pioneers: Prominent Biblical Archaeologists is an area of archaeological investigation that has yielded significant findings about the ancient world.
 
-Discovering the Pioneers: Prominent Biblical Archaeologists is an area of archaeological investigation that has yielded significant findings about the ancient world.
+This topic is part of our [research on archaeological excavations](/research/excavations).
+
 
 In the fascinating world of Biblical archaeology, there have been numerous pioneers who dedicated their lives to uncovering the ancient stories and artifacts that shape our understanding of history. These prominent individuals played a crucial role in unearthing important biblical sites, deciphering ancient texts, and shedding light on the lives of biblical figures. From Flinders Petrie, known for his meticulous excavation techniques, to Kathleen Kenyon, who revolutionized the field with her innovative methods, this article is a captivating exploration of the lives and achievements of these extraordinary individuals. Join us as we embark on a journey to discover the pioneers of biblical archaeology and the invaluable contributions they made to our understanding of the past.
 
@@ -150,6 +151,12 @@ By building on the foundation laid by the pioneers of biblical archaeology, futu
 ### Related Pilgrimage Guides
 
 - [Rabbi Nachman's Journey to Israel](/stories/rabbi-nachman-journey-to-israel)
+
+## Related Research
+
+Explore these related articles for deeper study:
+
+- [10 Famous Biblical Archaeologists you Should Know](/research/excavations/10-famous-biblical-archaeologists-you-should-know)
 
 ## Frequently Asked Questions
 

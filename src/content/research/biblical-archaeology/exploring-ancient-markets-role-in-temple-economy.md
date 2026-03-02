@@ -11,9 +11,10 @@ imageAlt: "archaeology, excavation, sun sails, protection, sun protection, archa
 imageCredit: "Image by Efraimstochter on Pixabay"
 imageWidth: 1280
 imageHeight: 960
----
+---Exploring Ancient Market's Role in Temple Economy is a topic in biblical archaeology that connects ancient material evidence with scriptual narratives.
 
-Exploring Ancient Market's Role in Temple Economy is a topic in biblical archaeology that connects ancient material evidence with scriptual narratives.
+This topic is part of our [research on biblical archaeology](/research/biblical-archaeology).
+
 
 Have you ever wondered how ancient markets contributed to the economic mechanisms of temples? The exploration of ancient markets and their role in the temple economy offers a fascinating glimpse into both historical and biblical contexts. Understanding this interplay provides invaluable insights not only into the economic strategies of ancient societies but also into their social and cultural fabric. This article aims to explore how markets were integral to sustaining temple economies, focusing on biblical references, archaeological evidence, and their broader significance.
   
@@ -82,6 +83,12 @@ In summary, the exploration of ancient markets and their role in temple economie
 ### Related Pilgrimage Guides
 
 - [Shikoku 88 Temple Pilgrimage: Historic Pilgrimage Route](/routes/shikoku-88-temples)
+
+## Related Research
+
+Explore these related articles for deeper study:
+
+- [Exploring Ancient Biblical Artifacts: the Role of Archaeologists](/research/artifacts/exploring-ancient-biblical-artifacts-the-role-of-archaeologists-in-museums)
 
 ## Frequently Asked Questions
 

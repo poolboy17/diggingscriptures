@@ -11,9 +11,10 @@ imageAlt: "architecture, old, stone, ancient, building, historic, antique, facad
 imageCredit: "Image by jeh6 on Pixabay"
 imageWidth: 1280
 imageHeight: 853
----
+---Have you ever wondered how modern technology is reshaping our understanding of ancient biblical structures? The quest to uncover these historic sites blends biblical narratives with cutting-edge archaeological techniques, offering new insights into stories that have captivated imaginations for centuries. , you'll explore the intricate processes and discoveries involved in unearthing these ancient edifices, a quest that combines history, science, and theology.
 
-Have you ever wondered how modern technology is reshaping our understanding of ancient biblical structures? The quest to uncover these historic sites blends biblical narratives with cutting-edge archaeological techniques, offering new insights into stories that have captivated imaginations for centuries. , you'll explore the intricate processes and discoveries involved in unearthing these ancient edifices, a quest that combines history, science, and theology.
+This topic is part of our [research on archaeological excavations](/research/excavations).
+
  
 ### Introduction
  
@@ -98,6 +99,12 @@ In summary, the modern methods of unearthing biblical structures have significan
 ### Related Pilgrimage Guides
 
 - [How Pilgrims Ascended the Temple Mount in Ancient Jerusalem](/routes/temple-mount-ascent)
+
+## Related Research
+
+Explore these related articles for deeper study:
+
+- [Unveiling Ancient Biblical Sites: how Lidar Revolutionizes](/research/excavations/lidar-technology-uncovers-biblical-archaeological-sites)
 
 ## Frequently Asked Questions
 

@@ -11,9 +11,10 @@ imageAlt: "cents, coins, currency, cash, money, wealth, finance, loose change, c
 imageCredit: "Image by stux on Pixabay"
 imageWidth: 1280
 imageHeight: 990
----
+---Discover Ancient Artifacts: a Journey Through Roman Rule In refers to ancient material remains that provide physical evidence for understanding biblical history.
 
-Discover Ancient Artifacts: a Journey Through Roman Rule In refers to ancient material remains that provide physical evidence for understanding biblical history.
+This topic is part of our [research on ancient artifacts](/research/artifacts).
+
 
 What comes to mind when you think of ancient settlements? Perhaps a vision of dusty ruins, crumbling stone walls, and stories that echo through time? Settlements, especially from the era of Roman rule, are treasure troves of history waiting to be unearthed. One such site that offers a fascinating glimpse into the past is the Ravine Settlement, where communal documents and evidence of Roman governance intertwine. Let's take a stroll through history and see what the Ravine Settlement reveals about life during that remarkable period.
  
@@ -142,6 +143,12 @@ The intricate story of the Ravine Settlement under Roman rule illustrates how ci
 ### Related Pilgrimage Guides
 
 - [Shikoku 88 Temple Pilgrimage: Historic Pilgrimage Route](/routes/shikoku-88-temples)
+
+## Related Research
+
+Explore these related articles for deeper study:
+
+- [Discover Fascinating Biblical Archaeology Artifacts in Ancient](/research/artifacts/discover-fascinating-biblical-archaeology-artifacts-in-ancient-ruins)
 
 ## Frequently Asked Questions
 

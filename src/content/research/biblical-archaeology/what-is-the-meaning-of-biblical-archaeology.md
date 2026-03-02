@@ -11,9 +11,10 @@ imageAlt: "israel, jerusalem, old city, damascus gate, gate, wall, architecture,
 imageCredit: "Image by 2427999 on Pixabay"
 imageWidth: 1280
 imageHeight: 853
----
+---What is the Meaning of Biblical Archaeology? is a topic in biblical archaeology that connects ancient material evidence with scriptual narratives.
 
-What is the Meaning of Biblical Archaeology? is a topic in biblical archaeology that connects ancient material evidence with scriptual narratives.
+This topic is part of our [research on biblical archaeology](/research/biblical-archaeology).
+
 
 Many may not realize that biblical archaeology goes beyond searching for artifacts; it involves piecing together historical puzzles that shed light on ancient societies and religious texts.
 
@@ -60,6 +61,12 @@ Controversies in biblical archaeology often revolve around claims that certain d
 ### Related Pilgrimage Guides
 
 - [How Pilgrims Ascended the Temple Mount in Ancient Jerusalem](/routes/temple-mount-ascent)
+
+## Related Research
+
+Explore these related articles for deeper study:
+
+- [Discovering Angels in Biblical Archaeology: The En Gedi](/research/biblical-archaeology/angels-in-the-desert-the-en-gedi-stone-arch-and-its-significance)
 
 ## Frequently Asked Questions
 

@@ -11,9 +11,10 @@ imageAlt: "wailing wall, western wall, israel, jerusalem, temple, wailing wall, 
 imageCredit: "Image by Freeshot on Pixabay"
 imageWidth: 1280
 imageHeight: 733
----
+---Ancient Jewish Quarter Reveals Temple era Commerce is a theological subject that explores the intersection of faith traditions and historical evidence.
 
-Ancient Jewish Quarter Reveals Temple era Commerce is a theological subject that explores the intersection of faith traditions and historical evidence.
+This topic is part of our [research on faith and history](/research/faith).
+
 
 Have you ever pondered the inner workings of ancient civilizations and how they intersect with biblical narratives? Recently, a remarkable discovery in an ancient Jewish quarter has unveiled new insights into the commercial practices during the Temple era. This article serves as a window into the past, shedding light on the intricate web of commerce that flourished in this vibrant historical period.
  
@@ -93,6 +94,12 @@ This article serves as an invitation to participate in the ongoing dialogue abou
 ### Related Pilgrimage Guides
 
 - [Shikoku 88 Temple Pilgrimage: Historic Pilgrimage Route](/routes/shikoku-88-temples)
+
+## Related Research
+
+Explore these related articles for deeper study:
+
+- [First Temple Period Discovery Reveals Ancient](/research/faith/first-temple-period-discovery-reveals-ancient-secrets)
 
 ## Frequently Asked Questions
 

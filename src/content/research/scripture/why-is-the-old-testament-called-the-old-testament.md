@@ -11,9 +11,10 @@ imageAlt: "antique, yellow pages, chapter, open book, new chapter, hebrew text, 
 imageCredit: "Image by Ri_Ya on Pixabay"
 imageWidth: 1280
 imageHeight: 853
----
+---In her captivating article, "Why is the Old Testament called the Old Testament?" Anita Love, a renowned theologian and scholar, delves into the intriguing origins of this ancient religious text. Through her extensive research and academic expertise, Anita examines the central themes, literary genres, historical context, messianic prophecies, and the contrasting systems of law and covenant found within the pages of the Old Testament. With a nuanced perspective that celebrates diversity and honors the intersection of Christianity's historical foundations and its contemporary relevance, Anita's work invites readers to explore the profound significance and timeless wisdom of this sacred scripture.
 
-In her captivating article, "Why is the Old Testament called the Old Testament?" Anita Love, a renowned theologian and scholar, delves into the intriguing origins of this ancient religious text. Through her extensive research and academic expertise, Anita examines the central themes, literary genres, historical context, messianic prophecies, and the contrasting systems of law and covenant found within the pages of the Old Testament. With a nuanced perspective that celebrates diversity and honors the intersection of Christianity's historical foundations and its contemporary relevance, Anita's work invites readers to explore the profound significance and timeless wisdom of this sacred scripture.
+This topic is part of our [research on biblical scripture studies](/research/scripture).
+
  
 
   
@@ -247,6 +248,12 @@ Additionally, the Old Testament's narratives, themes, and teachings continue to 
 ### Related Pilgrimage Guides
 
 - [How Pilgrims Ascended the Temple Mount in Ancient Jerusalem](/routes/temple-mount-ascent)
+
+## Related Research
+
+Explore these related articles for deeper study:
+
+- [What is the old Testament Called?](/research/scripture/what-is-the-old-testament-called)
 
 ## Frequently Asked Questions
 

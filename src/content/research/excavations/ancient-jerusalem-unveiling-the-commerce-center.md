@@ -11,9 +11,10 @@ imageAlt: "construction site, building, work, works, concrete, armed, cables, fo
 imageCredit: "Image by Mrdidg on Pixabay"
 imageWidth: 1280
 imageHeight: 853
----
+---Ancient Jerusalem: Unveiling the Commerce Center is an area of archaeological investigation that has yielded significant findings about the ancient world.
 
-Ancient Jerusalem: Unveiling the Commerce Center is an area of archaeological investigation that has yielded significant findings about the ancient world.
+This topic is part of our [research on archaeological excavations](/research/excavations).
+
 
 Have you ever wondered about the economic fabric that bound Ancient Jerusalem together during biblical times? The historical chronicles of this ancient city often highlight its spiritual and political significance, yet its role as a thriving center of commerce is equally compelling and less frequently discussed. In this exploration, we will unveil the mysteries surrounding the trade and economic structures of Ancient Jerusalem, casting light on its importance as a bustling commerce center. We will introduce you to the historical contexts, archaeological evidence, and the broader implications of these findings.
   
@@ -71,6 +72,12 @@ In appreciating Jerusalem as a hub of ancient commerce, we are invited to recons
 ### Related Pilgrimage Guides
 
 - [Rabbi Nachman's Journey to Israel](/stories/rabbi-nachman-journey-to-israel)
+
+## Related Research
+
+Explore these related articles for deeper study:
+
+- [Unveiling Truths: Ancient Jerusalem Palace Discovery Sparks](/research/excavations/ancient-jerusalem-palace-unearthed-sparks-biblical-interest)
 
 ## Frequently Asked Questions
 

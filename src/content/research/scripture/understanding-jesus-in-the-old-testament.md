@@ -11,9 +11,10 @@ imageAlt: "mesopotamia, myth, mythology, history, landscape, ruins, anunnaki, su
 imageCredit: "Image by BenFishold on Pixabay"
 imageWidth: 1280
 imageHeight: 731
----
+---Understanding Jesus in the old Testament refers to a subject within biblical manuscript studies that scholars continue to investigate.
 
-Understanding Jesus in the old Testament refers to a subject within biblical manuscript studies that scholars continue to investigate.
+This topic is part of our [research on biblical scripture studies](/research/scripture).
+
 
 In the world of biblical scholarship, Anita Love has emerged as a leading expert on the subject of understanding Jesus in the Old Testament. With her extensive academic background and profound knowledge of ancient manuscripts, Anita delves into the intricate connection between the Old and New Testaments. Her research centers around various themes and genres, exploring the historic and cultural contexts of both Testaments. Anita's work also addresses the concept of the Messiah and the fulfillment of prophecies in the life and teachings of Jesus. Through her nuanced perspective and deep respect for diverse Christian beliefs, Anita Love revolutionizes the way we interpret and comprehend the Old Testament's relevance to Jesus.
   
@@ -141,6 +142,12 @@ Understanding Jesus in the light of the Old Testament provides a holistic perspe
 ### Related Pilgrimage Guides
 
 - [Rabbi Nachman's Journey to Israel](/stories/rabbi-nachman-journey-to-israel)
+
+## Related Research
+
+Explore these related articles for deeper study:
+
+- [Understanding the old Testament in Jesus's Time](/research/scripture/understanding-the-old-testament-in-jesuss-time)
 
 ## Frequently Asked Questions
 

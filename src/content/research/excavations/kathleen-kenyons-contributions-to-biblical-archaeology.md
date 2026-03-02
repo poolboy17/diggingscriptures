@@ -11,9 +11,10 @@ imageAlt: "ruin, landscape, heaven, castle, ruins, fantasy, nature, gothic, myst
 imageCredit: "Image by jusuf111 on Pixabay"
 imageWidth: 1280
 imageHeight: 853
----
+---Kathleen Kenyon's Contributions to Biblical Archaeology is an area of archaeological investigation that has yielded significant findings about the ancient world.
 
-Kathleen Kenyon's Contributions to Biblical Archaeology is an area of archaeological investigation that has yielded significant findings about the ancient world.
+This topic is part of our [research on archaeological excavations](/research/excavations).
+
 
 Kathleen Kenyon, a trailblazing figure in the field of Biblical archaeology, left an indelible mark through her groundbreaking contributions. With meticulous research, Kenyon unearthed vital evidence and advanced our understanding of the ancient world. Through her excavations in Jericho and Jerusalem, she not only uncovered invaluable artifacts but also challenged conventional wisdom and shed light on the historical context of biblical narratives. Kenyon's work continues to shape the field, inspiring future generations of scholars to examine deeper into the mysteries of the past.
 
@@ -146,6 +147,12 @@ Kenyon's excavations unearthed numerous significant artifacts and structures tha
 ### Related Pilgrimage Guides
 
 - [How Pilgrims Ascended the Temple Mount in Ancient Jerusalem](/routes/temple-mount-ascent)
+
+## Related Research
+
+Explore these related articles for deeper study:
+
+- [10 Steps to Volunteer on a Biblical Archaeology Dig](/research/excavations/10-steps-to-volunteer-on-a-biblical-archaeology-dig)
 
 ## Frequently Asked Questions
 

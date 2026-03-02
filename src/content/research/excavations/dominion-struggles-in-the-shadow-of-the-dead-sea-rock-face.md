@@ -11,9 +11,10 @@ imageAlt: "archaeology, archaeological dig, documenting, digging, research, arch
 imageCredit: "Image by JamesDeMers on Pixabay"
 imageWidth: 1280
 imageHeight: 1165
----
+---Unearthing Ancient Power Struggles at the Dead Sea: A is an area of archaeological investigation that has yielded significant findings about the ancient world.
 
-Unearthing Ancient Power Struggles at the Dead Sea: A is an area of archaeological investigation that has yielded significant findings about the ancient world.
+This topic is part of our [research on archaeological excavations](/research/excavations).
+
 
 What comes to your mind when you hear about struggles for dominion in a land as desolate yet storied as the region surrounding the Dead Sea? Picture towering rock faces that rise from the arid expanse, guarding secrets of ancient civilizations and their relentless quests for power. Yet beneath this stark beauty lies a tapestry of struggleone that echoes through biblical texts and archaeological discoveries alike.
  
@@ -144,6 +145,12 @@ This land tells tales of human ambition, resilient faith, and the ongoing quest 
 ### Related Pilgrimage Guides
 
 - [Rabbi Nachman's Journey to Israel](/stories/rabbi-nachman-journey-to-israel)
+
+## Related Research
+
+Explore these related articles for deeper study:
+
+- [Unearthing Ancient Jerusalem: a Glimpse into First Temples](/research/excavations/biblical-archaeology-first-temple-period-market-discovery)
 
 ## Frequently Asked Questions
 

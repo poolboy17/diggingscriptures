@@ -11,9 +11,10 @@ imageAlt: "workshop, carpenter, crafts, artisan, drink, work, tool, vintage, wor
 imageCredit: "Image by ThMilherou on Pixabay"
 imageWidth: 1280
 imageHeight: 848
----
+---Have any Artifacts from the Bible Been Found? is an area of archaeological investigation that has yielded significant findings about the ancient world.
 
-Have any Artifacts from the Bible Been Found? is an area of archaeological investigation that has yielded significant findings about the ancient world.
+This topic is part of our [research on archaeological excavations](/research/excavations).
+
 
 Archaeologists recently unearthed a clay seal impression in Jerusalem bearing the name 'Isaiah.' This discovery has sparked debates among scholars about its possible connection to the biblical prophet.
 
@@ -70,6 +71,12 @@ These exciting revelations not only validate certain biblical accounts but also 
 ### Related Pilgrimage Guides
 
 - [Jerusalem Old City: Sacred Pilgrimage Destination](/places/jerusalem-old-city)
+
+## Related Research
+
+Explore these related articles for deeper study:
+
+- [What Bible Artifacts Were Found in 2023?](/research/excavations/what-bible-artifacts-were-found-in-2023)
 
 ## Frequently Asked Questions
 

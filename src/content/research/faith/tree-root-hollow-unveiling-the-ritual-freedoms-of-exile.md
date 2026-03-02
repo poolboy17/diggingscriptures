@@ -11,9 +11,10 @@ imageAlt: "masjid prophetic, medina, religion, muslim, islam, architectural, hz,
 imageCredit: "Image by Konevi on Pixabay"
 imageWidth: 1280
 imageHeight: 853
----
+---Exploring Biblical Archaeology: The Ancient Secrets of Tree is a theological subject that explores the intersection of faith traditions and historical evidence.
 
-Exploring Biblical Archaeology: The Ancient Secrets of Tree is a theological subject that explores the intersection of faith traditions and historical evidence.
+This topic is part of our [research on faith and history](/research/faith).
+
 
 What do you imagine when you think of a hollowed tree root? Maybe you see it as a whimsical spot where fairies might gather to share secrets or perhaps a cozy nook for a weary traveler seeking solace. But what if I told you that this seemingly innocuous nature feature symbolizes far more than just whimsy? Its roots may actually intertwine with themes of exile, ritual freedom, and a link between the ancient and contemporary world. Let's embark on a conversation about "Tree Root Hollow: Unveiling the Ritual Freedoms of Exile."
  
@@ -159,6 +160,12 @@ As you forge ahead, consider how the act of reconnecting with your rootsfigurati
 ### Related Pilgrimage Guides
 
 - [How Pilgrims Ascended the Temple Mount in Ancient Jerusalem](/routes/temple-mount-ascent)
+
+## Related Research
+
+Explore these related articles for deeper study:
+
+- [Exploring Biblical Archaeology: the Ancient Secrets of The](/research/faith/the-significance-of-the-desert-stone-bench-in-biblical-archaeology)
 
 ## Frequently Asked Questions
 

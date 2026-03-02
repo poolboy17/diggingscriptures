@@ -11,9 +11,10 @@ imageAlt: "city, aerial view, illuminated, city lights, cityscape, skyline, nigh
 imageCredit: "Image by Pexels on Pixabay"
 imageWidth: 1280
 imageHeight: 720
----
+---Unearthing Ancient Mysteries: Biblical Sites Excavation is an area of archaeological investigation that has yielded significant findings about the ancient world.
 
-Unearthing Ancient Mysteries: Biblical Sites Excavation is an area of archaeological investigation that has yielded significant findings about the ancient world.
+This topic is part of our [research on archaeological excavations](/research/excavations).
+
 
 Embarking on an archaeological dig into the depths of history, researchers uncover layers of ancient ruins and sacred relics, revealing the rich tapestry of civilizations long past. Through meticulous **exploration** and **historical site investigation**, these sites offer tantalizing glimpses of human ingenuity and creativity, shedding light on the mysteries of our past. 
 
@@ -126,6 +127,12 @@ Biblical Archaeology Uncovers Ancient Mysteries
 ### Related Pilgrimage Guides
 
 - [Shikoku 88 Temple Pilgrimage: Historic Pilgrimage Route](/routes/shikoku-88-temples)
+
+## Related Research
+
+Explore these related articles for deeper study:
+
+- [Unearthing the Mysteries: Ancient Civilizations and Biblical](/research/biblical-archaeology/unearthing-the-mysteries-ancient-civilizations-and-biblical-archaeology)
 
 ## Frequently Asked Questions
 

@@ -11,9 +11,10 @@ imageAlt: "temple, jupiter, roman, antique, column, architecture, ancient, stone
 imageCredit: "Image by djedj on Pixabay"
 imageWidth: 1280
 imageHeight: 854
----
+---Biblical Archaeology: Uncovering Ancient Maritime Routes is a topic in biblical archaeology that connects ancient material evidence with scriptual narratives.
 
-Biblical Archaeology: Uncovering Ancient Maritime Routes is a topic in biblical archaeology that connects ancient material evidence with scriptual narratives.
+This topic is part of our [research on biblical archaeology](/research/biblical-archaeology).
+
 
 In "Biblical Archaeology: Uncovering Ancient Maritime Routes," the fascinating field of Biblical archaeology takes center stage as it explores the intricacies of ancient seafaring and navigation. Delving into the depths of the past, this article unveils the mysteries surrounding maritime routes that were traversed centuries ago. Transporting readers back in time, it highlights the importance of these ancient routes, offering a unique perspective on the profound impact they had on the world during their heyday.
 
@@ -70,6 +71,12 @@ Biblical Archaeology has provided valuable insights into the ancient maritime ro
 ### Related Pilgrimage Guides
 
 - [Rabbi Nachman's Journey to Israel](/stories/rabbi-nachman-journey-to-israel)
+
+## Related Research
+
+Explore these related articles for deeper study:
+
+- [Uncovering Ancient Trade Routes Through Biblical Archaeology](/research/faith/uncovering-ancient-trade-routes-through-biblical-archaeology)
 
 ## Frequently Asked Questions
 

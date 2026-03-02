@@ -11,9 +11,10 @@ imageAlt: "jordan, petra, camels, dromedary, nature, desert, tourism"
 imageCredit: "Image by mikaelthunberg on Pixabay"
 imageWidth: 1280
 imageHeight: 854
----
+---Unveiling Ancient Scribes: The Impact of Buried Wine Jars on is a topic in biblical archaeology that connects ancient material evidence with scriptual narratives.
 
-Unveiling Ancient Scribes: The Impact of Buried Wine Jars on is a topic in biblical archaeology that connects ancient material evidence with scriptual narratives.
+This topic is part of our [research on biblical archaeology](/research/biblical-archaeology).
+
 
 What do you think when you hear the phrase buried wine jar, especially when tied with ancient scribes and their quest for unbiased documentation? It conjures up images of meticulous scribes, immersed in scripts and scrolls while adhering to a weighty tradition. So, lets unravel the threads of this fascinating concept while engaging with the rich tapestry of biblical archaeology and historical manuscripts.
  
@@ -134,6 +135,12 @@ Understanding this rich interplay between antiquity and the present can inspire 
 ### Related Pilgrimage Guides
 
 - [Rabbi Nachman's Journey to Israel](/stories/rabbi-nachman-journey-to-israel)
+
+## Related Research
+
+Explore these related articles for deeper study:
+
+- [Ancient Empathy: Unveiling the Ein Gedi Orchard Jars](/research/excavations/compassion-for-social-outcasts-the-legacy-of-ein-gedi-orchard-jar)
 
 ## Frequently Asked Questions
 

@@ -11,9 +11,10 @@ imageAlt: "bhagavad gita, ancient scriptures, john rylands library, book, old, l
 imageCredit: "Image by nmoodley on Pixabay"
 imageWidth: 1280
 imageHeight: 960
----
+---Are you curious about the connection between the Old Testament and the New Testament? If so, you're in for a treat! , we will explore various aspects that link these two significant parts of the Holy Bible. From examining central themes and contrasting literary genres to understanding the historical context and exploring messianic prophecies, we will uncover the fascinating ways these scriptures intertwine. Join Anita Love, an esteemed theologian, as she guides us on an enlightening journey that bridges Christianity's historical foundations with its contemporary relevance. Get ready to discover the deep connections between the Old Testament and the New Testament that will leave you with a newfound appreciation for the divine inspiration that shapes the Christian faith.
 
-Are you curious about the connection between the Old Testament and the New Testament? If so, you're in for a treat! , we will explore various aspects that link these two significant parts of the Holy Bible. From examining central themes and contrasting literary genres to understanding the historical context and exploring messianic prophecies, we will uncover the fascinating ways these scriptures intertwine. Join Anita Love, an esteemed theologian, as she guides us on an enlightening journey that bridges Christianity's historical foundations with its contemporary relevance. Get ready to discover the deep connections between the Old Testament and the New Testament that will leave you with a newfound appreciation for the divine inspiration that shapes the Christian faith.
+This topic is part of our [research on biblical scripture studies](/research/scripture).
+
   
   
 ## Contrasting Themes in the Old Testament and the New Testament
@@ -57,6 +58,12 @@ By comparing and analyzing these key passages, we can observe the shift in empha
 ### Related Pilgrimage Guides
 
 - [Rabbi Nachman's Journey to Israel](/stories/rabbi-nachman-journey-to-israel)
+
+## Related Research
+
+Explore these related articles for deeper study:
+
+- [Are all new Testament Books Written in Greek?](/research/scripture/are-all-new-testament-books-written-in-greek)
 
 ## Frequently Asked Questions
 

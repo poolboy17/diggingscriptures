@@ -11,9 +11,10 @@ imageAlt: "architecture, ceiling, rome, rome, rome, rome, rome, rome"
 imageCredit: "Image by raffalel on Pixabay"
 imageWidth: 1280
 imageHeight: 853
----
+---reveal Ancient Biblical Secrets: Exploring the Desert is a theological subject that explores the intersection of faith traditions and historical evidence.
 
-reveal Ancient Biblical Secrets: Exploring the Desert is a theological subject that explores the intersection of faith traditions and historical evidence.
+This topic is part of our [research on faith and history](/research/faith).
+
 
 What do you think of when you hear the term "Desert Library"? Does it conjure images of ancient scrolls nestled in sun-bleached caves, or perhaps the stirring verses of long-forgotten poets echoing through arid landscapes? Imagine setting out on a journey where poetry meets archaeology, revealing treasures that alter the very fabric of history. Today, you're about to uncover the poetic treasures hidden within this remarkable intersection of biblical lore and the artifacts of time.
   
@@ -150,6 +151,12 @@ As you consider the legacies of these poetic treasures, remember that they arent
 ### Related Pilgrimage Guides
 
 - [Egeria: The First Pilgrim Writer](/stories/egeria-first-pilgrim-writer)
+
+## Related Research
+
+Explore these related articles for deeper study:
+
+- [Exploring Biblical Archaeology: the Ancient Secrets of The](/research/faith/the-significance-of-the-desert-stone-bench-in-biblical-archaeology)
 
 ## Frequently Asked Questions
 

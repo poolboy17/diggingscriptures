@@ -11,9 +11,10 @@ imageAlt: "israel, jerusalem, old city, damascus gate, gate, wall, architecture,
 imageCredit: "Image by 2427999 on Pixabay"
 imageWidth: 1280
 imageHeight: 853
----
+---Discover Ancient Rituals: Unearthing History Through Stone Paving is a topic in biblical archaeology that connects ancient material evidence with scriptual narratives.
 
-Discover Ancient Rituals: Unearthing History Through Stone Paving is a topic in biblical archaeology that connects ancient material evidence with scriptual narratives.
+This topic is part of our [research on biblical archaeology](/research/biblical-archaeology).
+
 
 Have you ever considered how the remnants of ancient rituals, particularly those involving stone paving, echo through the corridors of history? The fascinating intersection of archaeology, culture, and the age-old question of purpose gives us a deeper understanding of our past. It serves as a reminder that every stone that has been laid carries with it a narrative waiting to be uncovered.
  
@@ -122,6 +123,12 @@ So, what echoes might you hear calling from the past? How can those whispers inf
 ### Related Pilgrimage Guides
 
 - [Jerusalem Old City: Sacred Pilgrimage Destination](/places/jerusalem-old-city)
+
+## Related Research
+
+Explore these related articles for deeper study:
+
+- [Unearthing Leadership: How Qumrans Ancient History Reveals](/research/biblical-archaeology/the-chosen-leader-unifying-the-scattered-around-the-qumran-collapsed-wall)
 
 ## Frequently Asked Questions
 

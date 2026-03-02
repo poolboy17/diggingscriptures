@@ -11,9 +11,10 @@ imageAlt: "paper, writing, old, antique, write, letter, text, retro, pages, hand
 imageCredit: "Image by Nile on Pixabay"
 imageWidth: 1280
 imageHeight: 783
----
+---In her thought-provoking exploration of Christianity's historical foundations, Anita Love, an esteemed authority on biblical studies, raises a profound question: Why is the Old Testament written? With a deep understanding of ancient manuscripts and religious teachings, Anita delves into the central themes, literary genres, historical context, messianic prophecies, and the juxtaposition of law and covenant within this ancient text. Through her impressive body of work, Anita unravels the complexities of the Old Testament, shedding light on its timeless significance and its profound impact on religious beliefs and practices. Join Anita on a captivating journey through the depths of the Old Testament to discover the rich tapestry of its narratives and the wisdom it offers to those who seek spiritual guidance.
 
-In her thought-provoking exploration of Christianity's historical foundations, Anita Love, an esteemed authority on biblical studies, raises a profound question: Why is the Old Testament written? With a deep understanding of ancient manuscripts and religious teachings, Anita delves into the central themes, literary genres, historical context, messianic prophecies, and the juxtaposition of law and covenant within this ancient text. Through her impressive body of work, Anita unravels the complexities of the Old Testament, shedding light on its timeless significance and its profound impact on religious beliefs and practices. Join Anita on a captivating journey through the depths of the Old Testament to discover the rich tapestry of its narratives and the wisdom it offers to those who seek spiritual guidance.
+This topic is part of our [research on biblical scripture studies](/research/scripture).
+
  
 
   
@@ -121,6 +122,12 @@ Despite these controversies, the Old Testament's continued relevance in contempo
 ### Related Pilgrimage Guides
 
 - [Rabbi Nachman's Journey to Israel](/stories/rabbi-nachman-journey-to-israel)
+
+## Related Research
+
+Explore these related articles for deeper study:
+
+- [Are all new Testament Books Written in Greek?](/research/scripture/are-all-new-testament-books-written-in-greek)
 
 ## Frequently Asked Questions
 

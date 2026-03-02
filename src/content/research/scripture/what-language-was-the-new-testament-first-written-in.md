@@ -11,9 +11,10 @@ imageAlt: "calligraphy, story, ink, feather, a book, vintage, old, wood, fairy t
 imageCredit: "Image by Ghinzo on Pixabay"
 imageWidth: 1280
 imageHeight: 853
----
+---, we will explore the fascinating question of what language the New Testament was first written in. With central themes, literary genres, historical context, messianic prophecies, and the significance of law and covenant, we examine into the rich tapestry of the New Testament's origins and its connection to the Old Testament. Anita Love, a renowned theologian and scholar, brings her expertise and academic rigor to shed light on this intriguing topic. As we embark on this journey, we will uncover the linguistic foundations of Christianity's most revered scripture and gain a deeper understanding of its cultural and historical context. Get ready to uncover the secrets of the New Testament and discover the language that shaped Christianity as we know it.
 
-, we will explore the fascinating question of what language the New Testament was first written in. With central themes, literary genres, historical context, messianic prophecies, and the significance of law and covenant, we examine into the rich tapestry of the New Testament's origins and its connection to the Old Testament. Anita Love, a renowned theologian and scholar, brings her expertise and academic rigor to shed light on this intriguing topic. As we embark on this journey, we will uncover the linguistic foundations of Christianity's most revered scripture and gain a deeper understanding of its cultural and historical context. Get ready to uncover the secrets of the New Testament and discover the language that shaped Christianity as we know it.
+This topic is part of our [research on biblical scripture studies](/research/scripture).
+
  
 
   
@@ -160,6 +161,13 @@ Language variations in the New Testament have played a role in Christological de
 ### Importance of linguistic accuracy for Christian doctrine
  
 Linguistic accuracy is paramount when it comes to interpreting the New Testament for the development of Christian doctrine and theological frameworks. The precise understanding of the biblical languages helps ensure the fidelity of theological teachings and the preservation of the original message of the Gospel.
+
+## Related Research
+
+Explore these related articles for deeper study:
+
+- [What Language is Most of the old Testament Written In?](/research/scripture/what-language-is-most-of-the-old-testament-written-in)
+- [What Language was the new Testament Originally Written In?](/research/scripture/what-language-was-the-new-testament-originally-written-in)
 
 ## Frequently Asked Questions
 

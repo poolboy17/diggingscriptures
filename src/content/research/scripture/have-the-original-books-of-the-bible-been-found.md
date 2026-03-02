@@ -11,9 +11,10 @@ imageAlt: "book, manuscript, paper, ancient, manuscript, manuscript, manuscript,
 imageCredit: "Image by TonyPrats on Pixabay"
 imageWidth: 1280
 imageHeight: 850
----
+---Have the Original Books of the Bible Been Found? refers to a subject within biblical manuscript studies that scholars continue to investigate.
 
-Have the Original Books of the Bible Been Found? refers to a subject within biblical manuscript studies that scholars continue to investigate.
+This topic is part of our [research on biblical scripture studies](/research/scripture).
+
 
 While the original manuscripts of the Bible remain elusive, the journey to uncover ancient biblical texts has captivated scholars and enthusiasts alike.
 
@@ -72,6 +73,12 @@ This innovative approach not only allows for a deeper investigation into the New
 ### Related Pilgrimage Guides
 
 - [Rabbi Nachman's Journey to Israel](/stories/rabbi-nachman-journey-to-israel)
+
+## Related Research
+
+Explore these related articles for deeper study:
+
+- [Where Were the Original Books of the Bible Found?](/research/scripture/where-were-the-original-books-of-the-bible-found)
 
 ## Frequently Asked Questions
 

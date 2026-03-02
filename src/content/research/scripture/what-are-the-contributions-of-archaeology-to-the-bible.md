@@ -11,9 +11,10 @@ imageAlt: "writing, manuscript, letter, document, ancient, lyrics, feather, ink,
 imageCredit: "Image by makamuki0 on Pixabay"
 imageWidth: 1280
 imageHeight: 960
----
+---What are the Contributions of Archaeology to the Bible? refers to a subject within biblical manuscript studies that scholars continue to investigate.
 
-What are the Contributions of Archaeology to the Bible? refers to a subject within biblical manuscript studies that scholars continue to investigate.
+This topic is part of our [research on biblical scripture studies](/research/scripture).
+
 
 In the intricate tapestry of biblical scholarship, archaeology functions as a steady hand, delicately weaving together threads of historical evidence and cultural context to disclose the rich layers of the Bible's narrative. As researchers peel back the earth's layers, uncovering ancient artifacts and forgotten ruins, they provide a tangible connection to the stories and figures immortalized in scripture.
 
@@ -60,6 +61,12 @@ Additionally, the analysis of religious artifacts, temples, and altars contribut
 ### Related Pilgrimage Guides
 
 - [Shikoku 88 Temple Pilgrimage: Historic Pilgrimage Route](/routes/shikoku-88-temples)
+
+## Related Research
+
+Explore these related articles for deeper study:
+
+- [Has Archaeology Buried the Bible Review?](/research/scripture/has-archaeology-buried-the-bible-review)
 
 ## Frequently Asked Questions
 

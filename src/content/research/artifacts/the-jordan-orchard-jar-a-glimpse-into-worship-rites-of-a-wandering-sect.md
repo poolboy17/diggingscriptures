@@ -11,9 +11,10 @@ imageAlt: "zen, buddha, peace, meditation, statue, sculpture, buddhism, spiritua
 imageCredit: "Image by Helena on Pixabay"
 imageWidth: 1280
 imageHeight: 812
----
+---What if I told you that a simple jar can open a window into the lives of a wandering sect whose rituals and beliefs are often shrouded in mystery? The Jordan Orchard Jar, a fascinating artifact, serves as a tangible link to an ancient world that practiced unique forms of worship. This piece not only tells a story about the people who used it but also invites us to ponder the significance of religious symbols and the role they play in community identity.
 
-What if I told you that a simple jar can open a window into the lives of a wandering sect whose rituals and beliefs are often shrouded in mystery? The Jordan Orchard Jar, a fascinating artifact, serves as a tangible link to an ancient world that practiced unique forms of worship. This piece not only tells a story about the people who used it but also invites us to ponder the significance of religious symbols and the role they play in community identity.
+This topic is part of our [research on ancient artifacts](/research/artifacts).
+
  
 
  
@@ -110,6 +111,12 @@ As we reflect on these historical elements, its essential to remember that the s
 ### Related Pilgrimage Guides
 
 - [Shikoku 88 Temple Pilgrimage: Historic Pilgrimage Route](/routes/shikoku-88-temples)
+
+## Related Research
+
+Explore these related articles for deeper study:
+
+- [Unlocking Secrets: how Science Preserves Ancient Biblical](/research/artifacts/preservation-methods-for-biblical-artifacts-uncovered)
 
 ## Frequently Asked Questions
 

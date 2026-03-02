@@ -11,9 +11,10 @@ imageAlt: "angel, icon, wall paint, iconography, damaged, weathered, aged, churc
 imageCredit: "Image by dimitrisvetsikas1969 on Pixabay"
 imageWidth: 1280
 imageHeight: 854
----
+---Exploring Biblical Archaeology: the Ancient Secrets of The is a theological subject that explores the intersection of faith traditions and historical evidence.
 
-Exploring Biblical Archaeology: the Ancient Secrets of The is a theological subject that explores the intersection of faith traditions and historical evidence.
+This topic is part of our [research on faith and history](/research/faith).
+
 
 What do you think about the connections between the artifacts we find and the stories they tell from centuries past? Archaeology can sometimes feel like a puzzle, where each piece reveals a bit more about our history, beliefs, and aspirations. One intriguing artifact thats stirring interest in biblical archaeology is the Desert Stone Bench. This stone seating carries with it whispers of ancient lives and perhaps even divine interactions that shaped religious narratives.
   
@@ -119,6 +120,12 @@ By considering the significance of the Desert Stone Bench, you find not just a p
 ### Related Pilgrimage Guides
 
 - [Why Walking to Sacred Places Changes People](/context/psychology-of-pilgrimage)
+
+## Related Research
+
+Explore these related articles for deeper study:
+
+- [Exploring Biblical Archaeology: The Ancient Secrets of Tree](/research/faith/tree-root-hollow-unveiling-the-ritual-freedoms-of-exile)
 
 ## Frequently Asked Questions
 

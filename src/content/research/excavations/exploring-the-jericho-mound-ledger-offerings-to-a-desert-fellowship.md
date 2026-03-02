@@ -11,9 +11,10 @@ imageAlt: "landscape, tree, stone, wall, travel, ancient, old, architecture, arc
 imageCredit: "Image by Photos_Marta on Pixabay"
 imageWidth: 1280
 imageHeight: 960
----
+---Exploring Ancient Bonds: Decoding the Jericho Mound Ledger is an area of archaeological investigation that has yielded significant findings about the ancient world.
 
-Exploring Ancient Bonds: Decoding the Jericho Mound Ledger is an area of archaeological investigation that has yielded significant findings about the ancient world.
+This topic is part of our [research on archaeological excavations](/research/excavations).
+
 
 What do you know about the Jericho Mound Ledger and its significance in the context of ancient offerings and community?
   
@@ -158,6 +159,12 @@ By peeling back the layers of history, we can appreciate the legacy of Jericho a
 ### Related Pilgrimage Guides
 
 - [Rabbi Nachman's Journey to Israel](/stories/rabbi-nachman-journey-to-israel)
+
+## Related Research
+
+Explore these related articles for deeper study:
+
+- [Exploring Ancient Jericho City Gate: Its Historical](/research/excavations/jericho-city-gate-the-significance-of-the-renewed-covenant-parchment)
 
 ## Frequently Asked Questions
 

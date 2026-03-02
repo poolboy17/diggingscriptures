@@ -11,9 +11,10 @@ imageAlt: "song, sheet music, music notes, notenblatt, melody, music wallpaper, 
 imageCredit: "Image by Ri_Ya on Pixabay"
 imageWidth: 1280
 imageHeight: 853
----
+---Have you ever wondered what language the New Testament was originally written in? It's a fascinating question that has captivated the minds of theologians, historians, and scholars for centuries. In her extensive research, Anita Love, a renowned authority on Christianity's historical foundations, explores this very topic. With her academic background in theology and religious studies, Love has delved into ancient biblical manuscripts to uncover the language that formed the basis of the New Testament. In her thought-provoking work, she sheds light on the linguistic origins of this sacred text and uncovers its impact on our understanding of Christian teachings. Join Love on this captivating journey as we unravel the secrets behind the language of the New Testament.
 
-Have you ever wondered what language the New Testament was originally written in? It's a fascinating question that has captivated the minds of theologians, historians, and scholars for centuries. In her extensive research, Anita Love, a renowned authority on Christianity's historical foundations, explores this very topic. With her academic background in theology and religious studies, Love has delved into ancient biblical manuscripts to uncover the language that formed the basis of the New Testament. In her thought-provoking work, she sheds light on the linguistic origins of this sacred text and uncovers its impact on our understanding of Christian teachings. Join Love on this captivating journey as we unravel the secrets behind the language of the New Testament.
+This topic is part of our [research on biblical scripture studies](/research/scripture).
+
   
   
 ## Historical Context of the New Testament
@@ -185,6 +186,12 @@ In the digital age, numerous resources and tools are available to aid in the stu
 ### Related Pilgrimage Guides
 
 - [Rabbi Nachman's Journey to Israel](/stories/rabbi-nachman-journey-to-israel)
+
+## Related Research
+
+Explore these related articles for deeper study:
+
+- [Was the new Testament Originally Written in Hebrew?](/research/scripture/was-the-new-testament-originally-written-in-hebrew)
 
 ## Frequently Asked Questions
 

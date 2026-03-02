@@ -11,9 +11,10 @@ imageAlt: "temple of heaven, beijing, stairs, temple, landmark, historical, chin
 imageCredit: "Image by jplenio on Pixabay"
 imageWidth: 1280
 imageHeight: 853
----
+---What do you think might have happened to the sacred items that were said to be contained within the Ark of the Covenant? Could they still exist today, hidden away in some long-forgotten fortress vault, waiting to be discovered? Lets take a stroll through history, rumor, and the intriguing world of biblical archaeology to piece together the puzzle surrounding the Ark and its legendary contents.
 
-What do you think might have happened to the sacred items that were said to be contained within the Ark of the Covenant? Could they still exist today, hidden away in some long-forgotten fortress vault, waiting to be discovered? Lets take a stroll through history, rumor, and the intriguing world of biblical archaeology to piece together the puzzle surrounding the Ark and its legendary contents.
+This topic is part of our [research on faith and history](/research/faith).
+
   
  
 ## The Enigma of the Ark of the Covenant
@@ -119,6 +120,12 @@ In closing, while the actual contents of the Ark may remain clouded in mysterypo
 ### Related Pilgrimage Guides
 
 - [Jerusalem Old City: Sacred Pilgrimage Destination](/places/jerusalem-old-city)
+
+## Related Research
+
+Explore these related articles for deeper study:
+
+- [Biblical Archaeology Findings Shed Light on Ancient Mysteries](/research/biblical-archaeology/biblical-archaeology-findings-shed-light-on-ancient-mysteries)
 
 ## Frequently Asked Questions
 

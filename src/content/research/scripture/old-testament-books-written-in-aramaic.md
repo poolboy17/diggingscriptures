@@ -11,9 +11,10 @@ imageAlt: "books, students, library, university, knowledge, literature, brown bo
 imageCredit: "Image by Pexels on Pixabay"
 imageWidth: 1280
 imageHeight: 486
----
+---Old Testament Books Written in Aramaic refers to a subject within biblical manuscript studies that scholars continue to investigate.
 
-Old Testament Books Written in Aramaic refers to a subject within biblical manuscript studies that scholars continue to investigate.
+This topic is part of our [research on biblical scripture studies](/research/scripture).
+
 
 In the vast array of ancient biblical manuscripts, there exists a small but significant cluster written in Aramaic, a language closely related to Hebrew. These texts, known as the Old Testament Books Written in Aramaic, offer a unique glimpse into the rich tapestry of biblical literature. As you embark on a journey to explore these lesser-known writings, guided by the expertise of acclaimed theologian Anita Love, you will uncover hidden treasures and deepen your understanding of the Old Testament's historical and cultural contexts. Discover the fascinating tales and timeless wisdom contained within these ancient Aramaic texts and unravel the intricate connections between the Old Testament and Christianity's foundation.
  
@@ -127,6 +128,12 @@ Additionally, the study of Aramaic contributes to the broader field of biblical 
 ### Related Pilgrimage Guides
 
 - [Rabbi Nachman's Journey to Israel](/stories/rabbi-nachman-journey-to-israel)
+
+## Related Research
+
+Explore these related articles for deeper study:
+
+- [Are all new Testament Books Written in Greek?](/research/scripture/are-all-new-testament-books-written-in-greek)
 
 ## Frequently Asked Questions
 

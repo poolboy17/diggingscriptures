@@ -11,9 +11,10 @@ imageAlt: "diary, ipad, write, blog, workplace, notebook, coffee mug, mockup, di
 imageCredit: "Image by Edar on Pixabay"
 imageWidth: 1280
 imageHeight: 960
----
+---Is Ethiopian Bible Accurate?: Scripture Studies refers to a subject within biblical manuscript studies that scholars continue to investigate.
 
-Is Ethiopian Bible Accurate?: Scripture Studies refers to a subject within biblical manuscript studies that scholars continue to investigate.
+This topic is part of our [research on biblical scripture studies](/research/scripture).
+
 
 Amidst the rugged terrain of the Tigrai Highlands in Ethiopia, the ancient echoes of the Garima Gospels resonate.
 
@@ -66,6 +67,12 @@ For Ethiopian religious leaders, the Ethiopian Bible represents more than just a
 ### Related Pilgrimage Guides
 
 - [How Pilgrims Ascended the Temple Mount in Ancient Jerusalem](/routes/temple-mount-ascent)
+
+## Related Research
+
+Explore these related articles for deeper study:
+
+- [Is the Ethiopian Bible the Most Accurate?](/research/scripture/is-the-ethiopian-bible-the-most-accurate)
 
 ## Frequently Asked Questions
 

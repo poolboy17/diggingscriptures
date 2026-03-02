@@ -11,9 +11,10 @@ imageAlt: "archaeology, archaeological dig, documenting, digging, research, arch
 imageCredit: "Image by JamesDeMers on Pixabay"
 imageWidth: 1280
 imageHeight: 1165
----
+---In "The Ultimate Beginner's Guide to Biblical Archaeology," readers are taken on a fascinating journey through the world of ancient artifacts, biblical texts, and archaeological discoveries. From the tantalizing mysteries of the Dead Sea Scrolls to the breathtaking ruins of ancient cities, this guide offers an accessible and comprehensive overview of the field. Whether one is a religious scholar, history enthusiast, or simply curious about the intersection of faith and science, this guide serves as an indispensable resource for those looking to explore the captivating world of biblical archaeology.
 
-In "The Ultimate Beginner's Guide to Biblical Archaeology," readers are taken on a fascinating journey through the world of ancient artifacts, biblical texts, and archaeological discoveries. From the tantalizing mysteries of the Dead Sea Scrolls to the breathtaking ruins of ancient cities, this guide offers an accessible and comprehensive overview of the field. Whether one is a religious scholar, history enthusiast, or simply curious about the intersection of faith and science, this guide serves as an indispensable resource for those looking to explore the captivating world of biblical archaeology.
+This topic is part of our [research on biblical archaeology](/research/biblical-archaeology).
+
 
  
 
@@ -292,6 +293,12 @@ Preservation and conservation efforts will become increasingly important in safe
 ### Related Pilgrimage Guides
 
 - [How Pilgrims Ascended the Temple Mount in Ancient Jerusalem](/routes/temple-mount-ascent)
+
+## Related Research
+
+Explore these related articles for deeper study:
+
+- [The Ultimate Guide to Studying Biblical Archaeology](/research/excavations/the-ultimate-guide-to-studying-biblical-archaeology)
 
 ## Frequently Asked Questions
 

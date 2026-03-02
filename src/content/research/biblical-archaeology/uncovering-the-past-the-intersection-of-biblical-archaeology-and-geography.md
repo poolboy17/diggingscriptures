@@ -11,9 +11,10 @@ imageAlt: "pottery shard, clay pot, shard, burning clay, craft, burma, myanmar"
 imageCredit: "Image by thomaspedrazzoli on Pixabay"
 imageWidth: 1280
 imageHeight: 1280
----
+---In "Uncovering the Past: The Intersection of Biblical Archaeology and Geography," the fascinating connection between these two fields is unveiled. This article delves into the intricate relationship between biblical archaeology and geography, shedding light on how the study of ancient texts and the physical landscapes merge to unveil stories of the past. By examining the artifacts and ruins discovered through archaeological digs alongside the geographical context in which they were found, a deeper understanding of ancient civilizations and the biblical narrative emerges. Through this exploration, a rich tapestry of history comes to life, bridging the gap between the written word and the tangible remnants of the past.
 
-In "Uncovering the Past: The Intersection of Biblical Archaeology and Geography," the fascinating connection between these two fields is unveiled. This article delves into the intricate relationship between biblical archaeology and geography, shedding light on how the study of ancient texts and the physical landscapes merge to unveil stories of the past. By examining the artifacts and ruins discovered through archaeological digs alongside the geographical context in which they were found, a deeper understanding of ancient civilizations and the biblical narrative emerges. Through this exploration, a rich tapestry of history comes to life, bridging the gap between the written word and the tangible remnants of the past.
+This topic is part of our [research on biblical archaeology](/research/biblical-archaeology).
+
 
 ## Understanding Biblical Archaeology
 
@@ -116,6 +117,12 @@ Integration with other academic disciplines is vital for furthering our knowledg
 ### Related Pilgrimage Guides
 
 - [How Pilgrims Ascended the Temple Mount in Ancient Jerusalem](/routes/temple-mount-ascent)
+
+## Related Research
+
+Explore these related articles for deeper study:
+
+- [Uncovering the Past: Biblical Archaeology Through Geospatial](/research/excavations/uncovering-the-past-biblical-archaeology-through-geospatial-technology)
 
 ## Frequently Asked Questions
 

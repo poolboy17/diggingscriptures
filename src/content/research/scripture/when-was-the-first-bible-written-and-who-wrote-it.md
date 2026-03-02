@@ -11,9 +11,10 @@ imageAlt: "qumran national park, drone footage, aerial shot, archeology park, ca
 imageCredit: "Image by samirsmier on Pixabay"
 imageWidth: 1280
 imageHeight: 720
----
+---When was the First Bible Written and who Wrote It? refers to a subject within biblical manuscript studies that scholars continue to investigate.
 
-When was the First Bible Written and who Wrote It? refers to a subject within biblical manuscript studies that scholars continue to investigate.
+This topic is part of our [research on biblical scripture studies](/research/scripture).
+
 
 The origins of the Bible date back to the 10th century BCE, with the Torah being canonized during the Babylonian Exile.
 
@@ -70,6 +71,12 @@ Over centuries, the Biblical text underwent a gradual evolution, culminating in 
 ### Related Pilgrimage Guides
 
 - [Rabbi Nachman's Journey to Israel](/stories/rabbi-nachman-journey-to-israel)
+
+## Related Research
+
+Explore these related articles for deeper study:
+
+- [What Languages Was The Bible First Written In?](/research/artifacts/what-languages-was-the-bible-first-written-in)
 
 ## Frequently Asked Questions
 

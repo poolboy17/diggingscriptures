@@ -11,9 +11,10 @@ imageAlt: "aged, ancient, antique, ceramic, clay, container, containers, crock, 
 imageCredit: "Image by PublicDomainPictures on Pixabay"
 imageWidth: 1280
 imageHeight: 853
----
+---Many may not realize that the oldest biblical manuscript we possess is the Codex Sinaiticus, dating back to around 350 CE.
 
-Many may not realize that the oldest biblical manuscript we possess is the Codex Sinaiticus, dating back to around 350 CE.
+This topic is part of our [research on ancient artifacts](/research/artifacts).
+
 
 However, the journey of this ancient text to its discovery is a fascinating tale of intrigue and historical importance. From its initial finding in 1844 at St. Catherine's Monastery to being presented to Tsar Alexander II of Russia, the Codex Sinaiticus holds a wealth of information waiting to be unraveled.
 
@@ -66,6 +67,12 @@ Scholars consider P52 a critical piece of evidence for establishing the reliabil
 ### Related Pilgrimage Guides
 
 - [Jerusalem Old City: Sacred Pilgrimage Destination](/places/jerusalem-old-city)
+
+## Related Research
+
+Explore these related articles for deeper study:
+
+- [4th Century Manuscript: How Codex Sinaiticus Redefines Biblical](/research/artifacts/what-is-codex-sinaiticus-and-why-its-important)
 
 ## Frequently Asked Questions
 

@@ -11,9 +11,10 @@ imageAlt: "ancient, pottery, pots, clay, antique, art, artisan, artistic, brown,
 imageCredit: "Image by Pexels on Pixabay"
 imageWidth: 1280
 imageHeight: 853
----
+---What are the Techniques Used in Archaeological Fieldwork? is a topic in biblical archaeology that connects ancient material evidence with scriptual narratives.
 
-What are the Techniques Used in Archaeological Fieldwork? is a topic in biblical archaeology that connects ancient material evidence with scriptual narratives.
+This topic is part of our [research on biblical archaeology](/research/biblical-archaeology).
+
 
 Archaeologists employ various methods during fieldwork, such as the meticulous process of conducting surveys to uncover surface artifacts and using advanced technologies like drones for aerial assessments. However, these are just the tip of the iceberg when it comes to the intricate techniques utilized in archaeological excavation.
 
@@ -60,6 +61,13 @@ Here are four key ways geospatial mapping applications enhance archaeological re
 - **Site Interpretation**: By incorporating geospatial data, archaeologists can interpret site layouts and cultural landscapes more effectively. This leads to a deeper understanding of how past societies interacted with their environment.
 - **Data Visualization**: GIS software like ArcGIS and QGIS are commonly used for geospatial mapping in archaeology. These tools help in creating visually appealing maps that display complex data in an understandable format.
 - **Research Efficiency**: The use of GPS technology for precise location data collection streamlines fieldwork processes, making data collection more efficient and accurate. This efficiency ultimately contributes to a more thorough analysis of archaeological sites.
+
+## Related Research
+
+Explore these related articles for deeper study:
+
+- [Preparing for Fieldwork: Strategies and Techniques in Biblical](/research/biblical-archaeology/preparing-for-fieldwork-strategies-and-techniques-in-biblical-archaeology)
+- [What are the Techniques Used in Archaeology Surveying?](/research/biblical-archaeology/what-are-the-techniques-used-in-archaeology-surveying)
 
 ## Frequently Asked Questions
 

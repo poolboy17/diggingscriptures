@@ -11,9 +11,10 @@ imageAlt: "archaeology, city, petra, jordan, historical site, landscape, petra, 
 imageCredit: "Image by StockSnap on Pixabay"
 imageWidth: 1280
 imageHeight: 854
----
+---Unearthed Secrets: How the Remote Hill Shrine Alters Biblical is a topic in biblical archaeology that connects ancient material evidence with scriptual narratives.
 
-Unearthed Secrets: How the Remote Hill Shrine Alters Biblical is a topic in biblical archaeology that connects ancient material evidence with scriptual narratives.
+This topic is part of our [research on biblical archaeology](/research/biblical-archaeology).
+
 
 What if you stumbled upon an ancient shrine, steeped in mystery, that once housed relics beside the elusive Ark of the Covenant? Such a discovery could take you down a winding path of history, faith, and intrigue. The Remote Hill Shrine presents an opportunity to unveil secrets from long ago, connecting todays world with the ancient past.
  
@@ -140,6 +141,12 @@ So, now that youve taken this stroll through ancient hills and sacred stories, w
 ### Related Pilgrimage Guides
 
 - [Rabbi Nachman's Journey to Israel](/stories/rabbi-nachman-journey-to-israel)
+
+## Related Research
+
+Explore these related articles for deeper study:
+
+- [Discover Ancient Biblical Towns Unearthed by Modern Remote](/research/excavations/remote-sensing-reveals-lost-biblical-towns)
 
 ## Frequently Asked Questions
 

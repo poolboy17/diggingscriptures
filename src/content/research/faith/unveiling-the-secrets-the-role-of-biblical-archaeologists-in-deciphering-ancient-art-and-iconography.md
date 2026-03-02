@@ -11,9 +11,10 @@ imageAlt: "church, ceiling, dome, architecture, cathedral, historical, basilica,
 imageCredit: "Image by ArminEP on Pixabay"
 imageWidth: 1280
 imageHeight: 853
----
+---Unearthing the Secrets: the Role of Biblical Archaeologists in is a theological subject that explores the intersection of faith traditions and historical evidence.
 
-Unearthing the Secrets: the Role of Biblical Archaeologists in is a theological subject that explores the intersection of faith traditions and historical evidence.
+This topic is part of our [research on faith and history](/research/faith).
+
 
 In the fascinating world of biblical archaeology, a group of dedicated individuals take on the important task of unraveling the mysteries hidden within ancient art and iconography. These skilled archaeologists play a vital role in studying and deciphering the symbols, images, and artifacts left behind by ancient civilizations, shedding light on the customs, beliefs, and historical events of the past. With their expertise and keen eye for detail, they are able to unveil the secrets of these ancient treasures, offering valuable insights into the rich tapestry of human history. Step into the profound field of biblical archaeology and explore the pivotal role these experts play in interpreting ancient art and iconography.
 
@@ -144,6 +145,12 @@ Biblical archaeologists are vital players in deciphering ancient art and iconogr
 ### Related Pilgrimage Guides
 
 - [How Pilgrims Ascended the Temple Mount in Ancient Jerusalem](/routes/temple-mount-ascent)
+
+## Related Research
+
+Explore these related articles for deeper study:
+
+- [Unearthing the Secrets: Discoveries of Biblical Archaeologists](/research/faith/unearthing-the-secrets-discoveries-of-biblical-archaeologists)
 
 ## Frequently Asked Questions
 

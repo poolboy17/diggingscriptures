@@ -11,9 +11,10 @@ imageAlt: "paper, writing, old, antique, write, letter, text, retro, pages, hand
 imageCredit: "Image by Nile on Pixabay"
 imageWidth: 1280
 imageHeight: 783
----
+---Has Archaeology Buried the Bible Review? refers to a subject within biblical manuscript studies that scholars continue to investigate.
 
-Has Archaeology Buried the Bible Review? refers to a subject within biblical manuscript studies that scholars continue to investigate.
+This topic is part of our [research on biblical scripture studies](/research/scripture).
+
 
 Has archaeology buried the Bible review?
 
@@ -63,6 +64,12 @@ Dever's emphasis on critical engagement encourages scholars to question long-hel
 ### Related Pilgrimage Guides
 
 - [Rabbi Nachman's Journey to Israel](/stories/rabbi-nachman-journey-to-israel)
+
+## Related Research
+
+Explore these related articles for deeper study:
+
+- [The Archaeology of the Bible: the Greatest Discoveries from](/research/scripture/the-archaeology-of-the-bible-the-greatest-discoveries-from-genesis-to-the-roman-era)
 
 ## Frequently Asked Questions
 

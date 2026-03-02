@@ -11,9 +11,10 @@ imageAlt: "buddha, statue, temple, ruins, praying, worship, thailand, buddha pur
 imageCredit: "Image by qimono on Pixabay"
 imageWidth: 1280
 imageHeight: 853
----
+---The Impact of Biblical Archaeologists on Cultural Heritage is a theological subject that explores the intersection of faith traditions and historical evidence.
 
-The Impact of Biblical Archaeologists on Cultural Heritage is a theological subject that explores the intersection of faith traditions and historical evidence.
+This topic is part of our [research on faith and history](/research/faith).
+
 
 In the world of archaeology, the contribution of biblical archaeologists in preserving cultural heritage cannot be overlooked. These dedicated professionals play a vital role in unearthing ancient artifacts and sites, providing valuable insights into the history and culture of civilizations long past. By carefully excavating and documenting their findings, biblical archaeologists help to preserve our collective heritage, shedding light on the foundations of human civilization and enriching our understanding of the past. Through their tireless efforts, these archaeologists leave an indelible mark on the preservation of cultural heritage for future generations.
 
@@ -140,6 +141,12 @@ Biblical archaeologists play a vital role in the preservation and understanding 
 ### Related Pilgrimage Guides
 
 - [Jerusalem Old City: Sacred Pilgrimage Destination](/places/jerusalem-old-city)
+
+## Related Research
+
+Explore these related articles for deeper study:
+
+- [Exploring the Significance: Biblical Archaeologists in Heritage](/research/excavations/exploring-the-significance-biblical-archaeologists-in-heritage-preservation)
 
 ## Frequently Asked Questions
 

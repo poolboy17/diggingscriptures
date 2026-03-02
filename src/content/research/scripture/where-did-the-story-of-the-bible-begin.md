@@ -11,9 +11,10 @@ imageAlt: "crown, thorns, happy easter, love, cross, heart, bible, shadow, easte
 imageCredit: "Image by jclk8888 on Pixabay"
 imageWidth: 1280
 imageHeight: 853
----
+---Where did the Story of the Bible Begin? refers to a subject within biblical manuscript studies that scholars continue to investigate.
 
-Where did the Story of the Bible Begin? refers to a subject within biblical manuscript studies that scholars continue to investigate.
+This topic is part of our [research on biblical scripture studies](/research/scripture).
+
 
 In the intricate tapestry of biblical origins, one can liken the beginning of the Bible's narrative to a foundational cornerstone, holding the weight of centuries of human history and faith. But where did this cornerstone truly originate, and what mysteries does it hold within its ancient walls?
 
@@ -58,6 +59,12 @@ The Bible's history is rich and complex, reflecting the evolution of religious t
 ### Related Pilgrimage Guides
 
 - [Jerusalem Old City: Sacred Pilgrimage Destination](/places/jerusalem-old-city)
+
+## Related Research
+
+Explore these related articles for deeper study:
+
+- [Are all the Books of the old Testament in the Hebrew Bible?](/research/scripture/are-all-the-books-of-the-old-testament-in-the-hebrew-bible)
 
 ## Frequently Asked Questions
 

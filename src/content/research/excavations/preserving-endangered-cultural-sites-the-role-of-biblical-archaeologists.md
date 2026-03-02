@@ -11,9 +11,10 @@ imageAlt: "egyptian temple, historic site, structure, land lot, archaeological s
 imageCredit: "Image by Wael-Ezz on Pixabay"
 imageWidth: 1280
 imageHeight: 853
----
+---Preserving Endangered Cultural Sites: the Role of Biblical is an area of archaeological investigation that has yielded significant findings about the ancient world.
 
-Preserving Endangered Cultural Sites: the Role of Biblical is an area of archaeological investigation that has yielded significant findings about the ancient world.
+This topic is part of our [research on archaeological excavations](/research/excavations).
+
 
 In the quest to preserve endangered cultural sites around the world, a group of individuals has emerged as unsung heroes: biblical archaeologists. These dedicated individuals use their expertise and passion to not only uncover ancient biblical artifacts, but also to protect and conserve the sites they excavate. By meticulously studying and documenting these cultural treasures, biblical archaeologists are able to contribute invaluable knowledge to the preservation and understanding of our shared history. , we will explore the vital role that biblical archaeologists play in safeguarding these endangered cultural sites for future generations to appreciate and learn from.
 
@@ -98,6 +99,12 @@ Preserving the past not only enriches our understanding of history but also safe
 ### Related Pilgrimage Guides
 
 - [Jerusalem Old City: Sacred Pilgrimage Destination](/places/jerusalem-old-city)
+
+## Related Research
+
+Explore these related articles for deeper study:
+
+- [Preserving Biblical Archaeological Sites: Best Practices Revealed](/research/biblical-archaeology/preserving-biblical-archaeological-sites-best-practices-revealed)
 
 ## Frequently Asked Questions
 

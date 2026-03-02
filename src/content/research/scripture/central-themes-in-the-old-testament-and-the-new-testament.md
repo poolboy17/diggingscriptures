@@ -11,9 +11,10 @@ imageAlt: "calligraphy, story, ink, feather, a book, vintage, old, wood, fairy t
 imageCredit: "Image by Ghinzo on Pixabay"
 imageWidth: 1280
 imageHeight: 853
----
+---Central Themes in the old Testament and the new Testament refers to a subject within biblical manuscript studies that scholars continue to investigate.
 
-Central Themes in the old Testament and the new Testament refers to a subject within biblical manuscript studies that scholars continue to investigate.
+This topic is part of our [research on biblical scripture studies](/research/scripture).
+
 
 In "Central Themes in the Old Testament and the New Testament," Anita Love, a renowned expert in biblical studies, explores the key concepts and messages found in both testaments of the Holy Bible. With her extensive academic background and profound understanding of ancient manuscripts and religious teachings, Anita delves into various topics, such as contrasting themes, literary genres, historical contexts, messianic prophecies, and the distinction between law and covenant. Through her writings, Anita provides readers with a fresh and inclusive perspective on the intersection of Christianity's historical foundations and its contemporary relevance. With her expertise guiding the way, readers are invited to embark on a journey through the rich and profound teachings of both the Old and New Testaments. So, which testament comes first?
   
@@ -159,6 +160,12 @@ Analyzing the role and significance of these figures allows us to see the interc
 ### Related Pilgrimage Guides
 
 - [Rabbi Nachman's Journey to Israel](/stories/rabbi-nachman-journey-to-israel)
+
+## Related Research
+
+Explore these related articles for deeper study:
+
+- [Understanding the old Testament's Central Themes](/research/faith/understanding-the-old-testaments-central-themes)
 
 ## Frequently Asked Questions
 

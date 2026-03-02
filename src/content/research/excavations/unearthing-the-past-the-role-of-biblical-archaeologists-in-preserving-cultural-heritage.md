@@ -11,9 +11,10 @@ imageAlt: "workshop, carpenter, crafts, artisan, drink, work, tool, vintage, wor
 imageCredit: "Image by ThMilherou on Pixabay"
 imageWidth: 1280
 imageHeight: 848
----
+---Unearthing the Past: the Role of Biblical Archaeologists in is an area of archaeological investigation that has yielded significant findings about the ancient world.
 
-Unearthing the Past: the Role of Biblical Archaeologists in is an area of archaeological investigation that has yielded significant findings about the ancient world.
+This topic is part of our [research on archaeological excavations](/research/excavations).
+
 
 Unearthing the Past: The Role of Biblical Archaeologists in Preserving Cultural Heritage offers a fascinating exploration of the crucial role that biblical archaeologists play in safeguarding and conserving our rich cultural heritage. This article sheds light on the important work undertaken by these dedicated researchers, highlighting their efforts in addressing issues surrounding repatriation and the preservation of archaeological sites. Through their meticulous excavation and comprehensive analysis, biblical archaeologists contribute to our understanding of the past while working tirelessly to ensure the protection and appreciation of our shared cultural history.
 
@@ -142,6 +143,12 @@ Biblical archaeologists play a vital role in unearthing the past and preserving 
 ### Related Pilgrimage Guides
 
 - [Jerusalem Old City: Sacred Pilgrimage Destination](/places/jerusalem-old-city)
+
+## Related Research
+
+Explore these related articles for deeper study:
+
+- [Unlocking the Past: the Role of Biblical Archaeologists in](/research/excavations/unlocking-the-past-the-role-of-biblical-archaeologists-in-engaging-the-public)
 
 ## Frequently Asked Questions
 

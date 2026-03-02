@@ -11,9 +11,10 @@ imageAlt: "egypt, temple, hieroglyphics, pharaoh, egyptian temple, travel, statu
 imageCredit: "Image by NadineDoerle on Pixabay"
 imageWidth: 1280
 imageHeight: 850
----
+---Uncovering the Past: Biblical Archaeology Through Geospatial is an area of archaeological investigation that has yielded significant findings about the ancient world.
 
-Uncovering the Past: Biblical Archaeology Through Geospatial is an area of archaeological investigation that has yielded significant findings about the ancient world.
+This topic is part of our [research on archaeological excavations](/research/excavations).
+
 
 Uncovering the Past: Biblical Archaeology Through Geospatial Technology explores the fascinating intersection between biblical archaeology and cutting-edge geospatial technology. This article delves into the innovative methods and techniques employed by archaeologists to uncover and analyze ancient biblical sites with the help of geospatial technology. From satellite imagery and drone surveys to GIS mapping and 3D modeling, these technologically advanced tools are revolutionizing the field of biblical archaeology and providing invaluable insights into the rich history of the Bible. Prepare to be amazed as we journey through time and witness the wonders of the past come to life through the lens of geospatial technology.
 
@@ -186,6 +187,12 @@ Through the analysis of spatial patterns, the excavation and documentation of si
 ### Related Pilgrimage Guides
 
 - [How Pilgrims Ascended the Temple Mount in Ancient Jerusalem](/routes/temple-mount-ascent)
+
+## Related Research
+
+Explore these related articles for deeper study:
+
+- [Uncovering the Past: the Intersection of Biblical Archaeology](/research/biblical-archaeology/uncovering-the-past-the-intersection-of-biblical-archaeology-and-geography)
 
 ## Frequently Asked Questions
 

@@ -11,9 +11,10 @@ imageAlt: "interior, ceiling, window, old, church, architecture, interior, ceili
 imageCredit: "Image by analogicus on Pixabay"
 imageWidth: 1280
 imageHeight: 853
----
+---Understanding Biblical Archaeology: Decoding the Past is a theological subject that explores the intersection of faith traditions and historical evidence.
 
-Understanding Biblical Archaeology: Decoding the Past is a theological subject that explores the intersection of faith traditions and historical evidence.
+This topic is part of our [research on faith and history](/research/faith).
+
 
 In "Understanding Biblical Archaeology: Decoding the Past," readers gain valuable insights into the world of Biblical archaeology. This article sheds light on the best ways to interpret the fascinating findings uncovered by archaeologists in their quest to understand and unravel the mysteries of the past. Discover how these ancient artifacts and sites provide a glimpse into the historical and cultural context of Biblical times, allowing us to gain a deeper understanding of the stories and events described in the Bible. Get ready to embark on a captivating journey as we explore the significance and methods behind interpreting Biblical archaeological discoveries.
 
@@ -220,6 +221,12 @@ As technology and funding opportunities advance, archaeological sites and projec
 ### Related Pilgrimage Guides
 
 - [How Pilgrims Ascended the Temple Mount in Ancient Jerusalem](/routes/temple-mount-ascent)
+
+## Related Research
+
+Explore these related articles for deeper study:
+
+- [Decoding Ancient Myths: the Role of Biblical Archaeology](/research/faith/decoding-ancient-myths-the-role-of-biblical-archaeology)
 
 ## Frequently Asked Questions
 

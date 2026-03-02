@@ -11,9 +11,10 @@ imageAlt: "antique, yellow pages, chapter, open book, new chapter, hebrew text, 
 imageCredit: "Image by Ri_Ya on Pixabay"
 imageWidth: 1280
 imageHeight: 853
----
+---The discovery of the Dead Sea Scrolls in Qumran, Israel, in 1947 was a pivotal moment that sparked a deeper exploration into the relationship between the Bible and archaeology.
 
-The discovery of the Dead Sea Scrolls in Qumran, Israel, in 1947 was a pivotal moment that sparked a deeper exploration into the relationship between the Bible and archaeology.
+This topic is part of our [research on biblical scripture studies](/research/scripture).
+
 
 As researchers continue to unearth new findings, the intricate connections between biblical accounts and historical artifacts become increasingly intriguing.
 
@@ -64,6 +65,12 @@ Additionally, inscriptions like the Behistun Inscription from King Darius I cont
 ### Related Pilgrimage Guides
 
 - [Rabbi Nachman's Journey to Israel](/stories/rabbi-nachman-journey-to-israel)
+
+## Related Research
+
+Explore these related articles for deeper study:
+
+- [Has Archaeology Buried the Bible Review?](/research/scripture/has-archaeology-buried-the-bible-review)
 
 ## Frequently Asked Questions
 

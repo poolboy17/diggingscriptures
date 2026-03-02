@@ -11,9 +11,10 @@ imageAlt: "aged, ancient, antique, ceramic, clay, container, containers, crock, 
 imageCredit: "Image by PublicDomainPictures on Pixabay"
 imageWidth: 1280
 imageHeight: 853
----
+---How The Documentary Hypothesis Shapes Origins refers to ancient material remains that provide physical evidence for understanding biblical history.
 
-How The Documentary Hypothesis Shapes Origins refers to ancient material remains that provide physical evidence for understanding biblical history.
+This topic is part of our [research on ancient artifacts](/research/artifacts).
+
 
 Have you ever wondered how the Bible came to be in its present form, or who wrote its many books? If so, you're not alone. This question has intrigued scholars, theologians, and laypeople for centuries. The Documentary Hypothesis proposes an answer, suggesting that the Pentateuch (the first five books of the Bible) was derived from multiple sources, written by different authors at various points in history. This idea has profound implications for how we understand the origins of biblical texts and, by extension, the theological concepts they convey.
  
@@ -105,6 +106,13 @@ With a better understanding of the historical context and theological evolution,
 ### Social and Cultural Impact
  
 Moreover, understanding these origins has ramifications beyond personal faith, influencing cultural and social dynamics as societies grapple with traditional beliefs and modern values.
+
+## Related Research
+
+Explore these related articles for deeper study:
+
+- [How Archaeology Confirms Biblical Origins](/research/artifacts/how-archaeology-confirms-biblical-origins)
+- [The Language of the new Testament: Exploring its Origins](/research/scripture/the-language-of-the-new-testament-exploring-its-origins)
 
 ## Frequently Asked Questions
 

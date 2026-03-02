@@ -11,9 +11,10 @@ imageAlt: "western wall, jerusalem, jews, pray, orthodox, holy, religious, weste
 imageCredit: "Image by rliessum on Pixabay"
 imageWidth: 1280
 imageHeight: 960
----
+---Exploring the Impact of Technology in Biblical Archaeology is a topic in biblical archaeology that connects ancient material evidence with scriptual narratives.
 
-Exploring the Impact of Technology in Biblical Archaeology is a topic in biblical archaeology that connects ancient material evidence with scriptual narratives.
+This topic is part of our [research on biblical archaeology](/research/biblical-archaeology).
+
 
 In the fascinating world of Biblical Archaeology, technology has played an increasingly significant role in recent years. From the use of advanced imaging techniques to the development of cutting-edge excavation tools, technology has revolutionized the way scholars and archaeologists explore and interpret ancient texts and artifacts. This article delves into the impact of technology in Biblical Archaeology, shining a light on the innovative tools and methods that have reshaped our understanding of the past.
 
@@ -144,6 +145,12 @@ Technology has significantly transformed biblical archaeology, offering new meth
 ### Related Pilgrimage Guides
 
 - [How Pilgrims Ascended the Temple Mount in Ancient Jerusalem](/routes/temple-mount-ascent)
+
+## Related Research
+
+Explore these related articles for deeper study:
+
+- [Exploring the Environmental Impact on Biblical Archaeology](/research/excavations/exploring-the-environmental-impact-on-biblical-archaeology)
 
 ## Frequently Asked Questions
 

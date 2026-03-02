@@ -11,9 +11,10 @@ imageAlt: "western wall, jerusalem, jews, pray, orthodox, holy, religious, weste
 imageCredit: "Image by rliessum on Pixabay"
 imageWidth: 1280
 imageHeight: 960
----
+---Discover Ancient Biblical Towns Unearthed by Modern Remote is an area of archaeological investigation that has yielded significant findings about the ancient world.
 
-Discover Ancient Biblical Towns Unearthed by Modern Remote is an area of archaeological investigation that has yielded significant findings about the ancient world.
+This topic is part of our [research on archaeological excavations](/research/excavations).
+
 
 Have you ever wondered how ancient towns mentioned in biblical texts could be rediscovered beneath the sands of time? Through the advent of advanced remote sensing technology, archaeologists are now able to uncover and map out these forgotten locales with unprecedented precision. Using satellite imagery and aerial data, regions that were once thought to have been lost to history are being brought back to life, giving us new insights into ancient civilizations. The title "Remote Sensing Reveals Lost Biblical Towns" captures the astounding potential that modern technology holds in unraveling the enigmatic chapters of human history detailed in religious scriptures.
   
@@ -87,6 +88,12 @@ Join the conversation. What do you think will be uncovered next? The field of re
 ### Related Pilgrimage Guides
 
 - [Rabbi Nachman's Journey to Israel](/stories/rabbi-nachman-journey-to-israel)
+
+## Related Research
+
+Explore these related articles for deeper study:
+
+- [Discover Ancient Jerusalem: Unveiling Biblical Secrets In](/research/excavations/archaeological-maps-of-ancient-jerusalem-unveiled)
 
 ## Frequently Asked Questions
 

@@ -11,9 +11,10 @@ imageAlt: "desktop, laptop, crafts, still life, mockup, table, decoration, desig
 imageCredit: "Image by rawpixel on Pixabay"
 imageWidth: 1280
 imageHeight: 916
----
+---Is the Ethiopian Bible the First Bible? refers to a subject within biblical manuscript studies that scholars continue to investigate.
 
-Is the Ethiopian Bible the First Bible? refers to a subject within biblical manuscript studies that scholars continue to investigate.
+This topic is part of our [research on biblical scripture studies](/research/scripture).
+
 
 In the domain of ancient Biblical texts, the Ethiopian Bible stands as a significant contender for the title of the first Bible.
 
@@ -62,6 +63,13 @@ Some key points of debate include:
 - **Oldest and Complete**: While the Ethiopian Bible isn't the first **regarding** chronology, it's considered one of the oldest and most complete Bibles globally, leading to discussions about its significance in biblical history.
 - **Additional Books**: One of the primary reasons for debates is the Ethiopian Bible's inclusion of extra books not present **regarding** other biblical canons. The presence of these additional texts raises questions about the authenticity and authority of the Ethiopian Bible **regarding** the traditional Christian biblical texts.
 - **Textual Variations**: Scholars often analyze the textual variations present **regarding** the Ethiopian Bible compared to other versions, fueling debates about the accuracy of translations and interpretations. These differences contribute to the ongoing discourse about the Ethiopian Bible's status as the 'first' Bible.
+
+## Related Research
+
+Explore these related articles for deeper study:
+
+- [How Does the Ethiopian Bible Differ from the Bible?](/research/scripture/how-does-the-ethiopian-bible-differ-from-the-bible)
+- [Is Ethiopian Bible Accurate?: Scripture Studies](/research/scripture/is-ethiopian-bible-accurate)
 
 ## Frequently Asked Questions
 

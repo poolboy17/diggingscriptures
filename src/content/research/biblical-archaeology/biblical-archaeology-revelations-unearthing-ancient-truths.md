@@ -11,9 +11,10 @@ imageAlt: "excavator, construction machine, two-way excavator, gripper, site, co
 imageCredit: "Image by Tama66 on Pixabay"
 imageWidth: 1280
 imageHeight: 954
----
+---Biblical Archaeology Revelations: Unearthing Ancient Truths is a topic in biblical archaeology that connects ancient material evidence with scriptual narratives.
 
-Biblical Archaeology Revelations: Unearthing Ancient Truths is a topic in biblical archaeology that connects ancient material evidence with scriptual narratives.
+This topic is part of our [research on biblical archaeology](/research/biblical-archaeology).
+
 
 Exploring recent archaeological discoveries has provided us with a window into ancient truths, unveiling a hidden history waiting to be unearthed. As we examine into the remnants of past civilizations through **historical artifacts**, we gain valuable insights into their daily lives and beliefs. 
 
@@ -172,6 +173,12 @@ Biblical Archaeology Investigation Reveals Ancient Secrets
 ### Related Pilgrimage Guides
 
 - [Shikoku 88 Temple Pilgrimage: Historic Pilgrimage Route](/routes/shikoku-88-temples)
+
+## Related Research
+
+Explore these related articles for deeper study:
+
+- [Unearthing Truths: how Biblical Archaeology Confirms Ancient](/research/biblical-archaeology/biblical-city-destruction-evidence-aligns-with-ancient-tales)
 
 ## Frequently Asked Questions
 

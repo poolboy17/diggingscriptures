@@ -11,9 +11,10 @@ imageAlt: "antique, yellow pages, chapter, open book, new chapter, hebrew text, 
 imageCredit: "Image by Ri_Ya on Pixabay"
 imageWidth: 1280
 imageHeight: 853
----
+---reveal Ancient Scripture: a Deep Dive into Biblical Archaeology refers to a subject within biblical manuscript studies that scholars continue to investigate.
 
-reveal Ancient Scripture: a Deep Dive into Biblical Archaeology refers to a subject within biblical manuscript studies that scholars continue to investigate.
+This topic is part of our [research on biblical scripture studies](/research/scripture).
+
 
 Have you ever pondered how monumental discoveries in biblical archaeology might reshape your understanding of history and scripture? The exploration of biblical archaeology offers a captivating intersection of faith and empirical investigation, transforming ancient texts from mere stories into tangible history. This scholarly pursuit seeks to unveil artifacts and evidence that fortify the narratives enshrined in the Bible. By excavating sites and scrutinizing material culture, biblical archaeology endeavors to provide insights into ancient civilizations and their religious experiences.
  
@@ -90,6 +91,12 @@ As you consider these findings, think about the extent to which they alter your 
 ### Related Pilgrimage Guides
 
 - [Jerusalem Old City: Sacred Pilgrimage Destination](/places/jerusalem-old-city)
+
+## Related Research
+
+Explore these related articles for deeper study:
+
+- [Unveiling Ancient Secrets: A Deep Dive into Biblical Archaeology](/research/biblical-archaeology/cliffside-hollow-navigating-the-tension-between-law-and-tradition)
 
 ## Frequently Asked Questions
 

@@ -11,9 +11,10 @@ imageAlt: "flooring, mosaic tile, wood, mosaic, tile, floor, pattern, design, ge
 imageCredit: "Image by shannonrphillips on Pixabay"
 imageWidth: 1280
 imageHeight: 853
----
+---Temple Objects Reveal Ancient Ritual Practices is a theological subject that explores the intersection of faith traditions and historical evidence.
 
-Temple Objects Reveal Ancient Ritual Practices is a theological subject that explores the intersection of faith traditions and historical evidence.
+This topic is part of our [research on faith and history](/research/faith).
+
 
 Do you ever wonder what ancient temple objects reveal about historical ritual practices? The world of biblical archaeology offers a fascinating glimpse into the past, illuminating the beliefs and customs of long-vanished cultures through the artifacts they left behind. This exploration uncovers not only the physical remnants of temples and sacred spaces but also offers insights into the spiritual lives of the ancient people who inhabited these regions. As you examine into these treasures, you begin to unwrap the narratives woven through centuries of religious devotion and uncover the profound connections between ancient and modern ritual practices.
   
@@ -72,6 +73,12 @@ As research continues, you are invited to engage with these discoveries, examine
 ### Related Pilgrimage Guides
 
 - [How Pilgrims Ascended the Temple Mount in Ancient Jerusalem](/routes/temple-mount-ascent)
+
+## Related Research
+
+Explore these related articles for deeper study:
+
+- [Temple Artifacts Reveal Ancient Worship Practices](/research/artifacts/temple-artifacts-reveal-ancient-worship-practices)
 
 ## Frequently Asked Questions
 

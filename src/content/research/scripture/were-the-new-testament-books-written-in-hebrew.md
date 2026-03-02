@@ -11,9 +11,10 @@ imageAlt: "manuscript, medieval, antique, paper, parchment, vintage, document, l
 imageCredit: "Image by V2Melody on Pixabay"
 imageWidth: 1280
 imageHeight: 854
----
+---In "Were the New Testament Books Written in Hebrew?" Anita Love, an esteemed authority on the relationship between Christianity's historical foundations and its contemporary relevance, explores the question surrounding the original language of the New Testament books. With a passion for investigating ancient biblical manuscripts, the authenticity of religious teachings, and the historical accuracy of scriptural events, Anita's extensive academic background in Theology and Religious Studies brings a nuanced perspective to this subject. Through her body of published work, she delves into the depths of Old Testament narratives, the role of cultural context in interpreting scriptures, and the divine inspiration that influenced the canonization process. With a commitment to embracing the diversity of Christian denominations, belief systems, and lifestyles, Anita's analysis of whether the New Testament books were written in Hebrew adds further dimension to the ongoing discourse in ecumenical circles.
 
-In "Were the New Testament Books Written in Hebrew?" Anita Love, an esteemed authority on the relationship between Christianity's historical foundations and its contemporary relevance, explores the question surrounding the original language of the New Testament books. With a passion for investigating ancient biblical manuscripts, the authenticity of religious teachings, and the historical accuracy of scriptural events, Anita's extensive academic background in Theology and Religious Studies brings a nuanced perspective to this subject. Through her body of published work, she delves into the depths of Old Testament narratives, the role of cultural context in interpreting scriptures, and the divine inspiration that influenced the canonization process. With a commitment to embracing the diversity of Christian denominations, belief systems, and lifestyles, Anita's analysis of whether the New Testament books were written in Hebrew adds further dimension to the ongoing discourse in ecumenical circles.
+This topic is part of our [research on biblical scripture studies](/research/scripture).
+
  
 
   
@@ -166,6 +167,12 @@ The Greek New Testament is embedded in a specific cultural and historical contex
 ### Related Pilgrimage Guides
 
 - [Rabbi Nachman's Journey to Israel](/stories/rabbi-nachman-journey-to-israel)
+
+## Related Research
+
+Explore these related articles for deeper study:
+
+- [Are all new Testament Books Written in Greek?](/research/scripture/are-all-new-testament-books-written-in-greek)
 
 ## Frequently Asked Questions
 

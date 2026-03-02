@@ -11,9 +11,10 @@ imageAlt: "petra, jordan, royal tombs, sand stone, antique, historically, histor
 imageCredit: "Image by ChiemSeherin on Pixabay"
 imageWidth: 1280
 imageHeight: 853
----
+---Archaeoastronomy: Uncovering Ancient Cultures Through the Stars is a topic in biblical archaeology that connects ancient material evidence with scriptual narratives.
 
-Archaeoastronomy: Uncovering Ancient Cultures Through the Stars is a topic in biblical archaeology that connects ancient material evidence with scriptual narratives.
+This topic is part of our [research on biblical archaeology](/research/biblical-archaeology).
+
 
 Archaeoastronomy has emerged as a fascinating field that offers remarkable insights into ancient cultures and civilizations by studying their relationship with the stars. By examining the celestial phenomena and astronomical alignments present in ancient structures and artifacts, archaeoastronomers are able to uncover the significance of these ancient societies' astronomical knowledge and beliefs. This article explores the role of archaeoastronomy in understanding ancient cultures, highlighting its significance in biblical archaeology and the valuable insights it provides into the lives and worldviews of our ancestors.
 
@@ -154,6 +155,12 @@ As technology advances and interdisciplinary collaboration flourishes, the futur
 ### Related Pilgrimage Guides
 
 - [How Pilgrims Ascended the Temple Mount in Ancient Jerusalem](/routes/temple-mount-ascent)
+
+## Related Research
+
+Explore these related articles for deeper study:
+
+- [Biblical Archaeology: Uncovering Ancient Maritime Routes](/research/biblical-archaeology/biblical-archaeology-uncovering-ancient-maritime-routes)
 
 ## Frequently Asked Questions
 

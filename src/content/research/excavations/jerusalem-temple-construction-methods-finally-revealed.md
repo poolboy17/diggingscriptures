@@ -11,9 +11,10 @@ imageAlt: "way, building, excavator, viaduct, road, cities, work, digging, build
 imageCredit: "Image by satynek on Pixabay"
 imageWidth: 1280
 imageHeight: 781
----
+---Jerusalem Temple Construction Methods Finally Revealed is an area of archaeological investigation that has yielded significant findings about the ancient world.
 
-Jerusalem Temple Construction Methods Finally Revealed is an area of archaeological investigation that has yielded significant findings about the ancient world.
+This topic is part of our [research on archaeological excavations](/research/excavations).
+
 
 Have you ever wondered about the mysteries that surround the construction of the Jerusalem Templea monument that sits at the intersection of history, faith, and architecture? This timeless structure, often referred to in sacred texts, has intrigued archaeologists, historians, and theologians alike. With recent discoveries shedding new light on ancient construction techniques, we can finally begin to understand the methods behind its erection. , "Jerusalem Temple Construction Methods Finally Revealed," we will explore the historical backdrop, examine the archaeological evidence, and discuss the modern-day significance of these findings.
   
@@ -73,6 +74,12 @@ In summary, the revelation of the methods used in the construction of the Jerusa
 ### Related Pilgrimage Guides
 
 - [How Pilgrims Ascended the Temple Mount in Ancient Jerusalem](/routes/temple-mount-ascent)
+
+## Related Research
+
+Explore these related articles for deeper study:
+
+- [Jerusalem Temple Foundations Finally Discovered](/research/excavations/jerusalem-temple-foundations-finally-discovered)
 
 ## Frequently Asked Questions
 

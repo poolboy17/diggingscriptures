@@ -11,9 +11,10 @@ imageAlt: "jerusalem, israel, old town, walls, the rock temple, dome of the rock
 imageCredit: "Image by Walkerssk on Pixabay"
 imageWidth: 1280
 imageHeight: 493
----
+---Have you ever wondered if there is a degree in Biblical History?
 
-Have you ever wondered if there is a degree in Biblical History?
+This topic is part of our [research on biblical archaeology](/research/biblical-archaeology).
+
 
 Trinity Southwest University offers a thorough M.A. program that might just provide the answer to that question.
 
@@ -72,6 +73,12 @@ Individuals pursuing a master's degree often engage in rigorous academic study, 
 ### Related Pilgrimage Guides
 
 - [Rabbi Nachman's Journey to Israel](/stories/rabbi-nachman-journey-to-israel)
+
+## Related Research
+
+Explore these related articles for deeper study:
+
+- [Unveiling Biblical History: how Advanced Imaging Decodes](/research/biblical-archaeology/advanced-imaging-illuminates-ancient-hebrew-texts)
 
 ## Frequently Asked Questions
 

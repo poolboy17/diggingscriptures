@@ -11,9 +11,10 @@ imageAlt: "excavation, archaeology, high culture, culture, temple, old, stone, l
 imageCredit: "Image by Efraimstochter on Pixabay"
 imageWidth: 1280
 imageHeight: 960
----
+---Unveiling Biblical Trade Routes: a Deep Dive into Ancient is a topic in biblical archaeology that connects ancient material evidence with scriptual narratives.
 
-Unveiling Biblical Trade Routes: a Deep Dive into Ancient is a topic in biblical archaeology that connects ancient material evidence with scriptual narratives.
+This topic is part of our [research on biblical archaeology](/research/biblical-archaeology).
+
 
 Have you ever wondered how ancient trade routes shaped societies and influenced the course of history? In the Biblical era, commerce was a vital component of life, intertwining various cultures and regions through intricate networks.
   
@@ -94,6 +95,12 @@ The study of ancient trade maps in the Biblical era is not merely an academic ex
 ### Related Pilgrimage Guides
 
 - [Rabbi Nachman's Journey to Israel](/stories/rabbi-nachman-journey-to-israel)
+
+## Related Research
+
+Explore these related articles for deeper study:
+
+- [Unveiling Ancient Secrets: A Deep Dive into Biblical Archaeology](/research/biblical-archaeology/cliffside-hollow-navigating-the-tension-between-law-and-tradition)
 
 ## Frequently Asked Questions
 

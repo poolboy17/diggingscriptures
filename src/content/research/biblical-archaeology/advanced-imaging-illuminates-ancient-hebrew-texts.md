@@ -11,9 +11,10 @@ imageAlt: "egypt, temple, hieroglyphics, pharaoh, egyptian temple, travel, statu
 imageCredit: "Image by NadineDoerle on Pixabay"
 imageWidth: 1280
 imageHeight: 850
----
+---Unveiling Biblical History: how Advanced Imaging Decodes is a topic in biblical archaeology that connects ancient material evidence with scriptual narratives.
 
-Unveiling Biblical History: how Advanced Imaging Decodes is a topic in biblical archaeology that connects ancient material evidence with scriptual narratives.
+This topic is part of our [research on biblical archaeology](/research/biblical-archaeology).
+
 
 Have you ever considered how advanced imaging techniques could revolutionize our understanding of ancient texts? In today's scholarly field, technological advancements are peeling back the layers of time, bringing to light texts that have been shrouded for centuries. One such triumph of modern technology is the discovery and illumination of ancient Hebrew texts. This journey through time is being reshaped by the lens of advanced imaging, offering profound insights into our biblical heritage.
   
@@ -67,6 +68,12 @@ In this rapidly evolving field, staying informed is crucial. Whether you are a s
 ### Related Pilgrimage Guides
 
 - [Rabbi Nachman's Journey to Israel](/stories/rabbi-nachman-journey-to-israel)
+
+## Related Research
+
+Explore these related articles for deeper study:
+
+- [Unveiling the Intriguing World of Biblical Archaeology History](/research/faith/unveiling-the-intriguing-world-of-biblical-archaeology-history)
 
 ## Frequently Asked Questions
 

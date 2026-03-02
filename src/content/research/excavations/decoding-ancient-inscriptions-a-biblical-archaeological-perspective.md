@@ -11,9 +11,10 @@ imageAlt: "archaeology, archaeological dig, documenting, digging, research, arch
 imageCredit: "Image by JamesDeMers on Pixabay"
 imageWidth: 1280
 imageHeight: 1165
----
+---In the captivating article titled "Decoding Ancient Inscriptions: A Biblical Archaeological Perspective," readers are invited to explore the fascinating world of Biblical Archaeology and the intricate process of deciphering ancient inscriptions. Through a friendly and engaging tone, the article sheds light on the methods and techniques employed by these scholars to unravel the mysteries hidden within these ancient texts, offering a fresh perspective on the interconnection between history, religion, and archaeology.
 
-In the captivating article titled "Decoding Ancient Inscriptions: A Biblical Archaeological Perspective," readers are invited to explore the fascinating world of Biblical Archaeology and the intricate process of deciphering ancient inscriptions. Through a friendly and engaging tone, the article sheds light on the methods and techniques employed by these scholars to unravel the mysteries hidden within these ancient texts, offering a fresh perspective on the interconnection between history, religion, and archaeology.
+This topic is part of our [research on archaeological excavations](/research/excavations).
+
 
 ## Introduction
 
@@ -126,6 +127,12 @@ Decoding ancient inscriptions is a complex and fascinating field within biblical
 ### Related Pilgrimage Guides
 
 - [Rabbi Nachman's Journey to Israel](/stories/rabbi-nachman-journey-to-israel)
+
+## Related Research
+
+Explore these related articles for deeper study:
+
+- [Decoding Ancient Inscriptions: Unraveling the Secrets of](/research/biblical-archaeology/decoding-ancient-inscriptions-unraveling-the-secrets-of-biblical-archaeology)
 
 ## Frequently Asked Questions
 

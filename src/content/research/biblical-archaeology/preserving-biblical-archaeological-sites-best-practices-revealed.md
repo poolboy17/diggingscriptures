@@ -11,9 +11,10 @@ imageAlt: "whitby abbey, dracula, bram stoker, haunted, ruin, moody, whitby, yor
 imageCredit: "Image by TimHill on Pixabay"
 imageWidth: 1280
 imageHeight: 720
----
+---Preserving Biblical Archaeological Sites: Best Practices Revealed is an insightful article that explores the most effective strategies for safeguarding these historically significant locations. Delving into the world of biblical archaeology, it highlights the importance of preserving these sites for future generations to appreciate and learn from. By outlining the best practices endorsed by experts, this article aims to shed light on the crucial role that careful preservation plays in maintaining the integrity and authenticity of these remarkable archaeological treasures.
 
-Preserving Biblical Archaeological Sites: Best Practices Revealed is an insightful article that explores the most effective strategies for safeguarding these historically significant locations. Delving into the world of biblical archaeology, it highlights the importance of preserving these sites for future generations to appreciate and learn from. By outlining the best practices endorsed by experts, this article aims to shed light on the crucial role that careful preservation plays in maintaining the integrity and authenticity of these remarkable archaeological treasures.
+This topic is part of our [research on biblical archaeology](/research/biblical-archaeology).
+
 
  
 
@@ -180,6 +181,12 @@ Flexibility and the willingness to adjust strategies and techniques based on mon
 ### Related Pilgrimage Guides
 
 - [How Pilgrims Ascended the Temple Mount in Ancient Jerusalem](/routes/temple-mount-ascent)
+
+## Related Research
+
+Explore these related articles for deeper study:
+
+- [10 Must-Visit Biblical Archaeological Sites](/research/biblical-archaeology/10-must-visit-biblical-archaeological-sites)
 
 ## Frequently Asked Questions
 

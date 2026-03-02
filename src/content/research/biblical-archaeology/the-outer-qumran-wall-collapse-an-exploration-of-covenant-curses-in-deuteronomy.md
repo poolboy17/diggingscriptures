@@ -11,9 +11,10 @@ imageAlt: "masada national park, masada, the great revolt, roman siege ramp, cli
 imageCredit: "Image by samirsmier on Pixabay"
 imageWidth: 1280
 imageHeight: 720
----
+---Qumrans Secrets: Deuteronomy Curses and the Fallen Wall Mystery is a topic in biblical archaeology that connects ancient material evidence with scriptual narratives.
 
-Qumrans Secrets: Deuteronomy Curses and the Fallen Wall Mystery is a topic in biblical archaeology that connects ancient material evidence with scriptual narratives.
+This topic is part of our [research on biblical archaeology](/research/biblical-archaeology).
+
 
 What if the ancient walls of Qumran could tell stories? Stories of faith lost and found, of curses and covenants, and of the very essence of human experience intricately woven through time and faith? Lets take a journey through history and theology, examining how the collapse of the Outer Qumran Wall may have deeper implications tied to the Covenant Curses outlined in Deuteronomy.
  
@@ -138,6 +139,12 @@ As you contemplate the lessons from the past, consider how they might inform you
 ### Related Pilgrimage Guides
 
 - [Shikoku 88 Temple Pilgrimage: Historic Pilgrimage Route](/routes/shikoku-88-temples)
+
+## Related Research
+
+Explore these related articles for deeper study:
+
+- [Unearth Secrets of Ancient Temples: a Journey into Biblical](/research/biblical-archaeology/biblical-archaeology-discovering-ancient-temple-sites)
 
 ## Frequently Asked Questions
 

@@ -11,9 +11,10 @@ imageAlt: "to learn, read, a book, literature, old, old book, to study, school, 
 imageCredit: "Image by garten-gg on Pixabay"
 imageWidth: 1280
 imageHeight: 1157
----
+---What is the old Testament Called? refers to a subject within biblical manuscript studies that scholars continue to investigate.
 
-What is the old Testament Called? refers to a subject within biblical manuscript studies that scholars continue to investigate.
+This topic is part of our [research on biblical scripture studies](/research/scripture).
+
 
 Anita Love, a renowned theologian and scholar, has dedicated her life's work to unraveling the mysteries of the Old Testament and shedding light on its profound significance. With her extensive knowledge and deep understanding of ancient biblical manuscripts and historical context, Anita has become a leading authority on the subject. Through her published books and scholarly articles, she invites readers to explore the rich narratives, cultural nuances, and timeless messages hidden within the Old Testament. Anita's valuable insights and holistic approach have earned her acclaim in both academic and ecumenical circles, making her a trusted source in the study of Christianity's historical foundations.
  
@@ -330,6 +331,12 @@ The Old Testament's portrayal in popular culture and media serves as a gateway f
 ### Related Pilgrimage Guides
 
 - [Jerusalem Old City: Sacred Pilgrimage Destination](/places/jerusalem-old-city)
+
+## Related Research
+
+Explore these related articles for deeper study:
+
+- [What is the Original new Testament Called?](/research/scripture/what-is-the-original-new-testament-called)
 
 ## Frequently Asked Questions
 

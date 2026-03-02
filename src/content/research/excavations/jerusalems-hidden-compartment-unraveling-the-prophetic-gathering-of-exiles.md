@@ -11,9 +11,10 @@ imageAlt: "castle, travel, architecture, outdoors, daytime, medieval, hill, land
 imageCredit: "Image by Pexels on Pixabay"
 imageWidth: 1280
 imageHeight: 853
----
+---Unearthing Ancient Jerusalem: Secrets of the Prophetic Exile is an area of archaeological investigation that has yielded significant findings about the ancient world.
 
-Unearthing Ancient Jerusalem: Secrets of the Prophetic Exile is an area of archaeological investigation that has yielded significant findings about the ancient world.
+This topic is part of our [research on archaeological excavations](/research/excavations).
+
 
 What if you could unearth secrets hidden beneath the stones of one of the oldest cities in the world? Picture yourself walking through the winding streets of Jerusalem, surrounded by history whispered through the ages. You might not realize it, but buried within these ancient paths lies a treasure trove of storiesespecially concerning the prophetic gathering of exiles. Lets unravel this captivating narrative together.
  
@@ -108,6 +109,12 @@ In this journey, may the echoes of the past guide your path, as you reflect on h
 ### Related Pilgrimage Guides
 
 - [How Pilgrims Ascended the Temple Mount in Ancient Jerusalem](/routes/temple-mount-ascent)
+
+## Related Research
+
+Explore these related articles for deeper study:
+
+- [Discover Ancient Jerusalem: Unveiling Biblical Secrets In](/research/excavations/archaeological-maps-of-ancient-jerusalem-unveiled)
 
 ## Frequently Asked Questions
 

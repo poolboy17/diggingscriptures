@@ -11,9 +11,10 @@ imageAlt: "calligraphy, story, ink, feather, a book, vintage, old, wood, fairy t
 imageCredit: "Image by Ghinzo on Pixabay"
 imageWidth: 1280
 imageHeight: 853
----
+---How Many Different Versions of the Bible are There? refers to a subject within biblical manuscript studies that scholars continue to investigate.
 
-How Many Different Versions of the Bible are There? refers to a subject within biblical manuscript studies that scholars continue to investigate.
+This topic is part of our [research on biblical scripture studies](/research/scripture).
+
 
 One might be surprised to learn that the New International Version (NIV) of the Bible alone has sold over 450 million copies worldwide. This staggering number raises the question: how many different versions of the Bible are out there, and what sets them apart?
 
@@ -57,6 +58,13 @@ Exploring through textual variants in the Bible presents scholars with a nuanced
 When comparing different versions of the Bible, such as the New International Version, English Standard Version, or King James Version, scholars encounter various textual variants that have emerged over centuries of manuscript transmission. Despite these differences, the core beliefs and theological consistency of the Bible are maintained across versions. The majority of textual variants are minor and don't undermine essential Christian doctrines or teachings.
 
 Manuscripts play a crucial role in the study of textual variants, as they provide the primary sources for understanding the evolution of the biblical text. By examining these manuscripts, scholars can trace the variations that have occurred and make informed decisions about which readings are most likely to reflect the original text.
+
+## Related Research
+
+Explore these related articles for deeper study:
+
+- [Are all the Books of the old Testament in the Hebrew Bible?](/research/scripture/are-all-the-books-of-the-old-testament-in-the-hebrew-bible)
+- [Are the Original Books of the Bible Still in Existence?](/research/scripture/are-the-original-books-of-the-bible-still-in-existence)
 
 ## Frequently Asked Questions
 

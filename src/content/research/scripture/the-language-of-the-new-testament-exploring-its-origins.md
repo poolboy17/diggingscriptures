@@ -11,9 +11,10 @@ imageAlt: "scroll, feather, ink, caligraphy, hebrew, writing, characters, paper,
 imageCredit: "Image by zofiaEliyahu on Pixabay"
 imageWidth: 1280
 imageHeight: 859
----
+---Have you ever wondered in what language the New Testament was originally written? Well, the New Testament is actually a compilation of texts that were primarily written in Greek. The Language of the New Testament: Exploring its Origins delves into the fascinating world of ancient biblical manuscripts and explores the origins of the language in which the New Testament was composed. Join renowned theologian and scholar Anita Love as she uncovers the historical and cultural contexts surrounding these texts, shedding light on the rich linguistic heritage of Christianity's foundational document. Through Anita's extensive research and expertise, you'll gain a deeper understanding of the New Testament and its significance in the modern world.
 
-Have you ever wondered in what language the New Testament was originally written? Well, the New Testament is actually a compilation of texts that were primarily written in Greek. The Language of the New Testament: Exploring its Origins delves into the fascinating world of ancient biblical manuscripts and explores the origins of the language in which the New Testament was composed. Join renowned theologian and scholar Anita Love as she uncovers the historical and cultural contexts surrounding these texts, shedding light on the rich linguistic heritage of Christianity's foundational document. Through Anita's extensive research and expertise, you'll gain a deeper understanding of the New Testament and its significance in the modern world.
+This topic is part of our [research on biblical scripture studies](/research/scripture).
+
  
 
   
@@ -289,6 +290,12 @@ Additionally, understanding the original language equips individuals to engage i
 ### Related Pilgrimage Guides
 
 - [Rabbi Nachman's Journey to Israel](/stories/rabbi-nachman-journey-to-israel)
+
+## Related Research
+
+Explore these related articles for deeper study:
+
+- [Exploring the Language of the old Testament](/research/scripture/exploring-the-language-of-the-old-testament)
 
 ## Frequently Asked Questions
 

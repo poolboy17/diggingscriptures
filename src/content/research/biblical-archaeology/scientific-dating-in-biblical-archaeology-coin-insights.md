@@ -11,9 +11,10 @@ imageAlt: "museum, artifacts, antiquities, culture, history, vietnam, south east
 imageCredit: "Image by NguyenHoangThach on Pixabay"
 imageWidth: 1280
 imageHeight: 853
----
+---Unlocking Ancient Secrets: the Role of Coins in Biblical is a topic in biblical archaeology that connects ancient material evidence with scriptual narratives.
 
-Unlocking Ancient Secrets: the Role of Coins in Biblical is a topic in biblical archaeology that connects ancient material evidence with scriptual narratives.
+This topic is part of our [research on biblical archaeology](/research/biblical-archaeology).
+
 
 Have you ever wondered how ancient coins can reveal secrets of the past? In the field of biblical archaeology, coins serve as a unique time capsule, offering a glimpse into the societal and cultural landscapes of their respective eras. This article examines the fascinating practice of scientific dating of biblical period coins, exploring their role in enhancing our understanding of history as described in biblical texts.
   
@@ -84,6 +85,12 @@ The scientific dating of biblical period coins is pivotal in enriching our under
 ### Related Pilgrimage Guides
 
 - [Shikoku 88 Temple Pilgrimage: Historic Pilgrimage Route](/routes/shikoku-88-temples)
+
+## Related Research
+
+Explore these related articles for deeper study:
+
+- [Unlocking Biblical Secrets: A Deep Dive into Ancient Scrolls](/research/biblical-archaeology/uncharted-qumran-passage-a-journey-into-the-mysteries-of-the-dead-sea-scrolls)
 
 ## Frequently Asked Questions
 

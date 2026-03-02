@@ -11,9 +11,10 @@ imageAlt: "pyramids, egypt, egyptian, ancient, desert, giza, historical, archite
 imageCredit: "Image by TheDigitalArtist on Pixabay"
 imageWidth: 1280
 imageHeight: 480
----
+---What are the Methods Used in Biblical Archaeology? is a topic in biblical archaeology that connects ancient material evidence with scriptual narratives.
 
-What are the Methods Used in Biblical Archaeology? is a topic in biblical archaeology that connects ancient material evidence with scriptual narratives.
+This topic is part of our [research on biblical archaeology](/research/biblical-archaeology).
+
 
 In the labyrinthine world of biblical archaeology, scholars employ a myriad of methods to unearth the mysteries hidden beneath layers of time.
 
@@ -62,6 +63,13 @@ Remote sensing technologies play a pivotal role in modern biblical archaeology, 
 Lidar technology complements ground-penetrating radar by offering detailed 3D maps of archaeological sites. By using laser scanning, researchers can create highly accurate visual representations of ancient structures and landscapes, enhancing site analysis and documentation. Satellite imagery, on the other hand, provides researchers with high-resolution aerial views of archaeological sites, enabling them to identify ancient settlements, track environmental changes, and assess the archaeological potential of specific areas.
 
 Through the integration of these remote sensing technologies, researchers can conduct thorough site mapping, detect hidden features, and make informed decisions about excavation strategies. The ability to explore archaeological sites in a non-invasive manner has significantly expanded the field's capabilities, offering new opportunities for understanding and preserving our shared human heritage.
+
+## Related Research
+
+Explore these related articles for deeper study:
+
+- [Exploring Biblical Archaeology Methods in Ancient Sites](/research/biblical-archaeology/exploring-biblical-archaeology-methods-in-ancient-sites)
+- [Methods Used by Biblical Archaeologists to Date Ancient Artifacts](/research/artifacts/methods-used-by-biblical-archaeologists-to-date-ancient-artifacts)
 
 ## Frequently Asked Questions
 

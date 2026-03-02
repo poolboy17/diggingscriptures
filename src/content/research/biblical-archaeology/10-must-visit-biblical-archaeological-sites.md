@@ -11,9 +11,10 @@ imageAlt: "archaeology, excavation, sun sails, protection, sun protection, archa
 imageCredit: "Image by Efraimstochter on Pixabay"
 imageWidth: 1280
 imageHeight: 960
----
+---10 Must-Visit Biblical Archaeological Sites is a topic in biblical archaeology that connects ancient material evidence with scriptual narratives.
 
-10 Must-Visit Biblical Archaeological Sites is a topic in biblical archaeology that connects ancient material evidence with scriptual narratives.
+This topic is part of our [research on biblical archaeology](/research/biblical-archaeology).
+
 
 The article "10 Must-Visit Biblical Archaeological Sites" takes readers on an enchanting journey through the ancient world, uncovering ten of the most significant sites that hold great historical and religious importance. From the towering walls of Jericho to the iconic city of Bethlehem, this article presents a captivating overview of these timeless locations, enticing readers to embark on a pilgrimage of discovery and reflection. Whether fueled by spiritual curiosity or an appreciation for the rich tapestry of human history, these biblical archaeological sites offer a window into the past that is impossible to resist.
 
@@ -162,6 +163,12 @@ Muhraqa, meaning "the place of burning," is a site believed to be where the prop
 ### Related Pilgrimage Guides
 
 - [How Pilgrims Ascended the Temple Mount in Ancient Jerusalem](/routes/temple-mount-ascent)
+
+## Related Research
+
+Explore these related articles for deeper study:
+
+- [Preserving Biblical Archaeological Sites: Best Practices Revealed](/research/biblical-archaeology/preserving-biblical-archaeological-sites-best-practices-revealed)
 
 ## Frequently Asked Questions
 

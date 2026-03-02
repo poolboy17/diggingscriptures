@@ -11,9 +11,10 @@ imageAlt: "scroll, feather, ink, caligraphy, hebrew, writing, characters, paper,
 imageCredit: "Image by zofiaEliyahu on Pixabay"
 imageWidth: 1280
 imageHeight: 859
----
+---Many have pondered the elusive question of where the original Bible resides, but the answer is not as straightforward as one might hope. The journey of the original biblical manuscripts is a tale of dispersion and preservation, with fragments scattered across the globe in various institutions.
 
-Many have pondered the elusive question of where the original Bible resides, but the answer is not as straightforward as one might hope. The journey of the original biblical manuscripts is a tale of dispersion and preservation, with fragments scattered across the globe in various institutions.
+This topic is part of our [research on biblical scripture studies](/research/scripture).
+
 
 As researchers unravel the intricate web of ancient texts, a deeper understanding of the Bible's origins and transmission emerges. Stay tuned to unravel the intriguing trail that leads to the fascinating whereabouts of the original Bible.
 
@@ -68,6 +69,12 @@ While the original manuscripts of the Bible aren't physically intact in a single
 ### Related Pilgrimage Guides
 
 - [Jerusalem Old City: Sacred Pilgrimage Destination](/places/jerusalem-old-city)
+
+## Related Research
+
+Explore these related articles for deeper study:
+
+- [Where is the First Original Bible Located?](/research/scripture/where-is-the-first-original-bible-located)
 
 ## Frequently Asked Questions
 

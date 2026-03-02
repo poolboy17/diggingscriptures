@@ -11,9 +11,10 @@ imageAlt: "archaeology, excavation, sun sails, protection, sun protection, archa
 imageCredit: "Image by Efraimstochter on Pixabay"
 imageWidth: 1280
 imageHeight: 960
----
+---Unearthing the Engineering Marvels of Biblical Times is a topic in biblical archaeology that connects ancient material evidence with scriptual narratives.
 
-Unearthing the Engineering Marvels of Biblical Times is a topic in biblical archaeology that connects ancient material evidence with scriptual narratives.
+This topic is part of our [research on biblical archaeology](/research/biblical-archaeology).
+
 
 In "Unearthing the Engineering Marvels of Biblical Times," the article explores the fascinating world of biblical archaeology and the incredible hydraulic engineering systems that existed during ancient times. From the intricate water supply networks to the impressive irrigation infrastructure, this piece delves into the remarkable feats accomplished by ancient civilizations and the significant impact they had on society. The article offers a glimpse into the marvels of engineering from biblical times, showcasing the ingenuity and technical prowess of our ancestors.
 
@@ -194,6 +195,12 @@ The extraction of precious metals played a significant role in ancient economies
 ### Related Pilgrimage Guides
 
 - [How Pilgrims Ascended the Temple Mount in Ancient Jerusalem](/routes/temple-mount-ascent)
+
+## Related Research
+
+Explore these related articles for deeper study:
+
+- [Biblical Archaeology Revelations: Unearthing Ancient Truths](/research/biblical-archaeology/biblical-archaeology-revelations-unearthing-ancient-truths)
 
 ## Frequently Asked Questions
 

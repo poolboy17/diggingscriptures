@@ -11,9 +11,10 @@ imageAlt: "city, aerial view, illuminated, city lights, cityscape, skyline, nigh
 imageCredit: "Image by Pexels on Pixabay"
 imageWidth: 1280
 imageHeight: 720
----
+---What Archaeological Evidence Points to the Historical Accuracy is an area of archaeological investigation that has yielded significant findings about the ancient world.
 
-What Archaeological Evidence Points to the Historical Accuracy is an area of archaeological investigation that has yielded significant findings about the ancient world.
+This topic is part of our [research on archaeological excavations](/research/excavations).
+
 
 Could archaeological findings provide concrete evidence supporting the biblical tale of Jericho's fall? As excavations continue to unearth new clues, the debate over the historical accuracy of this ancient event intensifies.
 
@@ -64,6 +65,12 @@ Additionally, the presence of collapsed mudbricks along the stone retaining wall
 ### Related Pilgrimage Guides
 
 - [Rabbi Nachman's Journey to Israel](/stories/rabbi-nachman-journey-to-israel)
+
+## Related Research
+
+Explore these related articles for deeper study:
+
+- [Does Archaeology Confirm the Historical Accuracy of the Bible?](/research/excavations/does-archaeology-confirm-the-historical-accuracy-of-the-bible)
 
 ## Frequently Asked Questions
 

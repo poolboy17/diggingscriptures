@@ -11,9 +11,10 @@ imageAlt: "mosaic, floor, tile, famous, antique, roman, italy, rome, museum"
 imageCredit: "Image by RGY23 on Pixabay"
 imageWidth: 1280
 imageHeight: 853
----
+---Unearthing the Secrets: Discoveries of Biblical Archaeologists is a theological subject that explores the intersection of faith traditions and historical evidence.
 
-Unearthing the Secrets: Discoveries of Biblical Archaeologists is a theological subject that explores the intersection of faith traditions and historical evidence.
+This topic is part of our [research on faith and history](/research/faith).
+
 
 Unearthing the Secrets: Discoveries of Biblical Archaeologists takes readers on a fascinating journey through the ancient world, where dedicated researchers have unearthed remarkable treasures and shed light on centuries-old mysteries. From the opulent ruins of lost civilizations to the humble artifacts of everyday life, these groundbreaking discoveries offer a rare glimpse into the lives of those who came before us. Join the intrepid explorers as they unearth hidden clues and piece together the puzzle of our shared human history.
 
@@ -150,6 +151,12 @@ Biblical archaeology has revealed numerous treasures and insights that have deep
 ### Related Pilgrimage Guides
 
 - [How Pilgrims Ascended the Temple Mount in Ancient Jerusalem](/routes/temple-mount-ascent)
+
+## Related Research
+
+Explore these related articles for deeper study:
+
+- [Unearthing the Secrets: the Role of Biblical Archaeologists in](/research/faith/unveiling-the-secrets-the-role-of-biblical-archaeologists-in-deciphering-ancient-art-and-iconography)
 
 ## Frequently Asked Questions
 

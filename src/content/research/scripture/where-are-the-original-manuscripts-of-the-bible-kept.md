@@ -11,9 +11,10 @@ imageAlt: "diary, ipad, write, blog, workplace, notebook, coffee mug, mockup, di
 imageCredit: "Image by Edar on Pixabay"
 imageWidth: 1280
 imageHeight: 960
----
+---Where are the Original Manuscripts of the Bible Kept? refers to a subject within biblical manuscript studies that scholars continue to investigate.
 
-Where are the Original Manuscripts of the Bible Kept? refers to a subject within biblical manuscript studies that scholars continue to investigate.
+This topic is part of our [research on biblical scripture studies](/research/scripture).
+
 
 Scattered across museums, libraries, and private collections worldwide, the original manuscripts of the Bible remain a subject of intrigue and fascination for scholars and enthusiasts alike.
 
@@ -71,6 +72,12 @@ Additionally, the collaboration between private collectors and universities has 
 ### Related Pilgrimage Guides
 
 - [Rabbi Nachman's Journey to Israel](/stories/rabbi-nachman-journey-to-israel)
+
+## Related Research
+
+Explore these related articles for deeper study:
+
+- [Where are the Original Copies of the Bible Kept?](/research/scripture/where-are-the-original-copies-of-the-bible-kept)
 
 ## Frequently Asked Questions
 

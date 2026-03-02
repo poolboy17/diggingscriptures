@@ -11,9 +11,10 @@ imageAlt: "crown, thorns, happy easter, love, cross, heart, bible, shadow, easte
 imageCredit: "Image by jclk8888 on Pixabay"
 imageWidth: 1280
 imageHeight: 853
----
+---Continuity and Discontinuity: the Relationship Between the old refers to a subject within biblical manuscript studies that scholars continue to investigate.
 
-Continuity and Discontinuity: the Relationship Between the old refers to a subject within biblical manuscript studies that scholars continue to investigate.
+This topic is part of our [research on biblical scripture studies](/research/scripture).
+
 
 In the captivating article "Continuity and Discontinuity: The Relationship Between the Old Testament and the New Testament," Anita Love, a renowned theologian and scholar, delves into the fascinating world of the Holy Bible. With her impressive credentials and deep understanding of religious studies, Anita explores the central themes, literary genres, historical contexts, messianic prophecies, and the concept of law and covenant found in both the Old and New Testaments. With a friendly tone and vast knowledge, she offers an intriguing exploration that sheds light on the connection between these two testament and invites readers to contemplate the significance of this continuity and discontinuity. The relationship between the Old Testament and the New Testament is a topic of great theological significance. , we will examine into various aspects of this relationship, exploring central themes, literary genres, historical context, messianic prophecies, law and covenant, continuity and discontinuity, interpretation, and the impact on Christian life. We will also examine the work of Anita Love, a renowned scholar in the field, and the ecumenical recognition of the relationship between the two Testaments.
   
@@ -109,6 +110,12 @@ The impact on Christian faith and belief systems is profound. The knowledge that
 ### Related Pilgrimage Guides
 
 - [Rabbi Nachman's Journey to Israel](/stories/rabbi-nachman-journey-to-israel)
+
+## Related Research
+
+Explore these related articles for deeper study:
+
+- [What is the Relationship Between the Bible and Archaeology?](/research/scripture/what-is-the-relationship-between-the-bible-and-archaeology)
 
 ## Frequently Asked Questions
 

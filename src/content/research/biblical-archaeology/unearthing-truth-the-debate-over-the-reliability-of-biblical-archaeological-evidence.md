@@ -11,9 +11,10 @@ imageAlt: "archaeology, city, petra, jordan, historical site, landscape, petra, 
 imageCredit: "Image by StockSnap on Pixabay"
 imageWidth: 1280
 imageHeight: 854
----
+---Unearthing Truth: the Debate Over the Reliability of Biblical is a topic in biblical archaeology that connects ancient material evidence with scriptual narratives.
 
-Unearthing Truth: the Debate Over the Reliability of Biblical is a topic in biblical archaeology that connects ancient material evidence with scriptual narratives.
+This topic is part of our [research on biblical archaeology](/research/biblical-archaeology).
+
 
 Unearthing Truth: The Debate over the Reliability of Biblical Archaeological Evidence explores the ongoing discussion surrounding the authenticity and trustworthiness of archaeological findings in relation to biblical events and narratives. From the search for Noah's Ark to the existence of ancient cities like Jericho, this article investigates the pivotal role that archaeology plays in affirming or challenging long-held beliefs. Dive into the captivating world of biblical archaeology as experts debate the veracity of these artifacts and their significance in understanding the history and veracity of the Bible.
 
@@ -164,6 +165,12 @@ Balancing faith and scientific inquiry is paramount in the pursuit of understand
 ### Related Pilgrimage Guides
 
 - [How Pilgrims Ascended the Temple Mount in Ancient Jerusalem](/routes/temple-mount-ascent)
+
+## Related Research
+
+Explore these related articles for deeper study:
+
+- [Unearthing the Truth: the Debate Over Authenticity in Biblical](/research/excavations/unearthing-the-truth-the-debate-over-authenticity-in-biblical-archaeology)
 
 ## Frequently Asked Questions
 

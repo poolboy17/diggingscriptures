@@ -11,9 +11,10 @@ imageAlt: "jerusalem, israel, old town, walls, the rock temple, dome of the rock
 imageCredit: "Image by Walkerssk on Pixabay"
 imageWidth: 1280
 imageHeight: 493
----
+---What is the Course on Biblical Archeology? is a topic in biblical archaeology that connects ancient material evidence with scriptual narratives.
 
-What is the Course on Biblical Archeology? is a topic in biblical archaeology that connects ancient material evidence with scriptual narratives.
+This topic is part of our [research on biblical archaeology](/research/biblical-archaeology).
+
 
 Coincidentally, as students explore the course on Biblical Archeology, they uncover fascinating connections between ancient artifacts and biblical narratives.
 
@@ -66,6 +67,12 @@ The structure of the course is designed to offer a thorough learning experience 
 ### Related Pilgrimage Guides
 
 - [Jerusalem Old City: Sacred Pilgrimage Destination](/places/jerusalem-old-city)
+
+## Related Research
+
+Explore these related articles for deeper study:
+
+- [What is the Study of Biblical Archeology?](/research/biblical-archaeology/what-is-the-study-of-biblical-archeology)
 
 ## Frequently Asked Questions
 

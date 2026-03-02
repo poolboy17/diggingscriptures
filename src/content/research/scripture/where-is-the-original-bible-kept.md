@@ -11,9 +11,10 @@ imageAlt: "books, students, library, university, knowledge, literature, brown bo
 imageCredit: "Image by Pexels on Pixabay"
 imageWidth: 1280
 imageHeight: 486
----
+---Where is the Original Bible Kept? refers to a subject within biblical manuscript studies that scholars continue to investigate.
 
-Where is the Original Bible Kept? refers to a subject within biblical manuscript studies that scholars continue to investigate.
+This topic is part of our [research on biblical scripture studies](/research/scripture).
+
 
 Nestled within the annals of history, where the whispers of scribes and the touch of ancient parchment linger, lies the elusive trail to the original Bible's whereabouts.
 
@@ -60,6 +61,13 @@ The Codex Sinaiticus, the oldest known Bible dating back to the 4th century, is 
 The Codex Sinaiticus holds a critical place in the history of Christianity, serving as a foundational text for the modern Christian Bible. Its presence in the British Museum not only underscores its historical and religious significance but also allows visitors to engage with this ancient artifact firsthand. The manuscript's display showcases the meticulous craftsmanship of its scribes and the enduring legacy of early Christian scribes and scholars.
 
 Moreover, the digitized version of the Codex Sinaiticus, available online since 2009, has facilitated broader access to this invaluable piece of history. Through digital platforms, individuals worldwide can now study and explore the contents of the Codex Sinaiticus, advancing scholarship and understanding of the Bible's early iterations. The British Museum's custodianship of this remarkable manuscript ensures its preservation for future generations to appreciate and study.
+
+## Related Research
+
+Explore these related articles for deeper study:
+
+- [Where are the Original Copies of the Bible Kept?](/research/scripture/where-are-the-original-copies-of-the-bible-kept)
+- [Where are the Original Manuscripts of the Bible Kept?](/research/scripture/where-are-the-original-manuscripts-of-the-bible-kept)
 
 ## Frequently Asked Questions
 

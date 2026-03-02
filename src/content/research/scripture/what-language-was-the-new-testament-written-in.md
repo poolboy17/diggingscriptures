@@ -11,9 +11,10 @@ imageAlt: "book, manuscript, paper, ancient, manuscript, manuscript, manuscript,
 imageCredit: "Image by TonyPrats on Pixabay"
 imageWidth: 1280
 imageHeight: 850
----
+---In the captivating article titled "What language was the New Testament written in?", Anita Love, a renowned theologian and scholar, explores the language behind one of the most influential texts in human history. With her expertise in ancient biblical manuscripts and religious studies, Anita delves into the origins of the New Testament, shedding light on the language in which it was written. Through her nuanced perspective and extensive research, she aims to uncover the significance and implications of the language choice in this sacred text.
 
-In the captivating article titled "What language was the New Testament written in?", Anita Love, a renowned theologian and scholar, explores the language behind one of the most influential texts in human history. With her expertise in ancient biblical manuscripts and religious studies, Anita delves into the origins of the New Testament, shedding light on the language in which it was written. Through her nuanced perspective and extensive research, she aims to uncover the significance and implications of the language choice in this sacred text.
+This topic is part of our [research on biblical scripture studies](/research/scripture).
+
  
 
   
@@ -131,6 +132,13 @@ The New Testament employs a range of teaching techniques to communicate its mess
 ## Conclusion: Language and the New Testament
  
 The New Testament, originally written in Koine Greek, holds immense historical, theological, and cultural significance. The language used in the New Testament serves as a bridge between different cultures, enabling the spread of Christianity and connecting believers across time and space. The inclusion of Aramaic phrases and the influence of Latin reflect the linguistic and historical context in which the New Testament was written. Translation of the New Testament into various languages allows for its global reach and accessibility. Appreciating the artistry, symbolism, poetic language, and teaching techniques employed in the New Testament enriches our understanding and interpretation of its message. By exploring the language of the New Testament, we gain deeper insights into the enduring impact of the text and its role in shaping the Christian faith.
+
+## Related Research
+
+Explore these related articles for deeper study:
+
+- [What Language is Most of the old Testament Written In?](/research/scripture/what-language-is-most-of-the-old-testament-written-in)
+- [What Language was the new Testament First Written In?](/research/scripture/what-language-was-the-new-testament-first-written-in)
 
 ## Frequently Asked Questions
 

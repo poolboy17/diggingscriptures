@@ -11,9 +11,10 @@ imageAlt: "archaeology, city, petra, jordan, historical site, landscape, petra, 
 imageCredit: "Image by StockSnap on Pixabay"
 imageWidth: 1280
 imageHeight: 854
----
+---Why is Archaeology Called Archaeology? is a topic in biblical archaeology that connects ancient material evidence with scriptual narratives.
 
-Why is Archaeology Called Archaeology? is a topic in biblical archaeology that connects ancient material evidence with scriptual narratives.
+This topic is part of our [research on biblical archaeology](/research/biblical-archaeology).
+
 
 In the vast tapestry of human history, archaeology stands as a key thread, unraveling the mysteries of our ancient past.
 
@@ -64,6 +65,13 @@ The linguistic roots of the term 'archaeology' provide valuable insights into th
 By delving into the linguistic origins of the term 'archaeology,' it becomes apparent that the field is centered on interpreting and analyzing the material culture of ancient societies. This emphasis on material culture is pivotal for unraveling the complexities of past human civilizations. The name 'archaeology' highlights the discipline's commitment to exploring and interpreting the artifacts, structures, and other physical remains that provide insights into ancient societies.
 
 The term 'archaeology' encapsulates the core of the field's mission: to uncover, analyze, and interpret the remnants of past civilizations. By focusing on the material culture left behind by ancient societies, archaeologists can piece together the puzzle of ancient history and gain a deeper understanding of the development and practices of ancient societies.
+
+## Related Research
+
+Explore these related articles for deeper study:
+
+- [Discovering Angels in Biblical Archaeology: The En Gedi](/research/biblical-archaeology/angels-in-the-desert-the-en-gedi-stone-arch-and-its-significance)
+- [Biblical Archaeology Article Discovery Revealed](/research/biblical-archaeology/biblical-archaeology-article-discovery-revealed)
 
 ## Frequently Asked Questions
 

@@ -11,9 +11,10 @@ imageAlt: "cyprus, apollo hylates, sanctuary, ancient, greek, historic, mediterr
 imageCredit: "Image by dimitrisvetsikas1969 on Pixabay"
 imageWidth: 1280
 imageHeight: 854
----
+---Unveiling Temple Mount Construction Methods is an area of archaeological investigation that has yielded significant findings about the ancient world.
 
-Unveiling Temple Mount Construction Methods is an area of archaeological investigation that has yielded significant findings about the ancient world.
+This topic is part of our [research on archaeological excavations](/research/excavations).
+
 
 Have you ever wondered how the ancient builders of the Temple Mount managed to construct such a monumental and enigmatic structure with the tools they had at their disposal? The methods behind the construction of the Temple Mount have intrigued historians, archaeologists, and enthusiasts for centuries.
   
@@ -87,6 +88,12 @@ For those interested in further exploring this topic, engage with recent archaeo
 ### Related Pilgrimage Guides
 
 - [How Pilgrims Ascended the Temple Mount in Ancient Jerusalem](/routes/temple-mount-ascent)
+
+## Related Research
+
+Explore these related articles for deeper study:
+
+- [Jerusalem Temple Construction Methods Finally Revealed](/research/excavations/jerusalem-temple-construction-methods-finally-revealed)
 
 ## Frequently Asked Questions
 

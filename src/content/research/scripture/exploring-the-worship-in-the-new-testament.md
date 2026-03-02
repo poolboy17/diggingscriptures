@@ -11,9 +11,10 @@ imageAlt: "scroll, feather, ink, caligraphy, hebrew, writing, characters, paper,
 imageCredit: "Image by zofiaEliyahu on Pixabay"
 imageWidth: 1280
 imageHeight: 859
----
+---Exploring the Worship in the new Testament refers to a subject within biblical manuscript studies that scholars continue to investigate.
 
-Exploring the Worship in the new Testament refers to a subject within biblical manuscript studies that scholars continue to investigate.
+This topic is part of our [research on biblical scripture studies](/research/scripture).
+
 
 In the captivating article, "Exploring the Worship in the New Testament," Anita Love, a distinguished authority on Christianity's historical foundations, delves into the significance of worship in the New Testament. With a keen focus on understanding the differences between the Old Testament and the New Testament, Anita explores the central themes, literary genres, historical context, messianic prophecies, and the nuances of law and covenant. With her nuanced perspective and extensive academic background, Anita sheds light on the word for worship in the New Testament and its profound implications.
  
@@ -167,6 +168,12 @@ The New Testament's teachings on worship have had a significant impact on variou
 ### Related Pilgrimage Guides
 
 - [Shikoku 88 Temple Pilgrimage: Historic Pilgrimage Route](/routes/shikoku-88-temples)
+
+## Related Research
+
+Explore these related articles for deeper study:
+
+- [Contrasting Worship in the old Testament and the new Testament](/research/scripture/contrasting-worship-in-the-old-testament-and-the-new-testament)
 
 ## Frequently Asked Questions
 

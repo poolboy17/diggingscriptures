@@ -11,9 +11,10 @@ imageAlt: "archaeology, city, petra, jordan, historical site, landscape, petra, 
 imageCredit: "Image by StockSnap on Pixabay"
 imageWidth: 1280
 imageHeight: 854
----
+---Analyzing Testament Echoes: The Poignant Tale of Ein Gedis Fallen is a topic in biblical archaeology that connects ancient material evidence with scriptual narratives.
 
-Analyzing Testament Echoes: The Poignant Tale of Ein Gedis Fallen is a topic in biblical archaeology that connects ancient material evidence with scriptual narratives.
+This topic is part of our [research on biblical archaeology](/research/biblical-archaeology).
+
 
 What do you think of when you hear the word "hope"? Is it a fleeting feeling, a tangible goal, or perhaps a testament rooted deeply in history? In the arid swathes of Israel, the Ein Gedi Fallen Stones stand as silent witnesses to human aspiration and resilience amid desolation. These remnants tell stories not just of ancient people but of enduring hope, making them a fascinating subject of study.
   
@@ -154,6 +155,12 @@ As you navigate through your own deserts, may the stories of these fallen stones
 ### Related Pilgrimage Guides
 
 - [Rabbi Nachman's Journey to Israel](/stories/rabbi-nachman-journey-to-israel)
+
+## Related Research
+
+Explore these related articles for deeper study:
+
+- [Resilience Symbolized: Analyzing the Donkey-Kicked Boulder Tale](/research/biblical-archaeology/donkey-kicked-boulder-a-journey-through-trials-and-tribulations)
 
 ## Frequently Asked Questions
 

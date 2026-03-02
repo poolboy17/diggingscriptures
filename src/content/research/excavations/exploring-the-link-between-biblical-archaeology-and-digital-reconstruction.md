@@ -11,9 +11,10 @@ imageAlt: "architecture, old, stone, ancient, building, historic, antique, facad
 imageCredit: "Image by jeh6 on Pixabay"
 imageWidth: 1280
 imageHeight: 853
----
+---In the fascinating field of biblical archaeology, a new frontier is being explored - the link between traditional excavation techniques and the emerging field of digital reconstruction. This innovative approach offers a unique perspective on ancient sites, allowing researchers to virtually recreate and explore these historical locations in a way that was previously impossible. By combining the physical evidence uncovered through archaeological digs with cutting-edge digital technologies, experts are able to gain valuable insights into the past while also preserving and sharing these important sites for future generations.
 
-In the fascinating field of biblical archaeology, a new frontier is being explored - the link between traditional excavation techniques and the emerging field of digital reconstruction. This innovative approach offers a unique perspective on ancient sites, allowing researchers to virtually recreate and explore these historical locations in a way that was previously impossible. By combining the physical evidence uncovered through archaeological digs with cutting-edge digital technologies, experts are able to gain valuable insights into the past while also preserving and sharing these important sites for future generations.
+This topic is part of our [research on archaeological excavations](/research/excavations).
+
 
  
 
@@ -154,6 +155,12 @@ Biblical archaeology and digital reconstruction are inextricably linked, offerin
 ### Related Pilgrimage Guides
 
 - [How Pilgrims Ascended the Temple Mount in Ancient Jerusalem](/routes/temple-mount-ascent)
+
+## Related Research
+
+Explore these related articles for deeper study:
+
+- [Exploring the Link: Biblical Archaeology and the Dead sea Scrolls](/research/excavations/exploring-the-link-biblical-archaeology-and-the-dead-sea-scrolls)
 
 ## Frequently Asked Questions
 

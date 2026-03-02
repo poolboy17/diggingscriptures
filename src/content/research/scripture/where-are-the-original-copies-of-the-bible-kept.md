@@ -11,9 +11,10 @@ imageAlt: "mesopotamia, myth, mythology, history, landscape, ruins, anunnaki, su
 imageCredit: "Image by BenFishold on Pixabay"
 imageWidth: 1280
 imageHeight: 731
----
+---An intriguing fact is that the oldest known complete copy of the Bible is the Codex Sinaiticus, dating back to the 4th century AD.
 
-An intriguing fact is that the oldest known complete copy of the Bible is the Codex Sinaiticus, dating back to the 4th century AD.
+This topic is part of our [research on biblical scripture studies](/research/scripture).
+
 
 Curiosity arises as to where such invaluable treasures are safeguarded today, prompting a journey into the intricate web of locations that house these ancient manuscripts.
 
@@ -68,6 +69,12 @@ Through their dedicated efforts, scholars continue to unravel the rich tapestry 
 ### Related Pilgrimage Guides
 
 - [Rabbi Nachman's Journey to Israel](/stories/rabbi-nachman-journey-to-israel)
+
+## Related Research
+
+Explore these related articles for deeper study:
+
+- [Where are the Original Manuscripts of the Bible Kept?](/research/scripture/where-are-the-original-manuscripts-of-the-bible-kept)
 
 ## Frequently Asked Questions
 

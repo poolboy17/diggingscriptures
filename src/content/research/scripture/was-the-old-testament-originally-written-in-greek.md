@@ -11,9 +11,10 @@ imageAlt: "books, library, read, shelves, shelf, reading, culture, book, edition
 imageCredit: "Image by Marisa_Sias on Pixabay"
 imageWidth: 1280
 imageHeight: 720
----
+---In the field of biblical scholarship, there is a question that often sparks curiosity and debate: Was the Old Testament originally written in Greek? This inquiry delves into the origins of one of the most significant religious texts in history and invites us to explore the complexities of its composition. Anita Love, a renowned theologian with a profound understanding of ancient biblical manuscripts, historical context, and theological implications, offers insights and analysis that shed light on this enigma. By blending academic rigor with a friendly and inclusive tone, Anita uncovers the historical foundations of the Old Testament, challenging assumptions and inspiring a deeper appreciation for the rich tapestry of these ancient writings.
 
-In the field of biblical scholarship, there is a question that often sparks curiosity and debate: Was the Old Testament originally written in Greek? This inquiry delves into the origins of one of the most significant religious texts in history and invites us to explore the complexities of its composition. Anita Love, a renowned theologian with a profound understanding of ancient biblical manuscripts, historical context, and theological implications, offers insights and analysis that shed light on this enigma. By blending academic rigor with a friendly and inclusive tone, Anita uncovers the historical foundations of the Old Testament, challenging assumptions and inspiring a deeper appreciation for the rich tapestry of these ancient writings.
+This topic is part of our [research on biblical scripture studies](/research/scripture).
+
  
 
   
@@ -156,6 +157,12 @@ Reviewing the evidence presented, it is evident that the Old Testament was origi
 ### Related Pilgrimage Guides
 
 - [How Pilgrims Ascended the Temple Mount in Ancient Jerusalem](/routes/temple-mount-ascent)
+
+## Related Research
+
+Explore these related articles for deeper study:
+
+- [Are all new Testament Books Written in Greek?](/research/scripture/are-all-new-testament-books-written-in-greek)
 
 ## Frequently Asked Questions
 
