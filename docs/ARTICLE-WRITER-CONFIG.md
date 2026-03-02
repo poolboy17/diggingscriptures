@@ -235,6 +235,51 @@ draft: false
 - At least 1 "the evidence suggests" or "scholarship indicates" hedge per article
 - Places/routes: ≥3 practical details (distance, elevation, climate, best season)
 
+## Answer Engine Optimization (AEO) requirements
+These rules ensure content is extractable by featured snippets, AI answer boxes,
+and generative search engines (Google AI Overviews, Perplexity, etc.).
+
+### Opening paragraph rule
+The first 1-2 sentences of every article MUST be a self-contained factual answer.
+Write as if answering a direct question. Include a definitional verb (is, was, are,
+refers to, dates to, represents) within the first sentence.
+- ✅ "The Dead Sea Scrolls are a collection of Jewish texts discovered between 1947 and 1956 in caves near Qumran on the northwestern shore of the Dead Sea."
+- ❌ "For centuries, scholars have debated the origins of some of the most important manuscripts ever found."
+
+### Question-format headings
+Include ≥2 question-format H2 or H3 headings per article. These directly target
+People Also Ask boxes and AI answer extraction.
+- ✅ `## What Evidence Supports the Exodus Narrative?`
+- ✅ `### When Was the Temple of Solomon Built?`
+- ❌ `## Evidence and Interpretation` (declarative — harder to extract)
+
+### Definition sentences
+Include ≥1 explicit "X is Y" definition sentence per major section. These are
+snippet extraction targets.
+- ✅ "Stratigraphy is the study of rock layers and their relative ages."
+- ✅ "The Septuagint refers to the earliest Greek translation of the Hebrew Bible."
+
+### Structured lists
+Include ≥1 bulleted or numbered list per article. Lists are favored by answer
+engines for "list snippets" — they display as expandable answer boxes.
+- Key findings, notable artifacts, important dates, or chronological steps
+
+### FAQ section (required for research articles)
+Every research article MUST end with a `## Frequently Asked Questions` section
+containing 3 Q&A pairs formatted as:
+```markdown
+## Frequently Asked Questions
+
+### What is [topic]?
+[2-3 sentence factual answer.]
+
+### What evidence supports [claim]?
+[2-3 sentence answer citing specific findings.]
+
+### Why does [topic] matter for biblical studies?
+[2-3 sentence answer connecting to broader significance.]
+```
+
 ## Banned phrases
 - journey (as metaphor — fine for literal pilgrimage journeys)
 - unlock, game-changer, delve, realm, dive in
@@ -328,6 +373,13 @@ draft: false
 - [ ] All faith traditions treated with equal respect
 - [ ] Zero banned phrases
 - [ ] No editorial devotional language
+
+### AEO (Answer Engine Optimization)
+- [ ] Opening paragraph is self-contained factual answer (definitional verb in sentence 1)
+- [ ] ≥2 question-format H2 or H3 headings
+- [ ] ≥1 definition sentence ("X is Y") per major section
+- [ ] ≥1 bulleted or numbered list in article body
+- [ ] FAQ section with 3 Q&A pairs at end of article (research articles)
 
 ### Monetization rules
 - [ ] Hubs: ZERO affiliate links

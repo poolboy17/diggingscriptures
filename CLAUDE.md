@@ -105,7 +105,28 @@ Context (background articles — 1000-2000 words, NO monetization)
 - `src/layouts/` — 7 layout templates (LOCKED)
 - `netlify.toml` — Deployment config
 
-## Pipeline (TODO)
-- `digging-pipe.py` — Multi-threaded optimizer (not yet built)
-- Should validate frontmatter, word counts, H2 counts, internal links, banned words
-- Same pattern as protrainer-pipe.py and semantic-pipe.py
+## Research Silo
+- **680 research articles** across 5 categories: biblical-archaeology (190), excavations (164), scripture (127), faith (119), artifacts (80)
+- URL pattern: `/research/[category]/[slug]`
+- Article JSON-LD schema on every research page (author, publisher, datePublished, image)
+- Dynamic OG images per article (hero image instead of static default)
+- Breadcrumbs on all layouts (Research, Story, Context)
+- `/about` page with Organization schema for E-E-A-T
+
+## SemanticPipe v2.0 (`semantic-pipe-research.py`)
+Multi-threaded quality pipeline with three-layer scoring:
+- **GEO** (Generative Engine Optimization) — entity density, source attribution, temporal anchors, factual claims
+- **AEO** (Answer Engine Optimization) — question headings, definition patterns, opening paragraph, list structure, FAQ
+- **SXO** (Search Experience Optimization) — internal links, content depth, heading hierarchy, paragraph length, frontmatter completeness
+- Combined A/B/C/D/F grading per article
+- `--audit-only` mode for scoring without changes
+- `--aeo-harden` mode to auto-inject FAQ sections
+- `--all --force` for full re-optimization
+
+## Writing Rules (AEO-aware)
+- Opening paragraph must be self-contained factual answer
+- ≥2 question-format H2/H3 headings per article
+- ≥1 definition sentence ("X is Y") per section
+- ≥1 bulleted/numbered list per article
+- FAQ section (3 Q&A pairs) required at end of every research article
+- Full spec: `docs/ARTICLE-WRITER-CONFIG.md`

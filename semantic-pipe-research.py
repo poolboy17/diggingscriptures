@@ -260,6 +260,82 @@ def fix_banned_phrases(body):
 
 
 # ═══════════════════════════════════════════════════════════════
+# AEO HARDENING — Auto-inject FAQ + improve answer extractability
+# ═══════════════════════════════════════════════════════════════
+
+def generate_faq_from_title(title, category):
+    """
+    Generate 3 FAQ Q&A pairs from article title and category.
+    Uses pattern-matched templates seeded by the title's topic.
+    """
+    # Extract the core subject from the title
+    subject = title
+    # Strip common prefixes
+    for prefix in ['The ', 'A ', 'An ', 'How ', 'What ', 'Why ', 'When ', 'Where ', 'Who ']:
+        if subject.startswith(prefix):
+            subject = subject[len(prefix):]
+            break
+
+    category_labels = {
+        'biblical-archaeology': 'biblical archaeology',
+        'scripture': 'biblical manuscripts',
+        'excavations': 'archaeological excavations',
+        'artifacts': 'ancient artifacts',
+        'faith': 'theological studies',
+    }
+    field = category_labels.get(category, 'biblical research')
+
+    # Generate 3 question-answer templates based on patterns
+    faqs = []
+
+    # Q1: "What is..." definitional question
+    faqs.append({
+        'q': f"What is the significance of {subject.lower()} in {field}?",
+        'a': f"{title} represents an important area of study within {field}. Scholars and researchers continue to examine the evidence surrounding this topic, drawing on archaeological findings, ancient texts, and historical records to deepen our understanding."
+    })
+
+    # Q2: "What evidence..." evidentiary question
+    faqs.append({
+        'q': f"What archaeological evidence relates to {subject.lower()}?",
+        'a': f"Archaeological evidence related to {subject.lower()} includes material finds from excavation sites, inscriptions, pottery, and architectural remains. These physical discoveries help scholars evaluate historical claims and reconstruct the ancient context described in biblical and extra-biblical sources."
+    })
+
+    # Q3: "Why does... matter" relevance question
+    faqs.append({
+        'q': f"Why does {subject.lower()} matter for understanding the Bible?",
+        'a': f"Understanding {subject.lower()} provides important context for interpreting biblical narratives. By examining the historical and archaeological background, readers gain a more grounded perspective on the people, places, and events described in scripture."
+    })
+
+    return faqs
+
+
+def harden_aeo(body, title, category):
+    """
+    AEO hardening pass. Injects a FAQ section at the end of articles
+    that don't already have one. Returns modified body and list of changes.
+    """
+    changes = []
+
+    # Skip if article already has a FAQ section
+    if re.search(r'^##\s+.*(?:FAQ|Frequently Asked|Common Questions)', body, re.MULTILINE | re.I):
+        return body, changes
+
+    # Generate FAQ
+    faqs = generate_faq_from_title(title, category)
+
+    # Build markdown FAQ section
+    faq_md = "\n\n## Frequently Asked Questions\n"
+    for faq in faqs:
+        faq_md += f"\n### {faq['q']}\n\n{faq['a']}\n"
+
+    # Append to body
+    body = body.rstrip() + faq_md + "\n"
+    changes.append("Injected FAQ section (3 Q&A pairs)")
+
+    return body, changes
+
+
+# ═══════════════════════════════════════════════════════════════
 # v2.0 — MULTI-LAYER QUALITY SCORING (GEO / AEO / SXO)
 # ═══════════════════════════════════════════════════════════════
 
@@ -494,7 +570,7 @@ def load_inventory():
 
 
 # ── Core Optimizer (v2.0 with multi-layer scoring) ──────────
-def optimize_article(slug, data, dry_run=False, show_diff=False, audit_only=False):
+def optimize_article(slug, data, dry_run=False, show_diff=False, audit_only=False, aeo_harden=False):
     filepath = data['filepath']
     category = data['category']
     fm = copy.deepcopy(data['fm'])
@@ -520,7 +596,12 @@ def optimize_article(slug, data, dry_run=False, show_diff=False, audit_only=Fals
         body, bc = fix_banned_phrases(body)
         changes.extend(bc)
 
-    # 4. Legacy semantic scores
+        # 4. AEO hardening — inject FAQ section if missing
+        if aeo_harden:
+            body, ac = harden_aeo(body, fm.get('title', ''), category)
+            changes.extend(ac)
+
+    # 5. Legacy semantic scores
     plain = strip_markdown(body)
     wc = count_words(body)
     scores = compute_scores(body, plain, wc)
@@ -582,10 +663,12 @@ def optimize_article(slug, data, dry_run=False, show_diff=False, audit_only=Fals
 
 
 # ── Pipeline Runner (v2.0 with grade distribution) ──────────
-def run_pipeline(slugs, articles, threads=4, dry_run=False, show_diff=False, audit_only=False):
+def run_pipeline(slugs, articles, threads=4, dry_run=False, show_diff=False, audit_only=False, aeo_harden=False):
     print(f"\n{'='*70}")
     print(f"SemanticPipe v2.0 — Research Edition")
-    print(f"Articles: {len(slugs)} | Threads: {threads} | Mode: {'AUDIT' if audit_only else 'DRY' if dry_run else 'LIVE'}")
+    mode = 'AUDIT' if audit_only else 'DRY' if dry_run else 'LIVE'
+    if aeo_harden: mode += '+AEO'
+    print(f"Articles: {len(slugs)} | Threads: {threads} | Mode: {mode}")
     print(f"{'='*70}\n")
 
     saved, errors = [], []
@@ -593,7 +676,7 @@ def run_pipeline(slugs, articles, threads=4, dry_run=False, show_diff=False, aud
 
     def process(slug):
         try:
-            return optimize_article(slug, articles[slug], dry_run, show_diff, audit_only)
+            return optimize_article(slug, articles[slug], dry_run, show_diff, audit_only, aeo_harden)
         except Exception as e:
             return {'slug': slug, 'status': 'ERROR', 'error': str(e), 'changes': [],
                     'grade': {'grade': '?', 'pct': 0}}
@@ -700,6 +783,7 @@ def main():
     parser = argparse.ArgumentParser(description='SemanticPipe v2.0 — Research Edition')
     parser.add_argument('--dry-run', action='store_true', help='Preview without saving')
     parser.add_argument('--audit-only', action='store_true', help='Score only, no changes')
+    parser.add_argument('--aeo-harden', action='store_true', help='Inject FAQ sections for AEO')
     parser.add_argument('--all', action='store_true', help='Process all articles')
     parser.add_argument('--force', action='store_true', help='Re-optimize everything')
     parser.add_argument('--diff', action='store_true', help='Show before/after')
@@ -739,7 +823,8 @@ def main():
         sys.exit(0)
 
     run_pipeline(slugs, articles, threads=args.threads,
-                 dry_run=args.dry_run, show_diff=args.diff, audit_only=args.audit_only)
+                 dry_run=args.dry_run, show_diff=args.diff,
+                 audit_only=args.audit_only, aeo_harden=args.aeo_harden)
 
 if __name__ == '__main__':
     main()
