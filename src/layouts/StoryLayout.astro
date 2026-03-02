@@ -39,24 +39,25 @@ const {
 ---
 
 <BaseLayout title={title} description={description}>
-    <article class="story-page">
-        
+    <article class="section">
+        <div class="container">
+
         <!-- HERO IMAGE -->
         {image && (
-            <div class="hero-image mb-8 rounded-xl overflow-hidden" style="max-width:900px;margin:0 auto 2rem;">
+            <div class="hero-image mb-8 rounded-xl overflow-hidden">
                 <CdnImage src={image} alt={imageAlt || title} loading="eager" fetchpriority="high" width={1080} height={720} sizes="(max-width: 1080px) 100vw, 1080px" class="w-full object-cover rounded-xl" style="max-height:420px;" />
-                {imageCredit && <p style="font-size:0.75rem;color:#a8a29e;margin-top:0.5rem;">{imageCredit}</p>}
+                {imageCredit && <p class="text-xs text-text-light mt-2">{imageCredit}</p>}
             </div>
         )}
 
         <!-- SECTION 1: HEADER -->
-        <header class="story-header">
-            <h1>{title}</h1>
-            <p class="story-type">{storyType.replace('-', ' ')}</p>
+        <header class="mb-10">
+            <h1 class="mb-4">{title}</h1>
+            <p class="badge mb-3">{storyType.replace('-', ' ')}</p>
             {timePeriod && (
-                <p class="story-period">Time period: {timePeriod}</p>
+                <p class="text-sm text-text-muted mb-2">Time period: {timePeriod}</p>
             )}
-            <p class="story-description">{description}</p>
+            <p class="text-lg text-text-muted leading-relaxed">{description}</p>
         </header>
 
         <!-- ================================================================== -->
@@ -65,9 +66,9 @@ const {
         <!-- Monetization: FORBIDDEN -->
         <!-- Content: Descriptive, respectful, culturally sensitive -->
         <!-- ================================================================== -->
-        <section class="story-narrative">
+        <section class="content mb-10">
             {faithTraditions && faithTraditions.length > 0 && (
-                <p class="faith-traditions">
+                <p class="text-sm text-text-muted italic mb-4">
                     Associated traditions: {faithTraditions.join(', ')}
                 </p>
             )}
@@ -79,7 +80,7 @@ const {
         <!-- Purpose: Background and historical setting -->
         <!-- Monetization: FORBIDDEN -->
         <!-- ================================================================== -->
-        <section class="story-context">
+        <section class="content mb-10 pt-8 border-t border-border">
             <h2>Historical Context</h2>
             <slot name="context" />
         </section>
@@ -89,7 +90,7 @@ const {
         <!-- Purpose: Impact and continuing relevance -->
         <!-- Monetization: FORBIDDEN -->
         <!-- ================================================================== -->
-        <section class="story-legacy">
+        <section class="content mb-10 pt-8 border-t border-border">
             <h2>Legacy and Significance</h2>
             <slot name="legacy" />
         </section>
@@ -99,10 +100,11 @@ const {
         <!-- Purpose: Internal linking to related pages -->
         <!-- Monetization: FORBIDDEN -->
         <!-- ================================================================== -->
-        <section class="story-related">
-            <h2>Related Content</h2>
+        <section class="mt-12 pt-8 border-t border-border">
+            <h2 class="mb-4">Related Content</h2>
             <slot name="related" />
         </section>
 
+        </div>
     </article>
 </BaseLayout>

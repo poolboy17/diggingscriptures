@@ -40,21 +40,22 @@ const {
 ---
 
 <BaseLayout title={title} description={description}>
-    <article class="context-page">
-        
+    <article class="section">
+        <div class="container">
+
         <!-- HERO IMAGE -->
         {image && (
-            <div style="max-width:900px;margin:0 auto 2rem;border-radius:0.75rem;overflow:hidden;">
+            <div class="hero-image mb-8 rounded-xl overflow-hidden">
                 <CdnImage src={image} alt={imageAlt || title} loading="eager" fetchpriority="high" width={1080} height={720} sizes="(max-width: 1080px) 100vw, 1080px" class="w-full object-cover rounded-xl" style="max-height:420px;" />
-                {imageCredit && <p style="font-size:0.75rem;color:#a8a29e;margin-top:0.5rem;">{imageCredit}</p>}
+                {imageCredit && <p class="text-xs text-text-light mt-2">{imageCredit}</p>}
             </div>
         )}
 
         <!-- SECTION 1: HEADER -->
-        <header class="context-header">
-            <h1>{title}</h1>
-            <p class="context-type">{contextType.replace('-', ' ')}</p>
-            <p class="context-description">{description}</p>
+        <header class="mb-10">
+            <h1 class="mb-4">{title}</h1>
+            <p class="badge mb-3">{contextType.replace('-', ' ')}</p>
+            <p class="text-lg text-text-muted leading-relaxed">{description}</p>
         </header>
 
         <!-- ================================================================== -->
@@ -63,14 +64,14 @@ const {
         <!-- Monetization: FORBIDDEN -->
         <!-- Content: Factual, balanced, non-doctrinal -->
         <!-- ================================================================== -->
-        <section class="context-content">
+        <section class="content mb-10">
             {faithTraditions && faithTraditions.length > 0 && (
-                <p class="faith-traditions">
+                <p class="text-sm text-text-muted italic mb-4">
                     Related traditions: {faithTraditions.join(', ')}
                 </p>
             )}
             {regions && regions.length > 0 && (
-                <p class="regions">
+                <p class="text-sm text-text-muted italic mb-4">
                     Regions covered: {regions.join(', ')}
                 </p>
             )}
@@ -82,7 +83,7 @@ const {
         <!-- Purpose: Definitions and explanations -->
         <!-- Monetization: FORBIDDEN -->
         <!-- ================================================================== -->
-        <section class="context-concepts">
+        <section class="content mb-10 pt-8 border-t border-border">
             <h2>Key Concepts</h2>
             <slot name="concepts" />
         </section>
@@ -92,7 +93,7 @@ const {
         <!-- Purpose: Academic and authoritative sources -->
         <!-- Monetization: FORBIDDEN -->
         <!-- ================================================================== -->
-        <section class="context-sources">
+        <section class="content mb-10 pt-8 border-t border-border">
             <h2>Further Reading</h2>
             <slot name="sources" />
         </section>
@@ -102,10 +103,11 @@ const {
         <!-- Purpose: Internal linking to related pages -->
         <!-- Monetization: FORBIDDEN -->
         <!-- ================================================================== -->
-        <section class="context-related">
-            <h2>Related Content</h2>
+        <section class="mt-12 pt-8 border-t border-border">
+            <h2 class="mb-4">Related Content</h2>
             <slot name="related" />
         </section>
 
+        </div>
     </article>
 </BaseLayout>
