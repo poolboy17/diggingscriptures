@@ -636,7 +636,9 @@ def optimize_article(slug, data, dry_run=False, show_diff=False, audit_only=Fals
 
     # Save
     save_frontmatter(filepath, fm)
-    if any('Removed' in c for c in changes):
+    # Write body changes (banned phrase removal, FAQ injection, etc.)
+    body_changed = any(('Removed' in c or 'Injected' in c) for c in changes)
+    if body_changed:
         with open(filepath, "r", encoding="utf-8") as f:
             raw = f.read()
         if raw.startswith("---"):
