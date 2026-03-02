@@ -193,6 +193,47 @@ const homepageSchema = {
 
 
 <!-- ════════════════════════════════════════════════════════ -->
+<!-- FEATURED RESEARCH — Surface the 680-article silo        -->
+<!-- ════════════════════════════════════════════════════════ -->
+<section class="section container">
+    <div class="section-header">
+        <span class="section-label">Biblical Archaeology & Scripture</span>
+        <h2 class="section-title">Latest research</h2>
+    </div>
+    <div class="research-grid">
+        {researchArticles
+            .sort((a, b) => (b.data.pubDate?.getTime() || 0) - (a.data.pubDate?.getTime() || 0))
+            .slice(0, 6)
+            .map((article) => (
+                <a href={`/research/${article.data.category}/${article.slug.split('/').pop()}`} class="card block overflow-hidden">
+                    {article.data.image && (
+                        <CdnImage
+                            src={article.data.image}
+                            alt={article.data.imageAlt || article.data.title}
+                            width={480} height={320}
+                            loading="lazy"
+                            class="w-full object-cover"
+                            style="height:180px;"
+                        />
+                    )}
+                    <div class="card-body">
+                        <div class="card-meta">
+                            <span class="badge">{article.data.category.replace(/-/g, ' ').replace(/\b\w/g, (c: string) => c.toUpperCase())}</span>
+                        </div>
+                        <h3 class="text-base font-semibold text-text-dark mb-1 line-clamp-2">{article.data.title}</h3>
+                        <p class="text-sm text-text-muted line-clamp-2">{article.data.description}</p>
+                    </div>
+                </a>
+            ))
+        }
+    </div>
+    <div style="text-align:center;margin-top:2rem;">
+        <a href="/research" class="btn">Browse all {researchArticles.length} research articles &rarr;</a>
+    </div>
+</section>
+
+
+<!-- ════════════════════════════════════════════════════════ -->
 <!-- BROWSE BY TYPE — Secondary nav into content types       -->
 <!-- ════════════════════════════════════════════════════════ -->
 <section class="section container">
@@ -534,6 +575,17 @@ const homepageSchema = {
 
 .hub-row-arrow { transition: transform 0.2s; }
 .hub-row-cta:hover .hub-row-arrow { transform: translateX(2px); }
+
+
+/* ═══════════════════════════════════════════════════════ */
+/* RESEARCH GRID                                           */
+/* ═══════════════════════════════════════════════════════ */
+.research-grid {
+    display: grid; gap: 1rem;
+    grid-template-columns: 1fr;
+}
+@media (min-width: 640px) { .research-grid { grid-template-columns: repeat(2, 1fr); } }
+@media (min-width: 900px) { .research-grid { grid-template-columns: repeat(3, 1fr); } }
 
 
 /* ═══════════════════════════════════════════════════════ */
