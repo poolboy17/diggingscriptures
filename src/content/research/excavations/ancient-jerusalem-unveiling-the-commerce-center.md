@@ -11,6 +11,10 @@ imageAlt: "construction site, building, work, works, concrete, armed, cables, fo
 imageCredit: "Image by Mrdidg on Pixabay"
 imageWidth: 1280
 imageHeight: 853
+siloTier: "support"
+siloCluster: "ancient-jerusalem"
+siloParent: "/research/excavations/jerusalem-wall-niche-a-reflection-on-moral-warnings-for-corrupt-authority"
+siloPriority: 53
 ---Ancient Jerusalem: Unveiling the Commerce Center is an area of archaeological investigation that has yielded significant findings about the ancient world.
 
 This topic is part of our [research on archaeological excavations](/research/excavations).
@@ -77,7 +81,10 @@ In appreciating Jerusalem as a hub of ancient commerce, we are invited to recons
 
 Explore these related articles for deeper study:
 
+- [Unearthed Testament: Jerusalem Walls Powerful Message](/research/excavations/jerusalem-wall-niche-a-reflection-on-moral-warnings-for-corrupt-authority)
+- [Explore Jerusalem: Unveiling Ancient Artifacts from The](/research/excavations/biblical-archaeology-first-temple-period-discoveries)
 - [Unveiling Truths: Ancient Jerusalem Palace Discovery Sparks](/research/excavations/ancient-jerusalem-palace-unearthed-sparks-biblical-interest)
+- [Ancient Jerusalem Marketplace Near Temple Unveiled](/research/excavations/ancient-jerusalem-marketplace-near-temple-unveiled)
 
 ## Frequently Asked Questions
 
@@ -94,4 +101,3 @@ Research into Ancient Jerusalem's commerce center is ongoing, with new discoveri
 ### Why does ancient jerusalem: unveiling the commerce center matter for understanding the Bible?
 
 Ancient Jerusalem: Unveiling the Commerce Center is an area of archaeological investigation that has yielded significant findings about the ancient world. By examining the archaeological and historical background, readers gain a more grounded perspective on the people, places, and events described in scripture.
-

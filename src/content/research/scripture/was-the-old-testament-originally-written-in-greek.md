@@ -11,6 +11,10 @@ imageAlt: "books, library, read, shelves, shelf, reading, culture, book, edition
 imageCredit: "Image by Marisa_Sias on Pixabay"
 imageWidth: 1280
 imageHeight: 720
+siloTier: "support"
+siloCluster: "originally-written"
+siloParent: "/research/scripture/what-language-was-the-new-testament-originally-written-in"
+siloPriority: 77
 ---In the field of biblical scholarship, there is a question that often sparks curiosity and debate: Was the Old Testament originally written in Greek? This inquiry delves into the origins of one of the most significant religious texts in history and invites us to explore the complexities of its composition. Anita Love, a renowned theologian with a profound understanding of ancient biblical manuscripts, historical context, and theological implications, offers insights and analysis that shed light on this enigma. By blending academic rigor with a friendly and inclusive tone, Anita uncovers the historical foundations of the Old Testament, challenging assumptions and inspiring a deeper appreciation for the rich tapestry of these ancient writings.
 
 This topic is part of our [research on biblical scripture studies](/research/scripture).
@@ -162,7 +166,10 @@ Reviewing the evidence presented, it is evident that the Old Testament was origi
 
 Explore these related articles for deeper study:
 
-- [Are all new Testament Books Written in Greek?](/research/scripture/are-all-new-testament-books-written-in-greek)
+- [What Language was the new Testament Originally Written In?](/research/scripture/what-language-was-the-new-testament-originally-written-in)
+- [What Language was the old Testament Written In?](/research/scripture/what-language-was-the-old-testament-written-in)
+- [When was the new Testament Originally Written?](/research/scripture/when-was-the-new-testament-originally-written)
+- [Was the new Testament Originally Written in Hebrew?](/research/scripture/was-the-new-testament-originally-written-in-hebrew)
 
 ## Frequently Asked Questions
 
@@ -177,4 +184,3 @@ Hebrew was the language of the Israelites and is the dominant language found in 
 ### Why does was the old testament originally written in greek? matter for understanding the Bible?
 
 Aramaic, a related language to Hebrew, gained prominence during the Babylonian exile and is primarily found in specific portions of the Old Testament, such as parts of the books of Daniel and Ezra. By examining the archaeological and historical background, readers gain a more grounded perspective on the people, places, and events described in scripture.
-

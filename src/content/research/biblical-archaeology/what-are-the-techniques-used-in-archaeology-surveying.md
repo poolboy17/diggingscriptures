@@ -11,6 +11,10 @@ imageAlt: "museum, artifacts, antiquities, culture, history, vietnam, south east
 imageCredit: "Image by NguyenHoangThach on Pixabay"
 imageWidth: 1280
 imageHeight: 853
+siloTier: "support"
+siloCluster: "archaeology-excavation"
+siloParent: "/research/biblical-archaeology/preparing-for-fieldwork-strategies-and-techniques-in-biblical-archaeology"
+siloPriority: 29
 ---What are the Techniques Used in Archaeology Surveying? is a topic in biblical archaeology that connects ancient material evidence with scriptual narratives.
 
 This topic is part of our [research on biblical archaeology](/research/biblical-archaeology).
@@ -76,8 +80,10 @@ Both fieldwalking and GPR are valuable tools in archaeological field surveys, as
 
 Explore these related articles for deeper study:
 
+- [Preparing for Fieldwork: Strategies and Techniques in Biblical](/research/biblical-archaeology/preparing-for-fieldwork-strategies-and-techniques-in-biblical-archaeology)
 - [Biblical Archaeology Excavation Techniques Unraveled](/research/biblical-archaeology/biblical-archaeology-excavation-techniques-unraveled)
-- [What are the Methods Used in Biblical Archaeology?](/research/biblical-archaeology/what-are-the-methods-used-in-biblical-archaeology)
+- [Steps for Conducting a Proper Excavation in Biblical Archaeology](/research/biblical-archaeology/steps-for-conducting-a-proper-excavation-in-biblical-archaeology)
+- [Exciting Biblical Archaeology Excavation Finds Unearthed](/research/biblical-archaeology/exciting-biblical-archaeology-excavation-finds-unearthed)
 
 ## Frequently Asked Questions
 
@@ -92,4 +98,3 @@ In the domain of archaeology surveying, there exists a vast array of techniques 
 ### Why does are the techniques used in archaeology surveying? matter for understanding the Bible?
 
 However, what many may not realize is the significant impact that non-intrusive survey methods have on preserving delicate historical sites. By examining the archaeological and historical background, readers gain a more grounded perspective on the people, places, and events described in scripture.
-

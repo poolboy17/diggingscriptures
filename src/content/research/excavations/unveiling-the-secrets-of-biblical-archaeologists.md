@@ -11,6 +11,10 @@ imageAlt: "archaeology, excavation, sun sails, protection, sun protection, archa
 imageCredit: "Image by Efraimstochter on Pixabay"
 imageWidth: 1280
 imageHeight: 960
+siloTier: "support"
+siloCluster: "biblical-archaeologists"
+siloParent: "/research/excavations/unlocking-the-past-the-role-of-biblical-archaeologists-in-engaging-the-public"
+siloPriority: 74
 ---Unveiling the Secrets of Biblical Archaeologists is an area of archaeological investigation that has yielded significant findings about the ancient world.
 
 This topic is part of our [research on archaeological excavations](/research/excavations).
@@ -210,7 +214,10 @@ Biblical archaeology is a fascinating field of study that combines the disciplin
 
 Explore these related articles for deeper study:
 
-- [Unveiling the Secrets: the Role of Biblical Archaeologists in](/research/biblical-archaeology/unveiling-the-secrets-the-role-of-biblical-archaeologists-in-unraveling-ancient-scriptures)
+- [Unlocking the Past: the Role of Biblical Archaeologists in](/research/excavations/unlocking-the-past-the-role-of-biblical-archaeologists-in-engaging-the-public)
+- [10 Famous Biblical Archaeologists you Should Know](/research/excavations/10-famous-biblical-archaeologists-you-should-know)
+- [Discovering the Pioneers: Prominent Biblical Archaeologists](/research/excavations/discovering-the-pioneers-prominent-biblical-archaeologists)
+- [Notable Discoveries by Female Biblical Archaeologists](/research/excavations/notable-discoveries-by-female-biblical-archaeologists)
 
 ## Frequently Asked Questions
 
@@ -231,4 +238,3 @@ Early archaeologists played a crucial role in laying the foundation for biblical
 The Dead Sea Scrolls
 
 Among the most significant discoveries in biblical archaeology are the Dead Sea Scrolls. By examining the archaeological and historical background, readers gain a more grounded perspective on the people, places, and events described in scripture.
-

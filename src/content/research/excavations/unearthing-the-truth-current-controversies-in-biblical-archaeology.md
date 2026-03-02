@@ -11,6 +11,10 @@ imageAlt: "jerash, jordan, ruins, ancient, architecture, roman, archeology, pill
 imageCredit: "Image by Graham-H on Pixabay"
 imageWidth: 1280
 imageHeight: 996
+siloTier: "pillar"
+siloCluster: "truth-biblical"
+siloParent: "/research/excavations"
+siloPriority: 98
 ---Unearthing the Truth: Current Controversies in Biblical is an area of archaeological investigation that has yielded significant findings about the ancient world.
 
 This topic is part of our [research on archaeological excavations](/research/excavations).
@@ -211,6 +215,9 @@ Biblical archaeology, like all branches of archaeology, carries ethical responsi
 Explore these related articles for deeper study:
 
 - [Controversies in Biblical Archaeology: Unearthing the Truth](/research/excavations/controversies-in-biblical-archaeology-unearthing-the-truth)
+- [Unearthing the Truth: how Biblical Archaeology Shaped Religious](/research/excavations/unearthing-the-truth-how-biblical-archaeology-shaped-religious-beliefs)
+- [Unearthing the Truth: how Biblical Archaeology Unveils Ancient](/research/excavations/unearthing-the-truth-how-biblical-archaeology-unveils-ancient-laws-and-legal-systems)
+- [Unearthing the Truth: the Debate Over Authenticity in Biblical](/research/excavations/unearthing-the-truth-the-debate-over-authenticity-in-biblical-archaeology)
 
 ## Frequently Asked Questions
 
@@ -227,4 +234,3 @@ The have contributed to this field.
 ### Why does unearthing the truth: current controversies in biblical matter for understanding the Bible?
 
 Excavations in Jerusalem, for example, have revealed artifacts from the time of Jesus, such as crucifixion nails and ossuaries with inscriptions referencing individuals mentioned in the New Testament. By examining the archaeological and historical background, readers gain a more grounded perspective on the people, places, and events described in scripture.
-

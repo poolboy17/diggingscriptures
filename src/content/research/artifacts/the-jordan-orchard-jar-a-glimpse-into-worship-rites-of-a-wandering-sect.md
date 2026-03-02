@@ -11,6 +11,10 @@ imageAlt: "zen, buddha, peace, meditation, statue, sculpture, buddhism, spiritua
 imageCredit: "Image by Helena on Pixabay"
 imageWidth: 1280
 imageHeight: 812
+siloTier: "support"
+siloCluster: "ancient-biblical"
+siloParent: "/research/artifacts/what-is-the-oldest-complete-old-testament-manuscript"
+siloPriority: 74
 ---What if I told you that a simple jar can open a window into the lives of a wandering sect whose rituals and beliefs are often shrouded in mystery? The Jordan Orchard Jar, a fascinating artifact, serves as a tangible link to an ancient world that practiced unique forms of worship. This piece not only tells a story about the people who used it but also invites us to ponder the significance of religious symbols and the role they play in community identity.
 
 This topic is part of our [research on ancient artifacts](/research/artifacts).
@@ -116,7 +120,10 @@ As we reflect on these historical elements, its essential to remember that the s
 
 Explore these related articles for deeper study:
 
+- [What is the Oldest Complete old Testament Manuscript?](/research/artifacts/what-is-the-oldest-complete-old-testament-manuscript)
 - [Unlocking Secrets: how Science Preserves Ancient Biblical](/research/artifacts/preservation-methods-for-biblical-artifacts-uncovered)
+- [What is the Oldest Known Bible Artifact?](/research/artifacts/what-is-the-oldest-known-bible-artifact)
+- [Qumrans Ancient Biblical Fragments: a Radiocarbon Revelation](/research/artifacts/qumrans-biblical-fragments-and-their-dating)
 
 ## Frequently Asked Questions
 
@@ -139,4 +146,3 @@ Alongside the jar, other artifacts such as pottery, tools, and samples of agricu
 Understanding the Jordan Orchard Jar
  
 What is the Jordan Orchard Jar. By examining the archaeological and historical background, readers gain a more grounded perspective on the people, places, and events described in scripture.
-

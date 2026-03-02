@@ -11,6 +11,10 @@ imageAlt: "interior, ceiling, window, old, church, architecture, interior, ceili
 imageCredit: "Image by analogicus on Pixabay"
 imageWidth: 1280
 imageHeight: 853
+siloTier: "support"
+siloCluster: "biblical-archaeology"
+siloParent: "/research/faith/the-infamous-relics-famous-fakes-and-forgeries-in-biblical-archaeology"
+siloPriority: 68
 ---Understanding Biblical Archaeology: Decoding the Past is a theological subject that explores the intersection of faith traditions and historical evidence.
 
 This topic is part of our [research on faith and history](/research/faith).
@@ -226,7 +230,10 @@ As technology and funding opportunities advance, archaeological sites and projec
 
 Explore these related articles for deeper study:
 
-- [Decoding Ancient Myths: the Role of Biblical Archaeology](/research/faith/decoding-ancient-myths-the-role-of-biblical-archaeology)
+- [The Infamous Relics: Famous Fakes and Forgeries in Biblical](/research/faith/the-infamous-relics-famous-fakes-and-forgeries-in-biblical-archaeology)
+- [Exploring the Connections Between Biblical Archaeology and](/research/faith/exploring-the-connections-between-biblical-archaeology-and-ancient-music)
+- [Unearthed Secrets: Debunking Myths of Biblical Archaeology](/research/faith/unearthed-secrets-debunking-myths-of-biblical-archaeology)
+- [Uncovering Ancient Cities Through Biblical Archaeology](/research/faith/uncovering-ancient-cities-through-biblical-archaeology)
 
 ## Frequently Asked Questions
 
@@ -245,4 +252,3 @@ Through the excavation and examination of ancient tombs, inscriptions, and other
 ### Why does understanding biblical archaeology: decoding the past matter for understanding the Bible?
 
 Excavations led by Kathleen Kenyon in the 1950s revealed evidence of a collapsed city wall surrounding the settlement, supporting the account of its destruction described in the Book of Joshua. By examining the archaeological and historical background, readers gain a more grounded perspective on the people, places, and events described in scripture.
-

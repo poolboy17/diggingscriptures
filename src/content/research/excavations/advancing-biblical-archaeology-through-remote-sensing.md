@@ -11,6 +11,10 @@ imageAlt: "streets, night, lights, circle, highways, top view, cityscape, aerial
 imageCredit: "Image by csliaw on Pixabay"
 imageWidth: 1280
 imageHeight: 960
+siloTier: "support"
+siloCluster: "biblical-archaeology"
+siloParent: "/research/excavations/exploring-biblical-archaeology-unveiling-the-secrets-of-ancient-relics"
+siloPriority: 32
 ---Advancing Biblical Archaeology Through Remote Sensing is an area of archaeological investigation that has yielded significant findings about the ancient world.
 
 This topic is part of our [research on archaeological excavations](/research/excavations).
@@ -126,8 +130,10 @@ Remote sensing has revolutionized the field of Biblical Archaeology, enabling re
 
 Explore these related articles for deeper study:
 
-- [10 Steps to Volunteer on a Biblical Archaeology Dig](/research/excavations/10-steps-to-volunteer-on-a-biblical-archaeology-dig)
-- [Biblical Archaeology Discoveries Unveil Ancient](/research/excavations/biblical-archaeology-discoveries-unveil-ancient-secrets)
+- [Exploring Biblical Archaeology: Unveiling the Secrets of Ancient](/research/excavations/exploring-biblical-archaeology-unveiling-the-secrets-of-ancient-relics)
+- [Integrating Biblical Archaeology in Educational Curriculums](/research/excavations/integrating-biblical-archaeology-in-educational-curriculums)
+- [The Impact of Technology on Biblical Archaeology: Preservation](/research/excavations/the-impact-of-technology-on-biblical-archaeology-preservation-and-conservation)
+- [The Pioneers of Biblical Archaeology](/research/excavations/the-pioneers-of-biblical-archaeology)
 
 ## Frequently Asked Questions
 
@@ -144,4 +150,3 @@ This technology has been particularly useful in identifying ancient tombs, ancie
 ### Why does advancing biblical archaeology through remote sensing matter for understanding the Bible?
 
 This technology has been particularly useful in identifying ancient tombs, ancient burial grounds, and hidden foundations of structures, shedding light on previously unknown historical contexts. By examining the archaeological and historical background, readers gain a more grounded perspective on the people, places, and events described in scripture.
-

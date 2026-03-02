@@ -11,6 +11,10 @@ imageAlt: "scroll, feather, ink, caligraphy, hebrew, writing, characters, paper,
 imageCredit: "Image by zofiaEliyahu on Pixabay"
 imageWidth: 1280
 imageHeight: 859
+siloTier: "support"
+siloCluster: "testament-books"
+siloParent: "/research/scripture/exploring-the-old-testament-through-a-cultural-lens"
+siloPriority: 23
 ---Cherubim in the Bible: What were their True Roles in Ancient refers to a subject within biblical manuscript studies that scholars continue to investigate.
 
 This topic is part of our [research on biblical scripture studies](/research/scripture).
@@ -121,7 +125,10 @@ So, the next time you encounter a cherub, remember: behind that cute facade lies
 
 Explore these related articles for deeper study:
 
-- [Unearthing History: how Ancient Hebrew Seals Link Bible And](/research/scripture/digital-recording-of-ancient-hebrew-seals-and-their-biblical-significance)
+- [Exploring the old Testament Through a Cultural Lens](/research/scripture/exploring-the-old-testament-through-a-cultural-lens)
+- [How Does Archeology Prove the Bible is True?](/research/scripture/how-does-archeology-prove-the-bible-is-true)
+- [The Formation of the new Testament: who Added it to the Bible?](/research/scripture/the-formation-of-the-new-testament-who-added-it-to-the-bible)
+- [Which Books are Missing from the Hebrew Bible?](/research/scripture/which-books-are-missing-from-the-hebrew-bible)
 
 ## Frequently Asked Questions
 
@@ -140,4 +147,3 @@ Cherubim in the Bible: What were their True Roles in Ancient refers to a subject
 The Definition of Cherubim
  
 To start, its important to clarify exactly what cherubim are. By examining the archaeological and historical background, readers gain a more grounded perspective on the people, places, and events described in scripture.
-

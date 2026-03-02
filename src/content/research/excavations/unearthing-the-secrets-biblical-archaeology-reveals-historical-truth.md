@@ -11,6 +11,10 @@ imageAlt: "jerash, jordan, roman, gerasa, travel, architecture, ancient, histori
 imageCredit: "Image by 8834113 on Pixabay"
 imageWidth: 1280
 imageHeight: 853
+siloTier: "support"
+siloCluster: "reveals-ancient"
+siloParent: "/research/excavations/exploring-the-link-biblical-archaeology-and-the-dead-sea-scrolls"
+siloPriority: 71
 ---Unearthing the Secrets: Biblical Archaeology Reveals Historical is an area of archaeological investigation that has yielded significant findings about the ancient world.
 
 This topic is part of our [research on archaeological excavations](/research/excavations).
@@ -106,7 +110,10 @@ In the pursuit of knowledge, it is essential to address ethical considerations i
 
 Explore these related articles for deeper study:
 
-- [Unearthing the Secrets: Biblical Archaeology Reveals Ancient](/research/biblical-archaeology/unearthing-the-secrets-biblical-archaeology-reveals-ancient-burial-practices)
+- [Exploring the Link: Biblical Archaeology and the Dead sea Scrolls](/research/excavations/exploring-the-link-biblical-archaeology-and-the-dead-sea-scrolls)
+- [Unearthing the Past: Biblical Archaeology Reveals Ancient](/research/excavations/unearthing-the-past-biblical-archaeology-reveals-ancient-biblical-sites)
+- [Unlocking Secrets of Biblical Archaeology: the Dead sea Stone](/research/excavations/the-mystery-of-the-dead-sea-stone-inscription-unraveling-missing-jar-and-lost-texts)
+- [Discover Qumran: Unveiling Secrets of Biblical Archaeology](/research/excavations/qumrans-clay-jar-the-secrets-of-a-devoted-community)
 
 ## Frequently Asked Questions
 
@@ -123,4 +130,3 @@ Archaeology and history have an intimate relationship, as the physical evidence 
 ### Why does unearthing the secrets: biblical archaeology reveals historical matter for understanding the Bible?
 
 The Pilate Inscription is yet another significant discovery in Biblical archaeology. By examining the archaeological and historical background, readers gain a more grounded perspective on the people, places, and events described in scripture.
-

@@ -11,6 +11,10 @@ imageAlt: "jerash, jordan, roman, gerasa, travel, architecture, ancient, histori
 imageCredit: "Image by 8834113 on Pixabay"
 imageWidth: 1280
 imageHeight: 853
+siloTier: "support"
+siloCluster: "biblical-archaeologists"
+siloParent: "/research/excavations/unlocking-the-past-the-role-of-biblical-archaeologists-in-engaging-the-public"
+siloPriority: 41
 ---What is the Value of Biblical Archeology? is an area of archaeological investigation that has yielded significant findings about the ancient world.
 
 This topic is part of our [research on archaeological excavations](/research/excavations).
@@ -72,8 +76,10 @@ Additionally, the study of biblical archaeology enables scholars to explore the 
 
 Explore these related articles for deeper study:
 
+- [Unlocking the Past: the Role of Biblical Archaeologists in](/research/excavations/unlocking-the-past-the-role-of-biblical-archaeologists-in-engaging-the-public)
 - [What is the Science of Biblical Archeology?](/research/excavations/what-is-the-science-of-biblical-archeology)
 - [When did Biblical Archeology Start?](/research/excavations/when-did-biblical-archeology-start)
+- [Discovering the Pioneers: Prominent Biblical Archaeologists](/research/excavations/discovering-the-pioneers-prominent-biblical-archaeologists)
 
 ## Frequently Asked Questions
 
@@ -92,4 +98,3 @@ Exploring ancient biblical sites through archaeological excavations offers a pro
 ### Why does is the value of biblical archeology? matter for understanding the Bible?
 
 - Existence of Biblical Places and People: Through archaeological excavations, researchers have been able to confirm the existence of places and individuals mentioned in the Bible, shedding light on the historical accuracy of biblical accounts. By examining the archaeological and historical background, readers gain a more grounded perspective on the people, places, and events described in scripture.
-

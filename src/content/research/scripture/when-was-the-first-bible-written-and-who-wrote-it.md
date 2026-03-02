@@ -11,6 +11,10 @@ imageAlt: "qumran national park, drone footage, aerial shot, archeology park, ca
 imageCredit: "Image by samirsmier on Pixabay"
 imageWidth: 1280
 imageHeight: 720
+siloTier: "support"
+siloCluster: "first-bible"
+siloParent: "/research/scripture"
+siloPriority: 77
 ---When was the First Bible Written and who Wrote It? refers to a subject within biblical manuscript studies that scholars continue to investigate.
 
 This topic is part of our [research on biblical scripture studies](/research/scripture).
@@ -76,7 +80,10 @@ Over centuries, the Biblical text underwent a gradual evolution, culminating in 
 
 Explore these related articles for deeper study:
 
-- [What Languages Was The Bible First Written In?](/research/artifacts/what-languages-was-the-bible-first-written-in)
+- [Who Made the First Bible in the World?](/research/scripture/who-made-the-first-bible-in-the-world)
+- [Is the Ethiopian Bible the First Bible?](/research/scripture/is-the-ethiopian-bible-the-first-bible)
+- [Where was the First Bible Found?](/research/scripture/where-was-the-first-bible-found)
+- [Was the First Bible Found in Ethiopia?](/research/scripture/was-the-first-bible-found-in-ethiopia)
 
 ## Frequently Asked Questions
 
@@ -91,4 +98,3 @@ The Hebrew Bible, including texts attributed to Moses and the Book of Daniel fro
 ### Why does was the first bible written and who wrote it? matter for understanding the Bible?
 
 When was the First Bible Written and who Wrote It. By examining the archaeological and historical background, readers gain a more grounded perspective on the people, places, and events described in scripture.
-

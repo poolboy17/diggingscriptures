@@ -11,6 +11,10 @@ imageAlt: "glasses, case, reading glasses, glasses case, optically, case, case, 
 imageCredit: "Image by HOerwin56 on Pixabay"
 imageWidth: 1280
 imageHeight: 804
+siloTier: "support"
+siloCluster: "sheds-light"
+siloParent: "/research/artifacts/qumrans-empty-cave-unveiling-the-kindness-manifestos-in-fragments"
+siloPriority: 77
 ---Deciphering the Gospel: John Rylands Papyrus and Early refers to ancient material remains that provide physical evidence for understanding biblical history.
 
 This topic is part of our [research on ancient artifacts](/research/artifacts).
@@ -182,8 +186,10 @@ As the ancient meets the modern through community involvement, the papyrus trans
 
 Explore these related articles for deeper study:
 
+- [Unearthing Kindness Lessons in Qumran's Ancient Scroll: a](/research/artifacts/qumrans-empty-cave-unveiling-the-kindness-manifestos-in-fragments)
 - [New Evidence Sheds Light: The John Rylands Papyrus and its Gospel](/research/artifacts/the-john-rylands-papyrus-first-century-gospel-fragment)
-- [Deciphering Codex Vaticanus: Its Transformative Influence on](/research/artifacts/how-codex-vaticanus-shapes-our-bible-text-today)
+- [Who Wrote The First Copy Of Each Gospel?](/research/artifacts/who-wrote-the-first-copy-of-each-gospel)
+- [How Septuagint Shed Light On Early Hebrew Text](/research/artifacts/how-septuagint-shed-light-on-early-hebrew-text)
 
 ## Frequently Asked Questions
 
@@ -202,4 +208,3 @@ Unearthing the John Rylands Papyrus was akin to stumbling upon a treasure chest 
 Theological Insights:
  
  -  Snapshot of Early Christianity: The verses depicted are of profound theological importance, touching on themes of truth, testimony, and kingdom. By examining the archaeological and historical background, readers gain a more grounded perspective on the people, places, and events described in scripture.
-

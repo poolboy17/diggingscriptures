@@ -11,6 +11,10 @@ imageAlt: "books, stack, book store, stack of books, 2nd hand, retro, hipster, s
 imageCredit: "Image by EliFrancis on Pixabay"
 imageWidth: 1280
 imageHeight: 853
+siloTier: "support"
+siloCluster: "themes-testament"
+siloParent: "/research/scripture/contrasting-themes-in-the-old-testament-and-the-new-testament-4"
+siloPriority: 74
 ---Contrasting Worship in the old Testament and the new Testament refers to a subject within biblical manuscript studies that scholars continue to investigate.
 
 This topic is part of our [research on biblical scripture studies](/research/scripture).
@@ -318,6 +322,9 @@ While the Last Supper and Passover share key elements and theological connection
 Explore these related articles for deeper study:
 
 - [Contrasting Themes in the old Testament and the new Testament](/research/scripture/contrasting-themes-in-the-old-testament-and-the-new-testament-4)
+- [Exploring the Worship in the new Testament](/research/scripture/exploring-the-worship-in-the-new-testament)
+- [Worship in the old and new Testament](/research/scripture/worship-in-the-old-and-new-testament)
+- [Comparing the old Testament and the Torah](/research/scripture/comparing-the-old-testament-and-the-torah-2)
 
 ## Frequently Asked Questions
 
@@ -336,4 +343,3 @@ In the Old Testament, there is a strong focus on the law, covenant, and redempti
 Comparing Core Themes: Law, Covenant, Redemption, and Nature of God
  
 The theme of the law in the Old Testament refers to the commandments given by God to the Israelites through Moses on Mount Sinai. By examining the archaeological and historical background, readers gain a more grounded perspective on the people, places, and events described in scripture.
-

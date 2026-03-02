@@ -11,6 +11,10 @@ imageAlt: "petra, jordan, royal tombs, sand stone, antique, historically, histor
 imageCredit: "Image by ChiemSeherin on Pixabay"
 imageWidth: 1280
 imageHeight: 853
+siloTier: "support"
+siloCluster: "archaeology-reveals"
+siloParent: "/research/biblical-archaeology/unveiling-the-ancient-secrets-biblical-archaeology-reveals-the-origins-of-biblical-stories"
+siloPriority: 74
 ---Discovering the Ancient Jewish Bath House is a topic in biblical archaeology that connects ancient material evidence with scriptual narratives.
 
 This topic is part of our [research on biblical archaeology](/research/biblical-archaeology).
@@ -91,7 +95,10 @@ In summary, the discovery and study of ancient Jewish bath houses provide profou
 
 Explore these related articles for deeper study:
 
+- [Unveiling the Ancient Secrets: Biblical Archaeology Reveals the](/research/biblical-archaeology/unveiling-the-ancient-secrets-biblical-archaeology-reveals-the-origins-of-biblical-stories)
 - [Ancient Jewish Cemetery Reveals Burial Rites](/research/biblical-archaeology/ancient-jewish-cemetery-reveals-burial-rites)
+- [Unearthing Ancient Wisdom: How Biblical Archaeology Reveals](/research/biblical-archaeology/windstorm-in-judean-valley-a-call-for-moral-renewal)
+- [Biblical era Workshop Reveals Ancient Crafting Methods](/research/biblical-archaeology/biblical-era-workshop-reveals-ancient-crafting-methods)
 
 ## Frequently Asked Questions
 
@@ -114,4 +121,3 @@ Archaeological Evidence
 Specific Artifacts: The Glimpses of History
  
 The archaeological artifacts discovered at mikveh sites have proven invaluable in understanding their construction and use. By examining the archaeological and historical background, readers gain a more grounded perspective on the people, places, and events described in scripture.
-

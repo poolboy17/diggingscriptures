@@ -11,6 +11,10 @@ imageAlt: "mosaic, floor, tile, famous, antique, roman, italy, rome, museum"
 imageCredit: "Image by RGY23 on Pixabay"
 imageWidth: 1280
 imageHeight: 853
+siloTier: "support"
+siloCluster: "biblical-archaeologists"
+siloParent: "/research/faith/exploring-the-depths-the-future-of-underwater-biblical-archaeological-research"
+siloPriority: 71
 ---Unearthing the Secrets: Discoveries of Biblical Archaeologists is a theological subject that explores the intersection of faith traditions and historical evidence.
 
 This topic is part of our [research on faith and history](/research/faith).
@@ -156,7 +160,10 @@ Biblical archaeology has revealed numerous treasures and insights that have deep
 
 Explore these related articles for deeper study:
 
-- [Unearthing the Secrets: the Role of Biblical Archaeologists in](/research/faith/unveiling-the-secrets-the-role-of-biblical-archaeologists-in-deciphering-ancient-art-and-iconography)
+- [Exploring the Depths: the Future of Underwater Biblical](/research/faith/exploring-the-depths-the-future-of-underwater-biblical-archaeological-research)
+- [Unearthing Truth: the Battle of Biblical Archaeologists Against](/research/faith/unearthing-truth-the-battle-of-biblical-archaeologists-against-looting)
+- [10 Essential Tips for Aspiring Biblical Archaeologists](/research/faith/10-essential-tips-for-aspiring-biblical-archaeologists)
+- [Exploring the Secrets of Biblical Seals](/research/faith/exploring-the-secrets-of-biblical-seals)
 
 ## Frequently Asked Questions
 
@@ -173,4 +180,3 @@ Archaeological have contributed to this field.
 ### Why does unearthing the secrets: discoveries of biblical archaeologists matter for understanding the Bible?
 
 Archaeological excavations, led by British explorer Sir Charles Warren and later by Kathleen Kenyon, revealed the remains of multiple ancient cities built on top of one another, dating back to the 9th millennium BC. By examining the archaeological and historical background, readers gain a more grounded perspective on the people, places, and events described in scripture.
-

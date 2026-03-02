@@ -11,6 +11,10 @@ imageAlt: "pray, buddha statue, measure, religion, buddhism, asia, prayer, relig
 imageCredit: "Image by setthayos on Pixabay"
 imageWidth: 1280
 imageHeight: 854
+siloTier: "support"
+siloCluster: "biblical-archaeology"
+siloParent: "/research/faith/the-infamous-relics-famous-fakes-and-forgeries-in-biblical-archaeology"
+siloPriority: 53
 ---Uncovering the Mysteries: the Future of Biblical Archaeology is a theological subject that explores the intersection of faith traditions and historical evidence.
 
 This topic is part of our [research on faith and history](/research/faith).
@@ -156,7 +160,10 @@ When interpreting biblical archaeology, it is crucial to be aware of preconceive
 
 Explore these related articles for deeper study:
 
-- [Uncovering Rare Relics  how Biblical Archaeology Shapes our](/research/faith/biblical-archaeology-uncovering-rare-relics-understanding-past)
+- [The Infamous Relics: Famous Fakes and Forgeries in Biblical](/research/faith/the-infamous-relics-famous-fakes-and-forgeries-in-biblical-archaeology)
+- [Uncovering Ancient Trading Networks Through Biblical Archaeology](/research/faith/uncovering-ancient-trading-networks-through-biblical-archaeology)
+- [Uncovering Ancient Cities Through Biblical Archaeology](/research/faith/uncovering-ancient-cities-through-biblical-archaeology)
+- [Uncovering Ancient Trade Routes Through Biblical Archaeology](/research/faith/uncovering-ancient-trade-routes-through-biblical-archaeology)
 
 ## Frequently Asked Questions
 
@@ -173,4 +180,3 @@ From groundbreaking excavations to innovative research techniques, this captivat
 Remote sensing techniques
 
 Remote sensing techniques have revolutionized the way archaeological sites are discovered and studied. By examining the archaeological and historical background, readers gain a more grounded perspective on the people, places, and events described in scripture.
-

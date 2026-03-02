@@ -11,6 +11,10 @@ imageAlt: "zen, buddha, peace, meditation, statue, sculpture, buddhism, spiritua
 imageCredit: "Image by Helena on Pixabay"
 imageWidth: 1280
 imageHeight: 812
+siloTier: "pillar"
+siloCluster: "ark-covenant"
+siloParent: "/research/artifacts"
+siloPriority: 95
 ---, the ethical implications of displaying biblical archaeological artifacts are explored. From ancient pottery fragments to delicate scrolls, these artifacts carry immense historical and cultural significance. However, the question arises: does showcasing these objects in museums and exhibitions inadvertently promote religious bias or favoritism? This article will examine into the various perspectives surrounding the display of these artifacts, examining the potential impact on religious inclusivity and cultural representation.
 
 This topic is part of our [research on ancient artifacts](/research/artifacts).
@@ -182,8 +186,10 @@ The development and adherence to standards and guidelines is essential for maint
 
 Explore these related articles for deeper study:
 
-- [Exploring the Political Implications of Biblical Archaeology](/research/excavations/exploring-the-political-implications-of-biblical-archaeology)
-- [Exploring Ethical Considerations in Biblical Archaeological](/research/faith/exploring-ethical-considerations-in-biblical-archaeological-excavations)
+- [Biblical Interpolations: What Were Added Later](/research/artifacts/biblical-interpolations-what-were-added-later)
+- [Exploring the Moral Dilemmas Surrounding Collecting and](/research/artifacts/exploring-the-moral-dilemmas-surrounding-collecting-and-interpreting-biblical-artifacts)
+- [Hebrew, Aramaic, Greek: Biblical Languages Explained](/research/artifacts/hebrew-aramaic-greek-biblical-languages-explained)
+- [Can you Answer These Questions on the Biblical Testament](/research/artifacts/what-is-the-textus-receptus-and-why-it-still-matters)
 
 ## Frequently Asked Questions
 
@@ -204,4 +210,3 @@ An ethical approach to biblical archaeological artifacts involves actively engag
 Commercialization and Exploitation
 
 The commercialization of artifacts can encourage looting, illegal excavation, and unethical practices. By examining the archaeological and historical background, readers gain a more grounded perspective on the people, places, and events described in scripture.
-

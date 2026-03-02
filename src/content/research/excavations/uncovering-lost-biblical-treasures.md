@@ -11,6 +11,10 @@ imageAlt: "egyptian temple, historic site, structure, land lot, archaeological s
 imageCredit: "Image by Wael-Ezz on Pixabay"
 imageWidth: 1280
 imageHeight: 853
+siloTier: "support"
+siloCluster: "lost-biblical"
+siloParent: "/research/excavations/jericho-city-gate-the-significance-of-the-renewed-covenant-parchment"
+siloPriority: 74
 ---Uncovering Lost Biblical Treasures is an area of archaeological investigation that has yielded significant findings about the ancient world.
 
 This topic is part of our [research on archaeological excavations](/research/excavations).
@@ -82,7 +86,10 @@ Biblical archaeology has enriched our understanding of the Bible by unearthing l
 
 Explore these related articles for deeper study:
 
-- [Hidden Temple Chamber Reveals Lost Biblical Treasures](/research/biblical-archaeology/hidden-temple-chamber-reveals-lost-biblical-treasures)
+- [Exploring Ancient Jericho City Gate: Its Historical](/research/excavations/jericho-city-gate-the-significance-of-the-renewed-covenant-parchment)
+- [Lost Biblical City Found: Ancient Life Revealed](/research/excavations/lost-biblical-city-found-ancient-life-revealed)
+- [Dead sea Scroll Cave Yields Lost Biblical Text](/research/excavations/dead-sea-scroll-cave-yields-lost-biblical-text)
+- [Lost Biblical City Found: Ancient Fortress Reveals new Story](/research/excavations/lost-biblical-city-found-ancient-fortress-reveals-new-story)
 
 ## Frequently Asked Questions
 
@@ -99,4 +106,3 @@ Discovered in the 1940s, these scrolls contain fragments of biblical books, incl
 ### Why does uncovering lost biblical treasures matter for understanding the Bible?
 
 Uncovering Lost Biblical Treasures is an area of archaeological investigation that has yielded significant findings about the ancient world. By examining the archaeological and historical background, readers gain a more grounded perspective on the people, places, and events described in scripture.
-

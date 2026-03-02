@@ -1,0 +1,4762 @@
+{
+  "the-unearthing-of-ancient-temples-a-biblical-archaeological-expedition": {
+    "tier": "pillar",
+    "cluster": "biblical-archaeological",
+    "parent": "/research/biblical-archaeology",
+    "priority": 96,
+    "category": "biblical-archaeology"
+  },
+  "unearthing-the-engineering-marvels-of-biblical-times": {
+    "tier": "support",
+    "cluster": "biblical-archaeological",
+    "parent": "/research/biblical-archaeology/the-unearthing-of-ancient-temples-a-biblical-archaeological-expedition",
+    "priority": 77,
+    "category": "biblical-archaeology"
+  },
+  "embracing-the-future-new-technologies-in-biblical-archaeology": {
+    "tier": "support",
+    "cluster": "biblical-archaeological",
+    "parent": "/research/biblical-archaeology/the-unearthing-of-ancient-temples-a-biblical-archaeological-expedition",
+    "priority": 74,
+    "category": "biblical-archaeology"
+  },
+  "10-must-visit-biblical-archaeological-sites": {
+    "tier": "support",
+    "cluster": "biblical-archaeological",
+    "parent": "/research/biblical-archaeology/the-unearthing-of-ancient-temples-a-biblical-archaeological-expedition",
+    "priority": 71,
+    "category": "biblical-archaeology"
+  },
+  "navigating-political-challenges-in-middle-eastern-biblical-archaeology": {
+    "tier": "support",
+    "cluster": "biblical-archaeological",
+    "parent": "/research/biblical-archaeology/the-unearthing-of-ancient-temples-a-biblical-archaeological-expedition",
+    "priority": 68,
+    "category": "biblical-archaeology"
+  },
+  "the-role-of-statistical-analysis-in-biblical-archaeological-research": {
+    "tier": "support",
+    "cluster": "biblical-archaeological",
+    "parent": "/research/biblical-archaeology/the-unearthing-of-ancient-temples-a-biblical-archaeological-expedition",
+    "priority": 65,
+    "category": "biblical-archaeology"
+  },
+  "unveiling-the-discoveries-the-process-of-documenting-findings-in-biblical-archaeology": {
+    "tier": "support",
+    "cluster": "biblical-archaeological",
+    "parent": "/research/biblical-archaeology/the-unearthing-of-ancient-temples-a-biblical-archaeological-expedition",
+    "priority": 62,
+    "category": "biblical-archaeology"
+  },
+  "ways-to-involve-the-public-in-the-discoveries-of-biblical-archaeology": {
+    "tier": "support",
+    "cluster": "biblical-archaeological",
+    "parent": "/research/biblical-archaeology/the-unearthing-of-ancient-temples-a-biblical-archaeological-expedition",
+    "priority": 59,
+    "category": "biblical-archaeology"
+  },
+  "unearthing-truth-the-debate-over-the-reliability-of-biblical-archaeological-evidence": {
+    "tier": "support",
+    "cluster": "biblical-archaeological",
+    "parent": "/research/biblical-archaeology/the-unearthing-of-ancient-temples-a-biblical-archaeological-expedition",
+    "priority": 56,
+    "category": "biblical-archaeology"
+  },
+  "analyzing-the-role-of-peer-review-in-biblical-archaeological-research": {
+    "tier": "support",
+    "cluster": "biblical-archaeological",
+    "parent": "/research/biblical-archaeology/the-unearthing-of-ancient-temples-a-biblical-archaeological-expedition",
+    "priority": 53,
+    "category": "biblical-archaeology"
+  },
+  "decoding-the-enigma-challenges-of-conservation-in-biblical-archaeology": {
+    "tier": "support",
+    "cluster": "biblical-archaeological",
+    "parent": "/research/biblical-archaeology/the-unearthing-of-ancient-temples-a-biblical-archaeological-expedition",
+    "priority": 50,
+    "category": "biblical-archaeology"
+  },
+  "uncovering-nelson-gluecks-archaeological-legacy": {
+    "tier": "support",
+    "cluster": "biblical-archaeological",
+    "parent": "/research/biblical-archaeology/the-unearthing-of-ancient-temples-a-biblical-archaeological-expedition",
+    "priority": 47,
+    "category": "biblical-archaeology"
+  },
+  "unearthing-the-ancient-food-and-agriculture-practices-through-biblical-archaeology": {
+    "tier": "support",
+    "cluster": "biblical-archaeological",
+    "parent": "/research/biblical-archaeology/the-unearthing-of-ancient-temples-a-biblical-archaeological-expedition",
+    "priority": 44,
+    "category": "biblical-archaeology"
+  },
+  "unearthing-the-significance-the-importance-of-context-in-biblical-archaeology": {
+    "tier": "support",
+    "cluster": "biblical-archaeological",
+    "parent": "/research/biblical-archaeology/the-unearthing-of-ancient-temples-a-biblical-archaeological-expedition",
+    "priority": 41,
+    "category": "biblical-archaeology"
+  },
+  "exploring-the-impact-of-technology-in-biblical-archaeology": {
+    "tier": "support",
+    "cluster": "biblical-archaeological",
+    "parent": "/research/biblical-archaeology/the-unearthing-of-ancient-temples-a-biblical-archaeological-expedition",
+    "priority": 38,
+    "category": "biblical-archaeology"
+  },
+  "preserving-biblical-archaeological-sites-best-practices-revealed": {
+    "tier": "support",
+    "cluster": "biblical-archaeological",
+    "parent": "/research/biblical-archaeology/the-unearthing-of-ancient-temples-a-biblical-archaeological-expedition",
+    "priority": 35,
+    "category": "biblical-archaeology"
+  },
+  "exploring-the-multidisciplinary-approach-in-biblical-archaeology": {
+    "tier": "support",
+    "cluster": "biblical-archaeological",
+    "parent": "/research/biblical-archaeology/the-unearthing-of-ancient-temples-a-biblical-archaeological-expedition",
+    "priority": 32,
+    "category": "biblical-archaeology"
+  },
+  "unearthing-the-legacies-prominent-women-in-biblical-archaeology": {
+    "tier": "support",
+    "cluster": "biblical-archaeological",
+    "parent": "/research/biblical-archaeology/the-unearthing-of-ancient-temples-a-biblical-archaeological-expedition",
+    "priority": 29,
+    "category": "biblical-archaeology"
+  },
+  "exploring-the-desert-plateau-anomaly-unveiling-moral-farming-metaphors": {
+    "tier": "support",
+    "cluster": "biblical-archaeological",
+    "parent": "/research/biblical-archaeology/the-unearthing-of-ancient-temples-a-biblical-archaeological-expedition",
+    "priority": 26,
+    "category": "biblical-archaeology"
+  },
+  "ein-gedi-fallen-stones-a-testament-of-hope-in-the-barren-sands": {
+    "tier": "support",
+    "cluster": "biblical-archaeological",
+    "parent": "/research/biblical-archaeology/the-unearthing-of-ancient-temples-a-biblical-archaeological-expedition",
+    "priority": 23,
+    "category": "biblical-archaeology"
+  },
+  "the-distant-queens-visit-unearthing-the-gifts-offered-to-behold-arks-glory": {
+    "tier": "support",
+    "cluster": "biblical-archaeological",
+    "parent": "/research/biblical-archaeology/the-unearthing-of-ancient-temples-a-biblical-archaeological-expedition",
+    "priority": 20,
+    "category": "biblical-archaeology"
+  },
+  "jordan-clay-pots-unearthing-the-day-of-reckoning-in-fragments": {
+    "tier": "support",
+    "cluster": "biblical-archaeological",
+    "parent": "/research/biblical-archaeology/the-unearthing-of-ancient-temples-a-biblical-archaeological-expedition",
+    "priority": 17,
+    "category": "biblical-archaeology"
+  },
+  "angels-in-the-desert-the-en-gedi-stone-arch-and-its-significance": {
+    "tier": "support",
+    "cluster": "biblical-archaeological",
+    "parent": "/research/biblical-archaeology/the-unearthing-of-ancient-temples-a-biblical-archaeological-expedition",
+    "priority": 14,
+    "category": "biblical-archaeology"
+  },
+  "desert-fortress-the-laments-of-national-defeat-in-archaeological-context": {
+    "tier": "support",
+    "cluster": "biblical-archaeological",
+    "parent": "/research/biblical-archaeology/the-unearthing-of-ancient-temples-a-biblical-archaeological-expedition",
+    "priority": 11,
+    "category": "biblical-archaeology"
+  },
+  "unearthing-the-most-important-biblical-digs": {
+    "tier": "support",
+    "cluster": "biblical-archaeological",
+    "parent": "/research/biblical-archaeology/the-unearthing-of-ancient-temples-a-biblical-archaeological-expedition",
+    "priority": 10,
+    "category": "biblical-archaeology"
+  },
+  "top-5-historical-locations-for-biblical-archaeological-excavations": {
+    "tier": "support",
+    "cluster": "biblical-archaeological",
+    "parent": "/research/biblical-archaeology/the-unearthing-of-ancient-temples-a-biblical-archaeological-expedition",
+    "priority": 10,
+    "category": "biblical-archaeology"
+  },
+  "recent-biblical-archaeological-discoveries-shed-new-light-on-ancient-mysteries": {
+    "tier": "support",
+    "cluster": "biblical-archaeological",
+    "parent": "/research/biblical-archaeology/the-unearthing-of-ancient-temples-a-biblical-archaeological-expedition",
+    "priority": 10,
+    "category": "biblical-archaeology"
+  },
+  "donkey-kicked-boulder-a-journey-through-trials-and-tribulations": {
+    "tier": "support",
+    "cluster": "biblical-archaeological",
+    "parent": "/research/biblical-archaeology/the-unearthing-of-ancient-temples-a-biblical-archaeological-expedition",
+    "priority": 10,
+    "category": "biblical-archaeology"
+  },
+  "preserving-cultural-heritage-strategies-for-dealing-with-looting-and-illicit-trade-in-biblical-archaeology": {
+    "tier": "support",
+    "cluster": "biblical-archaeological",
+    "parent": "/research/biblical-archaeology/the-unearthing-of-ancient-temples-a-biblical-archaeological-expedition",
+    "priority": 10,
+    "category": "biblical-archaeology"
+  },
+  "monastery-remains-exploring-compassion-as-devotions-highest-ideal": {
+    "tier": "support",
+    "cluster": "biblical-archaeological",
+    "parent": "/research/biblical-archaeology/the-unearthing-of-ancient-temples-a-biblical-archaeological-expedition",
+    "priority": 10,
+    "category": "biblical-archaeology"
+  },
+  "what-is-the-study-of-biblical-archeology": {
+    "tier": "support",
+    "cluster": "biblical-archaeological",
+    "parent": "/research/biblical-archaeology/the-unearthing-of-ancient-temples-a-biblical-archaeological-expedition",
+    "priority": 10,
+    "category": "biblical-archaeology"
+  },
+  "biblical-historical-sites-unveiled": {
+    "tier": "support",
+    "cluster": "biblical-archaeological",
+    "parent": "/research/biblical-archaeology/the-unearthing-of-ancient-temples-a-biblical-archaeological-expedition",
+    "priority": 10,
+    "category": "biblical-archaeology"
+  },
+  "what-is-the-earliest-archeological-evidence-of-the-israelites": {
+    "tier": "support",
+    "cluster": "biblical-archaeological",
+    "parent": "/research/biblical-archaeology/the-unearthing-of-ancient-temples-a-biblical-archaeological-expedition",
+    "priority": 10,
+    "category": "biblical-archaeology"
+  },
+  "what-are-the-oldest-biblical-manuscripts-found": {
+    "tier": "support",
+    "cluster": "biblical-archaeological",
+    "parent": "/research/biblical-archaeology/the-unearthing-of-ancient-temples-a-biblical-archaeological-expedition",
+    "priority": 10,
+    "category": "biblical-archaeology"
+  },
+  "what-are-the-methods-used-in-biblical-archaeology": {
+    "tier": "support",
+    "cluster": "biblical-archaeological",
+    "parent": "/research/biblical-archaeology/the-unearthing-of-ancient-temples-a-biblical-archaeological-expedition",
+    "priority": 10,
+    "category": "biblical-archaeology"
+  },
+  "what-is-the-oldest-archaeological-evidence-of-israel": {
+    "tier": "support",
+    "cluster": "biblical-archaeological",
+    "parent": "/research/biblical-archaeology/the-unearthing-of-ancient-temples-a-biblical-archaeological-expedition",
+    "priority": 10,
+    "category": "biblical-archaeology"
+  },
+  "what-are-the-techniques-used-in-archaeological-fieldwork": {
+    "tier": "support",
+    "cluster": "biblical-archaeological",
+    "parent": "/research/biblical-archaeology/the-unearthing-of-ancient-temples-a-biblical-archaeological-expedition",
+    "priority": 10,
+    "category": "biblical-archaeology"
+  },
+  "what-is-the-oldest-archaeological-find-in-israel": {
+    "tier": "support",
+    "cluster": "biblical-archaeological",
+    "parent": "/research/biblical-archaeology/the-unearthing-of-ancient-temples-a-biblical-archaeological-expedition",
+    "priority": 10,
+    "category": "biblical-archaeology"
+  },
+  "hezekiahs-tunnel-plug-unraveling-the-royal-decrees-on-stone": {
+    "tier": "support",
+    "cluster": "biblical-archaeological",
+    "parent": "/research/biblical-archaeology/the-unearthing-of-ancient-temples-a-biblical-archaeological-expedition",
+    "priority": 10,
+    "category": "biblical-archaeology"
+  },
+  "what-is-the-course-on-biblical-archeology": {
+    "tier": "support",
+    "cluster": "biblical-archaeological",
+    "parent": "/research/biblical-archaeology/the-unearthing-of-ancient-temples-a-biblical-archaeological-expedition",
+    "priority": 10,
+    "category": "biblical-archaeology"
+  },
+  "what-are-the-most-recent-archaeological-discoveries-in-2023": {
+    "tier": "support",
+    "cluster": "biblical-archaeological",
+    "parent": "/research/biblical-archaeology/the-unearthing-of-ancient-temples-a-biblical-archaeological-expedition",
+    "priority": 10,
+    "category": "biblical-archaeology"
+  },
+  "what-is-the-difference-between-archeological-and-archaeological": {
+    "tier": "support",
+    "cluster": "biblical-archaeological",
+    "parent": "/research/biblical-archaeology/the-unearthing-of-ancient-temples-a-biblical-archaeological-expedition",
+    "priority": 10,
+    "category": "biblical-archaeology"
+  },
+  "what-is-the-most-recent-archaeological-discovery-2023": {
+    "tier": "support",
+    "cluster": "biblical-archaeological",
+    "parent": "/research/biblical-archaeology/the-unearthing-of-ancient-temples-a-biblical-archaeological-expedition",
+    "priority": 10,
+    "category": "biblical-archaeology"
+  },
+  "biblical-era-trading-post-unveils-solomons-wealth": {
+    "tier": "support",
+    "cluster": "biblical-archaeological",
+    "parent": "/research/biblical-archaeology/the-unearthing-of-ancient-temples-a-biblical-archaeological-expedition",
+    "priority": 10,
+    "category": "biblical-archaeology"
+  },
+  "unearthing-ancient-environmental-adaptations-through-biblical-archaeology": {
+    "tier": "pillar",
+    "cluster": "biblical-archaeology",
+    "parent": "/research/biblical-archaeology",
+    "priority": 99,
+    "category": "biblical-archaeology"
+  },
+  "the-ultimate-beginners-guide-to-biblical-archaeology": {
+    "tier": "support",
+    "cluster": "biblical-archaeology",
+    "parent": "/research/biblical-archaeology/unearthing-ancient-environmental-adaptations-through-biblical-archaeology",
+    "priority": 77,
+    "category": "biblical-archaeology"
+  },
+  "biblical-archaeology-the-mystery-of-ancient-textiles": {
+    "tier": "support",
+    "cluster": "biblical-archaeology",
+    "parent": "/research/biblical-archaeology/unearthing-ancient-environmental-adaptations-through-biblical-archaeology",
+    "priority": 74,
+    "category": "biblical-archaeology"
+  },
+  "revolutionizing-biblical-archaeology-research-with-innovations": {
+    "tier": "support",
+    "cluster": "biblical-archaeology",
+    "parent": "/research/biblical-archaeology/unearthing-ancient-environmental-adaptations-through-biblical-archaeology",
+    "priority": 71,
+    "category": "biblical-archaeology"
+  },
+  "uncovering-the-past-the-intersection-of-biblical-archaeology-and-geography": {
+    "tier": "support",
+    "cluster": "biblical-archaeology",
+    "parent": "/research/biblical-archaeology/unearthing-ancient-environmental-adaptations-through-biblical-archaeology",
+    "priority": 68,
+    "category": "biblical-archaeology"
+  },
+  "exploring-the-mysteries-exciting-careers-for-biblical-archaeologists": {
+    "tier": "support",
+    "cluster": "biblical-archaeology",
+    "parent": "/research/biblical-archaeology/unearthing-ancient-environmental-adaptations-through-biblical-archaeology",
+    "priority": 65,
+    "category": "biblical-archaeology"
+  },
+  "discover-exciting-opportunities-to-support-biblical-archaeology": {
+    "tier": "support",
+    "cluster": "biblical-archaeology",
+    "parent": "/research/biblical-archaeology/unearthing-ancient-environmental-adaptations-through-biblical-archaeology",
+    "priority": 62,
+    "category": "biblical-archaeology"
+  },
+  "examining-the-impact-of-roland-de-vaux-on-biblical-archaeology": {
+    "tier": "support",
+    "cluster": "biblical-archaeology",
+    "parent": "/research/biblical-archaeology/unearthing-ancient-environmental-adaptations-through-biblical-archaeology",
+    "priority": 59,
+    "category": "biblical-archaeology"
+  },
+  "unraveling-the-mysteries-common-challenges-faced-by-biblical-archaeologists": {
+    "tier": "support",
+    "cluster": "biblical-archaeology",
+    "parent": "/research/biblical-archaeology/unearthing-ancient-environmental-adaptations-through-biblical-archaeology",
+    "priority": 56,
+    "category": "biblical-archaeology"
+  },
+  "unearthing-the-past-the-future-of-biblical-archaeology": {
+    "tier": "support",
+    "cluster": "biblical-archaeology",
+    "parent": "/research/biblical-archaeology/unearthing-ancient-environmental-adaptations-through-biblical-archaeology",
+    "priority": 53,
+    "category": "biblical-archaeology"
+  },
+  "unveiling-the-secrets-of-biblical-archaeology-through-isotope-analysis": {
+    "tier": "support",
+    "cluster": "biblical-archaeology",
+    "parent": "/research/biblical-archaeology/unearthing-ancient-environmental-adaptations-through-biblical-archaeology",
+    "priority": 50,
+    "category": "biblical-archaeology"
+  },
+  "exploring-the-intersection-of-biblical-archaeology-and-anthropology": {
+    "tier": "support",
+    "cluster": "biblical-archaeology",
+    "parent": "/research/biblical-archaeology/unearthing-ancient-environmental-adaptations-through-biblical-archaeology",
+    "priority": 47,
+    "category": "biblical-archaeology"
+  },
+  "archaeoastronomy-uncovering-ancient-cultures-through-the-stars": {
+    "tier": "support",
+    "cluster": "biblical-archaeology",
+    "parent": "/research/biblical-archaeology/unearthing-ancient-environmental-adaptations-through-biblical-archaeology",
+    "priority": 44,
+    "category": "biblical-archaeology"
+  },
+  "biblical-archaeology-and-the-dead-sea-scrolls-in-israel": {
+    "tier": "support",
+    "cluster": "biblical-archaeology",
+    "parent": "/research/biblical-archaeology/unearthing-ancient-environmental-adaptations-through-biblical-archaeology",
+    "priority": 41,
+    "category": "biblical-archaeology"
+  },
+  "keys-to-successful-collaboration-on-biblical-archaeology-projects-with-local-communities": {
+    "tier": "support",
+    "cluster": "biblical-archaeology",
+    "parent": "/research/biblical-archaeology/unearthing-ancient-environmental-adaptations-through-biblical-archaeology",
+    "priority": 38,
+    "category": "biblical-archaeology"
+  },
+  "the-haunted-echoes-of-the-abandoned-stable-letters-from-the-past": {
+    "tier": "support",
+    "cluster": "biblical-archaeology",
+    "parent": "/research/biblical-archaeology/unearthing-ancient-environmental-adaptations-through-biblical-archaeology",
+    "priority": 35,
+    "category": "biblical-archaeology"
+  },
+  "exploring-the-significance-of-biblical-archaeology-in-cultural-heritage-preservation": {
+    "tier": "support",
+    "cluster": "biblical-archaeology",
+    "parent": "/research/biblical-archaeology/unearthing-ancient-environmental-adaptations-through-biblical-archaeology",
+    "priority": 32,
+    "category": "biblical-archaeology"
+  },
+  "crafting-trustworthy-articles-on-biblical-archaeology": {
+    "tier": "support",
+    "cluster": "biblical-archaeology",
+    "parent": "/research/biblical-archaeology/unearthing-ancient-environmental-adaptations-through-biblical-archaeology",
+    "priority": 29,
+    "category": "biblical-archaeology"
+  },
+  "exploring-the-wadi-cliff-fish-carving-insights-from-desert-depths": {
+    "tier": "support",
+    "cluster": "biblical-archaeology",
+    "parent": "/research/biblical-archaeology/unearthing-ancient-environmental-adaptations-through-biblical-archaeology",
+    "priority": 26,
+    "category": "biblical-archaeology"
+  },
+  "good-samaritan-road-a-journey-of-compassion-for-wandering-souls": {
+    "tier": "support",
+    "cluster": "biblical-archaeology",
+    "parent": "/research/biblical-archaeology/unearthing-ancient-environmental-adaptations-through-biblical-archaeology",
+    "priority": 23,
+    "category": "biblical-archaeology"
+  },
+  "buried-wine-jar-scribes-told-to-copy-without-bias-in-ancient-texts": {
+    "tier": "support",
+    "cluster": "biblical-archaeology",
+    "parent": "/research/biblical-archaeology/unearthing-ancient-environmental-adaptations-through-biblical-archaeology",
+    "priority": 20,
+    "category": "biblical-archaeology"
+  },
+  "joyous-festival-processions-at-the-city-sewer-grate-chamber": {
+    "tier": "support",
+    "cluster": "biblical-archaeology",
+    "parent": "/research/biblical-archaeology/unearthing-ancient-environmental-adaptations-through-biblical-archaeology",
+    "priority": 17,
+    "category": "biblical-archaeology"
+  },
+  "exploring-the-desert-oven-hideaway-a-study-of-sabbatical-laws-for-desert-farmers": {
+    "tier": "support",
+    "cluster": "biblical-archaeology",
+    "parent": "/research/biblical-archaeology/unearthing-ancient-environmental-adaptations-through-biblical-archaeology",
+    "priority": 14,
+    "category": "biblical-archaeology"
+  },
+  "biblical-archaeology-revelations-unearthing-ancient-truths": {
+    "tier": "support",
+    "cluster": "biblical-archaeology",
+    "parent": "/research/biblical-archaeology/unearthing-ancient-environmental-adaptations-through-biblical-archaeology",
+    "priority": 11,
+    "category": "biblical-archaeology"
+  },
+  "exploring-the-legacy-of-the-sandstorm-in-jericho-the-old-meeting-hall-and-pottery-traces": {
+    "tier": "support",
+    "cluster": "biblical-archaeology",
+    "parent": "/research/biblical-archaeology/unearthing-ancient-environmental-adaptations-through-biblical-archaeology",
+    "priority": 10,
+    "category": "biblical-archaeology"
+  },
+  "the-golden-ark-lid-unraveling-legends-of-unseen-glory": {
+    "tier": "support",
+    "cluster": "biblical-archaeology",
+    "parent": "/research/biblical-archaeology/unearthing-ancient-environmental-adaptations-through-biblical-archaeology",
+    "priority": 10,
+    "category": "biblical-archaeology"
+  },
+  "biblical-city-destruction-evidence-aligns-with-ancient-tales": {
+    "tier": "support",
+    "cluster": "biblical-archaeology",
+    "parent": "/research/biblical-archaeology/unearthing-ancient-environmental-adaptations-through-biblical-archaeology",
+    "priority": 10,
+    "category": "biblical-archaeology"
+  },
+  "what-is-the-meaning-of-biblical-archaeology": {
+    "tier": "support",
+    "cluster": "biblical-archaeology",
+    "parent": "/research/biblical-archaeology/unearthing-ancient-environmental-adaptations-through-biblical-archaeology",
+    "priority": 10,
+    "category": "biblical-archaeology"
+  },
+  "biblical-archaeology-findings-shed-light-on-ancient-mysteries": {
+    "tier": "support",
+    "cluster": "biblical-archaeology",
+    "parent": "/research/biblical-archaeology/unearthing-ancient-environmental-adaptations-through-biblical-archaeology",
+    "priority": 10,
+    "category": "biblical-archaeology"
+  },
+  "exploring-biblical-archaeology-methods-in-ancient-sites": {
+    "tier": "support",
+    "cluster": "biblical-archaeology",
+    "parent": "/research/biblical-archaeology/unearthing-ancient-environmental-adaptations-through-biblical-archaeology",
+    "priority": 10,
+    "category": "biblical-archaeology"
+  },
+  "unearthing-the-mysteries-ancient-civilizations-and-biblical-archaeology": {
+    "tier": "support",
+    "cluster": "biblical-archaeology",
+    "parent": "/research/biblical-archaeology/unearthing-ancient-environmental-adaptations-through-biblical-archaeology",
+    "priority": 10,
+    "category": "biblical-archaeology"
+  },
+  "uncovering-ancient-textile-production-through-biblical-archaeology": {
+    "tier": "support",
+    "cluster": "biblical-archaeology",
+    "parent": "/research/biblical-archaeology/unearthing-ancient-environmental-adaptations-through-biblical-archaeology",
+    "priority": 10,
+    "category": "biblical-archaeology"
+  },
+  "unearthing-ancient-livestock-a-closer-look-at-biblical-archaeology": {
+    "tier": "support",
+    "cluster": "biblical-archaeology",
+    "parent": "/research/biblical-archaeology/unearthing-ancient-environmental-adaptations-through-biblical-archaeology",
+    "priority": 10,
+    "category": "biblical-archaeology"
+  },
+  "why-is-archaeology-called-archaeology": {
+    "tier": "support",
+    "cluster": "biblical-archaeology",
+    "parent": "/research/biblical-archaeology/unearthing-ancient-environmental-adaptations-through-biblical-archaeology",
+    "priority": 10,
+    "category": "biblical-archaeology"
+  },
+  "solomons-lost-quarries-unveiled-revelations-in-temple-construction": {
+    "tier": "support",
+    "cluster": "biblical-archaeology",
+    "parent": "/research/biblical-archaeology/unearthing-ancient-environmental-adaptations-through-biblical-archaeology",
+    "priority": 10,
+    "category": "biblical-archaeology"
+  },
+  "biblical-archaeology-article-discovery-revealed": {
+    "tier": "support",
+    "cluster": "biblical-archaeology",
+    "parent": "/research/biblical-archaeology/unearthing-ancient-environmental-adaptations-through-biblical-archaeology",
+    "priority": 10,
+    "category": "biblical-archaeology"
+  },
+  "preparing-for-fieldwork-strategies-and-techniques-in-biblical-archaeology": {
+    "tier": "pillar",
+    "cluster": "archaeology-excavation",
+    "parent": "/research/biblical-archaeology",
+    "priority": 95,
+    "category": "biblical-archaeology"
+  },
+  "steps-for-conducting-a-proper-excavation-in-biblical-archaeology": {
+    "tier": "support",
+    "cluster": "archaeology-excavation",
+    "parent": "/research/biblical-archaeology/preparing-for-fieldwork-strategies-and-techniques-in-biblical-archaeology",
+    "priority": 77,
+    "category": "biblical-archaeology"
+  },
+  "exploring-the-remote-hill-shrine-relics-that-once-stood-beside-the-ark": {
+    "tier": "support",
+    "cluster": "archaeology-excavation",
+    "parent": "/research/biblical-archaeology/preparing-for-fieldwork-strategies-and-techniques-in-biblical-archaeology",
+    "priority": 74,
+    "category": "biblical-archaeology"
+  },
+  "exploring-side-canyon-shelter-a-journey-through-patience-and-deliverance-letters": {
+    "tier": "support",
+    "cluster": "archaeology-excavation",
+    "parent": "/research/biblical-archaeology/preparing-for-fieldwork-strategies-and-techniques-in-biblical-archaeology",
+    "priority": 71,
+    "category": "biblical-archaeology"
+  },
+  "exciting-biblical-archaeology-excavation-finds-unearthed": {
+    "tier": "support",
+    "cluster": "archaeology-excavation",
+    "parent": "/research/biblical-archaeology/preparing-for-fieldwork-strategies-and-techniques-in-biblical-archaeology",
+    "priority": 68,
+    "category": "biblical-archaeology"
+  },
+  "exploring-the-hidden-channel-vessel-israels-redemption-reaffirmed": {
+    "tier": "support",
+    "cluster": "archaeology-excavation",
+    "parent": "/research/biblical-archaeology/preparing-for-fieldwork-strategies-and-techniques-in-biblical-archaeology",
+    "priority": 65,
+    "category": "biblical-archaeology"
+  },
+  "biblical-archaeology-excavation-techniques-unraveled": {
+    "tier": "support",
+    "cluster": "archaeology-excavation",
+    "parent": "/research/biblical-archaeology/preparing-for-fieldwork-strategies-and-techniques-in-biblical-archaeology",
+    "priority": 62,
+    "category": "biblical-archaeology"
+  },
+  "unearthing-ancient-stone-tools-insights-from-biblical-archaeology": {
+    "tier": "support",
+    "cluster": "archaeology-excavation",
+    "parent": "/research/biblical-archaeology/preparing-for-fieldwork-strategies-and-techniques-in-biblical-archaeology",
+    "priority": 59,
+    "category": "biblical-archaeology"
+  },
+  "interpreting-biblical-archaeology-discoveries-for-insight": {
+    "tier": "support",
+    "cluster": "archaeology-excavation",
+    "parent": "/research/biblical-archaeology/preparing-for-fieldwork-strategies-and-techniques-in-biblical-archaeology",
+    "priority": 56,
+    "category": "biblical-archaeology"
+  },
+  "exploring-the-inner-essence-the-arks-balance-of-mercy-and-justice": {
+    "tier": "support",
+    "cluster": "archaeology-excavation",
+    "parent": "/research/biblical-archaeology/preparing-for-fieldwork-strategies-and-techniques-in-biblical-archaeology",
+    "priority": 53,
+    "category": "biblical-archaeology"
+  },
+  "exciting-biblical-archaeology-excavation-discoveries-unveiled": {
+    "tier": "support",
+    "cluster": "archaeology-excavation",
+    "parent": "/research/biblical-archaeology/preparing-for-fieldwork-strategies-and-techniques-in-biblical-archaeology",
+    "priority": 50,
+    "category": "biblical-archaeology"
+  },
+  "interpreting-biblical-texts-with-clarity": {
+    "tier": "support",
+    "cluster": "archaeology-excavation",
+    "parent": "/research/biblical-archaeology/preparing-for-fieldwork-strategies-and-techniques-in-biblical-archaeology",
+    "priority": 47,
+    "category": "biblical-archaeology"
+  },
+  "discoveries-in-biblical-archaeology-unearth-new-insights": {
+    "tier": "support",
+    "cluster": "archaeology-excavation",
+    "parent": "/research/biblical-archaeology/preparing-for-fieldwork-strategies-and-techniques-in-biblical-archaeology",
+    "priority": 44,
+    "category": "biblical-archaeology"
+  },
+  "interpreting-biblical-archaeology-discoveries": {
+    "tier": "support",
+    "cluster": "archaeology-excavation",
+    "parent": "/research/biblical-archaeology/preparing-for-fieldwork-strategies-and-techniques-in-biblical-archaeology",
+    "priority": 41,
+    "category": "biblical-archaeology"
+  },
+  "exploring-the-ancient-world-the-most-popular-excavation-techniques-in-biblical-archaeology": {
+    "tier": "support",
+    "cluster": "archaeology-excavation",
+    "parent": "/research/biblical-archaeology/preparing-for-fieldwork-strategies-and-techniques-in-biblical-archaeology",
+    "priority": 38,
+    "category": "biblical-archaeology"
+  },
+  "biblical-archaeology-excavation-projects-unearth-ancient-wonders": {
+    "tier": "support",
+    "cluster": "archaeology-excavation",
+    "parent": "/research/biblical-archaeology/preparing-for-fieldwork-strategies-and-techniques-in-biblical-archaeology",
+    "priority": 35,
+    "category": "biblical-archaeology"
+  },
+  "royal-seals-unearthed-from-the-first-temple-period": {
+    "tier": "support",
+    "cluster": "archaeology-excavation",
+    "parent": "/research/biblical-archaeology/preparing-for-fieldwork-strategies-and-techniques-in-biblical-archaeology",
+    "priority": 32,
+    "category": "biblical-archaeology"
+  },
+  "what-are-the-techniques-used-in-archaeology-surveying": {
+    "tier": "support",
+    "cluster": "archaeology-excavation",
+    "parent": "/research/biblical-archaeology/preparing-for-fieldwork-strategies-and-techniques-in-biblical-archaeology",
+    "priority": 29,
+    "category": "biblical-archaeology"
+  },
+  "uncovering-rare-finds-in-biblical-archaeology": {
+    "tier": "support",
+    "cluster": "archaeology-excavation",
+    "parent": "/research/biblical-archaeology/preparing-for-fieldwork-strategies-and-techniques-in-biblical-archaeology",
+    "priority": 26,
+    "category": "biblical-archaeology"
+  },
+  "new-dating-technology-in-biblical-archaeology": {
+    "tier": "support",
+    "cluster": "archaeology-excavation",
+    "parent": "/research/biblical-archaeology/preparing-for-fieldwork-strategies-and-techniques-in-biblical-archaeology",
+    "priority": 23,
+    "category": "biblical-archaeology"
+  },
+  "solomons-economic-power-unveiled-through-biblical-trading-post": {
+    "tier": "support",
+    "cluster": "archaeology-excavation",
+    "parent": "/research/biblical-archaeology/preparing-for-fieldwork-strategies-and-techniques-in-biblical-archaeology",
+    "priority": 20,
+    "category": "biblical-archaeology"
+  },
+  "exploring-biblical-archaeology-uncovering-ancient-sites": {
+    "tier": "pillar",
+    "cluster": "archaeology-ancient",
+    "parent": "/research/biblical-archaeology",
+    "priority": 97,
+    "category": "biblical-archaeology"
+  },
+  "uncovering-the-secrets-biblical-archaeology-and-its-connection-to-biblical-texts": {
+    "tier": "support",
+    "cluster": "archaeology-ancient",
+    "parent": "/research/biblical-archaeology/exploring-biblical-archaeology-uncovering-ancient-sites",
+    "priority": 77,
+    "category": "biblical-archaeology"
+  },
+  "cliffside-hollow-navigating-the-tension-between-law-and-tradition": {
+    "tier": "support",
+    "cluster": "archaeology-ancient",
+    "parent": "/research/biblical-archaeology/exploring-biblical-archaeology-uncovering-ancient-sites",
+    "priority": 74,
+    "category": "biblical-archaeology"
+  },
+  "ravine-echoes-a-journey-through-festival-music-in-a-desert-shrine": {
+    "tier": "support",
+    "cluster": "archaeology-ancient",
+    "parent": "/research/biblical-archaeology/exploring-biblical-archaeology-uncovering-ancient-sites",
+    "priority": 71,
+    "category": "biblical-archaeology"
+  },
+  "biblical-archaeology-uncovering-ancient-maritime-routes": {
+    "tier": "support",
+    "cluster": "archaeology-ancient",
+    "parent": "/research/biblical-archaeology/exploring-biblical-archaeology-uncovering-ancient-sites",
+    "priority": 68,
+    "category": "biblical-archaeology"
+  },
+  "maps-of-ancient-commerce-in-the-biblical-era": {
+    "tier": "support",
+    "cluster": "archaeology-ancient",
+    "parent": "/research/biblical-archaeology/exploring-biblical-archaeology-uncovering-ancient-sites",
+    "priority": 65,
+    "category": "biblical-archaeology"
+  },
+  "exploring-the-link-between-biblical-archaeology-and-ancient-clothing": {
+    "tier": "support",
+    "cluster": "archaeology-ancient",
+    "parent": "/research/biblical-archaeology/exploring-biblical-archaeology-uncovering-ancient-sites",
+    "priority": 62,
+    "category": "biblical-archaeology"
+  },
+  "solomons-lost-harbor-unearthing-a-maritime-trade-empire": {
+    "tier": "support",
+    "cluster": "archaeology-ancient",
+    "parent": "/research/biblical-archaeology/exploring-biblical-archaeology-uncovering-ancient-sites",
+    "priority": 59,
+    "category": "biblical-archaeology"
+  },
+  "decoding-ancient-inscriptions-unraveling-the-secrets-of-biblical-archaeology": {
+    "tier": "pillar",
+    "cluster": "ancient-secrets",
+    "parent": "/research/biblical-archaeology",
+    "priority": 95,
+    "category": "biblical-archaeology"
+  },
+  "jericho-boundary-crack-unearthing-spiritual-unity-in-ancient-contexts": {
+    "tier": "support",
+    "cluster": "ancient-secrets",
+    "parent": "/research/biblical-archaeology/decoding-ancient-inscriptions-unraveling-the-secrets-of-biblical-archaeology",
+    "priority": 77,
+    "category": "biblical-archaeology"
+  },
+  "the-secret-hideout-unveiling-the-chest-of-prophecy-debates-in-wartime": {
+    "tier": "support",
+    "cluster": "ancient-secrets",
+    "parent": "/research/biblical-archaeology/decoding-ancient-inscriptions-unraveling-the-secrets-of-biblical-archaeology",
+    "priority": 74,
+    "category": "biblical-archaeology"
+  },
+  "desert-rain-at-ein-gedi-the-interplay-of-fragile-scrolls-and-hopeful-laments": {
+    "tier": "support",
+    "cluster": "ancient-secrets",
+    "parent": "/research/biblical-archaeology/decoding-ancient-inscriptions-unraveling-the-secrets-of-biblical-archaeology",
+    "priority": 71,
+    "category": "biblical-archaeology"
+  },
+  "exploring-jerusalem-market-crafting-fellowship-amidst-oppression": {
+    "tier": "support",
+    "cluster": "ancient-secrets",
+    "parent": "/research/biblical-archaeology/decoding-ancient-inscriptions-unraveling-the-secrets-of-biblical-archaeology",
+    "priority": 68,
+    "category": "biblical-archaeology"
+  },
+  "cave-wall-message-unveiling-the-scribe-diaries-from-en-gedis-twilight": {
+    "tier": "support",
+    "cluster": "ancient-secrets",
+    "parent": "/research/biblical-archaeology/decoding-ancient-inscriptions-unraveling-the-secrets-of-biblical-archaeology",
+    "priority": 65,
+    "category": "biblical-archaeology"
+  },
+  "jericho-alcove-unveiling-the-complexities-of-occupation-in-ancient-texts": {
+    "tier": "support",
+    "cluster": "ancient-secrets",
+    "parent": "/research/biblical-archaeology/decoding-ancient-inscriptions-unraveling-the-secrets-of-biblical-archaeology",
+    "priority": 62,
+    "category": "biblical-archaeology"
+  },
+  "unearthing-the-ein-gedi-cave-flood-pottery-and-purity-rites-explored": {
+    "tier": "support",
+    "cluster": "ancient-secrets",
+    "parent": "/research/biblical-archaeology/decoding-ancient-inscriptions-unraveling-the-secrets-of-biblical-archaeology",
+    "priority": 59,
+    "category": "biblical-archaeology"
+  },
+  "exploring-the-city-of-david-cracks-insights-into-afterlife-discourse-on-tattered-scrolls": {
+    "tier": "support",
+    "cluster": "ancient-secrets",
+    "parent": "/research/biblical-archaeology/decoding-ancient-inscriptions-unraveling-the-secrets-of-biblical-archaeology",
+    "priority": 56,
+    "category": "biblical-archaeology"
+  },
+  "the-subterranean-jar-unraveling-farming-laws-for-desert-life-in-jerusalem": {
+    "tier": "support",
+    "cluster": "ancient-secrets",
+    "parent": "/research/biblical-archaeology/decoding-ancient-inscriptions-unraveling-the-secrets-of-biblical-archaeology",
+    "priority": 53,
+    "category": "biblical-archaeology"
+  },
+  "the-sealed-jar-with-no-opening-a-flowing-prophecy-like-spring-water": {
+    "tier": "support",
+    "cluster": "ancient-secrets",
+    "parent": "/research/biblical-archaeology/decoding-ancient-inscriptions-unraveling-the-secrets-of-biblical-archaeology",
+    "priority": 50,
+    "category": "biblical-archaeology"
+  },
+  "unveiling-the-jericho-underground-ramp-a-study-of-covenant-bonds-in-desert-shelters": {
+    "tier": "support",
+    "cluster": "ancient-secrets",
+    "parent": "/research/biblical-archaeology/decoding-ancient-inscriptions-unraveling-the-secrets-of-biblical-archaeology",
+    "priority": 47,
+    "category": "biblical-archaeology"
+  },
+  "rural-jericho-dwelling-insights-into-scribal-school-practices-and-labor-laws": {
+    "tier": "support",
+    "cluster": "ancient-secrets",
+    "parent": "/research/biblical-archaeology/decoding-ancient-inscriptions-unraveling-the-secrets-of-biblical-archaeology",
+    "priority": 44,
+    "category": "biblical-archaeology"
+  },
+  "the-power-of-interdisciplinary-collaboration-in-biblical-archaeology": {
+    "tier": "pillar",
+    "cluster": "ancient-biblical",
+    "parent": "/research/biblical-archaeology",
+    "priority": 94,
+    "category": "biblical-archaeology"
+  },
+  "qumran-cave-revisited-unveiling-cord-bound-texts-on-ritual-purity": {
+    "tier": "support",
+    "cluster": "ancient-biblical",
+    "parent": "/research/biblical-archaeology/the-power-of-interdisciplinary-collaboration-in-biblical-archaeology",
+    "priority": 77,
+    "category": "biblical-archaeology"
+  },
+  "desert-plateau-slab-the-exiled-teachers-call-to-steadfastness": {
+    "tier": "support",
+    "cluster": "ancient-biblical",
+    "parent": "/research/biblical-archaeology/the-power-of-interdisciplinary-collaboration-in-biblical-archaeology",
+    "priority": 74,
+    "category": "biblical-archaeology"
+  },
+  "exploring-the-power-of-collaboration-in-biblical-archaeology-research": {
+    "tier": "support",
+    "cluster": "ancient-biblical",
+    "parent": "/research/biblical-archaeology/the-power-of-interdisciplinary-collaboration-in-biblical-archaeology",
+    "priority": 71,
+    "category": "biblical-archaeology"
+  },
+  "digital-mapping-uncovers-lost-biblical-city-streets": {
+    "tier": "support",
+    "cluster": "ancient-biblical",
+    "parent": "/research/biblical-archaeology/the-power-of-interdisciplinary-collaboration-in-biblical-archaeology",
+    "priority": 68,
+    "category": "biblical-archaeology"
+  },
+  "unveiling-remarkable-biblical-archaeology-discoveries-list": {
+    "tier": "support",
+    "cluster": "archaeology-discoveries",
+    "parent": "/research/biblical-archaeology",
+    "priority": 80,
+    "category": "biblical-archaeology"
+  },
+  "unveiling-the-past-biblical-period-dating-methods": {
+    "tier": "support",
+    "cluster": "archaeology-discoveries",
+    "parent": "/research/biblical-archaeology",
+    "priority": 77,
+    "category": "biblical-archaeology"
+  },
+  "exploring-biblical-archaeology-discoveries": {
+    "tier": "support",
+    "cluster": "archaeology-discoveries",
+    "parent": "/research/biblical-archaeology",
+    "priority": 74,
+    "category": "biblical-archaeology"
+  },
+  "modern-insights-into-biblical-archaeology-discoveries": {
+    "tier": "support",
+    "cluster": "archaeology-discoveries",
+    "parent": "/research/biblical-archaeology",
+    "priority": 71,
+    "category": "biblical-archaeology"
+  },
+  "governing-temple-rites-the-secrets-of-the-museum-storeroom-box": {
+    "tier": "pillar",
+    "cluster": "discover-ancient",
+    "parent": "/research/biblical-archaeology",
+    "priority": 93,
+    "category": "biblical-archaeology"
+  },
+  "exploring-hill-country-tablets-genealogies-linking-ancient-israel": {
+    "tier": "support",
+    "cluster": "discover-ancient",
+    "parent": "/research/biblical-archaeology/governing-temple-rites-the-secrets-of-the-museum-storeroom-box",
+    "priority": 77,
+    "category": "biblical-archaeology"
+  },
+  "the-chosen-leader-unifying-the-scattered-around-the-qumran-collapsed-wall": {
+    "tier": "support",
+    "cluster": "discover-ancient",
+    "parent": "/research/biblical-archaeology/governing-temple-rites-the-secrets-of-the-museum-storeroom-box",
+    "priority": 74,
+    "category": "biblical-archaeology"
+  },
+  "stone-paving-echo-unveiling-the-rituals-of-the-past": {
+    "tier": "support",
+    "cluster": "discover-ancient",
+    "parent": "/research/biblical-archaeology/governing-temple-rites-the-secrets-of-the-museum-storeroom-box",
+    "priority": 71,
+    "category": "biblical-archaeology"
+  },
+  "ground-penetrating-radar-unveils-hidden-temple-complex": {
+    "tier": "support",
+    "cluster": "discover-ancient",
+    "parent": "/research/biblical-archaeology/governing-temple-rites-the-secrets-of-the-museum-storeroom-box",
+    "priority": 68,
+    "category": "biblical-archaeology"
+  },
+  "exploring-ancient-markets-role-in-temple-economy": {
+    "tier": "support",
+    "cluster": "discover-ancient",
+    "parent": "/research/biblical-archaeology/governing-temple-rites-the-secrets-of-the-museum-storeroom-box",
+    "priority": 65,
+    "category": "biblical-archaeology"
+  },
+  "first-temple-archive-unearths-historical-record-changes": {
+    "tier": "support",
+    "cluster": "discover-ancient",
+    "parent": "/research/biblical-archaeology/governing-temple-rites-the-secrets-of-the-museum-storeroom-box",
+    "priority": 62,
+    "category": "biblical-archaeology"
+  },
+  "dna-analysis-transforms-ancient-migration-insights": {
+    "tier": "support",
+    "cluster": "discover-ancient",
+    "parent": "/research/biblical-archaeology/governing-temple-rites-the-secrets-of-the-museum-storeroom-box",
+    "priority": 59,
+    "category": "biblical-archaeology"
+  },
+  "discovering-history-the-temple-mount-scanning-project": {
+    "tier": "support",
+    "cluster": "discover-ancient",
+    "parent": "/research/biblical-archaeology/governing-temple-rites-the-secrets-of-the-museum-storeroom-box",
+    "priority": 56,
+    "category": "biblical-archaeology"
+  },
+  "exploring-the-temple-era-gardens-in-biblical-archaeology": {
+    "tier": "support",
+    "cluster": "discover-ancient",
+    "parent": "/research/biblical-archaeology/governing-temple-rites-the-secrets-of-the-museum-storeroom-box",
+    "priority": 53,
+    "category": "biblical-archaeology"
+  },
+  "exploring-the-key-responsibilities-of-a-biblical-archaeologist": {
+    "tier": "pillar",
+    "cluster": "biblical-archaeologist",
+    "parent": "/research/biblical-archaeology",
+    "priority": 97,
+    "category": "biblical-archaeology"
+  },
+  "exploring-the-key-discoveries-of-archaeologist-kathleen-kenyon": {
+    "tier": "support",
+    "cluster": "biblical-archaeologist",
+    "parent": "/research/biblical-archaeology/exploring-the-key-responsibilities-of-a-biblical-archaeologist",
+    "priority": 77,
+    "category": "biblical-archaeology"
+  },
+  "steps-to-becoming-a-biblical-archaeologist": {
+    "tier": "support",
+    "cluster": "biblical-archaeologist",
+    "parent": "/research/biblical-archaeology/exploring-the-key-responsibilities-of-a-biblical-archaeologist",
+    "priority": 74,
+    "category": "biblical-archaeology"
+  },
+  "can-you-be-an-archaeologist-without-a-degree": {
+    "tier": "support",
+    "cluster": "biblical-archaeologist",
+    "parent": "/research/biblical-archaeology/exploring-the-key-responsibilities-of-a-biblical-archaeologist",
+    "priority": 71,
+    "category": "biblical-archaeology"
+  },
+  "is-there-a-degree-in-biblical-history": {
+    "tier": "support",
+    "cluster": "biblical-archaeologist",
+    "parent": "/research/biblical-archaeology/exploring-the-key-responsibilities-of-a-biblical-archaeologist",
+    "priority": 68,
+    "category": "biblical-archaeology"
+  },
+  "how-do-you-become-a-biblical-archaeologist": {
+    "tier": "support",
+    "cluster": "biblical-archaeologist",
+    "parent": "/research/biblical-archaeology/exploring-the-key-responsibilities-of-a-biblical-archaeologist",
+    "priority": 65,
+    "category": "biblical-archaeology"
+  },
+  "unveiling-the-secrets-the-role-of-biblical-archaeologists-in-unraveling-ancient-scriptures": {
+    "tier": "pillar",
+    "cluster": "biblical-archaeologists",
+    "parent": "/research/biblical-archaeology",
+    "priority": 96,
+    "category": "biblical-archaeology"
+  },
+  "essential-key-skills-for-a-career-in-biblical-archaeology": {
+    "tier": "support",
+    "cluster": "biblical-archaeologists",
+    "parent": "/research/biblical-archaeology/unveiling-the-secrets-the-role-of-biblical-archaeologists-in-unraveling-ancient-scriptures",
+    "priority": 77,
+    "category": "biblical-archaeology"
+  },
+  "exploring-the-techniques-employed-by-biblical-archaeologists": {
+    "tier": "support",
+    "cluster": "biblical-archaeologists",
+    "parent": "/research/biblical-archaeology/unveiling-the-secrets-the-role-of-biblical-archaeologists-in-unraveling-ancient-scriptures",
+    "priority": 74,
+    "category": "biblical-archaeology"
+  },
+  "exploring-the-key-skills-of-biblical-archaeologists": {
+    "tier": "support",
+    "cluster": "biblical-archaeologists",
+    "parent": "/research/biblical-archaeology/unveiling-the-secrets-the-role-of-biblical-archaeologists-in-unraveling-ancient-scriptures",
+    "priority": 71,
+    "category": "biblical-archaeology"
+  },
+  "unearthing-ancient-lineages-how-biblical-archaeologists-utilize-dna-analysis": {
+    "tier": "support",
+    "cluster": "biblical-archaeologists",
+    "parent": "/research/biblical-archaeology/unveiling-the-secrets-the-role-of-biblical-archaeologists-in-unraveling-ancient-scriptures",
+    "priority": 68,
+    "category": "biblical-archaeology"
+  },
+  "unearthing-the-past-how-biblical-archaeologists-piece-together-history": {
+    "tier": "support",
+    "cluster": "biblical-archaeologists",
+    "parent": "/research/biblical-archaeology/unveiling-the-secrets-the-role-of-biblical-archaeologists-in-unraveling-ancient-scriptures",
+    "priority": 65,
+    "category": "biblical-archaeology"
+  },
+  "the-ultimate-guide-to-the-best-tools-for-biblical-archaeologists": {
+    "tier": "support",
+    "cluster": "biblical-archaeologists",
+    "parent": "/research/biblical-archaeology/unveiling-the-secrets-the-role-of-biblical-archaeologists-in-unraveling-ancient-scriptures",
+    "priority": 62,
+    "category": "biblical-archaeology"
+  },
+  "what-techniques-did-archaeologists-use": {
+    "tier": "support",
+    "cluster": "biblical-archaeologists",
+    "parent": "/research/biblical-archaeology/unveiling-the-secrets-the-role-of-biblical-archaeologists-in-unraveling-ancient-scriptures",
+    "priority": 59,
+    "category": "biblical-archaeology"
+  },
+  "what-techniques-do-archaeologists-use-to-survey": {
+    "tier": "support",
+    "cluster": "biblical-archaeologists",
+    "parent": "/research/biblical-archaeology/unveiling-the-secrets-the-role-of-biblical-archaeologists-in-unraveling-ancient-scriptures",
+    "priority": 56,
+    "category": "biblical-archaeology"
+  },
+  "famous-biblical-archaeologists-and-their-discoveries": {
+    "tier": "support",
+    "cluster": "biblical-archaeologists",
+    "parent": "/research/biblical-archaeology/unveiling-the-secrets-the-role-of-biblical-archaeologists-in-unraveling-ancient-scriptures",
+    "priority": 53,
+    "category": "biblical-archaeology"
+  },
+  "what-is-the-difference-between-archaeology-and-archeology": {
+    "tier": "support",
+    "cluster": "archaeology-archeology",
+    "parent": "/research/biblical-archaeology",
+    "priority": 80,
+    "category": "biblical-archaeology"
+  },
+  "what-is-the-study-of-archeology-called": {
+    "tier": "support",
+    "cluster": "archaeology-archeology",
+    "parent": "/research/biblical-archaeology",
+    "priority": 77,
+    "category": "biblical-archaeology"
+  },
+  "why-are-there-two-different-spellings-archaeology-and-archeology": {
+    "tier": "support",
+    "cluster": "archaeology-archeology",
+    "parent": "/research/biblical-archaeology",
+    "priority": 74,
+    "category": "biblical-archaeology"
+  },
+  "is-there-a-difference-between-archaeology-and-archeology": {
+    "tier": "support",
+    "cluster": "archaeology-archeology",
+    "parent": "/research/biblical-archaeology",
+    "priority": 71,
+    "category": "biblical-archaeology"
+  },
+  "are-archeology-degrees-worth-it": {
+    "tier": "support",
+    "cluster": "archaeology-archeology",
+    "parent": "/research/biblical-archaeology",
+    "priority": 68,
+    "category": "biblical-archaeology"
+  },
+  "what-is-the-difference-between-archeology-and-historical-archeology": {
+    "tier": "support",
+    "cluster": "archaeology-archeology",
+    "parent": "/research/biblical-archaeology",
+    "priority": 65,
+    "category": "biblical-archaeology"
+  },
+  "uncharted-qumran-passage-a-journey-into-the-mysteries-of-the-dead-sea-scrolls": {
+    "tier": "pillar",
+    "cluster": "unlocking-ancient",
+    "parent": "/research/biblical-archaeology",
+    "priority": 93,
+    "category": "biblical-archaeology"
+  },
+  "mapping-the-priestly-lineages-of-qumran-old-crates-on-parchment": {
+    "tier": "support",
+    "cluster": "unlocking-ancient",
+    "parent": "/research/biblical-archaeology/uncharted-qumran-passage-a-journey-into-the-mysteries-of-the-dead-sea-scrolls",
+    "priority": 77,
+    "category": "biblical-archaeology"
+  },
+  "storage-cave-debris-unveiling-the-secrets-of-ancient-conformity": {
+    "tier": "support",
+    "cluster": "unlocking-ancient",
+    "parent": "/research/biblical-archaeology/uncharted-qumran-passage-a-journey-into-the-mysteries-of-the-dead-sea-scrolls",
+    "priority": 74,
+    "category": "biblical-archaeology"
+  },
+  "the-jordan-crossing-miracle-unveiling-the-waters-yielding-to-the-ark-bearing-priests": {
+    "tier": "support",
+    "cluster": "unlocking-ancient",
+    "parent": "/research/biblical-archaeology/uncharted-qumran-passage-a-journey-into-the-mysteries-of-the-dead-sea-scrolls",
+    "priority": 71,
+    "category": "biblical-archaeology"
+  },
+  "biblical-archaeology-discovering-ancient-temple-sites": {
+    "tier": "support",
+    "cluster": "unlocking-ancient",
+    "parent": "/research/biblical-archaeology/uncharted-qumran-passage-a-journey-into-the-mysteries-of-the-dead-sea-scrolls",
+    "priority": 68,
+    "category": "biblical-archaeology"
+  },
+  "scientific-analysis-of-temple-artifacts-and-biblical-insights": {
+    "tier": "support",
+    "cluster": "unlocking-ancient",
+    "parent": "/research/biblical-archaeology/uncharted-qumran-passage-a-journey-into-the-mysteries-of-the-dead-sea-scrolls",
+    "priority": 65,
+    "category": "biblical-archaeology"
+  },
+  "unveiling-ancient-coins-in-biblical-archaeology": {
+    "tier": "support",
+    "cluster": "unlocking-ancient",
+    "parent": "/research/biblical-archaeology/uncharted-qumran-passage-a-journey-into-the-mysteries-of-the-dead-sea-scrolls",
+    "priority": 62,
+    "category": "biblical-archaeology"
+  },
+  "scientific-dating-in-biblical-archaeology-coin-insights": {
+    "tier": "support",
+    "cluster": "unlocking-ancient",
+    "parent": "/research/biblical-archaeology/uncharted-qumran-passage-a-journey-into-the-mysteries-of-the-dead-sea-scrolls",
+    "priority": 59,
+    "category": "biblical-archaeology"
+  },
+  "advanced-imaging-illuminates-ancient-hebrew-texts": {
+    "tier": "support",
+    "cluster": "unlocking-ancient",
+    "parent": "/research/biblical-archaeology/uncharted-qumran-passage-a-journey-into-the-mysteries-of-the-dead-sea-scrolls",
+    "priority": 56,
+    "category": "biblical-archaeology"
+  },
+  "monastic-heirloom-chest-unearthing-prophetic-insights-from-the-desert": {
+    "tier": "pillar",
+    "cluster": "ancient-wisdom",
+    "parent": "/research/biblical-archaeology",
+    "priority": 93,
+    "category": "biblical-archaeology"
+  },
+  "qumran-broken-ladder-navigating-conflict-resolution-for-desert-saints": {
+    "tier": "support",
+    "cluster": "ancient-wisdom",
+    "parent": "/research/biblical-archaeology/monastic-heirloom-chest-unearthing-prophetic-insights-from-the-desert",
+    "priority": 77,
+    "category": "biblical-archaeology"
+  },
+  "the-outer-qumran-wall-collapse-an-exploration-of-covenant-curses-in-deuteronomy": {
+    "tier": "support",
+    "cluster": "ancient-wisdom",
+    "parent": "/research/biblical-archaeology/monastic-heirloom-chest-unearthing-prophetic-insights-from-the-desert",
+    "priority": 74,
+    "category": "biblical-archaeology"
+  },
+  "old-marketplace-entry-decoding-the-sacred-passages-in-times-of-crisis": {
+    "tier": "support",
+    "cluster": "ancient-wisdom",
+    "parent": "/research/biblical-archaeology/monastic-heirloom-chest-unearthing-prophetic-insights-from-the-desert",
+    "priority": 71,
+    "category": "biblical-archaeology"
+  },
+  "exploring-new-approaches-in-biblical-archaeology-research": {
+    "tier": "pillar",
+    "cluster": "latest-research",
+    "parent": "/research/biblical-archaeology",
+    "priority": 96,
+    "category": "biblical-archaeology"
+  },
+  "understanding-the-contrast-approaches-of-biblical-archaeologists-and-biblical-scholars": {
+    "tier": "support",
+    "cluster": "latest-research",
+    "parent": "/research/biblical-archaeology/exploring-new-approaches-in-biblical-archaeology-research",
+    "priority": 77,
+    "category": "biblical-archaeology"
+  },
+  "qumran-storage-surprise-unveiling-ascetic-confessions": {
+    "tier": "support",
+    "cluster": "latest-research",
+    "parent": "/research/biblical-archaeology/exploring-new-approaches-in-biblical-archaeology-research",
+    "priority": 74,
+    "category": "biblical-archaeology"
+  },
+  "royal-chronicles-an-expedition-into-arks-travels-to-outlying-territories": {
+    "tier": "support",
+    "cluster": "latest-research",
+    "parent": "/research/biblical-archaeology/exploring-new-approaches-in-biblical-archaeology-research",
+    "priority": 71,
+    "category": "biblical-archaeology"
+  },
+  "cherubim-light-a-symbol-of-hope-and-authority-in-biblical-context": {
+    "tier": "support",
+    "cluster": "latest-research",
+    "parent": "/research/biblical-archaeology/exploring-new-approaches-in-biblical-archaeology-research",
+    "priority": 68,
+    "category": "biblical-archaeology"
+  },
+  "prophets-assurance-unveiling-the-law-behind-the-arks-true-power": {
+    "tier": "support",
+    "cluster": "latest-research",
+    "parent": "/research/biblical-archaeology/exploring-new-approaches-in-biblical-archaeology-research",
+    "priority": 65,
+    "category": "biblical-archaeology"
+  },
+  "unveiling-the-ancient-secrets-biblical-archaeology-reveals-the-origins-of-biblical-stories": {
+    "tier": "pillar",
+    "cluster": "archaeology-reveals",
+    "parent": "/research/biblical-archaeology",
+    "priority": 96,
+    "category": "biblical-archaeology"
+  },
+  "windstorm-in-judean-valley-a-call-for-moral-renewal": {
+    "tier": "support",
+    "cluster": "archaeology-reveals",
+    "parent": "/research/biblical-archaeology/unveiling-the-ancient-secrets-biblical-archaeology-reveals-the-origins-of-biblical-stories",
+    "priority": 77,
+    "category": "biblical-archaeology"
+  },
+  "discovering-the-ancient-jewish-bath-house": {
+    "tier": "support",
+    "cluster": "archaeology-reveals",
+    "parent": "/research/biblical-archaeology/unveiling-the-ancient-secrets-biblical-archaeology-reveals-the-origins-of-biblical-stories",
+    "priority": 74,
+    "category": "biblical-archaeology"
+  },
+  "uncovering-ancient-secrets-biblical-archaeology-reveals-shipwrecks": {
+    "tier": "support",
+    "cluster": "archaeology-reveals",
+    "parent": "/research/biblical-archaeology/unveiling-the-ancient-secrets-biblical-archaeology-reveals-the-origins-of-biblical-stories",
+    "priority": 71,
+    "category": "biblical-archaeology"
+  },
+  "hidden-temple-chamber-reveals-lost-biblical-treasures": {
+    "tier": "support",
+    "cluster": "archaeology-reveals",
+    "parent": "/research/biblical-archaeology/unveiling-the-ancient-secrets-biblical-archaeology-reveals-the-origins-of-biblical-stories",
+    "priority": 68,
+    "category": "biblical-archaeology"
+  },
+  "biblical-era-workshop-reveals-ancient-crafting-methods": {
+    "tier": "support",
+    "cluster": "archaeology-reveals",
+    "parent": "/research/biblical-archaeology/unveiling-the-ancient-secrets-biblical-archaeology-reveals-the-origins-of-biblical-stories",
+    "priority": 65,
+    "category": "biblical-archaeology"
+  },
+  "ancient-jewish-cemetery-reveals-burial-rites": {
+    "tier": "support",
+    "cluster": "archaeology-reveals",
+    "parent": "/research/biblical-archaeology/unveiling-the-ancient-secrets-biblical-archaeology-reveals-the-origins-of-biblical-stories",
+    "priority": 62,
+    "category": "biblical-archaeology"
+  },
+  "unearthing-the-secrets-biblical-archaeology-reveals-ancient-burial-practices": {
+    "tier": "support",
+    "cluster": "archaeology-reveals",
+    "parent": "/research/biblical-archaeology/unveiling-the-ancient-secrets-biblical-archaeology-reveals-the-origins-of-biblical-stories",
+    "priority": 59,
+    "category": "biblical-archaeology"
+  },
+  "biblical-archaeology-unlocking-the-secrets-of-ancient-scripture": {
+    "tier": "pillar",
+    "cluster": "ancient-hebrew",
+    "parent": "/research/scripture",
+    "priority": 95,
+    "category": "scripture"
+  },
+  "continuity-and-discontinuity-the-relationship-between-the-old-testament-and-the-new-testament": {
+    "tier": "support",
+    "cluster": "ancient-hebrew",
+    "parent": "/research/scripture/biblical-archaeology-unlocking-the-secrets-of-ancient-scripture",
+    "priority": 77,
+    "category": "scripture"
+  },
+  "foundations-of-biblical-archaeology-uncovered": {
+    "tier": "support",
+    "cluster": "ancient-hebrew",
+    "parent": "/research/scripture/biblical-archaeology-unlocking-the-secrets-of-ancient-scripture",
+    "priority": 74,
+    "category": "scripture"
+  },
+  "ancient-hebrew-scripts-and-their-impact-on-biblical-timelines": {
+    "tier": "support",
+    "cluster": "ancient-hebrew",
+    "parent": "/research/scripture/biblical-archaeology-unlocking-the-secrets-of-ancient-scripture",
+    "priority": 71,
+    "category": "scripture"
+  },
+  "digital-recording-of-ancient-hebrew-seals-and-their-biblical-significance": {
+    "tier": "support",
+    "cluster": "ancient-hebrew",
+    "parent": "/research/scripture/biblical-archaeology-unlocking-the-secrets-of-ancient-scripture",
+    "priority": 68,
+    "category": "scripture"
+  },
+  "exploring-ancient-hebrew-homes-through-archaeology": {
+    "tier": "support",
+    "cluster": "ancient-hebrew",
+    "parent": "/research/scripture/biblical-archaeology-unlocking-the-secrets-of-ancient-scripture",
+    "priority": 65,
+    "category": "scripture"
+  },
+  "ancient-hebrew-military-camp-unearthed-in-biblical-lands": {
+    "tier": "support",
+    "cluster": "ancient-hebrew",
+    "parent": "/research/scripture/biblical-archaeology-unlocking-the-secrets-of-ancient-scripture",
+    "priority": 62,
+    "category": "scripture"
+  },
+  "ancient-hebrew-technology-unveils-temple-building-secrets": {
+    "tier": "support",
+    "cluster": "ancient-hebrew",
+    "parent": "/research/scripture/biblical-archaeology-unlocking-the-secrets-of-ancient-scripture",
+    "priority": 59,
+    "category": "scripture"
+  },
+  "ancient-hebrew-army-camp-discovery-unveils-biblical-history": {
+    "tier": "support",
+    "cluster": "ancient-hebrew",
+    "parent": "/research/scripture/biblical-archaeology-unlocking-the-secrets-of-ancient-scripture",
+    "priority": 56,
+    "category": "scripture"
+  },
+  "ancient-hebrew-time-system-decoded-at-last": {
+    "tier": "support",
+    "cluster": "ancient-hebrew",
+    "parent": "/research/scripture/biblical-archaeology-unlocking-the-secrets-of-ancient-scripture",
+    "priority": 53,
+    "category": "scripture"
+  },
+  "decoding-the-ancient-hebrew-calendar-system": {
+    "tier": "support",
+    "cluster": "ancient-hebrew",
+    "parent": "/research/scripture/biblical-archaeology-unlocking-the-secrets-of-ancient-scripture",
+    "priority": 50,
+    "category": "scripture"
+  },
+  "ancient-hebrew-technology-unlocking-temple-building-secrets": {
+    "tier": "support",
+    "cluster": "ancient-hebrew",
+    "parent": "/research/scripture/biblical-archaeology-unlocking-the-secrets-of-ancient-scripture",
+    "priority": 47,
+    "category": "scripture"
+  },
+  "exploring-a-biblical-ship-harbor-discovery": {
+    "tier": "support",
+    "cluster": "ancient-hebrew",
+    "parent": "/research/scripture/biblical-archaeology-unlocking-the-secrets-of-ancient-scripture",
+    "priority": 44,
+    "category": "scripture"
+  },
+  "exploring-the-old-testament-through-a-cultural-lens": {
+    "tier": "pillar",
+    "cluster": "testament-books",
+    "parent": "/research/scripture",
+    "priority": 100,
+    "category": "scripture"
+  },
+  "exploring-the-authenticity-of-old-testament-manuscripts": {
+    "tier": "support",
+    "cluster": "testament-books",
+    "parent": "/research/scripture/exploring-the-old-testament-through-a-cultural-lens",
+    "priority": 77,
+    "category": "scripture"
+  },
+  "the-formation-of-the-new-testament-who-added-it-to-the-bible": {
+    "tier": "support",
+    "cluster": "testament-books",
+    "parent": "/research/scripture/exploring-the-old-testament-through-a-cultural-lens",
+    "priority": 74,
+    "category": "scripture"
+  },
+  "the-significance-of-greek-and-hebrew-in-the-new-testament": {
+    "tier": "support",
+    "cluster": "testament-books",
+    "parent": "/research/scripture/exploring-the-old-testament-through-a-cultural-lens",
+    "priority": 71,
+    "category": "scripture"
+  },
+  "are-all-new-testament-books-written-in-greek": {
+    "tier": "support",
+    "cluster": "testament-books",
+    "parent": "/research/scripture/exploring-the-old-testament-through-a-cultural-lens",
+    "priority": 68,
+    "category": "scripture"
+  },
+  "the-evolution-of-the-old-testament-tracing-its-development-and-canonization": {
+    "tier": "support",
+    "cluster": "testament-books",
+    "parent": "/research/scripture/exploring-the-old-testament-through-a-cultural-lens",
+    "priority": 65,
+    "category": "scripture"
+  },
+  "when-was-the-new-testament-actually-written": {
+    "tier": "support",
+    "cluster": "testament-books",
+    "parent": "/research/scripture/exploring-the-old-testament-through-a-cultural-lens",
+    "priority": 62,
+    "category": "scripture"
+  },
+  "the-archaeology-of-the-bible-the-greatest-discoveries-from-genesis-to-the-roman-era": {
+    "tier": "support",
+    "cluster": "testament-books",
+    "parent": "/research/scripture/exploring-the-old-testament-through-a-cultural-lens",
+    "priority": 59,
+    "category": "scripture"
+  },
+  "were-the-new-testament-books-written-in-hebrew": {
+    "tier": "support",
+    "cluster": "testament-books",
+    "parent": "/research/scripture/exploring-the-old-testament-through-a-cultural-lens",
+    "priority": 56,
+    "category": "scripture"
+  },
+  "who-compiled-the-new-testament": {
+    "tier": "support",
+    "cluster": "testament-books",
+    "parent": "/research/scripture/exploring-the-old-testament-through-a-cultural-lens",
+    "priority": 53,
+    "category": "scripture"
+  },
+  "is-the-old-testament-written-in-greek-or-hebrew": {
+    "tier": "support",
+    "cluster": "testament-books",
+    "parent": "/research/scripture/exploring-the-old-testament-through-a-cultural-lens",
+    "priority": 50,
+    "category": "scripture"
+  },
+  "why-is-the-new-testament-written-in-greek-and-not-hebrew": {
+    "tier": "support",
+    "cluster": "testament-books",
+    "parent": "/research/scripture/exploring-the-old-testament-through-a-cultural-lens",
+    "priority": 47,
+    "category": "scripture"
+  },
+  "brief-overview-of-the-old-testament": {
+    "tier": "support",
+    "cluster": "testament-books",
+    "parent": "/research/scripture/exploring-the-old-testament-through-a-cultural-lens",
+    "priority": 44,
+    "category": "scripture"
+  },
+  "how-the-old-testament-got-its-name": {
+    "tier": "support",
+    "cluster": "testament-books",
+    "parent": "/research/scripture/exploring-the-old-testament-through-a-cultural-lens",
+    "priority": 41,
+    "category": "scripture"
+  },
+  "old-testament-books-written-in-aramaic": {
+    "tier": "support",
+    "cluster": "testament-books",
+    "parent": "/research/scripture/exploring-the-old-testament-through-a-cultural-lens",
+    "priority": 38,
+    "category": "scripture"
+  },
+  "are-all-the-books-of-the-old-testament-in-the-hebrew-bible": {
+    "tier": "support",
+    "cluster": "testament-books",
+    "parent": "/research/scripture/exploring-the-old-testament-through-a-cultural-lens",
+    "priority": 35,
+    "category": "scripture"
+  },
+  "which-books-are-missing-from-the-hebrew-bible": {
+    "tier": "support",
+    "cluster": "testament-books",
+    "parent": "/research/scripture/exploring-the-old-testament-through-a-cultural-lens",
+    "priority": 32,
+    "category": "scripture"
+  },
+  "was-the-original-new-testament-written-in-greek-or-hebrew": {
+    "tier": "support",
+    "cluster": "testament-books",
+    "parent": "/research/scripture/exploring-the-old-testament-through-a-cultural-lens",
+    "priority": 29,
+    "category": "scripture"
+  },
+  "exploring-the-transition-between-the-old-testament-and-the-new-testament": {
+    "tier": "support",
+    "cluster": "testament-books",
+    "parent": "/research/scripture/exploring-the-old-testament-through-a-cultural-lens",
+    "priority": 26,
+    "category": "scripture"
+  },
+  "exploring-the-significance-of-cherubim-in-biblical-archaeology": {
+    "tier": "support",
+    "cluster": "testament-books",
+    "parent": "/research/scripture/exploring-the-old-testament-through-a-cultural-lens",
+    "priority": 23,
+    "category": "scripture"
+  },
+  "what-are-the-contributions-of-archaeology-to-the-bible": {
+    "tier": "support",
+    "cluster": "testament-books",
+    "parent": "/research/scripture/exploring-the-old-testament-through-a-cultural-lens",
+    "priority": 20,
+    "category": "scripture"
+  },
+  "how-does-archeology-prove-the-bible-is-true": {
+    "tier": "support",
+    "cluster": "testament-books",
+    "parent": "/research/scripture/exploring-the-old-testament-through-a-cultural-lens",
+    "priority": 17,
+    "category": "scripture"
+  },
+  "has-archeology-ever-disproved-the-bible": {
+    "tier": "support",
+    "cluster": "testament-books",
+    "parent": "/research/scripture/exploring-the-old-testament-through-a-cultural-lens",
+    "priority": 14,
+    "category": "scripture"
+  },
+  "has-the-bible-ever-been-mistranslated": {
+    "tier": "support",
+    "cluster": "testament-books",
+    "parent": "/research/scripture/exploring-the-old-testament-through-a-cultural-lens",
+    "priority": 11,
+    "category": "scripture"
+  },
+  "what-is-the-relationship-between-the-bible-and-archaeology": {
+    "tier": "support",
+    "cluster": "testament-books",
+    "parent": "/research/scripture/exploring-the-old-testament-through-a-cultural-lens",
+    "priority": 10,
+    "category": "scripture"
+  },
+  "where-did-the-story-of-the-bible-begin": {
+    "tier": "support",
+    "cluster": "testament-books",
+    "parent": "/research/scripture/exploring-the-old-testament-through-a-cultural-lens",
+    "priority": 10,
+    "category": "scripture"
+  },
+  "where-did-the-bible-originate": {
+    "tier": "support",
+    "cluster": "testament-books",
+    "parent": "/research/scripture/exploring-the-old-testament-through-a-cultural-lens",
+    "priority": 10,
+    "category": "scripture"
+  },
+  "how-many-times-has-the-bible-been-changed": {
+    "tier": "support",
+    "cluster": "testament-books",
+    "parent": "/research/scripture/exploring-the-old-testament-through-a-cultural-lens",
+    "priority": 10,
+    "category": "scripture"
+  },
+  "has-archaeology-buried-the-bible-review": {
+    "tier": "support",
+    "cluster": "testament-books",
+    "parent": "/research/scripture/exploring-the-old-testament-through-a-cultural-lens",
+    "priority": 10,
+    "category": "scripture"
+  },
+  "the-lost-cities-of-the-bible-explorations": {
+    "tier": "support",
+    "cluster": "testament-books",
+    "parent": "/research/scripture/exploring-the-old-testament-through-a-cultural-lens",
+    "priority": 10,
+    "category": "scripture"
+  },
+  "are-there-any-archaeological-evidence-of-the-bible": {
+    "tier": "support",
+    "cluster": "archaeological-evidence",
+    "parent": "/research/scripture",
+    "priority": 80,
+    "category": "scripture"
+  },
+  "what-is-the-oldest-archaeological-evidence-of-the-bible": {
+    "tier": "support",
+    "cluster": "archaeological-evidence",
+    "parent": "/research/scripture",
+    "priority": 77,
+    "category": "scripture"
+  },
+  "what-is-the-earliest-archaeological-evidence-of-the-bible": {
+    "tier": "support",
+    "cluster": "archaeological-evidence",
+    "parent": "/research/scripture",
+    "priority": 74,
+    "category": "scripture"
+  },
+  "how-many-different-versions-of-the-bible-are-there": {
+    "tier": "support",
+    "cluster": "archaeological-evidence",
+    "parent": "/research/scripture",
+    "priority": 71,
+    "category": "scripture"
+  },
+  "contrasting-themes-in-the-old-testament-and-the-new-testament-4": {
+    "tier": "pillar",
+    "cluster": "themes-testament",
+    "parent": "/research/scripture",
+    "priority": 100,
+    "category": "scripture"
+  },
+  "comparing-the-old-testament-and-the-torah-2": {
+    "tier": "support",
+    "cluster": "themes-testament",
+    "parent": "/research/scripture/contrasting-themes-in-the-old-testament-and-the-new-testament-4",
+    "priority": 77,
+    "category": "scripture"
+  },
+  "contrasting-worship-in-the-old-testament-and-the-new-testament": {
+    "tier": "support",
+    "cluster": "themes-testament",
+    "parent": "/research/scripture/contrasting-themes-in-the-old-testament-and-the-new-testament-4",
+    "priority": 74,
+    "category": "scripture"
+  },
+  "comparing-the-old-testament-and-the-new-testament": {
+    "tier": "support",
+    "cluster": "themes-testament",
+    "parent": "/research/scripture/contrasting-themes-in-the-old-testament-and-the-new-testament-4",
+    "priority": 71,
+    "category": "scripture"
+  },
+  "central-themes-in-the-old-testament-and-the-new-testament": {
+    "tier": "support",
+    "cluster": "themes-testament",
+    "parent": "/research/scripture/contrasting-themes-in-the-old-testament-and-the-new-testament-4",
+    "priority": 68,
+    "category": "scripture"
+  },
+  "comparing-themes-in-the-old-testament-and-the-new-testament": {
+    "tier": "support",
+    "cluster": "themes-testament",
+    "parent": "/research/scripture/contrasting-themes-in-the-old-testament-and-the-new-testament-4",
+    "priority": 65,
+    "category": "scripture"
+  },
+  "worship-in-the-old-and-new-testament": {
+    "tier": "support",
+    "cluster": "themes-testament",
+    "parent": "/research/scripture/contrasting-themes-in-the-old-testament-and-the-new-testament-4",
+    "priority": 62,
+    "category": "scripture"
+  },
+  "exploring-the-worship-in-the-new-testament": {
+    "tier": "support",
+    "cluster": "themes-testament",
+    "parent": "/research/scripture/contrasting-themes-in-the-old-testament-and-the-new-testament-4",
+    "priority": 59,
+    "category": "scripture"
+  },
+  "comparing-old-testament-and-new-testament-themes": {
+    "tier": "pillar",
+    "cluster": "testament-themes",
+    "parent": "/research/scripture",
+    "priority": 100,
+    "category": "scripture"
+  },
+  "comparing-the-old-testament-and-new-testament-themes": {
+    "tier": "support",
+    "cluster": "testament-themes",
+    "parent": "/research/scripture/comparing-old-testament-and-new-testament-themes",
+    "priority": 77,
+    "category": "scripture"
+  },
+  "understanding-the-old-testament-in-jesuss-time": {
+    "tier": "support",
+    "cluster": "testament-themes",
+    "parent": "/research/scripture/comparing-old-testament-and-new-testament-themes",
+    "priority": 74,
+    "category": "scripture"
+  },
+  "the-significance-of-the-old-testament-in-understanding-the-new-testament": {
+    "tier": "support",
+    "cluster": "testament-themes",
+    "parent": "/research/scripture/comparing-old-testament-and-new-testament-themes",
+    "priority": 71,
+    "category": "scripture"
+  },
+  "the-old-testament-exploring-themes-genres-and-historical-contexts": {
+    "tier": "support",
+    "cluster": "testament-themes",
+    "parent": "/research/scripture/comparing-old-testament-and-new-testament-themes",
+    "priority": 68,
+    "category": "scripture"
+  },
+  "the-translation-of-the-old-testament-a-historical-perspective": {
+    "tier": "support",
+    "cluster": "testament-themes",
+    "parent": "/research/scripture/comparing-old-testament-and-new-testament-themes",
+    "priority": 65,
+    "category": "scripture"
+  },
+  "the-historical-accuracy-of-the-new-testament": {
+    "tier": "support",
+    "cluster": "testament-themes",
+    "parent": "/research/scripture/comparing-old-testament-and-new-testament-themes",
+    "priority": 62,
+    "category": "scripture"
+  },
+  "understanding-the-purpose-of-the-old-testament": {
+    "tier": "support",
+    "cluster": "testament-themes",
+    "parent": "/research/scripture/comparing-old-testament-and-new-testament-themes",
+    "priority": 59,
+    "category": "scripture"
+  },
+  "understanding-jesus-in-the-old-testament": {
+    "tier": "support",
+    "cluster": "testament-themes",
+    "parent": "/research/scripture/comparing-old-testament-and-new-testament-themes",
+    "priority": 56,
+    "category": "scripture"
+  },
+  "understanding-the-old-testament-exploring-themes-and-contexts": {
+    "tier": "support",
+    "cluster": "testament-themes",
+    "parent": "/research/scripture/comparing-old-testament-and-new-testament-themes",
+    "priority": 53,
+    "category": "scripture"
+  },
+  "why-is-it-called-old-testament-and-new-testament": {
+    "tier": "pillar",
+    "cluster": "testament-testament",
+    "parent": "/research/scripture",
+    "priority": 100,
+    "category": "scripture"
+  },
+  "the-connection-between-the-old-testament-and-the-new-testament": {
+    "tier": "support",
+    "cluster": "testament-testament",
+    "parent": "/research/scripture/why-is-it-called-old-testament-and-new-testament",
+    "priority": 77,
+    "category": "scripture"
+  },
+  "what-is-the-old-testament-called": {
+    "tier": "support",
+    "cluster": "testament-testament",
+    "parent": "/research/scripture/why-is-it-called-old-testament-and-new-testament",
+    "priority": 74,
+    "category": "scripture"
+  },
+  "the-historical-context-of-the-old-testament-and-the-new-testament": {
+    "tier": "support",
+    "cluster": "testament-testament",
+    "parent": "/research/scripture/why-is-it-called-old-testament-and-new-testament",
+    "priority": 71,
+    "category": "scripture"
+  },
+  "why-is-the-old-testament-called-the-old-testament": {
+    "tier": "support",
+    "cluster": "testament-testament",
+    "parent": "/research/scripture/why-is-it-called-old-testament-and-new-testament",
+    "priority": 68,
+    "category": "scripture"
+  },
+  "the-influence-of-cultural-context-on-old-testament-narratives": {
+    "tier": "support",
+    "cluster": "testament-testament",
+    "parent": "/research/scripture/why-is-it-called-old-testament-and-new-testament",
+    "priority": 65,
+    "category": "scripture"
+  },
+  "should-i-read-the-new-testament-or-the-old-testament-first": {
+    "tier": "support",
+    "cluster": "testament-testament",
+    "parent": "/research/scripture/why-is-it-called-old-testament-and-new-testament",
+    "priority": 62,
+    "category": "scripture"
+  },
+  "what-is-the-original-new-testament-called": {
+    "tier": "support",
+    "cluster": "testament-testament",
+    "parent": "/research/scripture/why-is-it-called-old-testament-and-new-testament",
+    "priority": 59,
+    "category": "scripture"
+  },
+  "connecting-the-old-testament-and-the-new-testament": {
+    "tier": "support",
+    "cluster": "testament-testament",
+    "parent": "/research/scripture/why-is-it-called-old-testament-and-new-testament",
+    "priority": 56,
+    "category": "scripture"
+  },
+  "exploring-the-language-of-the-old-testament": {
+    "tier": "pillar",
+    "cluster": "language-testament",
+    "parent": "/research/scripture",
+    "priority": 100,
+    "category": "scripture"
+  },
+  "the-language-of-the-new-testament-exploring-its-origins": {
+    "tier": "support",
+    "cluster": "language-testament",
+    "parent": "/research/scripture/exploring-the-language-of-the-old-testament",
+    "priority": 77,
+    "category": "scripture"
+  },
+  "the-origins-of-the-old-testament": {
+    "tier": "support",
+    "cluster": "language-testament",
+    "parent": "/research/scripture/exploring-the-language-of-the-old-testament",
+    "priority": 74,
+    "category": "scripture"
+  },
+  "language-of-the-old-testament-exploring-the-scriptures": {
+    "tier": "support",
+    "cluster": "language-testament",
+    "parent": "/research/scripture/exploring-the-language-of-the-old-testament",
+    "priority": 71,
+    "category": "scripture"
+  },
+  "the-language-of-the-old-testament-exploring-its-original-writing": {
+    "tier": "support",
+    "cluster": "language-testament",
+    "parent": "/research/scripture/exploring-the-language-of-the-old-testament",
+    "priority": 68,
+    "category": "scripture"
+  },
+  "the-original-language-of-the-new-testament": {
+    "tier": "support",
+    "cluster": "language-testament",
+    "parent": "/research/scripture/exploring-the-language-of-the-old-testament",
+    "priority": 65,
+    "category": "scripture"
+  },
+  "oldest-writing-in-the-old-testament": {
+    "tier": "support",
+    "cluster": "language-testament",
+    "parent": "/research/scripture/exploring-the-language-of-the-old-testament",
+    "priority": 62,
+    "category": "scripture"
+  },
+  "understanding-the-original-language-of-the-new-testament": {
+    "tier": "support",
+    "cluster": "language-testament",
+    "parent": "/research/scripture/exploring-the-language-of-the-old-testament",
+    "priority": 59,
+    "category": "scripture"
+  },
+  "the-language-of-the-original-old-testament-exploring-ancient-biblical-manuscripts": {
+    "tier": "support",
+    "cluster": "language-testament",
+    "parent": "/research/scripture/exploring-the-language-of-the-old-testament",
+    "priority": 56,
+    "category": "scripture"
+  },
+  "the-materials-used-for-writing-the-old-testament": {
+    "tier": "support",
+    "cluster": "language-testament",
+    "parent": "/research/scripture/exploring-the-language-of-the-old-testament",
+    "priority": 53,
+    "category": "scripture"
+  },
+  "the-original-language-of-the-new-testament-bible": {
+    "tier": "support",
+    "cluster": "language-testament",
+    "parent": "/research/scripture/exploring-the-language-of-the-old-testament",
+    "priority": 50,
+    "category": "scripture"
+  },
+  "what-language-was-the-new-testament-first-written-in": {
+    "tier": "support",
+    "cluster": "language-testament",
+    "parent": "/research/scripture/exploring-the-language-of-the-old-testament",
+    "priority": 47,
+    "category": "scripture"
+  },
+  "have-the-original-books-of-the-bible-been-found": {
+    "tier": "support",
+    "cluster": "original-books",
+    "parent": "/research/scripture",
+    "priority": 80,
+    "category": "scripture"
+  },
+  "where-were-the-original-books-of-the-bible-found": {
+    "tier": "support",
+    "cluster": "original-books",
+    "parent": "/research/scripture",
+    "priority": 77,
+    "category": "scripture"
+  },
+  "where-was-the-bible-originally-found": {
+    "tier": "support",
+    "cluster": "original-books",
+    "parent": "/research/scripture",
+    "priority": 74,
+    "category": "scripture"
+  },
+  "do-any-of-the-original-books-of-the-bible-still-exist": {
+    "tier": "support",
+    "cluster": "original-books",
+    "parent": "/research/scripture",
+    "priority": 71,
+    "category": "scripture"
+  },
+  "does-the-original-bible-still-exist": {
+    "tier": "support",
+    "cluster": "original-books",
+    "parent": "/research/scripture",
+    "priority": 68,
+    "category": "scripture"
+  },
+  "are-the-original-books-of-the-bible-still-in-existence": {
+    "tier": "support",
+    "cluster": "original-books",
+    "parent": "/research/scripture",
+    "priority": 65,
+    "category": "scripture"
+  },
+  "where-did-the-original-books-of-the-bible-come-from": {
+    "tier": "support",
+    "cluster": "original-books",
+    "parent": "/research/scripture",
+    "priority": 62,
+    "category": "scripture"
+  },
+  "how-many-ancient-manuscripts-of-the-bible-have-been-found": {
+    "tier": "support",
+    "cluster": "original-books",
+    "parent": "/research/scripture",
+    "priority": 59,
+    "category": "scripture"
+  },
+  "is-ethiopian-bible-accurate": {
+    "tier": "support",
+    "cluster": "ethiopian-bible",
+    "parent": "/research/scripture",
+    "priority": 80,
+    "category": "scripture"
+  },
+  "how-does-the-ethiopian-bible-differ-from-the-bible": {
+    "tier": "support",
+    "cluster": "ethiopian-bible",
+    "parent": "/research/scripture",
+    "priority": 77,
+    "category": "scripture"
+  },
+  "is-the-ethiopian-bible-the-most-accurate": {
+    "tier": "support",
+    "cluster": "ethiopian-bible",
+    "parent": "/research/scripture",
+    "priority": 74,
+    "category": "scripture"
+  },
+  "what-proves-the-bible-is-historically-accurate": {
+    "tier": "support",
+    "cluster": "ethiopian-bible",
+    "parent": "/research/scripture",
+    "priority": 71,
+    "category": "scripture"
+  },
+  "what-is-the-difference-between-the-ethiopian-bible-and-the-bible": {
+    "tier": "support",
+    "cluster": "ethiopian-bible",
+    "parent": "/research/scripture",
+    "priority": 68,
+    "category": "scripture"
+  },
+  "is-anything-in-the-bible-historically-accurate": {
+    "tier": "support",
+    "cluster": "ethiopian-bible",
+    "parent": "/research/scripture",
+    "priority": 65,
+    "category": "scripture"
+  },
+  "is-the-ethiopian-bible-the-oldest": {
+    "tier": "support",
+    "cluster": "first-bible",
+    "parent": "/research/scripture",
+    "priority": 80,
+    "category": "scripture"
+  },
+  "when-was-the-first-bible-written-and-who-wrote-it": {
+    "tier": "support",
+    "cluster": "first-bible",
+    "parent": "/research/scripture",
+    "priority": 77,
+    "category": "scripture"
+  },
+  "where-was-the-first-bible-found": {
+    "tier": "support",
+    "cluster": "first-bible",
+    "parent": "/research/scripture",
+    "priority": 74,
+    "category": "scripture"
+  },
+  "was-the-first-bible-found-in-ethiopia": {
+    "tier": "support",
+    "cluster": "first-bible",
+    "parent": "/research/scripture",
+    "priority": 71,
+    "category": "scripture"
+  },
+  "is-the-ethiopian-bible-the-first-bible": {
+    "tier": "support",
+    "cluster": "first-bible",
+    "parent": "/research/scripture",
+    "priority": 68,
+    "category": "scripture"
+  },
+  "is-the-ethiopian-bible-the-oldest-bible": {
+    "tier": "support",
+    "cluster": "first-bible",
+    "parent": "/research/scripture",
+    "priority": 65,
+    "category": "scripture"
+  },
+  "which-bible-is-the-oldest-in-the-world": {
+    "tier": "support",
+    "cluster": "first-bible",
+    "parent": "/research/scripture",
+    "priority": 62,
+    "category": "scripture"
+  },
+  "who-made-the-first-bible-in-the-world": {
+    "tier": "support",
+    "cluster": "first-bible",
+    "parent": "/research/scripture",
+    "priority": 59,
+    "category": "scripture"
+  },
+  "what-language-was-the-new-testament-originally-written-in": {
+    "tier": "pillar",
+    "cluster": "originally-written",
+    "parent": "/research/scripture",
+    "priority": 95,
+    "category": "scripture"
+  },
+  "was-the-old-testament-originally-written-in-greek": {
+    "tier": "support",
+    "cluster": "originally-written",
+    "parent": "/research/scripture/what-language-was-the-new-testament-originally-written-in",
+    "priority": 77,
+    "category": "scripture"
+  },
+  "was-the-new-testament-originally-written-in-hebrew": {
+    "tier": "support",
+    "cluster": "originally-written",
+    "parent": "/research/scripture/what-language-was-the-new-testament-originally-written-in",
+    "priority": 74,
+    "category": "scripture"
+  },
+  "when-was-the-new-testament-originally-written": {
+    "tier": "support",
+    "cluster": "originally-written",
+    "parent": "/research/scripture/what-language-was-the-new-testament-originally-written-in",
+    "priority": 71,
+    "category": "scripture"
+  },
+  "what-language-was-the-old-testament-written-in": {
+    "tier": "pillar",
+    "cluster": "testament-written",
+    "parent": "/research/scripture",
+    "priority": 100,
+    "category": "scripture"
+  },
+  "what-language-is-most-of-the-old-testament-written-in": {
+    "tier": "support",
+    "cluster": "testament-written",
+    "parent": "/research/scripture/what-language-was-the-old-testament-written-in",
+    "priority": 77,
+    "category": "scripture"
+  },
+  "when-was-the-new-testament-written-after-jesuss-death": {
+    "tier": "support",
+    "cluster": "testament-written",
+    "parent": "/research/scripture/what-language-was-the-old-testament-written-in",
+    "priority": 74,
+    "category": "scripture"
+  },
+  "was-the-old-testament-written-in-aramaic": {
+    "tier": "support",
+    "cluster": "testament-written",
+    "parent": "/research/scripture/what-language-was-the-old-testament-written-in",
+    "priority": 71,
+    "category": "scripture"
+  },
+  "what-language-was-the-new-testament-written-in": {
+    "tier": "support",
+    "cluster": "testament-written",
+    "parent": "/research/scripture/what-language-was-the-old-testament-written-in",
+    "priority": 68,
+    "category": "scripture"
+  },
+  "why-is-the-old-testament-written": {
+    "tier": "support",
+    "cluster": "testament-written",
+    "parent": "/research/scripture/what-language-was-the-old-testament-written-in",
+    "priority": 65,
+    "category": "scripture"
+  },
+  "where-is-the-oldest-bible-in-the-world-kept": {
+    "tier": "support",
+    "cluster": "oldest-bible",
+    "parent": "/research/scripture",
+    "priority": 80,
+    "category": "scripture"
+  },
+  "what-is-the-oldest-bible-in-existence-today": {
+    "tier": "support",
+    "cluster": "oldest-bible",
+    "parent": "/research/scripture",
+    "priority": 77,
+    "category": "scripture"
+  },
+  "what-is-the-oldest-bible-found": {
+    "tier": "support",
+    "cluster": "oldest-bible",
+    "parent": "/research/scripture",
+    "priority": 74,
+    "category": "scripture"
+  },
+  "where-are-the-original-manuscripts-of-the-bible-kept": {
+    "tier": "support",
+    "cluster": "bible-kept",
+    "parent": "/research/scripture",
+    "priority": 80,
+    "category": "scripture"
+  },
+  "where-is-the-original-bible-kept": {
+    "tier": "support",
+    "cluster": "bible-kept",
+    "parent": "/research/scripture",
+    "priority": 77,
+    "category": "scripture"
+  },
+  "where-are-the-original-copies-of-the-bible-kept": {
+    "tier": "support",
+    "cluster": "bible-kept",
+    "parent": "/research/scripture",
+    "priority": 74,
+    "category": "scripture"
+  },
+  "where-is-the-oldest-version-of-the-bible-located": {
+    "tier": "support",
+    "cluster": "bible-located",
+    "parent": "/research/scripture",
+    "priority": 80,
+    "category": "scripture"
+  },
+  "where-is-the-original-bible-located": {
+    "tier": "support",
+    "cluster": "bible-located",
+    "parent": "/research/scripture",
+    "priority": 77,
+    "category": "scripture"
+  },
+  "where-is-the-first-original-bible-located": {
+    "tier": "support",
+    "cluster": "bible-located",
+    "parent": "/research/scripture",
+    "priority": 74,
+    "category": "scripture"
+  },
+  "unlocking-the-past-the-role-of-biblical-archaeologists-in-engaging-the-public": {
+    "tier": "pillar",
+    "cluster": "biblical-archaeologists",
+    "parent": "/research/excavations",
+    "priority": 96,
+    "category": "excavations"
+  },
+  "10-famous-biblical-archaeologists-you-should-know": {
+    "tier": "support",
+    "cluster": "biblical-archaeologists",
+    "parent": "/research/excavations/unlocking-the-past-the-role-of-biblical-archaeologists-in-engaging-the-public",
+    "priority": 77,
+    "category": "excavations"
+  },
+  "unveiling-the-secrets-of-biblical-archaeologists": {
+    "tier": "support",
+    "cluster": "biblical-archaeologists",
+    "parent": "/research/excavations/unlocking-the-past-the-role-of-biblical-archaeologists-in-engaging-the-public",
+    "priority": 74,
+    "category": "excavations"
+  },
+  "exploring-the-significance-biblical-archaeologists-in-heritage-preservation": {
+    "tier": "support",
+    "cluster": "biblical-archaeologists",
+    "parent": "/research/excavations/unlocking-the-past-the-role-of-biblical-archaeologists-in-engaging-the-public",
+    "priority": 71,
+    "category": "excavations"
+  },
+  "unearthing-the-past-the-role-of-biblical-archaeologists-in-preserving-cultural-heritage": {
+    "tier": "support",
+    "cluster": "biblical-archaeologists",
+    "parent": "/research/excavations/unlocking-the-past-the-role-of-biblical-archaeologists-in-engaging-the-public",
+    "priority": 68,
+    "category": "excavations"
+  },
+  "discovering-the-pioneers-prominent-biblical-archaeologists": {
+    "tier": "support",
+    "cluster": "biblical-archaeologists",
+    "parent": "/research/excavations/unlocking-the-past-the-role-of-biblical-archaeologists-in-engaging-the-public",
+    "priority": 65,
+    "category": "excavations"
+  },
+  "exploring-the-relationship-between-biblical-archaeologists-and-conservation-efforts": {
+    "tier": "support",
+    "cluster": "biblical-archaeologists",
+    "parent": "/research/excavations/unlocking-the-past-the-role-of-biblical-archaeologists-in-engaging-the-public",
+    "priority": 62,
+    "category": "excavations"
+  },
+  "preserving-endangered-cultural-sites-the-role-of-biblical-archaeologists": {
+    "tier": "support",
+    "cluster": "biblical-archaeologists",
+    "parent": "/research/excavations/unlocking-the-past-the-role-of-biblical-archaeologists-in-engaging-the-public",
+    "priority": 59,
+    "category": "excavations"
+  },
+  "top-excavation-sites-for-biblical-archaeologists": {
+    "tier": "support",
+    "cluster": "biblical-archaeologists",
+    "parent": "/research/excavations/unlocking-the-past-the-role-of-biblical-archaeologists-in-engaging-the-public",
+    "priority": 56,
+    "category": "excavations"
+  },
+  "exploring-the-significance-of-biblical-archaeologists-in-unearthing-history": {
+    "tier": "support",
+    "cluster": "biblical-archaeologists",
+    "parent": "/research/excavations/unlocking-the-past-the-role-of-biblical-archaeologists-in-engaging-the-public",
+    "priority": 53,
+    "category": "excavations"
+  },
+  "the-role-of-biblical-archaeologists-in-the-preservation-of-cultural-heritage": {
+    "tier": "support",
+    "cluster": "biblical-archaeologists",
+    "parent": "/research/excavations/unlocking-the-past-the-role-of-biblical-archaeologists-in-engaging-the-public",
+    "priority": 50,
+    "category": "excavations"
+  },
+  "did-the-israelites-conquer-jericho-a-new-look-at-the-archaeological-evidence": {
+    "tier": "support",
+    "cluster": "biblical-archaeologists",
+    "parent": "/research/excavations/unlocking-the-past-the-role-of-biblical-archaeologists-in-engaging-the-public",
+    "priority": 47,
+    "category": "excavations"
+  },
+  "what-is-the-science-of-biblical-archeology": {
+    "tier": "support",
+    "cluster": "biblical-archaeologists",
+    "parent": "/research/excavations/unlocking-the-past-the-role-of-biblical-archaeologists-in-engaging-the-public",
+    "priority": 44,
+    "category": "excavations"
+  },
+  "what-is-the-value-of-biblical-archeology": {
+    "tier": "support",
+    "cluster": "biblical-archaeologists",
+    "parent": "/research/excavations/unlocking-the-past-the-role-of-biblical-archaeologists-in-engaging-the-public",
+    "priority": 41,
+    "category": "excavations"
+  },
+  "what-have-archaeologists-found-from-the-bible": {
+    "tier": "support",
+    "cluster": "biblical-archaeologists",
+    "parent": "/research/excavations/unlocking-the-past-the-role-of-biblical-archaeologists-in-engaging-the-public",
+    "priority": 38,
+    "category": "excavations"
+  },
+  "famous-biblical-dig-sites-revealed": {
+    "tier": "support",
+    "cluster": "biblical-archaeologists",
+    "parent": "/research/excavations/unlocking-the-past-the-role-of-biblical-archaeologists-in-engaging-the-public",
+    "priority": 35,
+    "category": "excavations"
+  },
+  "when-did-biblical-archeology-start": {
+    "tier": "support",
+    "cluster": "biblical-archaeologists",
+    "parent": "/research/excavations/unlocking-the-past-the-role-of-biblical-archaeologists-in-engaging-the-public",
+    "priority": 32,
+    "category": "excavations"
+  },
+  "notable-discoveries-by-female-biblical-archaeologists": {
+    "tier": "support",
+    "cluster": "biblical-archaeologists",
+    "parent": "/research/excavations/unlocking-the-past-the-role-of-biblical-archaeologists-in-engaging-the-public",
+    "priority": 29,
+    "category": "excavations"
+  },
+  "exploring-biblical-archaeology-unveiling-the-secrets-of-ancient-relics": {
+    "tier": "pillar",
+    "cluster": "biblical-archaeology",
+    "parent": "/research/excavations",
+    "priority": 100,
+    "category": "excavations"
+  },
+  "the-pioneers-of-biblical-archaeology": {
+    "tier": "support",
+    "cluster": "biblical-archaeology",
+    "parent": "/research/excavations/exploring-biblical-archaeology-unveiling-the-secrets-of-ancient-relics",
+    "priority": 77,
+    "category": "excavations"
+  },
+  "unveiling-the-secrets-of-biblical-archaeology-2": {
+    "tier": "support",
+    "cluster": "biblical-archaeology",
+    "parent": "/research/excavations/exploring-biblical-archaeology-unveiling-the-secrets-of-ancient-relics",
+    "priority": 74,
+    "category": "excavations"
+  },
+  "the-ultimate-guide-to-studying-biblical-archaeology": {
+    "tier": "support",
+    "cluster": "biblical-archaeology",
+    "parent": "/research/excavations/exploring-biblical-archaeology-unveiling-the-secrets-of-ancient-relics",
+    "priority": 71,
+    "category": "excavations"
+  },
+  "unearthing-the-secrets-key-findings-of-biblical-archaeology": {
+    "tier": "support",
+    "cluster": "biblical-archaeology",
+    "parent": "/research/excavations/exploring-biblical-archaeology-unveiling-the-secrets-of-ancient-relics",
+    "priority": 68,
+    "category": "excavations"
+  },
+  "unearthing-the-past-the-fascination-of-biblical-archaeology-in-tourism": {
+    "tier": "support",
+    "cluster": "biblical-archaeology",
+    "parent": "/research/excavations/exploring-biblical-archaeology-unveiling-the-secrets-of-ancient-relics",
+    "priority": 65,
+    "category": "excavations"
+  },
+  "uncovering-the-past-biblical-archaeology-through-geospatial-technology": {
+    "tier": "support",
+    "cluster": "biblical-archaeology",
+    "parent": "/research/excavations/exploring-biblical-archaeology-unveiling-the-secrets-of-ancient-relics",
+    "priority": 62,
+    "category": "excavations"
+  },
+  "the-significance-of-biblical-archaeology-for-historical-understanding": {
+    "tier": "support",
+    "cluster": "biblical-archaeology",
+    "parent": "/research/excavations/exploring-biblical-archaeology-unveiling-the-secrets-of-ancient-relics",
+    "priority": 59,
+    "category": "excavations"
+  },
+  "exploring-the-significance-of-biblical-archaeology": {
+    "tier": "support",
+    "cluster": "biblical-archaeology",
+    "parent": "/research/excavations/exploring-biblical-archaeology-unveiling-the-secrets-of-ancient-relics",
+    "priority": 56,
+    "category": "excavations"
+  },
+  "exploring-the-political-implications-of-biblical-archaeology": {
+    "tier": "support",
+    "cluster": "biblical-archaeology",
+    "parent": "/research/excavations/exploring-biblical-archaeology-unveiling-the-secrets-of-ancient-relics",
+    "priority": 53,
+    "category": "excavations"
+  },
+  "exploring-controversies-surrounding-biblical-archaeology": {
+    "tier": "support",
+    "cluster": "biblical-archaeology",
+    "parent": "/research/excavations/exploring-biblical-archaeology-unveiling-the-secrets-of-ancient-relics",
+    "priority": 50,
+    "category": "excavations"
+  },
+  "10-steps-to-volunteer-on-a-biblical-archaeology-dig": {
+    "tier": "support",
+    "cluster": "biblical-archaeology",
+    "parent": "/research/excavations/exploring-biblical-archaeology-unveiling-the-secrets-of-ancient-relics",
+    "priority": 47,
+    "category": "excavations"
+  },
+  "integrating-biblical-archaeology-in-educational-curriculums": {
+    "tier": "support",
+    "cluster": "biblical-archaeology",
+    "parent": "/research/excavations/exploring-biblical-archaeology-unveiling-the-secrets-of-ancient-relics",
+    "priority": 44,
+    "category": "excavations"
+  },
+  "exploring-biblical-archaeology-in-the-middle-east-a-boost-to-tourism": {
+    "tier": "support",
+    "cluster": "biblical-archaeology",
+    "parent": "/research/excavations/exploring-biblical-archaeology-unveiling-the-secrets-of-ancient-relics",
+    "priority": 41,
+    "category": "excavations"
+  },
+  "exploring-the-origins-understanding-biblical-archaeology": {
+    "tier": "support",
+    "cluster": "biblical-archaeology",
+    "parent": "/research/excavations/exploring-biblical-archaeology-unveiling-the-secrets-of-ancient-relics",
+    "priority": 38,
+    "category": "excavations"
+  },
+  "the-impact-of-technology-on-biblical-archaeology-preservation-and-conservation": {
+    "tier": "support",
+    "cluster": "biblical-archaeology",
+    "parent": "/research/excavations/exploring-biblical-archaeology-unveiling-the-secrets-of-ancient-relics",
+    "priority": 35,
+    "category": "excavations"
+  },
+  "advancing-biblical-archaeology-through-remote-sensing": {
+    "tier": "support",
+    "cluster": "biblical-archaeology",
+    "parent": "/research/excavations/exploring-biblical-archaeology-unveiling-the-secrets-of-ancient-relics",
+    "priority": 32,
+    "category": "excavations"
+  },
+  "kathleen-kenyons-contributions-to-biblical-archaeology": {
+    "tier": "support",
+    "cluster": "biblical-archaeology",
+    "parent": "/research/excavations/exploring-biblical-archaeology-unveiling-the-secrets-of-ancient-relics",
+    "priority": 29,
+    "category": "excavations"
+  },
+  "the-top-institutions-for-biblical-archaeology-research-funding": {
+    "tier": "support",
+    "cluster": "biblical-archaeology",
+    "parent": "/research/excavations/exploring-biblical-archaeology-unveiling-the-secrets-of-ancient-relics",
+    "priority": 26,
+    "category": "excavations"
+  },
+  "the-best-universities-for-studying-biblical-archaeology": {
+    "tier": "support",
+    "cluster": "biblical-archaeology",
+    "parent": "/research/excavations/exploring-biblical-archaeology-unveiling-the-secrets-of-ancient-relics",
+    "priority": 23,
+    "category": "excavations"
+  },
+  "exploring-the-connection-architecture-and-biblical-archaeology": {
+    "tier": "support",
+    "cluster": "biblical-archaeology",
+    "parent": "/research/excavations/exploring-biblical-archaeology-unveiling-the-secrets-of-ancient-relics",
+    "priority": 20,
+    "category": "excavations"
+  },
+  "unearthing-the-crossroads-of-war-biblical-archaeologys-encounter-with-conflict": {
+    "tier": "support",
+    "cluster": "biblical-archaeology",
+    "parent": "/research/excavations/exploring-biblical-archaeology-unveiling-the-secrets-of-ancient-relics",
+    "priority": 17,
+    "category": "excavations"
+  },
+  "excavations-unveiling-biblical-archaeology": {
+    "tier": "support",
+    "cluster": "biblical-archaeology",
+    "parent": "/research/excavations/exploring-biblical-archaeology-unveiling-the-secrets-of-ancient-relics",
+    "priority": 14,
+    "category": "excavations"
+  },
+  "biblical-archaeology-evidence-unveiled": {
+    "tier": "support",
+    "cluster": "biblical-archaeology",
+    "parent": "/research/excavations/exploring-biblical-archaeology-unveiling-the-secrets-of-ancient-relics",
+    "priority": 11,
+    "category": "excavations"
+  },
+  "compassion-for-social-outcasts-the-legacy-of-ein-gedi-orchard-jar": {
+    "tier": "support",
+    "cluster": "biblical-archaeology",
+    "parent": "/research/excavations/exploring-biblical-archaeology-unveiling-the-secrets-of-ancient-relics",
+    "priority": 10,
+    "category": "excavations"
+  },
+  "what-is-the-study-of-biblical-archaeology": {
+    "tier": "support",
+    "cluster": "biblical-archaeology",
+    "parent": "/research/excavations/exploring-biblical-archaeology-unveiling-the-secrets-of-ancient-relics",
+    "priority": 10,
+    "category": "excavations"
+  },
+  "what-archaeological-evidence-points-to-the-historical-accuracy-of-the-biblical-story-of-the-fall-of-jericho": {
+    "tier": "support",
+    "cluster": "biblical-archaeology",
+    "parent": "/research/excavations/exploring-biblical-archaeology-unveiling-the-secrets-of-ancient-relics",
+    "priority": 10,
+    "category": "excavations"
+  },
+  "what-is-archaeology-in-the-bible": {
+    "tier": "support",
+    "cluster": "biblical-archaeology",
+    "parent": "/research/excavations/exploring-biblical-archaeology-unveiling-the-secrets-of-ancient-relics",
+    "priority": 10,
+    "category": "excavations"
+  },
+  "unlocking-mysteries-biblical-archaeology-research-unveiled": {
+    "tier": "support",
+    "cluster": "biblical-archaeology",
+    "parent": "/research/excavations/exploring-biblical-archaeology-unveiling-the-secrets-of-ancient-relics",
+    "priority": 10,
+    "category": "excavations"
+  },
+  "biblical-archaeology-discoveries-unveil-ancient-secrets": {
+    "tier": "support",
+    "cluster": "biblical-archaeology",
+    "parent": "/research/excavations/exploring-biblical-archaeology-unveiling-the-secrets-of-ancient-relics",
+    "priority": 10,
+    "category": "excavations"
+  },
+  "exploring-biblical-archaeology-studies-unveiling-ancient-secrets": {
+    "tier": "support",
+    "cluster": "biblical-archaeology",
+    "parent": "/research/excavations/exploring-biblical-archaeology-unveiling-the-secrets-of-ancient-relics",
+    "priority": 10,
+    "category": "excavations"
+  },
+  "exploring-biblical-archaeology-journey-to-jericho": {
+    "tier": "support",
+    "cluster": "biblical-archaeology",
+    "parent": "/research/excavations/exploring-biblical-archaeology-unveiling-the-secrets-of-ancient-relics",
+    "priority": 10,
+    "category": "excavations"
+  },
+  "discovering-biblical-art-through-archaeology": {
+    "tier": "support",
+    "cluster": "biblical-archaeology",
+    "parent": "/research/excavations/exploring-biblical-archaeology-unveiling-the-secrets-of-ancient-relics",
+    "priority": 10,
+    "category": "excavations"
+  },
+  "exploring-biblical-archaeological-evidence": {
+    "tier": "support",
+    "cluster": "biblical-archaeology",
+    "parent": "/research/excavations/exploring-biblical-archaeology-unveiling-the-secrets-of-ancient-relics",
+    "priority": 10,
+    "category": "excavations"
+  },
+  "jerusalem-wall-niche-a-reflection-on-moral-warnings-for-corrupt-authority": {
+    "tier": "pillar",
+    "cluster": "ancient-jerusalem",
+    "parent": "/research/excavations",
+    "priority": 93,
+    "category": "excavations"
+  },
+  "unveiling-temple-tools-in-biblical-archaeology": {
+    "tier": "support",
+    "cluster": "ancient-jerusalem",
+    "parent": "/research/excavations/jerusalem-wall-niche-a-reflection-on-moral-warnings-for-corrupt-authority",
+    "priority": 77,
+    "category": "excavations"
+  },
+  "ancient-jerusalem-marketplace-near-temple-unveiled": {
+    "tier": "support",
+    "cluster": "ancient-jerusalem",
+    "parent": "/research/excavations/jerusalem-wall-niche-a-reflection-on-moral-warnings-for-corrupt-authority",
+    "priority": 74,
+    "category": "excavations"
+  },
+  "ancient-temple-mount-discovery-shifts-biblical-understanding": {
+    "tier": "support",
+    "cluster": "ancient-jerusalem",
+    "parent": "/research/excavations/jerusalem-wall-niche-a-reflection-on-moral-warnings-for-corrupt-authority",
+    "priority": 71,
+    "category": "excavations"
+  },
+  "jerusalems-hidden-compartment-unraveling-the-prophetic-gathering-of-exiles": {
+    "tier": "support",
+    "cluster": "ancient-jerusalem",
+    "parent": "/research/excavations/jerusalem-wall-niche-a-reflection-on-moral-warnings-for-corrupt-authority",
+    "priority": 68,
+    "category": "excavations"
+  },
+  "biblical-archaeology-first-temple-period-market-discovery": {
+    "tier": "support",
+    "cluster": "ancient-jerusalem",
+    "parent": "/research/excavations/jerusalem-wall-niche-a-reflection-on-moral-warnings-for-corrupt-authority",
+    "priority": 65,
+    "category": "excavations"
+  },
+  "biblical-archaeology-first-temple-period-discoveries": {
+    "tier": "support",
+    "cluster": "ancient-jerusalem",
+    "parent": "/research/excavations/jerusalem-wall-niche-a-reflection-on-moral-warnings-for-corrupt-authority",
+    "priority": 62,
+    "category": "excavations"
+  },
+  "ancient-jerusalem-palace-unearthed-sparks-biblical-interest": {
+    "tier": "support",
+    "cluster": "ancient-jerusalem",
+    "parent": "/research/excavations/jerusalem-wall-niche-a-reflection-on-moral-warnings-for-corrupt-authority",
+    "priority": 59,
+    "category": "excavations"
+  },
+  "exploring-ancient-jerusalem-pilgrim-routes-unearthed": {
+    "tier": "support",
+    "cluster": "ancient-jerusalem",
+    "parent": "/research/excavations/jerusalem-wall-niche-a-reflection-on-moral-warnings-for-corrupt-authority",
+    "priority": 56,
+    "category": "excavations"
+  },
+  "ancient-jerusalem-unveiling-the-commerce-center": {
+    "tier": "support",
+    "cluster": "ancient-jerusalem",
+    "parent": "/research/excavations/jerusalem-wall-niche-a-reflection-on-moral-warnings-for-corrupt-authority",
+    "priority": 53,
+    "category": "excavations"
+  },
+  "exploring-the-ancient-jerusalem-palace-complex-discoveries": {
+    "tier": "support",
+    "cluster": "ancient-jerusalem",
+    "parent": "/research/excavations/jerusalem-wall-niche-a-reflection-on-moral-warnings-for-corrupt-authority",
+    "priority": 50,
+    "category": "excavations"
+  },
+  "unearthing-the-past-lessons-from-biblical-archaeology": {
+    "tier": "pillar",
+    "cluster": "ancient-biblical",
+    "parent": "/research/excavations",
+    "priority": 96,
+    "category": "excavations"
+  },
+  "exploring-the-connection-the-intersection-of-science-and-religion-in-biblical-archaeology": {
+    "tier": "support",
+    "cluster": "ancient-biblical",
+    "parent": "/research/excavations/unearthing-the-past-lessons-from-biblical-archaeology",
+    "priority": 77,
+    "category": "excavations"
+  },
+  "uncovering-the-biblical-past-in-the-face-of-climate-change": {
+    "tier": "support",
+    "cluster": "ancient-biblical",
+    "parent": "/research/excavations/unearthing-the-past-lessons-from-biblical-archaeology",
+    "priority": 74,
+    "category": "excavations"
+  },
+  "major-contributions-of-biblical-archaeologist-william-f-albright": {
+    "tier": "support",
+    "cluster": "ancient-biblical",
+    "parent": "/research/excavations/unearthing-the-past-lessons-from-biblical-archaeology",
+    "priority": 71,
+    "category": "excavations"
+  },
+  "discovering-the-legacy-exploring-the-life-and-work-of-william-f-albright": {
+    "tier": "support",
+    "cluster": "ancient-biblical",
+    "parent": "/research/excavations/unearthing-the-past-lessons-from-biblical-archaeology",
+    "priority": 68,
+    "category": "excavations"
+  },
+  "qumran-wadi-silt-and-the-book-of-jobs-righteous-resolve": {
+    "tier": "support",
+    "cluster": "ancient-biblical",
+    "parent": "/research/excavations/unearthing-the-past-lessons-from-biblical-archaeology",
+    "priority": 65,
+    "category": "excavations"
+  },
+  "exploring-ancient-biblical-sites-a-journey-through-history": {
+    "tier": "support",
+    "cluster": "ancient-biblical",
+    "parent": "/research/excavations/unearthing-the-past-lessons-from-biblical-archaeology",
+    "priority": 62,
+    "category": "excavations"
+  },
+  "galilee-synagogue-floor-exploring-the-watchmens-duties-and-sacred-texts": {
+    "tier": "support",
+    "cluster": "ancient-biblical",
+    "parent": "/research/excavations/unearthing-the-past-lessons-from-biblical-archaeology",
+    "priority": 59,
+    "category": "excavations"
+  },
+  "the-hidden-scrolls-of-the-temple-unearthing-mysteries-of-ancient-construction": {
+    "tier": "support",
+    "cluster": "ancient-biblical",
+    "parent": "/research/excavations/unearthing-the-past-lessons-from-biblical-archaeology",
+    "priority": 56,
+    "category": "excavations"
+  },
+  "overlooked-qumran-cave-rediscovering-joy-in-communal-scripture-reading": {
+    "tier": "support",
+    "cluster": "ancient-biblical",
+    "parent": "/research/excavations/unearthing-the-past-lessons-from-biblical-archaeology",
+    "priority": 53,
+    "category": "excavations"
+  },
+  "exploring-the-legacy-of-w-f-petrie-in-biblical-archaeology": {
+    "tier": "support",
+    "cluster": "ancient-biblical",
+    "parent": "/research/excavations/unearthing-the-past-lessons-from-biblical-archaeology",
+    "priority": 50,
+    "category": "excavations"
+  },
+  "archaeological-ai-discovers-lost-biblical-cities": {
+    "tier": "support",
+    "cluster": "ancient-biblical",
+    "parent": "/research/excavations/unearthing-the-past-lessons-from-biblical-archaeology",
+    "priority": 47,
+    "category": "excavations"
+  },
+  "biblical-archaeology-town-destruction-verified": {
+    "tier": "support",
+    "cluster": "ancient-biblical",
+    "parent": "/research/excavations/unearthing-the-past-lessons-from-biblical-archaeology",
+    "priority": 44,
+    "category": "excavations"
+  },
+  "the-controversy-surrounding-the-existence-of-biblical-cities-in-biblical-archaeology": {
+    "tier": "support",
+    "cluster": "ancient-biblical",
+    "parent": "/research/excavations/unearthing-the-past-lessons-from-biblical-archaeology",
+    "priority": 41,
+    "category": "excavations"
+  },
+  "lidar-technology-uncovers-biblical-archaeological-sites": {
+    "tier": "support",
+    "cluster": "ancient-biblical",
+    "parent": "/research/excavations/unearthing-the-past-lessons-from-biblical-archaeology",
+    "priority": 38,
+    "category": "excavations"
+  },
+  "modern-methods-in-unearthing-biblical-structures": {
+    "tier": "support",
+    "cluster": "ancient-biblical",
+    "parent": "/research/excavations/unearthing-the-past-lessons-from-biblical-archaeology",
+    "priority": 35,
+    "category": "excavations"
+  },
+  "exploring-the-qumran-workshop-ruins-a-quest-for-temple-artifacts": {
+    "tier": "pillar",
+    "cluster": "discover-ancient",
+    "parent": "/research/excavations",
+    "priority": 94,
+    "category": "excavations"
+  },
+  "the-judean-desert-riverbed-a-ledger-of-an-exiled-people": {
+    "tier": "support",
+    "cluster": "discover-ancient",
+    "parent": "/research/excavations/exploring-the-qumran-workshop-ruins-a-quest-for-temple-artifacts",
+    "priority": 77,
+    "category": "excavations"
+  },
+  "unveiling-qumran-sublevel-a-study-of-generational-text-preservation-methods": {
+    "tier": "support",
+    "cluster": "discover-ancient",
+    "parent": "/research/excavations/exploring-the-qumran-workshop-ruins-a-quest-for-temple-artifacts",
+    "priority": 74,
+    "category": "excavations"
+  },
+  "unveiling-the-judean-hills-mosaic-ritual-details-of-ancient-temple-vessels": {
+    "tier": "support",
+    "cluster": "discover-ancient",
+    "parent": "/research/excavations/exploring-the-qumran-workshop-ruins-a-quest-for-temple-artifacts",
+    "priority": 71,
+    "category": "excavations"
+  },
+  "exploring-the-qumran-storeroom-trunk-a-study-in-moral-integrity": {
+    "tier": "support",
+    "cluster": "discover-ancient",
+    "parent": "/research/excavations/exploring-the-qumran-workshop-ruins-a-quest-for-temple-artifacts",
+    "priority": 68,
+    "category": "excavations"
+  },
+  "uncovering-the-secrets-the-top-techniques-used-by-biblical-archaeologists": {
+    "tier": "support",
+    "cluster": "discover-ancient",
+    "parent": "/research/excavations/exploring-the-qumran-workshop-ruins-a-quest-for-temple-artifacts",
+    "priority": 65,
+    "category": "excavations"
+  },
+  "exploring-the-mysteries-of-the-qumran-stairway-levitical-insights-in-the-sunken-room": {
+    "tier": "support",
+    "cluster": "discover-ancient",
+    "parent": "/research/excavations/exploring-the-qumran-workshop-ruins-a-quest-for-temple-artifacts",
+    "priority": 62,
+    "category": "excavations"
+  },
+  "archaeological-maps-of-ancient-jerusalem-unveiled": {
+    "tier": "support",
+    "cluster": "discover-ancient",
+    "parent": "/research/excavations/exploring-the-qumran-workshop-ruins-a-quest-for-temple-artifacts",
+    "priority": 59,
+    "category": "excavations"
+  },
+  "remote-sensing-reveals-lost-biblical-towns": {
+    "tier": "support",
+    "cluster": "discover-ancient",
+    "parent": "/research/excavations/exploring-the-qumran-workshop-ruins-a-quest-for-temple-artifacts",
+    "priority": 56,
+    "category": "excavations"
+  },
+  "mapping-the-ancient-jerusalem-defense-system": {
+    "tier": "support",
+    "cluster": "discover-ancient",
+    "parent": "/research/excavations/exploring-the-qumran-workshop-ruins-a-quest-for-temple-artifacts",
+    "priority": 53,
+    "category": "excavations"
+  },
+  "massive-biblical-gate-system-unearthed-at-ancient-shiloh": {
+    "tier": "support",
+    "cluster": "discover-ancient",
+    "parent": "/research/excavations/exploring-the-qumran-workshop-ruins-a-quest-for-temple-artifacts",
+    "priority": 50,
+    "category": "excavations"
+  },
+  "biblical-towns-uncovered-ancient-texts-reveal-stories": {
+    "tier": "support",
+    "cluster": "discover-ancient",
+    "parent": "/research/excavations/exploring-the-qumran-workshop-ruins-a-quest-for-temple-artifacts",
+    "priority": 47,
+    "category": "excavations"
+  },
+  "unveiling-the-hidden-secrets-the-latest-developments-in-biblical-archaeology-research": {
+    "tier": "pillar",
+    "cluster": "temple-mount",
+    "parent": "/research/excavations",
+    "priority": 94,
+    "category": "excavations"
+  },
+  "temple-mount-construction-secrets-unveiled": {
+    "tier": "support",
+    "cluster": "temple-mount",
+    "parent": "/research/excavations/unveiling-the-hidden-secrets-the-latest-developments-in-biblical-archaeology-research",
+    "priority": 77,
+    "category": "excavations"
+  },
+  "ancient-jerusalem-street-reveals-temple-pilgrim-path": {
+    "tier": "support",
+    "cluster": "temple-mount",
+    "parent": "/research/excavations/unveiling-the-hidden-secrets-the-latest-developments-in-biblical-archaeology-research",
+    "priority": 74,
+    "category": "excavations"
+  },
+  "jerusalem-temple-foundations-finally-discovered": {
+    "tier": "support",
+    "cluster": "temple-mount",
+    "parent": "/research/excavations/unveiling-the-hidden-secrets-the-latest-developments-in-biblical-archaeology-research",
+    "priority": 71,
+    "category": "excavations"
+  },
+  "temple-mount-chamber-network-finally-mapped": {
+    "tier": "support",
+    "cluster": "temple-mount",
+    "parent": "/research/excavations/unveiling-the-hidden-secrets-the-latest-developments-in-biblical-archaeology-research",
+    "priority": 68,
+    "category": "excavations"
+  },
+  "archaeological-scanning-unveils-temple-mount-secrets": {
+    "tier": "support",
+    "cluster": "temple-mount",
+    "parent": "/research/excavations/unveiling-the-hidden-secrets-the-latest-developments-in-biblical-archaeology-research",
+    "priority": 65,
+    "category": "excavations"
+  },
+  "jerusalem-temple-construction-methods-finally-revealed": {
+    "tier": "support",
+    "cluster": "temple-mount",
+    "parent": "/research/excavations/unveiling-the-hidden-secrets-the-latest-developments-in-biblical-archaeology-research",
+    "priority": 62,
+    "category": "excavations"
+  },
+  "unveiling-temple-mount-construction-methods": {
+    "tier": "support",
+    "cluster": "temple-mount",
+    "parent": "/research/excavations/unveiling-the-hidden-secrets-the-latest-developments-in-biblical-archaeology-research",
+    "priority": 59,
+    "category": "excavations"
+  },
+  "exploring-the-link-biblical-archaeology-and-the-dead-sea-scrolls": {
+    "tier": "pillar",
+    "cluster": "reveals-ancient",
+    "parent": "/research/excavations",
+    "priority": 96,
+    "category": "excavations"
+  },
+  "exploring-the-link-biblical-archaeologys-influence-on-tourism": {
+    "tier": "support",
+    "cluster": "reveals-ancient",
+    "parent": "/research/excavations/exploring-the-link-biblical-archaeology-and-the-dead-sea-scrolls",
+    "priority": 77,
+    "category": "excavations"
+  },
+  "exploring-the-link-between-biblical-archaeology-and-digital-reconstruction": {
+    "tier": "support",
+    "cluster": "reveals-ancient",
+    "parent": "/research/excavations/exploring-the-link-biblical-archaeology-and-the-dead-sea-scrolls",
+    "priority": 74,
+    "category": "excavations"
+  },
+  "unearthing-the-secrets-biblical-archaeology-reveals-historical-truth": {
+    "tier": "support",
+    "cluster": "reveals-ancient",
+    "parent": "/research/excavations/exploring-the-link-biblical-archaeology-and-the-dead-sea-scrolls",
+    "priority": 71,
+    "category": "excavations"
+  },
+  "unearthing-the-past-biblical-archaeology-reveals-ancient-biblical-sites": {
+    "tier": "support",
+    "cluster": "reveals-ancient",
+    "parent": "/research/excavations/exploring-the-link-biblical-archaeology-and-the-dead-sea-scrolls",
+    "priority": 68,
+    "category": "excavations"
+  },
+  "the-mystery-of-the-dead-sea-stone-inscription-unraveling-missing-jar-and-lost-texts": {
+    "tier": "support",
+    "cluster": "reveals-ancient",
+    "parent": "/research/excavations/exploring-the-link-biblical-archaeology-and-the-dead-sea-scrolls",
+    "priority": 65,
+    "category": "excavations"
+  },
+  "qumrans-clay-jar-the-secrets-of-a-devoted-community": {
+    "tier": "support",
+    "cluster": "reveals-ancient",
+    "parent": "/research/excavations/exploring-the-link-biblical-archaeology-and-the-dead-sea-scrolls",
+    "priority": 62,
+    "category": "excavations"
+  },
+  "salt-laden-dead-sea-edge-where-barren-earth-reveals-sacred-pottery": {
+    "tier": "support",
+    "cluster": "reveals-ancient",
+    "parent": "/research/excavations/exploring-the-link-biblical-archaeology-and-the-dead-sea-scrolls",
+    "priority": 59,
+    "category": "excavations"
+  },
+  "biblical-town-streets-explored-and-mapped": {
+    "tier": "support",
+    "cluster": "reveals-ancient",
+    "parent": "/research/excavations/exploring-the-link-biblical-archaeology-and-the-dead-sea-scrolls",
+    "priority": 56,
+    "category": "excavations"
+  },
+  "biblical-town-gateway-reveals-ancient-defense-systems": {
+    "tier": "support",
+    "cluster": "reveals-ancient",
+    "parent": "/research/excavations/exploring-the-link-biblical-archaeology-and-the-dead-sea-scrolls",
+    "priority": 53,
+    "category": "excavations"
+  },
+  "the-dead-sea-scrolls-unearthed-secrets-of-the-bible": {
+    "tier": "pillar",
+    "cluster": "sea-scrolls",
+    "parent": "/research/excavations",
+    "priority": 96,
+    "category": "excavations"
+  },
+  "the-excavation-of-qumran-unearthing-the-famous-dead-sea-scrolls": {
+    "tier": "support",
+    "cluster": "sea-scrolls",
+    "parent": "/research/excavations/the-dead-sea-scrolls-unearthed-secrets-of-the-bible",
+    "priority": 77,
+    "category": "excavations"
+  },
+  "unraveling-the-dead-sea-scrolls-biblical-insights": {
+    "tier": "support",
+    "cluster": "sea-scrolls",
+    "parent": "/research/excavations/the-dead-sea-scrolls-unearthed-secrets-of-the-bible",
+    "priority": 74,
+    "category": "excavations"
+  },
+  "dead-sea-orchard-unraveling-the-cosmic-battle-theories": {
+    "tier": "support",
+    "cluster": "sea-scrolls",
+    "parent": "/research/excavations/the-dead-sea-scrolls-unearthed-secrets-of-the-bible",
+    "priority": 71,
+    "category": "excavations"
+  },
+  "what-bible-artifacts-were-found-in-2023": {
+    "tier": "support",
+    "cluster": "sea-scrolls",
+    "parent": "/research/excavations/the-dead-sea-scrolls-unearthed-secrets-of-the-bible",
+    "priority": 68,
+    "category": "excavations"
+  },
+  "have-any-artifacts-from-the-bible-been-found": {
+    "tier": "support",
+    "cluster": "sea-scrolls",
+    "parent": "/research/excavations/the-dead-sea-scrolls-unearthed-secrets-of-the-bible",
+    "priority": 65,
+    "category": "excavations"
+  },
+  "biblical-town-life-revealed-in-new-excavation": {
+    "tier": "support",
+    "cluster": "sea-scrolls",
+    "parent": "/research/excavations/the-dead-sea-scrolls-unearthed-secrets-of-the-bible",
+    "priority": 62,
+    "category": "excavations"
+  },
+  "what-dead-sea-scrolls-reveal-about-scripture": {
+    "tier": "support",
+    "cluster": "sea-scrolls",
+    "parent": "/research/excavations/the-dead-sea-scrolls-unearthed-secrets-of-the-bible",
+    "priority": 59,
+    "category": "excavations"
+  },
+  "jericho-city-gate-the-significance-of-the-renewed-covenant-parchment": {
+    "tier": "pillar",
+    "cluster": "lost-biblical",
+    "parent": "/research/excavations",
+    "priority": 93,
+    "category": "excavations"
+  },
+  "city-of-david-blocked-door-a-journey-into-restoration": {
+    "tier": "support",
+    "cluster": "lost-biblical",
+    "parent": "/research/excavations/jericho-city-gate-the-significance-of-the-renewed-covenant-parchment",
+    "priority": 77,
+    "category": "excavations"
+  },
+  "uncovering-lost-biblical-treasures": {
+    "tier": "support",
+    "cluster": "lost-biblical",
+    "parent": "/research/excavations/jericho-city-gate-the-significance-of-the-renewed-covenant-parchment",
+    "priority": 74,
+    "category": "excavations"
+  },
+  "lost-biblical-city-found-ancient-fortress-reveals-new-story": {
+    "tier": "support",
+    "cluster": "lost-biblical",
+    "parent": "/research/excavations/jericho-city-gate-the-significance-of-the-renewed-covenant-parchment",
+    "priority": 71,
+    "category": "excavations"
+  },
+  "radiocarbon-dating-validates-biblical-site-discoveries": {
+    "tier": "support",
+    "cluster": "lost-biblical",
+    "parent": "/research/excavations/jericho-city-gate-the-significance-of-the-renewed-covenant-parchment",
+    "priority": 68,
+    "category": "excavations"
+  },
+  "dead-sea-scroll-cave-yields-lost-biblical-text": {
+    "tier": "support",
+    "cluster": "lost-biblical",
+    "parent": "/research/excavations/jericho-city-gate-the-significance-of-the-renewed-covenant-parchment",
+    "priority": 65,
+    "category": "excavations"
+  },
+  "lost-biblical-city-found-ancient-life-revealed": {
+    "tier": "support",
+    "cluster": "lost-biblical",
+    "parent": "/research/excavations/jericho-city-gate-the-significance-of-the-renewed-covenant-parchment",
+    "priority": 62,
+    "category": "excavations"
+  },
+  "unearthing-the-mysteries-the-top-challenges-in-biblical-archaeology": {
+    "tier": "pillar",
+    "cluster": "dead-sea",
+    "parent": "/research/excavations",
+    "priority": 95,
+    "category": "excavations"
+  },
+  "dead-sea-vineyard-a-lamentation-in-jars-of-moral-decline": {
+    "tier": "support",
+    "cluster": "dead-sea",
+    "parent": "/research/excavations/unearthing-the-mysteries-the-top-challenges-in-biblical-archaeology",
+    "priority": 77,
+    "category": "excavations"
+  },
+  "dominion-struggles-in-the-shadow-of-the-dead-sea-rock-face": {
+    "tier": "support",
+    "cluster": "dead-sea",
+    "parent": "/research/excavations/unearthing-the-mysteries-the-top-challenges-in-biblical-archaeology",
+    "priority": 74,
+    "category": "excavations"
+  },
+  "jericho-orchard-shelter-exploring-faith-amidst-cataclysmic-upheaval": {
+    "tier": "support",
+    "cluster": "dead-sea",
+    "parent": "/research/excavations/unearthing-the-mysteries-the-top-challenges-in-biblical-archaeology",
+    "priority": 71,
+    "category": "excavations"
+  },
+  "do-the-dead-sea-scrolls-include-biblical-texts": {
+    "tier": "support",
+    "cluster": "dead-sea",
+    "parent": "/research/excavations/unearthing-the-mysteries-the-top-challenges-in-biblical-archaeology",
+    "priority": 68,
+    "category": "excavations"
+  },
+  "dead-sea-scroll-cave-yields-revolutionary-new-testament-text": {
+    "tier": "support",
+    "cluster": "dead-sea",
+    "parent": "/research/excavations/unearthing-the-mysteries-the-top-challenges-in-biblical-archaeology",
+    "priority": 65,
+    "category": "excavations"
+  },
+  "5-ways-to-stay-updated-on-the-latest-developments-in-biblical-archaeology": {
+    "tier": "pillar",
+    "cluster": "biblical-archaeological",
+    "parent": "/research/excavations",
+    "priority": 97,
+    "category": "excavations"
+  },
+  "ways-to-support-biblical-archaeological-research-as-a-non-professional": {
+    "tier": "support",
+    "cluster": "biblical-archaeological",
+    "parent": "/research/excavations/5-ways-to-stay-updated-on-the-latest-developments-in-biblical-archaeology",
+    "priority": 77,
+    "category": "excavations"
+  },
+  "decoding-ancient-inscriptions-a-biblical-archaeological-perspective": {
+    "tier": "support",
+    "cluster": "biblical-archaeological",
+    "parent": "/research/excavations/5-ways-to-stay-updated-on-the-latest-developments-in-biblical-archaeology",
+    "priority": 74,
+    "category": "excavations"
+  },
+  "the-role-of-3d-modeling-in-biblical-archaeological-research": {
+    "tier": "support",
+    "cluster": "biblical-archaeological",
+    "parent": "/research/excavations/5-ways-to-stay-updated-on-the-latest-developments-in-biblical-archaeology",
+    "priority": 71,
+    "category": "excavations"
+  },
+  "understanding-the-various-techniques-in-biblical-archaeological-excavation": {
+    "tier": "support",
+    "cluster": "biblical-archaeological",
+    "parent": "/research/excavations/5-ways-to-stay-updated-on-the-latest-developments-in-biblical-archaeology",
+    "priority": 68,
+    "category": "excavations"
+  },
+  "exploring-the-jericho-mound-ledger-offerings-to-a-desert-fellowship": {
+    "tier": "support",
+    "cluster": "biblical-archaeological",
+    "parent": "/research/excavations/5-ways-to-stay-updated-on-the-latest-developments-in-biblical-archaeology",
+    "priority": 65,
+    "category": "excavations"
+  },
+  "exploring-the-environmental-impact-on-biblical-archaeology": {
+    "tier": "pillar",
+    "cluster": "impact-biblical",
+    "parent": "/research/excavations",
+    "priority": 97,
+    "category": "excavations"
+  },
+  "the-political-powers-impact-on-biblical-archaeology": {
+    "tier": "support",
+    "cluster": "impact-biblical",
+    "parent": "/research/excavations/exploring-the-environmental-impact-on-biblical-archaeology",
+    "priority": 77,
+    "category": "excavations"
+  },
+  "uncovering-the-historical-significance-the-impact-of-biblical-archaeology": {
+    "tier": "support",
+    "cluster": "impact-biblical",
+    "parent": "/research/excavations/exploring-the-environmental-impact-on-biblical-archaeology",
+    "priority": 74,
+    "category": "excavations"
+  },
+  "unveiling-the-hidden-stories-the-impact-of-biblical-archaeology-on-modern-society": {
+    "tier": "support",
+    "cluster": "impact-biblical",
+    "parent": "/research/excavations/exploring-the-environmental-impact-on-biblical-archaeology",
+    "priority": 71,
+    "category": "excavations"
+  },
+  "exploring-the-impact-of-biblical-archaeology-on-public-policy": {
+    "tier": "support",
+    "cluster": "impact-biblical",
+    "parent": "/research/excavations/exploring-the-environmental-impact-on-biblical-archaeology",
+    "priority": 68,
+    "category": "excavations"
+  },
+  "does-archaeology-confirm-the-historical-accuracy-of-the-bible": {
+    "tier": "support",
+    "cluster": "impact-biblical",
+    "parent": "/research/excavations/exploring-the-environmental-impact-on-biblical-archaeology",
+    "priority": 65,
+    "category": "excavations"
+  },
+  "unraveling-the-qumran-scraps-crate-secrets-of-the-sects-initiation": {
+    "tier": "pillar",
+    "cluster": "secrets-qumran",
+    "parent": "/research/excavations",
+    "priority": 93,
+    "category": "excavations"
+  },
+  "unveiling-the-secrets-of-the-qumran-wall-gap-clandestine-room-and-unity-scroll-exposed": {
+    "tier": "support",
+    "cluster": "secrets-qumran",
+    "parent": "/research/excavations/unraveling-the-qumran-scraps-crate-secrets-of-the-sects-initiation",
+    "priority": 77,
+    "category": "excavations"
+  },
+  "restoration-hopes-of-the-qumran-boulder-mark": {
+    "tier": "support",
+    "cluster": "secrets-qumran",
+    "parent": "/research/excavations/unraveling-the-qumran-scraps-crate-secrets-of-the-sects-initiation",
+    "priority": 74,
+    "category": "excavations"
+  },
+  "exploring-the-mountain-corridor-a-journey-through-patriarchs-memory-in-faded-scroll": {
+    "tier": "support",
+    "cluster": "secrets-qumran",
+    "parent": "/research/excavations/unraveling-the-qumran-scraps-crate-secrets-of-the-sects-initiation",
+    "priority": 71,
+    "category": "excavations"
+  },
+  "qumran-fallen-beams-the-tug-of-war-between-piety-and-rigor-in-scroll-writings": {
+    "tier": "support",
+    "cluster": "secrets-qumran",
+    "parent": "/research/excavations/unraveling-the-qumran-scraps-crate-secrets-of-the-sects-initiation",
+    "priority": 68,
+    "category": "excavations"
+  },
+  "qumran-boundary-stone-unlocking-the-calendar-keys-for-festival-timing": {
+    "tier": "support",
+    "cluster": "secrets-qumran",
+    "parent": "/research/excavations/unraveling-the-qumran-scraps-crate-secrets-of-the-sects-initiation",
+    "priority": 65,
+    "category": "excavations"
+  },
+  "unraveling-the-mysteries-challenges-faced-by-biblical-archaeologists": {
+    "tier": "pillar",
+    "cluster": "ancient-mysteries",
+    "parent": "/research/excavations",
+    "priority": 94,
+    "category": "excavations"
+  },
+  "unraveling-the-last-qumran-jar-a-discourse-on-free-will-vs-destiny-in-israels-future": {
+    "tier": "support",
+    "cluster": "ancient-mysteries",
+    "parent": "/research/excavations/unraveling-the-mysteries-challenges-faced-by-biblical-archaeologists",
+    "priority": 77,
+    "category": "excavations"
+  },
+  "quest-for-qumran-mysteries-in-the-holy-land": {
+    "tier": "support",
+    "cluster": "ancient-mysteries",
+    "parent": "/research/excavations/unraveling-the-mysteries-challenges-faced-by-biblical-archaeologists",
+    "priority": 74,
+    "category": "excavations"
+  },
+  "significant-biblical-excavations-uncover-ancient-mysteries": {
+    "tier": "support",
+    "cluster": "ancient-mysteries",
+    "parent": "/research/excavations/unraveling-the-mysteries-challenges-faced-by-biblical-archaeologists",
+    "priority": 71,
+    "category": "excavations"
+  },
+  "unearthing-ancient-mysteries-biblical-sites-excavation": {
+    "tier": "support",
+    "cluster": "ancient-mysteries",
+    "parent": "/research/excavations/unraveling-the-mysteries-challenges-faced-by-biblical-archaeologists",
+    "priority": 68,
+    "category": "excavations"
+  },
+  "unearthing-the-truth-current-controversies-in-biblical-archaeology": {
+    "tier": "pillar",
+    "cluster": "truth-biblical",
+    "parent": "/research/excavations",
+    "priority": 98,
+    "category": "excavations"
+  },
+  "unearthing-the-truth-the-debate-over-authenticity-in-biblical-archaeology": {
+    "tier": "support",
+    "cluster": "truth-biblical",
+    "parent": "/research/excavations/unearthing-the-truth-current-controversies-in-biblical-archaeology",
+    "priority": 77,
+    "category": "excavations"
+  },
+  "debunking-popular-misconceptions-about-biblical-archaeology": {
+    "tier": "support",
+    "cluster": "truth-biblical",
+    "parent": "/research/excavations/unearthing-the-truth-current-controversies-in-biblical-archaeology",
+    "priority": 74,
+    "category": "excavations"
+  },
+  "controversies-in-biblical-archaeology-unearthing-the-truth": {
+    "tier": "support",
+    "cluster": "truth-biblical",
+    "parent": "/research/excavations/unearthing-the-truth-current-controversies-in-biblical-archaeology",
+    "priority": 71,
+    "category": "excavations"
+  },
+  "debunking-common-misconceptions-about-biblical-archaeology": {
+    "tier": "support",
+    "cluster": "truth-biblical",
+    "parent": "/research/excavations/unearthing-the-truth-current-controversies-in-biblical-archaeology",
+    "priority": 68,
+    "category": "excavations"
+  },
+  "uncovering-the-truth-exploring-the-connection-between-biblical-archaeology-and-the-bible": {
+    "tier": "support",
+    "cluster": "truth-biblical",
+    "parent": "/research/excavations/unearthing-the-truth-current-controversies-in-biblical-archaeology",
+    "priority": 65,
+    "category": "excavations"
+  },
+  "debunking-the-top-misconceptions-about-biblical-archaeology": {
+    "tier": "support",
+    "cluster": "truth-biblical",
+    "parent": "/research/excavations/unearthing-the-truth-current-controversies-in-biblical-archaeology",
+    "priority": 62,
+    "category": "excavations"
+  },
+  "unearthing-the-truth-how-biblical-archaeology-shaped-religious-beliefs": {
+    "tier": "support",
+    "cluster": "truth-biblical",
+    "parent": "/research/excavations/unearthing-the-truth-current-controversies-in-biblical-archaeology",
+    "priority": 59,
+    "category": "excavations"
+  },
+  "unveiling-the-truth-biblical-archaeologists-debunk-popular-misconceptions": {
+    "tier": "support",
+    "cluster": "truth-biblical",
+    "parent": "/research/excavations/unearthing-the-truth-current-controversies-in-biblical-archaeology",
+    "priority": 56,
+    "category": "excavations"
+  },
+  "debunking-misconceptions-about-biblical-archaeology": {
+    "tier": "support",
+    "cluster": "truth-biblical",
+    "parent": "/research/excavations/unearthing-the-truth-current-controversies-in-biblical-archaeology",
+    "priority": 53,
+    "category": "excavations"
+  },
+  "unearthing-the-truth-how-biblical-archaeology-unveils-ancient-laws-and-legal-systems": {
+    "tier": "support",
+    "cluster": "truth-biblical",
+    "parent": "/research/excavations/unearthing-the-truth-current-controversies-in-biblical-archaeology",
+    "priority": 50,
+    "category": "excavations"
+  },
+  "exploring-the-ethical-implications-of-displaying-biblical-archaeological-artifacts": {
+    "tier": "pillar",
+    "cluster": "ark-covenant",
+    "parent": "/research/artifacts",
+    "priority": 95,
+    "category": "artifacts"
+  },
+  "exploring-the-moral-dilemmas-surrounding-collecting-and-interpreting-biblical-artifacts": {
+    "tier": "support",
+    "cluster": "ark-covenant",
+    "parent": "/research/artifacts/exploring-the-ethical-implications-of-displaying-biblical-archaeological-artifacts",
+    "priority": 77,
+    "category": "artifacts"
+  },
+  "differences-between-sinaiticus-and-vaticanus": {
+    "tier": "support",
+    "cluster": "ark-covenant",
+    "parent": "/research/artifacts/exploring-the-ethical-implications-of-displaying-biblical-archaeological-artifacts",
+    "priority": 74,
+    "category": "artifacts"
+  },
+  "replicas-in-exile-the-quest-for-the-real-ark-of-the-covenant": {
+    "tier": "support",
+    "cluster": "ark-covenant",
+    "parent": "/research/artifacts/exploring-the-ethical-implications-of-displaying-biblical-archaeological-artifacts",
+    "priority": 71,
+    "category": "artifacts"
+  },
+  "hebrew-aramaic-greek-biblical-languages-explained": {
+    "tier": "support",
+    "cluster": "ark-covenant",
+    "parent": "/research/artifacts/exploring-the-ethical-implications-of-displaying-biblical-archaeological-artifacts",
+    "priority": 68,
+    "category": "artifacts"
+  },
+  "unearthing-the-secrets-the-quest-for-the-ark-of-the-covenant": {
+    "tier": "support",
+    "cluster": "ark-covenant",
+    "parent": "/research/artifacts/exploring-the-ethical-implications-of-displaying-biblical-archaeological-artifacts",
+    "priority": 65,
+    "category": "artifacts"
+  },
+  "jordan-baptism-site-jar-unveiling-repentance-themes-in-desert-waters": {
+    "tier": "support",
+    "cluster": "ark-covenant",
+    "parent": "/research/artifacts/exploring-the-ethical-implications-of-displaying-biblical-archaeological-artifacts",
+    "priority": 62,
+    "category": "artifacts"
+  },
+  "the-secret-palace-tunnel-uncovering-the-legend-of-the-arks-hidden-resting-place": {
+    "tier": "support",
+    "cluster": "ark-covenant",
+    "parent": "/research/artifacts/exploring-the-ethical-implications-of-displaying-biblical-archaeological-artifacts",
+    "priority": 59,
+    "category": "artifacts"
+  },
+  "the-last-stand-in-battle-how-the-ark-lifts-the-courage-of-the-outnumbered": {
+    "tier": "support",
+    "cluster": "ark-covenant",
+    "parent": "/research/artifacts/exploring-the-ethical-implications-of-displaying-biblical-archaeological-artifacts",
+    "priority": 56,
+    "category": "artifacts"
+  },
+  "acacia-wood-blueprint-a-deep-dive-into-the-arks-design": {
+    "tier": "support",
+    "cluster": "ark-covenant",
+    "parent": "/research/artifacts/exploring-the-ethical-implications-of-displaying-biblical-archaeological-artifacts",
+    "priority": 53,
+    "category": "artifacts"
+  },
+  "the-ascetic-communitys-role-in-preparing-for-the-arks-anticipated-return": {
+    "tier": "support",
+    "cluster": "ark-covenant",
+    "parent": "/research/artifacts/exploring-the-ethical-implications-of-displaying-biblical-archaeological-artifacts",
+    "priority": 50,
+    "category": "artifacts"
+  },
+  "the-arks-moral-authority-in-turmoil-a-deep-dive-into-the-tablets-of-law": {
+    "tier": "support",
+    "cluster": "ark-covenant",
+    "parent": "/research/artifacts/exploring-the-ethical-implications-of-displaying-biblical-archaeological-artifacts",
+    "priority": 47,
+    "category": "artifacts"
+  },
+  "what-is-the-masoretic-text-and-how-was-it-formed": {
+    "tier": "support",
+    "cluster": "ark-covenant",
+    "parent": "/research/artifacts/exploring-the-ethical-implications-of-displaying-biblical-archaeological-artifacts",
+    "priority": 44,
+    "category": "artifacts"
+  },
+  "how-church-fathers-help-reconstruct-originals": {
+    "tier": "support",
+    "cluster": "ark-covenant",
+    "parent": "/research/artifacts/exploring-the-ethical-implications-of-displaying-biblical-archaeological-artifacts",
+    "priority": 41,
+    "category": "artifacts"
+  },
+  "where-to-access-biblical-manuscripts-online-today": {
+    "tier": "support",
+    "cluster": "ark-covenant",
+    "parent": "/research/artifacts/exploring-the-ethical-implications-of-displaying-biblical-archaeological-artifacts",
+    "priority": 38,
+    "category": "artifacts"
+  },
+  "differences-in-biblical-canon-among-traditions": {
+    "tier": "support",
+    "cluster": "ark-covenant",
+    "parent": "/research/artifacts/exploring-the-ethical-implications-of-displaying-biblical-archaeological-artifacts",
+    "priority": 35,
+    "category": "artifacts"
+  },
+  "how-the-documentary-hypothesis-shapes-origins": {
+    "tier": "support",
+    "cluster": "ark-covenant",
+    "parent": "/research/artifacts/exploring-the-ethical-implications-of-displaying-biblical-archaeological-artifacts",
+    "priority": 32,
+    "category": "artifacts"
+  },
+  "what-is-codex-sinaiticus-and-why-its-important": {
+    "tier": "support",
+    "cluster": "ark-covenant",
+    "parent": "/research/artifacts/exploring-the-ethical-implications-of-displaying-biblical-archaeological-artifacts",
+    "priority": 29,
+    "category": "artifacts"
+  },
+  "why-the-samaritan-pentateuch-matters-to-origins": {
+    "tier": "support",
+    "cluster": "ark-covenant",
+    "parent": "/research/artifacts/exploring-the-ethical-implications-of-displaying-biblical-archaeological-artifacts",
+    "priority": 26,
+    "category": "artifacts"
+  },
+  "what-is-the-synoptic-problem-and-why-it-matters": {
+    "tier": "support",
+    "cluster": "ark-covenant",
+    "parent": "/research/artifacts/exploring-the-ethical-implications-of-displaying-biblical-archaeological-artifacts",
+    "priority": 23,
+    "category": "artifacts"
+  },
+  "when-was-the-biblical-canon-officially-closed": {
+    "tier": "support",
+    "cluster": "ark-covenant",
+    "parent": "/research/artifacts/exploring-the-ethical-implications-of-displaying-biblical-archaeological-artifacts",
+    "priority": 20,
+    "category": "artifacts"
+  },
+  "whats-the-earliest-fragments-of-the-bible-we-have": {
+    "tier": "support",
+    "cluster": "ark-covenant",
+    "parent": "/research/artifacts/exploring-the-ethical-implications-of-displaying-biblical-archaeological-artifacts",
+    "priority": 17,
+    "category": "artifacts"
+  },
+  "biblical-interpolations-what-were-added-later": {
+    "tier": "support",
+    "cluster": "ark-covenant",
+    "parent": "/research/artifacts/exploring-the-ethical-implications-of-displaying-biblical-archaeological-artifacts",
+    "priority": 14,
+    "category": "artifacts"
+  },
+  "what-are-textual-variants-in-the-new-testament": {
+    "tier": "support",
+    "cluster": "ark-covenant",
+    "parent": "/research/artifacts/exploring-the-ethical-implications-of-displaying-biblical-archaeological-artifacts",
+    "priority": 11,
+    "category": "artifacts"
+  },
+  "what-is-the-textus-receptus-and-why-it-still-matters": {
+    "tier": "support",
+    "cluster": "ark-covenant",
+    "parent": "/research/artifacts/exploring-the-ethical-implications-of-displaying-biblical-archaeological-artifacts",
+    "priority": 10,
+    "category": "artifacts"
+  },
+  "top-archives-where-originals-are-kept-today": {
+    "tier": "support",
+    "cluster": "ark-covenant",
+    "parent": "/research/artifacts/exploring-the-ethical-implications-of-displaying-biblical-archaeological-artifacts",
+    "priority": 10,
+    "category": "artifacts"
+  },
+  "how-many-new-testament-manuscripts-exist-today": {
+    "tier": "support",
+    "cluster": "ark-covenant",
+    "parent": "/research/artifacts/exploring-the-ethical-implications-of-displaying-biblical-archaeological-artifacts",
+    "priority": 10,
+    "category": "artifacts"
+  },
+  "qumrans-empty-cave-unveiling-the-kindness-manifestos-in-fragments": {
+    "tier": "pillar",
+    "cluster": "sheds-light",
+    "parent": "/research/artifacts",
+    "priority": 93,
+    "category": "artifacts"
+  },
+  "the-john-rylands-papyrus-first-century-gospel-fragment-2": {
+    "tier": "support",
+    "cluster": "sheds-light",
+    "parent": "/research/artifacts/qumrans-empty-cave-unveiling-the-kindness-manifestos-in-fragments",
+    "priority": 77,
+    "category": "artifacts"
+  },
+  "the-temple-blueprint-scroll-unveiling-the-arks-golden-overlay": {
+    "tier": "support",
+    "cluster": "sheds-light",
+    "parent": "/research/artifacts/qumrans-empty-cave-unveiling-the-kindness-manifestos-in-fragments",
+    "priority": 74,
+    "category": "artifacts"
+  },
+  "battered-column-chest-a-scroll-unveiling-temple-greed": {
+    "tier": "support",
+    "cluster": "sheds-light",
+    "parent": "/research/artifacts/qumrans-empty-cave-unveiling-the-kindness-manifestos-in-fragments",
+    "priority": 71,
+    "category": "artifacts"
+  },
+  "was-the-bible-originally-oral-tradition-or-text": {
+    "tier": "support",
+    "cluster": "sheds-light",
+    "parent": "/research/artifacts/qumrans-empty-cave-unveiling-the-kindness-manifestos-in-fragments",
+    "priority": 68,
+    "category": "artifacts"
+  },
+  "what-is-the-ubs-na-critical-edition-of-the-bible": {
+    "tier": "support",
+    "cluster": "sheds-light",
+    "parent": "/research/artifacts/qumrans-empty-cave-unveiling-the-kindness-manifestos-in-fragments",
+    "priority": 65,
+    "category": "artifacts"
+  },
+  "how-septuagint-shed-light-on-early-hebrew-text": {
+    "tier": "support",
+    "cluster": "sheds-light",
+    "parent": "/research/artifacts/qumrans-empty-cave-unveiling-the-kindness-manifestos-in-fragments",
+    "priority": 62,
+    "category": "artifacts"
+  },
+  "why-bibles-manuscripts-outnumber-many-histories": {
+    "tier": "support",
+    "cluster": "sheds-light",
+    "parent": "/research/artifacts/qumrans-empty-cave-unveiling-the-kindness-manifestos-in-fragments",
+    "priority": 59,
+    "category": "artifacts"
+  },
+  "the-john-rylands-papyrus-first-century-gospel-fragment": {
+    "tier": "support",
+    "cluster": "sheds-light",
+    "parent": "/research/artifacts/qumrans-empty-cave-unveiling-the-kindness-manifestos-in-fragments",
+    "priority": 56,
+    "category": "artifacts"
+  },
+  "could-we-ever-find-the-original-bible-again": {
+    "tier": "support",
+    "cluster": "sheds-light",
+    "parent": "/research/artifacts/qumrans-empty-cave-unveiling-the-kindness-manifestos-in-fragments",
+    "priority": 53,
+    "category": "artifacts"
+  },
+  "first-temple-period-royal-seal-collection-unearthed": {
+    "tier": "support",
+    "cluster": "sheds-light",
+    "parent": "/research/artifacts/qumrans-empty-cave-unveiling-the-kindness-manifestos-in-fragments",
+    "priority": 50,
+    "category": "artifacts"
+  },
+  "which-bible-verses-are-most-disputed-by-variants": {
+    "tier": "support",
+    "cluster": "sheds-light",
+    "parent": "/research/artifacts/qumrans-empty-cave-unveiling-the-kindness-manifestos-in-fragments",
+    "priority": 47,
+    "category": "artifacts"
+  },
+  "why-the-gutenberg-bible-marked-a-turning-point": {
+    "tier": "support",
+    "cluster": "sheds-light",
+    "parent": "/research/artifacts/qumrans-empty-cave-unveiling-the-kindness-manifestos-in-fragments",
+    "priority": 44,
+    "category": "artifacts"
+  },
+  "who-wrote-the-first-copy-of-each-gospel": {
+    "tier": "support",
+    "cluster": "sheds-light",
+    "parent": "/research/artifacts/qumrans-empty-cave-unveiling-the-kindness-manifestos-in-fragments",
+    "priority": 41,
+    "category": "artifacts"
+  },
+  "where-you-can-view-high-res-original-manuscripts": {
+    "tier": "support",
+    "cluster": "sheds-light",
+    "parent": "/research/artifacts/qumrans-empty-cave-unveiling-the-kindness-manifestos-in-fragments",
+    "priority": 38,
+    "category": "artifacts"
+  },
+  "why-we-dont-have-the-bibles-original-autographs": {
+    "tier": "support",
+    "cluster": "sheds-light",
+    "parent": "/research/artifacts/qumrans-empty-cave-unveiling-the-kindness-manifestos-in-fragments",
+    "priority": 35,
+    "category": "artifacts"
+  },
+  "the-evolution-of-temple-worship-artifacts": {
+    "tier": "support",
+    "cluster": "sheds-light",
+    "parent": "/research/artifacts/qumrans-empty-cave-unveiling-the-kindness-manifestos-in-fragments",
+    "priority": 32,
+    "category": "artifacts"
+  },
+  "temple-artifacts-reveal-ancient-worship-practices": {
+    "tier": "support",
+    "cluster": "sheds-light",
+    "parent": "/research/artifacts/qumrans-empty-cave-unveiling-the-kindness-manifestos-in-fragments",
+    "priority": 29,
+    "category": "artifacts"
+  },
+  "how-and-why-the-original-bible-autographs-were-lost": {
+    "tier": "support",
+    "cluster": "sheds-light",
+    "parent": "/research/artifacts/qumrans-empty-cave-unveiling-the-kindness-manifestos-in-fragments",
+    "priority": 26,
+    "category": "artifacts"
+  },
+  "what-do-people-mean-by-original-bible-explained": {
+    "tier": "support",
+    "cluster": "sheds-light",
+    "parent": "/research/artifacts/qumrans-empty-cave-unveiling-the-kindness-manifestos-in-fragments",
+    "priority": 23,
+    "category": "artifacts"
+  },
+  "what-languages-was-the-bible-first-written-in": {
+    "tier": "support",
+    "cluster": "sheds-light",
+    "parent": "/research/artifacts/qumrans-empty-cave-unveiling-the-kindness-manifestos-in-fragments",
+    "priority": 20,
+    "category": "artifacts"
+  },
+  "why-the-septuagint-is-called-the-first-bible": {
+    "tier": "support",
+    "cluster": "sheds-light",
+    "parent": "/research/artifacts/qumrans-empty-cave-unveiling-the-kindness-manifestos-in-fragments",
+    "priority": 17,
+    "category": "artifacts"
+  },
+  "are-any-original-bible-manuscripts-still-in-existence": {
+    "tier": "support",
+    "cluster": "sheds-light",
+    "parent": "/research/artifacts/qumrans-empty-cave-unveiling-the-kindness-manifestos-in-fragments",
+    "priority": 14,
+    "category": "artifacts"
+  },
+  "3-methods-to-identify-genuine-and-counterfeit-artifacts-in-biblical-archaeology": {
+    "tier": "pillar",
+    "cluster": "ancient-artifacts",
+    "parent": "/research/artifacts",
+    "priority": 97,
+    "category": "artifacts"
+  },
+  "methods-used-by-biblical-archaeologists-to-date-ancient-artifacts": {
+    "tier": "support",
+    "cluster": "ancient-artifacts",
+    "parent": "/research/artifacts/3-methods-to-identify-genuine-and-counterfeit-artifacts-in-biblical-archaeology",
+    "priority": 77,
+    "category": "artifacts"
+  },
+  "unraveling-the-significance-of-biblical-archaeological-artifacts": {
+    "tier": "support",
+    "cluster": "ancient-artifacts",
+    "parent": "/research/artifacts/3-methods-to-identify-genuine-and-counterfeit-artifacts-in-biblical-archaeology",
+    "priority": 74,
+    "category": "artifacts"
+  },
+  "10-most-important-biblical-artifacts-discovered": {
+    "tier": "support",
+    "cluster": "ancient-artifacts",
+    "parent": "/research/artifacts/3-methods-to-identify-genuine-and-counterfeit-artifacts-in-biblical-archaeology",
+    "priority": 71,
+    "category": "artifacts"
+  },
+  "uncovering-the-mysteries-fascinating-artifacts-discovered-by-biblical-archaeologists": {
+    "tier": "support",
+    "cluster": "ancient-artifacts",
+    "parent": "/research/artifacts/3-methods-to-identify-genuine-and-counterfeit-artifacts-in-biblical-archaeology",
+    "priority": 68,
+    "category": "artifacts"
+  },
+  "exploring-the-best-methods-for-analyzing-artifacts-in-biblical-archaeology": {
+    "tier": "support",
+    "cluster": "ancient-artifacts",
+    "parent": "/research/artifacts/3-methods-to-identify-genuine-and-counterfeit-artifacts-in-biblical-archaeology",
+    "priority": 65,
+    "category": "artifacts"
+  },
+  "exploring-the-wilderness-insights-from-the-bethlehem-monastery-chest": {
+    "tier": "support",
+    "cluster": "ancient-artifacts",
+    "parent": "/research/artifacts/3-methods-to-identify-genuine-and-counterfeit-artifacts-in-biblical-archaeology",
+    "priority": 62,
+    "category": "artifacts"
+  },
+  "exploring-the-jericho-ruins-a-single-jar-of-agricultural-lamentations": {
+    "tier": "support",
+    "cluster": "ancient-artifacts",
+    "parent": "/research/artifacts/3-methods-to-identify-genuine-and-counterfeit-artifacts-in-biblical-archaeology",
+    "priority": 59,
+    "category": "artifacts"
+  },
+  "ravine-settlement-a-glimpse-into-roman-rule-and-communal-documents": {
+    "tier": "support",
+    "cluster": "ancient-artifacts",
+    "parent": "/research/artifacts/3-methods-to-identify-genuine-and-counterfeit-artifacts-in-biblical-archaeology",
+    "priority": 56,
+    "category": "artifacts"
+  },
+  "ancient-hebrew-seal-collection-reveals-biblical-names": {
+    "tier": "support",
+    "cluster": "ancient-artifacts",
+    "parent": "/research/artifacts/3-methods-to-identify-genuine-and-counterfeit-artifacts-in-biblical-archaeology",
+    "priority": 53,
+    "category": "artifacts"
+  },
+  "biblical-archaeology-unearthing-ancient-secrets": {
+    "tier": "support",
+    "cluster": "ancient-artifacts",
+    "parent": "/research/artifacts/3-methods-to-identify-genuine-and-counterfeit-artifacts-in-biblical-archaeology",
+    "priority": 50,
+    "category": "artifacts"
+  },
+  "ancient-temple-seal-discovery-rewrites-biblical-history": {
+    "tier": "support",
+    "cluster": "ancient-artifacts",
+    "parent": "/research/artifacts/3-methods-to-identify-genuine-and-counterfeit-artifacts-in-biblical-archaeology",
+    "priority": 47,
+    "category": "artifacts"
+  },
+  "unearthing-the-hidden-stories-biblical-archaeology-reveals-ancient-pottery-and-ceramics": {
+    "tier": "pillar",
+    "cluster": "biblical-archaeology",
+    "parent": "/research/artifacts",
+    "priority": 95,
+    "category": "artifacts"
+  },
+  "how-archaeology-confirms-biblical-origins": {
+    "tier": "support",
+    "cluster": "biblical-archaeology",
+    "parent": "/research/artifacts/unearthing-the-hidden-stories-biblical-archaeology-reveals-ancient-pottery-and-ceramics",
+    "priority": 77,
+    "category": "artifacts"
+  },
+  "discover-fascinating-biblical-archaeology-artifacts-in-ancient-ruins": {
+    "tier": "support",
+    "cluster": "biblical-archaeology",
+    "parent": "/research/artifacts/unearthing-the-hidden-stories-biblical-archaeology-reveals-ancient-pottery-and-ceramics",
+    "priority": 74,
+    "category": "artifacts"
+  },
+  "how-scholars-reconstruct-the-earliest-texts-2": {
+    "tier": "support",
+    "cluster": "biblical-archaeology",
+    "parent": "/research/artifacts/unearthing-the-hidden-stories-biblical-archaeology-reveals-ancient-pottery-and-ceramics",
+    "priority": 71,
+    "category": "artifacts"
+  },
+  "how-codex-vaticanus-shapes-our-bible-text-today": {
+    "tier": "support",
+    "cluster": "biblical-archaeology",
+    "parent": "/research/artifacts/unearthing-the-hidden-stories-biblical-archaeology-reveals-ancient-pottery-and-ceramics",
+    "priority": 68,
+    "category": "artifacts"
+  },
+  "how-jeromes-vulgate-influenced-canon-texts": {
+    "tier": "support",
+    "cluster": "biblical-archaeology",
+    "parent": "/research/artifacts/unearthing-the-hidden-stories-biblical-archaeology-reveals-ancient-pottery-and-ceramics",
+    "priority": 65,
+    "category": "artifacts"
+  },
+  "how-many-old-testament-manuscripts-survive": {
+    "tier": "support",
+    "cluster": "biblical-archaeology",
+    "parent": "/research/artifacts/unearthing-the-hidden-stories-biblical-archaeology-reveals-ancient-pottery-and-ceramics",
+    "priority": 62,
+    "category": "artifacts"
+  },
+  "why-jerome-rejected-parts-of-the-septuagint": {
+    "tier": "support",
+    "cluster": "biblical-archaeology",
+    "parent": "/research/artifacts/unearthing-the-hidden-stories-biblical-archaeology-reveals-ancient-pottery-and-ceramics",
+    "priority": 59,
+    "category": "artifacts"
+  },
+  "scientific-site-analysis-of-biblical-archaeology": {
+    "tier": "support",
+    "cluster": "biblical-archaeology",
+    "parent": "/research/artifacts/unearthing-the-hidden-stories-biblical-archaeology-reveals-ancient-pottery-and-ceramics",
+    "priority": 56,
+    "category": "artifacts"
+  },
+  "alexandrian-vs-byzantine-vs-western-texts-explained": {
+    "tier": "support",
+    "cluster": "biblical-archaeology",
+    "parent": "/research/artifacts/unearthing-the-hidden-stories-biblical-archaeology-reveals-ancient-pottery-and-ceramics",
+    "priority": 53,
+    "category": "artifacts"
+  },
+  "what-is-the-oldest-complete-old-testament-manuscript": {
+    "tier": "pillar",
+    "cluster": "ancient-biblical",
+    "parent": "/research/artifacts",
+    "priority": 95,
+    "category": "artifacts"
+  },
+  "what-is-the-oldest-known-bible-artifact": {
+    "tier": "support",
+    "cluster": "ancient-biblical",
+    "parent": "/research/artifacts/what-is-the-oldest-complete-old-testament-manuscript",
+    "priority": 77,
+    "category": "artifacts"
+  },
+  "the-jordan-orchard-jar-a-glimpse-into-worship-rites-of-a-wandering-sect": {
+    "tier": "support",
+    "cluster": "ancient-biblical",
+    "parent": "/research/artifacts/what-is-the-oldest-complete-old-testament-manuscript",
+    "priority": 74,
+    "category": "artifacts"
+  },
+  "what-is-the-oldest-biblical-manuscript-we-have": {
+    "tier": "support",
+    "cluster": "ancient-biblical",
+    "parent": "/research/artifacts/what-is-the-oldest-complete-old-testament-manuscript",
+    "priority": 71,
+    "category": "artifacts"
+  },
+  "exploring-ancient-biblical-artifacts-the-role-of-archaeologists-in-museums": {
+    "tier": "support",
+    "cluster": "ancient-biblical",
+    "parent": "/research/artifacts/what-is-the-oldest-complete-old-testament-manuscript",
+    "priority": 68,
+    "category": "artifacts"
+  },
+  "what-is-the-oldest-biblical-artifact-ever-found": {
+    "tier": "support",
+    "cluster": "ancient-biblical",
+    "parent": "/research/artifacts/what-is-the-oldest-complete-old-testament-manuscript",
+    "priority": 65,
+    "category": "artifacts"
+  },
+  "preservation-methods-for-biblical-artifacts-uncovered": {
+    "tier": "support",
+    "cluster": "ancient-biblical",
+    "parent": "/research/artifacts/what-is-the-oldest-complete-old-testament-manuscript",
+    "priority": 62,
+    "category": "artifacts"
+  },
+  "qumrans-biblical-fragments-and-their-dating": {
+    "tier": "support",
+    "cluster": "ancient-biblical",
+    "parent": "/research/artifacts/what-is-the-oldest-complete-old-testament-manuscript",
+    "priority": 59,
+    "category": "artifacts"
+  },
+  "exploring-the-depths-the-future-of-underwater-biblical-archaeological-research": {
+    "tier": "pillar",
+    "cluster": "biblical-archaeologists",
+    "parent": "/research/faith",
+    "priority": 99,
+    "category": "faith"
+  },
+  "exploring-the-interconnections-religion-and-biblical-archaeological-research": {
+    "tier": "support",
+    "cluster": "biblical-archaeologists",
+    "parent": "/research/faith/exploring-the-depths-the-future-of-underwater-biblical-archaeological-research",
+    "priority": 77,
+    "category": "faith"
+  },
+  "comparing-old-and-new-testaments-central-themes": {
+    "tier": "support",
+    "cluster": "biblical-archaeologists",
+    "parent": "/research/faith/exploring-the-depths-the-future-of-underwater-biblical-archaeological-research",
+    "priority": 74,
+    "category": "faith"
+  },
+  "unearthing-the-secrets-discoveries-of-biblical-archaeologists": {
+    "tier": "support",
+    "cluster": "biblical-archaeologists",
+    "parent": "/research/faith/exploring-the-depths-the-future-of-underwater-biblical-archaeological-research",
+    "priority": 71,
+    "category": "faith"
+  },
+  "understanding-the-methods-of-biblical-archaeologists": {
+    "tier": "support",
+    "cluster": "biblical-archaeologists",
+    "parent": "/research/faith/exploring-the-depths-the-future-of-underwater-biblical-archaeological-research",
+    "priority": 68,
+    "category": "faith"
+  },
+  "what-were-the-scriptures-called-in-jesus-time": {
+    "tier": "support",
+    "cluster": "biblical-archaeologists",
+    "parent": "/research/faith/exploring-the-depths-the-future-of-underwater-biblical-archaeological-research",
+    "priority": 65,
+    "category": "faith"
+  },
+  "10-essential-tips-for-aspiring-biblical-archaeologists": {
+    "tier": "support",
+    "cluster": "biblical-archaeologists",
+    "parent": "/research/faith/exploring-the-depths-the-future-of-underwater-biblical-archaeological-research",
+    "priority": 62,
+    "category": "faith"
+  },
+  "uncovering-the-secrets-of-biblical-archaeologist-arthur-cushman-mcgiffert-iii": {
+    "tier": "support",
+    "cluster": "biblical-archaeologists",
+    "parent": "/research/faith/exploring-the-depths-the-future-of-underwater-biblical-archaeological-research",
+    "priority": 59,
+    "category": "faith"
+  },
+  "exploring-the-religious-significance-biblical-archaeologists-interpretations": {
+    "tier": "support",
+    "cluster": "biblical-archaeologists",
+    "parent": "/research/faith/exploring-the-depths-the-future-of-underwater-biblical-archaeological-research",
+    "priority": 56,
+    "category": "faith"
+  },
+  "unearthing-truth-the-battle-of-biblical-archaeologists-against-looting": {
+    "tier": "support",
+    "cluster": "biblical-archaeologists",
+    "parent": "/research/faith/exploring-the-depths-the-future-of-underwater-biblical-archaeological-research",
+    "priority": 53,
+    "category": "faith"
+  },
+  "understanding-the-old-testaments-central-themes": {
+    "tier": "support",
+    "cluster": "biblical-archaeologists",
+    "parent": "/research/faith/exploring-the-depths-the-future-of-underwater-biblical-archaeological-research",
+    "priority": 50,
+    "category": "faith"
+  },
+  "the-impact-of-biblical-archaeologists-on-cultural-heritage-preservation": {
+    "tier": "support",
+    "cluster": "biblical-archaeologists",
+    "parent": "/research/faith/exploring-the-depths-the-future-of-underwater-biblical-archaeological-research",
+    "priority": 47,
+    "category": "faith"
+  },
+  "unveiling-the-bias-exploring-religious-beliefs-in-biblical-archaeology": {
+    "tier": "support",
+    "cluster": "biblical-archaeologists",
+    "parent": "/research/faith/exploring-the-depths-the-future-of-underwater-biblical-archaeological-research",
+    "priority": 44,
+    "category": "faith"
+  },
+  "unraveling-the-qumran-mystery-nook-insights-into-sects-austerity-and-daily-study": {
+    "tier": "support",
+    "cluster": "biblical-archaeologists",
+    "parent": "/research/faith/exploring-the-depths-the-future-of-underwater-biblical-archaeological-research",
+    "priority": 41,
+    "category": "faith"
+  },
+  "unearthing-biblical-truths-the-impact-of-archaeology-on-modern-religious-beliefs": {
+    "tier": "support",
+    "cluster": "biblical-archaeologists",
+    "parent": "/research/faith/exploring-the-depths-the-future-of-underwater-biblical-archaeological-research",
+    "priority": 38,
+    "category": "faith"
+  },
+  "what-can-you-do-with-a-degree-in-biblical-studies": {
+    "tier": "support",
+    "cluster": "biblical-archaeologists",
+    "parent": "/research/faith/exploring-the-depths-the-future-of-underwater-biblical-archaeological-research",
+    "priority": 35,
+    "category": "faith"
+  },
+  "fishermans-vessel-the-role-of-water-as-purifier-in-desert-belief": {
+    "tier": "support",
+    "cluster": "biblical-archaeologists",
+    "parent": "/research/faith/exploring-the-depths-the-future-of-underwater-biblical-archaeological-research",
+    "priority": 32,
+    "category": "faith"
+  },
+  "exploring-the-secrets-of-biblical-seals": {
+    "tier": "support",
+    "cluster": "biblical-archaeologists",
+    "parent": "/research/faith/exploring-the-depths-the-future-of-underwater-biblical-archaeological-research",
+    "priority": 29,
+    "category": "faith"
+  },
+  "the-uncovered-secrets-most-intriguing-biblical-archaeological-discoveries": {
+    "tier": "pillar",
+    "cluster": "biblical-archaeological",
+    "parent": "/research/faith",
+    "priority": 96,
+    "category": "faith"
+  },
+  "a-guide-to-evaluating-the-credibility-of-biblical-archaeological-findings": {
+    "tier": "support",
+    "cluster": "biblical-archaeological",
+    "parent": "/research/faith/the-uncovered-secrets-most-intriguing-biblical-archaeological-discoveries",
+    "priority": 77,
+    "category": "faith"
+  },
+  "the-archaeological-evidence-of-ancient-maritime-trade-routes": {
+    "tier": "support",
+    "cluster": "biblical-archaeological",
+    "parent": "/research/faith/the-uncovered-secrets-most-intriguing-biblical-archaeological-discoveries",
+    "priority": 74,
+    "category": "faith"
+  },
+  "exploring-the-ethical-issues-in-biblical-archaeology": {
+    "tier": "support",
+    "cluster": "biblical-archaeological",
+    "parent": "/research/faith/the-uncovered-secrets-most-intriguing-biblical-archaeological-discoveries",
+    "priority": 71,
+    "category": "faith"
+  },
+  "exploring-ethical-considerations-in-biblical-archaeological-excavations": {
+    "tier": "support",
+    "cluster": "biblical-archaeological",
+    "parent": "/research/faith/the-uncovered-secrets-most-intriguing-biblical-archaeological-discoveries",
+    "priority": 68,
+    "category": "faith"
+  },
+  "mountaintop-shrine-pilgrims-seek-echoes-of-the-arks-holiness": {
+    "tier": "support",
+    "cluster": "biblical-archaeological",
+    "parent": "/research/faith/the-uncovered-secrets-most-intriguing-biblical-archaeological-discoveries",
+    "priority": 65,
+    "category": "faith"
+  },
+  "purification-rites-an-examination-of-strict-washings-before-moving-the-ark": {
+    "tier": "support",
+    "cluster": "biblical-archaeological",
+    "parent": "/research/faith/the-uncovered-secrets-most-intriguing-biblical-archaeological-discoveries",
+    "priority": 62,
+    "category": "faith"
+  },
+  "exploring-the-era-of-moral-decay-the-ark-as-humanitys-last-bastion": {
+    "tier": "support",
+    "cluster": "biblical-archaeological",
+    "parent": "/research/faith/the-uncovered-secrets-most-intriguing-biblical-archaeological-discoveries",
+    "priority": 59,
+    "category": "faith"
+  },
+  "exploring-the-mysteries-of-the-well-shaft-in-jericho-insights-into-ancient-ritual-cleansing": {
+    "tier": "support",
+    "cluster": "biblical-archaeological",
+    "parent": "/research/faith/the-uncovered-secrets-most-intriguing-biblical-archaeological-discoveries",
+    "priority": 56,
+    "category": "faith"
+  },
+  "unveiling-the-women-of-ancient-societies-a-biblical-archaeological-perspective": {
+    "tier": "support",
+    "cluster": "biblical-archaeological",
+    "parent": "/research/faith/the-uncovered-secrets-most-intriguing-biblical-archaeological-discoveries",
+    "priority": 53,
+    "category": "faith"
+  },
+  "unveiling-biblical-archaeological-finds-discovering-ancient-treasures": {
+    "tier": "support",
+    "cluster": "biblical-archaeological",
+    "parent": "/research/faith/the-uncovered-secrets-most-intriguing-biblical-archaeological-discoveries",
+    "priority": 50,
+    "category": "faith"
+  },
+  "what-are-the-archaeological-techniques": {
+    "tier": "support",
+    "cluster": "biblical-archaeological",
+    "parent": "/research/faith/the-uncovered-secrets-most-intriguing-biblical-archaeological-discoveries",
+    "priority": 47,
+    "category": "faith"
+  },
+  "biblical-archaeology-unearths-ancient-sacred-crafts": {
+    "tier": "support",
+    "cluster": "biblical-archaeological",
+    "parent": "/research/faith/the-uncovered-secrets-most-intriguing-biblical-archaeological-discoveries",
+    "priority": 44,
+    "category": "faith"
+  },
+  "temple-construction-insights-biblical-and-archaeological-connections": {
+    "tier": "support",
+    "cluster": "biblical-archaeological",
+    "parent": "/research/faith/the-uncovered-secrets-most-intriguing-biblical-archaeological-discoveries",
+    "priority": 41,
+    "category": "faith"
+  },
+  "the-infamous-relics-famous-fakes-and-forgeries-in-biblical-archaeology": {
+    "tier": "pillar",
+    "cluster": "biblical-archaeology",
+    "parent": "/research/faith",
+    "priority": 97,
+    "category": "faith"
+  },
+  "exploring-the-connections-between-biblical-archaeology-and-ancient-music": {
+    "tier": "support",
+    "cluster": "biblical-archaeology",
+    "parent": "/research/faith/the-infamous-relics-famous-fakes-and-forgeries-in-biblical-archaeology",
+    "priority": 77,
+    "category": "faith"
+  },
+  "unearthed-secrets-debunking-myths-of-biblical-archaeology": {
+    "tier": "support",
+    "cluster": "biblical-archaeology",
+    "parent": "/research/faith/the-infamous-relics-famous-fakes-and-forgeries-in-biblical-archaeology",
+    "priority": 74,
+    "category": "faith"
+  },
+  "uncovering-ancient-cities-through-biblical-archaeology": {
+    "tier": "support",
+    "cluster": "biblical-archaeology",
+    "parent": "/research/faith/the-infamous-relics-famous-fakes-and-forgeries-in-biblical-archaeology",
+    "priority": 71,
+    "category": "faith"
+  },
+  "understanding-biblical-archaeology-decoding-the-past": {
+    "tier": "support",
+    "cluster": "biblical-archaeology",
+    "parent": "/research/faith/the-infamous-relics-famous-fakes-and-forgeries-in-biblical-archaeology",
+    "priority": 68,
+    "category": "faith"
+  },
+  "unraveling-the-controversy-biblical-archaeologys-debated-findings": {
+    "tier": "support",
+    "cluster": "biblical-archaeology",
+    "parent": "/research/faith/the-infamous-relics-famous-fakes-and-forgeries-in-biblical-archaeology",
+    "priority": 65,
+    "category": "faith"
+  },
+  "uncovering-ancient-trading-networks-through-biblical-archaeology": {
+    "tier": "support",
+    "cluster": "biblical-archaeology",
+    "parent": "/research/faith/the-infamous-relics-famous-fakes-and-forgeries-in-biblical-archaeology",
+    "priority": 62,
+    "category": "faith"
+  },
+  "discovering-hidden-treasures-the-art-of-biblical-archaeology": {
+    "tier": "support",
+    "cluster": "biblical-archaeology",
+    "parent": "/research/faith/the-infamous-relics-famous-fakes-and-forgeries-in-biblical-archaeology",
+    "priority": 59,
+    "category": "faith"
+  },
+  "uncovering-ancient-trade-routes-through-biblical-archaeology": {
+    "tier": "support",
+    "cluster": "biblical-archaeology",
+    "parent": "/research/faith/the-infamous-relics-famous-fakes-and-forgeries-in-biblical-archaeology",
+    "priority": 56,
+    "category": "faith"
+  },
+  "uncovering-the-mysteries-the-future-of-biblical-archaeology": {
+    "tier": "support",
+    "cluster": "biblical-archaeology",
+    "parent": "/research/faith/the-infamous-relics-famous-fakes-and-forgeries-in-biblical-archaeology",
+    "priority": 53,
+    "category": "faith"
+  },
+  "unearthing-the-truth-the-impact-of-biblical-archaeology-on-biblical-interpretation": {
+    "tier": "support",
+    "cluster": "biblical-archaeology",
+    "parent": "/research/faith/the-infamous-relics-famous-fakes-and-forgeries-in-biblical-archaeology",
+    "priority": 50,
+    "category": "faith"
+  },
+  "exploring-the-influence-of-biblical-archaeology-on-religious-traditions": {
+    "tier": "support",
+    "cluster": "biblical-archaeology",
+    "parent": "/research/faith/the-infamous-relics-famous-fakes-and-forgeries-in-biblical-archaeology",
+    "priority": 47,
+    "category": "faith"
+  },
+  "exploring-ancient-languages-through-biblical-archaeology": {
+    "tier": "support",
+    "cluster": "biblical-archaeology",
+    "parent": "/research/faith/the-infamous-relics-famous-fakes-and-forgeries-in-biblical-archaeology",
+    "priority": 44,
+    "category": "faith"
+  },
+  "biblical-archaeology-uncovers-ancient-mysteries": {
+    "tier": "support",
+    "cluster": "biblical-archaeology",
+    "parent": "/research/faith/the-infamous-relics-famous-fakes-and-forgeries-in-biblical-archaeology",
+    "priority": 41,
+    "category": "faith"
+  },
+  "lightning-shattered-cliff-a-glimpse-of-future-peace-in-the-modern-world": {
+    "tier": "support",
+    "cluster": "biblical-archaeology",
+    "parent": "/research/faith/the-infamous-relics-famous-fakes-and-forgeries-in-biblical-archaeology",
+    "priority": 38,
+    "category": "faith"
+  },
+  "watchtower-jar-navigating-sect-identity-amid-urban-faith-conflicts": {
+    "tier": "support",
+    "cluster": "biblical-archaeology",
+    "parent": "/research/faith/the-infamous-relics-famous-fakes-and-forgeries-in-biblical-archaeology",
+    "priority": 35,
+    "category": "faith"
+  },
+  "desert-hostel-stone-a-teachers-vision-of-liberation": {
+    "tier": "support",
+    "cluster": "biblical-archaeology",
+    "parent": "/research/faith/the-infamous-relics-famous-fakes-and-forgeries-in-biblical-archaeology",
+    "priority": 32,
+    "category": "faith"
+  },
+  "unveiling-the-intriguing-world-of-biblical-archaeology-history": {
+    "tier": "support",
+    "cluster": "biblical-archaeology",
+    "parent": "/research/faith/the-infamous-relics-famous-fakes-and-forgeries-in-biblical-archaeology",
+    "priority": 29,
+    "category": "faith"
+  },
+  "exploring-the-roman-encampment-chamber-insights-into-minority-faiths-under-empire": {
+    "tier": "support",
+    "cluster": "biblical-archaeology",
+    "parent": "/research/faith/the-infamous-relics-famous-fakes-and-forgeries-in-biblical-archaeology",
+    "priority": 26,
+    "category": "faith"
+  },
+  "exciting-discoveries-await-biblical-archaeology-excavation-teams": {
+    "tier": "support",
+    "cluster": "biblical-archaeology",
+    "parent": "/research/faith/the-infamous-relics-famous-fakes-and-forgeries-in-biblical-archaeology",
+    "priority": 23,
+    "category": "faith"
+  },
+  "biblical-archaeologys-influence-on-modern-faith": {
+    "tier": "support",
+    "cluster": "biblical-archaeology",
+    "parent": "/research/faith/the-infamous-relics-famous-fakes-and-forgeries-in-biblical-archaeology",
+    "priority": 20,
+    "category": "faith"
+  },
+  "biblical-archaeology-illuminating-the-word-of-god": {
+    "tier": "support",
+    "cluster": "biblical-archaeology",
+    "parent": "/research/faith/the-infamous-relics-famous-fakes-and-forgeries-in-biblical-archaeology",
+    "priority": 17,
+    "category": "faith"
+  },
+  "the-fortress-vault-rumor-unraveling-sacred-items-linked-to-the-arks-contents": {
+    "tier": "support",
+    "cluster": "biblical-archaeology",
+    "parent": "/research/faith/the-infamous-relics-famous-fakes-and-forgeries-in-biblical-archaeology",
+    "priority": 14,
+    "category": "faith"
+  },
+  "biblical-archaeology-uncovering-rare-relics-understanding-past": {
+    "tier": "support",
+    "cluster": "biblical-archaeology",
+    "parent": "/research/faith/the-infamous-relics-famous-fakes-and-forgeries-in-biblical-archaeology",
+    "priority": 11,
+    "category": "faith"
+  },
+  "how-does-biblical-archaeology-relate-to-the-interpretation-of-biblical-texts": {
+    "tier": "support",
+    "cluster": "biblical-archaeology",
+    "parent": "/research/faith/the-infamous-relics-famous-fakes-and-forgeries-in-biblical-archaeology",
+    "priority": 10,
+    "category": "faith"
+  },
+  "what-does-the-name-archaeology-mean": {
+    "tier": "support",
+    "cluster": "biblical-archaeology",
+    "parent": "/research/faith/the-infamous-relics-famous-fakes-and-forgeries-in-biblical-archaeology",
+    "priority": 10,
+    "category": "faith"
+  },
+  "shepherds-cave-discovery-unearthing-the-secrets-of-ancient-scrolls": {
+    "tier": "support",
+    "cluster": "biblical-archaeology",
+    "parent": "/research/faith/the-infamous-relics-famous-fakes-and-forgeries-in-biblical-archaeology",
+    "priority": 10,
+    "category": "faith"
+  },
+  "exploring-the-depths-of-biblical-archaeology": {
+    "tier": "support",
+    "cluster": "biblical-archaeology",
+    "parent": "/research/faith/the-infamous-relics-famous-fakes-and-forgeries-in-biblical-archaeology",
+    "priority": 10,
+    "category": "faith"
+  },
+  "biblical-archaeology-from-ruins-to-revelation": {
+    "tier": "support",
+    "cluster": "biblical-archaeology",
+    "parent": "/research/faith/the-infamous-relics-famous-fakes-and-forgeries-in-biblical-archaeology",
+    "priority": 10,
+    "category": "faith"
+  },
+  "the-hidden-passageway-to-the-messianic-banquet-unearthing-biblical-secrets": {
+    "tier": "pillar",
+    "cluster": "unraveling-biblical",
+    "parent": "/research/faith",
+    "priority": 93,
+    "category": "faith"
+  },
+  "cliff-stone-platform-a-study-of-the-apocalyptic-day-of-reckoning": {
+    "tier": "support",
+    "cluster": "unraveling-biblical",
+    "parent": "/research/faith/the-hidden-passageway-to-the-messianic-banquet-unearthing-biblical-secrets",
+    "priority": 77,
+    "category": "faith"
+  },
+  "exploring-the-galilean-synagogue-mosaic-a-study-of-festal-rites": {
+    "tier": "support",
+    "cluster": "unraveling-biblical",
+    "parent": "/research/faith/the-hidden-passageway-to-the-messianic-banquet-unearthing-biblical-secrets",
+    "priority": 74,
+    "category": "faith"
+  },
+  "unraveling-the-mysteries-of-biblical-history-research": {
+    "tier": "support",
+    "cluster": "unraveling-biblical",
+    "parent": "/research/faith/the-hidden-passageway-to-the-messianic-banquet-unearthing-biblical-secrets",
+    "priority": 71,
+    "category": "faith"
+  },
+  "desert-fortress-jars-a-quest-for-purity-in-a-world-of-corruption": {
+    "tier": "support",
+    "cluster": "unraveling-biblical",
+    "parent": "/research/faith/the-hidden-passageway-to-the-messianic-banquet-unearthing-biblical-secrets",
+    "priority": 68,
+    "category": "faith"
+  },
+  "hidden-fort-corridor-the-intersection-of-wealth-and-holy-ethics": {
+    "tier": "pillar",
+    "cluster": "ancient-prophecies",
+    "parent": "/research/faith",
+    "priority": 93,
+    "category": "faith"
+  },
+  "coin-hoard-clue-analyzing-the-scribes-prophecy-of-coming-judgment": {
+    "tier": "support",
+    "cluster": "ancient-prophecies",
+    "parent": "/research/faith/hidden-fort-corridor-the-intersection-of-wealth-and-holy-ethics",
+    "priority": 77,
+    "category": "faith"
+  },
+  "the-kings-grand-procession-unveiling-the-victory-tied-to-the-arks-presence": {
+    "tier": "support",
+    "cluster": "ancient-prophecies",
+    "parent": "/research/faith/hidden-fort-corridor-the-intersection-of-wealth-and-holy-ethics",
+    "priority": 74,
+    "category": "faith"
+  },
+  "the-forbidden-cave-plateau-unearthing-war-time-prophecies-of-justice": {
+    "tier": "support",
+    "cluster": "ancient-prophecies",
+    "parent": "/research/faith/hidden-fort-corridor-the-intersection-of-wealth-and-holy-ethics",
+    "priority": 71,
+    "category": "faith"
+  },
+  "the-ancient-city-unpacking-prophecy-and-ethics-within-the-hidden-chest": {
+    "tier": "support",
+    "cluster": "ancient-prophecies",
+    "parent": "/research/faith/hidden-fort-corridor-the-intersection-of-wealth-and-holy-ethics",
+    "priority": 68,
+    "category": "faith"
+  },
+  "unraveling-ancient-cultures-through-biblical-archaeology": {
+    "tier": "pillar",
+    "cluster": "unraveling-ancient",
+    "parent": "/research/faith",
+    "priority": 95,
+    "category": "faith"
+  },
+  "exploring-the-jericho-cellar-tapestry-a-journey-through-psalms-of-faith-under-adversity": {
+    "tier": "support",
+    "cluster": "unraveling-ancient",
+    "parent": "/research/faith/unraveling-ancient-cultures-through-biblical-archaeology",
+    "priority": 77,
+    "category": "faith"
+  },
+  "high-holy-psalms-the-melodic-prayer-of-priests-circling-the-ark": {
+    "tier": "support",
+    "cluster": "unraveling-ancient",
+    "parent": "/research/faith/unraveling-ancient-cultures-through-biblical-archaeology",
+    "priority": 74,
+    "category": "faith"
+  },
+  "masadas-charred-parchment-a-window-into-ancient-prayers-for-deliverance": {
+    "tier": "support",
+    "cluster": "unraveling-ancient",
+    "parent": "/research/faith/unraveling-ancient-cultures-through-biblical-archaeology",
+    "priority": 71,
+    "category": "faith"
+  },
+  "language-of-the-testaments": {
+    "tier": "support",
+    "cluster": "unraveling-ancient",
+    "parent": "/research/faith/unraveling-ancient-cultures-through-biblical-archaeology",
+    "priority": 68,
+    "category": "faith"
+  },
+  "date-palm-crevice-a-sanctuary-of-faith": {
+    "tier": "support",
+    "cluster": "unraveling-ancient",
+    "parent": "/research/faith/unraveling-ancient-cultures-through-biblical-archaeology",
+    "priority": 65,
+    "category": "faith"
+  },
+  "the-olive-press-cache-unveiling-temple-seals-and-scripture-lines": {
+    "tier": "pillar",
+    "cluster": "discover-ancient",
+    "parent": "/research/faith",
+    "priority": 93,
+    "category": "faith"
+  },
+  "dead-sea-cliffs-unlocking-the-hidden-library-of-prophetic-insights": {
+    "tier": "support",
+    "cluster": "discover-ancient",
+    "parent": "/research/faith/the-olive-press-cache-unveiling-temple-seals-and-scripture-lines",
+    "priority": 77,
+    "category": "faith"
+  },
+  "discover-notable-biblical-excavations-unearthed": {
+    "tier": "support",
+    "cluster": "discover-ancient",
+    "parent": "/research/faith/the-olive-press-cache-unveiling-temple-seals-and-scripture-lines",
+    "priority": 74,
+    "category": "faith"
+  },
+  "ancient-jewish-quarter-reveals-temple-era-commerce": {
+    "tier": "support",
+    "cluster": "discover-ancient",
+    "parent": "/research/faith/the-olive-press-cache-unveiling-temple-seals-and-scripture-lines",
+    "priority": 71,
+    "category": "faith"
+  },
+  "temple-objects-reveal-ancient-ritual-practices": {
+    "tier": "support",
+    "cluster": "discover-ancient",
+    "parent": "/research/faith/the-olive-press-cache-unveiling-temple-seals-and-scripture-lines",
+    "priority": 68,
+    "category": "faith"
+  },
+  "temple-mounts-hidden-tunnel-system-unveiled": {
+    "tier": "support",
+    "cluster": "discover-ancient",
+    "parent": "/research/faith/the-olive-press-cache-unveiling-temple-seals-and-scripture-lines",
+    "priority": 65,
+    "category": "faith"
+  },
+  "ancient-jewish-festival-evidence-uncovered": {
+    "tier": "support",
+    "cluster": "discover-ancient",
+    "parent": "/research/faith/the-olive-press-cache-unveiling-temple-seals-and-scripture-lines",
+    "priority": 62,
+    "category": "faith"
+  },
+  "decoding-ancient-technology-insights-from-biblical-archaeology": {
+    "tier": "pillar",
+    "cluster": "role-biblical",
+    "parent": "/research/faith",
+    "priority": 99,
+    "category": "faith"
+  },
+  "exploring-the-controversies-the-role-of-biblical-archaeologists": {
+    "tier": "support",
+    "cluster": "role-biblical",
+    "parent": "/research/faith/decoding-ancient-technology-insights-from-biblical-archaeology",
+    "priority": 77,
+    "category": "faith"
+  },
+  "exploring-the-old-testaments-role-in-christianity": {
+    "tier": "support",
+    "cluster": "role-biblical",
+    "parent": "/research/faith/decoding-ancient-technology-insights-from-biblical-archaeology",
+    "priority": 74,
+    "category": "faith"
+  },
+  "the-role-of-biblical-archaeologists-in-reconstructing-ancient-societies": {
+    "tier": "support",
+    "cluster": "role-biblical",
+    "parent": "/research/faith/decoding-ancient-technology-insights-from-biblical-archaeology",
+    "priority": 71,
+    "category": "faith"
+  },
+  "decoding-ancient-myths-the-role-of-biblical-archaeology": {
+    "tier": "support",
+    "cluster": "role-biblical",
+    "parent": "/research/faith/decoding-ancient-technology-insights-from-biblical-archaeology",
+    "priority": 68,
+    "category": "faith"
+  },
+  "unveiling-the-secrets-the-role-of-biblical-archaeologists-in-deciphering-ancient-art-and-iconography": {
+    "tier": "support",
+    "cluster": "role-biblical",
+    "parent": "/research/faith/decoding-ancient-technology-insights-from-biblical-archaeology",
+    "priority": 65,
+    "category": "faith"
+  },
+  "qumran-pit-of-ash-unveiling-righteous-resolve-under-extreme-trial": {
+    "tier": "support",
+    "cluster": "role-biblical",
+    "parent": "/research/faith/decoding-ancient-technology-insights-from-biblical-archaeology",
+    "priority": 62,
+    "category": "faith"
+  },
+  "exploring-ancient-religious-practices-through-biblical-archaeology": {
+    "tier": "pillar",
+    "cluster": "ancient-biblical",
+    "parent": "/research/faith",
+    "priority": 97,
+    "category": "faith"
+  },
+  "feast-days-and-the-ark-a-spiritual-journey-through-historical-insights": {
+    "tier": "support",
+    "cluster": "ancient-biblical",
+    "parent": "/research/faith/exploring-ancient-religious-practices-through-biblical-archaeology",
+    "priority": 77,
+    "category": "faith"
+  },
+  "traders-route-unveiling-the-treasures-of-biblical-poetry-in-the-desert-library": {
+    "tier": "support",
+    "cluster": "ancient-biblical",
+    "parent": "/research/faith/exploring-ancient-religious-practices-through-biblical-archaeology",
+    "priority": 74,
+    "category": "faith"
+  },
+  "priestly-protocols-the-sacred-duty-of-safeguarding-the-ark-from-unworthy-touch": {
+    "tier": "support",
+    "cluster": "ancient-biblical",
+    "parent": "/research/faith/exploring-ancient-religious-practices-through-biblical-archaeology",
+    "priority": 71,
+    "category": "faith"
+  },
+  "desert-orchard-trough-crafting-communal-worship-in-drought-land": {
+    "tier": "support",
+    "cluster": "ancient-biblical",
+    "parent": "/research/faith/exploring-ancient-religious-practices-through-biblical-archaeology",
+    "priority": 68,
+    "category": "faith"
+  },
+  "hillside-dwelling-scribal-lessons-on-preservation-of-the-law": {
+    "tier": "pillar",
+    "cluster": "ancient-secrets",
+    "parent": "/research/faith",
+    "priority": 93,
+    "category": "faith"
+  },
+  "jordan-slope-stone-unveiling-the-psalms-echo-in-shepherds-fragment": {
+    "tier": "support",
+    "cluster": "ancient-secrets",
+    "parent": "/research/faith/hillside-dwelling-scribal-lessons-on-preservation-of-the-law",
+    "priority": 77,
+    "category": "faith"
+  },
+  "unveiling-the-mystery-of-the-collapsed-tower-over-jordan-a-liberation-fragments-significance": {
+    "tier": "support",
+    "cluster": "ancient-secrets",
+    "parent": "/research/faith/hillside-dwelling-scribal-lessons-on-preservation-of-the-law",
+    "priority": 74,
+    "category": "faith"
+  },
+  "digital-mapping-of-biblical-cities-unearthing-lost-histories": {
+    "tier": "support",
+    "cluster": "ancient-secrets",
+    "parent": "/research/faith/hillside-dwelling-scribal-lessons-on-preservation-of-the-law",
+    "priority": 71,
+    "category": "faith"
+  },
+  "unlocking-the-past-fundraising-strategies-for-biblical-archaeology-expeditions": {
+    "tier": "pillar",
+    "cluster": "strategies-biblical",
+    "parent": "/research/faith",
+    "priority": 96,
+    "category": "faith"
+  },
+  "effective-communication-strategies-for-biblical-archaeology": {
+    "tier": "support",
+    "cluster": "strategies-biblical",
+    "parent": "/research/faith/unlocking-the-past-fundraising-strategies-for-biblical-archaeology-expeditions",
+    "priority": 77,
+    "category": "faith"
+  },
+  "uncovering-the-past-exploring-the-significance-of-biblical-archaeology": {
+    "tier": "support",
+    "cluster": "strategies-biblical",
+    "parent": "/research/faith/unlocking-the-past-fundraising-strategies-for-biblical-archaeology-expeditions",
+    "priority": 74,
+    "category": "faith"
+  },
+  "uncovering-ancient-military-strategies-through-biblical-archaeology": {
+    "tier": "support",
+    "cluster": "strategies-biblical",
+    "parent": "/research/faith/unlocking-the-past-fundraising-strategies-for-biblical-archaeology-expeditions",
+    "priority": 71,
+    "category": "faith"
+  },
+  "the-intertestamental-period-exploring-the-time-between-the-old-and-new-testaments": {
+    "tier": "pillar",
+    "cluster": "first-temple",
+    "parent": "/research/faith",
+    "priority": 95,
+    "category": "faith"
+  },
+  "first-temple-storage-complex-unveils-ancient-organization": {
+    "tier": "support",
+    "cluster": "first-temple",
+    "parent": "/research/faith/the-intertestamental-period-exploring-the-time-between-the-old-and-new-testaments",
+    "priority": 77,
+    "category": "faith"
+  },
+  "biblical-period-oil-production-unearthed": {
+    "tier": "support",
+    "cluster": "first-temple",
+    "parent": "/research/faith/the-intertestamental-period-exploring-the-time-between-the-old-and-new-testaments",
+    "priority": 74,
+    "category": "faith"
+  },
+  "first-temple-treasury-complex-unveiled": {
+    "tier": "support",
+    "cluster": "first-temple",
+    "parent": "/research/faith/the-intertestamental-period-exploring-the-time-between-the-old-and-new-testaments",
+    "priority": 71,
+    "category": "faith"
+  },
+  "first-temple-market-unearthed-a-new-biblical-insight": {
+    "tier": "support",
+    "cluster": "first-temple",
+    "parent": "/research/faith/the-intertestamental-period-exploring-the-time-between-the-old-and-new-testaments",
+    "priority": 68,
+    "category": "faith"
+  },
+  "temple-storage-discoveries-in-biblical-archaeology": {
+    "tier": "support",
+    "cluster": "first-temple",
+    "parent": "/research/faith/the-intertestamental-period-exploring-the-time-between-the-old-and-new-testaments",
+    "priority": 65,
+    "category": "faith"
+  },
+  "exploring-the-first-temple-treasury": {
+    "tier": "support",
+    "cluster": "first-temple",
+    "parent": "/research/faith/the-intertestamental-period-exploring-the-time-between-the-old-and-new-testaments",
+    "priority": 62,
+    "category": "faith"
+  },
+  "sacred-vessels-in-temple-worship-unveiled": {
+    "tier": "support",
+    "cluster": "first-temple",
+    "parent": "/research/faith/the-intertestamental-period-exploring-the-time-between-the-old-and-new-testaments",
+    "priority": 59,
+    "category": "faith"
+  },
+  "first-temple-period-discovery-reveals-ancient-secrets": {
+    "tier": "support",
+    "cluster": "first-temple",
+    "parent": "/research/faith/the-intertestamental-period-exploring-the-time-between-the-old-and-new-testaments",
+    "priority": 56,
+    "category": "faith"
+  },
+  "tree-root-hollow-unveiling-the-ritual-freedoms-of-exile": {
+    "tier": "pillar",
+    "cluster": "archaeology-ancient",
+    "parent": "/research/faith",
+    "priority": 93,
+    "category": "faith"
+  },
+  "the-significance-of-the-desert-stone-bench-in-biblical-archaeology": {
+    "tier": "support",
+    "cluster": "archaeology-ancient",
+    "parent": "/research/faith/tree-root-hollow-unveiling-the-ritual-freedoms-of-exile",
+    "priority": 77,
+    "category": "faith"
+  },
+  "the-importance-of-biblical-archaeology-in-uncovering-ancient-truths": {
+    "tier": "support",
+    "cluster": "archaeology-ancient",
+    "parent": "/research/faith/tree-root-hollow-unveiling-the-ritual-freedoms-of-exile",
+    "priority": 74,
+    "category": "faith"
+  },
+  "unlocking-the-secrets-of-ancient-biblical-texts": {
+    "tier": "pillar",
+    "cluster": "unlocking-ancient",
+    "parent": "/research/faith",
+    "priority": 95,
+    "category": "faith"
+  },
+  "unearthing-the-secrets-city-of-david-storage-and-the-hidden-priesthood-scrolls": {
+    "tier": "support",
+    "cluster": "unlocking-ancient",
+    "parent": "/research/faith/unlocking-the-secrets-of-ancient-biblical-texts",
+    "priority": 77,
+    "category": "faith"
+  },
+  "unlocking-ancient-trade-paths-in-biblical-archaeology": {
+    "tier": "support",
+    "cluster": "unlocking-ancient",
+    "parent": "/research/faith/unlocking-the-secrets-of-ancient-biblical-texts",
+    "priority": 74,
+    "category": "faith"
+  }
+}

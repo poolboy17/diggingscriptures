@@ -11,6 +11,10 @@ imageAlt: "archaeology, excavation, sun sails, protection, sun protection, archa
 imageCredit: "Image by Efraimstochter on Pixabay"
 imageWidth: 1280
 imageHeight: 960
+siloTier: "support"
+siloCluster: "ancient-secrets"
+siloParent: "/research/biblical-archaeology/decoding-ancient-inscriptions-unraveling-the-secrets-of-biblical-archaeology"
+siloPriority: 47
 ---Jerichos Underground Ramp: A Marvel of Ancient Engineering is a topic in biblical archaeology that connects ancient material evidence with scriptual narratives.
 
 This topic is part of our [research on biblical archaeology](/research/biblical-archaeology).
@@ -113,7 +117,10 @@ As the sands of time shift, the remnants of Jericho remain steadfast, reminding 
 
 Explore these related articles for deeper study:
 
+- [Decoding Ancient Inscriptions: Unraveling the Secrets of](/research/biblical-archaeology/decoding-ancient-inscriptions-unraveling-the-secrets-of-biblical-archaeology)
 - [Jerichos Hidden Past: Unearthing Ancient Secrets of](/research/biblical-archaeology/jericho-alcove-unveiling-the-complexities-of-occupation-in-ancient-texts)
+- [Jerichos Legacy: How Ancient Scribes and Workers Sculpted Society](/research/biblical-archaeology/rural-jericho-dwelling-insights-into-scribal-school-practices-and-labor-laws)
+- [Decoding Ancient Wartime Prophecies: a Quest for Truth in Chaos](/research/biblical-archaeology/the-secret-hideout-unveiling-the-chest-of-prophecy-debates-in-wartime)
 
 ## Frequently Asked Questions
 
@@ -132,4 +139,3 @@ Jerichos Underground Ramp: A Marvel of Ancient Engineering is a topic in biblica
 The Structure and Its Purpose
  
 The ramp, believed to date back to the time when the city was being fortified, reflects a practical understanding of engineering. By examining the archaeological and historical background, readers gain a more grounded perspective on the people, places, and events described in scripture.
-

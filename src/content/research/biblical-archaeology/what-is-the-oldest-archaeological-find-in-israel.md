@@ -11,6 +11,10 @@ imageAlt: "excavation, archaeology, high culture, culture, temple, old, stone, l
 imageCredit: "Image by Efraimstochter on Pixabay"
 imageWidth: 1280
 imageHeight: 960
+siloTier: "support"
+siloCluster: "biblical-archaeological"
+siloParent: "/research/biblical-archaeology/the-unearthing-of-ancient-temples-a-biblical-archaeological-expedition"
+siloPriority: 10
 ---What is the Oldest Archaeological Find in Israel? is a topic in biblical archaeology that connects ancient material evidence with scriptual narratives.
 
 This topic is part of our [research on biblical archaeology](/research/biblical-archaeology).
@@ -70,7 +74,10 @@ Excavating the Bronze Age city ruins in Israel has exposed a window into the ear
 
 Explore these related articles for deeper study:
 
+- [The Unearthing of Ancient Temples: a Biblical Archaeological](/research/biblical-archaeology/the-unearthing-of-ancient-temples-a-biblical-archaeological-expedition)
 - [What is the Oldest Archaeological Evidence of Israel?](/research/biblical-archaeology/what-is-the-oldest-archaeological-evidence-of-israel)
+- [Uncovering Nelson Glueck's Archaeological Legacy](/research/biblical-archaeology/uncovering-nelson-gluecks-archaeological-legacy)
+- [The Role of Statistical Analysis in Biblical Archaeological](/research/biblical-archaeology/the-role-of-statistical-analysis-in-biblical-archaeological-research)
 
 ## Frequently Asked Questions
 
@@ -91,4 +98,3 @@ Unearthing Chalcolithic copper artifacts in Israel has exposed a profound glimps
 Bronze Age City Ruins Uncovered
 
 Excavating the Bronze Age city ruins in Israel has exposed a window into the early urbanization of ancient societies approximately 5,000 years ago. By examining the archaeological and historical background, readers gain a more grounded perspective on the people, places, and events described in scripture.
-

@@ -11,6 +11,10 @@ imageAlt: "morocco, city, historic, village, clay, old, nature, antique, ait-ben
 imageCredit: "Image by Walkerssk on Pixabay"
 imageWidth: 1280
 imageHeight: 719
+siloTier: "support"
+siloCluster: "sheds-light"
+siloParent: "/research/artifacts/qumrans-empty-cave-unveiling-the-kindness-manifestos-in-fragments"
+siloPriority: 68
 ---Was The Bible Originally Oral Tradition Or Text? refers to ancient material remains that provide physical evidence for understanding biblical history.
 
 This topic is part of our [research on ancient artifacts](/research/artifacts).
@@ -161,8 +165,10 @@ As society evolves, so does our engagement with the Bible, ensuring its continue
 
 Explore these related articles for deeper study:
 
-- [Where was the Bible Originally Found?](/research/scripture/where-was-the-bible-originally-found)
-- [Could We Ever Find The 'Original Bible' Again?](/research/artifacts/could-we-ever-find-the-original-bible-again)
+- [Unearthing Kindness Lessons in Qumran's Ancient Scroll: a](/research/artifacts/qumrans-empty-cave-unveiling-the-kindness-manifestos-in-fragments)
+- [What Is The UB's/NA Critical Edition Of The Bible](/research/artifacts/what-is-the-ubs-na-critical-edition-of-the-bible)
+- [Which Bible Verses Are Most Disputed By Variants](/research/artifacts/which-bible-verses-are-most-disputed-by-variants)
+- [Why Bible's Manuscripts Outnumber Many Histories](/research/artifacts/why-bibles-manuscripts-outnumber-many-histories)
 
 ## Frequently Asked Questions
 
@@ -179,4 +185,3 @@ Textual variants refer to differences found in different manuscript copies of th
 ### Why does was the bible originally oral tradition or text? matter for understanding the Bible?
 
 -  Ancient Cities and Artifacts: Excavations of sites like Jericho and Jerusalem offer corroborative evidence for biblical accounts, providing a tangible link to the past. By examining the archaeological and historical background, readers gain a more grounded perspective on the people, places, and events described in scripture.
-

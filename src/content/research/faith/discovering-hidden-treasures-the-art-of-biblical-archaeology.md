@@ -11,6 +11,10 @@ imageAlt: "architecture, ceiling, rome, rome, rome, rome, rome, rome"
 imageCredit: "Image by raffalel on Pixabay"
 imageWidth: 1280
 imageHeight: 853
+siloTier: "support"
+siloCluster: "biblical-archaeology"
+siloParent: "/research/faith/the-infamous-relics-famous-fakes-and-forgeries-in-biblical-archaeology"
+siloPriority: 59
 ---In the fascinating world of biblical archaeology, uncovering hidden treasures and artifacts from ancient times is an art in itself. Through meticulous excavation and careful examination of ancient sites, researchers and archaeologists have been able to unearth remarkable relics that shed light on the people, places, and events depicted in the bible. From ancient manuscripts and clay tablets to ancient temples and pottery, the study of biblical archaeology offers a captivating journey into the past, revealing countless hidden treasures waiting to be discovered.
 
 This topic is part of our [research on faith and history](/research/faith).
@@ -170,7 +174,10 @@ Engaging in open dialogue between scientists and religious communities is essent
 
 Explore these related articles for deeper study:
 
-- [Discovering Angels in Biblical Archaeology: The En Gedi](/research/biblical-archaeology/angels-in-the-desert-the-en-gedi-stone-arch-and-its-significance)
+- [The Infamous Relics: Famous Fakes and Forgeries in Biblical](/research/faith/the-infamous-relics-famous-fakes-and-forgeries-in-biblical-archaeology)
+- [Exploring the Connections Between Biblical Archaeology and](/research/faith/exploring-the-connections-between-biblical-archaeology-and-ancient-music)
+- [Uncovering Ancient Trading Networks Through Biblical Archaeology](/research/faith/uncovering-ancient-trading-networks-through-biblical-archaeology)
+- [Understanding Biblical Archaeology: Decoding the Past](/research/faith/understanding-biblical-archaeology-decoding-the-past)
 
 ## Frequently Asked Questions
 
@@ -193,4 +200,3 @@ Biblical archaeology has led to the discovery and excavation of numerous ancient
 ### Why does discovering hidden treasures: the art of biblical archaeology matter for understanding the Bible?
 
 Through meticulous excavation and careful examination of ancient sites, researchers and archaeologists have been able to unearth remarkable relics that shed light on the people, places, and events depicted in the bible. By examining the archaeological and historical background, readers gain a more grounded perspective on the people, places, and events described in scripture.
-

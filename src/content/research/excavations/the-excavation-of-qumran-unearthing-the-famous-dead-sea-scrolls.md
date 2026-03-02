@@ -11,6 +11,10 @@ imageAlt: "way, building, excavator, viaduct, road, cities, work, digging, build
 imageCredit: "Image by satynek on Pixabay"
 imageWidth: 1280
 imageHeight: 781
+siloTier: "support"
+siloCluster: "sea-scrolls"
+siloParent: "/research/excavations/the-dead-sea-scrolls-unearthed-secrets-of-the-bible"
+siloPriority: 77
 ---The Excavation of Qumran: Unearthing the Famous Dead sea Scrolls is an area of archaeological investigation that has yielded significant findings about the ancient world.
 
 This topic is part of our [research on archaeological excavations](/research/excavations).
@@ -158,6 +162,9 @@ The excavation of Qumran and the discovery of the Dead Sea Scrolls have forever 
 
 Explore these related articles for deeper study:
 
+- [The Dead sea Scrolls: Unearthed Secrets of the Bible](/research/excavations/the-dead-sea-scrolls-unearthed-secrets-of-the-bible)
+- [Deciphering Dead sea Scrolls  a Rare Glimpse into Biblical](/research/excavations/unraveling-the-dead-sea-scrolls-biblical-insights)
+- [What Dead Sea Scrolls Reveal About Scripture](/research/excavations/what-dead-sea-scrolls-reveal-about-scripture)
 - [Exploring Ancient Cosmic Battle Theories in the Dead Sea Scrolls](/research/excavations/dead-sea-orchard-unraveling-the-cosmic-battle-theories)
 
 ## Frequently Asked Questions
@@ -177,4 +184,3 @@ Excavation of Qumran
 Background of Qumran
 
 Qumran, located in the West Bank near the northwestern shore of the Dead Sea, is an archaeological site of great historical and religious significance. By examining the archaeological and historical background, readers gain a more grounded perspective on the people, places, and events described in scripture.
-

@@ -11,6 +11,10 @@ imageAlt: "excavator, construction machine, two-way excavator, gripper, site, co
 imageCredit: "Image by Tama66 on Pixabay"
 imageWidth: 1280
 imageHeight: 954
+siloTier: "support"
+siloCluster: "biblical-archaeological"
+siloParent: "/research/biblical-archaeology/the-unearthing-of-ancient-temples-a-biblical-archaeological-expedition"
+siloPriority: 62
 ---Unveiling the Discoveries: the Process of Documenting Findings is a topic in biblical archaeology that connects ancient material evidence with scriptual narratives.
 
 This topic is part of our [research on biblical archaeology](/research/biblical-archaeology).
@@ -148,8 +152,10 @@ Documenting findings in biblical archaeology is a meticulous and multi-faceted p
 
 Explore these related articles for deeper study:
 
-- [Unveiling Remarkable Biblical Archaeology Discoveries List](/research/biblical-archaeology/unveiling-remarkable-biblical-archaeology-discoveries-list)
-- [Unveiling Biblical History: how Advanced Imaging Decodes](/research/biblical-archaeology/advanced-imaging-illuminates-ancient-hebrew-texts)
+- [The Unearthing of Ancient Temples: a Biblical Archaeological](/research/biblical-archaeology/the-unearthing-of-ancient-temples-a-biblical-archaeological-expedition)
+- [Ways to Involve the Public in the Discoveries of Biblical](/research/biblical-archaeology/ways-to-involve-the-public-in-the-discoveries-of-biblical-archaeology)
+- [What are the Most Recent Archaeological Discoveries in 2023?](/research/biblical-archaeology/what-are-the-most-recent-archaeological-discoveries-in-2023)
+- [Recent Biblical Archaeological Discoveries Shed new Light on](/research/biblical-archaeology/recent-biblical-archaeological-discoveries-shed-new-light-on-ancient-mysteries)
 
 ## Frequently Asked Questions
 
@@ -170,4 +176,3 @@ Fieldwork and excavation form the foundation of any archaeological investigation
 Stratigraphy and Context
 
 Stratigraphy and context are crucial in understanding the relative chronology and spatial relationships of the excavated materials. By examining the archaeological and historical background, readers gain a more grounded perspective on the people, places, and events described in scripture.
-

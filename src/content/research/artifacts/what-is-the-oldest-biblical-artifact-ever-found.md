@@ -11,6 +11,10 @@ imageAlt: "museum, artifacts, antiquities, culture, history, vietnam, south east
 imageCredit: "Image by NguyenHoangThach on Pixabay"
 imageWidth: 1280
 imageHeight: 853
+siloTier: "support"
+siloCluster: "ancient-biblical"
+siloParent: "/research/artifacts/what-is-the-oldest-complete-old-testament-manuscript"
+siloPriority: 65
 ---What is the Oldest Biblical Artifact Ever Found? refers to ancient material remains that provide physical evidence for understanding biblical history.
 
 This topic is part of our [research on ancient artifacts](/research/artifacts).
@@ -78,7 +82,10 @@ The discovery of the Ketef Hinnom silver scrolls near Jerusalem is a milestone i
 
 Explore these related articles for deeper study:
 
-- [What are the Oldest Biblical Manuscripts Found?](/research/biblical-archaeology/what-are-the-oldest-biblical-manuscripts-found)
+- [What is the Oldest Complete old Testament Manuscript?](/research/artifacts/what-is-the-oldest-complete-old-testament-manuscript)
+- [What is the Oldest Known Bible Artifact?](/research/artifacts/what-is-the-oldest-known-bible-artifact)
+- [What is the Oldest Biblical Manuscript we Have?](/research/artifacts/what-is-the-oldest-biblical-manuscript-we-have)
+- [Unlocking Secrets: The Ancient Jordan Orchard Jar Artifact](/research/artifacts/the-jordan-orchard-jar-a-glimpse-into-worship-rites-of-a-wandering-sect)
 
 ## Frequently Asked Questions
 
@@ -97,4 +104,3 @@ What is the Oldest Biblical Artifact Ever Found. Physical discoveries including 
 Discovery of Ancient Hebrew Inscriptions
 
 During the excavation process led by renowned archaeologists, the remarkable discovery of ancient Hebrew inscriptions on a 20-inch limestone burial box revealed pivotal insights into biblical history. By examining the archaeological and historical background, readers gain a more grounded perspective on the people, places, and events described in scripture.
-

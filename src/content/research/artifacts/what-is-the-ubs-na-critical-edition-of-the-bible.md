@@ -11,6 +11,10 @@ imageAlt: "coins, ancient, roman, money, old, copper, bronze, collection, financ
 imageCredit: "Image by papazachariasa on Pixabay"
 imageWidth: 1280
 imageHeight: 853
+siloTier: "support"
+siloCluster: "sheds-light"
+siloParent: "/research/artifacts/qumrans-empty-cave-unveiling-the-kindness-manifestos-in-fragments"
+siloPriority: 65
 ---What Is The UB's/NA Critical Edition Of The Bible refers to ancient material remains that provide physical evidence for understanding biblical history.
 
 This topic is part of our [research on ancient artifacts](/research/artifacts).
@@ -147,8 +151,10 @@ Scholars and editors acknowledge these limitations and are continually working t
 
 Explore these related articles for deeper study:
 
-- [Could We Ever Find The 'Original Bible' Again?](/research/artifacts/could-we-ever-find-the-original-bible-again)
-- [5 Critical Distinctions Between Codex Sinaiticus and Vaticanus:](/research/artifacts/differences-between-sinaiticus-and-vaticanus)
+- [Unearthing Kindness Lessons in Qumran's Ancient Scroll: a](/research/artifacts/qumrans-empty-cave-unveiling-the-kindness-manifestos-in-fragments)
+- [Was The Bible Originally Oral Tradition Or Text?](/research/artifacts/was-the-bible-originally-oral-tradition-or-text)
+- [Which Bible Verses Are Most Disputed By Variants](/research/artifacts/which-bible-verses-are-most-disputed-by-variants)
+- [Why Bible's Manuscripts Outnumber Many Histories](/research/artifacts/why-bibles-manuscripts-outnumber-many-histories)
 
 ## Frequently Asked Questions
 
@@ -163,4 +169,3 @@ Explore these related articles for deeper study:
 ### Why does is the ub's/na critical edition of the bible matter for understanding the Bible?
 
 What Is The UB's/NA Critical Edition Of The Bible refers to ancient material remains that provide physical evidence for understanding biblical history. By examining the archaeological and historical background, readers gain a more grounded perspective on the people, places, and events described in scripture.
-

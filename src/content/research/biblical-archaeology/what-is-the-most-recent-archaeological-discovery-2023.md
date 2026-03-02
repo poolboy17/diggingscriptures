@@ -11,6 +11,10 @@ imageAlt: "archaeology, excavation, sun sails, protection, sun protection, archa
 imageCredit: "Image by Efraimstochter on Pixabay"
 imageWidth: 1280
 imageHeight: 960
+siloTier: "support"
+siloCluster: "biblical-archaeological"
+siloParent: "/research/biblical-archaeology/the-unearthing-of-ancient-temples-a-biblical-archaeological-expedition"
+siloPriority: 10
 ---What is the Most Recent Archaeological Discovery 2023? is a topic in biblical archaeology that connects ancient material evidence with scriptual narratives.
 
 This topic is part of our [research on biblical archaeology](/research/biblical-archaeology).
@@ -68,8 +72,10 @@ Key InsightsImplications14,000-year-old tool discoveredReveals ancient human tec
 
 Explore these related articles for deeper study:
 
-- [Recent Biblical Archaeological Discoveries Shed new Light on](/research/biblical-archaeology/recent-biblical-archaeological-discoveries-shed-new-light-on-ancient-mysteries)
+- [The Unearthing of Ancient Temples: a Biblical Archaeological](/research/biblical-archaeology/the-unearthing-of-ancient-temples-a-biblical-archaeological-expedition)
 - [What are the Most Recent Archaeological Discoveries in 2023?](/research/biblical-archaeology/what-are-the-most-recent-archaeological-discoveries-in-2023)
+- [Recent Biblical Archaeological Discoveries Shed new Light on](/research/biblical-archaeology/recent-biblical-archaeological-discoveries-shed-new-light-on-ancient-mysteries)
+- [Uncovering Nelson Glueck's Archaeological Legacy](/research/biblical-archaeology/uncovering-nelson-gluecks-archaeological-legacy)
 
 ## Frequently Asked Questions
 
@@ -88,4 +94,3 @@ Czech archaeologists unearthed a remarkably well-preserved mummy within a 4,400-
 Spain's Oldest Human Genome Discovered
 
 Spain's oldest human genome was recently discovered in a 23,000-year-old tooth, establishing a genetic link with a sample from Belgium dating back 35,000 years. By examining the archaeological and historical background, readers gain a more grounded perspective on the people, places, and events described in scripture.
-

@@ -11,6 +11,10 @@ imageAlt: "mining excavator, electric, bucket wheel excavator, walking excavator
 imageCredit: "Image by xusenru on Pixabay"
 imageWidth: 1280
 imageHeight: 853
+siloTier: "pillar"
+siloCluster: "ancient-jerusalem"
+siloParent: "/research/excavations"
+siloPriority: 93
 ---Unearthed Testament: Jerusalem Walls Powerful Message is an area of archaeological investigation that has yielded significant findings about the ancient world.
 
 This topic is part of our [research on archaeological excavations](/research/excavations).
@@ -132,6 +136,9 @@ In considering your place within society, remember that just like the materials 
 Explore these related articles for deeper study:
 
 - [Exploring Ancient Jerusalem: Pilgrim Routes Unearthed](/research/excavations/exploring-ancient-jerusalem-pilgrim-routes-unearthed)
+- [Ancient Jerusalem Marketplace Near Temple Unveiled](/research/excavations/ancient-jerusalem-marketplace-near-temple-unveiled)
+- [Ancient Jerusalem: Unveiling the Commerce Center](/research/excavations/ancient-jerusalem-unveiling-the-commerce-center)
+- [Explore Jerusalem: Unveiling Ancient Artifacts from The](/research/excavations/biblical-archaeology-first-temple-period-discoveries)
 
 ## Frequently Asked Questions
 
@@ -148,4 +155,3 @@ The moral lessons found within the context of the Wall Niche demand contemplatio
 ### Why does unearthed testament: jerusalem walls powerful message matter for understanding the Bible?
 
 Unearthed Testament: Jerusalem Walls Powerful Message is an area of archaeological investigation that has yielded significant findings about the ancient world. By examining the archaeological and historical background, readers gain a more grounded perspective on the people, places, and events described in scripture.
-

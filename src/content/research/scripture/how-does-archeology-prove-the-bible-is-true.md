@@ -11,6 +11,10 @@ imageAlt: "qumran national park, qumran, archeology, dead sea scrolls, cave numb
 imageCredit: "Image by samirsmier on Pixabay"
 imageWidth: 1280
 imageHeight: 720
+siloTier: "support"
+siloCluster: "testament-books"
+siloParent: "/research/scripture/exploring-the-old-testament-through-a-cultural-lens"
+siloPriority: 17
 ---How Does Archeology Prove the Bible is True? refers to a subject within biblical manuscript studies that scholars continue to investigate.
 
 This topic is part of our [research on biblical scripture studies](/research/scripture).
@@ -72,7 +76,10 @@ Additionally, archaeological research at Bagazkoy and Ebla has supported the exi
 
 Explore these related articles for deeper study:
 
+- [Exploring the old Testament Through a Cultural Lens](/research/scripture/exploring-the-old-testament-through-a-cultural-lens)
 - [Cherubim in the Bible: What were their True Roles in Ancient](/research/scripture/exploring-the-significance-of-cherubim-in-biblical-archaeology)
+- [Has Archeology Ever Disproved the Bible?](/research/scripture/has-archeology-ever-disproved-the-bible)
+- [The Formation of the new Testament: who Added it to the Bible?](/research/scripture/the-formation-of-the-new-testament-who-added-it-to-the-bible)
 
 ## Frequently Asked Questions
 
@@ -87,4 +94,3 @@ Additionally, the excavation of the Pool of Siloam in 2004 further bolsters the 
 ### Why does does archeology prove the bible is true? matter for understanding the Bible?
 
 Additionally, the Tel Dan Stela's inscription referencing the House of David is important in establishing the historical existence of King David. By examining the archaeological and historical background, readers gain a more grounded perspective on the people, places, and events described in scripture.
-

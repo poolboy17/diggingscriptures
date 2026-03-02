@@ -11,6 +11,10 @@ imageAlt: "aged, ancient, antique, ceramic, clay, container, containers, crock, 
 imageCredit: "Image by PublicDomainPictures on Pixabay"
 imageWidth: 1280
 imageHeight: 853
+siloTier: "support"
+siloCluster: "ancient-biblical"
+siloParent: "/research/artifacts/what-is-the-oldest-complete-old-testament-manuscript"
+siloPriority: 71
 ---Many may not realize that the oldest biblical manuscript we possess is the Codex Sinaiticus, dating back to around 350 CE.
 
 This topic is part of our [research on ancient artifacts](/research/artifacts).
@@ -72,7 +76,10 @@ Scholars consider P52 a critical piece of evidence for establishing the reliabil
 
 Explore these related articles for deeper study:
 
-- [4th Century Manuscript: How Codex Sinaiticus Redefines Biblical](/research/artifacts/what-is-codex-sinaiticus-and-why-its-important)
+- [What is the Oldest Complete old Testament Manuscript?](/research/artifacts/what-is-the-oldest-complete-old-testament-manuscript)
+- [What is the Oldest Biblical Artifact Ever Found?](/research/artifacts/what-is-the-oldest-biblical-artifact-ever-found)
+- [What is the Oldest Known Bible Artifact?](/research/artifacts/what-is-the-oldest-known-bible-artifact)
+- [Qumrans Ancient Biblical Fragments: a Radiocarbon Revelation](/research/artifacts/qumrans-biblical-fragments-and-their-dating)
 
 ## Frequently Asked Questions
 
@@ -87,4 +94,3 @@ The Hebrew Bible manuscripts found in the Dead Sea Scrolls have provided scholar
 ### Why does is the oldest biblical manuscript we have? matter for understanding the Bible?
 
 The Hebrew Bible manuscripts found in the Dead Sea Scrolls have provided scholars with invaluable insights into the transmission and preservation of biblical texts. By examining the archaeological and historical background, readers gain a more grounded perspective on the people, places, and events described in scripture.
-

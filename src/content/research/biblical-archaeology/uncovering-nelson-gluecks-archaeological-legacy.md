@@ -11,6 +11,10 @@ imageAlt: "pyramids, egypt, egyptian, ancient, desert, giza, historical, archite
 imageCredit: "Image by TheDigitalArtist on Pixabay"
 imageWidth: 1280
 imageHeight: 480
+siloTier: "support"
+siloCluster: "biblical-archaeological"
+siloParent: "/research/biblical-archaeology/the-unearthing-of-ancient-temples-a-biblical-archaeological-expedition"
+siloPriority: 47
 ---Uncovering Nelson Glueck's Archaeological Legacy is a topic in biblical archaeology that connects ancient material evidence with scriptual narratives.
 
 This topic is part of our [research on biblical archaeology](/research/biblical-archaeology).
@@ -154,7 +158,10 @@ Contemporary archaeologists build upon Nelson Glueck's research and methodologie
 
 Explore these related articles for deeper study:
 
+- [The Unearthing of Ancient Temples: a Biblical Archaeological](/research/biblical-archaeology/the-unearthing-of-ancient-temples-a-biblical-archaeological-expedition)
+- [The Role of Statistical Analysis in Biblical Archaeological](/research/biblical-archaeology/the-role-of-statistical-analysis-in-biblical-archaeological-research)
 - [10 Must-Visit Biblical Archaeological Sites](/research/biblical-archaeology/10-must-visit-biblical-archaeological-sites)
+- [Analyzing the Role of Peer Review in Biblical Archaeological](/research/biblical-archaeology/analyzing-the-role-of-peer-review-in-biblical-archaeological-research)
 
 ## Frequently Asked Questions
 
@@ -169,4 +176,3 @@ One of Glueck's most significant discoveries occurred in 1950 when he excavated 
 ### Why does uncovering nelson glueck's archaeological legacy matter for understanding the Bible?
 
 One of Glueck's most significant discoveries occurred in 1950 when he excavated the ruins of Tell el-Kheleifeh, which is believed to be the biblical Ezion-Geber. By examining the archaeological and historical background, readers gain a more grounded perspective on the people, places, and events described in scripture.
-

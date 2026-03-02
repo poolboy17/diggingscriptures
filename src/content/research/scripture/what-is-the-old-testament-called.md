@@ -11,6 +11,10 @@ imageAlt: "to learn, read, a book, literature, old, old book, to study, school, 
 imageCredit: "Image by garten-gg on Pixabay"
 imageWidth: 1280
 imageHeight: 1157
+siloTier: "support"
+siloCluster: "testament-testament"
+siloParent: "/research/scripture/why-is-it-called-old-testament-and-new-testament"
+siloPriority: 74
 ---What is the old Testament Called? refers to a subject within biblical manuscript studies that scholars continue to investigate.
 
 This topic is part of our [research on biblical scripture studies](/research/scripture).
@@ -336,7 +340,10 @@ The Old Testament's portrayal in popular culture and media serves as a gateway f
 
 Explore these related articles for deeper study:
 
+- [Why is it Called old Testament and new Testament?](/research/scripture/why-is-it-called-old-testament-and-new-testament)
+- [Why is the old Testament Called the old Testament?](/research/scripture/why-is-the-old-testament-called-the-old-testament)
 - [What is the Original new Testament Called?](/research/scripture/what-is-the-original-new-testament-called)
+- [The Connection Between the old Testament and the new Testament](/research/scripture/the-connection-between-the-old-testament-and-the-new-testament)
 
 ## Frequently Asked Questions
 
@@ -355,4 +362,3 @@ In Judaism, the Old Testament is also known as the Sefer Torah, which means "Boo
 Understanding Messianic Prophecies
  
 Messianic prophecies refer to the predictions found in the Old Testament that foretell the coming of a messianic figure who would bring salvation, establish God's kingdom, and fulfill God's promises to humanity. By examining the archaeological and historical background, readers gain a more grounded perspective on the people, places, and events described in scripture.
-

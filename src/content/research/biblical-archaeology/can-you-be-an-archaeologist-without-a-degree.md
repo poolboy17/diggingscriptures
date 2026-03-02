@@ -11,6 +11,10 @@ imageAlt: "pottery shard, clay pot, shard, burning clay, craft, burma, myanmar"
 imageCredit: "Image by thomaspedrazzoli on Pixabay"
 imageWidth: 1280
 imageHeight: 1280
+siloTier: "support"
+siloCluster: "biblical-archaeologist"
+siloParent: "/research/biblical-archaeology/exploring-the-key-responsibilities-of-a-biblical-archaeologist"
+siloPriority: 71
 ---Can you be an Archaeologist Without a Degree? is a topic in biblical archaeology that connects ancient material evidence with scriptual narratives.
 
 This topic is part of our [research on biblical archaeology](/research/biblical-archaeology).
@@ -64,8 +68,10 @@ These success stories illustrate that while a degree can be valuable in the fiel
 
 Explore these related articles for deeper study:
 
-- [Exploring the key Discoveries of Archaeologist Kathleen Kenyon](/research/biblical-archaeology/exploring-the-key-discoveries-of-archaeologist-kathleen-kenyon)
 - [Exploring the key Responsibilities of a Biblical Archaeologist](/research/biblical-archaeology/exploring-the-key-responsibilities-of-a-biblical-archaeologist)
+- [Exploring the key Discoveries of Archaeologist Kathleen Kenyon](/research/biblical-archaeology/exploring-the-key-discoveries-of-archaeologist-kathleen-kenyon)
+- [Steps to Becoming a Biblical Archaeologist](/research/biblical-archaeology/steps-to-becoming-a-biblical-archaeologist)
+- [How do you Become a Biblical Archaeologist?](/research/biblical-archaeology/how-do-you-become-a-biblical-archaeologist)
 
 ## Frequently Asked Questions
 
@@ -80,4 +86,3 @@ These programs allow participants to gain practical skills in excavation techniq
 ### Why does can you be an archaeologist without a degree? matter for understanding the Bible?
 
 By acquiring skills related to excavation, surveying, artifact analysis, and cultural resource management, aspiring archaeologists can demonstrate their capabilities through practical experience and specialized knowledge. By examining the archaeological and historical background, readers gain a more grounded perspective on the people, places, and events described in scripture.
-

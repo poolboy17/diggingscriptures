@@ -11,6 +11,10 @@ imageAlt: "writing, manuscript, letter, document, ancient, lyrics, feather, ink,
 imageCredit: "Image by makamuki0 on Pixabay"
 imageWidth: 1280
 imageHeight: 960
+siloTier: "support"
+siloCluster: "ancient-hebrew"
+siloParent: "/research/scripture/biblical-archaeology-unlocking-the-secrets-of-ancient-scripture"
+siloPriority: 44
 ---Unveiling Ancient Scripture: the Maritime Discovery Shaping refers to a subject within biblical manuscript studies that scholars continue to investigate.
 
 This topic is part of our [research on biblical scripture studies](/research/scripture).
@@ -91,7 +95,9 @@ For readers intrigued by this blend of history and archaeology, we suggest engag
 
 Explore these related articles for deeper study:
 
-- [Unveiling Truths: Ancient Jerusalem Palace Discovery Sparks](/research/excavations/ancient-jerusalem-palace-unearthed-sparks-biblical-interest)
+- [Biblical Archaeology: Unlocking the Secrets of Ancient Scripture](/research/scripture/biblical-archaeology-unlocking-the-secrets-of-ancient-scripture)
+- [Unveiling Ancient Hebrew Tactics: a Deep Dive into Biblical](/research/scripture/ancient-hebrew-military-camp-unearthed-in-biblical-lands)
+- [Unlock Ancient Scripture: a Deep Dive into Biblical Archaeology](/research/scripture/foundations-of-biblical-archaeology-uncovered)
 - [Ancient Hebrew Army Camp Discovery Unveils Biblical History](/research/scripture/ancient-hebrew-army-camp-discovery-unveils-biblical-history)
 
 ## Frequently Asked Questions
@@ -113,4 +119,3 @@ The precise location of this newly discovered harbor was a subject of extensive 
 Recent Findings
  
 Excavations at this harbor site have recently yielded significant findings. By examining the archaeological and historical background, readers gain a more grounded perspective on the people, places, and events described in scripture.
-

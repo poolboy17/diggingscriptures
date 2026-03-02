@@ -11,6 +11,10 @@ imageAlt: "masada national park, masada, the great revolt, roman siege ramp, cli
 imageCredit: "Image by samirsmier on Pixabay"
 imageWidth: 1280
 imageHeight: 720
+siloTier: "support"
+siloCluster: "reveals-ancient"
+siloParent: "/research/excavations/exploring-the-link-biblical-archaeology-and-the-dead-sea-scrolls"
+siloPriority: 59
 ---Salt-encrusted Secrets: how the Dead sea Reveals Ancient History is an area of archaeological investigation that has yielded significant findings about the ancient world.
 
 This topic is part of our [research on archaeological excavations](/research/excavations).
@@ -136,7 +140,10 @@ In this field where the earth is salt-laden, you find the sacredness of human ex
 
 Explore these related articles for deeper study:
 
-- [Unearthing Leadership: How Qumrans Ancient History Reveals](/research/biblical-archaeology/the-chosen-leader-unifying-the-scattered-around-the-qumran-collapsed-wall)
+- [Exploring the Link: Biblical Archaeology and the Dead sea Scrolls](/research/excavations/exploring-the-link-biblical-archaeology-and-the-dead-sea-scrolls)
+- [Unlocking Secrets of Biblical Archaeology: the Dead sea Stone](/research/excavations/the-mystery-of-the-dead-sea-stone-inscription-unraveling-missing-jar-and-lost-texts)
+- [Unearthing the Secrets: Biblical Archaeology Reveals Historical](/research/excavations/unearthing-the-secrets-biblical-archaeology-reveals-historical-truth)
+- [Unearthing the Past: Biblical Archaeology Reveals Ancient](/research/excavations/unearthing-the-past-biblical-archaeology-reveals-ancient-biblical-sites)
 
 ## Frequently Asked Questions
 
@@ -153,4 +160,3 @@ As you consider the thousands of fragments found along the Dead Sea's shores, yo
 Ceramics and Their Significance
  
  -  Types of Pottery: The pottery found typically includes bowls, jars, and storage vessels, which were essential for preserving food and other goods. By examining the archaeological and historical background, readers gain a more grounded perspective on the people, places, and events described in scripture.
-

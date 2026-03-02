@@ -11,6 +11,10 @@ imageAlt: "archaeology, excavation, sun sails, protection, sun protection, archa
 imageCredit: "Image by Efraimstochter on Pixabay"
 imageWidth: 1280
 imageHeight: 960
+siloTier: "support"
+siloCluster: "biblical-archaeological"
+siloParent: "/research/biblical-archaeology/the-unearthing-of-ancient-temples-a-biblical-archaeological-expedition"
+siloPriority: 77
 ---Unearthing the Engineering Marvels of Biblical Times is a topic in biblical archaeology that connects ancient material evidence with scriptual narratives.
 
 This topic is part of our [research on biblical archaeology](/research/biblical-archaeology).
@@ -200,7 +204,10 @@ The extraction of precious metals played a significant role in ancient economies
 
 Explore these related articles for deeper study:
 
-- [Biblical Archaeology Revelations: Unearthing Ancient Truths](/research/biblical-archaeology/biblical-archaeology-revelations-unearthing-ancient-truths)
+- [The Unearthing of Ancient Temples: a Biblical Archaeological](/research/biblical-archaeology/the-unearthing-of-ancient-temples-a-biblical-archaeological-expedition)
+- [Unearthing the Legacies: Prominent Women in Biblical Archaeology](/research/biblical-archaeology/unearthing-the-legacies-prominent-women-in-biblical-archaeology)
+- [Unearthing the Most Important Biblical Digs](/research/biblical-archaeology/unearthing-the-most-important-biblical-digs)
+- [Unearthing Truth: the Debate Over the Reliability of Biblical](/research/biblical-archaeology/unearthing-truth-the-debate-over-the-reliability-of-biblical-archaeological-evidence)
 
 ## Frequently Asked Questions
 
@@ -219,4 +226,3 @@ Unearthing the Engineering Marvels of Biblical Times is a topic in biblical arch
 Terraced Farming
 
 Terraced farming was a groundbreaking agricultural technique employed by ancient civilizations, especially in hilly or mountainous regions. By examining the archaeological and historical background, readers gain a more grounded perspective on the people, places, and events described in scripture.
-

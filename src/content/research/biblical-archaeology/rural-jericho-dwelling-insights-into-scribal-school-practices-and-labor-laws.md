@@ -11,6 +11,10 @@ imageAlt: "pottery shard, clay pot, shard, burning clay, craft, burma, myanmar"
 imageCredit: "Image by thomaspedrazzoli on Pixabay"
 imageWidth: 1280
 imageHeight: 1280
+siloTier: "support"
+siloCluster: "ancient-secrets"
+siloParent: "/research/biblical-archaeology/decoding-ancient-inscriptions-unraveling-the-secrets-of-biblical-archaeology"
+siloPriority: 44
 ---Jerichos Legacy: How Ancient Scribes and Workers Sculpted Society is a topic in biblical archaeology that connects ancient material evidence with scriptual narratives.
 
 This topic is part of our [research on biblical archaeology](/research/biblical-archaeology).
@@ -135,8 +139,10 @@ The examination of rural Jericho, particularly how scribal schools
 
 Explore these related articles for deeper study:
 
-- [Unveiling Ancient Scribes: The Impact of Buried Wine Jars on](/research/biblical-archaeology/buried-wine-jar-scribes-told-to-copy-without-bias-in-ancient-texts)
+- [Decoding Ancient Inscriptions: Unraveling the Secrets of](/research/biblical-archaeology/decoding-ancient-inscriptions-unraveling-the-secrets-of-biblical-archaeology)
+- [Jerichos Underground Ramp: A Marvel of Ancient Engineering](/research/biblical-archaeology/unveiling-the-jericho-underground-ramp-a-study-of-covenant-bonds-in-desert-shelters)
 - [Jerichos Hidden Past: Unearthing Ancient Secrets of](/research/biblical-archaeology/jericho-alcove-unveiling-the-complexities-of-occupation-in-ancient-texts)
+- [Decoding Ancient Wartime Prophecies: a Quest for Truth in Chaos](/research/biblical-archaeology/the-secret-hideout-unveiling-the-chest-of-prophecy-debates-in-wartime)
 
 ## Frequently Asked Questions
 
@@ -155,4 +161,3 @@ Jerichos Legacy: How Ancient Scribes and Workers Sculpted Society is a topic in 
 The Purpose of Scribal Education
  
 Reflecting on the role of scribes, you can recognize that they served as the primary record-keepers and communicators of their time. By examining the archaeological and historical background, readers gain a more grounded perspective on the people, places, and events described in scripture.
-

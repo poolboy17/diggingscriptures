@@ -11,6 +11,10 @@ imageAlt: "bible, book, highlighter, pages, text, open, open book, open bible, h
 imageCredit: "Image by Pexels on Pixabay"
 imageWidth: 1280
 imageHeight: 961
+siloTier: "support"
+siloCluster: "first-bible"
+siloParent: "/research/scripture"
+siloPriority: 71
 ---Was the First Bible Found in Ethiopia? refers to a subject within biblical manuscript studies that scholars continue to investigate.
 
 This topic is part of our [research on biblical scripture studies](/research/scripture).
@@ -73,7 +77,9 @@ These controversies and debates contribute to a deeper understanding of the comp
 Explore these related articles for deeper study:
 
 - [Where was the First Bible Found?](/research/scripture/where-was-the-first-bible-found)
-- [Have the Original Books of the Bible Been Found?](/research/scripture/have-the-original-books-of-the-bible-been-found)
+- [When was the First Bible Written and who Wrote It?](/research/scripture/when-was-the-first-bible-written-and-who-wrote-it)
+- [Who Made the First Bible in the World?](/research/scripture/who-made-the-first-bible-in-the-world)
+- [Is the Ethiopian Bible the First Bible?](/research/scripture/is-the-ethiopian-bible-the-first-bible)
 
 ## Frequently Asked Questions
 
@@ -88,4 +94,3 @@ One of the remarkable features of the Ethiopian Bible is its expanded canon, con
 ### Why does was the first bible found in ethiopia? matter for understanding the Bible?
 
 One of the remarkable features of the Ethiopian Bible is its expanded canon, containing 81-88 books compared to the standard 66 books found in traditional versions. By examining the archaeological and historical background, readers gain a more grounded perspective on the people, places, and events described in scripture.
-

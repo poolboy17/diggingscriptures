@@ -11,6 +11,10 @@ imageAlt: "workshop, carpenter, crafts, artisan, drink, work, tool, vintage, wor
 imageCredit: "Image by ThMilherou on Pixabay"
 imageWidth: 1280
 imageHeight: 848
+siloTier: "support"
+siloCluster: "sea-scrolls"
+siloParent: "/research/excavations/the-dead-sea-scrolls-unearthed-secrets-of-the-bible"
+siloPriority: 65
 ---Have any Artifacts from the Bible Been Found? is an area of archaeological investigation that has yielded significant findings about the ancient world.
 
 This topic is part of our [research on archaeological excavations](/research/excavations).
@@ -76,7 +80,10 @@ These exciting revelations not only validate certain biblical accounts but also 
 
 Explore these related articles for deeper study:
 
+- [The Dead sea Scrolls: Unearthed Secrets of the Bible](/research/excavations/the-dead-sea-scrolls-unearthed-secrets-of-the-bible)
 - [What Bible Artifacts Were Found in 2023?](/research/excavations/what-bible-artifacts-were-found-in-2023)
+- [Unearthed Artifacts: Excavation Reveals Daily Life in Biblical](/research/excavations/biblical-town-life-revealed-in-new-excavation)
+- [The Excavation of Qumran: Unearthing the Famous Dead sea Scrolls](/research/excavations/the-excavation-of-qumran-unearthing-the-famous-dead-sea-scrolls)
 
 ## Frequently Asked Questions
 
@@ -91,4 +98,3 @@ These ancient manuscripts, found in the caves of Qumran near the Dead Sea, conta
 ### Why does have any artifacts from the bible been found? matter for understanding the Bible?
 
 The Moabite Stone, commemorating King Mesha's victories over Israel, is another remarkable discovery linking to biblical narratives. By examining the archaeological and historical background, readers gain a more grounded perspective on the people, places, and events described in scripture.
-

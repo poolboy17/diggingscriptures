@@ -11,6 +11,10 @@ imageAlt: "jerusalem, dome of the rock, islam, israel, mosque, temple mount, hol
 imageCredit: "Image by jdblack on Pixabay"
 imageWidth: 1280
 imageHeight: 822
+siloTier: "support"
+siloCluster: "biblical-archaeologists"
+siloParent: "/research/excavations/unlocking-the-past-the-role-of-biblical-archaeologists-in-engaging-the-public"
+siloPriority: 56
 ---In the world of Biblical Archaeology, there are several captivating excavation sites that have become popular destinations for researchers and history enthusiasts alike. These sites hold the promise of unearthing ancient artifacts and shedding light on the stories and events depicted in the Bible. With their rich history and archaeological significance, these top excavation sites are an absolute treasure trove for those passionate about uncovering the mysteries of the past.
 
 This topic is part of our [research on archaeological excavations](/research/excavations).
@@ -110,7 +114,10 @@ Visiting Qumran offers a chance to explore the ruins of this ancient settlement 
 
 Explore these related articles for deeper study:
 
-- [Unearthing Ancient Mysteries: Biblical Sites Excavation](/research/excavations/unearthing-ancient-mysteries-biblical-sites-excavation)
+- [Unlocking the Past: the Role of Biblical Archaeologists in](/research/excavations/unlocking-the-past-the-role-of-biblical-archaeologists-in-engaging-the-public)
+- [Discovering the Pioneers: Prominent Biblical Archaeologists](/research/excavations/discovering-the-pioneers-prominent-biblical-archaeologists)
+- [Preserving Endangered Cultural Sites: the Role of Biblical](/research/excavations/preserving-endangered-cultural-sites-the-role-of-biblical-archaeologists)
+- [10 Famous Biblical Archaeologists you Should Know](/research/excavations/10-famous-biblical-archaeologists-you-should-know)
 
 ## Frequently Asked Questions
 
@@ -129,4 +136,3 @@ In the world of Biblical Archaeology, there are several captivating excavation s
 City of David
 
 The City of David, located in Jerusalem, is one of the most important excavation sites for biblical archaeologists. By examining the archaeological and historical background, readers gain a more grounded perspective on the people, places, and events described in scripture.
-

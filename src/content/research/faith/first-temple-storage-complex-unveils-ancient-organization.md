@@ -11,6 +11,10 @@ imageAlt: "church, stained glass, cathedral, architecture, church window, glass 
 imageCredit: "Image by Tama66 on Pixabay"
 imageWidth: 1280
 imageHeight: 853
+siloTier: "support"
+siloCluster: "first-temple"
+siloParent: "/research/faith/the-intertestamental-period-exploring-the-time-between-the-old-and-new-testaments"
+siloPriority: 77
 ---First Temple Storage Complex Unveils Ancient Organization is a theological subject that explores the intersection of faith traditions and historical evidence.
 
 This topic is part of our [research on faith and history](/research/faith).
@@ -97,7 +101,10 @@ As researchers continue to peel away the layers of history, one cannot help but 
 
 Explore these related articles for deeper study:
 
+- [The Intertestamental Period: Exploring the Time Between the old](/research/faith/the-intertestamental-period-exploring-the-time-between-the-old-and-new-testaments)
 - [First Temple Period Discovery Reveals Ancient](/research/faith/first-temple-period-discovery-reveals-ancient-secrets)
+- [First Temple Treasury Complex Unveiled](/research/faith/first-temple-treasury-complex-unveiled)
+- [First Temple Market Unearthed: a new Biblical Insight](/research/faith/first-temple-market-unearthed-a-new-biblical-insight)
 
 ## Frequently Asked Questions
 
@@ -116,4 +123,3 @@ Current research continues to focus on uncovering more artifacts and analyzing t
 ### Why does first temple storage complex unveils ancient organization matter for understanding the Bible?
 
 The findings from the storage complex have set a precedent for further excavations, fueling academic discussions and hypotheses about daily life during the First Temple period. By examining the archaeological and historical background, readers gain a more grounded perspective on the people, places, and events described in scripture.
-

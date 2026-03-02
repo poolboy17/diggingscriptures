@@ -11,6 +11,10 @@ imageAlt: "bible, book, highlighter, pages, text, open, open book, open bible, h
 imageCredit: "Image by Pexels on Pixabay"
 imageWidth: 1280
 imageHeight: 961
+siloTier: "support"
+siloCluster: "bible-located"
+siloParent: "/research/scripture"
+siloPriority: 74
 ---Where is the First Original Bible Located? refers to a subject within biblical manuscript studies that scholars continue to investigate.
 
 This topic is part of our [research on biblical scripture studies](/research/scripture).
@@ -67,7 +71,9 @@ Studying these ancient Bibles in conjunction allows scholars to trace the evolut
 Explore these related articles for deeper study:
 
 - [Where is the Original Bible Located?](/research/scripture/where-is-the-original-bible-located)
-- [Are the Original Books of the Bible Still in Existence?](/research/scripture/are-the-original-books-of-the-bible-still-in-existence)
+- [Where is the Oldest Version of the Bible Located?](/research/scripture/where-is-the-oldest-version-of-the-bible-located)
+- [Does the Original Bible Still Exist?](/research/scripture/does-the-original-bible-still-exist)
+- [The Original Language of the new Testament Bible](/research/scripture/the-original-language-of-the-new-testament-bible)
 
 ## Frequently Asked Questions
 
@@ -82,4 +88,3 @@ Saint Catherine's Monastery, where the Codex Sinaiticus was found, is a historic
 ### Why does is the first original bible located? matter for understanding the Bible?
 
 The Codex Sinaiticus, a significant historical and religious artifact, was discovered at St. By examining the archaeological and historical background, readers gain a more grounded perspective on the people, places, and events described in scripture.
-

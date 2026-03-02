@@ -11,6 +11,10 @@ imageAlt: "books, stack, book store, stack of books, 2nd hand, retro, hipster, s
 imageCredit: "Image by EliFrancis on Pixabay"
 imageWidth: 1280
 imageHeight: 853
+siloTier: "support"
+siloCluster: "oldest-bible"
+siloParent: "/research/scripture"
+siloPriority: 80
 ---Where is the Oldest Bible in the World Kept? refers to a subject within biblical manuscript studies that scholars continue to investigate.
 
 This topic is part of our [research on biblical scripture studies](/research/scripture).
@@ -68,8 +72,10 @@ The Codex Sinaiticus, housed at the British Library, is not only the oldest Bibl
 
 Explore these related articles for deeper study:
 
+- [What is the Oldest Bible Found?](/research/scripture/what-is-the-oldest-bible-found)
+- [What is the Oldest Bible in Existence Today?](/research/scripture/what-is-the-oldest-bible-in-existence-today)
 - [Which Bible is the Oldest in the World?](/research/scripture/which-bible-is-the-oldest-in-the-world)
-- [Is the Ethiopian Bible the Oldest Bible?](/research/scripture/is-the-ethiopian-bible-the-oldest-bible)
+- [What is the Oldest Archaeological Evidence of the Bible?](/research/scripture/what-is-the-oldest-archaeological-evidence-of-the-bible)
 
 ## Frequently Asked Questions
 
@@ -86,4 +92,3 @@ The manuscript, which is considered the oldest Bible in the world, was originall
 Impact on Biblical Scholarship
 
 One of the most significant contributions of the Codex Sinaiticus to biblical scholarship lies in its detailed contents, which serve as a foundational resource for critical analysis of the biblical text. By examining the archaeological and historical background, readers gain a more grounded perspective on the people, places, and events described in scripture.
-

@@ -11,6 +11,10 @@ imageAlt: "pretty much, jerash, oval forum, roman, culture, story, historical, a
 imageCredit: "Image by ChiemSeherin on Pixabay"
 imageWidth: 1280
 imageHeight: 720
+siloTier: "support"
+siloCluster: "discover-ancient"
+siloParent: "/research/biblical-archaeology/governing-temple-rites-the-secrets-of-the-museum-storeroom-box"
+siloPriority: 56
 ---Unveiling Jerusalem's Temple: a Revealing Scan of Ancient is a topic in biblical archaeology that connects ancient material evidence with scriptual narratives.
 
 This topic is part of our [research on biblical archaeology](/research/biblical-archaeology).
@@ -87,7 +91,10 @@ In summary, the Temple Mount Scanning Project is charting new territories in the
 
 Explore these related articles for deeper study:
 
-- [Ancient Jerusalem Marketplace Near Temple Unveiled](/research/excavations/ancient-jerusalem-marketplace-near-temple-unveiled)
+- [Temple Wonders: 5 Hidden Rituals That Shaped Ancient Spirituality](/research/biblical-archaeology/governing-temple-rites-the-secrets-of-the-museum-storeroom-box)
+- [Unveiling Ancient History: how dna Analysis Unravels](/research/biblical-archaeology/dna-analysis-transforms-ancient-migration-insights)
+- [Discover Ancient Israel: Unveiling the Secrets of Hill-Country](/research/biblical-archaeology/exploring-hill-country-tablets-genealogies-linking-ancient-israel)
+- [Discover Ancient Temple Secrets with Ground-Penetrating Radar](/research/biblical-archaeology/ground-penetrating-radar-unveils-hidden-temple-complex)
 
 ## Frequently Asked Questions
 
@@ -106,4 +113,3 @@ The Temple Mount, known as Har HaBayit in Hebrew and Haram al-Sharif in Arabic, 
 ### Why does unveiling jerusalem's temple: a revealing scan of ancient matter for understanding the Bible?
 
 Unveiling Jerusalem's Temple: a Revealing Scan of Ancient is a topic in biblical archaeology that connects ancient material evidence with scriptual narratives. By examining the archaeological and historical background, readers gain a more grounded perspective on the people, places, and events described in scripture.
-

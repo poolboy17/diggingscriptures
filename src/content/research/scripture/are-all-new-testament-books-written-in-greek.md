@@ -11,6 +11,10 @@ imageAlt: "calligraphy, story, ink, feather, a book, vintage, old, wood, fairy t
 imageCredit: "Image by Ghinzo on Pixabay"
 imageWidth: 1280
 imageHeight: 853
+siloTier: "support"
+siloCluster: "testament-books"
+siloParent: "/research/scripture/exploring-the-old-testament-through-a-cultural-lens"
+siloPriority: 68
 ---In the fascinating field of biblical scholarship, one question that often arises is whether all New Testament books were written in Greek. Anita Love, a distinguished authority on the historical and contemporary significance of Christianity, explores this intriguing topic with her extensive knowledge and expertise. With her academic background in Theology and Religious Studies, Anita has delved into the study of ancient biblical manuscripts to shed light on the language in which these sacred texts were penned. As we journey through her insightful writings, we will discover the complexities and intricacies woven into the rich tapestry of the New Testament's linguistic origins.
 
 This topic is part of our [research on biblical scripture studies](/research/scripture).
@@ -198,7 +202,9 @@ Several historical events during the New Testament era may have influenced the u
 
 Explore these related articles for deeper study:
 
-- [Is the old Testament Written in Greek or Hebrew?](/research/scripture/is-the-old-testament-written-in-greek-or-hebrew)
+- [Exploring the old Testament Through a Cultural Lens](/research/scripture/exploring-the-old-testament-through-a-cultural-lens)
+- [Were the new Testament Books Written in Hebrew?](/research/scripture/were-the-new-testament-books-written-in-hebrew)
+- [Why is the new Testament Written in Greek and not Hebrew?](/research/scripture/why-is-the-new-testament-written-in-greek-and-not-hebrew)
 - [Old Testament Books Written in Aramaic](/research/scripture/old-testament-books-written-in-aramaic)
 
 ## Frequently Asked Questions
@@ -216,4 +222,3 @@ While the debate over Aramaic Primacy continues, some partial Aramaic translatio
 ### Why does are all new testament books written in greek? matter for understanding the Bible?
 
 With her academic background in Theology and Religious Studies, Anita has delved into the study of ancient biblical manuscripts to shed light on the language in which these sacred texts were penned. By examining the archaeological and historical background, readers gain a more grounded perspective on the people, places, and events described in scripture.
-

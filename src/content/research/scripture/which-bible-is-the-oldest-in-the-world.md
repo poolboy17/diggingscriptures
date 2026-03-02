@@ -11,6 +11,10 @@ imageAlt: "a book, antiquariat, old books, used books, old, literature, worn, se
 imageCredit: "Image by ulleo on Pixabay"
 imageWidth: 1280
 imageHeight: 783
+siloTier: "support"
+siloCluster: "first-bible"
+siloParent: "/research/scripture"
+siloPriority: 62
 ---Many may not realize that when it comes to the oldest Bible in the world, the answer is not straightforward. While the Codex Sinaiticus is a significant contender, other ancient manuscripts also vie for this prestigious title.
 
 This topic is part of our [research on biblical scripture studies](/research/scripture).
@@ -70,8 +74,10 @@ Dating to the sixth century, this manuscript offers a glimpse into the world of 
 
 Explore these related articles for deeper study:
 
-- [Where is the Oldest Bible in the World Kept?](/research/scripture/where-is-the-oldest-bible-in-the-world-kept)
+- [Is the Ethiopian Bible the Oldest?](/research/scripture/is-the-ethiopian-bible-the-oldest)
 - [Is the Ethiopian Bible the Oldest Bible?](/research/scripture/is-the-ethiopian-bible-the-oldest-bible)
+- [Who Made the First Bible in the World?](/research/scripture/who-made-the-first-bible-in-the-world)
+- [Is the Ethiopian Bible the First Bible?](/research/scripture/is-the-ethiopian-bible-the-first-bible)
 
 ## Frequently Asked Questions
 
@@ -86,4 +92,3 @@ to 70 C.E., contain some of the oldest biblical texts discovered, including frag
 ### Why does which bible is the oldest in the world? matter for understanding the Bible?
 
 This version laid the foundation for many subsequent translations and interpretations of the Old Covenant. By examining the archaeological and historical background, readers gain a more grounded perspective on the people, places, and events described in scripture.
-

@@ -11,6 +11,10 @@ imageAlt: "way, building, excavator, viaduct, road, cities, work, digging, build
 imageCredit: "Image by satynek on Pixabay"
 imageWidth: 1280
 imageHeight: 781
+siloTier: "support"
+siloCluster: "ancient-jerusalem"
+siloParent: "/research/excavations/jerusalem-wall-niche-a-reflection-on-moral-warnings-for-corrupt-authority"
+siloPriority: 65
 ---Unearthing Ancient Jerusalem: a Glimpse into First Temples is an area of archaeological investigation that has yielded significant findings about the ancient world.
 
 This topic is part of our [research on archaeological excavations](/research/excavations).
@@ -81,7 +85,10 @@ The discovery of a First Temple Period market is a profound strike against the s
 
 Explore these related articles for deeper study:
 
+- [Unearthed Testament: Jerusalem Walls Powerful Message](/research/excavations/jerusalem-wall-niche-a-reflection-on-moral-warnings-for-corrupt-authority)
 - [Unearthing Ancient Jerusalem: Secrets of the Prophetic Exile](/research/excavations/jerusalems-hidden-compartment-unraveling-the-prophetic-gathering-of-exiles)
+- [Ancient Jerusalem Marketplace Near Temple Unveiled](/research/excavations/ancient-jerusalem-marketplace-near-temple-unveiled)
+- [Ancient Jerusalem: Unveiling the Commerce Center](/research/excavations/ancient-jerusalem-unveiling-the-commerce-center)
 
 ## Frequently Asked Questions
 
@@ -102,4 +109,3 @@ The artifacts discovered paint a vivid picture of life during the First Temple P
 ### Why does unearthing ancient jerusalem: a glimpse into first temples matter for understanding the Bible?
 
 Unearthing Ancient Jerusalem: a Glimpse into First Temples is an area of archaeological investigation that has yielded significant findings about the ancient world. By examining the archaeological and historical background, readers gain a more grounded perspective on the people, places, and events described in scripture.
-

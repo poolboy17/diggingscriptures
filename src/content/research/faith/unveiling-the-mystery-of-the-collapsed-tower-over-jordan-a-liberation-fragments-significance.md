@@ -11,6 +11,10 @@ imageAlt: "angel, icon, wall paint, iconography, damaged, weathered, aged, churc
 imageCredit: "Image by dimitrisvetsikas1969 on Pixabay"
 imageWidth: 1280
 imageHeight: 854
+siloTier: "support"
+siloCluster: "ancient-secrets"
+siloParent: "/research/faith/hillside-dwelling-scribal-lessons-on-preservation-of-the-law"
+siloPriority: 74
 ---Ancient Secrets Revealed: Uncovering Jordan's Collapsed Tower is a theological subject that explores the intersection of faith traditions and historical evidence.
 
 This topic is part of our [research on faith and history](/research/faith).
@@ -142,7 +146,10 @@ As the dust settles around this collapsed tower, it becomes a powerful symbol no
 
 Explore these related articles for deeper study:
 
-- [Unearthed Secrets: Ancient Jewish Festivals Revealed by](/research/faith/ancient-jewish-festival-evidence-uncovered)
+- [Uncover Ancient Secrets: How Scribes Preserved Law in](/research/faith/hillside-dwelling-scribal-lessons-on-preservation-of-the-law)
+- [Discover Ancient Temple Secrets: Challenging Faith With](/research/faith/the-olive-press-cache-unveiling-temple-seals-and-scripture-lines)
+- [Unearth Ancient Secrets: The Jordan Slope Stones Echo of Psalms](/research/faith/jordan-slope-stone-unveiling-the-psalms-echo-in-shepherds-fragment)
+- [Uncover Ancient Secrets: how Tech Revives Biblical Archaeology](/research/faith/digital-mapping-of-biblical-cities-unearthing-lost-histories)
 
 ## Frequently Asked Questions
 
@@ -161,4 +168,3 @@ The themes found in the Liberation Fragments prompt us to consider the theologic
 ### Why does ancient secrets revealed: uncovering jordan's collapsed tower matter for understanding the Bible?
 
 Ancient Secrets Revealed: Uncovering Jordan's Collapsed Tower is a theological subject that explores the intersection of faith traditions and historical evidence. By examining the archaeological and historical background, readers gain a more grounded perspective on the people, places, and events described in scripture.
-

@@ -11,6 +11,10 @@ imageAlt: "document, parchment, the middle ages, ducal, royal, history, old time
 imageCredit: "Image by Arcaion on Pixabay"
 imageWidth: 1280
 imageHeight: 854
+siloTier: "support"
+siloCluster: "oldest-bible"
+siloParent: "/research/scripture"
+siloPriority: 77
 ---What is the Oldest Bible in Existence Today? refers to a subject within biblical manuscript studies that scholars continue to investigate.
 
 This topic is part of our [research on biblical scripture studies](/research/scripture).
@@ -66,8 +70,10 @@ This ancient manuscript not only contributes to the preservation of the Hebrew B
 
 Explore these related articles for deeper study:
 
-- [Are the Original Books of the Bible Still in Existence?](/research/scripture/are-the-original-books-of-the-bible-still-in-existence)
-- [Is the Ethiopian Bible the Oldest Bible?](/research/scripture/is-the-ethiopian-bible-the-oldest-bible)
+- [What Language was the old Testament Written In?](/research/scripture/what-language-was-the-old-testament-written-in)
+- [Where is the Oldest Bible in the World Kept?](/research/scripture/where-is-the-oldest-bible-in-the-world-kept)
+- [What is the Oldest Bible Found?](/research/scripture/what-is-the-oldest-bible-found)
+- [What is the Oldest Archaeological Evidence of the Bible?](/research/scripture/what-is-the-oldest-archaeological-evidence-of-the-bible)
 
 ## Frequently Asked Questions
 
@@ -82,4 +88,3 @@ This ancient manuscript, dating between 400-440 AD, is considered one of the old
 ### Why does is the oldest bible in existence today? matter for understanding the Bible?
 
 What is the Oldest Bible in Existence Today. By examining the archaeological and historical background, readers gain a more grounded perspective on the people, places, and events described in scripture.
-

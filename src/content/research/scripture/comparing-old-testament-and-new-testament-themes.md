@@ -11,6 +11,10 @@ imageAlt: "sütterlin, windows wallpaper, wallpaper 4k, beautiful wallpaper, han
 imageCredit: "Image by cocoparisienne on Pixabay"
 imageWidth: 1280
 imageHeight: 853
+siloTier: "pillar"
+siloCluster: "testament-themes"
+siloParent: "/research/scripture"
+siloPriority: 100
 ---Comparing old Testament and new Testament Themes refers to a subject within biblical manuscript studies that scholars continue to investigate.
 
 This topic is part of our [research on biblical scripture studies](/research/scripture).
@@ -284,6 +288,9 @@ By examining these messianic prophecies in the Old Testament and their fulfillme
 Explore these related articles for deeper study:
 
 - [Comparing the old Testament and new Testament Themes](/research/scripture/comparing-the-old-testament-and-new-testament-themes)
+- [The old Testament: Exploring Themes, Genres, and Historical](/research/scripture/the-old-testament-exploring-themes-genres-and-historical-contexts)
+- [Understanding the old Testament: Exploring Themes and Contexts](/research/scripture/understanding-the-old-testament-exploring-themes-and-contexts)
+- [The Translation of the old Testament: a Historical Perspective](/research/scripture/the-translation-of-the-old-testament-a-historical-perspective)
 
 ## Frequently Asked Questions
 
@@ -298,4 +305,3 @@ In the New Testament, one key passage that showcases the shift from law to grace
 ### Why does comparing old testament and new testament themes matter for understanding the Bible?
 
 The emergence of early Christian communities and their struggles in the face of persecution also inform the themes of faith, hope, and perseverance found in the New Testament writings. By examining the archaeological and historical background, readers gain a more grounded perspective on the people, places, and events described in scripture.
-

@@ -11,6 +11,10 @@ imageAlt: "israel, jerusalem, jewish, palestine, religion, temple, judaism, holy
 imageCredit: "Image by Nick115 on Pixabay"
 imageWidth: 1280
 imageHeight: 854
+siloTier: "support"
+siloCluster: "biblical-archaeological"
+siloParent: "/research/biblical-archaeology/the-unearthing-of-ancient-temples-a-biblical-archaeological-expedition"
+siloPriority: 17
 ---Analyzing Jordans Biblical Clay Pots: A Glimpse Into Ancient is a topic in biblical archaeology that connects ancient material evidence with scriptual narratives.
 
 This topic is part of our [research on biblical archaeology](/research/biblical-archaeology).
@@ -146,8 +150,10 @@ As you reflect on these ancient relics, know they are not isolated from your wor
 
 Explore these related articles for deeper study:
 
+- [The Unearthing of Ancient Temples: a Biblical Archaeological](/research/biblical-archaeology/the-unearthing-of-ancient-temples-a-biblical-archaeological-expedition)
+- [Analyzing Modern Farming: A Glimpse into the Desert Plateau](/research/biblical-archaeology/exploring-the-desert-plateau-anomaly-unveiling-moral-farming-metaphors)
+- [Analyzing the Distant Queen: Intriguing Insights from Biblical](/research/biblical-archaeology/the-distant-queens-visit-unearthing-the-gifts-offered-to-behold-arks-glory)
 - [Analyzing the Role of Peer Review in Biblical Archaeological](/research/biblical-archaeology/analyzing-the-role-of-peer-review-in-biblical-archaeological-research)
-- [Discovering Ancient Israel: a Deep Dive into Biblical](/research/biblical-archaeology/biblical-archaeology-and-the-dead-sea-scrolls-in-israel)
 
 ## Frequently Asked Questions
 
@@ -166,4 +172,3 @@ One of the fascinating aspects of clay pots found in Jordan is often whats inscr
 Excavation Techniques
  
 Before any story can be told, the first step lies in excavation. By examining the archaeological and historical background, readers gain a more grounded perspective on the people, places, and events described in scripture.
-

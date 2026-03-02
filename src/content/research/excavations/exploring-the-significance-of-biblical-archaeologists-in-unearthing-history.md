@@ -11,6 +11,10 @@ imageAlt: "construction site, building, work, works, concrete, armed, cables, fo
 imageCredit: "Image by Mrdidg on Pixabay"
 imageWidth: 1280
 imageHeight: 853
+siloTier: "support"
+siloCluster: "biblical-archaeologists"
+siloParent: "/research/excavations/unlocking-the-past-the-role-of-biblical-archaeologists-in-engaging-the-public"
+siloPriority: 53
 ---Exploring the Significance of Biblical Archaeologists in is an area of archaeological investigation that has yielded significant findings about the ancient world.
 
 This topic is part of our [research on archaeological excavations](/research/excavations).
@@ -102,8 +106,10 @@ Biblical chronology involves correlating events and dates mentioned in the Bible
 
 Explore these related articles for deeper study:
 
+- [Unlocking the Past: the Role of Biblical Archaeologists in](/research/excavations/unlocking-the-past-the-role-of-biblical-archaeologists-in-engaging-the-public)
 - [Exploring the Significance: Biblical Archaeologists in Heritage](/research/excavations/exploring-the-significance-biblical-archaeologists-in-heritage-preservation)
-- [Exploring the Religious Significance: Biblical Archaeologists](/research/faith/exploring-the-religious-significance-biblical-archaeologists-interpretations)
+- [Exploring the Relationship Between Biblical Archaeologists and](/research/excavations/exploring-the-relationship-between-biblical-archaeologists-and-conservation-efforts)
+- [Discovering the Pioneers: Prominent Biblical Archaeologists](/research/excavations/discovering-the-pioneers-prominent-biblical-archaeologists)
 
 ## Frequently Asked Questions
 
@@ -122,4 +128,3 @@ Biblical archaeology is a field of study that seeks to uncover and understand th
 Development of Methodology
 
 As biblical archaeology advanced, scholars recognized the need for a systematic methodology to guide their excavations and interpretations. By examining the archaeological and historical background, readers gain a more grounded perspective on the people, places, and events described in scripture.
-

@@ -11,6 +11,10 @@ imageAlt: "bhagavad gita, ancient scriptures, john rylands library, book, old, l
 imageCredit: "Image by nmoodley on Pixabay"
 imageWidth: 1280
 imageHeight: 960
+siloTier: "support"
+siloCluster: "language-testament"
+siloParent: "/research/scripture/exploring-the-language-of-the-old-testament"
+siloPriority: 59
 ---Understanding the Original Language of the new Testament refers to a subject within biblical manuscript studies that scholars continue to investigate.
 
 This topic is part of our [research on biblical scripture studies](/research/scripture).
@@ -135,7 +139,10 @@ The preservation of the original language of the New Testament is primarily achi
 
 Explore these related articles for deeper study:
 
+- [Exploring the Language of the old Testament](/research/scripture/exploring-the-language-of-the-old-testament)
+- [The Original Language of the new Testament](/research/scripture/the-original-language-of-the-new-testament)
 - [The Language of the old Testament: Exploring its Original Writing](/research/scripture/the-language-of-the-old-testament-exploring-its-original-writing)
+- [The Original Language of the new Testament Bible](/research/scripture/the-original-language-of-the-new-testament-bible)
 
 ## Frequently Asked Questions
 
@@ -150,4 +157,3 @@ This linguistic accessibility played a crucial role in the dissemination and pre
 ### Why does understanding the original language of the new testament matter for understanding the Bible?
 
 The influence of Aramaic and Hebrew can also be seen in the numerous Hebraisms and Semitic idioms found in the Greek text of the New Testament. By examining the archaeological and historical background, readers gain a more grounded perspective on the people, places, and events described in scripture.
-

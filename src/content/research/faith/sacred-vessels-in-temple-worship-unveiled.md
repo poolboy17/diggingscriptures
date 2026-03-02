@@ -11,6 +11,10 @@ imageAlt: "wailing wall, western wall, israel, jerusalem, temple, wailing wall, 
 imageCredit: "Image by Freeshot on Pixabay"
 imageWidth: 1280
 imageHeight: 733
+siloTier: "support"
+siloCluster: "first-temple"
+siloParent: "/research/faith/the-intertestamental-period-exploring-the-time-between-the-old-and-new-testaments"
+siloPriority: 59
 ---Sacred Vessels in Temple Worship Unveiled is a theological subject that explores the intersection of faith traditions and historical evidence.
 
 This topic is part of our [research on faith and history](/research/faith).
@@ -81,7 +85,10 @@ The exploration of sacred vessels invites practitioners, scholars, and enthusias
 
 Explore these related articles for deeper study:
 
+- [The Intertestamental Period: Exploring the Time Between the old](/research/faith/the-intertestamental-period-exploring-the-time-between-the-old-and-new-testaments)
 - [First Temple Treasury Complex Unveiled](/research/faith/first-temple-treasury-complex-unveiled)
+- [First Temple Market Unearthed: a new Biblical Insight](/research/faith/first-temple-market-unearthed-a-new-biblical-insight)
+- [First Temple Storage Complex Unveils Ancient Organization](/research/faith/first-temple-storage-complex-unveils-ancient-organization)
 
 ## Frequently Asked Questions
 
@@ -100,4 +107,3 @@ Sacred Vessels in Temple Worship Unveiled is a theological subject that explores
 ### Why does sacred vessels in temple worship unveiled matter for understanding the Bible?
 
 Excavations have unearthed fragments of these sacred implements, offering invaluable insight into their function and the culture of the people who used them. By examining the archaeological and historical background, readers gain a more grounded perspective on the people, places, and events described in scripture.
-

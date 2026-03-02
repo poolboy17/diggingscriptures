@@ -11,6 +11,10 @@ imageAlt: "scroll, feather, ink, caligraphy, hebrew, writing, characters, paper,
 imageCredit: "Image by zofiaEliyahu on Pixabay"
 imageWidth: 1280
 imageHeight: 859
+siloTier: "support"
+siloCluster: "themes-testament"
+siloParent: "/research/scripture/contrasting-themes-in-the-old-testament-and-the-new-testament-4"
+siloPriority: 59
 ---Exploring the Worship in the new Testament refers to a subject within biblical manuscript studies that scholars continue to investigate.
 
 This topic is part of our [research on biblical scripture studies](/research/scripture).
@@ -173,7 +177,10 @@ The New Testament's teachings on worship have had a significant impact on variou
 
 Explore these related articles for deeper study:
 
+- [Contrasting Themes in the old Testament and the new Testament](/research/scripture/contrasting-themes-in-the-old-testament-and-the-new-testament-4)
+- [Worship in the old and new Testament](/research/scripture/worship-in-the-old-and-new-testament)
 - [Contrasting Worship in the old Testament and the new Testament](/research/scripture/contrasting-worship-in-the-old-testament-and-the-new-testament)
+- [Comparing the old Testament and the new Testament](/research/scripture/comparing-the-old-testament-and-the-new-testament)
 
 ## Frequently Asked Questions
 
@@ -192,4 +199,3 @@ Concept of Worship in the New Testament
 Understanding the New Testament's perspective on worship
  
 In the New Testament, worship is presented as a central aspect of the believer's relationship with God. By examining the archaeological and historical background, readers gain a more grounded perspective on the people, places, and events described in scripture.
-

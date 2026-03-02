@@ -11,6 +11,10 @@ imageAlt: "chinese, free background, mac wallpaper, vase, 4k wallpaper 1920x1080
 imageCredit: "Image by 947051 on Pixabay"
 imageWidth: 1280
 imageHeight: 753
+siloTier: "support"
+siloCluster: "ark-covenant"
+siloParent: "/research/artifacts/exploring-the-ethical-implications-of-displaying-biblical-archaeological-artifacts"
+siloPriority: 62
 ---Journey Through Time: Examining the Jordan Baptism Site jar And refers to ancient material remains that provide physical evidence for understanding biblical history.
 
 This topic is part of our [research on ancient artifacts](/research/artifacts).
@@ -121,7 +125,10 @@ So, the next time you are by a body of water, think about its significance. Cons
 
 Explore these related articles for deeper study:
 
-- [Miracle or History? Examining the Biblical Jordan Crossing Event](/research/biblical-archaeology/the-jordan-crossing-miracle-unveiling-the-waters-yielding-to-the-ark-bearing-priests)
+- [Exploring the Ethical Implications of Displaying Biblical](/research/artifacts/exploring-the-ethical-implications-of-displaying-biblical-archaeological-artifacts)
+- [Examining the Ark of the Covenant: how it Empowered the](/research/artifacts/the-last-stand-in-battle-how-the-ark-lifts-the-courage-of-the-outnumbered)
+- [Exploring the Moral Dilemmas Surrounding Collecting and](/research/artifacts/exploring-the-moral-dilemmas-surrounding-collecting-and-interpreting-biblical-artifacts)
+- [Hebrew, Aramaic, Greek: Biblical Languages Explained](/research/artifacts/hebrew-aramaic-greek-biblical-languages-explained)
 
 ## Frequently Asked Questions
 
@@ -142,4 +149,3 @@ Imagine for a moment how these archaeological findings translate to contemporary
 A Sacred Destinational Waterway
  
 From the Israelites crossing into the Promised Land to Jesus's own baptism, the Jordan is steeped in significance. By examining the archaeological and historical background, readers gain a more grounded perspective on the people, places, and events described in scripture.
-

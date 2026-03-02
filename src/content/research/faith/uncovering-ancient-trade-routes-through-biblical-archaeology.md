@@ -11,6 +11,10 @@ imageAlt: "christ, icon, hagia sophia, istanbul, mosaic, ancient art, 13th centu
 imageCredit: "Image by gunthersimmermacher on Pixabay"
 imageWidth: 1280
 imageHeight: 960
+siloTier: "support"
+siloCluster: "biblical-archaeology"
+siloParent: "/research/faith/the-infamous-relics-famous-fakes-and-forgeries-in-biblical-archaeology"
+siloPriority: 56
 ---Uncovering Ancient Trade Routes Through Biblical Archaeology is a theological subject that explores the intersection of faith traditions and historical evidence.
 
 This topic is part of our [research on faith and history](/research/faith).
@@ -188,7 +192,10 @@ Dendrochronology and radiocarbon dating have provided valuable chronological inf
 
 Explore these related articles for deeper study:
 
-- [Biblical Archaeology: Uncovering Ancient Maritime Routes](/research/biblical-archaeology/biblical-archaeology-uncovering-ancient-maritime-routes)
+- [The Infamous Relics: Famous Fakes and Forgeries in Biblical](/research/faith/the-infamous-relics-famous-fakes-and-forgeries-in-biblical-archaeology)
+- [Uncovering Ancient Trading Networks Through Biblical Archaeology](/research/faith/uncovering-ancient-trading-networks-through-biblical-archaeology)
+- [Uncovering Ancient Cities Through Biblical Archaeology](/research/faith/uncovering-ancient-cities-through-biblical-archaeology)
+- [Uncovering the Mysteries: the Future of Biblical Archaeology](/research/faith/uncovering-the-mysteries-the-future-of-biblical-archaeology)
 
 ## Frequently Asked Questions
 
@@ -205,4 +212,3 @@ Uncovering Ancient Trade Routes Through Biblical Archaeology is a theological su
 ### Why does uncovering ancient trade routes through biblical archaeology matter for understanding the Bible?
 
 Through compelling discoveries and meticulous research, biblical archaeologists are uncovering the hidden stories of how goods and ideas were exchanged, deepening our understanding of the civilizations that came before us. By examining the archaeological and historical background, readers gain a more grounded perspective on the people, places, and events described in scripture.
-

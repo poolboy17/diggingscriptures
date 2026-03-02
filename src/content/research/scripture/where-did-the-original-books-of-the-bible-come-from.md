@@ -11,6 +11,10 @@ imageAlt: "bhagavad gita, ancient scriptures, john rylands library, book, old, l
 imageCredit: "Image by nmoodley on Pixabay"
 imageWidth: 1280
 imageHeight: 960
+siloTier: "support"
+siloCluster: "original-books"
+siloParent: "/research/scripture"
+siloPriority: 62
 ---Where did the Original Books of the Bible Come From? refers to a subject within biblical manuscript studies that scholars continue to investigate.
 
 This topic is part of our [research on biblical scripture studies](/research/scripture).
@@ -68,8 +72,10 @@ The preservation of the Bible through the centuries underscores the dedication a
 
 Explore these related articles for deeper study:
 
-- [Are the Original Books of the Bible Still in Existence?](/research/scripture/are-the-original-books-of-the-bible-still-in-existence)
+- [Where Were the Original Books of the Bible Found?](/research/scripture/where-were-the-original-books-of-the-bible-found)
 - [Do any of the Original Books of the Bible Still Exist?](/research/scripture/do-any-of-the-original-books-of-the-bible-still-exist)
+- [Have the Original Books of the Bible Been Found?](/research/scripture/have-the-original-books-of-the-bible-been-found)
+- [Are the Original Books of the Bible Still in Existence?](/research/scripture/are-the-original-books-of-the-bible-still-in-existence)
 
 ## Frequently Asked Questions
 
@@ -84,4 +90,3 @@ Through these deliberations, the early church solidified the foundation of the C
 ### Why does did the original books of the bible come from? matter for understanding the Bible?
 
 Through these deliberations, the early church solidified the foundation of the Christian faith by determining which writings would be regarded as sacred scripture for generations to come. By examining the archaeological and historical background, readers gain a more grounded perspective on the people, places, and events described in scripture.
-

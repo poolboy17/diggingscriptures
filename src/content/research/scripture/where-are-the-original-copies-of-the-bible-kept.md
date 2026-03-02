@@ -11,6 +11,10 @@ imageAlt: "mesopotamia, myth, mythology, history, landscape, ruins, anunnaki, su
 imageCredit: "Image by BenFishold on Pixabay"
 imageWidth: 1280
 imageHeight: 731
+siloTier: "support"
+siloCluster: "bible-kept"
+siloParent: "/research/scripture"
+siloPriority: 74
 ---An intriguing fact is that the oldest known complete copy of the Bible is the Codex Sinaiticus, dating back to the 4th century AD.
 
 This topic is part of our [research on biblical scripture studies](/research/scripture).
@@ -74,7 +78,10 @@ Through their dedicated efforts, scholars continue to unravel the rich tapestry 
 
 Explore these related articles for deeper study:
 
+- [Where is the Original Bible Kept?](/research/scripture/where-is-the-original-bible-kept)
 - [Where are the Original Manuscripts of the Bible Kept?](/research/scripture/where-are-the-original-manuscripts-of-the-bible-kept)
+- [Does the Original Bible Still Exist?](/research/scripture/does-the-original-bible-still-exist)
+- [The Original Language of the new Testament Bible](/research/scripture/the-original-language-of-the-new-testament-bible)
 
 ## Frequently Asked Questions
 
@@ -89,4 +96,3 @@ These scrolls, found in the mid-20th century near the Dead Sea, contain some of 
 ### Why does are the original copies of the bible kept? matter for understanding the Bible?
 
 Greek manuscripts, particularly the Septuagint, a Greek translation of the Hebrew Bible, are also important in the history of the Bible manuscripts. By examining the archaeological and historical background, readers gain a more grounded perspective on the people, places, and events described in scripture.
-

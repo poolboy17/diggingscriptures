@@ -11,6 +11,10 @@ imageAlt: "temple, shrine, architecture, travel, tourist attraction, landscape, 
 imageCredit: "Image by gorkhe1980 on Pixabay"
 imageWidth: 1280
 imageHeight: 800
+siloTier: "support"
+siloCluster: "unraveling-ancient"
+siloParent: "/research/faith/unraveling-ancient-cultures-through-biblical-archaeology"
+siloPriority: 77
 ---Unveiling Ancient Psalms: A Deep Dive into Faith & is a theological subject that explores the intersection of faith traditions and historical evidence.
 
 This topic is part of our [research on faith and history](/research/faith).
@@ -168,7 +172,10 @@ As you think about the ancient voices, remember that your story contributes to t
 
 Explore these related articles for deeper study:
 
-- [Unveiling Ancient Sacred Crafts: a Deep Dive into Biblical](/research/faith/biblical-archaeology-unearths-ancient-sacred-crafts)
+- [Unraveling Ancient Cultures Through Biblical Archaeology](/research/faith/unraveling-ancient-cultures-through-biblical-archaeology)
+- [Exploring Ancient Prayers: Faith's Resilience in Masadas](/research/faith/masadas-charred-parchment-a-window-into-ancient-prayers-for-deliverance)
+- [High Holy Psalms: Unraveling the Mysteries of Ancient Biblical](/research/faith/high-holy-psalms-the-melodic-prayer-of-priests-circling-the-ark)
+- [Language of the Testaments: Faith & Theology](/research/faith/language-of-the-testaments)
 
 ## Frequently Asked Questions
 
@@ -187,4 +194,3 @@ The Jericho Cellar Tapestry is a compelling representation of this dynamica wove
 Storytelling through Imagery
  
 The images woven within the tapestry not only tell individual stories but also connect to broader narratives found in the Psalms. By examining the archaeological and historical background, readers gain a more grounded perspective on the people, places, and events described in scripture.
-

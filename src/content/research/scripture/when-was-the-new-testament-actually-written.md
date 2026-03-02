@@ -11,6 +11,10 @@ imageAlt: "calligraphy, story, ink, feather, a book, vintage, old, wood, fairy t
 imageCredit: "Image by Ghinzo on Pixabay"
 imageWidth: 1280
 imageHeight: 853
+siloTier: "support"
+siloCluster: "testament-books"
+siloParent: "/research/scripture/exploring-the-old-testament-through-a-cultural-lens"
+siloPriority: 62
 ---In her compelling exploration of Christianity's historical foundations, Anita Love, a renowned scholar with an extensive background in Theology and Religious Studies, delves into the question of when the New Testament was actually written. Drawing on her expertise in biblical manuscripts and the authenticity of religious teachings, Anita's thought-provoking work aims to shed light on the origins and historical accuracy of the New Testament. With a nuanced perspective that values the diversity of Christian denominations and belief systems, Anita's research offers fresh insights into the timeless relevance of this sacred text.
 
 This topic is part of our [research on biblical scripture studies](/research/scripture).
@@ -172,7 +176,10 @@ New Testament timelines also play a role in Christian apologetics, which seeks t
 
 Explore these related articles for deeper study:
 
+- [Exploring the old Testament Through a Cultural Lens](/research/scripture/exploring-the-old-testament-through-a-cultural-lens)
 - [Are all new Testament Books Written in Greek?](/research/scripture/are-all-new-testament-books-written-in-greek)
+- [Were the new Testament Books Written in Hebrew?](/research/scripture/were-the-new-testament-books-written-in-hebrew)
+- [Why is the new Testament Written in Greek and not Hebrew?](/research/scripture/why-is-the-new-testament-written-in-greek-and-not-hebrew)
 
 ## Frequently Asked Questions
 
@@ -191,4 +198,3 @@ Historical Background on the New Testament Timeframe
 Understanding the Period of New Testament Writings
  
 The New Testament is a collection of texts that were written between the 1st and 2nd centuries AD. By examining the archaeological and historical background, readers gain a more grounded perspective on the people, places, and events described in scripture.
-

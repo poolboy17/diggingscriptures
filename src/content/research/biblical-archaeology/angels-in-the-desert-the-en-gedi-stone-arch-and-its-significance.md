@@ -11,6 +11,10 @@ imageAlt: "pretty much, jerash, oval forum, roman, culture, story, historical, a
 imageCredit: "Image by ChiemSeherin on Pixabay"
 imageWidth: 1280
 imageHeight: 720
+siloTier: "support"
+siloCluster: "biblical-archaeological"
+siloParent: "/research/biblical-archaeology/the-unearthing-of-ancient-temples-a-biblical-archaeological-expedition"
+siloPriority: 14
 ---Discovering Angels in Biblical Archaeology: The En Gedi is a topic in biblical archaeology that connects ancient material evidence with scriptual narratives.
 
 This topic is part of our [research on biblical archaeology](/research/biblical-archaeology).
@@ -179,7 +183,10 @@ Ultimately, the stories of angels in the desert, embodied by the En Gedi Stone A
 
 Explore these related articles for deeper study:
 
-- [Discovering Ancient Echoes: A Deep Dive into Biblical Archaeology](/research/biblical-archaeology/the-haunted-echoes-of-the-abandoned-stable-letters-from-the-past)
+- [The Unearthing of Ancient Temples: a Biblical Archaeological](/research/biblical-archaeology/the-unearthing-of-ancient-temples-a-biblical-archaeological-expedition)
+- [Embracing the Future: new Technologies in Biblical Archaeology](/research/biblical-archaeology/embracing-the-future-new-technologies-in-biblical-archaeology)
+- [Exploring the Multidisciplinary Approach in Biblical Archaeology](/research/biblical-archaeology/exploring-the-multidisciplinary-approach-in-biblical-archaeology)
+- [Unearthing the Legacies: Prominent Women in Biblical Archaeology](/research/biblical-archaeology/unearthing-the-legacies-prominent-women-in-biblical-archaeology)
 
 ## Frequently Asked Questions
 
@@ -197,4 +204,3 @@ The stone arch at En Gedi isn't merely an impressive geological formation; it al
 
 -  
 Geographical Context: En Gedi is located roughly 15 kilometers south of Jericho, part of the Judean Desert. By examining the archaeological and historical background, readers gain a more grounded perspective on the people, places, and events described in scripture.
-

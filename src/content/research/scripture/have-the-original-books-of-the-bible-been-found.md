@@ -11,6 +11,10 @@ imageAlt: "book, manuscript, paper, ancient, manuscript, manuscript, manuscript,
 imageCredit: "Image by TonyPrats on Pixabay"
 imageWidth: 1280
 imageHeight: 850
+siloTier: "support"
+siloCluster: "original-books"
+siloParent: "/research/scripture"
+siloPriority: 80
 ---Have the Original Books of the Bible Been Found? refers to a subject within biblical manuscript studies that scholars continue to investigate.
 
 This topic is part of our [research on biblical scripture studies](/research/scripture).
@@ -79,6 +83,9 @@ This innovative approach not only allows for a deeper investigation into the New
 Explore these related articles for deeper study:
 
 - [Where Were the Original Books of the Bible Found?](/research/scripture/where-were-the-original-books-of-the-bible-found)
+- [Where did the Original Books of the Bible Come From?](/research/scripture/where-did-the-original-books-of-the-bible-come-from)
+- [Do any of the Original Books of the Bible Still Exist?](/research/scripture/do-any-of-the-original-books-of-the-bible-still-exist)
+- [Are the Original Books of the Bible Still in Existence?](/research/scripture/are-the-original-books-of-the-bible-still-in-existence)
 
 ## Frequently Asked Questions
 
@@ -93,4 +100,3 @@ Have the Original Books of the Bible Been Found. Physical discoveries including 
 ### Why does have the original books of the bible been found? matter for understanding the Bible?
 
 The Hebrew Bible, for instance, is preserved in significant manuscripts such as the Aleppo Codex, the Leningrad Codex, and the Dead Sea Scrolls. By examining the archaeological and historical background, readers gain a more grounded perspective on the people, places, and events described in scripture.
-

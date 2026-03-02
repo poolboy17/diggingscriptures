@@ -11,6 +11,10 @@ imageAlt: "old letters, letters, handwritten, calligraphy, font, old, ink, style
 imageCredit: "Image by jarmoluk on Pixabay"
 imageWidth: 1280
 imageHeight: 853
+siloTier: "support"
+siloCluster: "testament-themes"
+siloParent: "/research/scripture/comparing-old-testament-and-new-testament-themes"
+siloPriority: 65
 ---The Translation of the old Testament: a Historical Perspective refers to a subject within biblical manuscript studies that scholars continue to investigate.
 
 This topic is part of our [research on biblical scripture studies](/research/scripture).
@@ -175,7 +179,10 @@ Looking ahead, there are several potential trends and challenges for Old Testame
 
 Explore these related articles for deeper study:
 
+- [Comparing old Testament and new Testament Themes](/research/scripture/comparing-old-testament-and-new-testament-themes)
+- [The old Testament: Exploring Themes, Genres, and Historical](/research/scripture/the-old-testament-exploring-themes-genres-and-historical-contexts)
 - [The Historical Accuracy of the new Testament](/research/scripture/the-historical-accuracy-of-the-new-testament)
+- [Comparing the old Testament and new Testament Themes](/research/scripture/comparing-the-old-testament-and-new-testament-themes)
 
 ## Frequently Asked Questions
 
@@ -192,4 +199,3 @@ The Geneva Bible, first published in 1560, was another influential translation o
 ### Why does translation of the old testament: a historical perspective matter for understanding the Bible?
 
 As new discoveries are made, linguistic understandings deepen, and cultural perspectives shift, the quest for accuracy in translating the Old Testament remains ongoing. By examining the archaeological and historical background, readers gain a more grounded perspective on the people, places, and events described in scripture.
-

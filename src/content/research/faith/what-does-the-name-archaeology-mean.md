@@ -11,6 +11,10 @@ imageAlt: "christ, icon, hagia sophia, istanbul, mosaic, ancient art, 13th centu
 imageCredit: "Image by gunthersimmermacher on Pixabay"
 imageWidth: 1280
 imageHeight: 960
+siloTier: "support"
+siloCluster: "biblical-archaeology"
+siloParent: "/research/faith/the-infamous-relics-famous-fakes-and-forgeries-in-biblical-archaeology"
+siloPriority: 10
 ---What Does the Name Archaeology Mean? is a theological subject that explores the intersection of faith traditions and historical evidence.
 
 This topic is part of our [research on faith and history](/research/faith).
@@ -64,8 +68,10 @@ Through the meticulous examination of material culture, the field of archaeology
 
 Explore these related articles for deeper study:
 
-- [From Ruins to Revelation  What can Biblical Archaeology Teach us](/research/faith/biblical-archaeology-from-ruins-to-revelation)
-- [Inscriptions and Insights  how Does Biblical Archaeology](/research/faith/biblical-archaeology-illuminating-the-word-of-god)
+- [The Infamous Relics: Famous Fakes and Forgeries in Biblical](/research/faith/the-infamous-relics-famous-fakes-and-forgeries-in-biblical-archaeology)
+- [Exploring the Connections Between Biblical Archaeology and](/research/faith/exploring-the-connections-between-biblical-archaeology-and-ancient-music)
+- [Examining Fortress Vault: new Light on Biblical Archaeology](/research/faith/the-fortress-vault-rumor-unraveling-sacred-items-linked-to-the-arks-contents)
+- [Uncovering Ancient Trading Networks Through Biblical Archaeology](/research/faith/uncovering-ancient-trading-networks-through-biblical-archaeology)
 
 ## Frequently Asked Questions
 
@@ -80,4 +86,3 @@ The layers of meaning embedded within the name 'Archaeology' open up a fascinati
 ### Why does does the name archaeology mean? matter for understanding the Bible?
 
 Through systematic excavation and meticulous research, archaeologists explore into the depths of history to reconstruct and interpret the lifestyles, beliefs, and practices of past societies. By examining the archaeological and historical background, readers gain a more grounded perspective on the people, places, and events described in scripture.
-

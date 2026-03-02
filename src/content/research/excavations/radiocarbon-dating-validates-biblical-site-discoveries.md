@@ -11,6 +11,10 @@ imageAlt: "city, aerial view, illuminated, city lights, cityscape, skyline, nigh
 imageCredit: "Image by Pexels on Pixabay"
 imageWidth: 1280
 imageHeight: 720
+siloTier: "support"
+siloCluster: "lost-biblical"
+siloParent: "/research/excavations/jericho-city-gate-the-significance-of-the-renewed-covenant-parchment"
+siloPriority: 68
 ---Unlocking Biblical Mysteries: how Radiocarbon Dating is an area of archaeological investigation that has yielded significant findings about the ancient world.
 
 This topic is part of our [research on archaeological excavations](/research/excavations).
@@ -78,7 +82,10 @@ In summary, the radiocarbon dating of biblical sites such as Lachish bridges the
 
 Explore these related articles for deeper study:
 
-- [Unlocking Mysteries: Biblical Archaeology Research Unveiled](/research/excavations/unlocking-mysteries-biblical-archaeology-research-unveiled)
+- [Exploring Ancient Jericho City Gate: Its Historical](/research/excavations/jericho-city-gate-the-significance-of-the-renewed-covenant-parchment)
+- [Unlocking the City of David: a Journey Through Biblical](/research/excavations/city-of-david-blocked-door-a-journey-into-restoration)
+- [Uncovering Lost Biblical Treasures](/research/excavations/uncovering-lost-biblical-treasures)
+- [Lost Biblical City Found: Ancient Fortress Reveals new Story](/research/excavations/lost-biblical-city-found-ancient-fortress-reveals-new-story)
 
 ## Frequently Asked Questions
 
@@ -97,4 +104,3 @@ Excavations at Lachish have yielded numerous artifacts that offer a glimpse into
 ### Why does unlocking biblical mysteries: how radiocarbon dating matter for understanding the Bible?
 
 Unlocking Biblical Mysteries: how Radiocarbon Dating is an area of archaeological investigation that has yielded significant findings about the ancient world. By examining the archaeological and historical background, readers gain a more grounded perspective on the people, places, and events described in scripture.
-

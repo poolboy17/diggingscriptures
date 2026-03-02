@@ -11,6 +11,10 @@ imageAlt: "baptism, candle, decoration, christianity, religious, cross, symbol, 
 imageCredit: "Image by karoligraphics on Pixabay"
 imageWidth: 1280
 imageHeight: 853
+siloTier: "support"
+siloCluster: "biblical-archaeology"
+siloParent: "/research/faith/the-infamous-relics-famous-fakes-and-forgeries-in-biblical-archaeology"
+siloPriority: 65
 ---Unraveling the Controversy: Biblical Archaeology's Debated is a theological subject that explores the intersection of faith traditions and historical evidence.
 
 This topic is part of our [research on faith and history](/research/faith).
@@ -178,7 +182,10 @@ Addressing the biases and limitations of prior research is an ongoing challenge 
 
 Explore these related articles for deeper study:
 
-- [Exploring Biblical Archaeology: Unraveling Ancient History](/research/faith/date-palm-crevice-a-sanctuary-of-faith)
+- [The Infamous Relics: Famous Fakes and Forgeries in Biblical](/research/faith/the-infamous-relics-famous-fakes-and-forgeries-in-biblical-archaeology)
+- [Exploring the Connections Between Biblical Archaeology and](/research/faith/exploring-the-connections-between-biblical-archaeology-and-ancient-music)
+- [Understanding Biblical Archaeology: Decoding the Past](/research/faith/understanding-biblical-archaeology-decoding-the-past)
+- [Unearthed Secrets: Debunking Myths of Biblical Archaeology](/research/faith/unearthed-secrets-debunking-myths-of-biblical-archaeology)
 
 ## Frequently Asked Questions
 
@@ -195,4 +202,3 @@ One of the most controversial discoveries in Biblical Archaeology is the Tel Dan
 ### Why does unraveling the controversy: biblical archaeology's debated matter for understanding the Bible?
 
 The James Ossuary is a stone bone box discovered in Jerusalem that bears the inscription "James, son of Joseph, brother of Jesus." If authentic, it would provide tangible evidence of the existence of Jesus and his family. By examining the archaeological and historical background, readers gain a more grounded perspective on the people, places, and events described in scripture.
-

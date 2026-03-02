@@ -11,6 +11,10 @@ imageAlt: "petra, ad deir, world heritage, sand stone, antique, historically, na
 imageCredit: "Image by ChiemSeherin on Pixabay"
 imageWidth: 1280
 imageHeight: 853
+siloTier: "support"
+siloCluster: "archaeology-archeology"
+siloParent: "/research/biblical-archaeology"
+siloPriority: 74
 ---Why are There two Different Spellings Archaeology and Archeology? is a topic in biblical archaeology that connects ancient material evidence with scriptual narratives.
 
 This topic is part of our [research on biblical archaeology](/research/biblical-archaeology).
@@ -70,8 +74,10 @@ In the United States, the U.S. National Park Service has mandated the use of 'ar
 
 Explore these related articles for deeper study:
 
-- [Is There a Difference Between Archaeology and Archeology?](/research/biblical-archaeology/is-there-a-difference-between-archaeology-and-archeology)
 - [What is the Difference Between Archaeology and Archeology?](/research/biblical-archaeology/what-is-the-difference-between-archaeology-and-archeology)
+- [Is There a Difference Between Archaeology and Archeology?](/research/biblical-archaeology/is-there-a-difference-between-archaeology-and-archeology)
+- [What is the Study of Archeology Called?](/research/biblical-archaeology/what-is-the-study-of-archeology-called)
+- [Are Archeology Degrees Worth It?](/research/biblical-archaeology/are-archeology-degrees-worth-it)
 
 ## Frequently Asked Questions
 
@@ -86,4 +92,3 @@ The American preference for 'archaeology' over 'archeology' is also evident in i
 ### Why does are there two different spellings archaeology and archeology? matter for understanding the Bible?
 
 - Federal Agency Mandates: Understanding the spelling variation is important for consistent reporting in federal agencies, where 'archeology' is required by some, like the National Park Service. By examining the archaeological and historical background, readers gain a more grounded perspective on the people, places, and events described in scripture.
-

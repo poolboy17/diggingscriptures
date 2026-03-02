@@ -11,6 +11,10 @@ imageAlt: "landscape, tree, stone, wall, travel, ancient, old, architecture, arc
 imageCredit: "Image by Photos_Marta on Pixabay"
 imageWidth: 1280
 imageHeight: 960
+siloTier: "support"
+siloCluster: "biblical-archaeological"
+siloParent: "/research/excavations/5-ways-to-stay-updated-on-the-latest-developments-in-biblical-archaeology"
+siloPriority: 65
 ---Exploring Ancient Bonds: Decoding the Jericho Mound Ledger is an area of archaeological investigation that has yielded significant findings about the ancient world.
 
 This topic is part of our [research on archaeological excavations](/research/excavations).
@@ -164,7 +168,10 @@ By peeling back the layers of history, we can appreciate the legacy of Jericho a
 
 Explore these related articles for deeper study:
 
+- [5 Ways to Stay Updated on the Latest Developments in Biblical](/research/excavations/5-ways-to-stay-updated-on-the-latest-developments-in-biblical-archaeology)
 - [Exploring Ancient Jericho City Gate: Its Historical](/research/excavations/jericho-city-gate-the-significance-of-the-renewed-covenant-parchment)
+- [Decoding Ancient Inscriptions: a Biblical Archaeological](/research/excavations/decoding-ancient-inscriptions-a-biblical-archaeological-perspective)
+- [Understanding the Various Techniques in Biblical Archaeological](/research/excavations/understanding-the-various-techniques-in-biblical-archaeological-excavation)
 
 ## Frequently Asked Questions
 
@@ -179,4 +186,3 @@ Notable excavations, such as those led by Kathleen Kenyon in the mid-20th centur
 ### Why does exploring ancient bonds: decoding the jericho mound ledger matter for understanding the Bible?
 
 Exploring Ancient Bonds: Decoding the Jericho Mound Ledger is an area of archaeological investigation that has yielded significant findings about the ancient world. By examining the archaeological and historical background, readers gain a more grounded perspective on the people, places, and events described in scripture.
-

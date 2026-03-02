@@ -11,6 +11,10 @@ imageAlt: "calligraphy, story, ink, feather, a book, vintage, old, wood, fairy t
 imageCredit: "Image by Ghinzo on Pixabay"
 imageWidth: 1280
 imageHeight: 853
+siloTier: "support"
+siloCluster: "themes-testament"
+siloParent: "/research/scripture/contrasting-themes-in-the-old-testament-and-the-new-testament-4"
+siloPriority: 62
 ---Worship in the old and new Testament refers to a subject within biblical manuscript studies that scholars continue to investigate.
 
 This topic is part of our [research on biblical scripture studies](/research/scripture).
@@ -187,7 +191,10 @@ By exploring the trends and importance of prayers in Old Testament worship, the 
 
 Explore these related articles for deeper study:
 
+- [Contrasting Themes in the old Testament and the new Testament](/research/scripture/contrasting-themes-in-the-old-testament-and-the-new-testament-4)
 - [Contrasting Worship in the old Testament and the new Testament](/research/scripture/contrasting-worship-in-the-old-testament-and-the-new-testament)
+- [Exploring the Worship in the new Testament](/research/scripture/exploring-the-worship-in-the-new-testament)
+- [Comparing the old Testament and the new Testament](/research/scripture/comparing-the-old-testament-and-the-new-testament)
 
 ## Frequently Asked Questions
 
@@ -204,4 +211,3 @@ Messianic prophecies in the Old Testament serve as a foundation for the worship 
 Contrasting Themes in Worship in the Old and New Testament
  
 Worship in the Old and New Testament is characterized by contrasting themes that reflect the different theological and cultural contexts of each era. By examining the archaeological and historical background, readers gain a more grounded perspective on the people, places, and events described in scripture.
-

@@ -11,6 +11,10 @@ imageAlt: "stained glass, window glass, church window, saint austremonius, saint
 imageCredit: "Image by WikiImages on Pixabay"
 imageWidth: 1280
 imageHeight: 1257
+siloTier: "support"
+siloCluster: "biblical-archaeologists"
+siloParent: "/research/faith/exploring-the-depths-the-future-of-underwater-biblical-archaeological-research"
+siloPriority: 65
 ---In Jesus' time, the scriptures that are known today as the Old Testament were commonly referred to as the Hebrew Bible or the Tanakh. These ancient texts held immense significance for the Jewish people and provided them with spiritual guidance, moral teachings, and historical accounts. Through her extensive research and study, Anita Love sheds light on the historical context behind these scriptures, exploring their central themes, literary genres, and the rich tapestry of messianic prophecies they contain. With her expertise in theology and religious studies, Anita presents a captivating analysis of the Old Testament and its profound connection to the life and teachings of Jesus Christ.
 
 This topic is part of our [research on faith and history](/research/faith).
@@ -175,7 +179,10 @@ Jesus' teachings, as recorded in the New Testament, provide insight into the nat
 
 Explore these related articles for deeper study:
 
-- [Understanding the old Testament in Jesus's Time](/research/scripture/understanding-the-old-testament-in-jesuss-time)
+- [Exploring the Depths: the Future of Underwater Biblical](/research/faith/exploring-the-depths-the-future-of-underwater-biblical-archaeological-research)
+- [Exploring the Interconnections: Religion and Biblical](/research/faith/exploring-the-interconnections-religion-and-biblical-archaeological-research)
+- [Understanding the Methods of Biblical Archaeologists](/research/faith/understanding-the-methods-of-biblical-archaeologists)
+- [Comparing old and new Testaments: Central Themes](/research/faith/comparing-old-and-new-testaments-central-themes)
 
 ## Frequently Asked Questions
 
@@ -194,4 +201,3 @@ Jesus often provided a deeper interpretation and understanding of the laws found
 ### Why does were the scriptures called in jesus time? matter for understanding the Bible?
 
 The Gospels serve as the foundation for understanding the person and work of Jesus Christ and are crucial for Christian faith and practice. By examining the archaeological and historical background, readers gain a more grounded perspective on the people, places, and events described in scripture.
-

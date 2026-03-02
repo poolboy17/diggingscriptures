@@ -11,6 +11,10 @@ imageAlt: "books, students, library, university, knowledge, literature, brown bo
 imageCredit: "Image by Pexels on Pixabay"
 imageWidth: 1280
 imageHeight: 486
+siloTier: "support"
+siloCluster: "testament-books"
+siloParent: "/research/scripture/exploring-the-old-testament-through-a-cultural-lens"
+siloPriority: 38
 ---Old Testament Books Written in Aramaic refers to a subject within biblical manuscript studies that scholars continue to investigate.
 
 This topic is part of our [research on biblical scripture studies](/research/scripture).
@@ -133,7 +137,10 @@ Additionally, the study of Aramaic contributes to the broader field of biblical 
 
 Explore these related articles for deeper study:
 
+- [Exploring the old Testament Through a Cultural Lens](/research/scripture/exploring-the-old-testament-through-a-cultural-lens)
+- [Were the new Testament Books Written in Hebrew?](/research/scripture/were-the-new-testament-books-written-in-hebrew)
 - [Are all new Testament Books Written in Greek?](/research/scripture/are-all-new-testament-books-written-in-greek)
+- [When was the new Testament Actually Written?](/research/scripture/when-was-the-new-testament-actually-written)
 
 ## Frequently Asked Questions
 
@@ -150,4 +157,3 @@ The book of Daniel is known for its captivating narrative and profound prophetic
 ### Why does old testament books written in aramaic matter for understanding the Bible?
 
 Old Testament Books Written in Aramaic refers to a subject within biblical manuscript studies that scholars continue to investigate. By examining the archaeological and historical background, readers gain a more grounded perspective on the people, places, and events described in scripture.
-

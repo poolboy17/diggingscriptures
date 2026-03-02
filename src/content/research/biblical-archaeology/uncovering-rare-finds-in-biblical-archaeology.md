@@ -11,6 +11,10 @@ imageAlt: "jordan, petra, camels, dromedary, nature, desert, tourism"
 imageCredit: "Image by mikaelthunberg on Pixabay"
 imageWidth: 1280
 imageHeight: 854
+siloTier: "support"
+siloCluster: "archaeology-excavation"
+siloParent: "/research/biblical-archaeology/preparing-for-fieldwork-strategies-and-techniques-in-biblical-archaeology"
+siloPriority: 26
 ---Piecing Together the Past  Rare Finds in Biblical Archaeology is a topic in biblical archaeology that connects ancient material evidence with scriptual narratives.
 
 This topic is part of our [research on biblical archaeology](/research/biblical-archaeology).
@@ -82,8 +86,10 @@ Considering all points, it is evident that the field of Biblical archaeology con
 
 Explore these related articles for deeper study:
 
+- [Preparing for Fieldwork: Strategies and Techniques in Biblical](/research/biblical-archaeology/preparing-for-fieldwork-strategies-and-techniques-in-biblical-archaeology)
 - [Exciting Biblical Archaeology Excavation Finds Unearthed](/research/biblical-archaeology/exciting-biblical-archaeology-excavation-finds-unearthed)
-- [Uncovering the Past: the Intersection of Biblical Archaeology](/research/biblical-archaeology/uncovering-the-past-the-intersection-of-biblical-archaeology-and-geography)
+- [Steps for Conducting a Proper Excavation in Biblical Archaeology](/research/biblical-archaeology/steps-for-conducting-a-proper-excavation-in-biblical-archaeology)
+- [Interpreting Biblical Archaeology Discoveries for Insight](/research/biblical-archaeology/interpreting-biblical-archaeology-discoveries-for-insight)
 
 ## Frequently Asked Questions
 
@@ -102,4 +108,3 @@ Piecing Together the Past  Rare Finds in Biblical Archaeology is a topic in bibl
 ### Why does piecing together the past  rare finds in biblical archaeology matter for understanding the Bible?
 
 An important finding from the United Monarchy period is the Tel Dan Stele, a stone slab inscribed with Aramaic text mentioning the "House of David," providing tangible evidence of King David's dynasty. By examining the archaeological and historical background, readers gain a more grounded perspective on the people, places, and events described in scripture.
-

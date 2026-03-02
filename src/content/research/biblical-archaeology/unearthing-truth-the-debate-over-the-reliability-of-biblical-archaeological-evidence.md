@@ -11,6 +11,10 @@ imageAlt: "archaeology, city, petra, jordan, historical site, landscape, petra, 
 imageCredit: "Image by StockSnap on Pixabay"
 imageWidth: 1280
 imageHeight: 854
+siloTier: "support"
+siloCluster: "biblical-archaeological"
+siloParent: "/research/biblical-archaeology/the-unearthing-of-ancient-temples-a-biblical-archaeological-expedition"
+siloPriority: 56
 ---Unearthing Truth: the Debate Over the Reliability of Biblical is a topic in biblical archaeology that connects ancient material evidence with scriptual narratives.
 
 This topic is part of our [research on biblical archaeology](/research/biblical-archaeology).
@@ -170,7 +174,10 @@ Balancing faith and scientific inquiry is paramount in the pursuit of understand
 
 Explore these related articles for deeper study:
 
-- [Unearthing the Truth: the Debate Over Authenticity in Biblical](/research/excavations/unearthing-the-truth-the-debate-over-authenticity-in-biblical-archaeology)
+- [The Unearthing of Ancient Temples: a Biblical Archaeological](/research/biblical-archaeology/the-unearthing-of-ancient-temples-a-biblical-archaeological-expedition)
+- [Unearthing the Engineering Marvels of Biblical Times](/research/biblical-archaeology/unearthing-the-engineering-marvels-of-biblical-times)
+- [Unearthing the Legacies: Prominent Women in Biblical Archaeology](/research/biblical-archaeology/unearthing-the-legacies-prominent-women-in-biblical-archaeology)
+- [Unearthing the Most Important Biblical Digs](/research/biblical-archaeology/unearthing-the-most-important-biblical-digs)
 
 ## Frequently Asked Questions
 
@@ -193,4 +200,3 @@ One of the most controversial aspects of Biblical Archaeology is the debate over
 ### Why does unearthing truth: the debate over the reliability of biblical matter for understanding the Bible?
 
 Excavations at the ancient city of Megiddo revealed a seal impression bearing the name "Shema, servant of Jeroboam," providing evidence for the existence of King Jeroboam II, as mentioned in the Bible. By examining the archaeological and historical background, readers gain a more grounded perspective on the people, places, and events described in scripture.
-

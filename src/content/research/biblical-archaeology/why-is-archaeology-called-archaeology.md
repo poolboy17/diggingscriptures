@@ -11,6 +11,10 @@ imageAlt: "archaeology, city, petra, jordan, historical site, landscape, petra, 
 imageCredit: "Image by StockSnap on Pixabay"
 imageWidth: 1280
 imageHeight: 854
+siloTier: "support"
+siloCluster: "biblical-archaeology"
+siloParent: "/research/biblical-archaeology/unearthing-ancient-environmental-adaptations-through-biblical-archaeology"
+siloPriority: 10
 ---Why is Archaeology Called Archaeology? is a topic in biblical archaeology that connects ancient material evidence with scriptual narratives.
 
 This topic is part of our [research on biblical archaeology](/research/biblical-archaeology).
@@ -70,8 +74,10 @@ The term 'archaeology' encapsulates the core of the field's mission: to uncover,
 
 Explore these related articles for deeper study:
 
-- [Discovering Angels in Biblical Archaeology: The En Gedi](/research/biblical-archaeology/angels-in-the-desert-the-en-gedi-stone-arch-and-its-significance)
-- [Biblical Archaeology Article Discovery Revealed](/research/biblical-archaeology/biblical-archaeology-article-discovery-revealed)
+- [Unearthing Ancient Environmental Adaptations Through Biblical](/research/biblical-archaeology/unearthing-ancient-environmental-adaptations-through-biblical-archaeology)
+- [How to Write Engaging and Trustworthy Biblical Archaeology](/research/biblical-archaeology/crafting-trustworthy-articles-on-biblical-archaeology)
+- [Discover Exciting Opportunities to Support Biblical Archaeology](/research/biblical-archaeology/discover-exciting-opportunities-to-support-biblical-archaeology)
+- [Exploring the Intersection of Biblical Archaeology and](/research/biblical-archaeology/exploring-the-intersection-of-biblical-archaeology-and-anthropology)
 
 ## Frequently Asked Questions
 
@@ -86,4 +92,3 @@ This definition specifically refers to the study of human history through materi
 ### Why does is archaeology called archaeology? matter for understanding the Bible?
 
 This definition specifically refers to the study of human history through material remains found at archaeological sites. By examining the archaeological and historical background, readers gain a more grounded perspective on the people, places, and events described in scripture.
-

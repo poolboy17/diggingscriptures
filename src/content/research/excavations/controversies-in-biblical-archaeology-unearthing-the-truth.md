@@ -11,6 +11,10 @@ imageAlt: "mountain, erosion, death valley, desert, dry, drought, rock formation
 imageCredit: "Image by jplenio on Pixabay"
 imageWidth: 1280
 imageHeight: 720
+siloTier: "support"
+siloCluster: "truth-biblical"
+siloParent: "/research/excavations/unearthing-the-truth-current-controversies-in-biblical-archaeology"
+siloPriority: 71
 ---Controversies in Biblical Archaeology: Unearthing the Truth is an area of archaeological investigation that has yielded significant findings about the ancient world.
 
 This topic is part of our [research on archaeological excavations](/research/excavations).
@@ -215,6 +219,9 @@ The Dead Sea Scrolls have deepened our understanding of Jewish religious and soc
 Explore these related articles for deeper study:
 
 - [Unearthing the Truth: Current Controversies in Biblical](/research/excavations/unearthing-the-truth-current-controversies-in-biblical-archaeology)
+- [Unearthing the Truth: how Biblical Archaeology Shaped Religious](/research/excavations/unearthing-the-truth-how-biblical-archaeology-shaped-religious-beliefs)
+- [Unearthing the Truth: how Biblical Archaeology Unveils Ancient](/research/excavations/unearthing-the-truth-how-biblical-archaeology-unveils-ancient-laws-and-legal-systems)
+- [Unearthing the Truth: the Debate Over Authenticity in Biblical](/research/excavations/unearthing-the-truth-the-debate-over-authenticity-in-biblical-archaeology)
 
 ## Frequently Asked Questions
 
@@ -231,4 +238,3 @@ Discovered in northern Israel in 1993, the Tel Dan Inscription is an Aramaic ste
 ### Why does controversies in biblical archaeology: unearthing the truth matter for understanding the Bible?
 
 The discoveries made in this field not only shed light on the ancient Israelites but also enrich our knowledge of the ancient Near East, including neighboring civilizations such as the Egyptians, Assyrians, and Babylonians. By examining the archaeological and historical background, readers gain a more grounded perspective on the people, places, and events described in scripture.
-

@@ -11,6 +11,10 @@ imageAlt: "mosaic, floor, tile, famous, antique, roman, italy, rome, museum"
 imageCredit: "Image by RGY23 on Pixabay"
 imageWidth: 1280
 imageHeight: 853
+siloTier: "support"
+siloCluster: "first-temple"
+siloParent: "/research/faith/the-intertestamental-period-exploring-the-time-between-the-old-and-new-testaments"
+siloPriority: 65
 ---Temple Storage Discoveries in Biblical Archaeology is a theological subject that explores the intersection of faith traditions and historical evidence.
 
 This topic is part of our [research on faith and history](/research/faith).
@@ -81,7 +85,10 @@ In the spirit of exploration and respect for ancient wisdom, it is incumbent upo
 
 Explore these related articles for deeper study:
 
-- [Exciting Discoveries Await Biblical Archaeology Excavation Teams](/research/faith/exciting-discoveries-await-biblical-archaeology-excavation-teams)
+- [The Intertestamental Period: Exploring the Time Between the old](/research/faith/the-intertestamental-period-exploring-the-time-between-the-old-and-new-testaments)
+- [First Temple Market Unearthed: a new Biblical Insight](/research/faith/first-temple-market-unearthed-a-new-biblical-insight)
+- [First Temple Storage Complex Unveils Ancient Organization](/research/faith/first-temple-storage-complex-unveils-ancient-organization)
+- [Biblical Period oil Production Unearthed](/research/faith/biblical-period-oil-production-unearthed)
 
 ## Frequently Asked Questions
 
@@ -100,4 +107,3 @@ Biblical storerooms are mentioned multiple times within sacred texts, often depi
 ### Why does temple storage discoveries in biblical archaeology matter for understanding the Bible?
 
 For instance, at the ancient site of Tel Lachish, storerooms dating back to the Iron Age have been discovered, revealing how ancient communities organized their ritualistic and everyday lives. By examining the archaeological and historical background, readers gain a more grounded perspective on the people, places, and events described in scripture.
-

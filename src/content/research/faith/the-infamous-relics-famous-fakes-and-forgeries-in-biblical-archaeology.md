@@ -11,6 +11,10 @@ imageAlt: "candles, church, burning, religion, light, flame, fire, celebration, 
 imageCredit: "Image by Republica on Pixabay"
 imageWidth: 1280
 imageHeight: 920
+siloTier: "pillar"
+siloCluster: "biblical-archaeology"
+siloParent: "/research/faith"
+siloPriority: 97
 ---The Infamous Relics: Famous Fakes and Forgeries in Biblical is a theological subject that explores the intersection of faith traditions and historical evidence.
 
 This topic is part of our [research on faith and history](/research/faith).
@@ -293,6 +297,9 @@ Overall, the Dead Sea Scrolls represent an extraordinary archaeological find tha
 Explore these related articles for deeper study:
 
 - [Uncovering Rare Relics  how Biblical Archaeology Shapes our](/research/faith/biblical-archaeology-uncovering-rare-relics-understanding-past)
+- [Exploring the Connections Between Biblical Archaeology and](/research/faith/exploring-the-connections-between-biblical-archaeology-and-ancient-music)
+- [How Does Biblical Archaeology Relate to the Interpretation of](/research/faith/how-does-biblical-archaeology-relate-to-the-interpretation-of-biblical-texts)
+- [Unearthed Ancient Scrolls: new Biblical Insights from Shepherd's](/research/faith/shepherds-cave-discovery-unearthing-the-secrets-of-ancient-scrolls)
 
 ## Frequently Asked Questions
 
@@ -315,4 +322,3 @@ The Dead Sea Scrolls
 Discovery and Significance
 
 The Dead Sea Scrolls, discovered between 1947 and 1956 in the Qumran caves near the Dead Sea, revolutionized the study of ancient Judaism and biblical texts. By examining the archaeological and historical background, readers gain a more grounded perspective on the people, places, and events described in scripture.
-

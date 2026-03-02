@@ -11,6 +11,10 @@ imageAlt: "scroll, feather, ink, caligraphy, hebrew, writing, characters, paper,
 imageCredit: "Image by zofiaEliyahu on Pixabay"
 imageWidth: 1280
 imageHeight: 859
+siloTier: "support"
+siloCluster: "testament-books"
+siloParent: "/research/scripture/exploring-the-old-testament-through-a-cultural-lens"
+siloPriority: 29
 ---Anita Love, a renowned authority in the field of Christianity's historical foundations and its contemporary relevance, has dedicated her expertise to answering one intriguing question: was the original New Testament written in Greek or Hebrew? With an impressive background in Theology and Religious Studies, Anita has extensively researched ancient biblical manuscripts and delved into the authenticity of religious teachings. Her body of work, consisting of published books and scholarly articles, offers a nuanced perspective that honors the diversity of Christian denominations while shedding light on the scriptural events that have shaped our understanding of faith. Join Anita on this fascinating investigation as she navigates through the historical accuracy and cultural contexts surrounding the writing of the New Testament, ultimately revealing the linguistic origins that underpin this profound religious text.
 
 This topic is part of our [research on biblical scripture studies](/research/scripture).
@@ -99,8 +103,10 @@ Ultimately, it is crucial to recognize the complexity of determining the 'origin
 
 Explore these related articles for deeper study:
 
-- [Is the old Testament Written in Greek or Hebrew?](/research/scripture/is-the-old-testament-written-in-greek-or-hebrew)
+- [Exploring the old Testament Through a Cultural Lens](/research/scripture/exploring-the-old-testament-through-a-cultural-lens)
 - [Why is the new Testament Written in Greek and not Hebrew?](/research/scripture/why-is-the-new-testament-written-in-greek-and-not-hebrew)
+- [Is the old Testament Written in Greek or Hebrew?](/research/scripture/is-the-old-testament-written-in-greek-or-hebrew)
+- [The Significance of Greek and Hebrew in the new Testament](/research/scripture/the-significance-of-greek-and-hebrew-in-the-new-testament)
 
 ## Frequently Asked Questions
 
@@ -115,4 +121,3 @@ In addition, linguistic elements found in the New Testament texts bear resemblan
 ### Why does was the original new testament written in greek or hebrew? matter for understanding the Bible?
 
 Quotations from the Septuagint are found throughout the New Testament, indicating the influence of this Greek translation on early Christian writings. By examining the archaeological and historical background, readers gain a more grounded perspective on the people, places, and events described in scripture.
-

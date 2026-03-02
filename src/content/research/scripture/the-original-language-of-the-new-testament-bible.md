@@ -11,6 +11,10 @@ imageAlt: "qumran national park, qumran, archeology, dead sea scrolls, cave numb
 imageCredit: "Image by samirsmier on Pixabay"
 imageWidth: 1280
 imageHeight: 720
+siloTier: "support"
+siloCluster: "language-testament"
+siloParent: "/research/scripture/exploring-the-language-of-the-old-testament"
+siloPriority: 50
 ---Did you ever wonder what language the original New Testament Bible was written in? Well, the answer may surprise you. The New Testament, that sacred collection of texts that encapsulates the life and teachings of Jesus Christ, was actually written in Greek. Yes, Greek! This captivating fact shines a spotlight on the rich linguistic history of Christianity and the interconnectedness of cultures in the ancient world. With her extensive knowledge and expertise, Anita Love, a renowned scholar who has dedicated her life to the study of theology and religious texts, sheds light on this fascinating topic. So, let's join Anita on this journey of discovery as we examine into the original language of the New Testament Bible.
 
 This topic is part of our [research on biblical scripture studies](/research/scripture).
@@ -126,7 +130,9 @@ The use of Greek in the New Testament played a significant role in shaping Chris
 
 Explore these related articles for deeper study:
 
-- [The Language of the old Testament: Exploring its Original Writing](/research/scripture/the-language-of-the-old-testament-exploring-its-original-writing)
+- [Exploring the Language of the old Testament](/research/scripture/exploring-the-language-of-the-old-testament)
+- [The Original Language of the new Testament](/research/scripture/the-original-language-of-the-new-testament)
+- [Understanding the Original Language of the new Testament](/research/scripture/understanding-the-original-language-of-the-new-testament)
 - [The Language of the Original old Testament: Exploring Ancient](/research/scripture/the-language-of-the-original-old-testament-exploring-ancient-biblical-manuscripts)
 
 ## Frequently Asked Questions
@@ -144,4 +150,3 @@ Did you ever wonder what language the original New Testament Bible was written i
 ### Why does original language of the new testament bible matter for understanding the Bible?
 
 The New Testament, that sacred collection of texts that encapsulates the life and teachings of Jesus Christ, was actually written in Greek. By examining the archaeological and historical background, readers gain a more grounded perspective on the people, places, and events described in scripture.
-

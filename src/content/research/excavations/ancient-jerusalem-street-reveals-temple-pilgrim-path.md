@@ -11,6 +11,10 @@ imageAlt: "western wall, jerusalem, jews, pray, orthodox, holy, religious, weste
 imageCredit: "Image by rliessum on Pixabay"
 imageWidth: 1280
 imageHeight: 960
+siloTier: "support"
+siloCluster: "temple-mount"
+siloParent: "/research/excavations/unveiling-the-hidden-secrets-the-latest-developments-in-biblical-archaeology-research"
+siloPriority: 74
 ---Unraveling Ancient Jerusalem: a Deep Dive into the Temple is an area of archaeological investigation that has yielded significant findings about the ancient world.
 
 This topic is part of our [research on archaeological excavations](/research/excavations).
@@ -89,7 +93,10 @@ For those who find history engaging and transformative, ancient Jerusalem contin
 
 Explore these related articles for deeper study:
 
-- [Unlocking Ancient Jerusalem: a Deep Dive into Biblical Defense](/research/excavations/mapping-the-ancient-jerusalem-defense-system)
+- [Unveiling the Hidden Secrets: the Latest Developments in](/research/excavations/unveiling-the-hidden-secrets-the-latest-developments-in-biblical-archaeology-research)
+- [Jerusalem Temple Foundations Finally Discovered](/research/excavations/jerusalem-temple-foundations-finally-discovered)
+- [Jerusalem Temple Construction Methods Finally Revealed](/research/excavations/jerusalem-temple-construction-methods-finally-revealed)
+- [Temple Mount Construction Secrets Unveiled](/research/excavations/temple-mount-construction-secrets-unveiled)
 
 ## Frequently Asked Questions
 
@@ -108,4 +115,3 @@ Recent excavations have revealed a well-preserved street with clear evidence of 
 ### Why does unraveling ancient jerusalem: a deep dive into the temple matter for understanding the Bible?
 
 By examining the deposition of materials and contexts of discovery, experts have been able to date the street back to the late Second Temple period, around 31 AD. By examining the archaeological and historical background, readers gain a more grounded perspective on the people, places, and events described in scripture.
-

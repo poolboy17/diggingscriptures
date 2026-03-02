@@ -11,6 +11,10 @@ imageAlt: "aged, ancient, antique, ceramic, clay, container, containers, crock, 
 imageCredit: "Image by PublicDomainPictures on Pixabay"
 imageWidth: 1280
 imageHeight: 853
+siloTier: "support"
+siloCluster: "ark-covenant"
+siloParent: "/research/artifacts/exploring-the-ethical-implications-of-displaying-biblical-archaeological-artifacts"
+siloPriority: 32
 ---How The Documentary Hypothesis Shapes Origins refers to ancient material remains that provide physical evidence for understanding biblical history.
 
 This topic is part of our [research on ancient artifacts](/research/artifacts).
@@ -111,8 +115,10 @@ Moreover, understanding these origins has ramifications beyond personal faith, i
 
 Explore these related articles for deeper study:
 
-- [How Archaeology Confirms Biblical Origins](/research/artifacts/how-archaeology-confirms-biblical-origins)
-- [The Language of the new Testament: Exploring its Origins](/research/scripture/the-language-of-the-new-testament-exploring-its-origins)
+- [Exploring the Ethical Implications of Displaying Biblical](/research/artifacts/exploring-the-ethical-implications-of-displaying-biblical-archaeological-artifacts)
+- [Exploring the Moral Dilemmas Surrounding Collecting and](/research/artifacts/exploring-the-moral-dilemmas-surrounding-collecting-and-interpreting-biblical-artifacts)
+- [Hebrew, Aramaic, Greek: Biblical Languages Explained](/research/artifacts/hebrew-aramaic-greek-biblical-languages-explained)
+- [Journey Through Time: Examining the Jordan Baptism Site jar And](/research/artifacts/jordan-baptism-site-jar-unveiling-repentance-themes-in-desert-waters)
 
 ## Frequently Asked Questions
 
@@ -131,4 +137,3 @@ The Documentary Hypothesis proposes an answer, suggesting that the Pentateuch (t
 Historical Context and Theological Developments
  
 To grasp the importance of the Documentary Hypothesis, you need to appreciate the historical context in which these texts were written. By examining the archaeological and historical background, readers gain a more grounded perspective on the people, places, and events described in scripture.
-

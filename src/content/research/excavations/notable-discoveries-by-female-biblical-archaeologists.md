@@ -11,6 +11,10 @@ imageAlt: "jerusalem, dome of the rock, islam, israel, mosque, temple mount, hol
 imageCredit: "Image by jdblack on Pixabay"
 imageWidth: 1280
 imageHeight: 822
+siloTier: "support"
+siloCluster: "biblical-archaeologists"
+siloParent: "/research/excavations/unlocking-the-past-the-role-of-biblical-archaeologists-in-engaging-the-public"
+siloPriority: 29
 ---Notable Discoveries by Female Biblical Archaeologists is an area of archaeological investigation that has yielded significant findings about the ancient world.
 
 This topic is part of our [research on archaeological excavations](/research/excavations).
@@ -84,7 +88,10 @@ Anna Papastrati, a Greek archaeologist, conducted
 
 Explore these related articles for deeper study:
 
-- [Famous Biblical Archaeologists and Their Discoveries](/research/biblical-archaeology/famous-biblical-archaeologists-and-their-discoveries)
+- [Unlocking the Past: the Role of Biblical Archaeologists in](/research/excavations/unlocking-the-past-the-role-of-biblical-archaeologists-in-engaging-the-public)
+- [Discovering the Pioneers: Prominent Biblical Archaeologists](/research/excavations/discovering-the-pioneers-prominent-biblical-archaeologists)
+- [The Role of Biblical Archaeologists in the Preservation of](/research/excavations/the-role-of-biblical-archaeologists-in-the-preservation-of-cultural-heritage)
+- [Top Excavation Sites for Biblical Archaeologists](/research/excavations/top-excavation-sites-for-biblical-archaeologists)
 
 ## Frequently Asked Questions
 
@@ -103,4 +110,3 @@ Biblical archaeology has seen significant contributions from female archaeologis
 1.1 Kathleen Kenyon's Excavations at Jericho
 
 Kathleen Kenyon, a prominent British archaeologist, made significant contributions to the field of biblical archaeology through her meticulous excavations at Jericho. By examining the archaeological and historical background, readers gain a more grounded perspective on the people, places, and events described in scripture.
-

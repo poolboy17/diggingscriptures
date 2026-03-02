@@ -11,6 +11,10 @@ imageAlt: "workers, construction, excavation, dig, building, construction worker
 imageCredit: "Image by planet_fox on Pixabay"
 imageWidth: 1280
 imageHeight: 853
+siloTier: "support"
+siloCluster: "ancient-biblical"
+siloParent: "/research/excavations/unearthing-the-past-lessons-from-biblical-archaeology"
+siloPriority: 56
 ---Explore Ancient Biblical Temples: Unraveling the Secrets of is an area of archaeological investigation that has yielded significant findings about the ancient world.
 
 This topic is part of our [research on archaeological excavations](/research/excavations).
@@ -123,7 +127,10 @@ Looking at the grand structures of yesterday and the scrolls that tell their sto
 
 Explore these related articles for deeper study:
 
-- [Unearth Secrets of Ancient Temples: a Journey into Biblical](/research/biblical-archaeology/biblical-archaeology-discovering-ancient-temple-sites)
+- [Unearthing the Past: Lessons from Biblical Archaeology](/research/excavations/unearthing-the-past-lessons-from-biblical-archaeology)
+- [Exploring Ancient Biblical Sites: a Journey Through History](/research/excavations/exploring-ancient-biblical-sites-a-journey-through-history)
+- [Explore Ancient Galilee Synagogue: Unveiling Watchmen's Sacred](/research/excavations/galilee-synagogue-floor-exploring-the-watchmens-duties-and-sacred-texts)
+- [Qumran Wadi Silt: a Window into Ancient Biblical Life and Lessons](/research/excavations/qumran-wadi-silt-and-the-book-of-jobs-righteous-resolve)
 
 ## Frequently Asked Questions
 
@@ -142,4 +149,3 @@ Theres an undeniable allure in the notion of discovering an ancient artifact. Ph
 Current Archaeological Projects
  
 Projects such as the City of David excavations in Jerusalem unearth layers of history that can redefine our understanding of biblical texts and historical narratives. By examining the archaeological and historical background, readers gain a more grounded perspective on the people, places, and events described in scripture.
-

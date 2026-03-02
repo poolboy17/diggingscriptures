@@ -11,6 +11,10 @@ imageAlt: "jerusalem, israel, old town, walls, the rock temple, dome of the rock
 imageCredit: "Image by Walkerssk on Pixabay"
 imageWidth: 1280
 imageHeight: 493
+siloTier: "support"
+siloCluster: "biblical-archaeology"
+siloParent: "/research/biblical-archaeology/unearthing-ancient-environmental-adaptations-through-biblical-archaeology"
+siloPriority: 14
 ---Discovering Ancient Desert Farming: How Sabbatical Laws is a topic in biblical archaeology that connects ancient material evidence with scriptual narratives.
 
 This topic is part of our [research on biblical archaeology](/research/biblical-archaeology).
@@ -175,8 +179,10 @@ So next time you walk through a farming community, picture the rhythm of the lan
 
 Explore these related articles for deeper study:
 
+- [Unearthing Ancient Environmental Adaptations Through Biblical](/research/biblical-archaeology/unearthing-ancient-environmental-adaptations-through-biblical-archaeology)
+- [Discovering Ancient Echoes: A Deep Dive into Biblical Archaeology](/research/biblical-archaeology/the-haunted-echoes-of-the-abandoned-stable-letters-from-the-past)
 - [Discovering Ancient Israel: a Deep Dive into Biblical](/research/biblical-archaeology/biblical-archaeology-and-the-dead-sea-scrolls-in-israel)
-- [Discovering the Ancient Jewish Bath House](/research/biblical-archaeology/discovering-the-ancient-jewish-bath-house)
+- [Archaeoastronomy: Uncovering Ancient Cultures Through the Stars](/research/biblical-archaeology/archaeoastronomy-uncovering-ancient-cultures-through-the-stars)
 
 ## Frequently Asked Questions
 
@@ -193,4 +199,3 @@ Referencing the Bible, the laws not only govern agricultural practices but also 
 ### Why does discovering ancient desert farming: how sabbatical laws matter for understanding the Bible?
 
 They have their roots deep in the Old Testament, where they were intended not just for spiritual reasonsbut also as a means to protect the land and promote community well-being. By examining the archaeological and historical background, readers gain a more grounded perspective on the people, places, and events described in scripture.
-

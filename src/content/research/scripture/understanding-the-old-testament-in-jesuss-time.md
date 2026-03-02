@@ -11,6 +11,10 @@ imageAlt: "desktop, laptop, crafts, still life, mockup, table, decoration, desig
 imageCredit: "Image by rawpixel on Pixabay"
 imageWidth: 1280
 imageHeight: 916
+siloTier: "support"
+siloCluster: "testament-themes"
+siloParent: "/research/scripture/comparing-old-testament-and-new-testament-themes"
+siloPriority: 74
 ---Understanding the old Testament in Jesus's Time refers to a subject within biblical manuscript studies that scholars continue to investigate.
 
 This topic is part of our [research on biblical scripture studies](/research/scripture).
@@ -300,7 +304,10 @@ In summary, understanding the Old Testament in Jesus' time not only provides his
 
 Explore these related articles for deeper study:
 
+- [Comparing old Testament and new Testament Themes](/research/scripture/comparing-old-testament-and-new-testament-themes)
 - [Understanding Jesus in the old Testament](/research/scripture/understanding-jesus-in-the-old-testament)
+- [Understanding the Purpose of the old Testament](/research/scripture/understanding-the-purpose-of-the-old-testament)
+- [The Significance of the old Testament in Understanding the new](/research/scripture/the-significance-of-the-old-testament-in-understanding-the-new-testament)
 
 ## Frequently Asked Questions
 
@@ -315,4 +322,3 @@ Overall, the Old Testament served as the foundation of Jewish faith, providing t
 ### Why does understanding the old testament in jesus's time matter for understanding the Bible?
 
 The nature of God in the Old Testament sets the foundation for understanding His continued involvement in human affairs and His ultimate plan for redemption, which culminates in the life and teachings of Jesus Christ in the New Testament. By examining the archaeological and historical background, readers gain a more grounded perspective on the people, places, and events described in scripture.
-

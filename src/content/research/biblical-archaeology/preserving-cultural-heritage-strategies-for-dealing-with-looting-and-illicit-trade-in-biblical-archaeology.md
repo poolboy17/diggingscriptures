@@ -11,6 +11,10 @@ imageAlt: "contrast, abstract, nature, minimalism, windows, stone wall, desert, 
 imageCredit: "Image by Pix-Off on Pixabay"
 imageWidth: 1280
 imageHeight: 853
+siloTier: "support"
+siloCluster: "biblical-archaeological"
+siloParent: "/research/biblical-archaeology/the-unearthing-of-ancient-temples-a-biblical-archaeological-expedition"
+siloPriority: 10
 ---Preserving Cultural Heritage: Strategies for Dealing with is a topic in biblical archaeology that connects ancient material evidence with scriptual narratives.
 
 This topic is part of our [research on biblical archaeology](/research/biblical-archaeology).
@@ -93,8 +97,10 @@ ar
 
 Explore these related articles for deeper study:
 
-- [Preserving Endangered Cultural Sites: the Role of Biblical](/research/excavations/preserving-endangered-cultural-sites-the-role-of-biblical-archaeologists)
-- [The Impact of Biblical Archaeologists on Cultural Heritage](/research/faith/the-impact-of-biblical-archaeologists-on-cultural-heritage-preservation)
+- [The Unearthing of Ancient Temples: a Biblical Archaeological](/research/biblical-archaeology/the-unearthing-of-ancient-temples-a-biblical-archaeological-expedition)
+- [Preserving Biblical Archaeological Sites: Best Practices Revealed](/research/biblical-archaeology/preserving-biblical-archaeological-sites-best-practices-revealed)
+- [How Do Desert Fortresses Echo Resilience in Biblical Archaeology?](/research/biblical-archaeology/desert-fortress-the-laments-of-national-defeat-in-archaeological-context)
+- [Embracing the Future: new Technologies in Biblical Archaeology](/research/biblical-archaeology/embracing-the-future-new-technologies-in-biblical-archaeology)
 
 ## Frequently Asked Questions
 
@@ -115,4 +121,3 @@ Legislation and International Conventions
 National legislation
 
 One of the first steps in addressing the problem of looting and illicit trade in biblical archaeology is the enactment of comprehensive national legislation. By examining the archaeological and historical background, readers gain a more grounded perspective on the people, places, and events described in scripture.
-

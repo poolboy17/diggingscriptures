@@ -11,6 +11,10 @@ imageAlt: "western wall, jerusalem, jews, pray, orthodox, holy, religious, weste
 imageCredit: "Image by rliessum on Pixabay"
 imageWidth: 1280
 imageHeight: 960
+siloTier: "support"
+siloCluster: "biblical-archaeologists"
+siloParent: "/research/excavations/unlocking-the-past-the-role-of-biblical-archaeologists-in-engaging-the-public"
+siloPriority: 71
 ---Exploring the Significance: Biblical Archaeologists in Heritage is an area of archaeological investigation that has yielded significant findings about the ancient world.
 
 This topic is part of our [research on archaeological excavations](/research/excavations).
@@ -160,7 +164,10 @@ Biblical archaeologists play a vital role in heritage preservation by exploring 
 
 Explore these related articles for deeper study:
 
+- [Unlocking the Past: the Role of Biblical Archaeologists in](/research/excavations/unlocking-the-past-the-role-of-biblical-archaeologists-in-engaging-the-public)
 - [Exploring the Significance of Biblical Archaeologists in](/research/excavations/exploring-the-significance-of-biblical-archaeologists-in-unearthing-history)
+- [Exploring the Relationship Between Biblical Archaeologists and](/research/excavations/exploring-the-relationship-between-biblical-archaeologists-and-conservation-efforts)
+- [10 Famous Biblical Archaeologists you Should Know](/research/excavations/10-famous-biblical-archaeologists-you-should-know)
 
 ## Frequently Asked Questions
 
@@ -183,4 +190,3 @@ The discovery of the Dead Sea Scrolls in the mid-20th century was a groundbreaki
 ### Why does exploring the significance: biblical archaeologists in heritage matter for understanding the Bible?
 
 Exploring the Significance: Biblical Archaeologists in Heritage is an area of archaeological investigation that has yielded significant findings about the ancient world. By examining the archaeological and historical background, readers gain a more grounded perspective on the people, places, and events described in scripture.
-

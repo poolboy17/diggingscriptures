@@ -11,6 +11,10 @@ imageAlt: "old letters, letters, handwritten, calligraphy, font, old, ink, style
 imageCredit: "Image by jarmoluk on Pixabay"
 imageWidth: 1280
 imageHeight: 853
+siloTier: "support"
+siloCluster: "testament-written"
+siloParent: "/research/scripture/what-language-was-the-old-testament-written-in"
+siloPriority: 74
 ---Let's explore the fascinating question of when the New Testament was written after Jesus's death. This topic delves into the rich context of the Holy Bible, comparing the Old Testament and the New Testament. Through various tasks focusing on central themes, literary genres, historical context, messianic prophecies, and the transition from law to grace, we gain a deeper understanding of the profound connections between these two pivotal parts of Christian scripture. Anita Love, a renowned scholar in the field, brings her expertise in theology and religious studies to shed light on these subjects, uncovering the historical foundations and contemporary relevance of Christianity. With Anita's extensive knowledge and nuanced perspective, we examine into the writings and events that shaped the New Testament, honoring the diverse beliefs and practices within the Christian community. So, how many years after Jesus died was the New Testament written? Let's find out together.
 
 This topic is part of our [research on biblical scripture studies](/research/scripture).
@@ -166,8 +170,10 @@ Understanding the historical context of the New Testament is crucial for interpr
 
 Explore these related articles for deeper study:
 
-- [Are all new Testament Books Written in Greek?](/research/scripture/are-all-new-testament-books-written-in-greek)
-- [Is the old Testament Written in Greek or Hebrew?](/research/scripture/is-the-old-testament-written-in-greek-or-hebrew)
+- [What Language was the old Testament Written In?](/research/scripture/what-language-was-the-old-testament-written-in)
+- [What Language is Most of the old Testament Written In?](/research/scripture/what-language-is-most-of-the-old-testament-written-in)
+- [Was the old Testament Written in Aramaic?](/research/scripture/was-the-old-testament-written-in-aramaic)
+- [What Language was the new Testament Written In?](/research/scripture/what-language-was-the-new-testament-written-in)
 
 ## Frequently Asked Questions
 
@@ -184,4 +190,3 @@ While the Old Testament provided a foundation, a new collection of writings was 
 The New Testament as the foundation of Christian faith
  
 The New Testament serves as the foundation of Christian faith, providing the basis for belief in Jesus Christ as the Son of God and the Savior of humanity. By examining the archaeological and historical background, readers gain a more grounded perspective on the people, places, and events described in scripture.
-

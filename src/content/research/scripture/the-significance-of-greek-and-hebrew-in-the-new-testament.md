@@ -11,6 +11,10 @@ imageAlt: "calligraphy, story, ink, feather, a book, vintage, old, wood, fairy t
 imageCredit: "Image by Ghinzo on Pixabay"
 imageWidth: 1280
 imageHeight: 853
+siloTier: "support"
+siloCluster: "testament-books"
+siloParent: "/research/scripture/exploring-the-old-testament-through-a-cultural-lens"
+siloPriority: 71
 ---The Significance of Greek and Hebrew in the new Testament refers to a subject within biblical manuscript studies that scholars continue to investigate.
 
 This topic is part of our [research on biblical scripture studies](/research/scripture).
@@ -240,8 +244,10 @@ Greek and Hebrew languages continue to have a significant impact on the study of
 
 Explore these related articles for deeper study:
 
-- [Is the old Testament Written in Greek or Hebrew?](/research/scripture/is-the-old-testament-written-in-greek-or-hebrew)
+- [Exploring the old Testament Through a Cultural Lens](/research/scripture/exploring-the-old-testament-through-a-cultural-lens)
+- [Why is the new Testament Written in Greek and not Hebrew?](/research/scripture/why-is-the-new-testament-written-in-greek-and-not-hebrew)
 - [Was the Original new Testament Written in Greek or Hebrew?](/research/scripture/was-the-original-new-testament-written-in-greek-or-hebrew)
+- [Is the old Testament Written in Greek or Hebrew?](/research/scripture/is-the-old-testament-written-in-greek-or-hebrew)
 
 ## Frequently Asked Questions
 
@@ -256,4 +262,3 @@ Without the Greek language, the New Testament would have lacked the linguistic t
 ### Why does significance of greek and hebrew in the new testament matter for understanding the Bible?
 
 One example of a Hebrew idiom found in the New Testament is the phrase "eye for an eye," which reflects the principle of proportional justice rooted in the Old Testament law. By examining the archaeological and historical background, readers gain a more grounded perspective on the people, places, and events described in scripture.
-

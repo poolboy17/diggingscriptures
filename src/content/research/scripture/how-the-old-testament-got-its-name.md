@@ -11,6 +11,10 @@ imageAlt: "old letters, letters, handwritten, calligraphy, font, old, ink, style
 imageCredit: "Image by jarmoluk on Pixabay"
 imageWidth: 1280
 imageHeight: 853
+siloTier: "support"
+siloCluster: "testament-books"
+siloParent: "/research/scripture/exploring-the-old-testament-through-a-cultural-lens"
+siloPriority: 41
 ---How the old Testament got its Name? refers to a subject within biblical manuscript studies that scholars continue to investigate.
 
 This topic is part of our [research on biblical scripture studies](/research/scripture).
@@ -168,8 +172,10 @@ The study of the Old Testament continues to be a subject of ongoing debates and 
 
 Explore these related articles for deeper study:
 
-- [Are all new Testament Books Written in Greek?](/research/scripture/are-all-new-testament-books-written-in-greek)
-- [Are all the Books of the old Testament in the Hebrew Bible?](/research/scripture/are-all-the-books-of-the-old-testament-in-the-hebrew-bible)
+- [Exploring the old Testament Through a Cultural Lens](/research/scripture/exploring-the-old-testament-through-a-cultural-lens)
+- [Brief Overview of the old Testament](/research/scripture/brief-overview-of-the-old-testament)
+- [The Evolution of the old Testament: Tracing its Development and](/research/scripture/the-evolution-of-the-old-testament-tracing-its-development-and-canonization)
+- [The Formation of the new Testament: who Added it to the Bible?](/research/scripture/the-formation-of-the-new-testament-who-added-it-to-the-bible)
 
 ## Frequently Asked Questions
 
@@ -186,4 +192,3 @@ The Torah contains the foundational laws and teachings of Judaism, including the
 Understanding the Old Testament in Christian theology
  
 In Christian theology, the Old Testament is seen as pointing forward to the coming of Jesus Christ and providing a foundation for the teachings of the New Testament. By examining the archaeological and historical background, readers gain a more grounded perspective on the people, places, and events described in scripture.
-

@@ -11,6 +11,10 @@ imageAlt: "qumran national park, drone footage, aerial shot, archeology park, ca
 imageCredit: "Image by samirsmier on Pixabay"
 imageWidth: 1280
 imageHeight: 720
+siloTier: "support"
+siloCluster: "language-testament"
+siloParent: "/research/scripture/exploring-the-language-of-the-old-testament"
+siloPriority: 74
 ---The Origins of the old Testament refers to a subject within biblical manuscript studies that scholars continue to investigate.
 
 This topic is part of our [research on biblical scripture studies](/research/scripture).
@@ -310,7 +314,10 @@ As Anita Love eloquently summarizes, the origins of the Old Testament lie in the
 
 Explore these related articles for deeper study:
 
+- [Exploring the Language of the old Testament](/research/scripture/exploring-the-language-of-the-old-testament)
 - [The Language of the new Testament: Exploring its Origins](/research/scripture/the-language-of-the-new-testament-exploring-its-origins)
+- [The Materials Used for Writing the old Testament](/research/scripture/the-materials-used-for-writing-the-old-testament)
+- [The Original Language of the new Testament Bible](/research/scripture/the-original-language-of-the-new-testament-bible)
 
 ## Frequently Asked Questions
 
@@ -329,4 +336,3 @@ Religious Context
 Early Jewish beliefs and practices
  
 The early Jewish beliefs and practices set the foundation for the religious context in which the Old Testament was composed. By examining the archaeological and historical background, readers gain a more grounded perspective on the people, places, and events described in scripture.
-

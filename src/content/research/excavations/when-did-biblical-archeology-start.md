@@ -11,6 +11,10 @@ imageAlt: "greece, parthenon, temple, ruins, building, architecture, pillars, co
 imageCredit: "Image by nonbirinonko on Pixabay"
 imageWidth: 1280
 imageHeight: 852
+siloTier: "support"
+siloCluster: "biblical-archaeologists"
+siloParent: "/research/excavations/unlocking-the-past-the-role-of-biblical-archaeologists-in-engaging-the-public"
+siloPriority: 32
 ---When did Biblical Archeology Start? is an area of archaeological investigation that has yielded significant findings about the ancient world.
 
 This topic is part of our [research on archaeological excavations](/research/excavations).
@@ -70,7 +74,10 @@ The impact of biblical archaeology on modern archaeological practices extends be
 
 Explore these related articles for deeper study:
 
+- [Unlocking the Past: the Role of Biblical Archaeologists in](/research/excavations/unlocking-the-past-the-role-of-biblical-archaeologists-in-engaging-the-public)
+- [What is the Value of Biblical Archeology?](/research/excavations/what-is-the-value-of-biblical-archeology)
 - [What is the Science of Biblical Archeology?](/research/excavations/what-is-the-science-of-biblical-archeology)
+- [Discovering the Pioneers: Prominent Biblical Archaeologists](/research/excavations/discovering-the-pioneers-prominent-biblical-archaeologists)
 
 ## Frequently Asked Questions
 
@@ -89,4 +96,3 @@ Emerging in the mid-19th century, the foundation of Biblical Archaeology was roo
 ### Why does did biblical archeology start? matter for understanding the Bible?
 
 Through these excavations, scholars were able to piece together a more thorough picture of the ancient world, enriching our knowledge of the historical context in which biblical events unfolded. By examining the archaeological and historical background, readers gain a more grounded perspective on the people, places, and events described in scripture.
-

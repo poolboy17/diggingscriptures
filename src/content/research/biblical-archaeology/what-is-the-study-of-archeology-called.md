@@ -11,6 +11,10 @@ imageAlt: "pretty much, jerash, columns, roman, ancient, culture, story, histori
 imageCredit: "Image by ChiemSeherin on Pixabay"
 imageWidth: 1280
 imageHeight: 961
+siloTier: "support"
+siloCluster: "archaeology-archeology"
+siloParent: "/research/biblical-archaeology"
+siloPriority: 77
 ---Archaeology is the systematic study of human history through material remains. It is often mistaken for anthropology or paleontology. But what is the study of archeology called exactly?
 
 This topic is part of our [research on biblical archaeology](/research/biblical-archaeology).
@@ -72,8 +76,10 @@ Studying the importance of archaeological research reveals invaluable insights i
 
 Explore these related articles for deeper study:
 
-- [What is the Study of Biblical Archeology?](/research/biblical-archaeology/what-is-the-study-of-biblical-archeology)
+- [What is the Difference Between Archaeology and Archeology?](/research/biblical-archaeology/what-is-the-difference-between-archaeology-and-archeology)
+- [Why are There two Different Spellings Archaeology and Archeology?](/research/biblical-archaeology/why-are-there-two-different-spellings-archaeology-and-archeology)
 - [Are Archeology Degrees Worth It?](/research/biblical-archaeology/are-archeology-degrees-worth-it)
+- [What is the Difference Between Archeology and Historical](/research/biblical-archaeology/what-is-the-difference-between-archeology-and-historical-archeology)
 
 ## Frequently Asked Questions
 
@@ -90,4 +96,3 @@ With the shift from unscientific treasure hunting to systematic excavation metho
 ### Why does is the study of archeology called? matter for understanding the Bible?
 
 - Enriching Historical Knowledge and Discovering Written Documents: Archaeological research plays a pivotal role in expanding historical knowledge by piecing together the past through tangible evidence. By examining the archaeological and historical background, readers gain a more grounded perspective on the people, places, and events described in scripture.
-

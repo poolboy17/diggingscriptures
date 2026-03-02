@@ -11,6 +11,10 @@ imageAlt: "notre-dame cathedral, catholic, church, cathedral, dame, notre, paris
 imageCredit: "Image by dancepool on Pixabay"
 imageWidth: 1280
 imageHeight: 851
+siloTier: "support"
+siloCluster: "first-temple"
+siloParent: "/research/faith/the-intertestamental-period-exploring-the-time-between-the-old-and-new-testaments"
+siloPriority: 56
 ---First Temple Period Discovery Reveals Ancient is a theological subject that explores the intersection of faith traditions and historical evidence.
 
 This topic is part of our [research on faith and history](/research/faith).
@@ -75,7 +79,10 @@ This archaeological endeavor uncovers a treasure trove of knowledge about the Fi
 
 Explore these related articles for deeper study:
 
-- [Ancient Jewish Quarter Reveals Temple era Commerce](/research/faith/ancient-jewish-quarter-reveals-temple-era-commerce)
+- [The Intertestamental Period: Exploring the Time Between the old](/research/faith/the-intertestamental-period-exploring-the-time-between-the-old-and-new-testaments)
+- [First Temple Storage Complex Unveils Ancient Organization](/research/faith/first-temple-storage-complex-unveils-ancient-organization)
+- [First Temple Market Unearthed: a new Biblical Insight](/research/faith/first-temple-market-unearthed-a-new-biblical-insight)
+- [Exploring the First Temple Treasury](/research/faith/exploring-the-first-temple-treasury)
 
 ## Frequently Asked Questions
 
@@ -92,4 +99,3 @@ In recent years, a significant archaeological excavation has unearthed what is s
 ### Why does first temple period discovery reveals ancient matter for understanding the Bible?
 
 Within this narrative, we will traverse through a biblical passage of time, the archaeological treasures discovered, and their significance to our modern understanding of ancient history. By examining the archaeological and historical background, readers gain a more grounded perspective on the people, places, and events described in scripture.
-

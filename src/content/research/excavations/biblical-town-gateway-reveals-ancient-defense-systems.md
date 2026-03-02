@@ -11,6 +11,10 @@ imageAlt: "mining excavator, electric, bucket wheel excavator, walking excavator
 imageCredit: "Image by xusenru on Pixabay"
 imageWidth: 1280
 imageHeight: 853
+siloTier: "support"
+siloCluster: "reveals-ancient"
+siloParent: "/research/excavations/exploring-the-link-biblical-archaeology-and-the-dead-sea-scrolls"
+siloPriority: 53
 ---Biblical Town Gateway Reveals Ancient Defense Systems is an area of archaeological investigation that has yielded significant findings about the ancient world.
 
 This topic is part of our [research on archaeological excavations](/research/excavations).
@@ -81,8 +85,10 @@ The unearthing of this biblical town gateway has provided invaluable insight int
 
 Explore these related articles for deeper study:
 
-- [Lost Biblical City Found: Ancient Fortress Reveals new Story](/research/excavations/lost-biblical-city-found-ancient-fortress-reveals-new-story)
-- [Unlocking Ancient Jerusalem: a Deep Dive into Biblical Defense](/research/excavations/mapping-the-ancient-jerusalem-defense-system)
+- [Exploring the Link: Biblical Archaeology and the Dead sea Scrolls](/research/excavations/exploring-the-link-biblical-archaeology-and-the-dead-sea-scrolls)
+- [Unearthing the Past: Biblical Archaeology Reveals Ancient](/research/excavations/unearthing-the-past-biblical-archaeology-reveals-ancient-biblical-sites)
+- [Biblical Town Streets Explored and Mapped](/research/excavations/biblical-town-streets-explored-and-mapped)
+- [Salt-encrusted Secrets: how the Dead sea Reveals Ancient History](/research/excavations/salt-laden-dead-sea-edge-where-barren-earth-reveals-sacred-pottery)
 
 ## Frequently Asked Questions
 
@@ -107,4 +113,3 @@ Archaeological Evidence
 Specific Artifacts
  
 Among the significant discoveries were artifacts that intricately demonstrate the defensive prowess of the ancient town. By examining the archaeological and historical background, readers gain a more grounded perspective on the people, places, and events described in scripture.
-

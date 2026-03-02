@@ -11,6 +11,10 @@ imageAlt: "paestum, salerno, fresco, tomb of the diver, chariot, charioteer, sho
 imageCredit: "Image by valtercirillo on Pixabay"
 imageWidth: 1280
 imageHeight: 853
+siloTier: "support"
+siloCluster: "ark-covenant"
+siloParent: "/research/artifacts/exploring-the-ethical-implications-of-displaying-biblical-archaeological-artifacts"
+siloPriority: 10
 ---Decoding Testament Manuscripts: How Modern Tech Unravels refers to ancient material remains that provide physical evidence for understanding biblical history.
 
 This topic is part of our [research on ancient artifacts](/research/artifacts).
@@ -119,8 +123,10 @@ The future holds possibilities for more discoveries and deeper understanding of 
 
 Explore these related articles for deeper study:
 
-- [Analyzing Old Testament Manuscripts: How They Impacted](/research/artifacts/how-many-old-testament-manuscripts-survive)
-- [Exploring the Authenticity of old Testament Manuscripts](/research/scripture/exploring-the-authenticity-of-old-testament-manuscripts)
+- [Exploring the Ethical Implications of Displaying Biblical](/research/artifacts/exploring-the-ethical-implications-of-displaying-biblical-archaeological-artifacts)
+- [Comparing Ethics: how the Ark of the Covenant Challenges Modern](/research/artifacts/the-arks-moral-authority-in-turmoil-a-deep-dive-into-the-tablets-of-law)
+- [What Are Textual Variants In The New Testament?](/research/artifacts/what-are-textual-variants-in-the-new-testament)
+- [Where To Access Biblical Manuscripts Online Today](/research/artifacts/where-to-access-biblical-manuscripts-online-today)
 
 ## Frequently Asked Questions
 
@@ -139,4 +145,3 @@ The New Testament manuscripts are foundational documents for Christianity and hi
 The Significance of New Testament Manuscripts
  
 The New Testament manuscripts are foundational documents for Christianity and historical scholarship. By examining the archaeological and historical background, readers gain a more grounded perspective on the people, places, and events described in scripture.
-

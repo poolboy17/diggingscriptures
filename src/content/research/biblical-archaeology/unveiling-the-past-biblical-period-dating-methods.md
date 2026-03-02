@@ -11,6 +11,10 @@ imageAlt: "temple, jupiter, roman, antique, column, architecture, ancient, stone
 imageCredit: "Image by djedj on Pixabay"
 imageWidth: 1280
 imageHeight: 854
+siloTier: "support"
+siloCluster: "archaeology-discoveries"
+siloParent: "/research/biblical-archaeology"
+siloPriority: 77
 ---Discovering the Bible's Timeline: the Role of Modern Archaeology is a topic in biblical archaeology that connects ancient material evidence with scriptual narratives.
 
 This topic is part of our [research on biblical archaeology](/research/biblical-archaeology).
@@ -98,7 +102,10 @@ In summary, the quest to date biblical periods intertwines science with history,
 
 Explore these related articles for deeper study:
 
-- [Discovering Angels in Biblical Archaeology: The En Gedi](/research/biblical-archaeology/angels-in-the-desert-the-en-gedi-stone-arch-and-its-significance)
+- [Exploring Biblical Archaeology: Uncovering Ancient Sites](/research/biblical-archaeology/exploring-biblical-archaeology-uncovering-ancient-sites)
+- [Modern Insights into Biblical Archaeology Discoveries](/research/biblical-archaeology/modern-insights-into-biblical-archaeology-discoveries)
+- [Unveiling Remarkable Biblical Archaeology Discoveries List](/research/biblical-archaeology/unveiling-remarkable-biblical-archaeology-discoveries-list)
+- [Exploring Biblical Archaeology Discoveries](/research/biblical-archaeology/exploring-biblical-archaeology-discoveries)
 
 ## Frequently Asked Questions
 
@@ -115,4 +122,3 @@ It is especially useful in dating objects up to 50,000 years old and has been in
 Research Status
  
 The field of biblical archaeology is dynamic, with ongoing excavations and research continually refining our understanding. By examining the archaeological and historical background, readers gain a more grounded perspective on the people, places, and events described in scripture.
-

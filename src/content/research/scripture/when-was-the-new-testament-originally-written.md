@@ -11,6 +11,10 @@ imageAlt: "sütterlin, windows wallpaper, wallpaper 4k, beautiful wallpaper, han
 imageCredit: "Image by cocoparisienne on Pixabay"
 imageWidth: 1280
 imageHeight: 853
+siloTier: "support"
+siloCluster: "originally-written"
+siloParent: "/research/scripture/what-language-was-the-new-testament-originally-written-in"
+siloPriority: 71
 ---Discovering the origins of the New Testament is like unlocking a treasure trove that holds the key to understanding the foundations of Christianity. Renowned theologian, Anita Love, unravels the mystery behind the timing of its writing, shedding light on how this ancient text came to be. With her extensive knowledge and expertise in biblical studies, Love explores the historical, cultural, and theological contexts surrounding the New Testament, providing valuable insights into its significance and relevance in our lives today. Let's embark on a fascinating journey to uncover the origins of the New Testament and gain a deeper appreciation for its timeless teachings.
 
 This topic is part of our [research on biblical scripture studies](/research/scripture).
@@ -115,6 +119,8 @@ The study of the New Testament is a dynamic field that invites ongoing research 
 
 Explore these related articles for deeper study:
 
+- [What Language was the new Testament Originally Written In?](/research/scripture/what-language-was-the-new-testament-originally-written-in)
+- [What Language was the old Testament Written In?](/research/scripture/what-language-was-the-old-testament-written-in)
 - [Was the new Testament Originally Written in Hebrew?](/research/scripture/was-the-new-testament-originally-written-in-hebrew)
 - [Was the old Testament Originally Written in Greek?](/research/scripture/was-the-old-testament-originally-written-in-greek)
 
@@ -133,4 +139,3 @@ These events shaped the narrative and themes found in the New Testament. Physica
 Understanding the New Testament
  
 The New Testament is a collection of religious texts that form a central part of the Christian Bible. By examining the archaeological and historical background, readers gain a more grounded perspective on the people, places, and events described in scripture.
-

@@ -11,6 +11,10 @@ imageAlt: "jerusalem, historic center, city wall, dome of the rock, western wall
 imageCredit: "Image by Buecherwurm_65 on Pixabay"
 imageWidth: 1280
 imageHeight: 853
+siloTier: "support"
+siloCluster: "biblical-archaeological"
+siloParent: "/research/faith/the-uncovered-secrets-most-intriguing-biblical-archaeological-discoveries"
+siloPriority: 71
 ---Exploring the Ethical Issues in Biblical Archaeology is a theological subject that explores the intersection of faith traditions and historical evidence.
 
 This topic is part of our [research on faith and history](/research/faith).
@@ -164,8 +168,10 @@ Promoting cultural sensitivity is paramount in biblical archaeological education
 
 Explore these related articles for deeper study:
 
-- [Exploring Biblical Archaeology: Unraveling Ancient History](/research/faith/date-palm-crevice-a-sanctuary-of-faith)
-- [Exploring Biblical Archaeology: Unearth Freedom in Desert Hostel](/research/faith/desert-hostel-stone-a-teachers-vision-of-liberation)
+- [The Uncovered Secrets: Most Intriguing Biblical Archaeological](/research/faith/the-uncovered-secrets-most-intriguing-biblical-archaeological-discoveries)
+- [Exploring Ethical Considerations in Biblical Archaeological](/research/faith/exploring-ethical-considerations-in-biblical-archaeological-excavations)
+- [Mountaintop Shrine: the Sacred Journey in Biblical Archaeology](/research/faith/mountaintop-shrine-pilgrims-seek-echoes-of-the-arks-holiness)
+- [A Guide to Evaluating the Credibility of Biblical Archaeological](/research/faith/a-guide-to-evaluating-the-credibility-of-biblical-archaeological-findings)
 
 ## Frequently Asked Questions
 
@@ -186,4 +192,3 @@ Sensitive Excavation Sites
 Controversial Sites of Religious Significance
 
 Biblical archaeologists often encounter controversial sites with religious significance. By examining the archaeological and historical background, readers gain a more grounded perspective on the people, places, and events described in scripture.
-

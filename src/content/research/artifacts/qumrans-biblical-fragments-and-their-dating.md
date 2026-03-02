@@ -11,6 +11,10 @@ imageAlt: "museum, artifacts, antiquities, culture, history, vietnam, south east
 imageCredit: "Image by NguyenHoangThach on Pixabay"
 imageWidth: 1280
 imageHeight: 853
+siloTier: "support"
+siloCluster: "ancient-biblical"
+siloParent: "/research/artifacts/what-is-the-oldest-complete-old-testament-manuscript"
+siloPriority: 59
 ---Qumrans Ancient Biblical Fragments: a Radiocarbon Revelation refers to ancient material remains that provide physical evidence for understanding biblical history.
 
 This topic is part of our [research on ancient artifacts](/research/artifacts).
@@ -111,8 +115,10 @@ The discoveries continue to influence theological studies and discussions, offer
 
 Explore these related articles for deeper study:
 
-- [Ancient Hebrew Seal Collection Reveals Biblical Names](/research/artifacts/ancient-hebrew-seal-collection-reveals-biblical-names)
-- [Ancient Temple Seal Discovery Rewrites Biblical History](/research/artifacts/ancient-temple-seal-discovery-rewrites-biblical-history)
+- [What is the Oldest Complete old Testament Manuscript?](/research/artifacts/what-is-the-oldest-complete-old-testament-manuscript)
+- [Unlocking Secrets: how Science Preserves Ancient Biblical](/research/artifacts/preservation-methods-for-biblical-artifacts-uncovered)
+- [Exploring Ancient Biblical Artifacts: the Role of Archaeologists](/research/artifacts/exploring-ancient-biblical-artifacts-the-role-of-archaeologists-in-museums)
+- [Unlocking Secrets: The Ancient Jordan Orchard Jar Artifact](/research/artifacts/the-jordan-orchard-jar-a-glimpse-into-worship-rites-of-a-wandering-sect)
 
 ## Frequently Asked Questions
 
@@ -131,4 +137,3 @@ TL;DR
 Understanding Qumran and Its Discoveries
  
 Qumran is a site located in the West Bank, near the Dead Sea, and it has become synonymous with the famous Dead Sea Scrolls. By examining the archaeological and historical background, readers gain a more grounded perspective on the people, places, and events described in scripture.
-

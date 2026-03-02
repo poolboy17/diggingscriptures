@@ -11,6 +11,10 @@ imageAlt: "petra, jordan, royal tombs, sand stone, antique, historically, histor
 imageCredit: "Image by ChiemSeherin on Pixabay"
 imageWidth: 1280
 imageHeight: 853
+siloTier: "support"
+siloCluster: "unlocking-ancient"
+siloParent: "/research/biblical-archaeology/uncharted-qumran-passage-a-journey-into-the-mysteries-of-the-dead-sea-scrolls"
+siloPriority: 71
 ---Miracle or History? Examining the Biblical Jordan Crossing Event is a topic in biblical archaeology that connects ancient material evidence with scriptual narratives.
 
 This topic is part of our [research on biblical archaeology](/research/biblical-archaeology).
@@ -134,7 +138,10 @@ So, what now? Carry the weight of this miracle with youlet it serve as a reminde
 
 Explore these related articles for deeper study:
 
+- [Unlocking Biblical Secrets: A Deep Dive into Ancient Scrolls](/research/biblical-archaeology/uncharted-qumran-passage-a-journey-into-the-mysteries-of-the-dead-sea-scrolls)
 - [Unveiling Biblical History: how Advanced Imaging Decodes](/research/biblical-archaeology/advanced-imaging-illuminates-ancient-hebrew-texts)
+- [Unlocking Ancient Tales: How History Fought Against Conformity](/research/biblical-archaeology/storage-cave-debris-unveiling-the-secrets-of-ancient-conformity)
+- [Unveiling Ancient Coins in Biblical Archaeology](/research/biblical-archaeology/unveiling-ancient-coins-in-biblical-archaeology)
 
 ## Frequently Asked Questions
 
@@ -151,4 +158,3 @@ Several archaeological sites along the Jordan River have revealed artifacts that
 ### Why does miracle or history? examining the biblical jordan crossing event matter for understanding the Bible?
 
 Have you ever found yourself captivated by stories of miraculous events that challenge our understanding of the natural world. By examining the archaeological and historical background, readers gain a more grounded perspective on the people, places, and events described in scripture.
-

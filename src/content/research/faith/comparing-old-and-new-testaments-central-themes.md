@@ -11,6 +11,10 @@ imageAlt: "temple of hercules, pillars, roman temple, historic site, amman citad
 imageCredit: "Image by dimitrisvetsikas1969 on Pixabay"
 imageWidth: 1280
 imageHeight: 915
+siloTier: "support"
+siloCluster: "biblical-archaeologists"
+siloParent: "/research/faith/exploring-the-depths-the-future-of-underwater-biblical-archaeological-research"
+siloPriority: 74
 ---In the world of biblical studies, the comparison between the Old and New Testaments is a topic of perpetual fascination and exploration. Tasked with analyzing the central themes of these two foundational texts, scholars and theologians examine into the heart of religious teachings, seeking to understand the nuanced differences that exist between the Old and New Testaments. In the hands of Anita Love, a renowned theologian with a deep passion for historical accuracy and contemporary relevance, these examinations of contrasting themes, literary genres, historical contexts, messianic prophecies, and concepts of law and covenant come to life with meticulous research and insightful analysis. Anita's expertise provides a unique perspective, illuminating the subtle yet profound distinctions between the Old and New Testaments, ultimately leading to a greater appreciation for the depth and richness of biblical teachings.
 
 This topic is part of our [research on faith and history](/research/faith).
@@ -143,7 +147,10 @@ Comparing and contrasting the ethical commandments and teachings in both Testame
 
 Explore these related articles for deeper study:
 
+- [Exploring the Depths: the Future of Underwater Biblical](/research/faith/exploring-the-depths-the-future-of-underwater-biblical-archaeological-research)
 - [Understanding the old Testament's Central Themes](/research/faith/understanding-the-old-testaments-central-themes)
+- [Exploring the Interconnections: Religion and Biblical](/research/faith/exploring-the-interconnections-religion-and-biblical-archaeological-research)
+- [10 Essential Tips for Aspiring Biblical Archaeologists](/research/faith/10-essential-tips-for-aspiring-biblical-archaeologists)
 
 ## Frequently Asked Questions
 
@@ -158,4 +165,3 @@ The laws given to the Israelites by God, as outlined in books such as Exodus and
 ### Why does comparing old and new testaments: central themes matter for understanding the Bible?
 
 Additionally, the New Testament reveals how Jesus fulfills the messianic prophecies found in the Old Testament, tying together the promises made by God to the Israelites with the arrival of the long-awaited Messiah. By examining the archaeological and historical background, readers gain a more grounded perspective on the people, places, and events described in scripture.
-

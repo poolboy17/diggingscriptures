@@ -11,6 +11,10 @@ imageAlt: "church, ceiling, dome, architecture, cathedral, historical, basilica,
 imageCredit: "Image by ArminEP on Pixabay"
 imageWidth: 1280
 imageHeight: 853
+siloTier: "support"
+siloCluster: "role-biblical"
+siloParent: "/research/faith/decoding-ancient-technology-insights-from-biblical-archaeology"
+siloPriority: 65
 ---Unearthing the Secrets: the Role of Biblical Archaeologists in is a theological subject that explores the intersection of faith traditions and historical evidence.
 
 This topic is part of our [research on faith and history](/research/faith).
@@ -150,7 +154,10 @@ Biblical archaeologists are vital players in deciphering ancient art and iconogr
 
 Explore these related articles for deeper study:
 
-- [Unearthing the Secrets: Discoveries of Biblical Archaeologists](/research/faith/unearthing-the-secrets-discoveries-of-biblical-archaeologists)
+- [Decoding Ancient Technology: Insights from Biblical Archaeology](/research/faith/decoding-ancient-technology-insights-from-biblical-archaeology)
+- [The Role of Biblical Archaeologists in Reconstructing Ancient](/research/faith/the-role-of-biblical-archaeologists-in-reconstructing-ancient-societies)
+- [Exploring the Controversies: the Role of Biblical Archaeologists](/research/faith/exploring-the-controversies-the-role-of-biblical-archaeologists)
+- [Decoding Ancient Myths: the Role of Biblical Archaeology](/research/faith/decoding-ancient-myths-the-role-of-biblical-archaeology)
 
 ## Frequently Asked Questions
 
@@ -171,4 +178,3 @@ Methods and Tools Used by Biblical Archaeologists
 Excavation Techniques
 
 Excavation is the primary method used by biblical archaeologists to unearth and study ancient artifacts. By examining the archaeological and historical background, readers gain a more grounded perspective on the people, places, and events described in scripture.
-

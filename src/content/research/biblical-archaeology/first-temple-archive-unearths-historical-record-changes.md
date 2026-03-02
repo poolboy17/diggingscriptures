@@ -11,6 +11,10 @@ imageAlt: "archaeology, excavation, sun sails, protection, sun protection, archa
 imageCredit: "Image by Efraimstochter on Pixabay"
 imageWidth: 1280
 imageHeight: 960
+siloTier: "support"
+siloCluster: "discover-ancient"
+siloParent: "/research/biblical-archaeology/governing-temple-rites-the-secrets-of-the-museum-storeroom-box"
+siloPriority: 62
 ---First Temple Archive Unearths Historical Record Changes is a topic in biblical archaeology that connects ancient material evidence with scriptual narratives.
 
 This topic is part of our [research on biblical archaeology](/research/biblical-archaeology).
@@ -97,7 +101,10 @@ In the end, the unearthing of the First Temple archive reminds us of history's c
 
 Explore these related articles for deeper study:
 
-- [Royal Seals Unearthed from the First Temple Period](/research/biblical-archaeology/royal-seals-unearthed-from-the-first-temple-period)
+- [Temple Wonders: 5 Hidden Rituals That Shaped Ancient Spirituality](/research/biblical-archaeology/governing-temple-rites-the-secrets-of-the-museum-storeroom-box)
+- [Discover Ancient Temple Secrets with Ground-Penetrating Radar](/research/biblical-archaeology/ground-penetrating-radar-unveils-hidden-temple-complex)
+- [Exploring Ancient Market's Role in Temple Economy](/research/biblical-archaeology/exploring-ancient-markets-role-in-temple-economy)
+- [Exploring the Temple era Gardens in Biblical Archaeology](/research/biblical-archaeology/exploring-the-temple-era-gardens-in-biblical-archaeology)
 
 ## Frequently Asked Questions
 
@@ -116,4 +123,3 @@ The First Temple, often referred to as Solomons Temple, is a central structure i
 ### Why does first temple archive unearths historical record changes matter for understanding the Bible?
 
 Traditionally, it was designed and built by King Solomon, the son of King David, during the 10th century BCE. By examining the archaeological and historical background, readers gain a more grounded perspective on the people, places, and events described in scripture.
-

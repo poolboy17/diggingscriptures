@@ -11,6 +11,10 @@ imageAlt: "necklace with winged heart, winged heart, red heart, necklace, gold n
 imageCredit: "Image by MAKY_OREL on Pixabay"
 imageWidth: 1280
 imageHeight: 853
+siloTier: "support"
+siloCluster: "sheds-light"
+siloParent: "/research/artifacts/qumrans-empty-cave-unveiling-the-kindness-manifestos-in-fragments"
+siloPriority: 50
 ---First Temple Period Royal Seal Collection Unearthed refers to ancient material remains that provide physical evidence for understanding biblical history.
 
 This topic is part of our [research on ancient artifacts](/research/artifacts).
@@ -87,7 +91,10 @@ In summary, the unearthing of the First Temple Period royal seal collection offe
 
 Explore these related articles for deeper study:
 
-- [Royal Seals Unearthed from the First Temple Period](/research/biblical-archaeology/royal-seals-unearthed-from-the-first-temple-period)
+- [Unearthing Kindness Lessons in Qumran's Ancient Scroll: a](/research/artifacts/qumrans-empty-cave-unveiling-the-kindness-manifestos-in-fragments)
+- [Analyzing the Temple Blueprint Scroll: Divine Mysteries of the](/research/artifacts/the-temple-blueprint-scroll-unveiling-the-arks-golden-overlay)
+- [Unveiling Temple Greed: The Ancient Scroll of the Battered](/research/artifacts/battered-column-chest-a-scroll-unveiling-temple-greed)
+- [The Evolution of Temple Worship Artifacts](/research/artifacts/the-evolution-of-temple-worship-artifacts)
 
 ## Frequently Asked Questions
 
@@ -108,4 +115,3 @@ Archaeologists unearthed these exquisite royal seals while conducting excavation
 Ongoing Research and Future Implications
  
 While this particular discovery adds a significant chapter to the library of First Temple Period studies, it also underscores the need for continued excavations and interdisciplinary research. By examining the archaeological and historical background, readers gain a more grounded perspective on the people, places, and events described in scripture.
-

@@ -11,6 +11,10 @@ imageAlt: "scroll, feather, ink, caligraphy, hebrew, writing, characters, paper,
 imageCredit: "Image by zofiaEliyahu on Pixabay"
 imageWidth: 1280
 imageHeight: 859
+siloTier: "support"
+siloCluster: "language-testament"
+siloParent: "/research/scripture/exploring-the-language-of-the-old-testament"
+siloPriority: 62
 ---Oldest Writing in the old Testament refers to a subject within biblical manuscript studies that scholars continue to investigate.
 
 This topic is part of our [research on biblical scripture studies](/research/scripture).
@@ -173,7 +177,10 @@ The study of the oldest writings in the Old Testament has far-reaching implicati
 
 Explore these related articles for deeper study:
 
+- [Exploring the Language of the old Testament](/research/scripture/exploring-the-language-of-the-old-testament)
 - [The Language of the old Testament: Exploring its Original Writing](/research/scripture/the-language-of-the-old-testament-exploring-its-original-writing)
+- [The Materials Used for Writing the old Testament](/research/scripture/the-materials-used-for-writing-the-old-testament)
+- [The Original Language of the new Testament](/research/scripture/the-original-language-of-the-new-testament)
 
 ## Frequently Asked Questions
 
@@ -190,4 +197,3 @@ However, the Septuagint, a Greek translation of the Hebrew Bible, played a signi
 Significance and contribution to the Old Testament
  
 The Torah's significance lies in its role as the primary legal, ethical, and narrative foundation for both Jewish and Christian religious traditions. By examining the archaeological and historical background, readers gain a more grounded perspective on the people, places, and events described in scripture.
-

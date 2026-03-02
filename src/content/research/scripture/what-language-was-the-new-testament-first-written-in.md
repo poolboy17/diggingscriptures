@@ -11,6 +11,10 @@ imageAlt: "calligraphy, story, ink, feather, a book, vintage, old, wood, fairy t
 imageCredit: "Image by Ghinzo on Pixabay"
 imageWidth: 1280
 imageHeight: 853
+siloTier: "support"
+siloCluster: "language-testament"
+siloParent: "/research/scripture/exploring-the-language-of-the-old-testament"
+siloPriority: 47
 ---, we will explore the fascinating question of what language the New Testament was first written in. With central themes, literary genres, historical context, messianic prophecies, and the significance of law and covenant, we examine into the rich tapestry of the New Testament's origins and its connection to the Old Testament. Anita Love, a renowned theologian and scholar, brings her expertise and academic rigor to shed light on this intriguing topic. As we embark on this journey, we will uncover the linguistic foundations of Christianity's most revered scripture and gain a deeper understanding of its cultural and historical context. Get ready to uncover the secrets of the New Testament and discover the language that shaped Christianity as we know it.
 
 This topic is part of our [research on biblical scripture studies](/research/scripture).
@@ -166,8 +170,10 @@ Linguistic accuracy is paramount when it comes to interpreting the New Testament
 
 Explore these related articles for deeper study:
 
-- [What Language is Most of the old Testament Written In?](/research/scripture/what-language-is-most-of-the-old-testament-written-in)
-- [What Language was the new Testament Originally Written In?](/research/scripture/what-language-was-the-new-testament-originally-written-in)
+- [Exploring the Language of the old Testament](/research/scripture/exploring-the-language-of-the-old-testament)
+- [The Original Language of the new Testament Bible](/research/scripture/the-original-language-of-the-new-testament-bible)
+- [The Original Language of the new Testament](/research/scripture/the-original-language-of-the-new-testament)
+- [Understanding the Original Language of the new Testament](/research/scripture/understanding-the-original-language-of-the-new-testament)
 
 ## Frequently Asked Questions
 
@@ -184,4 +190,3 @@ As we embark on this journey, we will uncover the linguistic foundations of Chri
 ### Why does language was the new testament first written in? matter for understanding the Bible?
 
 As we embark on this journey, we will uncover the linguistic foundations of Christianity's most revered scripture and gain a deeper understanding of its cultural and historical context. By examining the archaeological and historical background, readers gain a more grounded perspective on the people, places, and events described in scripture.
-

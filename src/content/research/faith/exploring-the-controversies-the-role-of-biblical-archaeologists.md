@@ -11,6 +11,10 @@ imageAlt: "altar, cathedral, catholic church, church, church art, faith, religio
 imageCredit: "Image by ChiemSeherin on Pixabay"
 imageWidth: 1280
 imageHeight: 853
+siloTier: "support"
+siloCluster: "role-biblical"
+siloParent: "/research/faith/decoding-ancient-technology-insights-from-biblical-archaeology"
+siloPriority: 77
 ---Exploring the Controversies: the Role of Biblical Archaeologists is a theological subject that explores the intersection of faith traditions and historical evidence.
 
 This topic is part of our [research on faith and history](/research/faith).
@@ -204,7 +208,10 @@ Through responsible digging, preservation of cultural heritage, interdisciplinar
 
 Explore these related articles for deeper study:
 
-- [Exploring Ancient Biblical Artifacts: the Role of Archaeologists](/research/artifacts/exploring-ancient-biblical-artifacts-the-role-of-archaeologists-in-museums)
+- [Decoding Ancient Technology: Insights from Biblical Archaeology](/research/faith/decoding-ancient-technology-insights-from-biblical-archaeology)
+- [The Role of Biblical Archaeologists in Reconstructing Ancient](/research/faith/the-role-of-biblical-archaeologists-in-reconstructing-ancient-societies)
+- [Unearthing the Secrets: the Role of Biblical Archaeologists in](/research/faith/unveiling-the-secrets-the-role-of-biblical-archaeologists-in-deciphering-ancient-art-and-iconography)
+- [Exploring the old Testament's Role in Christianity](/research/faith/exploring-the-old-testaments-role-in-christianity)
 
 ## Frequently Asked Questions
 
@@ -225,4 +232,3 @@ Through their excavations and research, biblical archaeologists greatly contribu
 Deciphering Ancient Texts and Inscriptions
 
 A significant challenge biblical archaeologists face is deciphering ancient texts and inscriptions. By examining the archaeological and historical background, readers gain a more grounded perspective on the people, places, and events described in scripture.
-

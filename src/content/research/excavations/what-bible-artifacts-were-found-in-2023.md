@@ -11,6 +11,10 @@ imageAlt: "western wall, jerusalem, jews, pray, orthodox, holy, religious, weste
 imageCredit: "Image by rliessum on Pixabay"
 imageWidth: 1280
 imageHeight: 960
+siloTier: "support"
+siloCluster: "sea-scrolls"
+siloParent: "/research/excavations/the-dead-sea-scrolls-unearthed-secrets-of-the-bible"
+siloPriority: 68
 ---What Bible Artifacts Were Found in 2023? is an area of archaeological investigation that has yielded significant findings about the ancient world.
 
 This topic is part of our [research on archaeological excavations](/research/excavations).
@@ -74,7 +78,10 @@ These findings not only enrich our understanding of the ancient events but also 
 
 Explore these related articles for deeper study:
 
+- [The Dead sea Scrolls: Unearthed Secrets of the Bible](/research/excavations/the-dead-sea-scrolls-unearthed-secrets-of-the-bible)
 - [Have any Artifacts from the Bible Been Found?](/research/excavations/have-any-artifacts-from-the-bible-been-found)
+- [Unearthed Artifacts: Excavation Reveals Daily Life in Biblical](/research/excavations/biblical-town-life-revealed-in-new-excavation)
+- [The Excavation of Qumran: Unearthing the Famous Dead sea Scrolls](/research/excavations/the-excavation-of-qumran-unearthing-the-famous-dead-sea-scrolls)
 
 ## Frequently Asked Questions
 
@@ -95,4 +102,3 @@ Gold have contributed to this field.
 Ancient Scrolls Uncovered in Judean Desert
 
 During a recent excavation in the Judean Desert, ancient scrolls dating back to the Second Temple period were unearthed, revealing invaluable insights into Jewish life and beliefs. By examining the archaeological and historical background, readers gain a more grounded perspective on the people, places, and events described in scripture.
-

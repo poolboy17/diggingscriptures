@@ -11,6 +11,10 @@ imageAlt: "egyptian temple, historic site, structure, land lot, archaeological s
 imageCredit: "Image by Wael-Ezz on Pixabay"
 imageWidth: 1280
 imageHeight: 853
+siloTier: "support"
+siloCluster: "discover-ancient"
+siloParent: "/research/excavations/exploring-the-qumran-workshop-ruins-a-quest-for-temple-artifacts"
+siloPriority: 71
 ---Unlocking the Secrets of Ancient Temple art in the Judean Hills is an area of archaeological investigation that has yielded significant findings about the ancient world.
 
 This topic is part of our [research on archaeological excavations](/research/excavations).
@@ -151,6 +155,9 @@ In understanding this complexity, you can appreciate how just as ancient people 
 Explore these related articles for deeper study:
 
 - [Discover Ancient Temple Artifacts in Qumran: Secrets of](/research/excavations/exploring-the-qumran-workshop-ruins-a-quest-for-temple-artifacts)
+- [Discover Ancient Biblical Archaeology Secrets in the Judean](/research/excavations/the-judean-desert-riverbed-a-ledger-of-an-exiled-people)
+- [Unlocking Ancient Secrets: How Qumran Scribes Preserved](/research/excavations/unveiling-qumran-sublevel-a-study-of-generational-text-preservation-methods)
+- [Unlocking Ancient Jerusalem: a Deep Dive into Biblical Defense](/research/excavations/mapping-the-ancient-jerusalem-defense-system)
 
 ## Frequently Asked Questions
 
@@ -169,4 +176,3 @@ Temple Mount Excavations: Efforts at the Temple Mount have revealed fragments of
 ### Why does unlocking the secrets of ancient temple art in the judean hills matter for understanding the Bible?
 
 Unlocking the Secrets of Ancient Temple art in the Judean Hills is an area of archaeological investigation that has yielded significant findings about the ancient world. By examining the archaeological and historical background, readers gain a more grounded perspective on the people, places, and events described in scripture.
-

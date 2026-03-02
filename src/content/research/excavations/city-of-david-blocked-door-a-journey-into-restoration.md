@@ -11,6 +11,10 @@ imageAlt: "valley of the kings, deir el-bahri, egypt, hatshepsut's mortuary temp
 imageCredit: "Image by RonPorter on Pixabay"
 imageWidth: 1280
 imageHeight: 853
+siloTier: "support"
+siloCluster: "lost-biblical"
+siloParent: "/research/excavations/jericho-city-gate-the-significance-of-the-renewed-covenant-parchment"
+siloPriority: 77
 ---Unlocking the City of David: a Journey Through Biblical is an area of archaeological investigation that has yielded significant findings about the ancient world.
 
 This topic is part of our [research on archaeological excavations](/research/excavations).
@@ -162,7 +166,10 @@ By understanding these connections and insights, you cultivate a richer apprecia
 
 Explore these related articles for deeper study:
 
-- [Unlocking Biblical Secrets: a Scientific Journey Into](/research/biblical-archaeology/scientific-analysis-of-temple-artifacts-and-biblical-insights)
+- [Exploring Ancient Jericho City Gate: Its Historical](/research/excavations/jericho-city-gate-the-significance-of-the-renewed-covenant-parchment)
+- [Unlocking Biblical Mysteries: how Radiocarbon Dating](/research/excavations/radiocarbon-dating-validates-biblical-site-discoveries)
+- [Lost Biblical City Found: Ancient Life Revealed](/research/excavations/lost-biblical-city-found-ancient-life-revealed)
+- [Lost Biblical City Found: Ancient Fortress Reveals new Story](/research/excavations/lost-biblical-city-found-ancient-fortress-reveals-new-story)
 
 ## Frequently Asked Questions
 
@@ -177,4 +184,3 @@ As the oldest part of Jerusalem, this area was the original settlement founded b
 ### Why does unlocking the city of david: a journey through biblical matter for understanding the Bible?
 
 -  Spiritual Significance: Many theologians view the process of restoration as a reflection of Gods ongoing work in the world, reminiscent of spiritual rebirth and redemption themes found throughout scripture. By examining the archaeological and historical background, readers gain a more grounded perspective on the people, places, and events described in scripture.
-

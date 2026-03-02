@@ -11,6 +11,10 @@ imageAlt: "scroll, feather, ink, caligraphy, hebrew, writing, characters, paper,
 imageCredit: "Image by zofiaEliyahu on Pixabay"
 imageWidth: 1280
 imageHeight: 859
+siloTier: "support"
+siloCluster: "first-bible"
+siloParent: "/research/scripture"
+siloPriority: 59
 ---Who Made the First Bible in the World? refers to a subject within biblical manuscript studies that scholars continue to investigate.
 
 This topic is part of our [research on biblical scripture studies](/research/scripture).
@@ -63,6 +67,8 @@ Modern scholars continue to study the Bible not only for its religious significa
 Explore these related articles for deeper study:
 
 - [Is the Ethiopian Bible the First Bible?](/research/scripture/is-the-ethiopian-bible-the-first-bible)
+- [Where was the First Bible Found?](/research/scripture/where-was-the-first-bible-found)
+- [Which Bible is the Oldest in the World?](/research/scripture/which-bible-is-the-oldest-in-the-world)
 - [Was the First Bible Found in Ethiopia?](/research/scripture/was-the-first-bible-found-in-ethiopia)
 
 ## Frequently Asked Questions
@@ -84,4 +90,3 @@ Ancient creators and contributors of the Bible played pivotal roles in shaping t
 Historical Context of Bible Creation
 
 Within the historical context of Bible creation, multiple authors from diverse backgrounds contributed to the compilation of the foundational texts of Western Christianity over centuries. By examining the archaeological and historical background, readers gain a more grounded perspective on the people, places, and events described in scripture.
-

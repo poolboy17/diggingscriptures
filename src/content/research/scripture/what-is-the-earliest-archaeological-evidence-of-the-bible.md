@@ -11,6 +11,10 @@ imageAlt: "a book, antiquariat, old books, used books, old, literature, worn, se
 imageCredit: "Image by ulleo on Pixabay"
 imageWidth: 1280
 imageHeight: 783
+siloTier: "support"
+siloCluster: "archaeological-evidence"
+siloParent: "/research/scripture"
+siloPriority: 74
 ---What is the Earliest Archaeological Evidence of the Bible? refers to a subject within biblical manuscript studies that scholars continue to investigate.
 
 This topic is part of our [research on biblical scripture studies](/research/scripture).
@@ -72,7 +76,10 @@ The Zakkur Stele's connection to Hazael sheds light on the political landscape o
 
 Explore these related articles for deeper study:
 
+- [What Language was the old Testament Written In?](/research/scripture/what-language-was-the-old-testament-written-in)
+- [What is the Oldest Archaeological Evidence of the Bible?](/research/scripture/what-is-the-oldest-archaeological-evidence-of-the-bible)
 - [Are There any Archaeological Evidence of the Bible?](/research/scripture/are-there-any-archaeological-evidence-of-the-bible)
+- [How Many Different Versions of the Bible are There?](/research/scripture/how-many-different-versions-of-the-bible-are-there)
 
 ## Frequently Asked Questions
 
@@ -91,4 +98,3 @@ Early Canaanite inscriptions, showcasing the development of written language in 
 Early Canaanite Inscriptions
 
 Early Canaanite inscriptions, showcasing the development of written language in ancient Canaan, offer significant insights into the biblical period through alphabetic writing. By examining the archaeological and historical background, readers gain a more grounded perspective on the people, places, and events described in scripture.
-

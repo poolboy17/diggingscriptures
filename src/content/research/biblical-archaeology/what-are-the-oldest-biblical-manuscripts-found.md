@@ -11,6 +11,10 @@ imageAlt: "pottery shard, clay pot, shard, burning clay, craft, burma, myanmar"
 imageCredit: "Image by thomaspedrazzoli on Pixabay"
 imageWidth: 1280
 imageHeight: 1280
+siloTier: "support"
+siloCluster: "biblical-archaeological"
+siloParent: "/research/biblical-archaeology/the-unearthing-of-ancient-temples-a-biblical-archaeological-expedition"
+siloPriority: 10
 ---In the vast tapestry of ancient texts, the quest to uncover the oldest biblical manuscripts is akin to unraveling layers of history. The Nash Papyrus and the Dead Sea Scrolls offer glimpses into the distant past, shedding light on the evolution of biblical texts.
 
 This topic is part of our [research on biblical archaeology](/research/biblical-archaeology).
@@ -66,7 +70,10 @@ Moving on to the New Covenant, the oldest fragment is P52, known as the John Ryl
 
 Explore these related articles for deeper study:
 
-- [What is the Oldest Biblical Artifact Ever Found?](/research/artifacts/what-is-the-oldest-biblical-artifact-ever-found)
+- [The Unearthing of Ancient Temples: a Biblical Archaeological](/research/biblical-archaeology/the-unearthing-of-ancient-temples-a-biblical-archaeological-expedition)
+- [How Do Desert Fortresses Echo Resilience in Biblical Archaeology?](/research/biblical-archaeology/desert-fortress-the-laments-of-national-defeat-in-archaeological-context)
+- [Embracing the Future: new Technologies in Biblical Archaeology](/research/biblical-archaeology/embracing-the-future-new-technologies-in-biblical-archaeology)
+- [Exploring the Multidisciplinary Approach in Biblical Archaeology](/research/biblical-archaeology/exploring-the-multidisciplinary-approach-in-biblical-archaeology)
 
 ## Frequently Asked Questions
 
@@ -83,4 +90,3 @@ These scrolls, discovered in 1979-80, contain portions of the priestly Benedicti
 Silver Ketef Hinnom Scrolls
 
 Revealing another significant ancient discovery related to biblical texts, the Silver Ketef Hinnom Scrolls are two seventh-century B.C. By examining the archaeological and historical background, readers gain a more grounded perspective on the people, places, and events described in scripture.
-

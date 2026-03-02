@@ -11,6 +11,10 @@ imageAlt: "archaeology, excavation, sun sails, protection, sun protection, archa
 imageCredit: "Image by Efraimstochter on Pixabay"
 imageWidth: 1280
 imageHeight: 960
+siloTier: "pillar"
+siloCluster: "biblical-archaeological"
+siloParent: "/research/biblical-archaeology"
+siloPriority: 96
 ---The Unearthing of Ancient Temples: a Biblical Archaeological is a topic in biblical archaeology that connects ancient material evidence with scriptual narratives.
 
 This topic is part of our [research on biblical archaeology](/research/biblical-archaeology).
@@ -230,7 +234,10 @@ Researchers can also use social media and online platforms to foster interactive
 
 Explore these related articles for deeper study:
 
-- [Unearthing Ancient Temples: Biblical Secrets &](/research/faith/temple-construction-insights-biblical-and-archaeological-connections)
+- [Top 5 Historical Locations for Biblical Archaeological](/research/biblical-archaeology/top-5-historical-locations-for-biblical-archaeological-excavations)
+- [Unearthing the Ancient Food and Agriculture Practices Through](/research/biblical-archaeology/unearthing-the-ancient-food-and-agriculture-practices-through-biblical-archaeology)
+- [Unearthing the Engineering Marvels of Biblical Times](/research/biblical-archaeology/unearthing-the-engineering-marvels-of-biblical-times)
+- [Unearthing the Legacies: Prominent Women in Biblical Archaeology](/research/biblical-archaeology/unearthing-the-legacies-prominent-women-in-biblical-archaeology)
 
 ## Frequently Asked Questions
 
@@ -255,4 +262,3 @@ Preparation and Equipment
 Gathering Research Materials and Historical References
 
 Before setting off for excavation, thorough preparation is key. By examining the archaeological and historical background, readers gain a more grounded perspective on the people, places, and events described in scripture.
-

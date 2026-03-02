@@ -11,6 +11,10 @@ imageAlt: "valley of the kings, deir el-bahri, egypt, hatshepsut's mortuary temp
 imageCredit: "Image by RonPorter on Pixabay"
 imageWidth: 1280
 imageHeight: 853
+siloTier: "support"
+siloCluster: "impact-biblical"
+siloParent: "/research/excavations/exploring-the-environmental-impact-on-biblical-archaeology"
+siloPriority: 77
 ---The Political Power's Impact on Biblical Archaeology is an area of archaeological investigation that has yielded significant findings about the ancient world.
 
 This topic is part of our [research on archaeological excavations](/research/excavations).
@@ -167,7 +171,9 @@ The revival of nationalistic narratives and controversial interpretations of his
 Explore these related articles for deeper study:
 
 - [Exploring the Environmental Impact on Biblical Archaeology](/research/excavations/exploring-the-environmental-impact-on-biblical-archaeology)
+- [Unveiling the Hidden Stories: the Impact of Biblical Archaeology](/research/excavations/unveiling-the-hidden-stories-the-impact-of-biblical-archaeology-on-modern-society)
 - [Exploring the Impact of Biblical Archaeology on Public Policy](/research/excavations/exploring-the-impact-of-biblical-archaeology-on-public-policy)
+- [Uncovering the Historical Significance: the Impact of Biblical](/research/excavations/uncovering-the-historical-significance-the-impact-of-biblical-archaeology)
 
 ## Frequently Asked Questions
 
@@ -190,4 +196,3 @@ International collaborations and joint excavations provide valuable opportunitie
 ### Why does political power's impact on biblical archaeology matter for understanding the Bible?
 
 The Political Power's Impact on Biblical Archaeology is an area of archaeological investigation that has yielded significant findings about the ancient world. By examining the archaeological and historical background, readers gain a more grounded perspective on the people, places, and events described in scripture.
-

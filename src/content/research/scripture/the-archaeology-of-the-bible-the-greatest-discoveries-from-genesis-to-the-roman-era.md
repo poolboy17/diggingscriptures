@@ -11,6 +11,10 @@ imageAlt: "writing, manuscript, letter, document, ancient, lyrics, feather, ink,
 imageCredit: "Image by makamuki0 on Pixabay"
 imageWidth: 1280
 imageHeight: 960
+siloTier: "support"
+siloCluster: "testament-books"
+siloParent: "/research/scripture/exploring-the-old-testament-through-a-cultural-lens"
+siloPriority: 59
 ---The Archaeology of the Bible: the Greatest Discoveries from refers to a subject within biblical manuscript studies that scholars continue to investigate.
 
 This topic is part of our [research on biblical scripture studies](/research/scripture).
@@ -186,6 +190,9 @@ The Codex Vaticanus, housed in the Vatican Library, is another ancient manuscrip
 
 Explore these related articles for deeper study:
 
+- [Exploring the old Testament Through a Cultural Lens](/research/scripture/exploring-the-old-testament-through-a-cultural-lens)
+- [What are the Contributions of Archaeology to the Bible?](/research/scripture/what-are-the-contributions-of-archaeology-to-the-bible)
+- [What is the Relationship Between the Bible and Archaeology?](/research/scripture/what-is-the-relationship-between-the-bible-and-archaeology)
 - [Has Archaeology Buried the Bible Review?](/research/scripture/has-archaeology-buried-the-bible-review)
 
 ## Frequently Asked Questions
@@ -203,4 +210,3 @@ In 1990, an ossuary (bone box) bearing the inscription "Joseph, son of Caiaphas"
 The Archaeology of the Bible: The Greatest Discoveries From Genesis to the Roman Era
 
 The Bible is a religious text that holds great significance for millions of people around the world. By examining the archaeological and historical background, readers gain a more grounded perspective on the people, places, and events described in scripture.
-

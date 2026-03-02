@@ -11,6 +11,10 @@ imageAlt: "mining excavator, electric, bucket wheel excavator, walking excavator
 imageCredit: "Image by xusenru on Pixabay"
 imageWidth: 1280
 imageHeight: 853
+siloTier: "support"
+siloCluster: "biblical-archaeology"
+siloParent: "/research/excavations/exploring-biblical-archaeology-unveiling-the-secrets-of-ancient-relics"
+siloPriority: 35
 ---The Impact of Technology on Biblical Archaeology: Preservation is an area of archaeological investigation that has yielded significant findings about the ancient world.
 
 This topic is part of our [research on archaeological excavations](/research/excavations).
@@ -126,8 +130,10 @@ Interactive exhibits will enable visitors to virtually handle and examine archae
 
 Explore these related articles for deeper study:
 
-- [Exploring the Impact of Technology in Biblical Archaeology](/research/biblical-archaeology/exploring-the-impact-of-technology-in-biblical-archaeology)
-- [Exploring the Environmental Impact on Biblical Archaeology](/research/excavations/exploring-the-environmental-impact-on-biblical-archaeology)
+- [Exploring Biblical Archaeology: Unveiling the Secrets of Ancient](/research/excavations/exploring-biblical-archaeology-unveiling-the-secrets-of-ancient-relics)
+- [Integrating Biblical Archaeology in Educational Curriculums](/research/excavations/integrating-biblical-archaeology-in-educational-curriculums)
+- [The Pioneers of Biblical Archaeology](/research/excavations/the-pioneers-of-biblical-archaeology)
+- [Unearthing the Past: the Fascination of Biblical Archaeology in](/research/excavations/unearthing-the-past-the-fascination-of-biblical-archaeology-in-tourism)
 
 ## Frequently Asked Questions
 
@@ -146,4 +152,3 @@ The Impact of Technology on Biblical Archaeology: Preservation is an area of arc
 Advancements in Digital Mapping
 
 One of the most significant technological advancements in biblical archaeology is the use of digital mapping tools. By examining the archaeological and historical background, readers gain a more grounded perspective on the people, places, and events described in scripture.
-

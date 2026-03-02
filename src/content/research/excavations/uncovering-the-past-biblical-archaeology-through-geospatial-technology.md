@@ -11,6 +11,10 @@ imageAlt: "egypt, temple, hieroglyphics, pharaoh, egyptian temple, travel, statu
 imageCredit: "Image by NadineDoerle on Pixabay"
 imageWidth: 1280
 imageHeight: 850
+siloTier: "support"
+siloCluster: "biblical-archaeology"
+siloParent: "/research/excavations/exploring-biblical-archaeology-unveiling-the-secrets-of-ancient-relics"
+siloPriority: 62
 ---Uncovering the Past: Biblical Archaeology Through Geospatial is an area of archaeological investigation that has yielded significant findings about the ancient world.
 
 This topic is part of our [research on archaeological excavations](/research/excavations).
@@ -192,7 +196,10 @@ Through the analysis of spatial patterns, the excavation and documentation of si
 
 Explore these related articles for deeper study:
 
-- [Uncovering the Past: the Intersection of Biblical Archaeology](/research/biblical-archaeology/uncovering-the-past-the-intersection-of-biblical-archaeology-and-geography)
+- [Exploring Biblical Archaeology: Unveiling the Secrets of Ancient](/research/excavations/exploring-biblical-archaeology-unveiling-the-secrets-of-ancient-relics)
+- [Unearthing the Past: the Fascination of Biblical Archaeology in](/research/excavations/unearthing-the-past-the-fascination-of-biblical-archaeology-in-tourism)
+- [The Pioneers of Biblical Archaeology](/research/excavations/the-pioneers-of-biblical-archaeology)
+- [Unearthing the Secrets: key Findings of Biblical Archaeology](/research/excavations/unearthing-the-secrets-key-findings-of-biblical-archaeology)
 
 ## Frequently Asked Questions
 
@@ -209,4 +216,3 @@ Non-intrusive techniques are increasingly being used in biblical archaeology to 
 ### Why does uncovering the past: biblical archaeology through geospatial matter for understanding the Bible?
 
 Further excavations revealed the remains of a fortified city dating back to the time of King David. By examining the archaeological and historical background, readers gain a more grounded perspective on the people, places, and events described in scripture.
-

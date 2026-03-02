@@ -11,6 +11,10 @@ imageAlt: "castle, travel, architecture, outdoors, daytime, medieval, hill, land
 imageCredit: "Image by Pexels on Pixabay"
 imageWidth: 1280
 imageHeight: 853
+siloTier: "support"
+siloCluster: "ancient-jerusalem"
+siloParent: "/research/excavations/jerusalem-wall-niche-a-reflection-on-moral-warnings-for-corrupt-authority"
+siloPriority: 68
 ---Unearthing Ancient Jerusalem: Secrets of the Prophetic Exile is an area of archaeological investigation that has yielded significant findings about the ancient world.
 
 This topic is part of our [research on archaeological excavations](/research/excavations).
@@ -114,7 +118,10 @@ In this journey, may the echoes of the past guide your path, as you reflect on h
 
 Explore these related articles for deeper study:
 
-- [Discover Ancient Jerusalem: Unveiling Biblical Secrets In](/research/excavations/archaeological-maps-of-ancient-jerusalem-unveiled)
+- [Unearthed Testament: Jerusalem Walls Powerful Message](/research/excavations/jerusalem-wall-niche-a-reflection-on-moral-warnings-for-corrupt-authority)
+- [Unearthing Ancient Jerusalem: a Glimpse into First Temples](/research/excavations/biblical-archaeology-first-temple-period-market-discovery)
+- [Ancient Jerusalem Marketplace Near Temple Unveiled](/research/excavations/ancient-jerusalem-marketplace-near-temple-unveiled)
+- [Ancient Jerusalem: Unveiling the Commerce Center](/research/excavations/ancient-jerusalem-unveiling-the-commerce-center)
 
 ## Frequently Asked Questions
 
@@ -131,4 +138,3 @@ Discovered in Hezekiahs Tunnel, it details the construction of an underground aq
 ### Why does unearthing ancient jerusalem: secrets of the prophetic exile matter for understanding the Bible?
 
 Unearthing Ancient Jerusalem: Secrets of the Prophetic Exile is an area of archaeological investigation that has yielded significant findings about the ancient world. By examining the archaeological and historical background, readers gain a more grounded perspective on the people, places, and events described in scripture.
-

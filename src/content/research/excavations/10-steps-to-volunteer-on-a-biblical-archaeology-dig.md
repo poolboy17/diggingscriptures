@@ -11,6 +11,10 @@ imageAlt: "egypt, temple, hieroglyphics, pharaoh, egyptian temple, travel, statu
 imageCredit: "Image by NadineDoerle on Pixabay"
 imageWidth: 1280
 imageHeight: 850
+siloTier: "support"
+siloCluster: "biblical-archaeology"
+siloParent: "/research/excavations/exploring-biblical-archaeology-unveiling-the-secrets-of-ancient-relics"
+siloPriority: 47
 ---10 Steps to Volunteer on a Biblical Archaeology Dig is an area of archaeological investigation that has yielded significant findings about the ancient world.
 
 This topic is part of our [research on archaeological excavations](/research/excavations).
@@ -180,8 +184,10 @@ One of the most rewarding aspects of volunteering on a Biblical Archaeology dig 
 
 Explore these related articles for deeper study:
 
-- [Steps for Conducting a Proper Excavation in Biblical Archaeology](/research/biblical-archaeology/steps-for-conducting-a-proper-excavation-in-biblical-archaeology)
-- [Advancing Biblical Archaeology Through Remote Sensing](/research/excavations/advancing-biblical-archaeology-through-remote-sensing)
+- [Exploring Biblical Archaeology: Unveiling the Secrets of Ancient](/research/excavations/exploring-biblical-archaeology-unveiling-the-secrets-of-ancient-relics)
+- [The Pioneers of Biblical Archaeology](/research/excavations/the-pioneers-of-biblical-archaeology)
+- [Unearthing the Past: the Fascination of Biblical Archaeology in](/research/excavations/unearthing-the-past-the-fascination-of-biblical-archaeology-in-tourism)
+- [Unearthing the Secrets: key Findings of Biblical Archaeology](/research/excavations/unearthing-the-secrets-key-findings-of-biblical-archaeology)
 
 ## Frequently Asked Questions
 
@@ -200,4 +206,3 @@ The personal statement should highlight why the individual is interested in Bibl
 Touring the Site
 
 Before diving into the excavation work, volunteers will often have the opportunity to tour the dig site and gain an understanding of its layout and historical significance. By examining the archaeological and historical background, readers gain a more grounded perspective on the people, places, and events described in scripture.
-

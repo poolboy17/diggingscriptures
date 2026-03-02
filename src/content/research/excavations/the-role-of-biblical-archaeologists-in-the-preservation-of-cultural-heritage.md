@@ -11,6 +11,10 @@ imageAlt: "mountain, erosion, death valley, desert, dry, drought, rock formation
 imageCredit: "Image by jplenio on Pixabay"
 imageWidth: 1280
 imageHeight: 720
+siloTier: "support"
+siloCluster: "biblical-archaeologists"
+siloParent: "/research/excavations/unlocking-the-past-the-role-of-biblical-archaeologists-in-engaging-the-public"
+siloPriority: 50
 ---The Role of Biblical Archaeologists in the Preservation of is an area of archaeological investigation that has yielded significant findings about the ancient world.
 
 This topic is part of our [research on archaeological excavations](/research/excavations).
@@ -102,8 +106,10 @@ As the world evolves, so do the landscapes surrounding archaeological sites. Urb
 
 Explore these related articles for deeper study:
 
-- [Unearthing the Past: the Role of Biblical Archaeologists in](/research/excavations/unearthing-the-past-the-role-of-biblical-archaeologists-in-preserving-cultural-heritage)
 - [Unlocking the Past: the Role of Biblical Archaeologists in](/research/excavations/unlocking-the-past-the-role-of-biblical-archaeologists-in-engaging-the-public)
+- [Unearthing the Past: the Role of Biblical Archaeologists in](/research/excavations/unearthing-the-past-the-role-of-biblical-archaeologists-in-preserving-cultural-heritage)
+- [Discovering the Pioneers: Prominent Biblical Archaeologists](/research/excavations/discovering-the-pioneers-prominent-biblical-archaeologists)
+- [Top Excavation Sites for Biblical Archaeologists](/research/excavations/top-excavation-sites-for-biblical-archaeologists)
 
 ## Frequently Asked Questions
 
@@ -122,4 +128,3 @@ During the excavation process, biblical archaeologists unearth a wide range of a
 ### Why does role of biblical archaeologists in the preservation of matter for understanding the Bible?
 
 The Role of Biblical Archaeologists in the Preservation of is an area of archaeological investigation that has yielded significant findings about the ancient world. By examining the archaeological and historical background, readers gain a more grounded perspective on the people, places, and events described in scripture.
-

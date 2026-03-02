@@ -11,6 +11,10 @@ imageAlt: "museum, artifacts, antiquities, culture, history, vietnam, south east
 imageCredit: "Image by NguyenHoangThach on Pixabay"
 imageWidth: 1280
 imageHeight: 853
+siloTier: "support"
+siloCluster: "unlocking-ancient"
+siloParent: "/research/biblical-archaeology/uncharted-qumran-passage-a-journey-into-the-mysteries-of-the-dead-sea-scrolls"
+siloPriority: 59
 ---Unlocking Ancient Secrets: the Role of Coins in Biblical is a topic in biblical archaeology that connects ancient material evidence with scriptual narratives.
 
 This topic is part of our [research on biblical archaeology](/research/biblical-archaeology).
@@ -91,6 +95,9 @@ The scientific dating of biblical period coins is pivotal in enriching our under
 Explore these related articles for deeper study:
 
 - [Unlocking Biblical Secrets: A Deep Dive into Ancient Scrolls](/research/biblical-archaeology/uncharted-qumran-passage-a-journey-into-the-mysteries-of-the-dead-sea-scrolls)
+- [Unveiling Ancient Coins in Biblical Archaeology](/research/biblical-archaeology/unveiling-ancient-coins-in-biblical-archaeology)
+- [Unlocking Biblical Secrets: a Scientific Journey Into](/research/biblical-archaeology/scientific-analysis-of-temple-artifacts-and-biblical-insights)
+- [Unearth Secrets of Ancient Temples: a Journey into Biblical](/research/biblical-archaeology/biblical-archaeology-discovering-ancient-temple-sites)
 
 ## Frequently Asked Questions
 
@@ -109,4 +116,3 @@ Key discoveries have been made in areas consistent with biblical geography such 
 Recent Findings
  
 Recent archaeological excavations continue to unearth informative coin hoards. By examining the archaeological and historical background, readers gain a more grounded perspective on the people, places, and events described in scripture.
-

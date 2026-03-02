@@ -11,6 +11,10 @@ imageAlt: "mesopotamia, myth, mythology, history, landscape, ruins, anunnaki, su
 imageCredit: "Image by BenFishold on Pixabay"
 imageWidth: 1280
 imageHeight: 731
+siloTier: "support"
+siloCluster: "testament-themes"
+siloParent: "/research/scripture/comparing-old-testament-and-new-testament-themes"
+siloPriority: 56
 ---Understanding Jesus in the old Testament refers to a subject within biblical manuscript studies that scholars continue to investigate.
 
 This topic is part of our [research on biblical scripture studies](/research/scripture).
@@ -147,7 +151,10 @@ Understanding Jesus in the light of the Old Testament provides a holistic perspe
 
 Explore these related articles for deeper study:
 
+- [Comparing old Testament and new Testament Themes](/research/scripture/comparing-old-testament-and-new-testament-themes)
 - [Understanding the old Testament in Jesus's Time](/research/scripture/understanding-the-old-testament-in-jesuss-time)
+- [Understanding the Purpose of the old Testament](/research/scripture/understanding-the-purpose-of-the-old-testament)
+- [The Significance of the old Testament in Understanding the new](/research/scripture/the-significance-of-the-old-testament-in-understanding-the-new-testament)
 
 ## Frequently Asked Questions
 
@@ -166,4 +173,3 @@ The Old Testament encompasses a variety of literary genres, including history, l
 ### Why does understanding jesus in the old testament matter for understanding the Bible?
 
 Understanding these periods provides crucial context for understanding the prophecies and foreshadowing of Jesus found within the Old Testament. By examining the archaeological and historical background, readers gain a more grounded perspective on the people, places, and events described in scripture.
-

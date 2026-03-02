@@ -11,6 +11,10 @@ imageAlt: "jerusalem, historic center, city wall, dome of the rock, western wall
 imageCredit: "Image by Buecherwurm_65 on Pixabay"
 imageWidth: 1280
 imageHeight: 853
+siloTier: "support"
+siloCluster: "biblical-archaeology"
+siloParent: "/research/faith/the-infamous-relics-famous-fakes-and-forgeries-in-biblical-archaeology"
+siloPriority: 10
 ---Unearthed Ancient Scrolls: new Biblical Insights from Shepherd's is a theological subject that explores the intersection of faith traditions and historical evidence.
 
 This topic is part of our [research on faith and history](/research/faith).
@@ -99,8 +103,10 @@ The secrets held within those fragile pieces of parchment beckon you to reflect 
 
 Explore these related articles for deeper study:
 
-- [Decoding Ancient Technology: Insights from Biblical Archaeology](/research/faith/decoding-ancient-technology-insights-from-biblical-archaeology)
-- [Unlocking Biblical Secrets: A Deep Dive into Ancient Scrolls](/research/biblical-archaeology/uncharted-qumran-passage-a-journey-into-the-mysteries-of-the-dead-sea-scrolls)
+- [The Infamous Relics: Famous Fakes and Forgeries in Biblical](/research/faith/the-infamous-relics-famous-fakes-and-forgeries-in-biblical-archaeology)
+- [Uncovering Ancient Trading Networks Through Biblical Archaeology](/research/faith/uncovering-ancient-trading-networks-through-biblical-archaeology)
+- [Unearthed Secrets: Debunking Myths of Biblical Archaeology](/research/faith/unearthed-secrets-debunking-myths-of-biblical-archaeology)
+- [Exploring Ancient Languages Through Biblical Archaeology](/research/faith/exploring-ancient-languages-through-biblical-archaeology)
 
 ## Frequently Asked Questions
 
@@ -117,4 +123,3 @@ The textual remnants discovered here bear striking similarities to the famed Dea
 How Scrolls Like Those Found in Shepherds Cave Influence Modern Understanding
  
 As you contemplate the impact of these discoveries, consider the broader implications for your understanding of history, culture, and theology. By examining the archaeological and historical background, readers gain a more grounded perspective on the people, places, and events described in scripture.
-

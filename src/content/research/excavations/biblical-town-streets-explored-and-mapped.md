@@ -11,6 +11,10 @@ imageAlt: "ruin, landscape, heaven, castle, ruins, fantasy, nature, gothic, myst
 imageCredit: "Image by jusuf111 on Pixabay"
 imageWidth: 1280
 imageHeight: 853
+siloTier: "support"
+siloCluster: "reveals-ancient"
+siloParent: "/research/excavations/exploring-the-link-biblical-archaeology-and-the-dead-sea-scrolls"
+siloPriority: 56
 ---Biblical Town Streets Explored and Mapped is an area of archaeological investigation that has yielded significant findings about the ancient world.
 
 This topic is part of our [research on archaeological excavations](/research/excavations).
@@ -93,7 +97,10 @@ In summary, the exploration and mapping of biblical town streets offer a remarka
 
 Explore these related articles for deeper study:
 
+- [Exploring the Link: Biblical Archaeology and the Dead sea Scrolls](/research/excavations/exploring-the-link-biblical-archaeology-and-the-dead-sea-scrolls)
 - [Biblical Town Gateway Reveals Ancient Defense Systems](/research/excavations/biblical-town-gateway-reveals-ancient-defense-systems)
+- [Unlocking Secrets of Biblical Archaeology: the Dead sea Stone](/research/excavations/the-mystery-of-the-dead-sea-stone-inscription-unraveling-missing-jar-and-lost-texts)
+- [Discover Qumran: Unveiling Secrets of Biblical Archaeology](/research/excavations/qumrans-clay-jar-the-secrets-of-a-devoted-community)
 
 ## Frequently Asked Questions
 
@@ -112,4 +119,3 @@ Artifacts unearthed during recent excavations have ranged from simple household 
 ### Why does biblical town streets explored and mapped matter for understanding the Bible?
 
 Biblical Town Streets Explored and Mapped is an area of archaeological investigation that has yielded significant findings about the ancient world. By examining the archaeological and historical background, readers gain a more grounded perspective on the people, places, and events described in scripture.
-

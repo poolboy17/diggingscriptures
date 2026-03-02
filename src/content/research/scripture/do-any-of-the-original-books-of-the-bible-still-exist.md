@@ -11,6 +11,10 @@ imageAlt: "scroll, feather, ink, caligraphy, hebrew, writing, characters, paper,
 imageCredit: "Image by zofiaEliyahu on Pixabay"
 imageWidth: 1280
 imageHeight: 859
+siloTier: "support"
+siloCluster: "original-books"
+siloParent: "/research/scripture"
+siloPriority: 71
 ---Do any of the Original Books of the Bible Still Exist? refers to a subject within biblical manuscript studies that scholars continue to investigate.
 
 This topic is part of our [research on biblical scripture studies](/research/scripture).
@@ -67,7 +71,10 @@ Through the meticulous study of ancient manuscripts and the application of textu
 
 Explore these related articles for deeper study:
 
-- [Are the Original Books of the Bible Still in Existence?](/research/scripture/are-the-original-books-of-the-bible-still-in-existence)
+- [Where Were the Original Books of the Bible Found?](/research/scripture/where-were-the-original-books-of-the-bible-found)
+- [Have the Original Books of the Bible Been Found?](/research/scripture/have-the-original-books-of-the-bible-been-found)
+- [Does the Original Bible Still Exist?](/research/scripture/does-the-original-bible-still-exist)
+- [Where did the Original Books of the Bible Come From?](/research/scripture/where-did-the-original-books-of-the-bible-come-from)
 
 ## Frequently Asked Questions
 
@@ -82,4 +89,3 @@ The Dead Sea Scrolls, dating from the 5th century BC to the 1st century AD, are 
 ### Why does do any of the original books of the bible still exist? matter for understanding the Bible?
 
 The Ancient Scripture, a significant part of the Bible, was originally recorded on materials like papyrus and parchment that haven't survived the test of time. By examining the archaeological and historical background, readers gain a more grounded perspective on the people, places, and events described in scripture.
-

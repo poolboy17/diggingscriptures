@@ -11,6 +11,10 @@ imageAlt: "qumran national park, drone footage, aerial shot, archeology park, ca
 imageCredit: "Image by samirsmier on Pixabay"
 imageWidth: 1280
 imageHeight: 720
+siloTier: "support"
+siloCluster: "testament-books"
+siloParent: "/research/scripture/exploring-the-old-testament-through-a-cultural-lens"
+siloPriority: 44
 ---Brief Overview of the old Testament refers to a subject within biblical manuscript studies that scholars continue to investigate.
 
 This topic is part of our [research on biblical scripture studies](/research/scripture).
@@ -136,7 +140,10 @@ Moreover, the Old Testament offers valuable lessons for today's society. Its tea
 
 Explore these related articles for deeper study:
 
-- [Are all new Testament Books Written in Greek?](/research/scripture/are-all-new-testament-books-written-in-greek)
+- [Exploring the old Testament Through a Cultural Lens](/research/scripture/exploring-the-old-testament-through-a-cultural-lens)
+- [The Evolution of the old Testament: Tracing its Development and](/research/scripture/the-evolution-of-the-old-testament-tracing-its-development-and-canonization)
+- [The Formation of the new Testament: who Added it to the Bible?](/research/scripture/the-formation-of-the-new-testament-who-added-it-to-the-bible)
+- [When was the new Testament Actually Written?](/research/scripture/when-was-the-new-testament-actually-written)
 
 ## Frequently Asked Questions
 
@@ -156,4 +163,3 @@ The Mosaic Law, found primarily in the books of Exodus, Leviticus, Numbers, and 
 ### Why does brief overview of the old testament matter for understanding the Bible?
 
 In Christian worship and doctrine, the Old Testament provides context for understanding the foundations of faith. By examining the archaeological and historical background, readers gain a more grounded perspective on the people, places, and events described in scripture.
-

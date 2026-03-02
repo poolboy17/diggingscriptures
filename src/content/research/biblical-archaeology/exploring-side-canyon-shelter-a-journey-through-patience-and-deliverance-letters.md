@@ -11,6 +11,10 @@ imageAlt: "pottery shard, clay pot, shard, burning clay, craft, burma, myanmar"
 imageCredit: "Image by thomaspedrazzoli on Pixabay"
 imageWidth: 1280
 imageHeight: 1280
+siloTier: "support"
+siloCluster: "archaeology-excavation"
+siloParent: "/research/biblical-archaeology/preparing-for-fieldwork-strategies-and-techniques-in-biblical-archaeology"
+siloPriority: 71
 ---Unearthed Wisdom: Discovering Ancient Letters in Side Canyon is a topic in biblical archaeology that connects ancient material evidence with scriptual narratives.
 
 This topic is part of our [research on biblical archaeology](/research/biblical-archaeology).
@@ -171,8 +175,10 @@ As you turn the pages of your own story, may the whispers from Side Canyon Shelt
 
 Explore these related articles for deeper study:
 
-- [Discovering Ancient Israel: a Deep Dive into Biblical](/research/biblical-archaeology/biblical-archaeology-and-the-dead-sea-scrolls-in-israel)
-- [Discover Ancient Biblical Archaeology: Unveiling Wisdom](/research/biblical-archaeology/desert-plateau-slab-the-exiled-teachers-call-to-steadfastness)
+- [Preparing for Fieldwork: Strategies and Techniques in Biblical](/research/biblical-archaeology/preparing-for-fieldwork-strategies-and-techniques-in-biblical-archaeology)
+- [Unearthed: Ancient Israels Redemption Story in the Hidden](/research/biblical-archaeology/exploring-the-hidden-channel-vessel-israels-redemption-reaffirmed)
+- [Unearthed Secrets: How the Remote Hill Shrine Alters Biblical](/research/biblical-archaeology/exploring-the-remote-hill-shrine-relics-that-once-stood-beside-the-ark)
+- [Exploring the Ancient World: the Most Popular Excavation](/research/biblical-archaeology/exploring-the-ancient-world-the-most-popular-excavation-techniques-in-biblical-archaeology)
 
 ## Frequently Asked Questions
 
@@ -189,4 +195,3 @@ This shelter, found in various locations across the globe, mainly in the vast de
 Archaeological Insights: What the Dig Reveals
  
 In your imagination, what does the excavation of Side Canyon Shelter look like. By examining the archaeological and historical background, readers gain a more grounded perspective on the people, places, and events described in scripture.
-

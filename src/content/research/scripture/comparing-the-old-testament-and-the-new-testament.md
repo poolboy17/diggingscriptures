@@ -11,6 +11,10 @@ imageAlt: "mesopotamia, myth, mythology, history, landscape, ruins, anunnaki, su
 imageCredit: "Image by BenFishold on Pixabay"
 imageWidth: 1280
 imageHeight: 731
+siloTier: "support"
+siloCluster: "themes-testament"
+siloParent: "/research/scripture/contrasting-themes-in-the-old-testament-and-the-new-testament-4"
+siloPriority: 71
 ---Comparing the old Testament and the new Testament refers to a subject within biblical manuscript studies that scholars continue to investigate.
 
 This topic is part of our [research on biblical scripture studies](/research/scripture).
@@ -298,7 +302,10 @@ In essence, the teachings on ethics and morality in the Old Testament and the Ne
 
 Explore these related articles for deeper study:
 
-- [Comparing old Testament and new Testament Themes](/research/scripture/comparing-old-testament-and-new-testament-themes)
+- [Contrasting Themes in the old Testament and the new Testament](/research/scripture/contrasting-themes-in-the-old-testament-and-the-new-testament-4)
+- [Comparing the old Testament and the Torah](/research/scripture/comparing-the-old-testament-and-the-torah-2)
+- [Comparing Themes in the old Testament and the new Testament](/research/scripture/comparing-themes-in-the-old-testament-and-the-new-testament)
+- [Contrasting Worship in the old Testament and the new Testament](/research/scripture/contrasting-worship-in-the-old-testament-and-the-new-testament)
 
 ## Frequently Asked Questions
 
@@ -315,4 +322,3 @@ In the Old Testament, genres such as historical narratives can be found in books
 Analyzing how historical events influenced the content and themes
  
 Historical events exert a significant influence on the content and themes found within the Old and New Testaments. By examining the archaeological and historical background, readers gain a more grounded perspective on the people, places, and events described in scripture.
-

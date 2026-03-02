@@ -11,6 +11,10 @@ imageAlt: "jerusalem, israel, old town, walls, the rock temple, dome of the rock
 imageCredit: "Image by Walkerssk on Pixabay"
 imageWidth: 1280
 imageHeight: 493
+siloTier: "support"
+siloCluster: "biblical-archaeologist"
+siloParent: "/research/biblical-archaeology/exploring-the-key-responsibilities-of-a-biblical-archaeologist"
+siloPriority: 68
 ---Have you ever wondered if there is a degree in Biblical History?
 
 This topic is part of our [research on biblical archaeology](/research/biblical-archaeology).
@@ -78,7 +82,10 @@ Individuals pursuing a master's degree often engage in rigorous academic study, 
 
 Explore these related articles for deeper study:
 
-- [Unveiling Biblical History: how Advanced Imaging Decodes](/research/biblical-archaeology/advanced-imaging-illuminates-ancient-hebrew-texts)
+- [Exploring the key Responsibilities of a Biblical Archaeologist](/research/biblical-archaeology/exploring-the-key-responsibilities-of-a-biblical-archaeologist)
+- [Can you be an Archaeologist Without a Degree?](/research/biblical-archaeology/can-you-be-an-archaeologist-without-a-degree)
+- [Steps to Becoming a Biblical Archaeologist](/research/biblical-archaeology/steps-to-becoming-a-biblical-archaeologist)
+- [How do you Become a Biblical Archaeologist?](/research/biblical-archaeology/how-do-you-become-a-biblical-archaeologist)
 
 ## Frequently Asked Questions
 
@@ -93,4 +100,3 @@ Explore these related articles for deeper study:
 ### Why does is there a degree in biblical history? matter for understanding the Bible?
 
 program in Biblical History and Geography at Trinity Southwest University is designed to provide students with a thorough understanding of the historical and physical aspects of the land of the Bible. By examining the archaeological and historical background, readers gain a more grounded perspective on the people, places, and events described in scripture.
-

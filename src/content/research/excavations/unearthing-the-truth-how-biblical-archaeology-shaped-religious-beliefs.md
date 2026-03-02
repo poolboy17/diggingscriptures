@@ -11,6 +11,10 @@ imageAlt: "way, building, excavator, viaduct, road, cities, work, digging, build
 imageCredit: "Image by satynek on Pixabay"
 imageWidth: 1280
 imageHeight: 781
+siloTier: "support"
+siloCluster: "truth-biblical"
+siloParent: "/research/excavations/unearthing-the-truth-current-controversies-in-biblical-archaeology"
+siloPriority: 59
 ---Unearthing the Truth: how Biblical Archaeology Shaped Religious is an area of archaeological investigation that has yielded significant findings about the ancient world.
 
 This topic is part of our [research on archaeological excavations](/research/excavations).
@@ -126,7 +130,10 @@ Biblical Archaeology will continue to be of great importance in shaping religiou
 
 Explore these related articles for deeper study:
 
+- [Unearthing the Truth: Current Controversies in Biblical](/research/excavations/unearthing-the-truth-current-controversies-in-biblical-archaeology)
 - [Controversies in Biblical Archaeology: Unearthing the Truth](/research/excavations/controversies-in-biblical-archaeology-unearthing-the-truth)
+- [Unearthing the Truth: how Biblical Archaeology Unveils Ancient](/research/excavations/unearthing-the-truth-how-biblical-archaeology-unveils-ancient-laws-and-legal-systems)
+- [Unearthing the Truth: the Debate Over Authenticity in Biblical](/research/excavations/unearthing-the-truth-the-debate-over-authenticity-in-biblical-archaeology)
 
 ## Frequently Asked Questions
 
@@ -143,4 +150,3 @@ In addition to confirming the existence of known ancient cities, Biblical Archae
 ### Why does unearthing the truth: how biblical archaeology shaped religious matter for understanding the Bible?
 
 For example, excavations at Tel Dan in northern Israel revealed an ancient stele that mentions the "House of David," providing the first extra-biblical evidence of King David's dynasty. By examining the archaeological and historical background, readers gain a more grounded perspective on the people, places, and events described in scripture.
-

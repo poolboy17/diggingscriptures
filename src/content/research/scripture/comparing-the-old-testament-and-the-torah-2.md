@@ -11,6 +11,10 @@ imageAlt: "diary, ipad, write, blog, workplace, notebook, coffee mug, mockup, di
 imageCredit: "Image by Edar on Pixabay"
 imageWidth: 1280
 imageHeight: 960
+siloTier: "support"
+siloCluster: "themes-testament"
+siloParent: "/research/scripture/contrasting-themes-in-the-old-testament-and-the-new-testament-4"
+siloPriority: 77
 ---Comparing the old Testament and the Torah refers to a subject within biblical manuscript studies that scholars continue to investigate.
 
 This topic is part of our [research on biblical scripture studies](/research/scripture).
@@ -484,7 +488,10 @@ As individuals and communities engage with the Old Testament and the Torah, gain
 
 Explore these related articles for deeper study:
 
-- [Comparing old Testament and new Testament Themes](/research/scripture/comparing-old-testament-and-new-testament-themes)
+- [Contrasting Themes in the old Testament and the new Testament](/research/scripture/contrasting-themes-in-the-old-testament-and-the-new-testament-4)
+- [Comparing the old Testament and the new Testament](/research/scripture/comparing-the-old-testament-and-the-new-testament)
+- [Comparing Themes in the old Testament and the new Testament](/research/scripture/comparing-themes-in-the-old-testament-and-the-new-testament)
+- [Exploring the Worship in the new Testament](/research/scripture/exploring-the-worship-in-the-new-testament)
 
 ## Frequently Asked Questions
 
@@ -501,4 +508,3 @@ In Judaism, the Torah is the holiest scripture and forms the foundation of relig
 Identifying major themes in the Torah
  
 As the foundational text within Judaism, the Torah focuses on several key themes that shape Jewish identity and religious practice. By examining the archaeological and historical background, readers gain a more grounded perspective on the people, places, and events described in scripture.
-

@@ -11,6 +11,10 @@ imageAlt: "postage stamps, mail, weathering, brand, hobby, seal, letters, stamp,
 imageCredit: "Image by pasja1000 on Pixabay"
 imageWidth: 1280
 imageHeight: 914
+siloTier: "support"
+siloCluster: "sheds-light"
+siloParent: "/research/artifacts/qumrans-empty-cave-unveiling-the-kindness-manifestos-in-fragments"
+siloPriority: 29
 ---Temple Artifacts Reveal Ancient Worship Practices refers to ancient material remains that provide physical evidence for understanding biblical history.
 
 This topic is part of our [research on ancient artifacts](/research/artifacts).
@@ -91,7 +95,10 @@ In summary, temple artifacts serve as vital links to the past, offering substant
 
 Explore these related articles for deeper study:
 
-- [Temple Objects Reveal Ancient Ritual Practices](/research/faith/temple-objects-reveal-ancient-ritual-practices)
+- [Unearthing Kindness Lessons in Qumran's Ancient Scroll: a](/research/artifacts/qumrans-empty-cave-unveiling-the-kindness-manifestos-in-fragments)
+- [The Evolution of Temple Worship Artifacts](/research/artifacts/the-evolution-of-temple-worship-artifacts)
+- [Unveiling Temple Greed: The Ancient Scroll of the Battered](/research/artifacts/battered-column-chest-a-scroll-unveiling-temple-greed)
+- [Analyzing the Temple Blueprint Scroll: Divine Mysteries of the](/research/artifacts/the-temple-blueprint-scroll-unveiling-the-arks-golden-overlay)
 
 ## Frequently Asked Questions
 
@@ -110,4 +117,3 @@ Artifacts have been discovered in locations such as Jerusalem, Petra, and Luxor,
 Research Status
  
 Research into temple artifacts is ongoing, with new discoveries continuously refining our understanding. By examining the archaeological and historical background, readers gain a more grounded perspective on the people, places, and events described in scripture.
-

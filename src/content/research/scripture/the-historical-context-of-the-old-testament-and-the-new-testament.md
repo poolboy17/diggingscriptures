@@ -11,6 +11,10 @@ imageAlt: "scroll, feather, ink, caligraphy, hebrew, writing, characters, paper,
 imageCredit: "Image by zofiaEliyahu on Pixabay"
 imageWidth: 1280
 imageHeight: 859
+siloTier: "support"
+siloCluster: "testament-testament"
+siloParent: "/research/scripture/why-is-it-called-old-testament-and-new-testament"
+siloPriority: 71
 ---The Historical Context of the old Testament and the new Testament refers to a subject within biblical manuscript studies that scholars continue to investigate.
 
 This topic is part of our [research on biblical scripture studies](/research/scripture).
@@ -193,7 +197,10 @@ The Bible holds a central role as a religious text in Christian faith, serving a
 
 Explore these related articles for deeper study:
 
-- [The Historical Accuracy of the new Testament](/research/scripture/the-historical-accuracy-of-the-new-testament)
+- [Why is it Called old Testament and new Testament?](/research/scripture/why-is-it-called-old-testament-and-new-testament)
+- [The Influence of Cultural Context on old Testament Narratives](/research/scripture/the-influence-of-cultural-context-on-old-testament-narratives)
+- [The Connection Between the old Testament and the new Testament](/research/scripture/the-connection-between-the-old-testament-and-the-new-testament)
+- [What is the old Testament Called?](/research/scripture/what-is-the-old-testament-called)
 
 ## Frequently Asked Questions
 
@@ -208,4 +215,3 @@ One notable comparison is the Ten Commandments found in Exodus 20 of the Old Tes
 ### Why does historical context of the old testament and the new testament matter for understanding the Bible?
 
 The identification and analysis of messianic prophecies in the Old Testament provide a crucial foundation for understanding Jesus' role as the long-awaited Messiah in the New Testament. By examining the archaeological and historical background, readers gain a more grounded perspective on the people, places, and events described in scripture.
-

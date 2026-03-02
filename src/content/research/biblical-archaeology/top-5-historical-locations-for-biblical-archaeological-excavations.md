@@ -11,6 +11,10 @@ imageAlt: "temple, jupiter, roman, antique, column, architecture, ancient, stone
 imageCredit: "Image by djedj on Pixabay"
 imageWidth: 1280
 imageHeight: 854
+siloTier: "support"
+siloCluster: "biblical-archaeological"
+siloParent: "/research/biblical-archaeology/the-unearthing-of-ancient-temples-a-biblical-archaeological-expedition"
+siloPriority: 10
 ---Top 5 Historical Locations for Biblical Archaeological is a topic in biblical archaeology that connects ancient material evidence with scriptual narratives.
 
 This topic is part of our [research on biblical archaeology](/research/biblical-archaeology).
@@ -86,6 +90,9 @@ Shechem, a city mentioned frequently in the Bible, is located in the present-day
 
 Explore these related articles for deeper study:
 
+- [The Unearthing of Ancient Temples: a Biblical Archaeological](/research/biblical-archaeology/the-unearthing-of-ancient-temples-a-biblical-archaeological-expedition)
+- [The Role of Statistical Analysis in Biblical Archaeological](/research/biblical-archaeology/the-role-of-statistical-analysis-in-biblical-archaeological-research)
+- [Preserving Biblical Archaeological Sites: Best Practices Revealed](/research/biblical-archaeology/preserving-biblical-archaeological-sites-best-practices-revealed)
 - [10 Must-Visit Biblical Archaeological Sites](/research/biblical-archaeology/10-must-visit-biblical-archaeological-sites)
 
 ## Frequently Asked Questions
@@ -101,4 +108,3 @@ The Megiddo Archaeological Park is an important site for biblical archaeological
 ### Why does top 5 historical locations for biblical archaeological matter for understanding the Bible?
 
 The Tel Balata Archaeological Site, commonly known as Jacob's Well, is an important excavation site. By examining the archaeological and historical background, readers gain a more grounded perspective on the people, places, and events described in scripture.
-

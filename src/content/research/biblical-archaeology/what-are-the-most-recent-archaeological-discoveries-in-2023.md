@@ -11,6 +11,10 @@ imageAlt: "jordan, petra, camels, dromedary, nature, desert, tourism"
 imageCredit: "Image by mikaelthunberg on Pixabay"
 imageWidth: 1280
 imageHeight: 854
+siloTier: "support"
+siloCluster: "biblical-archaeological"
+siloParent: "/research/biblical-archaeology/the-unearthing-of-ancient-temples-a-biblical-archaeological-expedition"
+siloPriority: 10
 ---What are the Most Recent Archaeological Discoveries in 2023? is a topic in biblical archaeology that connects ancient material evidence with scriptual narratives.
 
 This topic is part of our [research on biblical archaeology](/research/biblical-archaeology).
@@ -71,8 +75,10 @@ Tool TypeFunctionSignificanceStone flakesButchering animalsDemonstrates early ho
 
 Explore these related articles for deeper study:
 
+- [The Unearthing of Ancient Temples: a Biblical Archaeological](/research/biblical-archaeology/the-unearthing-of-ancient-temples-a-biblical-archaeological-expedition)
 - [Recent Biblical Archaeological Discoveries Shed new Light on](/research/biblical-archaeology/recent-biblical-archaeological-discoveries-shed-new-light-on-ancient-mysteries)
 - [What is the Most Recent Archaeological Discovery 2023?](/research/biblical-archaeology/what-is-the-most-recent-archaeological-discovery-2023)
+- [Uncovering Nelson Glueck's Archaeological Legacy](/research/biblical-archaeology/uncovering-nelson-gluecks-archaeological-legacy)
 
 ## Frequently Asked Questions
 
@@ -87,4 +93,3 @@ The ancient human genome found in Spain provides important insights into the pop
 ### Why does are the most recent archaeological discoveries in 2023? matter for understanding the Bible?
 
 The ancient human genome found in Spain provides important insights into the population dynamics of the Iberian Peninsula during the Upper Paleolithic period. By examining the archaeological and historical background, readers gain a more grounded perspective on the people, places, and events described in scripture.
-

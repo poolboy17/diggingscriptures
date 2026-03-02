@@ -11,6 +11,10 @@ imageAlt: "pretty much, jerash, oval forum, roman, culture, story, historical, a
 imageCredit: "Image by ChiemSeherin on Pixabay"
 imageWidth: 1280
 imageHeight: 720
+siloTier: "support"
+siloCluster: "biblical-archaeological"
+siloParent: "/research/biblical-archaeology/the-unearthing-of-ancient-temples-a-biblical-archaeological-expedition"
+siloPriority: 10
 ---What is the Study of Biblical Archeology? is a topic in biblical archaeology that connects ancient material evidence with scriptual narratives.
 
 This topic is part of our [research on biblical archaeology](/research/biblical-archaeology).
@@ -78,7 +82,10 @@ In the field of biblical archaeology, scholars must tread carefully to ensure th
 
 Explore these related articles for deeper study:
 
+- [The Unearthing of Ancient Temples: a Biblical Archaeological](/research/biblical-archaeology/the-unearthing-of-ancient-temples-a-biblical-archaeological-expedition)
 - [What is the Course on Biblical Archeology?](/research/biblical-archaeology/what-is-the-course-on-biblical-archeology)
+- [How Do Desert Fortresses Echo Resilience in Biblical Archaeology?](/research/biblical-archaeology/desert-fortress-the-laments-of-national-defeat-in-archaeological-context)
+- [Embracing the Future: new Technologies in Biblical Archaeology](/research/biblical-archaeology/embracing-the-future-new-technologies-in-biblical-archaeology)
 
 ## Frequently Asked Questions
 
@@ -95,4 +102,3 @@ One of the significant contributions of biblical archaeology is exemplified thro
 Notable Discoveries in Biblical Archaeology
 
 Among the myriad archaeological excavations conducted in the domain of biblical studies, several notable discoveries have greatly enriched our understanding of ancient texts and historical contexts. By examining the archaeological and historical background, readers gain a more grounded perspective on the people, places, and events described in scripture.
-

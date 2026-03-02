@@ -11,6 +11,10 @@ imageAlt: "bible, book, highlighter, pages, text, open, open book, open bible, h
 imageCredit: "Image by Pexels on Pixabay"
 imageWidth: 1280
 imageHeight: 961
+siloTier: "support"
+siloCluster: "first-bible"
+siloParent: "/research/scripture"
+siloPriority: 80
 ---Is the Ethiopian Bible the Oldest? refers to a subject within biblical manuscript studies that scholars continue to investigate.
 
 This topic is part of our [research on biblical scripture studies](/research/scripture).
@@ -69,7 +73,9 @@ Scholarly discussions on the Ethiopian Bible encompass a wide array of topics, i
 Explore these related articles for deeper study:
 
 - [Is the Ethiopian Bible the Oldest Bible?](/research/scripture/is-the-ethiopian-bible-the-oldest-bible)
-- [How Does the Ethiopian Bible Differ from the Bible?](/research/scripture/how-does-the-ethiopian-bible-differ-from-the-bible)
+- [Is the Ethiopian Bible the First Bible?](/research/scripture/is-the-ethiopian-bible-the-first-bible)
+- [Which Bible is the Oldest in the World?](/research/scripture/which-bible-is-the-oldest-in-the-world)
+- [Who Made the First Bible in the World?](/research/scripture/who-made-the-first-bible-in-the-world)
 
 ## Frequently Asked Questions
 
@@ -84,4 +90,3 @@ The Ethiopian Bible, also known as the Ge'ez Bible, differs from other versions 
 ### Why does is the ethiopian bible the oldest? matter for understanding the Bible?
 
 One of the most remarkable aspects of the Ethiopian Bible is the Garima Gospels, believed to be the oldest illustrated Christian manuscripts in the world. By examining the archaeological and historical background, readers gain a more grounded perspective on the people, places, and events described in scripture.
-

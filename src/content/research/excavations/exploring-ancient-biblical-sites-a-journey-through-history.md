@@ -11,6 +11,10 @@ imageAlt: "workshop, carpenter, crafts, artisan, drink, work, tool, vintage, wor
 imageCredit: "Image by ThMilherou on Pixabay"
 imageWidth: 1280
 imageHeight: 848
+siloTier: "support"
+siloCluster: "ancient-biblical"
+siloParent: "/research/excavations/unearthing-the-past-lessons-from-biblical-archaeology"
+siloPriority: 62
 ---Exploring Ancient Biblical Sites: a Journey Through History is an area of archaeological investigation that has yielded significant findings about the ancient world.
 
 This topic is part of our [research on archaeological excavations](/research/excavations).
@@ -153,7 +157,10 @@ Discover Notable Biblical Excavations Unearthed
 
 Explore these related articles for deeper study:
 
-- [Exploring Biblical Archaeology Methods in Ancient Sites](/research/biblical-archaeology/exploring-biblical-archaeology-methods-in-ancient-sites)
+- [Unearthing the Past: Lessons from Biblical Archaeology](/research/excavations/unearthing-the-past-lessons-from-biblical-archaeology)
+- [Unveiling Ancient Biblical Sites: a Fusion of Modern Tech &](/research/excavations/modern-methods-in-unearthing-biblical-structures)
+- [Unveiling Ancient Biblical Sites: how Lidar Revolutionizes](/research/excavations/lidar-technology-uncovers-biblical-archaeological-sites)
+- [Qumran Wadi Silt: a Window into Ancient Biblical Life and Lessons](/research/excavations/qumran-wadi-silt-and-the-book-of-jobs-righteous-resolve)
 
 ## Frequently Asked Questions
 
@@ -172,4 +179,3 @@ Historical Landmarks
 ### Why does exploring ancient biblical sites: a journey through history matter for understanding the Bible?
 
 Exploring Ancient Biblical Sites: a Journey Through History is an area of archaeological investigation that has yielded significant findings about the ancient world. By examining the archaeological and historical background, readers gain a more grounded perspective on the people, places, and events described in scripture.
-

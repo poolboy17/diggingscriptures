@@ -11,6 +11,10 @@ imageAlt: "streets, night, lights, circle, highways, top view, cityscape, aerial
 imageCredit: "Image by csliaw on Pixabay"
 imageWidth: 1280
 imageHeight: 960
+siloTier: "support"
+siloCluster: "truth-biblical"
+siloParent: "/research/excavations/unearthing-the-truth-current-controversies-in-biblical-archaeology"
+siloPriority: 65
 ---Uncovering the Truth: Exploring the Connection Between Biblical is an area of archaeological investigation that has yielded significant findings about the ancient world.
 
 This topic is part of our [research on archaeological excavations](/research/excavations).
@@ -160,7 +164,10 @@ Biblical archaeology serves as a bridge between the physical world of the past a
 
 Explore these related articles for deeper study:
 
-- [Exploring the Connection: Architecture and Biblical Archaeology](/research/excavations/exploring-the-connection-architecture-and-biblical-archaeology)
+- [Unearthing the Truth: Current Controversies in Biblical](/research/excavations/unearthing-the-truth-current-controversies-in-biblical-archaeology)
+- [Unearthing the Truth: the Debate Over Authenticity in Biblical](/research/excavations/unearthing-the-truth-the-debate-over-authenticity-in-biblical-archaeology)
+- [Controversies in Biblical Archaeology: Unearthing the Truth](/research/excavations/controversies-in-biblical-archaeology-unearthing-the-truth)
+- [Unearthing the Truth: how Biblical Archaeology Shaped Religious](/research/excavations/unearthing-the-truth-how-biblical-archaeology-shaped-religious-beliefs)
 
 ## Frequently Asked Questions
 
@@ -181,4 +188,3 @@ The discovery of biblical artifacts is one of the most fascinating aspects of bi
 ### Why does uncovering the truth: exploring the connection between biblical matter for understanding the Bible?
 
 Uncovering the Truth: Exploring the Connection Between Biblical is an area of archaeological investigation that has yielded significant findings about the ancient world. By examining the archaeological and historical background, readers gain a more grounded perspective on the people, places, and events described in scripture.
-

@@ -11,6 +11,10 @@ imageAlt: "girls, jewelry, shop, outdoors, women, window, showcase, glass case, 
 imageCredit: "Image by Surprising_Media on Pixabay"
 imageWidth: 1280
 imageHeight: 853
+siloTier: "support"
+siloCluster: "sheds-light"
+siloParent: "/research/artifacts/qumrans-empty-cave-unveiling-the-kindness-manifestos-in-fragments"
+siloPriority: 47
 ---Which Bible Verses Are Most Disputed By Variants refers to ancient material remains that provide physical evidence for understanding biblical history.
 
 This topic is part of our [research on ancient artifacts](/research/artifacts).
@@ -130,8 +134,10 @@ Visiting manuscript vaults and discussing findings with scholars brings a deeper
 
 Explore these related articles for deeper study:
 
-- [Could We Ever Find The 'Original Bible' Again?](/research/artifacts/could-we-ever-find-the-original-bible-again)
-- [Why Did Original Bible Autographs Vanish? Impact on Todays](/research/artifacts/how-and-why-the-original-bible-autographs-were-lost)
+- [Unearthing Kindness Lessons in Qumran's Ancient Scroll: a](/research/artifacts/qumrans-empty-cave-unveiling-the-kindness-manifestos-in-fragments)
+- [Was The Bible Originally Oral Tradition Or Text?](/research/artifacts/was-the-bible-originally-oral-tradition-or-text)
+- [What Is The UB's/NA Critical Edition Of The Bible](/research/artifacts/what-is-the-ubs-na-critical-edition-of-the-bible)
+- [Why Bible's Manuscripts Outnumber Many Histories](/research/artifacts/why-bibles-manuscripts-outnumber-many-histories)
 
 ## Frequently Asked Questions
 
@@ -148,4 +154,3 @@ Which Bible Verses Are Most Disputed By Variants refers to ancient material rema
 ### Why does which bible verses are most disputed by variants matter for understanding the Bible?
 
 Textual variants in the Bible are slight differences in wording found in various manuscript copies. By examining the archaeological and historical background, readers gain a more grounded perspective on the people, places, and events described in scripture.
-

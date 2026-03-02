@@ -11,6 +11,10 @@ imageAlt: "parthenon, monument, temple, greece, athens, acropolis, greek archite
 imageCredit: "Image by Nick115 on Pixabay"
 imageWidth: 1280
 imageHeight: 850
+siloTier: "support"
+siloCluster: "archaeology-reveals"
+siloParent: "/research/biblical-archaeology/unveiling-the-ancient-secrets-biblical-archaeology-reveals-the-origins-of-biblical-stories"
+siloPriority: 71
 ---Uncovering Ancient Secrets: Biblical Archaeology Reveals Shipwrecks
 
 This topic is part of our [research on biblical archaeology](/research/biblical-archaeology).
@@ -86,7 +90,10 @@ Biblical archaeology and the study of shipwrecks provide us with a fascinating w
 
 Explore these related articles for deeper study:
 
+- [Unveiling the Ancient Secrets: Biblical Archaeology Reveals the](/research/biblical-archaeology/unveiling-the-ancient-secrets-biblical-archaeology-reveals-the-origins-of-biblical-stories)
 - [Unearthing the Secrets: Biblical Archaeology Reveals Ancient](/research/biblical-archaeology/unearthing-the-secrets-biblical-archaeology-reveals-ancient-burial-practices)
+- [Unearthing Ancient Wisdom: How Biblical Archaeology Reveals](/research/biblical-archaeology/windstorm-in-judean-valley-a-call-for-moral-renewal)
+- [Biblical era Workshop Reveals Ancient Crafting Methods](/research/biblical-archaeology/biblical-era-workshop-reveals-ancient-crafting-methods)
 
 ## Frequently Asked Questions
 
@@ -103,4 +110,3 @@ Maritime archaeologists employ a variety of techniques to locate and excavate th
 Notable Shipwrecks: The Story of Noah's Ark
 
 One of the most well-known shipwrecks mentioned in the Bible is Noah's Ark. By examining the archaeological and historical background, readers gain a more grounded perspective on the people, places, and events described in scripture.
-

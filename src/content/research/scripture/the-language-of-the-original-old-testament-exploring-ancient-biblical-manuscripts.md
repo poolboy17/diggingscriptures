@@ -11,6 +11,10 @@ imageAlt: "paper, writing, old, antique, write, letter, text, retro, pages, hand
 imageCredit: "Image by Nile on Pixabay"
 imageWidth: 1280
 imageHeight: 783
+siloTier: "support"
+siloCluster: "language-testament"
+siloParent: "/research/scripture/exploring-the-language-of-the-old-testament"
+siloPriority: 56
 ---The Language of the Original old Testament: Exploring Ancient refers to a subject within biblical manuscript studies that scholars continue to investigate.
 
 This topic is part of our [research on biblical scripture studies](/research/scripture).
@@ -149,7 +153,10 @@ Studying the messianic prophecies of the Old Testament through the lens of the o
 
 Explore these related articles for deeper study:
 
+- [Exploring the Language of the old Testament](/research/scripture/exploring-the-language-of-the-old-testament)
 - [The Language of the old Testament: Exploring its Original Writing](/research/scripture/the-language-of-the-old-testament-exploring-its-original-writing)
+- [The Original Language of the new Testament](/research/scripture/the-original-language-of-the-new-testament)
+- [Understanding the Original Language of the new Testament](/research/scripture/understanding-the-original-language-of-the-new-testament)
 
 ## Frequently Asked Questions
 
@@ -168,4 +175,3 @@ The Old Testament holds great significance in the Christian faith, serving as th
 Significance of Old Testament in Christian faith
  
 For Christians, the Old Testament provides the foundation for understanding God's promises, the nature of sin, and the need for redemption. By examining the archaeological and historical background, readers gain a more grounded perspective on the people, places, and events described in scripture.
-

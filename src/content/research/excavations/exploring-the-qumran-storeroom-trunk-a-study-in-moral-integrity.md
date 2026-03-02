@@ -11,6 +11,10 @@ imageAlt: "streets, night, lights, circle, highways, top view, cityscape, aerial
 imageCredit: "Image by csliaw on Pixabay"
 imageWidth: 1280
 imageHeight: 960
+siloTier: "support"
+siloCluster: "discover-ancient"
+siloParent: "/research/excavations/exploring-the-qumran-workshop-ruins-a-quest-for-temple-artifacts"
+siloPriority: 68
 ---Discover Ancient Ethics: Qumran Storeroom's Timeless Lessons is an area of archaeological investigation that has yielded significant findings about the ancient world.
 
 This topic is part of our [research on archaeological excavations](/research/excavations).
@@ -162,7 +166,10 @@ So, what will you choose as you engage with your community and the world around 
 
 Explore these related articles for deeper study:
 
+- [Discover Ancient Temple Artifacts in Qumran: Secrets of](/research/excavations/exploring-the-qumran-workshop-ruins-a-quest-for-temple-artifacts)
 - [Discover Ancient Rituals: a Deep Dive into Qumran Stairway's](/research/excavations/exploring-the-mysteries-of-the-qumran-stairway-levitical-insights-in-the-sunken-room)
+- [Discover Ancient Biblical Archaeology Secrets in the Judean](/research/excavations/the-judean-desert-riverbed-a-ledger-of-an-exiled-people)
+- [Unlocking Ancient Secrets: How Qumran Scribes Preserved](/research/excavations/unveiling-qumran-sublevel-a-study-of-generational-text-preservation-methods)
 
 ## Frequently Asked Questions
 
@@ -183,4 +190,3 @@ Understanding Qumran
 A Brief Historical Context
  
 Nestled alongside the northwestern shore of the Dead Sea, Qumran was home to a mysterious sect often associated with the Essenes. By examining the archaeological and historical background, readers gain a more grounded perspective on the people, places, and events described in scripture.
-

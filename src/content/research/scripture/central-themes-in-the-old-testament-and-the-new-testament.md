@@ -11,6 +11,10 @@ imageAlt: "calligraphy, story, ink, feather, a book, vintage, old, wood, fairy t
 imageCredit: "Image by Ghinzo on Pixabay"
 imageWidth: 1280
 imageHeight: 853
+siloTier: "support"
+siloCluster: "themes-testament"
+siloParent: "/research/scripture/contrasting-themes-in-the-old-testament-and-the-new-testament-4"
+siloPriority: 68
 ---Central Themes in the old Testament and the new Testament refers to a subject within biblical manuscript studies that scholars continue to investigate.
 
 This topic is part of our [research on biblical scripture studies](/research/scripture).
@@ -165,7 +169,10 @@ Analyzing the role and significance of these figures allows us to see the interc
 
 Explore these related articles for deeper study:
 
-- [Understanding the old Testament's Central Themes](/research/faith/understanding-the-old-testaments-central-themes)
+- [Contrasting Themes in the old Testament and the new Testament](/research/scripture/contrasting-themes-in-the-old-testament-and-the-new-testament-4)
+- [Comparing Themes in the old Testament and the new Testament](/research/scripture/comparing-themes-in-the-old-testament-and-the-new-testament)
+- [Comparing the old Testament and the new Testament](/research/scripture/comparing-the-old-testament-and-the-new-testament)
+- [Comparing the old Testament and the Torah](/research/scripture/comparing-the-old-testament-and-the-torah-2)
 
 ## Frequently Asked Questions
 
@@ -180,4 +187,3 @@ With her expertise guiding the way, readers are invited to embark on a journey t
 ### Why does central themes in the old testament and the new testament matter for understanding the Bible?
 
 Law is another important genre in the Old Testament, primarily found in the books of Exodus, Leviticus, Numbers, and Deuteronomy. By examining the archaeological and historical background, readers gain a more grounded perspective on the people, places, and events described in scripture.
-

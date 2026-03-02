@@ -11,6 +11,10 @@ imageAlt: "scroll, feather, ink, caligraphy, hebrew, writing, characters, paper,
 imageCredit: "Image by zofiaEliyahu on Pixabay"
 imageWidth: 1280
 imageHeight: 859
+siloTier: "support"
+siloCluster: "bible-located"
+siloParent: "/research/scripture"
+siloPriority: 77
 ---Many have pondered the elusive question of where the original Bible resides, but the answer is not as straightforward as one might hope. The journey of the original biblical manuscripts is a tale of dispersion and preservation, with fragments scattered across the globe in various institutions.
 
 This topic is part of our [research on biblical scripture studies](/research/scripture).
@@ -75,6 +79,9 @@ While the original manuscripts of the Bible aren't physically intact in a single
 Explore these related articles for deeper study:
 
 - [Where is the First Original Bible Located?](/research/scripture/where-is-the-first-original-bible-located)
+- [Where is the Oldest Version of the Bible Located?](/research/scripture/where-is-the-oldest-version-of-the-bible-located)
+- [Does the Original Bible Still Exist?](/research/scripture/does-the-original-bible-still-exist)
+- [The Original Language of the new Testament Bible](/research/scripture/the-original-language-of-the-new-testament-bible)
 
 ## Frequently Asked Questions
 
@@ -89,4 +96,3 @@ The Old Agreement, composed between 1400 BC and 400 BC, encompasses a collection
 ### Why does is the original bible located? matter for understanding the Bible?
 
 The Dead Sea Scrolls, found in the Israel Museum, are particularly significant as they contain early biblical texts that shed light on the ancient scriptures. By examining the archaeological and historical background, readers gain a more grounded perspective on the people, places, and events described in scripture.
-

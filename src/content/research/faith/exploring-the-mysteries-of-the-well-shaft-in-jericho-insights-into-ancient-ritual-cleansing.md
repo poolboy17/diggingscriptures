@@ -11,6 +11,10 @@ imageAlt: "masjid prophetic, medina, religion, muslim, islam, architectural, hz,
 imageCredit: "Image by Konevi on Pixabay"
 imageWidth: 1280
 imageHeight: 853
+siloTier: "support"
+siloCluster: "biblical-archaeological"
+siloParent: "/research/faith/the-uncovered-secrets-most-intriguing-biblical-archaeological-discoveries"
+siloPriority: 56
 ---Unveiling Jerichos Ancient Well: A Deep Dive into Ritual is a theological subject that explores the intersection of faith traditions and historical evidence.
 
 This topic is part of our [research on faith and history](/research/faith).
@@ -152,7 +156,10 @@ As you reflect on this ancient site, remember that its mysteries have much to te
 
 Explore these related articles for deeper study:
 
+- [The Uncovered Secrets: Most Intriguing Biblical Archaeological](/research/faith/the-uncovered-secrets-most-intriguing-biblical-archaeological-discoveries)
 - [Unveiling Ancient Sacred Crafts: a Deep Dive into Biblical](/research/faith/biblical-archaeology-unearths-ancient-sacred-crafts)
+- [Unveiling Biblical Archaeological Finds: Discovering Ancient](/research/faith/unveiling-biblical-archaeological-finds-discovering-ancient-treasures)
+- [Unveiling the Women of Ancient Societies: a Biblical](/research/faith/unveiling-the-women-of-ancient-societies-a-biblical-archaeological-perspective)
 
 ## Frequently Asked Questions
 
@@ -171,4 +178,3 @@ Unveiling Jerichos Ancient Well: A Deep Dive into Ritual is a theological subjec
 The Historical Context of Jericho
  
 Jericho is often deemed the oldest continuously inhabited city in the world, a title that comes with its fair share of myths and legends. By examining the archaeological and historical background, readers gain a more grounded perspective on the people, places, and events described in scripture.
-

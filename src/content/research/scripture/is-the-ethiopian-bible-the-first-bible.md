@@ -11,6 +11,10 @@ imageAlt: "desktop, laptop, crafts, still life, mockup, table, decoration, desig
 imageCredit: "Image by rawpixel on Pixabay"
 imageWidth: 1280
 imageHeight: 916
+siloTier: "support"
+siloCluster: "first-bible"
+siloParent: "/research/scripture"
+siloPriority: 68
 ---Is the Ethiopian Bible the First Bible? refers to a subject within biblical manuscript studies that scholars continue to investigate.
 
 This topic is part of our [research on biblical scripture studies](/research/scripture).
@@ -68,8 +72,10 @@ Some key points of debate include:
 
 Explore these related articles for deeper study:
 
-- [How Does the Ethiopian Bible Differ from the Bible?](/research/scripture/how-does-the-ethiopian-bible-differ-from-the-bible)
-- [Is Ethiopian Bible Accurate?: Scripture Studies](/research/scripture/is-ethiopian-bible-accurate)
+- [Where was the First Bible Found?](/research/scripture/where-was-the-first-bible-found)
+- [Is the Ethiopian Bible the Oldest?](/research/scripture/is-the-ethiopian-bible-the-oldest)
+- [Was the First Bible Found in Ethiopia?](/research/scripture/was-the-first-bible-found-in-ethiopia)
+- [When was the First Bible Written and who Wrote It?](/research/scripture/when-was-the-first-bible-written-and-who-wrote-it)
 
 ## Frequently Asked Questions
 
@@ -84,4 +90,3 @@ The Ethiopian Bible's historical importance lies in its early compilation and th
 ### Why does is the ethiopian bible the first bible? matter for understanding the Bible?
 
 The Ethiopian Bible, also known as the Ge'ez Bible, stands out as one of the oldest complete Bibles globally, encompassing a unique compilation of texts not found in other traditional canons. By examining the archaeological and historical background, readers gain a more grounded perspective on the people, places, and events described in scripture.
-

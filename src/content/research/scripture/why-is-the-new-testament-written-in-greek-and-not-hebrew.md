@@ -11,6 +11,10 @@ imageAlt: "scroll, feather, ink, caligraphy, hebrew, writing, characters, paper,
 imageCredit: "Image by zofiaEliyahu on Pixabay"
 imageWidth: 1280
 imageHeight: 859
+siloTier: "support"
+siloCluster: "testament-books"
+siloParent: "/research/scripture/exploring-the-old-testament-through-a-cultural-lens"
+siloPriority: 47
 ---Have you ever wondered why the New Testament was written in Greek instead of Hebrew? It's a question that has fascinated theologians and biblical scholars for centuries. , we will explore the reasons behind this linguistic choice and examine into the implications it holds for our understanding of the scriptures. Join us as we embark on a journey to uncover the historical and cultural context that shaped the composition of the New Testament, and discover how language played a crucial role in conveying the teachings of Christianity.
 
 This topic is part of our [research on biblical scripture studies](/research/scripture).
@@ -168,7 +172,10 @@ The New Testament's initial composition in Greek set the stage for its translati
 
 Explore these related articles for deeper study:
 
+- [Exploring the old Testament Through a Cultural Lens](/research/scripture/exploring-the-old-testament-through-a-cultural-lens)
 - [Is the old Testament Written in Greek or Hebrew?](/research/scripture/is-the-old-testament-written-in-greek-or-hebrew)
+- [Was the Original new Testament Written in Greek or Hebrew?](/research/scripture/was-the-original-new-testament-written-in-greek-or-hebrew)
+- [The Significance of Greek and Hebrew in the new Testament](/research/scripture/the-significance-of-greek-and-hebrew-in-the-new-testament)
 
 ## Frequently Asked Questions
 
@@ -187,4 +194,3 @@ Historical context of the New Testament
 Cultural and political landscape during the New Testament era
  
 The New Testament was written during a period of significant cultural and political changes in the world. By examining the archaeological and historical background, readers gain a more grounded perspective on the people, places, and events described in scripture.
-

@@ -11,6 +11,10 @@ imageAlt: "temple, burma, wall, stone, figurines, cubby holes, ruins, attraction
 imageCredit: "Image by awenstrom on Pixabay"
 imageWidth: 1280
 imageHeight: 960
+siloTier: "support"
+siloCluster: "sheds-light"
+siloParent: "/research/artifacts/qumrans-empty-cave-unveiling-the-kindness-manifestos-in-fragments"
+siloPriority: 56
 ---New Evidence Sheds Light: The John Rylands Papyrus and its Gospel refers to ancient material remains that provide physical evidence for understanding biblical history.
 
 This topic is part of our [research on ancient artifacts](/research/artifacts).
@@ -124,8 +128,10 @@ As you continue reading, you'll uncover the vast array of information surroundin
 
 Explore these related articles for deeper study:
 
+- [Unearthing Kindness Lessons in Qumran's Ancient Scroll: a](/research/artifacts/qumrans-empty-cave-unveiling-the-kindness-manifestos-in-fragments)
 - [Deciphering the Gospel: John Rylands Papyrus and Early](/research/artifacts/the-john-rylands-papyrus-first-century-gospel-fragment-2)
 - [New Evidence Sheds Light: Tech-Enhanced Analysis of Ancient](/research/artifacts/are-any-original-bible-manuscripts-still-in-existence)
+- [Interpreting the First Bible: Archaeology Sheds Light on Ancient](/research/artifacts/what-do-people-mean-by-original-bible-explained)
 
 ## Frequently Asked Questions
 
@@ -140,4 +146,3 @@ Explore these related articles for deeper study:
 ### Why does new evidence sheds light: the john rylands papyrus and its gospel matter for understanding the Bible?
 
 Fast forward to 2025, and youll find that this fragment is still a subject of scholarly intrigue and public fascination. By examining the archaeological and historical background, readers gain a more grounded perspective on the people, places, and events described in scripture.
-

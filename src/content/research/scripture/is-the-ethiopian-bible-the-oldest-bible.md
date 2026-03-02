@@ -11,6 +11,10 @@ imageAlt: "crown, thorns, happy easter, love, cross, heart, bible, shadow, easte
 imageCredit: "Image by jclk8888 on Pixabay"
 imageWidth: 1280
 imageHeight: 853
+siloTier: "support"
+siloCluster: "first-bible"
+siloParent: "/research/scripture"
+siloPriority: 65
 ---Is the Ethiopian Bible the Oldest Bible? refers to a subject within biblical manuscript studies that scholars continue to investigate.
 
 This topic is part of our [research on biblical scripture studies](/research/scripture).
@@ -75,7 +79,9 @@ These points underscore the complexities and nuances surrounding the dating of t
 Explore these related articles for deeper study:
 
 - [Is the Ethiopian Bible the Oldest?](/research/scripture/is-the-ethiopian-bible-the-oldest)
-- [How Does the Ethiopian Bible Differ from the Bible?](/research/scripture/how-does-the-ethiopian-bible-differ-from-the-bible)
+- [Is the Ethiopian Bible the First Bible?](/research/scripture/is-the-ethiopian-bible-the-first-bible)
+- [Which Bible is the Oldest in the World?](/research/scripture/which-bible-is-the-oldest-in-the-world)
+- [Where was the First Bible Found?](/research/scripture/where-was-the-first-bible-found)
 
 ## Frequently Asked Questions
 
@@ -92,4 +98,3 @@ Demonstrating its profound historical significance, the Ethiopian Bible, written
 ### Why does is the ethiopian bible the oldest bible? matter for understanding the Bible?
 
 Is the Ethiopian Bible the Oldest Bible. By examining the archaeological and historical background, readers gain a more grounded perspective on the people, places, and events described in scripture.
-

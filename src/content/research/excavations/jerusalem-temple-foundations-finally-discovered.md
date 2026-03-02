@@ -11,6 +11,10 @@ imageAlt: "workers, construction, excavation, dig, building, construction worker
 imageCredit: "Image by planet_fox on Pixabay"
 imageWidth: 1280
 imageHeight: 853
+siloTier: "support"
+siloCluster: "temple-mount"
+siloParent: "/research/excavations/unveiling-the-hidden-secrets-the-latest-developments-in-biblical-archaeology-research"
+siloPriority: 71
 ---Jerusalem Temple Foundations Finally Discovered is an area of archaeological investigation that has yielded significant findings about the ancient world.
 
 This topic is part of our [research on archaeological excavations](/research/excavations).
@@ -91,7 +95,10 @@ For those intrigued by this discovery, it offers an opportunity to engage deeper
 
 Explore these related articles for deeper study:
 
+- [Unveiling the Hidden Secrets: the Latest Developments in](/research/excavations/unveiling-the-hidden-secrets-the-latest-developments-in-biblical-archaeology-research)
 - [Jerusalem Temple Construction Methods Finally Revealed](/research/excavations/jerusalem-temple-construction-methods-finally-revealed)
+- [Unraveling Ancient Jerusalem: a Deep Dive into the Temple](/research/excavations/ancient-jerusalem-street-reveals-temple-pilgrim-path)
+- [Temple Mount Chamber Network Finally Mapped](/research/excavations/temple-mount-chamber-network-finally-mapped)
 
 ## Frequently Asked Questions
 
@@ -108,4 +115,3 @@ Recent findings have brought to light the intriguing discovery of the Jerusalem 
 Physical Descriptions
  
 The foundations reveal an impressive architectural endeavor, characterized by meticulously cut stones that exhibit a level of craftsmanship befitting their divine purpose. By examining the archaeological and historical background, readers gain a more grounded perspective on the people, places, and events described in scripture.
-

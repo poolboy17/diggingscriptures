@@ -11,6 +11,10 @@ imageAlt: "city, aerial view, illuminated, city lights, cityscape, skyline, nigh
 imageCredit: "Image by Pexels on Pixabay"
 imageWidth: 1280
 imageHeight: 720
+siloTier: "support"
+siloCluster: "biblical-archaeologists"
+siloParent: "/research/excavations/unlocking-the-past-the-role-of-biblical-archaeologists-in-engaging-the-public"
+siloPriority: 62
 ---Exploring the Relationship Between Biblical Archaeologists and is an area of archaeological investigation that has yielded significant findings about the ancient world.
 
 This topic is part of our [research on archaeological excavations](/research/excavations).
@@ -116,7 +120,10 @@ Efforts should also continue to address the challenges faced by biblical archaeo
 
 Explore these related articles for deeper study:
 
+- [Unlocking the Past: the Role of Biblical Archaeologists in](/research/excavations/unlocking-the-past-the-role-of-biblical-archaeologists-in-engaging-the-public)
 - [Exploring the Significance: Biblical Archaeologists in Heritage](/research/excavations/exploring-the-significance-biblical-archaeologists-in-heritage-preservation)
+- [Exploring the Significance of Biblical Archaeologists in](/research/excavations/exploring-the-significance-of-biblical-archaeologists-in-unearthing-history)
+- [Discovering the Pioneers: Prominent Biblical Archaeologists](/research/excavations/discovering-the-pioneers-prominent-biblical-archaeologists)
 
 ## Frequently Asked Questions
 
@@ -133,4 +140,3 @@ As they excavate, analyze, and interpret these archaeological treasures, they al
 ### Why does exploring the relationship between biblical archaeologists and matter for understanding the Bible?
 
 As they excavate, analyze, and interpret these archaeological treasures, they also collaborate closely with conservation experts to ensure the long-term preservation of these valuable fragments of our collective heritage. By examining the archaeological and historical background, readers gain a more grounded perspective on the people, places, and events described in scripture.
-

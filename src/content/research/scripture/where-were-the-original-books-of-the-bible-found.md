@@ -11,6 +11,10 @@ imageAlt: "to learn, read, a book, literature, old, old book, to study, school, 
 imageCredit: "Image by garten-gg on Pixabay"
 imageWidth: 1280
 imageHeight: 884
+siloTier: "support"
+siloCluster: "original-books"
+siloParent: "/research/scripture"
+siloPriority: 77
 ---Where Were the Original Books of the Bible Found? refers to a subject within biblical manuscript studies that scholars continue to investigate.
 
 This topic is part of our [research on biblical scripture studies](/research/scripture).
@@ -73,6 +77,9 @@ Here are three significant historical translations and versions of the Bible:
 Explore these related articles for deeper study:
 
 - [Have the Original Books of the Bible Been Found?](/research/scripture/have-the-original-books-of-the-bible-been-found)
+- [Where did the Original Books of the Bible Come From?](/research/scripture/where-did-the-original-books-of-the-bible-come-from)
+- [Do any of the Original Books of the Bible Still Exist?](/research/scripture/do-any-of-the-original-books-of-the-bible-still-exist)
+- [Are the Original Books of the Bible Still in Existence?](/research/scripture/are-the-original-books-of-the-bible-still-in-existence)
 
 ## Frequently Asked Questions
 
@@ -87,4 +94,3 @@ Some of the original books of the Bible, like the Dead Sea Scrolls discovered in
 ### Why does were the original books of the bible found? matter for understanding the Bible?
 
 These ancient manuscripts have enabled scholars to compare existing biblical texts with the versions found in the Dead Sea Scrolls, leading to a better understanding of the evolution of the Bible. By examining the archaeological and historical background, readers gain a more grounded perspective on the people, places, and events described in scripture.
-

@@ -11,6 +11,10 @@ imageAlt: "manuscript, medieval, antique, paper, parchment, vintage, document, l
 imageCredit: "Image by V2Melody on Pixabay"
 imageWidth: 1280
 imageHeight: 854
+siloTier: "support"
+siloCluster: "testament-books"
+siloParent: "/research/scripture/exploring-the-old-testament-through-a-cultural-lens"
+siloPriority: 56
 ---In "Were the New Testament Books Written in Hebrew?" Anita Love, an esteemed authority on the relationship between Christianity's historical foundations and its contemporary relevance, explores the question surrounding the original language of the New Testament books. With a passion for investigating ancient biblical manuscripts, the authenticity of religious teachings, and the historical accuracy of scriptural events, Anita's extensive academic background in Theology and Religious Studies brings a nuanced perspective to this subject. Through her body of published work, she delves into the depths of Old Testament narratives, the role of cultural context in interpreting scriptures, and the divine inspiration that influenced the canonization process. With a commitment to embracing the diversity of Christian denominations, belief systems, and lifestyles, Anita's analysis of whether the New Testament books were written in Hebrew adds further dimension to the ongoing discourse in ecumenical circles.
 
 This topic is part of our [research on biblical scripture studies](/research/scripture).
@@ -172,7 +176,10 @@ The Greek New Testament is embedded in a specific cultural and historical contex
 
 Explore these related articles for deeper study:
 
+- [Exploring the old Testament Through a Cultural Lens](/research/scripture/exploring-the-old-testament-through-a-cultural-lens)
 - [Are all new Testament Books Written in Greek?](/research/scripture/are-all-new-testament-books-written-in-greek)
+- [Why is the new Testament Written in Greek and not Hebrew?](/research/scripture/why-is-the-new-testament-written-in-greek-and-not-hebrew)
+- [Old Testament Books Written in Aramaic](/research/scripture/old-testament-books-written-in-aramaic)
 
 ## Frequently Asked Questions
 
@@ -187,4 +194,3 @@ These Aramaic words and phrases add cultural and linguistic depth to the narrati
 ### Why does were the new testament books written in hebrew? matter for understanding the Bible?
 
 No known manuscripts or fragments of a Hebrew version of Matthew's Gospel have been discovered, and the early church fathers who mention this 'Hebrew Gospel' provide conflicting accounts and limited details. By examining the archaeological and historical background, readers gain a more grounded perspective on the people, places, and events described in scripture.
-

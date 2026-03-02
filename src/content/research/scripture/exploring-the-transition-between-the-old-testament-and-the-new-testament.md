@@ -11,6 +11,10 @@ imageAlt: "document, parchment, the middle ages, ducal, royal, history, old time
 imageCredit: "Image by Arcaion on Pixabay"
 imageWidth: 1280
 imageHeight: 854
+siloTier: "support"
+siloCluster: "testament-books"
+siloParent: "/research/scripture/exploring-the-old-testament-through-a-cultural-lens"
+siloPriority: 26
 ---Exploring the Transition Between the old Testament and the new refers to a subject within biblical manuscript studies that scholars continue to investigate.
 
 This topic is part of our [research on biblical scripture studies](/research/scripture).
@@ -69,8 +73,10 @@ Interpreting the ancient texts of the Old and New Testament requires a profound 
 
 Explore these related articles for deeper study:
 
+- [Exploring the old Testament Through a Cultural Lens](/research/scripture/exploring-the-old-testament-through-a-cultural-lens)
 - [Exploring the Authenticity of old Testament Manuscripts](/research/scripture/exploring-the-authenticity-of-old-testament-manuscripts)
-- [Exploring the Language of the old Testament](/research/scripture/exploring-the-language-of-the-old-testament)
+- [Brief Overview of the old Testament](/research/scripture/brief-overview-of-the-old-testament)
+- [How the old Testament got its Name?](/research/scripture/how-the-old-testament-got-its-name)
 
 ## Frequently Asked Questions
 
@@ -89,4 +95,3 @@ In order to fully grasp the messages contained within the Old and New Testament,
 Understanding the Historical Context
  
 To truly comprehend the messages conveyed within the Old and New Testament, it is imperative to consider the historical periods in which these texts were written. By examining the archaeological and historical background, readers gain a more grounded perspective on the people, places, and events described in scripture.
-

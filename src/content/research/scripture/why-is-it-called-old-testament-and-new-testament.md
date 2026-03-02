@@ -11,6 +11,10 @@ imageAlt: "document, parchment, the middle ages, ducal, royal, history, old time
 imageCredit: "Image by Arcaion on Pixabay"
 imageWidth: 1280
 imageHeight: 854
+siloTier: "pillar"
+siloCluster: "testament-testament"
+siloParent: "/research/scripture"
+siloPriority: 100
 ---Why is it Called old Testament and new Testament? refers to a subject within biblical manuscript studies that scholars continue to investigate.
 
 This topic is part of our [research on biblical scripture studies](/research/scripture).
@@ -373,7 +377,10 @@ These examples illustrate the influence of cultural context on the interpretatio
 
 Explore these related articles for deeper study:
 
+- [Why is the old Testament Called the old Testament?](/research/scripture/why-is-the-old-testament-called-the-old-testament)
+- [What is the Original new Testament Called?](/research/scripture/what-is-the-original-new-testament-called)
 - [What is the old Testament Called?](/research/scripture/what-is-the-old-testament-called)
+- [Connecting the old Testament and the new Testament](/research/scripture/connecting-the-old-testament-and-the-new-testament)
 
 ## Frequently Asked Questions
 
@@ -388,4 +395,3 @@ The "new" in the New Testament represents a continuation and fulfillment of the 
 ### Why does is it called old testament and new testament? matter for understanding the Bible?
 
 The genre of law, primarily found in the books of Exodus, Leviticus, Numbers, and Deuteronomy, contributes to the Old Testament's understanding of God's covenant with the Israelites and provides a framework for religious, ethical, and moral life. By examining the archaeological and historical background, readers gain a more grounded perspective on the people, places, and events described in scripture.
-

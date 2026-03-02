@@ -11,6 +11,10 @@ imageAlt: "book, manuscript, paper, ancient, manuscript, manuscript, manuscript,
 imageCredit: "Image by TonyPrats on Pixabay"
 imageWidth: 1280
 imageHeight: 850
+siloTier: "support"
+siloCluster: "testament-themes"
+siloParent: "/research/scripture/comparing-old-testament-and-new-testament-themes"
+siloPriority: 68
 ---The old Testament: Exploring Themes, Genres, and Historical refers to a subject within biblical manuscript studies that scholars continue to investigate.
 
 This topic is part of our [research on biblical scripture studies](/research/scripture).
@@ -227,7 +231,10 @@ Additionally, the Old Testament's rich imagery, poetry, and prophetic messages c
 
 Explore these related articles for deeper study:
 
+- [Comparing old Testament and new Testament Themes](/research/scripture/comparing-old-testament-and-new-testament-themes)
 - [Understanding the old Testament: Exploring Themes and Contexts](/research/scripture/understanding-the-old-testament-exploring-themes-and-contexts)
+- [Comparing the old Testament and new Testament Themes](/research/scripture/comparing-the-old-testament-and-new-testament-themes)
+- [The Translation of the old Testament: a Historical Perspective](/research/scripture/the-translation-of-the-old-testament-a-historical-perspective)
 
 ## Frequently Asked Questions
 
@@ -242,4 +249,3 @@ The Old Testament sets the foundation for the beliefs and practices of the Jewis
 ### Why does old testament: exploring themes, genres, and historical matter for understanding the Bible?
 
 The Old Testament lays the foundation for the teachings and events of the New Testament, providing the necessary historical and theological context. By examining the archaeological and historical background, readers gain a more grounded perspective on the people, places, and events described in scripture.
-

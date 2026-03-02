@@ -11,6 +11,10 @@ imageAlt: "diary, ipad, write, blog, workplace, notebook, coffee mug, mockup, di
 imageCredit: "Image by Edar on Pixabay"
 imageWidth: 1280
 imageHeight: 960
+siloTier: "support"
+siloCluster: "testament-themes"
+siloParent: "/research/scripture/comparing-old-testament-and-new-testament-themes"
+siloPriority: 53
 ---Understanding the old Testament: Exploring Themes and Contexts refers to a subject within biblical manuscript studies that scholars continue to investigate.
 
 This topic is part of our [research on biblical scripture studies](/research/scripture).
@@ -69,7 +73,10 @@ Overall, the composition and compilation of the Old Testament reflect the ancien
 
 Explore these related articles for deeper study:
 
+- [Comparing old Testament and new Testament Themes](/research/scripture/comparing-old-testament-and-new-testament-themes)
 - [The old Testament: Exploring Themes, Genres, and Historical](/research/scripture/the-old-testament-exploring-themes-genres-and-historical-contexts)
+- [Understanding the Purpose of the old Testament](/research/scripture/understanding-the-purpose-of-the-old-testament)
+- [Comparing the old Testament and new Testament Themes](/research/scripture/comparing-the-old-testament-and-new-testament-themes)
 
 ## Frequently Asked Questions
 
@@ -86,4 +93,3 @@ The Old Testament is a foundational religious text for both Judaism and Christia
 ### Why does understanding the old testament: exploring themes and contexts matter for understanding the Bible?
 
 By exploring these themes, readers gain a deeper understanding and appreciation of the rich tapestry that is the Old Testament. By examining the archaeological and historical background, readers gain a more grounded perspective on the people, places, and events described in scripture.
-

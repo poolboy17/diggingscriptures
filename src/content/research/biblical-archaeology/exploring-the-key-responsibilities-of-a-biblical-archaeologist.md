@@ -11,6 +11,10 @@ imageAlt: "egypt, temple, hieroglyphics, pharaoh, egyptian temple, travel, statu
 imageCredit: "Image by NadineDoerle on Pixabay"
 imageWidth: 1280
 imageHeight: 850
+siloTier: "pillar"
+siloCluster: "biblical-archaeologist"
+siloParent: "/research/biblical-archaeology"
+siloPriority: 97
 ---Exploring the key Responsibilities of a Biblical Archaeologist is a topic in biblical archaeology that connects ancient material evidence with scriptual narratives.
 
 This topic is part of our [research on biblical archaeology](/research/biblical-archaeology).
@@ -246,8 +250,10 @@ As scholars and researchers, biblical archaeologists have a responsibility to co
 
 Explore these related articles for deeper study:
 
-- [Exploring Biblical Archaeology Discoveries](/research/biblical-archaeology/exploring-biblical-archaeology-discoveries)
-- [Exploring Biblical Archaeology Methods in Ancient Sites](/research/biblical-archaeology/exploring-biblical-archaeology-methods-in-ancient-sites)
+- [Exploring the key Discoveries of Archaeologist Kathleen Kenyon](/research/biblical-archaeology/exploring-the-key-discoveries-of-archaeologist-kathleen-kenyon)
+- [How do you Become a Biblical Archaeologist?](/research/biblical-archaeology/how-do-you-become-a-biblical-archaeologist)
+- [Steps to Becoming a Biblical Archaeologist](/research/biblical-archaeology/steps-to-becoming-a-biblical-archaeologist)
+- [Can you be an Archaeologist Without a Degree?](/research/biblical-archaeology/can-you-be-an-archaeologist-without-a-degree)
 
 ## Frequently Asked Questions
 
@@ -274,4 +280,3 @@ Archaeological Survey
 Conducting site surveys and landscape analysis
 
 Before engaging in excavation, biblical archaeologists must conduct site surveys and landscape analysis. By examining the archaeological and historical background, readers gain a more grounded perspective on the people, places, and events described in scripture.
-

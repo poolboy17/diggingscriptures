@@ -11,6 +11,10 @@ imageAlt: "parthenon, monument, temple, greece, athens, acropolis, greek archite
 imageCredit: "Image by Nick115 on Pixabay"
 imageWidth: 1280
 imageHeight: 850
+siloTier: "pillar"
+siloCluster: "archaeology-ancient"
+siloParent: "/research/biblical-archaeology"
+siloPriority: 97
 ---Exploring Biblical Archaeology: Uncovering Ancient Sites is a topic in biblical archaeology that connects ancient material evidence with scriptual narratives.
 
 This topic is part of our [research on biblical archaeology](/research/biblical-archaeology).
@@ -232,7 +236,10 @@ The preservation and interpretation of the past are integral to the mission of b
 
 Explore these related articles for deeper study:
 
-- [Exploring Biblical Archaeology Methods in Ancient Sites](/research/biblical-archaeology/exploring-biblical-archaeology-methods-in-ancient-sites)
+- [Exploring the Link Between Biblical Archaeology and Ancient](/research/biblical-archaeology/exploring-the-link-between-biblical-archaeology-and-ancient-clothing)
+- [Biblical Archaeology: Uncovering Ancient Maritime Routes](/research/biblical-archaeology/biblical-archaeology-uncovering-ancient-maritime-routes)
+- [Uncovering the Secrets: Biblical Archaeology and its Connection](/research/biblical-archaeology/uncovering-the-secrets-biblical-archaeology-and-its-connection-to-biblical-texts)
+- [Explore Biblical Archaeology: Unveiling Ancient Secrets in the](/research/biblical-archaeology/ravine-echoes-a-journey-through-festival-music-in-a-desert-shrine)
 
 ## Frequently Asked Questions
 
@@ -247,4 +254,3 @@ In "Exploring Biblical Archaeology: Uncovering Ancient Sites," this article prov
 ### Why does exploring biblical archaeology: uncovering ancient sites matter for understanding the Bible?
 
 Excavations in the City of David have revealed remains from various periods, including the Jebusite city conquered by King David, as well as sections of the ancient Jerusalem wall. By examining the archaeological and historical background, readers gain a more grounded perspective on the people, places, and events described in scripture.
-

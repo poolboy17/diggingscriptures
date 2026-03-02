@@ -11,6 +11,10 @@ imageAlt: "mosque, crowd, worship, mecca, islam, religion, kaaba, trip, architec
 imageCredit: "Image by Konevi on Pixabay"
 imageWidth: 1280
 imageHeight: 853
+siloTier: "support"
+siloCluster: "biblical-archaeologists"
+siloParent: "/research/faith/exploring-the-depths-the-future-of-underwater-biblical-archaeological-research"
+siloPriority: 35
 ---What can you do with a Degree in Biblical Studies? is a theological subject that explores the intersection of faith traditions and historical evidence.
 
 This topic is part of our [research on faith and history](/research/faith).
@@ -56,8 +60,10 @@ These career paths allow biblical studies degree holders to make a meaningful im
 
 Explore these related articles for deeper study:
 
-- [Is There a Degree in Biblical History?](/research/biblical-archaeology/is-there-a-degree-in-biblical-history)
-- [Exploring Biblical Archaeology Studies Unveiling Ancient](/research/excavations/exploring-biblical-archaeology-studies-unveiling-ancient-secrets)
+- [Exploring the Depths: the Future of Underwater Biblical](/research/faith/exploring-the-depths-the-future-of-underwater-biblical-archaeological-research)
+- [10 Essential Tips for Aspiring Biblical Archaeologists](/research/faith/10-essential-tips-for-aspiring-biblical-archaeologists)
+- [Exploring the Interconnections: Religion and Biblical](/research/faith/exploring-the-interconnections-religion-and-biblical-archaeological-research)
+- [Uncovering the Secrets of Biblical Archaeologist Arthur Cushman](/research/faith/uncovering-the-secrets-of-biblical-archaeologist-arthur-cushman-mcgiffert-iii)
 
 ## Frequently Asked Questions
 
@@ -72,4 +78,3 @@ Bible history instructors in Christian schools play an important role in instill
 ### Why does can you do with a degree in biblical studies? matter for understanding the Bible?
 
 Bible history instructors in Christian schools play an important role in instilling students with a solid foundation in biblical knowledge and a strong moral compass based on biblical teachings. By examining the archaeological and historical background, readers gain a more grounded perspective on the people, places, and events described in scripture.
-

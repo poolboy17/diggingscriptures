@@ -11,6 +11,10 @@ imageAlt: "scroll, feather, ink, caligraphy, hebrew, writing, characters, paper,
 imageCredit: "Image by zofiaEliyahu on Pixabay"
 imageWidth: 1280
 imageHeight: 859
+siloTier: "support"
+siloCluster: "oldest-bible"
+siloParent: "/research/scripture"
+siloPriority: 74
 ---What is the Oldest Bible Found? refers to a subject within biblical manuscript studies that scholars continue to investigate.
 
 This topic is part of our [research on biblical scripture studies](/research/scripture).
@@ -64,8 +68,10 @@ These manuscripts, along with others like the Aleppo Codex and Codex Vaticanus, 
 
 Explore these related articles for deeper study:
 
-- [Have the Original Books of the Bible Been Found?](/research/scripture/have-the-original-books-of-the-bible-been-found)
-- [How Many Ancient Manuscripts of the Bible Have Been Found?](/research/scripture/how-many-ancient-manuscripts-of-the-bible-have-been-found)
+- [What Language was the old Testament Written In?](/research/scripture/what-language-was-the-old-testament-written-in)
+- [What is the Oldest Bible in Existence Today?](/research/scripture/what-is-the-oldest-bible-in-existence-today)
+- [Where is the Oldest Bible in the World Kept?](/research/scripture/where-is-the-oldest-bible-in-the-world-kept)
+- [What is the Oldest Archaeological Evidence of the Bible?](/research/scripture/what-is-the-oldest-archaeological-evidence-of-the-bible)
 
 ## Frequently Asked Questions
 
@@ -82,4 +88,3 @@ In contrast, the Hinnom Scrolls, originating around 600 BC, rank among the oldes
 Significance of Codex Sinaiticus
 
 Having been discovered in 1844 by Constantin von Tischendorf, Codex Sinaiticus stands as a fourth-century Christian manuscript of immense significance, containing the oldest complete copy of the New Covenant. By examining the archaeological and historical background, readers gain a more grounded perspective on the people, places, and events described in scripture.
-

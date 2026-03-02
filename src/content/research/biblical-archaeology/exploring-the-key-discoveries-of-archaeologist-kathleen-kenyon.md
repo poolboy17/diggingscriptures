@@ -11,6 +11,10 @@ imageAlt: "archaeology, excavation, sun sails, protection, sun protection, archa
 imageCredit: "Image by Efraimstochter on Pixabay"
 imageWidth: 1280
 imageHeight: 960
+siloTier: "support"
+siloCluster: "biblical-archaeologist"
+siloParent: "/research/biblical-archaeology/exploring-the-key-responsibilities-of-a-biblical-archaeologist"
+siloPriority: 77
 ---Archaeologist Kathleen Kenyon is renowned for her groundbreaking discoveries that shed light on the ancient world. Through her meticulous excavations in Jericho, Jerusalem, and various sites in the Middle East, she unearthed a wealth of artifacts and evidence that provided invaluable insights into biblical history and the development of human civilization. From the uncovering of the earliest stone houses in Jericho to the identification of significant architectural features in ancient Jerusalem, Kenyon's research has revolutionized our understanding of the past. Join us as we embark on a fascinating journey, exploring the key discoveries that have solidified Kathleen Kenyon's legacy as one of the most influential archaeologists of her time.
 
 This topic is part of our [research on biblical archaeology](/research/biblical-archaeology).
@@ -198,7 +202,10 @@ Kenyon's legacy in empowering women archaeologists cannot be overstated. Through
 
 Explore these related articles for deeper study:
 
-- [Exploring Biblical Archaeology Discoveries](/research/biblical-archaeology/exploring-biblical-archaeology-discoveries)
+- [Exploring the key Responsibilities of a Biblical Archaeologist](/research/biblical-archaeology/exploring-the-key-responsibilities-of-a-biblical-archaeologist)
+- [Can you be an Archaeologist Without a Degree?](/research/biblical-archaeology/can-you-be-an-archaeologist-without-a-degree)
+- [How do you Become a Biblical Archaeologist?](/research/biblical-archaeology/how-do-you-become-a-biblical-archaeologist)
+- [Steps to Becoming a Biblical Archaeologist](/research/biblical-archaeology/steps-to-becoming-a-biblical-archaeologist)
 
 ## Frequently Asked Questions
 
@@ -221,4 +228,3 @@ Kenyon's excavation at Jericho spanned from 1952 to 1958, an extensive undertaki
 Unearthing the Neolithic Tower
 
 One of the most significant discoveries made during the Jericho excavations was the unearthing of a Neolithic tower - a majestic structure dating back to approximately 8000 BCE. By examining the archaeological and historical background, readers gain a more grounded perspective on the people, places, and events described in scripture.
-

@@ -11,6 +11,10 @@ imageAlt: "glasses, case, reading glasses, glasses case, optically, case, case, 
 imageCredit: "Image by HOerwin56 on Pixabay"
 imageWidth: 1280
 imageHeight: 804
+siloTier: "support"
+siloCluster: "ancient-biblical"
+siloParent: "/research/artifacts/what-is-the-oldest-complete-old-testament-manuscript"
+siloPriority: 68
 ---Exploring Ancient Biblical Artifacts: the Role of Archaeologists refers to ancient material remains that provide physical evidence for understanding biblical history.
 
 This topic is part of our [research on ancient artifacts](/research/artifacts).
@@ -66,8 +70,10 @@ Looking ahead, biblical archaeologists in museums continue to push the boundarie
 
 Explore these related articles for deeper study:
 
-- [Methods Used by Biblical Archaeologists to Date Ancient Artifacts](/research/artifacts/methods-used-by-biblical-archaeologists-to-date-ancient-artifacts)
-- [Exploring the Controversies: the Role of Biblical Archaeologists](/research/faith/exploring-the-controversies-the-role-of-biblical-archaeologists)
+- [What is the Oldest Complete old Testament Manuscript?](/research/artifacts/what-is-the-oldest-complete-old-testament-manuscript)
+- [Qumrans Ancient Biblical Fragments: a Radiocarbon Revelation](/research/artifacts/qumrans-biblical-fragments-and-their-dating)
+- [Unlocking Secrets: how Science Preserves Ancient Biblical](/research/artifacts/preservation-methods-for-biblical-artifacts-uncovered)
+- [Unlocking Secrets: The Ancient Jordan Orchard Jar Artifact](/research/artifacts/the-jordan-orchard-jar-a-glimpse-into-worship-rites-of-a-wandering-sect)
 
 ## Frequently Asked Questions
 
@@ -86,4 +92,3 @@ One of the primary responsibilities of archaeologists in museums is the preserva
 Authenticating Ancient Biblical Artifacts
 
 Another significant contribution of archaeologists in museums is authenticating ancient biblical artifacts. By examining the archaeological and historical background, readers gain a more grounded perspective on the people, places, and events described in scripture.
-

@@ -11,6 +11,10 @@ imageAlt: "whitby abbey, dracula, bram stoker, haunted, ruin, moody, whitby, yor
 imageCredit: "Image by TimHill on Pixabay"
 imageWidth: 1280
 imageHeight: 720
+siloTier: "support"
+siloCluster: "unlocking-ancient"
+siloParent: "/research/biblical-archaeology/uncharted-qumran-passage-a-journey-into-the-mysteries-of-the-dead-sea-scrolls"
+siloPriority: 62
 ---Unveiling Ancient Coins in Biblical Archaeology is a topic in biblical archaeology that connects ancient material evidence with scriptual narratives.
 
 This topic is part of our [research on biblical archaeology](/research/biblical-archaeology).
@@ -77,7 +81,10 @@ Participate in dialogues and explorations that challenge long-held assumptions a
 
 Explore these related articles for deeper study:
 
-- [Unveiling Ancient Secrets: A Deep Dive into Biblical Archaeology](/research/biblical-archaeology/cliffside-hollow-navigating-the-tension-between-law-and-tradition)
+- [Unlocking Biblical Secrets: A Deep Dive into Ancient Scrolls](/research/biblical-archaeology/uncharted-qumran-passage-a-journey-into-the-mysteries-of-the-dead-sea-scrolls)
+- [Unveiling the Ancient Secrets: Biblical Archaeology Reveals the](/research/biblical-archaeology/unveiling-the-ancient-secrets-biblical-archaeology-reveals-the-origins-of-biblical-stories)
+- [Unlocking Ancient Secrets: the Role of Coins in Biblical](/research/biblical-archaeology/scientific-dating-in-biblical-archaeology-coin-insights)
+- [Unearth Secrets of Ancient Temples: a Journey into Biblical](/research/biblical-archaeology/biblical-archaeology-discovering-ancient-temple-sites)
 
 ## Frequently Asked Questions
 
@@ -96,4 +103,3 @@ Unveiling Ancient Coins in Biblical Archaeology is a topic in biblical archaeolo
 ### Why does unveiling ancient coins in biblical archaeology matter for understanding the Bible?
 
 Experts in biblical archaeology reinterpret these findings to understand better events recorded in the Bible, such as the life under Roman rule or the economic conditions during the Second Temple period. By examining the archaeological and historical background, readers gain a more grounded perspective on the people, places, and events described in scripture.
-

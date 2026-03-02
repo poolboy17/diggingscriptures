@@ -11,6 +11,10 @@ imageAlt: "books, library, read, shelves, shelf, reading, culture, book, edition
 imageCredit: "Image by Marisa_Sias on Pixabay"
 imageWidth: 1280
 imageHeight: 720
+siloTier: "support"
+siloCluster: "ancient-hebrew"
+siloParent: "/research/scripture/biblical-archaeology-unlocking-the-secrets-of-ancient-scripture"
+siloPriority: 50
 ---Decoding the Ancient Hebrew Calendar System refers to a subject within biblical manuscript studies that scholars continue to investigate.
 
 This topic is part of our [research on biblical scripture studies](/research/scripture).
@@ -82,7 +86,10 @@ Ultimately, these explorations of the ancient Hebrew calendar invite us to appre
 
 Explore these related articles for deeper study:
 
+- [Biblical Archaeology: Unlocking the Secrets of Ancient Scripture](/research/scripture/biblical-archaeology-unlocking-the-secrets-of-ancient-scripture)
 - [Ancient Hebrew Time System Decoded at Last](/research/scripture/ancient-hebrew-time-system-decoded-at-last)
+- [Unveiling Ancient Hebrew Tactics: a Deep Dive into Biblical](/research/scripture/ancient-hebrew-military-camp-unearthed-in-biblical-lands)
+- [Ancient Hebrew Scripts and Their Impact on Biblical Timelines](/research/scripture/ancient-hebrew-scripts-and-their-impact-on-biblical-timelines)
 
 ## Frequently Asked Questions
 
@@ -101,4 +108,3 @@ Recent archaeological discoveries and biblical scholarship have shed light on ho
 Archaeological Evidence
  
 Discovering physical evidence of the ancient Hebrew calendar is a task laden with historical and scholarly significance. By examining the archaeological and historical background, readers gain a more grounded perspective on the people, places, and events described in scripture.
-

@@ -11,6 +11,10 @@ imageAlt: "parchment, contract, paper, document, old, manuscript, retro, yellow,
 imageCredit: "Image by icame on Pixabay"
 imageWidth: 1280
 imageHeight: 853
+siloTier: "pillar"
+siloCluster: "testament-books"
+siloParent: "/research/scripture"
+siloPriority: 100
 ---Exploring the old Testament Through a Cultural Lens refers to a subject within biblical manuscript studies that scholars continue to investigate.
 
 This topic is part of our [research on biblical scripture studies](/research/scripture).
@@ -323,7 +327,10 @@ By recognizing the implications of the Old Testament for contemporary Christian 
 
 Explore these related articles for deeper study:
 
+- [Exploring the Transition Between the old Testament and the new](/research/scripture/exploring-the-transition-between-the-old-testament-and-the-new-testament)
 - [Exploring the Authenticity of old Testament Manuscripts](/research/scripture/exploring-the-authenticity-of-old-testament-manuscripts)
+- [Brief Overview of the old Testament](/research/scripture/brief-overview-of-the-old-testament)
+- [How the old Testament got its Name?](/research/scripture/how-the-old-testament-got-its-name)
 
 ## Frequently Asked Questions
 
@@ -342,4 +349,3 @@ The legal traditions found in the Old Testament show traces of influence from an
 The Old Testament in Christian Liturgy and Preaching
  
 The Old Testament holds a prominent place in Christian liturgy and preaching, providing the foundation for understanding God's redemptive plan and the life and teachings of Jesus Christ. By examining the archaeological and historical background, readers gain a more grounded perspective on the people, places, and events described in scripture.
-

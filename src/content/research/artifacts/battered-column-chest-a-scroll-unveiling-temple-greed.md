@@ -11,6 +11,10 @@ imageAlt: "cents, coins, currency, cash, money, wealth, finance, loose change, c
 imageCredit: "Image by stux on Pixabay"
 imageWidth: 1280
 imageHeight: 990
+siloTier: "support"
+siloCluster: "sheds-light"
+siloParent: "/research/artifacts/qumrans-empty-cave-unveiling-the-kindness-manifestos-in-fragments"
+siloPriority: 71
 ---Unveiling Temple Greed: The Ancient Scroll of the Battered refers to ancient material remains that provide physical evidence for understanding biblical history.
 
 This topic is part of our [research on ancient artifacts](/research/artifacts).
@@ -133,7 +137,10 @@ As you step back and consider the implications of this exploration, remember tha
 
 Explore these related articles for deeper study:
 
-- [Unveiling Jerusalem's Temple: a Revealing Scan of Ancient](/research/biblical-archaeology/discovering-history-the-temple-mount-scanning-project)
+- [Unearthing Kindness Lessons in Qumran's Ancient Scroll: a](/research/artifacts/qumrans-empty-cave-unveiling-the-kindness-manifestos-in-fragments)
+- [Analyzing the Temple Blueprint Scroll: Divine Mysteries of the](/research/artifacts/the-temple-blueprint-scroll-unveiling-the-arks-golden-overlay)
+- [Temple Artifacts Reveal Ancient Worship Practices](/research/artifacts/temple-artifacts-reveal-ancient-worship-practices)
+- [The Evolution of Temple Worship Artifacts](/research/artifacts/the-evolution-of-temple-worship-artifacts)
 
 ## Frequently Asked Questions
 
@@ -152,4 +159,3 @@ Temple Wealth in Antiquity: A Double-Edged Sword
 The Origins of Temple Wealth
  
 Temples were not merely places for spiritual gatherings; they were also significant economic entities. By examining the archaeological and historical background, readers gain a more grounded perspective on the people, places, and events described in scripture.
-

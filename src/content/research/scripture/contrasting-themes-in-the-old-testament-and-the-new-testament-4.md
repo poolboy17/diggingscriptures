@@ -11,6 +11,10 @@ imageAlt: "bible, book, highlighter, pages, text, open, open book, open bible, h
 imageCredit: "Image by Pexels on Pixabay"
 imageWidth: 1280
 imageHeight: 961
+siloTier: "pillar"
+siloCluster: "themes-testament"
+siloParent: "/research/scripture"
+siloPriority: 100
 ---Contrasting Themes in the old Testament and the new Testament refers to a subject within biblical manuscript studies that scholars continue to investigate.
 
 This topic is part of our [research on biblical scripture studies](/research/scripture).
@@ -475,7 +479,10 @@ The interpretation and implementation of practices in contemporary Christianity 
 
 Explore these related articles for deeper study:
 
+- [Comparing Themes in the old Testament and the new Testament](/research/scripture/comparing-themes-in-the-old-testament-and-the-new-testament)
 - [Central Themes in the old Testament and the new Testament](/research/scripture/central-themes-in-the-old-testament-and-the-new-testament)
+- [Contrasting Worship in the old Testament and the new Testament](/research/scripture/contrasting-worship-in-the-old-testament-and-the-new-testament)
+- [Comparing the old Testament and the new Testament](/research/scripture/comparing-the-old-testament-and-the-new-testament)
 
 ## Frequently Asked Questions
 
@@ -492,4 +499,3 @@ The influence of Greek philosophy, Roman law, and the diverse religious landscap
 Impact of genres on understanding messages of the Old Testament and the New Testament
  
 The different genres found in the Old and New Testaments have a significant impact on how the messages of these texts are understood. By examining the archaeological and historical background, readers gain a more grounded perspective on the people, places, and events described in scripture.
-

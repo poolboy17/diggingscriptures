@@ -11,6 +11,10 @@ imageAlt: "writing, manuscript, letter, document, ancient, lyrics, feather, ink,
 imageCredit: "Image by makamuki0 on Pixabay"
 imageWidth: 1280
 imageHeight: 960
+siloTier: "support"
+siloCluster: "first-bible"
+siloParent: "/research/scripture"
+siloPriority: 74
 ---Where was the First Bible Found? refers to a subject within biblical manuscript studies that scholars continue to investigate.
 
 This topic is part of our [research on biblical scripture studies](/research/scripture).
@@ -75,6 +79,9 @@ The impact of the first Bible found at St. Catherine's Monastery can be summariz
 Explore these related articles for deeper study:
 
 - [Was the First Bible Found in Ethiopia?](/research/scripture/was-the-first-bible-found-in-ethiopia)
+- [When was the First Bible Written and who Wrote It?](/research/scripture/when-was-the-first-bible-written-and-who-wrote-it)
+- [Who Made the First Bible in the World?](/research/scripture/who-made-the-first-bible-in-the-world)
+- [Is the Ethiopian Bible the First Bible?](/research/scripture/is-the-ethiopian-bible-the-first-bible)
 
 ## Frequently Asked Questions
 
@@ -89,4 +96,3 @@ Additionally, the discovery of the Dead Sea Scrolls in the mid-20th century near
 ### Why does was the first bible found? matter for understanding the Bible?
 
 The establishment of the New Scripture canon, comprising these foundational texts, was a crucial step in defining the core scriptures of Christianity. By examining the archaeological and historical background, readers gain a more grounded perspective on the people, places, and events described in scripture.
-

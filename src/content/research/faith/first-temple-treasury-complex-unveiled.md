@@ -11,6 +11,10 @@ imageAlt: "church, monastery, architecture, st geronimo, granada, columns, relig
 imageCredit: "Image by ELG21 on Pixabay"
 imageWidth: 1280
 imageHeight: 853
+siloTier: "support"
+siloCluster: "first-temple"
+siloParent: "/research/faith/the-intertestamental-period-exploring-the-time-between-the-old-and-new-testaments"
+siloPriority: 71
 ---First Temple Treasury Complex Unveiled is a theological subject that explores the intersection of faith traditions and historical evidence.
 
 This topic is part of our [research on faith and history](/research/faith).
@@ -97,7 +101,10 @@ In summary, the unveiling of the First Temple Treasury complex represents a monu
 
 Explore these related articles for deeper study:
 
+- [The Intertestamental Period: Exploring the Time Between the old](/research/faith/the-intertestamental-period-exploring-the-time-between-the-old-and-new-testaments)
+- [First Temple Storage Complex Unveils Ancient Organization](/research/faith/first-temple-storage-complex-unveils-ancient-organization)
 - [Exploring the First Temple Treasury](/research/faith/exploring-the-first-temple-treasury)
+- [First Temple Market Unearthed: a new Biblical Insight](/research/faith/first-temple-market-unearthed-a-new-biblical-insight)
 
 ## Frequently Asked Questions
 
@@ -116,4 +123,3 @@ Recent excavations have concentrated on the area known today as the Temple Mount
 Archaeological Evidence
  
 The discovery of the First Temple Treasury is supported by archaeological evidence that paints a compelling picture of its historical context. By examining the archaeological and historical background, readers gain a more grounded perspective on the people, places, and events described in scripture.
-

@@ -11,6 +11,10 @@ imageAlt: "archaeology, archaeological dig, documenting, digging, research, arch
 imageCredit: "Image by JamesDeMers on Pixabay"
 imageWidth: 1280
 imageHeight: 1165
+siloTier: "support"
+siloCluster: "biblical-archaeologists"
+siloParent: "/research/excavations/unlocking-the-past-the-role-of-biblical-archaeologists-in-engaging-the-public"
+siloPriority: 35
 ---Famous Biblical dig Sites Revealed is an area of archaeological investigation that has yielded significant findings about the ancient world.
 
 This topic is part of our [research on archaeological excavations](/research/excavations).
@@ -139,7 +143,10 @@ Biblical Archaeology Excavation Techniques Unraveled
 
 Explore these related articles for deeper study:
 
-- [Preserving Biblical Archaeological Sites: Best Practices Revealed](/research/biblical-archaeology/preserving-biblical-archaeological-sites-best-practices-revealed)
+- [Unlocking the Past: the Role of Biblical Archaeologists in](/research/excavations/unlocking-the-past-the-role-of-biblical-archaeologists-in-engaging-the-public)
+- [Top Excavation Sites for Biblical Archaeologists](/research/excavations/top-excavation-sites-for-biblical-archaeologists)
+- [Preserving Endangered Cultural Sites: the Role of Biblical](/research/excavations/preserving-endangered-cultural-sites-the-role-of-biblical-archaeologists)
+- [10 Famous Biblical Archaeologists you Should Know](/research/excavations/10-famous-biblical-archaeologists-you-should-know)
 
 ## Frequently Asked Questions
 
@@ -156,4 +163,3 @@ Significance of Qumran Discovery Sites
 ### Why does famous biblical dig sites revealed matter for understanding the Bible?
 
 Excavations at Qumran and its surrounding areas have revealed significant artifacts, like the renowned Dead Sea Scrolls, providing valuable insights that continue to enrich our understanding of the past. By examining the archaeological and historical background, readers gain a more grounded perspective on the people, places, and events described in scripture.
-

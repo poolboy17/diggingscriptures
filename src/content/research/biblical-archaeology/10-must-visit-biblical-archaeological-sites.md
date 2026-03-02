@@ -11,6 +11,10 @@ imageAlt: "archaeology, excavation, sun sails, protection, sun protection, archa
 imageCredit: "Image by Efraimstochter on Pixabay"
 imageWidth: 1280
 imageHeight: 960
+siloTier: "support"
+siloCluster: "biblical-archaeological"
+siloParent: "/research/biblical-archaeology/the-unearthing-of-ancient-temples-a-biblical-archaeological-expedition"
+siloPriority: 71
 ---10 Must-Visit Biblical Archaeological Sites is a topic in biblical archaeology that connects ancient material evidence with scriptual narratives.
 
 This topic is part of our [research on biblical archaeology](/research/biblical-archaeology).
@@ -168,7 +172,10 @@ Muhraqa, meaning "the place of burning," is a site believed to be where the prop
 
 Explore these related articles for deeper study:
 
+- [The Unearthing of Ancient Temples: a Biblical Archaeological](/research/biblical-archaeology/the-unearthing-of-ancient-temples-a-biblical-archaeological-expedition)
 - [Preserving Biblical Archaeological Sites: Best Practices Revealed](/research/biblical-archaeology/preserving-biblical-archaeological-sites-best-practices-revealed)
+- [Biblical Historical Sites Unveiled](/research/biblical-archaeology/biblical-historical-sites-unveiled)
+- [Top 5 Historical Locations for Biblical Archaeological](/research/biblical-archaeology/top-5-historical-locations-for-biblical-archaeological-excavations)
 
 ## Frequently Asked Questions
 
@@ -187,4 +194,3 @@ Moses' Well, also known as the Well of Jethro, can be found in the heart of the 
 Synagogue Church
 
 The Synagogue Church in Nazareth is believed to be built on the site of the synagogue where Jesus preached his famous sermon, proclaiming that he was the fulfillment of the messianic prophecies. By examining the archaeological and historical background, readers gain a more grounded perspective on the people, places, and events described in scripture.
-

@@ -11,6 +11,10 @@ imageAlt: "song, sheet music, music notes, notenblatt, melody, music wallpaper, 
 imageCredit: "Image by Ri_Ya on Pixabay"
 imageWidth: 1280
 imageHeight: 853
+siloTier: "pillar"
+siloCluster: "originally-written"
+siloParent: "/research/scripture"
+siloPriority: 95
 ---Have you ever wondered what language the New Testament was originally written in? It's a fascinating question that has captivated the minds of theologians, historians, and scholars for centuries. In her extensive research, Anita Love, a renowned authority on Christianity's historical foundations, explores this very topic. With her academic background in theology and religious studies, Love has delved into ancient biblical manuscripts to uncover the language that formed the basis of the New Testament. In her thought-provoking work, she sheds light on the linguistic origins of this sacred text and uncovers its impact on our understanding of Christian teachings. Join Love on this captivating journey as we unravel the secrets behind the language of the New Testament.
 
 This topic is part of our [research on biblical scripture studies](/research/scripture).
@@ -191,7 +195,10 @@ In the digital age, numerous resources and tools are available to aid in the stu
 
 Explore these related articles for deeper study:
 
+- [What Language was the old Testament Written In?](/research/scripture/what-language-was-the-old-testament-written-in)
+- [When was the new Testament Originally Written?](/research/scripture/when-was-the-new-testament-originally-written)
 - [Was the new Testament Originally Written in Hebrew?](/research/scripture/was-the-new-testament-originally-written-in-hebrew)
+- [Was the old Testament Originally Written in Greek?](/research/scripture/was-the-old-testament-originally-written-in-greek)
 
 ## Frequently Asked Questions
 
@@ -206,4 +213,3 @@ In her extensive research, Anita Love, a renowned authority on Christianity's hi
 ### Why does language was the new testament originally written in? matter for understanding the Bible?
 
 Judaism, with its rich history and ancient scriptures, provided the foundation for the Old Testament, which served as the religious backdrop for the teachings of Jesus and his followers. By examining the archaeological and historical background, readers gain a more grounded perspective on the people, places, and events described in scripture.
-

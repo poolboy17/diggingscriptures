@@ -11,6 +11,10 @@ imageAlt: "book, manuscript, paper, ancient, manuscript, manuscript, manuscript,
 imageCredit: "Image by TonyPrats on Pixabay"
 imageWidth: 1280
 imageHeight: 850
+siloTier: "support"
+siloCluster: "testament-written"
+siloParent: "/research/scripture/what-language-was-the-old-testament-written-in"
+siloPriority: 68
 ---In the captivating article titled "What language was the New Testament written in?", Anita Love, a renowned theologian and scholar, explores the language behind one of the most influential texts in human history. With her expertise in ancient biblical manuscripts and religious studies, Anita delves into the origins of the New Testament, shedding light on the language in which it was written. Through her nuanced perspective and extensive research, she aims to uncover the significance and implications of the language choice in this sacred text.
 
 This topic is part of our [research on biblical scripture studies](/research/scripture).
@@ -137,8 +141,10 @@ The New Testament, originally written in Koine Greek, holds immense historical, 
 
 Explore these related articles for deeper study:
 
+- [What Language was the old Testament Written In?](/research/scripture/what-language-was-the-old-testament-written-in)
 - [What Language is Most of the old Testament Written In?](/research/scripture/what-language-is-most-of-the-old-testament-written-in)
-- [What Language was the new Testament First Written In?](/research/scripture/what-language-was-the-new-testament-first-written-in)
+- [Was the old Testament Written in Aramaic?](/research/scripture/was-the-old-testament-written-in-aramaic)
+- [When was the new Testament Written After Jesus's Death?](/research/scripture/when-was-the-new-testament-written-after-jesuss-death)
 
 ## Frequently Asked Questions
 
@@ -155,4 +161,3 @@ In the captivating article titled "What language was the New Testament written i
 Understanding the New Testament
  
 When it comes to understanding the New Testament, it is essential to explore its origins, structure, content, and role in Christianity. By examining the archaeological and historical background, readers gain a more grounded perspective on the people, places, and events described in scripture.
-

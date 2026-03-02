@@ -11,6 +11,10 @@ imageAlt: "parchment, contract, paper, document, old, manuscript, retro, yellow,
 imageCredit: "Image by icame on Pixabay"
 imageWidth: 1280
 imageHeight: 853
+siloTier: "support"
+siloCluster: "testament-books"
+siloParent: "/research/scripture/exploring-the-old-testament-through-a-cultural-lens"
+siloPriority: 53
 ---Who Compiled the new Testament? refers to a subject within biblical manuscript studies that scholars continue to investigate.
 
 This topic is part of our [research on biblical scripture studies](/research/scripture).
@@ -204,7 +208,10 @@ The New Testament compilation serves as a common ground for interfaith dialogues
 
 Explore these related articles for deeper study:
 
-- [Are all new Testament Books Written in Greek?](/research/scripture/are-all-new-testament-books-written-in-greek)
+- [Exploring the old Testament Through a Cultural Lens](/research/scripture/exploring-the-old-testament-through-a-cultural-lens)
+- [The Evolution of the old Testament: Tracing its Development and](/research/scripture/the-evolution-of-the-old-testament-tracing-its-development-and-canonization)
+- [The Formation of the new Testament: who Added it to the Bible?](/research/scripture/the-formation-of-the-new-testament-who-added-it-to-the-bible)
+- [When was the new Testament Actually Written?](/research/scripture/when-was-the-new-testament-actually-written)
 
 ## Frequently Asked Questions
 
@@ -221,4 +228,3 @@ With its vast collection of texts, it's no wonder that individuals like Anita Lo
 ### Why does compiled the new testament? matter for understanding the Bible?
 
 The historical formation of the New Testament offers valuable insights into the roots of Christianity and the foundations of the faith. By examining the archaeological and historical background, readers gain a more grounded perspective on the people, places, and events described in scripture.
-

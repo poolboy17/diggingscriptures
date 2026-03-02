@@ -11,6 +11,10 @@ imageAlt: "cyprus, apollo hylates, sanctuary, ancient, greek, historic, mediterr
 imageCredit: "Image by dimitrisvetsikas1969 on Pixabay"
 imageWidth: 1280
 imageHeight: 854
+siloTier: "support"
+siloCluster: "lost-biblical"
+siloParent: "/research/excavations/jericho-city-gate-the-significance-of-the-renewed-covenant-parchment"
+siloPriority: 65
 ---Dead sea Scroll Cave Yields Lost Biblical Text is an area of archaeological investigation that has yielded significant findings about the ancient world.
 
 This topic is part of our [research on archaeological excavations](/research/excavations).
@@ -79,7 +83,10 @@ This ongoing research beckons enthusiasts and scholars alike to maintain an acti
 
 Explore these related articles for deeper study:
 
-- [Dead sea Scroll Cave Yields Revolutionary new Testament Text](/research/excavations/dead-sea-scroll-cave-yields-revolutionary-new-testament-text)
+- [Exploring Ancient Jericho City Gate: Its Historical](/research/excavations/jericho-city-gate-the-significance-of-the-renewed-covenant-parchment)
+- [Uncovering Lost Biblical Treasures](/research/excavations/uncovering-lost-biblical-treasures)
+- [Lost Biblical City Found: Ancient Fortress Reveals new Story](/research/excavations/lost-biblical-city-found-ancient-fortress-reveals-new-story)
+- [Lost Biblical City Found: Ancient Life Revealed](/research/excavations/lost-biblical-city-found-ancient-life-revealed)
 
 ## Frequently Asked Questions
 
@@ -98,4 +105,3 @@ This specific find occurred in what is now being referred to as "Cave 12," echoi
 ### Why does dead sea scroll cave yields lost biblical text matter for understanding the Bible?
 
 One crucial point of understanding is how these scriptures purportedly bridge the gap between the Hebrew Scriptures and early Christianity, highlighting the shared traditions and theological evolution. By examining the archaeological and historical background, readers gain a more grounded perspective on the people, places, and events described in scripture.
-

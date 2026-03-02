@@ -11,6 +11,10 @@ imageAlt: "antique, yellow pages, chapter, open book, new chapter, hebrew text, 
 imageCredit: "Image by Ri_Ya on Pixabay"
 imageWidth: 1280
 imageHeight: 853
+siloTier: "support"
+siloCluster: "testament-books"
+siloParent: "/research/scripture/exploring-the-old-testament-through-a-cultural-lens"
+siloPriority: 10
 ---The discovery of the Dead Sea Scrolls in Qumran, Israel, in 1947 was a pivotal moment that sparked a deeper exploration into the relationship between the Bible and archaeology.
 
 This topic is part of our [research on biblical scripture studies](/research/scripture).
@@ -70,6 +74,9 @@ Additionally, inscriptions like the Behistun Inscription from King Darius I cont
 
 Explore these related articles for deeper study:
 
+- [Exploring the old Testament Through a Cultural Lens](/research/scripture/exploring-the-old-testament-through-a-cultural-lens)
+- [What are the Contributions of Archaeology to the Bible?](/research/scripture/what-are-the-contributions-of-archaeology-to-the-bible)
+- [The Archaeology of the Bible: the Greatest Discoveries from](/research/scripture/the-archaeology-of-the-bible-the-greatest-discoveries-from-genesis-to-the-roman-era)
 - [Has Archaeology Buried the Bible Review?](/research/scripture/has-archaeology-buried-the-bible-review)
 
 ## Frequently Asked Questions
@@ -89,4 +96,3 @@ Archaeological excavations have unearthed compelling evidence that supports vari
 Uncovering Ancient Biblical Locations
 
 Numerous ancient biblical locations have been brought to light through meticulous excavations, shedding invaluable insights into the historical contexts of significant events described in the Bible. By examining the archaeological and historical background, readers gain a more grounded perspective on the people, places, and events described in scripture.
-

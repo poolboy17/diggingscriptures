@@ -11,6 +11,10 @@ imageAlt: "pyramids, egypt, egyptian, ancient, desert, giza, historical, archite
 imageCredit: "Image by TheDigitalArtist on Pixabay"
 imageWidth: 1280
 imageHeight: 480
+siloTier: "support"
+siloCluster: "biblical-archaeological"
+siloParent: "/research/biblical-archaeology/the-unearthing-of-ancient-temples-a-biblical-archaeological-expedition"
+siloPriority: 10
 ---What are the Methods Used in Biblical Archaeology? is a topic in biblical archaeology that connects ancient material evidence with scriptual narratives.
 
 This topic is part of our [research on biblical archaeology](/research/biblical-archaeology).
@@ -68,8 +72,10 @@ Through the integration of these remote sensing technologies, researchers can co
 
 Explore these related articles for deeper study:
 
-- [Exploring Biblical Archaeology Methods in Ancient Sites](/research/biblical-archaeology/exploring-biblical-archaeology-methods-in-ancient-sites)
-- [Methods Used by Biblical Archaeologists to Date Ancient Artifacts](/research/artifacts/methods-used-by-biblical-archaeologists-to-date-ancient-artifacts)
+- [The Unearthing of Ancient Temples: a Biblical Archaeological](/research/biblical-archaeology/the-unearthing-of-ancient-temples-a-biblical-archaeological-expedition)
+- [How Do Desert Fortresses Echo Resilience in Biblical Archaeology?](/research/biblical-archaeology/desert-fortress-the-laments-of-national-defeat-in-archaeological-context)
+- [Embracing the Future: new Technologies in Biblical Archaeology](/research/biblical-archaeology/embracing-the-future-new-technologies-in-biblical-archaeology)
+- [Exploring the Multidisciplinary Approach in Biblical Archaeology](/research/biblical-archaeology/exploring-the-multidisciplinary-approach-in-biblical-archaeology)
 
 ## Frequently Asked Questions
 
@@ -86,4 +92,3 @@ Employing various techniques and methodologies, excavation methods in biblical a
 ### Why does are the methods used in biblical archaeology? matter for understanding the Bible?
 
 - Grid System Implementation: Dividing excavation sites into a grid system allows for a systematic approach to digging, recording, and analyzing findings. By examining the archaeological and historical background, readers gain a more grounded perspective on the people, places, and events described in scripture.
-

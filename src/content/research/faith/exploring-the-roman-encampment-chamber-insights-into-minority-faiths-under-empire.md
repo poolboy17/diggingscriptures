@@ -11,6 +11,10 @@ imageAlt: "temple of hercules, pillars, roman temple, historic site, amman citad
 imageCredit: "Image by dimitrisvetsikas1969 on Pixabay"
 imageWidth: 1280
 imageHeight: 915
+siloTier: "support"
+siloCluster: "biblical-archaeology"
+siloParent: "/research/faith/the-infamous-relics-famous-fakes-and-forgeries-in-biblical-archaeology"
+siloPriority: 26
 ---What do you think life was like for a minority faith in the vast expanse of the Roman Empire?
 
 This topic is part of our [research on faith and history](/research/faith).
@@ -145,7 +149,10 @@ So, take a moment to think about that question you started with: how do these hi
 
 Explore these related articles for deeper study:
 
-- [Unearthing Spiritual Symbolism in Biblical Archaeology: The](/research/faith/fishermans-vessel-the-role-of-water-as-purifier-in-desert-belief)
+- [The Infamous Relics: Famous Fakes and Forgeries in Biblical](/research/faith/the-infamous-relics-famous-fakes-and-forgeries-in-biblical-archaeology)
+- [Unearthing Peace: How Biblical Archaeology Reveals a Harmonious](/research/faith/lightning-shattered-cliff-a-glimpse-of-future-peace-in-the-modern-world)
+- [Unearthing the Truth: the Impact of Biblical Archaeology on](/research/faith/unearthing-the-truth-the-impact-of-biblical-archaeology-on-biblical-interpretation)
+- [Exploring the Connections Between Biblical Archaeology and](/research/faith/exploring-the-connections-between-biblical-archaeology-and-ancient-music)
 
 ## Frequently Asked Questions
 
@@ -162,4 +169,3 @@ From intricate frescoes in tombs to the writings found in the Dead Sea Scrolls, 
 ### Why does unearthing biblical archaeology: thriving minority faiths matter for understanding the Bible?
 
 What do you think life was like for a minority faith in the vast expanse of the Roman Empire. By examining the archaeological and historical background, readers gain a more grounded perspective on the people, places, and events described in scripture.
-

@@ -11,6 +11,10 @@ imageAlt: "candles, church, burning, religion, light, flame, fire, celebration, 
 imageCredit: "Image by Republica on Pixabay"
 imageWidth: 1280
 imageHeight: 920
+siloTier: "support"
+siloCluster: "first-temple"
+siloParent: "/research/faith/the-intertestamental-period-exploring-the-time-between-the-old-and-new-testaments"
+siloPriority: 68
 ---First Temple Market Unearthed: a new Biblical Insight is a theological subject that explores the intersection of faith traditions and historical evidence.
 
 This topic is part of our [research on faith and history](/research/faith).
@@ -89,7 +93,10 @@ Did this brief foray into ancient history spark further questions or insights in
 
 Explore these related articles for deeper study:
 
-- [Royal Seals Unearthed from the First Temple Period](/research/biblical-archaeology/royal-seals-unearthed-from-the-first-temple-period)
+- [The Intertestamental Period: Exploring the Time Between the old](/research/faith/the-intertestamental-period-exploring-the-time-between-the-old-and-new-testaments)
+- [First Temple Storage Complex Unveils Ancient Organization](/research/faith/first-temple-storage-complex-unveils-ancient-organization)
+- [Biblical Period oil Production Unearthed](/research/faith/biblical-period-oil-production-unearthed)
+- [First Temple Treasury Complex Unveiled](/research/faith/first-temple-treasury-complex-unveiled)
 
 ## Frequently Asked Questions
 
@@ -110,4 +117,3 @@ The First Temple, built during the reign of King Solomon and mentioned extensive
 ### Why does first temple market unearthed: a new biblical insight matter for understanding the Bible?
 
 The revelation of the First Temple Market isn't merely about unearthed artifacts; it's an invitation to revisit narratives, explore socio-economic dynamics, and re-evaluate our understanding of history. By examining the archaeological and historical background, readers gain a more grounded perspective on the people, places, and events described in scripture.
-

@@ -11,6 +11,10 @@ imageAlt: "workers, construction, excavation, dig, building, construction worker
 imageCredit: "Image by planet_fox on Pixabay"
 imageWidth: 1280
 imageHeight: 853
+siloTier: "support"
+siloCluster: "ancient-biblical"
+siloParent: "/research/excavations/unearthing-the-past-lessons-from-biblical-archaeology"
+siloPriority: 44
 ---Unraveling the Past: the Intersection of Biblical is an area of archaeological investigation that has yielded significant findings about the ancient world.
 
 This topic is part of our [research on archaeological excavations](/research/excavations).
@@ -93,7 +97,10 @@ As you examine deeper into these historical narratives, consider how the evolvin
 
 Explore these related articles for deeper study:
 
-- [Uncovering the Past: the Intersection of Biblical Archaeology](/research/biblical-archaeology/uncovering-the-past-the-intersection-of-biblical-archaeology-and-geography)
+- [Unearthing the Past: Lessons from Biblical Archaeology](/research/excavations/unearthing-the-past-lessons-from-biblical-archaeology)
+- [Uncovering the Biblical Past in the Face of Climate Change](/research/excavations/uncovering-the-biblical-past-in-the-face-of-climate-change)
+- [Explore Ancient Biblical Temples: Unraveling the Secrets of](/research/excavations/the-hidden-scrolls-of-the-temple-unearthing-mysteries-of-ancient-construction)
+- [Exploring Ancient Biblical Sites: a Journey Through History](/research/excavations/exploring-ancient-biblical-sites-a-journey-through-history)
 
 ## Frequently Asked Questions
 
@@ -114,4 +121,3 @@ Excavations at sites like Tel Lachish have revealed layers of destruction that a
 Geographic Location
  
 Key geographical areas in biblical narratives often include strategically significant locations such as Canaan, Jericho, and Lachish. By examining the archaeological and historical background, readers gain a more grounded perspective on the people, places, and events described in scripture.
-

@@ -11,6 +11,10 @@ imageAlt: "church windows, stained glass windows, church, cathedral, decoration,
 imageCredit: "Image by NoName_13 on Pixabay"
 imageWidth: 1280
 imageHeight: 746
+siloTier: "support"
+siloCluster: "biblical-archaeologists"
+siloParent: "/research/faith/exploring-the-depths-the-future-of-underwater-biblical-archaeological-research"
+siloPriority: 32
 ---Unearthing Spiritual Symbolism in Biblical Archaeology: The is a theological subject that explores the intersection of faith traditions and historical evidence.
 
 This topic is part of our [research on faith and history](/research/faith).
@@ -123,8 +127,10 @@ In modern times, the essential role water plays in society connects us to the pa
 
 Explore these related articles for deeper study:
 
-- [Unearthing Biblical Archaeology: Thriving Minority Faiths](/research/faith/exploring-the-roman-encampment-chamber-insights-into-minority-faiths-under-empire)
-- [Unearthing Peace: How Biblical Archaeology Reveals a Harmonious](/research/faith/lightning-shattered-cliff-a-glimpse-of-future-peace-in-the-modern-world)
+- [Exploring the Depths: the Future of Underwater Biblical](/research/faith/exploring-the-depths-the-future-of-underwater-biblical-archaeological-research)
+- [Unearthing Wisdom: The Daily Life in Biblical Archaeology](/research/faith/unraveling-the-qumran-mystery-nook-insights-into-sects-austerity-and-daily-study)
+- [Unearthing Biblical Truths: the Impact of Archaeology on Modern](/research/faith/unearthing-biblical-truths-the-impact-of-archaeology-on-modern-religious-beliefs)
+- [Unearthing Truth: the Battle of Biblical Archaeologists Against](/research/faith/unearthing-truth-the-battle-of-biblical-archaeologists-against-looting)
 
 ## Frequently Asked Questions
 
@@ -143,4 +149,3 @@ Waters role as a purifier is well documented in various cultures, especially tho
 Biblical Context
  
 In biblical texts, water is frequently mentioned as a purifiermost notably in the story of baptism. By examining the archaeological and historical background, readers gain a more grounded perspective on the people, places, and events described in scripture.
-

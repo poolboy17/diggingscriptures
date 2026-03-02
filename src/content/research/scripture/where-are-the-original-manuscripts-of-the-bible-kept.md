@@ -11,6 +11,10 @@ imageAlt: "diary, ipad, write, blog, workplace, notebook, coffee mug, mockup, di
 imageCredit: "Image by Edar on Pixabay"
 imageWidth: 1280
 imageHeight: 960
+siloTier: "support"
+siloCluster: "bible-kept"
+siloParent: "/research/scripture"
+siloPriority: 80
 ---Where are the Original Manuscripts of the Bible Kept? refers to a subject within biblical manuscript studies that scholars continue to investigate.
 
 This topic is part of our [research on biblical scripture studies](/research/scripture).
@@ -77,7 +81,10 @@ Additionally, the collaboration between private collectors and universities has 
 
 Explore these related articles for deeper study:
 
+- [Where is the Original Bible Kept?](/research/scripture/where-is-the-original-bible-kept)
 - [Where are the Original Copies of the Bible Kept?](/research/scripture/where-are-the-original-copies-of-the-bible-kept)
+- [Does the Original Bible Still Exist?](/research/scripture/does-the-original-bible-still-exist)
+- [The Original Language of the new Testament Bible](/research/scripture/the-original-language-of-the-new-testament-bible)
 
 ## Frequently Asked Questions
 
@@ -96,4 +103,3 @@ Here are key points regarding the Dead Sea Scrolls discovery:
 ### Why does are the original manuscripts of the bible kept? matter for understanding the Bible?
 
 While some of the most renowned texts like Codex Vaticanus and Codex Sinaiticus are housed in prestigious institutions, the whereabouts of other important manuscripts are lesser-known, shrouded in mystery and curiosity. By examining the archaeological and historical background, readers gain a more grounded perspective on the people, places, and events described in scripture.
-

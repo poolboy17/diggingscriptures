@@ -11,6 +11,10 @@ imageAlt: "girls, jewelry, shop, outdoors, women, window, showcase, glass case, 
 imageCredit: "Image by Surprising_Media on Pixabay"
 imageWidth: 1280
 imageHeight: 853
+siloTier: "support"
+siloCluster: "ark-covenant"
+siloParent: "/research/artifacts/exploring-the-ethical-implications-of-displaying-biblical-archaeological-artifacts"
+siloPriority: 35
 ---Differences In Biblical Canon Among Traditions refers to ancient material remains that provide physical evidence for understanding biblical history.
 
 This topic is part of our [research on ancient artifacts](/research/artifacts).
@@ -123,8 +127,10 @@ Exploring these textual and canonical variances can dismantle misunderstandings 
 
 Explore these related articles for deeper study:
 
+- [Exploring the Ethical Implications of Displaying Biblical](/research/artifacts/exploring-the-ethical-implications-of-displaying-biblical-archaeological-artifacts)
 - [When Was The Biblical Canon Officially Closed?](/research/artifacts/when-was-the-biblical-canon-officially-closed)
-- [10 Most Important Biblical Artifacts Discovered](/research/artifacts/10-most-important-biblical-artifacts-discovered)
+- [Hebrew, Aramaic, Greek: Biblical Languages Explained](/research/artifacts/hebrew-aramaic-greek-biblical-languages-explained)
+- [Ark of the Covenant: Divine Legacy Unraveled by Biblical](/research/artifacts/replicas-in-exile-the-quest-for-the-real-ark-of-the-covenant)
 
 ## Frequently Asked Questions
 
@@ -141,4 +147,3 @@ The concept of "canon" is pivotal in understanding the diversity in Biblical tex
 ### Why does differences in biblical canon among traditions matter for understanding the Bible?
 
 -  Jewish Canon: The Jewish Bible, also known as the Tanakh, was largely fixed by the end of the first century CE. By examining the archaeological and historical background, readers gain a more grounded perspective on the people, places, and events described in scripture.
-

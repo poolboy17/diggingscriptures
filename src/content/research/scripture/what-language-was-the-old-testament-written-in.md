@@ -11,6 +11,10 @@ imageAlt: "qumran national park, qumran, archeology, dead sea scrolls, cave numb
 imageCredit: "Image by samirsmier on Pixabay"
 imageWidth: 1280
 imageHeight: 720
+siloTier: "pillar"
+siloCluster: "testament-written"
+siloParent: "/research/scripture"
+siloPriority: 100
 ---What Language was the old Testament Written In? refers to a subject within biblical manuscript studies that scholars continue to investigate.
 
 This topic is part of our [research on biblical scripture studies](/research/scripture).
@@ -331,7 +335,10 @@ By embracing the linguistic richness of the Old Testament, theologians and schol
 
 Explore these related articles for deeper study:
 
+- [What Language was the new Testament Written In?](/research/scripture/what-language-was-the-new-testament-written-in)
 - [What Language is Most of the old Testament Written In?](/research/scripture/what-language-is-most-of-the-old-testament-written-in)
+- [Was the old Testament Written in Aramaic?](/research/scripture/was-the-old-testament-written-in-aramaic)
+- [When was the new Testament Written After Jesus's Death?](/research/scripture/when-was-the-new-testament-written-after-jesuss-death)
 
 ## Frequently Asked Questions
 
@@ -346,4 +353,3 @@ Comparisons with other Aramaic texts, such as the Dead Sea Scrolls, have provide
 ### Why does language was the old testament written in? matter for understanding the Bible?
 
 The Dead Sea Scrolls, discovered in the mid-20th century, contain numerous Aramaic documents that shed light on the linguistic nuances of the language. By examining the archaeological and historical background, readers gain a more grounded perspective on the people, places, and events described in scripture.
-

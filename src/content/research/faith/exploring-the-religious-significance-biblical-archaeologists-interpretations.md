@@ -11,6 +11,10 @@ imageAlt: "temple of heaven, beijing, stairs, temple, landmark, historical, chin
 imageCredit: "Image by jplenio on Pixabay"
 imageWidth: 1280
 imageHeight: 853
+siloTier: "support"
+siloCluster: "biblical-archaeologists"
+siloParent: "/research/faith/exploring-the-depths-the-future-of-underwater-biblical-archaeological-research"
+siloPriority: 56
 ---Exploring the Religious Significance: Biblical Archaeologists is a theological subject that explores the intersection of faith traditions and historical evidence.
 
 This topic is part of our [research on faith and history](/research/faith).
@@ -192,7 +196,10 @@ Biblical archaeology continues to evolve as a field of study, offering valuable 
 
 Explore these related articles for deeper study:
 
-- [Exploring the Significance: Biblical Archaeologists in Heritage](/research/excavations/exploring-the-significance-biblical-archaeologists-in-heritage-preservation)
+- [Exploring the Depths: the Future of Underwater Biblical](/research/faith/exploring-the-depths-the-future-of-underwater-biblical-archaeological-research)
+- [Unveiling the Bias: Exploring Religious Beliefs in Biblical](/research/faith/unveiling-the-bias-exploring-religious-beliefs-in-biblical-archaeology)
+- [10 Essential Tips for Aspiring Biblical Archaeologists](/research/faith/10-essential-tips-for-aspiring-biblical-archaeologists)
+- [Exploring the Interconnections: Religion and Biblical](/research/faith/exploring-the-interconnections-religion-and-biblical-archaeological-research)
 
 ## Frequently Asked Questions
 
@@ -213,4 +220,3 @@ One notable case study in biblical archaeology is the discovery of King David's 
 The excavation of Jericho
 
 The archaeological excavation of Jericho, one of the oldest inhabited cities in the world, has yielded significant findings related to the biblical account of the Israelite conquest. By examining the archaeological and historical background, readers gain a more grounded perspective on the people, places, and events described in scripture.
-

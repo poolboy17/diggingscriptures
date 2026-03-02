@@ -11,6 +11,10 @@ imageAlt: "chichen itza, mexico, pyramid, milky way, night, mayans, archaeology,
 imageCredit: "Image by Walkerssk on Pixabay"
 imageWidth: 1280
 imageHeight: 773
+siloTier: "support"
+siloCluster: "biblical-archaeologists"
+siloParent: "/research/excavations/unlocking-the-past-the-role-of-biblical-archaeologists-in-engaging-the-public"
+siloPriority: 44
 ---In biblical archaeology, each artifact unearthed is like a piece of a complex puzzle, revealing glimpses of ancient civilizations and shedding light on biblical narratives. As researchers meticulously uncover remnants of the past, the layers of history intertwine with the verses of scripture, offering a unique perspective on the cultures and events of antiquity.
 
 This topic is part of our [research on archaeological excavations](/research/excavations).
@@ -70,7 +74,10 @@ Uncovering physical evidence through biblical archaeology today enhances our com
 
 Explore these related articles for deeper study:
 
+- [Unlocking the Past: the Role of Biblical Archaeologists in](/research/excavations/unlocking-the-past-the-role-of-biblical-archaeologists-in-engaging-the-public)
 - [What is the Value of Biblical Archeology?](/research/excavations/what-is-the-value-of-biblical-archeology)
+- [When did Biblical Archeology Start?](/research/excavations/when-did-biblical-archeology-start)
+- [Discovering the Pioneers: Prominent Biblical Archaeologists](/research/excavations/discovering-the-pioneers-prominent-biblical-archaeologists)
 
 ## Frequently Asked Questions
 
@@ -89,4 +96,3 @@ Other key discoveries in biblical archaeology include:
 ### Why does is the science of biblical archeology? matter for understanding the Bible?
 
 Excavations here have uncovered layers of history, including remains of the First and Second Temples, offering insights into ancient religious practices and the cultural significance of Jerusalem in antiquity. By examining the archaeological and historical background, readers gain a more grounded perspective on the people, places, and events described in scripture.
-

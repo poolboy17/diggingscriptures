@@ -11,6 +11,10 @@ imageAlt: "wailing wall, western wall, israel, jerusalem, temple, wailing wall, 
 imageCredit: "Image by Freeshot on Pixabay"
 imageWidth: 1280
 imageHeight: 733
+siloTier: "support"
+siloCluster: "biblical-archaeologists"
+siloParent: "/research/faith/exploring-the-depths-the-future-of-underwater-biblical-archaeological-research"
+siloPriority: 68
 ---Understanding the Methods of Biblical Archaeologists is a theological subject that explores the intersection of faith traditions and historical evidence.
 
 This topic is part of our [research on faith and history](/research/faith).
@@ -178,7 +182,10 @@ Biblical archaeologists play a vital role in uncovering, interpreting, and conte
 
 Explore these related articles for deeper study:
 
-- [Methods Used by Biblical Archaeologists to Date Ancient Artifacts](/research/artifacts/methods-used-by-biblical-archaeologists-to-date-ancient-artifacts)
+- [Exploring the Depths: the Future of Underwater Biblical](/research/faith/exploring-the-depths-the-future-of-underwater-biblical-archaeological-research)
+- [Unearthing the Secrets: Discoveries of Biblical Archaeologists](/research/faith/unearthing-the-secrets-discoveries-of-biblical-archaeologists)
+- [10 Essential Tips for Aspiring Biblical Archaeologists](/research/faith/10-essential-tips-for-aspiring-biblical-archaeologists)
+- [Unearthing Truth: the Battle of Biblical Archaeologists Against](/research/faith/unearthing-truth-the-battle-of-biblical-archaeologists-against-looting)
 
 ## Frequently Asked Questions
 
@@ -201,4 +208,3 @@ Archaeological excavations serve various purposes in biblical archaeology. Physi
 Techniques and Procedures
 
 Archaeological excavations follow a systematic and meticulous approach to ensure accurate data collection. By examining the archaeological and historical background, readers gain a more grounded perspective on the people, places, and events described in scripture.
-

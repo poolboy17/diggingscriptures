@@ -11,6 +11,10 @@ imageAlt: "construction site, building, work, works, concrete, armed, cables, fo
 imageCredit: "Image by Mrdidg on Pixabay"
 imageWidth: 1280
 imageHeight: 853
+siloTier: "support"
+siloCluster: "sea-scrolls"
+siloParent: "/research/excavations/the-dead-sea-scrolls-unearthed-secrets-of-the-bible"
+siloPriority: 59
 ---What Dead Sea Scrolls Reveal About Scripture is an area of archaeological investigation that has yielded significant findings about the ancient world.
 
 This topic is part of our [research on archaeological excavations](/research/excavations).
@@ -125,8 +129,10 @@ There's no evidence to support that claim. The timeline and content suggest pred
 
 Explore these related articles for deeper study:
 
+- [The Dead sea Scrolls: Unearthed Secrets of the Bible](/research/excavations/the-dead-sea-scrolls-unearthed-secrets-of-the-bible)
+- [The Excavation of Qumran: Unearthing the Famous Dead sea Scrolls](/research/excavations/the-excavation-of-qumran-unearthing-the-famous-dead-sea-scrolls)
+- [Deciphering Dead sea Scrolls  a Rare Glimpse into Biblical](/research/excavations/unraveling-the-dead-sea-scrolls-biblical-insights)
 - [Exploring Ancient Cosmic Battle Theories in the Dead Sea Scrolls](/research/excavations/dead-sea-orchard-unraveling-the-cosmic-battle-theories)
-- [Exploring the Link: Biblical Archaeology and the Dead sea Scrolls](/research/excavations/exploring-the-link-biblical-archaeology-and-the-dead-sea-scrolls)
 
 ## Frequently Asked Questions
 
@@ -145,4 +151,3 @@ Over time, approximately 900 manuscripts were found in 11 caves near the archaeo
 Why They Matter
  
 While the discovery itself is fascinating, it's the content and what it reveals that truly matters. By examining the archaeological and historical background, readers gain a more grounded perspective on the people, places, and events described in scripture.
-

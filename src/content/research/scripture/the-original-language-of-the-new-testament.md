@@ -11,6 +11,10 @@ imageAlt: "dead sea scrolls, qumran caves, scripture, israel, dead sea, landscap
 imageCredit: "Image by jdblack on Pixabay"
 imageWidth: 1280
 imageHeight: 848
+siloTier: "support"
+siloCluster: "language-testament"
+siloParent: "/research/scripture/exploring-the-language-of-the-old-testament"
+siloPriority: 65
 ---"The Original Language of the New Testament" explores the fascinating subject of the language in which the New Testament was originally written. With tasks focusing on contrasting themes, literary genres, historical context, messianic prophecies, and the differences between law and covenant in the Old and New Testaments, this article delves into the deep-rooted foundations of Christianity. Written by Anita Love, a distinguished authority on Christian history and theology, this captivating introduction offers a glimpse into the extensive research and expertise that Anita brings to her writings. So, what was the New Testament written in originally?
 
 This topic is part of our [research on biblical scripture studies](/research/scripture).
@@ -168,8 +172,10 @@ Future researchers in New Testament studies will face both challenges and opport
 
 Explore these related articles for deeper study:
 
+- [Exploring the Language of the old Testament](/research/scripture/exploring-the-language-of-the-old-testament)
 - [The Language of the old Testament: Exploring its Original Writing](/research/scripture/the-language-of-the-old-testament-exploring-its-original-writing)
-- [The Language of the Original old Testament: Exploring Ancient](/research/scripture/the-language-of-the-original-old-testament-exploring-ancient-biblical-manuscripts)
+- [The Original Language of the new Testament Bible](/research/scripture/the-original-language-of-the-new-testament-bible)
+- [Understanding the Original Language of the new Testament](/research/scripture/understanding-the-original-language-of-the-new-testament)
 
 ## Frequently Asked Questions
 
@@ -186,4 +192,3 @@ With tasks focusing on contrasting themes, literary genres, historical context, 
 Understanding the New Testament
  
 The New Testament is a collection of religious texts that form an integral part of Christianity. By examining the archaeological and historical background, readers gain a more grounded perspective on the people, places, and events described in scripture.
-

@@ -11,6 +11,10 @@ imageAlt: "scroll, feather, ink, caligraphy, hebrew, writing, characters, paper,
 imageCredit: "Image by zofiaEliyahu on Pixabay"
 imageWidth: 1280
 imageHeight: 859
+siloTier: "support"
+siloCluster: "language-testament"
+siloParent: "/research/scripture/exploring-the-language-of-the-old-testament"
+siloPriority: 77
 ---Have you ever wondered in what language the New Testament was originally written? Well, the New Testament is actually a compilation of texts that were primarily written in Greek. The Language of the New Testament: Exploring its Origins delves into the fascinating world of ancient biblical manuscripts and explores the origins of the language in which the New Testament was composed. Join renowned theologian and scholar Anita Love as she uncovers the historical and cultural contexts surrounding these texts, shedding light on the rich linguistic heritage of Christianity's foundational document. Through Anita's extensive research and expertise, you'll gain a deeper understanding of the New Testament and its significance in the modern world.
 
 This topic is part of our [research on biblical scripture studies](/research/scripture).
@@ -296,6 +300,9 @@ Additionally, understanding the original language equips individuals to engage i
 Explore these related articles for deeper study:
 
 - [Exploring the Language of the old Testament](/research/scripture/exploring-the-language-of-the-old-testament)
+- [Language of the old Testament: Exploring the Scriptures](/research/scripture/language-of-the-old-testament-exploring-the-scriptures)
+- [The Language of the Original old Testament: Exploring Ancient](/research/scripture/the-language-of-the-original-old-testament-exploring-ancient-biblical-manuscripts)
+- [The Language of the old Testament: Exploring its Original Writing](/research/scripture/the-language-of-the-old-testament-exploring-its-original-writing)
 
 ## Frequently Asked Questions
 
@@ -312,4 +319,3 @@ The presence of Hebrew and Aramaic in the New Testament can be found within the 
 ### Why does language of the new testament: exploring its origins matter for understanding the Bible?
 
 Poetry, found primarily in the book of Psalms and scattered throughout other sections of the New Testament, expresses emotions, praises God, and conveys profound spiritual truths. By examining the archaeological and historical background, readers gain a more grounded perspective on the people, places, and events described in scripture.
-

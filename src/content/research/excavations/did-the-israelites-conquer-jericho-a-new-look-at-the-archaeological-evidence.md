@@ -11,6 +11,10 @@ imageAlt: "streets, night, lights, circle, highways, top view, cityscape, aerial
 imageCredit: "Image by csliaw on Pixabay"
 imageWidth: 1280
 imageHeight: 960
+siloTier: "support"
+siloCluster: "biblical-archaeologists"
+siloParent: "/research/excavations/unlocking-the-past-the-role-of-biblical-archaeologists-in-engaging-the-public"
+siloPriority: 47
 ---Did the Israelites Conquer Jericho a new Look at the is an area of archaeological investigation that has yielded significant findings about the ancient world.
 
 This topic is part of our [research on archaeological excavations](/research/excavations).
@@ -72,7 +76,10 @@ Throughout the centuries, Jericho's significance has been intertwined with its r
 
 Explore these related articles for deeper study:
 
-- [Journey to Jericho  the Fascinating World of Biblical Archaeology](/research/excavations/exploring-biblical-archaeology-journey-to-jericho)
+- [Unlocking the Past: the Role of Biblical Archaeologists in](/research/excavations/unlocking-the-past-the-role-of-biblical-archaeologists-in-engaging-the-public)
+- [Discovering the Pioneers: Prominent Biblical Archaeologists](/research/excavations/discovering-the-pioneers-prominent-biblical-archaeologists)
+- [The Role of Biblical Archaeologists in the Preservation of](/research/excavations/the-role-of-biblical-archaeologists-in-the-preservation-of-cultural-heritage)
+- [Top Excavation Sites for Biblical Archaeologists](/research/excavations/top-excavation-sites-for-biblical-archaeologists)
 
 ## Frequently Asked Questions
 
@@ -87,4 +94,3 @@ Bryant Wood further confirmed that the Italian excavation in 1997 aligned with e
 ### Why does did the israelites conquer jericho a new look at the matter for understanding the Bible?
 
 The Italian excavation revealed a new section of the city wall that matched the Biblical narrative of Jericho's destruction. By examining the archaeological and historical background, readers gain a more grounded perspective on the people, places, and events described in scripture.
-

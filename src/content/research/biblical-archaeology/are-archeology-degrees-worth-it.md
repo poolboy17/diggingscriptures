@@ -11,6 +11,10 @@ imageAlt: "masada national park, masada, the great revolt, roman siege ramp, cli
 imageCredit: "Image by samirsmier on Pixabay"
 imageWidth: 1280
 imageHeight: 720
+siloTier: "support"
+siloCluster: "archaeology-archeology"
+siloParent: "/research/biblical-archaeology"
+siloPriority: 68
 ---In the intricate layers of academic pursuits, the question lingers: are archaeology degrees worth the excavation?
 
 This topic is part of our [research on biblical archaeology](/research/biblical-archaeology).
@@ -73,8 +77,10 @@ The profound connection individuals establish with the past through their archae
 
 Explore these related articles for deeper study:
 
+- [What is the Study of Archeology Called?](/research/biblical-archaeology/what-is-the-study-of-archeology-called)
+- [Why are There two Different Spellings Archaeology and Archeology?](/research/biblical-archaeology/why-are-there-two-different-spellings-archaeology-and-archeology)
+- [What is the Difference Between Archaeology and Archeology?](/research/biblical-archaeology/what-is-the-difference-between-archaeology-and-archeology)
 - [Is There a Difference Between Archaeology and Archeology?](/research/biblical-archaeology/is-there-a-difference-between-archaeology-and-archeology)
-- [What is the Course on Biblical Archeology?](/research/biblical-archaeology/what-is-the-course-on-biblical-archeology)
 
 ## Frequently Asked Questions
 
@@ -95,4 +101,3 @@ The curriculum of archaeology programs typically includes practical training in 
 - Research Methodologies:
 
 Another significant challenge is mastering research methodologies specific to archaeology. By examining the archaeological and historical background, readers gain a more grounded perspective on the people, places, and events described in scripture.
-

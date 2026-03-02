@@ -11,6 +11,10 @@ imageAlt: "to learn, read, a book, literature, old, old book, to study, school, 
 imageCredit: "Image by garten-gg on Pixabay"
 imageWidth: 1280
 imageHeight: 1157
+siloTier: "support"
+siloCluster: "testament-books"
+siloParent: "/research/scripture/exploring-the-old-testament-through-a-cultural-lens"
+siloPriority: 74
 ---The Formation of the new Testament: who Added it to the Bible? refers to a subject within biblical manuscript studies that scholars continue to investigate.
 
 This topic is part of our [research on biblical scripture studies](/research/scripture).
@@ -273,7 +277,10 @@ These contemporary debates and discussions serve to enrich the understanding and
 
 Explore these related articles for deeper study:
 
+- [Exploring the old Testament Through a Cultural Lens](/research/scripture/exploring-the-old-testament-through-a-cultural-lens)
 - [Are all the Books of the old Testament in the Hebrew Bible?](/research/scripture/are-all-the-books-of-the-old-testament-in-the-hebrew-bible)
+- [Exploring the Authenticity of old Testament Manuscripts](/research/scripture/exploring-the-authenticity-of-old-testament-manuscripts)
+- [Brief Overview of the old Testament](/research/scripture/brief-overview-of-the-old-testament)
 
 ## Frequently Asked Questions
 
@@ -290,4 +297,3 @@ Understanding how the New Testament came to be can provide valuable insights int
 Edict of Milan and its impact on the development of the New Testament
  
 The Edict of Milan issued by Emperor Constantine in 313 AD marked a significant turning point in the history of Christianity. By examining the archaeological and historical background, readers gain a more grounded perspective on the people, places, and events described in scripture.
-

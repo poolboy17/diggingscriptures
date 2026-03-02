@@ -11,6 +11,10 @@ imageAlt: "landscape, tree, stone, wall, travel, ancient, old, architecture, arc
 imageCredit: "Image by Photos_Marta on Pixabay"
 imageWidth: 1280
 imageHeight: 960
+siloTier: "support"
+siloCluster: "sea-scrolls"
+siloParent: "/research/excavations/the-dead-sea-scrolls-unearthed-secrets-of-the-bible"
+siloPriority: 71
 ---Exploring Ancient Cosmic Battle Theories in the Dead Sea Scrolls is an area of archaeological investigation that has yielded significant findings about the ancient world.
 
 This topic is part of our [research on archaeological excavations](/research/excavations).
@@ -120,7 +124,10 @@ In navigating both the visible and invisible conflicts surrounding you, may you 
 
 Explore these related articles for deeper study:
 
-- [Exploring Ancient Moral Dilemmas at the Dead Sea Vineyard](/research/excavations/dead-sea-vineyard-a-lamentation-in-jars-of-moral-decline)
+- [The Dead sea Scrolls: Unearthed Secrets of the Bible](/research/excavations/the-dead-sea-scrolls-unearthed-secrets-of-the-bible)
+- [The Excavation of Qumran: Unearthing the Famous Dead sea Scrolls](/research/excavations/the-excavation-of-qumran-unearthing-the-famous-dead-sea-scrolls)
+- [Deciphering Dead sea Scrolls  a Rare Glimpse into Biblical](/research/excavations/unraveling-the-dead-sea-scrolls-biblical-insights)
+- [What Dead Sea Scrolls Reveal About Scripture](/research/excavations/what-dead-sea-scrolls-reveal-about-scripture)
 
 ## Frequently Asked Questions
 
@@ -139,4 +146,3 @@ Excavations in the Juniper Valley and the surrounding region have unearthed arti
 The Qumran Community: A Hive of Spirituality
  
 The discovery of Qumran, near where the scrolls were found, reveals much about the community that lived there. By examining the archaeological and historical background, readers gain a more grounded perspective on the people, places, and events described in scripture.
-

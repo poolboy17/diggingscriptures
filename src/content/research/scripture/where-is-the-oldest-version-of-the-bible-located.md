@@ -11,6 +11,10 @@ imageAlt: "books, library, read, shelves, shelf, reading, culture, book, edition
 imageCredit: "Image by Marisa_Sias on Pixabay"
 imageWidth: 1280
 imageHeight: 720
+siloTier: "support"
+siloCluster: "bible-located"
+siloParent: "/research/scripture"
+siloPriority: 80
 ---Where is the Oldest Version of the Bible Located? refers to a subject within biblical manuscript studies that scholars continue to investigate.
 
 This topic is part of our [research on biblical scripture studies](/research/scripture).
@@ -73,8 +77,10 @@ To provide a clearer overview, a table detailing the locations of the Codex Sina
 
 Explore these related articles for deeper study:
 
-- [Is the Ethiopian Bible the Oldest Bible?](/research/scripture/is-the-ethiopian-bible-the-oldest-bible)
-- [Is the Ethiopian Bible the Oldest?](/research/scripture/is-the-ethiopian-bible-the-oldest)
+- [Where is the First Original Bible Located?](/research/scripture/where-is-the-first-original-bible-located)
+- [Where is the Original Bible Located?](/research/scripture/where-is-the-original-bible-located)
+- [What is the Oldest Archaeological Evidence of the Bible?](/research/scripture/what-is-the-oldest-archaeological-evidence-of-the-bible)
+- [What is the Oldest Bible Found?](/research/scripture/what-is-the-oldest-bible-found)
 
 ## Frequently Asked Questions
 
@@ -91,4 +97,3 @@ Its importance is underscored by several key factors:
 ### Why does is the oldest version of the bible located? matter for understanding the Bible?
 
 - Saint Catherine's Monastery: The location where Codex Sinaiticus was found, this ancient monastery in the Sinai Peninsula serves as a significant historical site for the preservation of early Christian texts. By examining the archaeological and historical background, readers gain a more grounded perspective on the people, places, and events described in scripture.
-

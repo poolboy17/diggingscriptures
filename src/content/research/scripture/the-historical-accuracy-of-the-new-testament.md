@@ -11,6 +11,10 @@ imageAlt: "parchment, contract, paper, document, old, manuscript, retro, yellow,
 imageCredit: "Image by icame on Pixabay"
 imageWidth: 1280
 imageHeight: 853
+siloTier: "support"
+siloCluster: "testament-themes"
+siloParent: "/research/scripture/comparing-old-testament-and-new-testament-themes"
+siloPriority: 62
 ---The Historical Accuracy of the new Testament refers to a subject within biblical manuscript studies that scholars continue to investigate.
 
 This topic is part of our [research on biblical scripture studies](/research/scripture).
@@ -174,7 +178,10 @@ Modern biblical criticism employs various scholarly methods to discern the histo
 
 Explore these related articles for deeper study:
 
-- [The Historical Context of the old Testament and the new Testament](/research/scripture/the-historical-context-of-the-old-testament-and-the-new-testament)
+- [Comparing old Testament and new Testament Themes](/research/scripture/comparing-old-testament-and-new-testament-themes)
+- [The Translation of the old Testament: a Historical Perspective](/research/scripture/the-translation-of-the-old-testament-a-historical-perspective)
+- [The old Testament: Exploring Themes, Genres, and Historical](/research/scripture/the-old-testament-exploring-themes-genres-and-historical-contexts)
+- [Comparing the old Testament and new Testament Themes](/research/scripture/comparing-the-old-testament-and-new-testament-themes)
 
 ## Frequently Asked Questions
 
@@ -189,4 +196,3 @@ The New Testament, with its diverse voices and genres, invites believers to exam
 ### Why does historical accuracy of the new testament matter for understanding the Bible?
 
 Her thought-provoking insights shed light on the differences between the two, providing a richer understanding of the foundations of Christianity. By examining the archaeological and historical background, readers gain a more grounded perspective on the people, places, and events described in scripture.
-

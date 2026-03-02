@@ -11,6 +11,10 @@ imageAlt: "desktop, laptop, crafts, still life, mockup, table, decoration, desig
 imageCredit: "Image by rawpixel on Pixabay"
 imageWidth: 1280
 imageHeight: 916
+siloTier: "support"
+siloCluster: "testament-books"
+siloParent: "/research/scripture/exploring-the-old-testament-through-a-cultural-lens"
+siloPriority: 10
 ---Where did the Bible Originate? refers to a subject within biblical manuscript studies that scholars continue to investigate.
 
 This topic is part of our [research on biblical scripture studies](/research/scripture).
@@ -67,7 +71,10 @@ KeywordsDescriptionOld CovenantTook shape under the Persian EmpireNew CovenantCo
 
 Explore these related articles for deeper study:
 
-- [Are all the Books of the old Testament in the Hebrew Bible?](/research/scripture/are-all-the-books-of-the-old-testament-in-the-hebrew-bible)
+- [Exploring the old Testament Through a Cultural Lens](/research/scripture/exploring-the-old-testament-through-a-cultural-lens)
+- [How Does Archeology Prove the Bible is True?](/research/scripture/how-does-archeology-prove-the-bible-is-true)
+- [The Formation of the new Testament: who Added it to the Bible?](/research/scripture/the-formation-of-the-new-testament-who-added-it-to-the-bible)
+- [What are the Contributions of Archaeology to the Bible?](/research/scripture/what-are-the-contributions-of-archaeology-to-the-bible)
 
 ## Frequently Asked Questions
 
@@ -84,4 +91,3 @@ The Bible's origins can be traced back to the Old Covenant, recounting the Israe
 ### Why does did the bible originate? matter for understanding the Bible?
 
 The Old Agreement, also known as the Hebrew Scripture, was originally written in Hebrew, with some portions in Aramaic. By examining the archaeological and historical background, readers gain a more grounded perspective on the people, places, and events described in scripture.
-

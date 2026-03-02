@@ -11,6 +11,10 @@ imageAlt: "to learn, read, a book, literature, old, old book, to study, school, 
 imageCredit: "Image by garten-gg on Pixabay"
 imageWidth: 1280
 imageHeight: 884
+siloTier: "support"
+siloCluster: "testament-testament"
+siloParent: "/research/scripture/why-is-it-called-old-testament-and-new-testament"
+siloPriority: 77
 ---The Connection Between the old Testament and the new Testament refers to a subject within biblical manuscript studies that scholars continue to investigate.
 
 This topic is part of our [research on biblical scripture studies](/research/scripture).
@@ -305,7 +309,10 @@ The review and analysis of major fulfilled prophecies provide believers with rea
 
 Explore these related articles for deeper study:
 
-- [Are all new Testament Books Written in Greek?](/research/scripture/are-all-new-testament-books-written-in-greek)
+- [Why is it Called old Testament and new Testament?](/research/scripture/why-is-it-called-old-testament-and-new-testament)
+- [Connecting the old Testament and the new Testament](/research/scripture/connecting-the-old-testament-and-the-new-testament)
+- [Should i Read the new Testament or the old Testament First?](/research/scripture/should-i-read-the-new-testament-or-the-old-testament-first)
+- [The Influence of Cultural Context on old Testament Narratives](/research/scripture/the-influence-of-cultural-context-on-old-testament-narratives)
 
 ## Frequently Asked Questions
 
@@ -322,4 +329,3 @@ The Mosaic Law, given to the Israelites through Moses, serves as a foundational 
 How Historical Events Influenced the Content and Themes
  
 The historical events that unfolded during the periods of the Old Testament and New Testament significantly influenced the content and themes found within the biblical texts. By examining the archaeological and historical background, readers gain a more grounded perspective on the people, places, and events described in scripture.
-

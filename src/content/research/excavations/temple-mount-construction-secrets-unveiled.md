@@ -11,6 +11,10 @@ imageAlt: "workshop, carpenter, crafts, artisan, drink, work, tool, vintage, wor
 imageCredit: "Image by ThMilherou on Pixabay"
 imageWidth: 1280
 imageHeight: 848
+siloTier: "support"
+siloCluster: "temple-mount"
+siloParent: "/research/excavations/unveiling-the-hidden-secrets-the-latest-developments-in-biblical-archaeology-research"
+siloPriority: 77
 ---Temple Mount Construction Secrets Unveiled is an area of archaeological investigation that has yielded significant findings about the ancient world.
 
 This topic is part of our [research on archaeological excavations](/research/excavations).
@@ -101,7 +105,10 @@ Experts and enthusiasts alike are encouraged to keep abreast of ongoing research
 
 Explore these related articles for deeper study:
 
+- [Unveiling the Hidden Secrets: the Latest Developments in](/research/excavations/unveiling-the-hidden-secrets-the-latest-developments-in-biblical-archaeology-research)
+- [Unveiling Temple Mount Construction Methods](/research/excavations/unveiling-temple-mount-construction-methods)
 - [Temple Mount Secrets: Unearthing Hidden History with Advanced](/research/excavations/archaeological-scanning-unveils-temple-mount-secrets)
+- [Temple Mount Chamber Network Finally Mapped](/research/excavations/temple-mount-chamber-network-finally-mapped)
 
 ## Frequently Asked Questions
 
@@ -120,4 +127,3 @@ Stories found in the Old Testament portray the Temple as an architectural wonder
 Archaeological Evidence
  
 The Temple Mount is a treasure trove of archaeological discovery, revealing intimate glimpses into the past. By examining the archaeological and historical background, readers gain a more grounded perspective on the people, places, and events described in scripture.
-

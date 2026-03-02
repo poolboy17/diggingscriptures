@@ -11,6 +11,10 @@ imageAlt: "jerusalem, israel, old town, walls, the rock temple, dome of the rock
 imageCredit: "Image by Walkerssk on Pixabay"
 imageWidth: 1280
 imageHeight: 493
+siloTier: "support"
+siloCluster: "biblical-archaeological"
+siloParent: "/research/biblical-archaeology/the-unearthing-of-ancient-temples-a-biblical-archaeological-expedition"
+siloPriority: 10
 ---What is the Course on Biblical Archeology? is a topic in biblical archaeology that connects ancient material evidence with scriptual narratives.
 
 This topic is part of our [research on biblical archaeology](/research/biblical-archaeology).
@@ -72,7 +76,10 @@ The structure of the course is designed to offer a thorough learning experience 
 
 Explore these related articles for deeper study:
 
+- [The Unearthing of Ancient Temples: a Biblical Archaeological](/research/biblical-archaeology/the-unearthing-of-ancient-temples-a-biblical-archaeological-expedition)
 - [What is the Study of Biblical Archeology?](/research/biblical-archaeology/what-is-the-study-of-biblical-archeology)
+- [How Do Desert Fortresses Echo Resilience in Biblical Archaeology?](/research/biblical-archaeology/desert-fortress-the-laments-of-national-defeat-in-archaeological-context)
+- [Embracing the Future: new Technologies in Biblical Archaeology](/research/biblical-archaeology/embracing-the-future-new-technologies-in-biblical-archaeology)
 
 ## Frequently Asked Questions
 
@@ -87,4 +94,3 @@ Through a blend of academic insights and practical applications, participants ar
 ### Why does is the course on biblical archeology? matter for understanding the Bible?
 
 Through the program, students engage in field excavation opportunities abroad, allowing them to apply classroom knowledge to real-world research scenarios. By examining the archaeological and historical background, readers gain a more grounded perspective on the people, places, and events described in scripture.
-

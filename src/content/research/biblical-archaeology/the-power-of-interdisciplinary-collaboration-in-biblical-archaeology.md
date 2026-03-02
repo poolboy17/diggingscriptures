@@ -11,6 +11,10 @@ imageAlt: "petra, ad deir, world heritage, sand stone, antique, historically, na
 imageCredit: "Image by ChiemSeherin on Pixabay"
 imageWidth: 1280
 imageHeight: 853
+siloTier: "pillar"
+siloCluster: "ancient-biblical"
+siloParent: "/research/biblical-archaeology"
+siloPriority: 94
 ---The Power of Interdisciplinary Collaboration in Biblical is a topic in biblical archaeology that connects ancient material evidence with scriptual narratives.
 
 This topic is part of our [research on biblical archaeology](/research/biblical-archaeology).
@@ -171,6 +175,9 @@ Interdisciplinary collaboration holds immense power in the field of biblical arc
 Explore these related articles for deeper study:
 
 - [Exploring the Power of Collaboration in Biblical Archaeology](/research/biblical-archaeology/exploring-the-power-of-collaboration-in-biblical-archaeology-research)
+- [Unveiling Ancient Biblical Streets: the Power of Digital Mapping](/research/biblical-archaeology/digital-mapping-uncovers-lost-biblical-city-streets)
+- [Unveiling Ancient Biblical Rituals: Qumran's Purity Secrets](/research/biblical-archaeology/qumran-cave-revisited-unveiling-cord-bound-texts-on-ritual-purity)
+- [Discover Ancient Biblical Archaeology: Unveiling Wisdom](/research/biblical-archaeology/desert-plateau-slab-the-exiled-teachers-call-to-steadfastness)
 
 ## Frequently Asked Questions
 
@@ -193,4 +200,3 @@ The Tel Shimron Excavations, led by an interdisciplinary team of archaeologists,
 The Maresha Excavations
 
 The Maresha Excavations, a project involving archaeologists, historians, and geologists, have revealed a complex underground city in southern Israel. By examining the archaeological and historical background, readers gain a more grounded perspective on the people, places, and events described in scripture.
-

@@ -11,6 +11,10 @@ imageAlt: "petra, ad deir, world heritage, sand stone, antique, historically, na
 imageCredit: "Image by ChiemSeherin on Pixabay"
 imageWidth: 1280
 imageHeight: 853
+siloTier: "support"
+siloCluster: "ancient-secrets"
+siloParent: "/research/biblical-archaeology/decoding-ancient-inscriptions-unraveling-the-secrets-of-biblical-archaeology"
+siloPriority: 62
 ---Jerichos Hidden Past: Unearthing Ancient Secrets of is a topic in biblical archaeology that connects ancient material evidence with scriptual narratives.
 
 This topic is part of our [research on biblical archaeology](/research/biblical-archaeology).
@@ -181,7 +185,10 @@ As you ponder the nuances of occupation at Jericho, remember that history is rar
 
 Explore these related articles for deeper study:
 
+- [Decoding Ancient Inscriptions: Unraveling the Secrets of](/research/biblical-archaeology/decoding-ancient-inscriptions-unraveling-the-secrets-of-biblical-archaeology)
 - [Unearthing Ancient Secrets: The Spiritual Unity of](/research/biblical-archaeology/jericho-boundary-crack-unearthing-spiritual-unity-in-ancient-contexts)
+- [Unlocking En Gedis Ancient Secrets: A Deep Dive into Scribe](/research/biblical-archaeology/cave-wall-message-unveiling-the-scribe-diaries-from-en-gedis-twilight)
+- [Jerichos Legacy: How Ancient Scribes and Workers Sculpted Society](/research/biblical-archaeology/rural-jericho-dwelling-insights-into-scribal-school-practices-and-labor-laws)
 
 ## Frequently Asked Questions
 
@@ -198,4 +205,3 @@ These newly found texts provide material for many conversations about the implic
 A Convergence of Scholarship
  
 What's captivating about these manuscripts is how they serve as a bridge between ancient contexts and modern interpretations. By examining the archaeological and historical background, readers gain a more grounded perspective on the people, places, and events described in scripture.
-

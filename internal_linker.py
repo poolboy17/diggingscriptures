@@ -4,13 +4,21 @@ Internal Linker for DiggingScriptures Research Articles
 ========================================================
 Analyzes and remediates internal linking across 680 research articles.
 Three-phase architecture:
-  Phase 1: Inventory & Graph Build
-  Phase 2: Topic Matching (weighted scoring)
+  Phase 1: Inventory & Graph Build (reads silo fields from frontmatter)
+  Phase 2: Topic Matching (silo-aware weighted scoring)
   Phase 3: Link Injection (hub links + Related Research section)
+
+Silo-Aware Matching (v2):
+  When siloTier/siloCluster/siloParent fields are present in frontmatter,
+  the linker uses them for deterministic linking:
+    - Same cluster siblings get a strong score bonus (+5)
+    - Pillar pages get priority as link targets (+3)
+    - Articles always link to their siloParent (pillar or hub)
+    - Cross-cluster links within the same category still allowed (weaker)
 
 Usage:
   python internal_linker.py --audit              # Report orphans & under-linked
-  python internal_linker.py --fix                 # Inject links
+  python internal_linker.py --fix                 # Inject links (silo-aware if fields present)
   python internal_linker.py --fix --min-links 5   # Custom minimum
   python internal_linker.py --fix --category biblical-archaeology
 
@@ -60,15 +68,18 @@ STOP_WORDS = {
 # Phase 1: Inventory & Graph Build
 # ═══════════════════════════════════════════════════════════════
 
+def extract_frontmatter_field(raw, field):
+    """Pull a single field from YAML frontmatter."""
+    m = re.search(rf'^{field}:\s*["\']?(.+?)["\']?\s*$', raw, re.MULTILINE)
+    return m.group(1).strip() if m else ""
+
 def extract_title(raw):
     """Pull title from YAML frontmatter."""
-    m = re.search(r'^title:\s*["\']?(.+?)["\']?\s*$', raw, re.MULTILINE)
-    return m.group(1).strip() if m else ""
+    return extract_frontmatter_field(raw, "title")
 
 def extract_category(raw):
     """Pull category from YAML frontmatter."""
-    m = re.search(r'^category:\s*["\']?(.+?)["\']?\s*$', raw, re.MULTILINE)
-    return m.group(1).strip() if m else ""
+    return extract_frontmatter_field(raw, "category")
 
 def extract_body(raw):
     """Get the body text after frontmatter."""
@@ -126,6 +137,13 @@ def build_inventory():
 
             outbound = extract_internal_links(body)
 
+            # Silo fields (v2) — read if present, empty string if not
+            silo_tier = extract_frontmatter_field(raw, "siloTier")
+            silo_cluster = extract_frontmatter_field(raw, "siloCluster")
+            silo_parent = extract_frontmatter_field(raw, "siloParent")
+            silo_priority_str = extract_frontmatter_field(raw, "siloPriority")
+            silo_priority = int(silo_priority_str) if silo_priority_str.isdigit() else 0
+
             inventory[slug] = {
                 "filepath": filepath,
                 "title": title,
@@ -136,6 +154,11 @@ def build_inventory():
                 "body_keywords": body_kw,
                 "outbound_links": outbound,
                 "inbound_count": 0,  # filled in next pass
+                # Silo fields (empty string = not present, linker falls back to keyword matching)
+                "silo_tier": silo_tier,       # hub | pillar | cluster | support
+                "silo_cluster": silo_cluster, # cluster slug within category
+                "silo_parent": silo_parent,   # URL of parent page
+                "silo_priority": silo_priority, # 1-100
             }
 
     # Second pass: count inbound links
@@ -166,24 +189,49 @@ def compute_match_score(source, target):
     """
     Weighted relevance score between two articles.
     Higher = better match for internal linking.
+
+    Silo-aware (v2): When silo fields are present, cluster membership
+    is the strongest signal. Falls back to keyword matching when absent.
     """
     score = 0.0
 
-    # 1. Shared title keywords (strongest signal — titles are dense with topic)
-    shared_title = source["title_keywords"] & target["title_keywords"]
-    score += len(shared_title) * 3
+    # ── Silo-aware signals (v2) ──────────────────────────────────
+    has_silo = bool(source.get("silo_cluster") and target.get("silo_cluster"))
 
-    # 2. Same category bonus (respects hub-spoke topical silos)
+    if has_silo:
+        # 1a. Same cluster = strongest signal (deterministic grouping)
+        if (source["silo_cluster"] == target["silo_cluster"]
+                and source["category"] == target["category"]):
+            score += 5
+
+        # 1b. Pillar pages are high-value link targets
+        if target.get("silo_tier") == "pillar":
+            score += 3
+
+        # 1c. Higher-priority articles within same cluster are better targets
+        if (source["silo_cluster"] == target["silo_cluster"]
+                and target.get("silo_priority", 0) > source.get("silo_priority", 0)):
+            score += 1  # mild preference for linking "up" the hierarchy
+
+    # ── Original keyword signals (always active, but weaker when silo present) ──
+    kw_weight = 1.0 if not has_silo else 0.5  # halve keyword weight when silo is active
+
+    # 2. Shared title keywords
+    shared_title = source["title_keywords"] & target["title_keywords"]
+    score += len(shared_title) * 3 * kw_weight
+
+    # 3. Same category bonus
     if source["category"] == target["category"]:
         score += 2
 
-    # 3. Shared body keywords (weaker but useful for topical adjacency)
+    # 4. Shared body keywords (capped to avoid long-article bias)
     shared_body = source["body_keywords"] & target["body_keywords"]
-    score += min(len(shared_body), 8) * 1  # cap at 8 to avoid long-article bias
+    score += min(len(shared_body), 8) * 1 * kw_weight
 
-    # 4. Penalty if already linked (don't duplicate)
+    # ── Penalties ────────────────────────────────────────────────
+    # 5. Already linked — heavy penalty to avoid duplicates
     if target["url"] in source["outbound_links"]:
-        score -= 10  # heavy penalty — effectively removes from candidates
+        score -= 10
 
     return score
 
@@ -191,6 +239,9 @@ def find_best_targets(slug, inventory, count=TARGET_RELATED):
     """
     Find the top N most relevant articles to link to from `slug`.
     Returns list of (target_slug, score) tuples, highest first.
+
+    Silo-aware (v2): Guarantees the article's pillar parent is included
+    (if it exists and is a research article, not a hub page).
     """
     source = inventory[slug]
     candidates = []
@@ -204,6 +255,28 @@ def find_best_targets(slug, inventory, count=TARGET_RELATED):
 
     # Sort by score descending, break ties by inbound_count (prefer under-linked targets)
     candidates.sort(key=lambda x: (-x[1], inventory[x[0]]["inbound_count"]))
+
+    # ── Silo-aware: guarantee pillar parent is in the list ──────
+    silo_parent_url = source.get("silo_parent", "")
+    if silo_parent_url and source.get("silo_tier") == "support":
+        # Find the pillar slug by URL
+        parent_slug = None
+        for ts, ti in inventory.items():
+            if ti["url"] == silo_parent_url:
+                parent_slug = ts
+                break
+        if parent_slug and parent_slug != slug:
+            # Check if already linked
+            if silo_parent_url not in source["outbound_links"]:
+                # Ensure pillar is in the top results (insert at position 0 if not already there)
+                existing_slugs = [c[0] for c in candidates]
+                if parent_slug not in existing_slugs:
+                    candidates.insert(0, (parent_slug, 99))  # synthetic high score
+                elif existing_slugs.index(parent_slug) >= count:
+                    # It's in candidates but would be cut off — promote it
+                    candidates = [(s, sc) for s, sc in candidates if s != parent_slug]
+                    candidates.insert(0, (parent_slug, 99))
+
     return candidates[:count]
 
 
@@ -262,14 +335,26 @@ def inject_related_section(body, targets, inventory):
     Append a '## Related Research' section with contextual links.
     Places it before the FAQ section if one exists, otherwise at the end.
     Returns (new_body, links_added_count).
+
+    Silo-aware (v2): Orders links with pillar pages first (they're the
+    cluster authority), then remaining cluster siblings.
     """
     if not targets:
         return body, 0
 
+    # Sort targets: pillars first, then by score (already sorted by find_best_targets)
+    def sort_key(item):
+        t_slug, t_score = item
+        t = inventory[t_slug]
+        is_pillar = 1 if t.get("silo_tier") == "pillar" else 0
+        return (-is_pillar, -t_score)
+
+    sorted_targets = sorted(targets, key=sort_key)
+
     # Build the Related Research markdown
     lines_md = ["\n## Related Research\n"]
     lines_md.append("Explore these related articles for deeper study:\n")
-    for target_slug, _score in targets:
+    for target_slug, _score in sorted_targets:
         t = inventory[target_slug]
         title = t["title"]
         url = t["url"]
@@ -277,9 +362,9 @@ def inject_related_section(body, targets, inventory):
     lines_md.append("")  # trailing newline
     related_block = "\n".join(lines_md)
 
-    # Check if there's already a Related Research section — skip if so
+    # Check if there's already a Related Research section — skip unless replacing
     if re.search(r"^##\s+Related\s+Research", body, re.MULTILINE | re.I):
-        return body, 0
+        return body, 0  # caller should use strip_related_section() first for relink mode
 
     # Place before FAQ section if it exists
     faq_match = re.search(r"^##\s+.*(?:FAQ|Frequently Asked|Common Questions)", body, re.MULTILINE | re.I)
@@ -290,6 +375,75 @@ def inject_related_section(body, targets, inventory):
         body = body.rstrip() + "\n" + related_block + "\n"
 
     return body, len(targets)
+
+
+def strip_related_section(body):
+    """
+    Remove existing '## Related Research' section from body.
+    Returns (cleaned_body, was_stripped).
+    Used by --relink mode to replace with silo-aware links.
+    """
+    # Find the Related Research heading
+    m = re.search(r'^##\s+Related\s+Research\s*\n', body, re.MULTILINE | re.I)
+    if not m:
+        return body, False
+
+    start = m.start()
+    # Find the end: next ## heading or end of body
+    rest = body[m.end():]
+    next_heading = re.search(r'^##\s+', rest, re.MULTILINE)
+    if next_heading:
+        end = m.end() + next_heading.start()
+    else:
+        end = len(body)
+
+    cleaned = body[:start].rstrip() + "\n\n" + body[end:].lstrip("\n")
+    return cleaned.rstrip() + "\n", True
+
+
+def relink_article(slug, inventory):
+    """
+    Silo-aware relink: strips existing Related Research section and replaces
+    it with a new one using silo-aware scoring. Also ensures hub link exists.
+    Returns (new_body, changes_list) or (None, []) if no changes.
+    """
+    info = inventory[slug]
+    body = info["body"]
+    changes = []
+
+    # 1. Strip existing Related Research
+    new_body, stripped = strip_related_section(body)
+    if stripped:
+        # Re-count outbound links after stripping
+        new_outbound = extract_internal_links(new_body)
+        changes.append("Stripped old Related Research section")
+    else:
+        new_body = body
+        new_outbound = info["outbound_links"]
+
+    # 2. Ensure hub link
+    new_body, hub_added = inject_hub_link(new_body, info["category"], info["title"])
+    if hub_added:
+        changes.append(f"Injected hub link to {HUB_URLS.get(info['category'], '')}")
+
+    # 3. Build fresh silo-aware Related Research section
+    # Temporarily update outbound_links so find_best_targets doesn't re-suggest existing links
+    orig_outbound = info["outbound_links"]
+    info["outbound_links"] = extract_internal_links(new_body)
+
+    targets = find_best_targets(slug, inventory, count=TARGET_RELATED)
+    new_body, rc = inject_related_section(new_body, targets, inventory)
+
+    # Restore original outbound for other articles' scoring
+    info["outbound_links"] = orig_outbound
+
+    if rc > 0:
+        silo_note = " (silo-aware)" if info.get("silo_cluster") else ""
+        changes.append(f"Added Related Research ({rc} links{silo_note})")
+
+    if not changes:
+        return None, []
+    return new_body, changes
 
 
 def fix_article_links(slug, inventory, min_links=MIN_LINKS, max_links=MAX_LINKS):
@@ -360,6 +514,8 @@ def fix_links_for_body(slug, body, category, inventory=None):
     """
     SemanticPipe integration point. Takes a slug, current body, and category.
     Returns (new_body, changes_list). Does NOT save — SemanticPipe handles saving.
+
+    Silo-aware (v2): Uses silo fields already in inventory (loaded from frontmatter).
     """
     if inventory is None:
         inventory = get_inventory()
@@ -371,6 +527,8 @@ def fix_links_for_body(slug, body, category, inventory=None):
         info["outbound_links"] = extract_internal_links(body)
         info["title_keywords"] = extract_keywords(info["title"])
         info["body_keywords"] = extract_keywords(body[:2000])
+        # Note: silo fields are already loaded from frontmatter during build_inventory()
+        # No need to re-extract here — they don't change during pipeline runs
     else:
         return body, []
 
@@ -386,13 +544,14 @@ def fix_links_for_body(slug, body, category, inventory=None):
     if hub_added:
         changes.append(f"Injected hub link to {HUB_URLS.get(category, '')}")
 
-    # Related Research
+    # Related Research (silo-aware target selection)
     needed = max(MIN_LINKS - current_count - (1 if hub_added else 0), 0)
     if needed > 0:
         targets = find_best_targets(slug, inventory, count=min(needed + 1, TARGET_RELATED))
         new_body, rc = inject_related_section(new_body, targets, inventory)
         if rc > 0:
-            changes.append(f"Added Related Research ({rc} links)")
+            silo_note = " (silo-aware)" if info.get("silo_cluster") else ""
+            changes.append(f"Added Related Research ({rc} links{silo_note})")
 
     return new_body, changes
 
@@ -414,6 +573,17 @@ def run_audit(inventory, category_filter=None):
     zero_outbound = {s: i for s, i in articles.items()
                      if len(i["outbound_links"]) == 0}
 
+    # Silo coverage stats
+    has_silo = sum(1 for i in articles.values() if i.get("silo_cluster"))
+    pillar_count = sum(1 for i in articles.values() if i.get("silo_tier") == "pillar")
+    support_count = sum(1 for i in articles.values() if i.get("silo_tier") == "support")
+    # Count articles linking to their siloParent
+    links_to_parent = 0
+    for s, i in articles.items():
+        parent_url = i.get("silo_parent", "")
+        if parent_url and parent_url in i["outbound_links"]:
+            links_to_parent += 1
+
     print(f"\n{'='*70}")
     print(f"  INTERNAL LINK AUDIT — DiggingScriptures Research")
     print(f"{'='*70}")
@@ -421,6 +591,11 @@ def run_audit(inventory, category_filter=None):
     print(f"  Orphans (0 inbound):   {len(orphans)}  {'** CRITICAL **' if orphans else 'OK'}")
     print(f"  Zero outbound links:   {len(zero_outbound)}")
     print(f"  Under-linked (<{MIN_LINKS}):  {len(under_linked)}")
+    if has_silo:
+        print(f"  Silo coverage:         {has_silo}/{total} ({has_silo*100//total}%)")
+        print(f"  Pillars:               {pillar_count}")
+        print(f"  Support articles:      {support_count}")
+        print(f"  Linking to parent:     {links_to_parent}/{has_silo} ({links_to_parent*100//max(has_silo,1)}%)")
     print()
 
     # Per-category breakdown
@@ -521,6 +696,60 @@ def run_fix(inventory, min_links=MIN_LINKS, max_links=MAX_LINKS, category_filter
 
 
 # ═══════════════════════════════════════════════════════════════
+# CLI: Relink Mode (silo-aware replacement)
+# ═══════════════════════════════════════════════════════════════
+
+def run_relink(inventory, category_filter=None, dry_run=False):
+    """
+    Re-evaluate and replace all Related Research sections with silo-aware links.
+    Unlike --fix (which only touches under-linked articles), --relink replaces
+    every article's Related Research with optimized silo-aware targets.
+    """
+    articles = inventory
+    if category_filter:
+        articles = {s: i for s, i in articles.items() if i["category"] == category_filter}
+
+    relinked = 0
+    hub_added = 0
+    related_added = 0
+    skipped = 0
+
+    for slug, info in sorted(articles.items()):
+        new_body, changes = relink_article(slug, inventory)
+        if new_body is None:
+            skipped += 1
+            continue
+
+        for c in changes:
+            if "hub link" in c.lower():
+                hub_added += 1
+            if "Related Research" in c:
+                m = re.search(r'\((\d+) links', c)
+                if m:
+                    related_added += int(m.group(1))
+
+        if not dry_run:
+            save_body(info["filepath"], new_body)
+
+        relinked += 1
+        if relinked <= 10 or relinked % 100 == 0:
+            print(f"  [{relinked:3d}] {slug[:50]:50s}  {' | '.join(changes)}")
+
+    print(f"\n{'='*70}")
+    print(f"  SILO-AWARE RELINK RESULTS")
+    print(f"{'='*70}")
+    print(f"  Articles processed:    {len(articles)}")
+    print(f"  Relinked:              {relinked}")
+    print(f"  Skipped (no changes):  {skipped}")
+    print(f"  Hub links added:       {hub_added}")
+    print(f"  Related links added:   {related_added}")
+    print(f"  Mode:                  {'DRY RUN' if dry_run else 'SAVED'}")
+    print(f"{'='*70}")
+
+    return {"relinked": relinked, "hub_added": hub_added, "related_added": related_added}
+
+
+# ═══════════════════════════════════════════════════════════════
 # CLI Entry Point
 # ═══════════════════════════════════════════════════════════════
 
@@ -528,14 +757,15 @@ def main():
     parser = argparse.ArgumentParser(description="Internal Linker for DiggingScriptures Research")
     parser.add_argument("--audit", action="store_true", help="Report orphans and under-linked pages")
     parser.add_argument("--fix", action="store_true", help="Inject links into under-linked articles")
+    parser.add_argument("--relink", action="store_true", help="Replace Related Research with silo-aware links")
     parser.add_argument("--dry-run", action="store_true", help="Preview without saving")
     parser.add_argument("--min-links", type=int, default=MIN_LINKS, help=f"Minimum links threshold (default: {MIN_LINKS})")
     parser.add_argument("--max-links", type=int, default=MAX_LINKS, help=f"Maximum links cap (default: {MAX_LINKS})")
     parser.add_argument("--category", type=str, default=None, help="Filter to single category")
     args = parser.parse_args()
 
-    if not args.audit and not args.fix:
-        print("Use --audit to report or --fix to remediate. Add --dry-run to preview.")
+    if not args.audit and not args.fix and not args.relink:
+        print("Use --audit, --fix, or --relink. Add --dry-run to preview.")
         sys.exit(0)
 
     print("Building article inventory and link graph...")
@@ -548,6 +778,9 @@ def main():
     if args.fix:
         run_fix(inventory, min_links=args.min_links, max_links=args.max_links,
                 category_filter=args.category, dry_run=args.dry_run)
+
+    if args.relink:
+        run_relink(inventory, category_filter=args.category, dry_run=args.dry_run)
 
 
 if __name__ == "__main__":

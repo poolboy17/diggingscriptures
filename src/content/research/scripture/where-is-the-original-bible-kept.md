@@ -11,6 +11,10 @@ imageAlt: "books, students, library, university, knowledge, literature, brown bo
 imageCredit: "Image by Pexels on Pixabay"
 imageWidth: 1280
 imageHeight: 486
+siloTier: "support"
+siloCluster: "bible-kept"
+siloParent: "/research/scripture"
+siloPriority: 77
 ---Where is the Original Bible Kept? refers to a subject within biblical manuscript studies that scholars continue to investigate.
 
 This topic is part of our [research on biblical scripture studies](/research/scripture).
@@ -66,8 +70,10 @@ Moreover, the digitized version of the Codex Sinaiticus, available online since 
 
 Explore these related articles for deeper study:
 
-- [Where are the Original Copies of the Bible Kept?](/research/scripture/where-are-the-original-copies-of-the-bible-kept)
 - [Where are the Original Manuscripts of the Bible Kept?](/research/scripture/where-are-the-original-manuscripts-of-the-bible-kept)
+- [Where are the Original Copies of the Bible Kept?](/research/scripture/where-are-the-original-copies-of-the-bible-kept)
+- [Does the Original Bible Still Exist?](/research/scripture/does-the-original-bible-still-exist)
+- [The Original Language of the new Testament Bible](/research/scripture/the-original-language-of-the-new-testament-bible)
 
 ## Frequently Asked Questions
 
@@ -82,4 +88,3 @@ The Greek New Scripture, consisting of 27 books written between the AD 40s-90s, 
 ### Why does is the original bible kept? matter for understanding the Bible?
 
 While the Vatican Library's collection is a treasure trove for those interested in studying the Bible and its origins, it's important to note that the original Bible itself isn't among its holdings. By examining the archaeological and historical background, readers gain a more grounded perspective on the people, places, and events described in scripture.
-

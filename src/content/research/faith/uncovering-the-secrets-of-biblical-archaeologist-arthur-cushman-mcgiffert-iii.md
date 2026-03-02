@@ -11,6 +11,10 @@ imageAlt: "church, cathedral, architecture, chapel, france, normandy, religion, 
 imageCredit: "Image by Tama66 on Pixabay"
 imageWidth: 1280
 imageHeight: 853
+siloTier: "support"
+siloCluster: "biblical-archaeologists"
+siloParent: "/research/faith/exploring-the-depths-the-future-of-underwater-biblical-archaeological-research"
+siloPriority: 59
 ---Uncovering the Secrets of Biblical Archaeologist Arthur Cushman is a theological subject that explores the intersection of faith traditions and historical evidence.
 
 This topic is part of our [research on faith and history](/research/faith).
@@ -162,8 +166,10 @@ Arthur's unwavering dedication to the field of biblical archaeology ensured that
 
 Explore these related articles for deeper study:
 
-- [Uncovering Ancient Secrets: Biblical Archaeology Reveals](/research/biblical-archaeology/uncovering-ancient-secrets-biblical-archaeology-reveals-shipwrecks)
-- [Uncovering the Secrets: Biblical Archaeology and its Connection](/research/biblical-archaeology/uncovering-the-secrets-biblical-archaeology-and-its-connection-to-biblical-texts)
+- [Exploring the Depths: the Future of Underwater Biblical](/research/faith/exploring-the-depths-the-future-of-underwater-biblical-archaeological-research)
+- [Unearthing the Secrets: Discoveries of Biblical Archaeologists](/research/faith/unearthing-the-secrets-discoveries-of-biblical-archaeologists)
+- [Exploring the Secrets of Biblical Seals](/research/faith/exploring-the-secrets-of-biblical-seals)
+- [10 Essential Tips for Aspiring Biblical Archaeologists](/research/faith/10-essential-tips-for-aspiring-biblical-archaeologists)
 
 ## Frequently Asked Questions
 
@@ -184,4 +190,3 @@ Arthur's groundbreaking excavations took him to numerous notable archaeological 
 ### Why does uncovering the secrets of biblical archaeologist arthur cushman matter for understanding the Bible?
 
 He was awarded the prestigious Barker Medal for his significant contributions to biblical archaeology and was also honored with the esteemed Archaeological Achievement Award for his pioneering methodologies and discoveries. By examining the archaeological and historical background, readers gain a more grounded perspective on the people, places, and events described in scripture.
-

@@ -11,6 +11,10 @@ imageAlt: "song, sheet music, music notes, notenblatt, melody, music wallpaper, 
 imageCredit: "Image by Ri_Ya on Pixabay"
 imageWidth: 1280
 imageHeight: 853
+siloTier: "support"
+siloCluster: "language-testament"
+siloParent: "/research/scripture/exploring-the-language-of-the-old-testament"
+siloPriority: 53
 ---The Materials Used for Writing the old Testament refers to a subject within biblical manuscript studies that scholars continue to investigate.
 
 This topic is part of our [research on biblical scripture studies](/research/scripture).
@@ -121,8 +125,10 @@ The significance of preservation in understanding the Old Testament cannot be ov
 
 Explore these related articles for deeper study:
 
+- [Exploring the Language of the old Testament](/research/scripture/exploring-the-language-of-the-old-testament)
 - [Oldest Writing in the old Testament](/research/scripture/oldest-writing-in-the-old-testament)
 - [The Language of the old Testament: Exploring its Original Writing](/research/scripture/the-language-of-the-old-testament-exploring-its-original-writing)
+- [The Original Language of the new Testament](/research/scripture/the-original-language-of-the-new-testament)
 
 ## Frequently Asked Questions
 
@@ -137,4 +143,3 @@ Examples of stone inscriptions can be found in ancient civilizations such as Mes
 ### Why does materials used for writing the old testament matter for understanding the Bible?
 
 Examples of stone inscriptions can be found in ancient civilizations such as Mesopotamia, Egypt, and Greece. By examining the archaeological and historical background, readers gain a more grounded perspective on the people, places, and events described in scripture.
-

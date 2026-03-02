@@ -11,6 +11,10 @@ imageAlt: "ancient, pottery, pots, clay, antique, art, artisan, artistic, brown,
 imageCredit: "Image by Pexels on Pixabay"
 imageWidth: 1280
 imageHeight: 853
+siloTier: "support"
+siloCluster: "biblical-archaeological"
+siloParent: "/research/biblical-archaeology/the-unearthing-of-ancient-temples-a-biblical-archaeological-expedition"
+siloPriority: 10
 ---What are the Techniques Used in Archaeological Fieldwork? is a topic in biblical archaeology that connects ancient material evidence with scriptual narratives.
 
 This topic is part of our [research on biblical archaeology](/research/biblical-archaeology).
@@ -66,8 +70,10 @@ Here are four key ways geospatial mapping applications enhance archaeological re
 
 Explore these related articles for deeper study:
 
-- [Preparing for Fieldwork: Strategies and Techniques in Biblical](/research/biblical-archaeology/preparing-for-fieldwork-strategies-and-techniques-in-biblical-archaeology)
-- [What are the Techniques Used in Archaeology Surveying?](/research/biblical-archaeology/what-are-the-techniques-used-in-archaeology-surveying)
+- [The Unearthing of Ancient Temples: a Biblical Archaeological](/research/biblical-archaeology/the-unearthing-of-ancient-temples-a-biblical-archaeological-expedition)
+- [Uncovering Nelson Glueck's Archaeological Legacy](/research/biblical-archaeology/uncovering-nelson-gluecks-archaeological-legacy)
+- [The Role of Statistical Analysis in Biblical Archaeological](/research/biblical-archaeology/the-role-of-statistical-analysis-in-biblical-archaeological-research)
+- [Preserving Biblical Archaeological Sites: Best Practices Revealed](/research/biblical-archaeology/preserving-biblical-archaeological-sites-best-practices-revealed)
 
 ## Frequently Asked Questions
 
@@ -86,4 +92,3 @@ Studying the layers of soil and sediment in archaeological sites is essential fo
 ### Why does are the techniques used in archaeological fieldwork? matter for understanding the Bible?
 
 Harris Matrix diagrams are commonly used in archaeological excavations to visually represent the relationships between different contexts identified through stratigraphy. By examining the archaeological and historical background, readers gain a more grounded perspective on the people, places, and events described in scripture.
-

@@ -11,6 +11,10 @@ imageAlt: "archaeology, city, petra, jordan, historical site, landscape, petra, 
 imageCredit: "Image by StockSnap on Pixabay"
 imageWidth: 1280
 imageHeight: 854
+siloTier: "support"
+siloCluster: "biblical-archaeological"
+siloParent: "/research/biblical-archaeology/the-unearthing-of-ancient-temples-a-biblical-archaeological-expedition"
+siloPriority: 65
 ---The Role of Statistical Analysis in Biblical Archaeological is a topic in biblical archaeology that connects ancient material evidence with scriptual narratives.
 
 This topic is part of our [research on biblical archaeology](/research/biblical-archaeology).
@@ -186,7 +190,10 @@ Statistical analysis plays an indispensable role in advancing Biblical Archaeolo
 
 Explore these related articles for deeper study:
 
+- [The Unearthing of Ancient Temples: a Biblical Archaeological](/research/biblical-archaeology/the-unearthing-of-ancient-temples-a-biblical-archaeological-expedition)
 - [Analyzing the Role of Peer Review in Biblical Archaeological](/research/biblical-archaeology/analyzing-the-role-of-peer-review-in-biblical-archaeological-research)
+- [10 Must-Visit Biblical Archaeological Sites](/research/biblical-archaeology/10-must-visit-biblical-archaeological-sites)
+- [Top 5 Historical Locations for Biblical Archaeological](/research/biblical-archaeology/top-5-historical-locations-for-biblical-archaeological-excavations)
 
 ## Frequently Asked Questions
 
@@ -205,4 +212,3 @@ The Role of Statistical Analysis in Biblical Archaeological is a topic in biblic
 Types of Statistical Analysis Used in Biblical Archaeological Research
 
 In Biblical Archaeological research, various types of statistical analysis are employed to gain a comprehensive understanding of the data. By examining the archaeological and historical background, readers gain a more grounded perspective on the people, places, and events described in scripture.
-

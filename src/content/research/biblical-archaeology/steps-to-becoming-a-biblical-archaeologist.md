@@ -11,6 +11,10 @@ imageAlt: "israel, jerusalem, jewish, palestine, religion, temple, judaism, holy
 imageCredit: "Image by Nick115 on Pixabay"
 imageWidth: 1280
 imageHeight: 854
+siloTier: "support"
+siloCluster: "biblical-archaeologist"
+siloParent: "/research/biblical-archaeology/exploring-the-key-responsibilities-of-a-biblical-archaeologist"
+siloPriority: 74
 ---Steps to Becoming a Biblical Archaeologist is a topic in biblical archaeology that connects ancient material evidence with scriptual narratives.
 
 This topic is part of our [research on biblical archaeology](/research/biblical-archaeology).
@@ -98,6 +102,8 @@ Explore these related articles for deeper study:
 
 - [Exploring the key Responsibilities of a Biblical Archaeologist](/research/biblical-archaeology/exploring-the-key-responsibilities-of-a-biblical-archaeologist)
 - [How do you Become a Biblical Archaeologist?](/research/biblical-archaeology/how-do-you-become-a-biblical-archaeologist)
+- [Exploring the key Discoveries of Archaeologist Kathleen Kenyon](/research/biblical-archaeology/exploring-the-key-discoveries-of-archaeologist-kathleen-kenyon)
+- [Can you be an Archaeologist Without a Degree?](/research/biblical-archaeology/can-you-be-an-archaeologist-without-a-degree)
 
 ## Frequently Asked Questions
 
@@ -116,4 +122,3 @@ Steps to Becoming a Biblical Archaeologist is a topic in biblical archaeology th
 Education
 
 Obtaining a Bachelor's degree is the first step towards becoming a biblical archaeologist. By examining the archaeological and historical background, readers gain a more grounded perspective on the people, places, and events described in scripture.
-

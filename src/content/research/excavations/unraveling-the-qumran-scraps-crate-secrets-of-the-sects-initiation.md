@@ -11,6 +11,10 @@ imageAlt: "mountain, erosion, death valley, desert, dry, drought, rock formation
 imageCredit: "Image by jplenio on Pixabay"
 imageWidth: 1280
 imageHeight: 720
+siloTier: "pillar"
+siloCluster: "secrets-qumran"
+siloParent: "/research/excavations"
+siloPriority: 93
 ---New Evidence: Spirituality Secrets in Ancient Qumran Scrolls is an area of archaeological investigation that has yielded significant findings about the ancient world.
 
 This topic is part of our [research on archaeological excavations](/research/excavations).
@@ -167,7 +171,10 @@ So, as you ponder the ancient secrets of Qumran, remember that their journey con
 
 Explore these related articles for deeper study:
 
-- [Discover Ancient Temple Artifacts in Qumran: Secrets of](/research/excavations/exploring-the-qumran-workshop-ruins-a-quest-for-temple-artifacts)
+- [Discover Ancient Secrets: Qumran Stones Impact on Festival Timing](/research/excavations/qumran-boundary-stone-unlocking-the-calendar-keys-for-festival-timing)
+- [Unraveling Ancient Scrolls: The Dance Between Piety and Law in](/research/excavations/qumran-fallen-beams-the-tug-of-war-between-piety-and-rigor-in-scroll-writings)
+- [Unlocking Secrets of the Qumran Boulder Mark: A Biblical](/research/excavations/restoration-hopes-of-the-qumran-boulder-mark)
+- [Unraveling the Ancient Unity Scroll: Qumran Wall Gaps Hidden](/research/excavations/unveiling-the-secrets-of-the-qumran-wall-gap-clandestine-room-and-unity-scroll-exposed)
 
 ## Frequently Asked Questions
 
@@ -184,4 +191,3 @@ New Evidence: Spirituality Secrets in Ancient Qumran Scrolls is an area of archa
 Ritual and Symbolism
  
 At the heart of these initiation rites were practices rich in symbolism and purpose. By examining the archaeological and historical background, readers gain a more grounded perspective on the people, places, and events described in scripture.
-

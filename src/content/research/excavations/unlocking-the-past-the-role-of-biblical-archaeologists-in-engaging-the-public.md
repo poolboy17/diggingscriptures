@@ -11,6 +11,10 @@ imageAlt: "ruin, landscape, heaven, castle, ruins, fantasy, nature, gothic, myst
 imageCredit: "Image by jusuf111 on Pixabay"
 imageWidth: 1280
 imageHeight: 853
+siloTier: "pillar"
+siloCluster: "biblical-archaeologists"
+siloParent: "/research/excavations"
+siloPriority: 96
 ---Unlocking the Past: the Role of Biblical Archaeologists in is an area of archaeological investigation that has yielded significant findings about the ancient world.
 
 This topic is part of our [research on archaeological excavations](/research/excavations).
@@ -209,6 +213,9 @@ Biblical archaeology, with its ability to uncover the historical context, valida
 Explore these related articles for deeper study:
 
 - [Unearthing the Past: the Role of Biblical Archaeologists in](/research/excavations/unearthing-the-past-the-role-of-biblical-archaeologists-in-preserving-cultural-heritage)
+- [The Role of Biblical Archaeologists in the Preservation of](/research/excavations/the-role-of-biblical-archaeologists-in-the-preservation-of-cultural-heritage)
+- [Discovering the Pioneers: Prominent Biblical Archaeologists](/research/excavations/discovering-the-pioneers-prominent-biblical-archaeologists)
+- [Notable Discoveries by Female Biblical Archaeologists](/research/excavations/notable-discoveries-by-female-biblical-archaeologists)
 
 ## Frequently Asked Questions
 
@@ -231,4 +238,3 @@ Excavations lie at the heart of biblical archaeology. Physical discoveries inclu
 Lack of Funding
 
 Archaeological excavations and research require significant funding. By examining the archaeological and historical background, readers gain a more grounded perspective on the people, places, and events described in scripture.
-

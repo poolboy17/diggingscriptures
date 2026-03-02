@@ -11,6 +11,10 @@ imageAlt: "manuscript, medieval, antique, paper, parchment, vintage, document, l
 imageCredit: "Image by V2Melody on Pixabay"
 imageWidth: 1280
 imageHeight: 854
+siloTier: "support"
+siloCluster: "original-books"
+siloParent: "/research/scripture"
+siloPriority: 74
 ---As the saying goes, 'All roads lead to Rome,' but when it comes to the Bible's origins, the path is not as straightforward.
 
 This topic is part of our [research on biblical scripture studies](/research/scripture).
@@ -72,7 +76,10 @@ These artifacts and texts provide tangible evidence of the early stages of bibli
 
 Explore these related articles for deeper study:
 
+- [Where Were the Original Books of the Bible Found?](/research/scripture/where-were-the-original-books-of-the-bible-found)
 - [Have the Original Books of the Bible Been Found?](/research/scripture/have-the-original-books-of-the-bible-been-found)
+- [How Many Ancient Manuscripts of the Bible Have Been Found?](/research/scripture/how-many-ancient-manuscripts-of-the-bible-have-been-found)
+- [Does the Original Bible Still Exist?](/research/scripture/does-the-original-bible-still-exist)
 
 ## Frequently Asked Questions
 
@@ -87,4 +94,3 @@ Explore these related articles for deeper study:
 ### Why does was the bible originally found? matter for understanding the Bible?
 
 - Aleppo Codex: Originally found in Aleppo, Syria, this medieval manuscript of the Hebrew Bible was later partially lost and relocated to Israel. By examining the archaeological and historical background, readers gain a more grounded perspective on the people, places, and events described in scripture.
-

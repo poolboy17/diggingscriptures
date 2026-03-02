@@ -11,6 +11,10 @@ imageAlt: "jordan, petra, camels, dromedary, nature, desert, tourism"
 imageCredit: "Image by mikaelthunberg on Pixabay"
 imageWidth: 1280
 imageHeight: 854
+siloTier: "support"
+siloCluster: "biblical-archaeologist"
+siloParent: "/research/biblical-archaeology/exploring-the-key-responsibilities-of-a-biblical-archaeologist"
+siloPriority: 65
 ---How do you Become a Biblical Archaeologist? is a topic in biblical archaeology that connects ancient material evidence with scriptual narratives.
 
 This topic is part of our [research on biblical archaeology](/research/biblical-archaeology).
@@ -70,6 +74,8 @@ Explore these related articles for deeper study:
 
 - [Exploring the key Responsibilities of a Biblical Archaeologist](/research/biblical-archaeology/exploring-the-key-responsibilities-of-a-biblical-archaeologist)
 - [Steps to Becoming a Biblical Archaeologist](/research/biblical-archaeology/steps-to-becoming-a-biblical-archaeologist)
+- [Can you be an Archaeologist Without a Degree?](/research/biblical-archaeology/can-you-be-an-archaeologist-without-a-degree)
+- [Exploring the key Discoveries of Archaeologist Kathleen Kenyon](/research/biblical-archaeology/exploring-the-key-discoveries-of-archaeologist-kathleen-kenyon)
 
 ## Frequently Asked Questions
 
@@ -88,4 +94,3 @@ Developing proficiency in archaeological excavation techniques, along with stron
 ### Why does do you become a biblical archaeologist? matter for understanding the Bible?
 
 In addition to excavation skills, biblical archaeologists need to possess a deep understanding of research methodologies to interpret historical and biblical data accurately. By examining the archaeological and historical background, readers gain a more grounded perspective on the people, places, and events described in scripture.
-

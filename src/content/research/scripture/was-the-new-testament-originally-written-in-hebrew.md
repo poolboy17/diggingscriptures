@@ -11,6 +11,10 @@ imageAlt: "books, stack, book store, stack of books, 2nd hand, retro, hipster, s
 imageCredit: "Image by EliFrancis on Pixabay"
 imageWidth: 1280
 imageHeight: 853
+siloTier: "support"
+siloCluster: "originally-written"
+siloParent: "/research/scripture/what-language-was-the-new-testament-originally-written-in"
+siloPriority: 74
 ---In the field of biblical scholarship, one question often sparks passionate debate: Was the New Testament originally written in Hebrew? This query has intrigued scholars and religious thinkers for centuries, prompting rigorous examination of ancient manuscripts and linguistic analysis. Anita Love, a highly regarded authority on Christian history and theology, brings her expertise to the forefront as she delves into this captivating subject. With her vast knowledge and nuanced perspective, she sheds light on the complex relationship between the Old and New Testaments, exploring the fascinating linguistic and cultural factors that contribute to our understanding of these sacred texts. Prepare to embark on a thought-provoking journey as we unravel the mystery of the language in which the New Testament was originally composed.
 
 This topic is part of our [research on biblical scripture studies](/research/scripture).
@@ -175,8 +179,10 @@ At present, the current consensus among Biblical scholars leans towards Greek as
 
 Explore these related articles for deeper study:
 
-- [Is the old Testament Written in Greek or Hebrew?](/research/scripture/is-the-old-testament-written-in-greek-or-hebrew)
+- [What Language was the new Testament Originally Written In?](/research/scripture/what-language-was-the-new-testament-originally-written-in)
+- [What Language was the old Testament Written In?](/research/scripture/what-language-was-the-old-testament-written-in)
 - [Was the old Testament Originally Written in Greek?](/research/scripture/was-the-old-testament-originally-written-in-greek)
+- [When was the new Testament Originally Written?](/research/scripture/when-was-the-new-testament-originally-written)
 
 ## Frequently Asked Questions
 
@@ -193,4 +199,3 @@ Greek, being a rich and expressive language, was capable of capturing and convey
 Claims of Hebrew origins based on quotations in the New Testament
  
 One of the main arguments for Hebrew as the original language stems from the quotations of the Old Testament found in the New Testament. By examining the archaeological and historical background, readers gain a more grounded perspective on the people, places, and events described in scripture.
-

@@ -11,6 +11,10 @@ imageAlt: "calligraphy, story, ink, feather, a book, vintage, old, wood, fairy t
 imageCredit: "Image by Ghinzo on Pixabay"
 imageWidth: 1280
 imageHeight: 853
+siloTier: "support"
+siloCluster: "testament-books"
+siloParent: "/research/scripture/exploring-the-old-testament-through-a-cultural-lens"
+siloPriority: 10
 ---With **mysteries buried** beneath the sands of time and **ancient ruins** waiting to be discovered, exploring the **lost cities** of the Bible is a journey of **adventure** and **wonder**. From the legendary city of **Jericho** to the breathtaking ruins of **Persepolis**, each site holds **historical significance** and **archaeological marvels** waiting to be unearthed. Join us as we probe into the **hidden secrets** and **priceless treasures** that these **ancient cities** have to offer.
 
 This topic is part of our [research on biblical scripture studies](/research/scripture).
@@ -83,8 +87,10 @@ On the whole, exploring the lost cities of the Bible unveils a treasure trove of
 
 Explore these related articles for deeper study:
 
-- [Hidden Temple Chamber Reveals Lost Biblical Treasures](/research/biblical-archaeology/hidden-temple-chamber-reveals-lost-biblical-treasures)
-- [Uncovering Lost Biblical Treasures](/research/excavations/uncovering-lost-biblical-treasures)
+- [Exploring the old Testament Through a Cultural Lens](/research/scripture/exploring-the-old-testament-through-a-cultural-lens)
+- [Exploring the Transition Between the old Testament and the new](/research/scripture/exploring-the-transition-between-the-old-testament-and-the-new-testament)
+- [How Does Archeology Prove the Bible is True?](/research/scripture/how-does-archeology-prove-the-bible-is-true)
+- [The Formation of the new Testament: who Added it to the Bible?](/research/scripture/the-formation-of-the-new-testament-who-added-it-to-the-bible)
 
 ## Frequently Asked Questions
 
@@ -99,4 +105,3 @@ With mysteries buried beneath the sands of time and ancient ruins waiting to be 
 ### Why does exploring the lost cities of the bible  what treasures await? matter for understanding the Bible?
 
 Archaeologists meticulously excavate ancient ruins, revealing valuable artifacts and structures that provide insights into the daily lives of ancient peoples mentioned in biblical texts. By examining the archaeological and historical background, readers gain a more grounded perspective on the people, places, and events described in scripture.
-

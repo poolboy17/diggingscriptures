@@ -11,6 +11,10 @@ imageAlt: "books, library, read, shelves, shelf, reading, culture, book, edition
 imageCredit: "Image by Marisa_Sias on Pixabay"
 imageWidth: 1280
 imageHeight: 720
+siloTier: "support"
+siloCluster: "language-testament"
+siloParent: "/research/scripture/exploring-the-language-of-the-old-testament"
+siloPriority: 71
 ---Are you curious about the language in which the Old Testament was written? Well, the Old Testament, also known as the Hebrew Bible, was originally written primarily in biblical Hebrew, with some portions in Aramaic. This language holds great historical and cultural significance as it is the language in which many of the foundational religious texts of Judaism, as well as a significant portion of Christian scripture, were composed. Exploring the Language of the Old Testament allows us to examine into the rich complexities of biblical Hebrew and gain a deeper understanding of the scriptures that have shaped our world.
 
 This topic is part of our [research on biblical scripture studies](/research/scripture).
@@ -302,6 +306,9 @@ The translation and preservation of the Old Testament ensure its accessibility a
 Explore these related articles for deeper study:
 
 - [Exploring the Language of the old Testament](/research/scripture/exploring-the-language-of-the-old-testament)
+- [The Language of the new Testament: Exploring its Origins](/research/scripture/the-language-of-the-new-testament-exploring-its-origins)
+- [The Language of the Original old Testament: Exploring Ancient](/research/scripture/the-language-of-the-original-old-testament-exploring-ancient-biblical-manuscripts)
+- [The Language of the old Testament: Exploring its Original Writing](/research/scripture/the-language-of-the-old-testament-exploring-its-original-writing)
 
 ## Frequently Asked Questions
 
@@ -318,4 +325,3 @@ The divine inspiration of the Old Testament scriptures is a foundational belief 
 ### Why does language of the old testament: exploring the scriptures matter for understanding the Bible?
 
 This language holds great historical and cultural significance as it is the language in which many of the foundational religious texts of Judaism, as well as a significant portion of Christian scripture, were composed. By examining the archaeological and historical background, readers gain a more grounded perspective on the people, places, and events described in scripture.
-

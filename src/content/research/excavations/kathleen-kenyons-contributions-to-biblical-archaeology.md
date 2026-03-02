@@ -11,6 +11,10 @@ imageAlt: "ruin, landscape, heaven, castle, ruins, fantasy, nature, gothic, myst
 imageCredit: "Image by jusuf111 on Pixabay"
 imageWidth: 1280
 imageHeight: 853
+siloTier: "support"
+siloCluster: "biblical-archaeology"
+siloParent: "/research/excavations/exploring-biblical-archaeology-unveiling-the-secrets-of-ancient-relics"
+siloPriority: 29
 ---Kathleen Kenyon's Contributions to Biblical Archaeology is an area of archaeological investigation that has yielded significant findings about the ancient world.
 
 This topic is part of our [research on archaeological excavations](/research/excavations).
@@ -152,7 +156,10 @@ Kenyon's excavations unearthed numerous significant artifacts and structures tha
 
 Explore these related articles for deeper study:
 
-- [10 Steps to Volunteer on a Biblical Archaeology Dig](/research/excavations/10-steps-to-volunteer-on-a-biblical-archaeology-dig)
+- [Exploring Biblical Archaeology: Unveiling the Secrets of Ancient](/research/excavations/exploring-biblical-archaeology-unveiling-the-secrets-of-ancient-relics)
+- [Integrating Biblical Archaeology in Educational Curriculums](/research/excavations/integrating-biblical-archaeology-in-educational-curriculums)
+- [The Impact of Technology on Biblical Archaeology: Preservation](/research/excavations/the-impact-of-technology-on-biblical-archaeology-preservation-and-conservation)
+- [The Pioneers of Biblical Archaeology](/research/excavations/the-pioneers-of-biblical-archaeology)
 
 ## Frequently Asked Questions
 
@@ -175,4 +182,3 @@ Excavations in Palestine
 Jericho Excavations
 
 One of Kathleen Kenyon's most significant contributions to biblical archaeology was her excavations at Jericho. By examining the archaeological and historical background, readers gain a more grounded perspective on the people, places, and events described in scripture.
-

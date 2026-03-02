@@ -11,6 +11,10 @@ imageAlt: "manuscript, medieval, antique, paper, parchment, vintage, document, l
 imageCredit: "Image by V2Melody on Pixabay"
 imageWidth: 1280
 imageHeight: 854
+siloTier: "support"
+siloCluster: "testament-testament"
+siloParent: "/research/scripture/why-is-it-called-old-testament-and-new-testament"
+siloPriority: 62
 ---Should i Read the new Testament or the old Testament First? refers to a subject within biblical manuscript studies that scholars continue to investigate.
 
 This topic is part of our [research on biblical scripture studies](/research/scripture).
@@ -220,7 +224,10 @@ Ultimately, personal exploration leads to a deeper understanding and appreciatio
 
 Explore these related articles for deeper study:
 
-- [What Language was the new Testament First Written In?](/research/scripture/what-language-was-the-new-testament-first-written-in)
+- [Why is it Called old Testament and new Testament?](/research/scripture/why-is-it-called-old-testament-and-new-testament)
+- [The Connection Between the old Testament and the new Testament](/research/scripture/the-connection-between-the-old-testament-and-the-new-testament)
+- [The Influence of Cultural Context on old Testament Narratives](/research/scripture/the-influence-of-cultural-context-on-old-testament-narratives)
+- [Why is the old Testament Called the old Testament?](/research/scripture/why-is-the-old-testament-called-the-old-testament)
 
 ## Frequently Asked Questions
 
@@ -237,4 +244,3 @@ The New Testament builds upon the foundation laid in the Old Testament, providin
 Its fulfillment in the New Testament within the life and teachings of Jesus Christ
  
 The New Testament reveals how the Messianic prophecies found in the Old Testament are fulfilled in the life and teachings of Jesus Christ. By examining the archaeological and historical background, readers gain a more grounded perspective on the people, places, and events described in scripture.
-

@@ -11,6 +11,10 @@ imageAlt: "western wall, jerusalem, jews, pray, orthodox, holy, religious, weste
 imageCredit: "Image by rliessum on Pixabay"
 imageWidth: 1280
 imageHeight: 960
+siloTier: "support"
+siloCluster: "biblical-archaeological"
+siloParent: "/research/biblical-archaeology/the-unearthing-of-ancient-temples-a-biblical-archaeological-expedition"
+siloPriority: 38
 ---Exploring the Impact of Technology in Biblical Archaeology is a topic in biblical archaeology that connects ancient material evidence with scriptual narratives.
 
 This topic is part of our [research on biblical archaeology](/research/biblical-archaeology).
@@ -150,7 +154,10 @@ Technology has significantly transformed biblical archaeology, offering new meth
 
 Explore these related articles for deeper study:
 
-- [Exploring the Environmental Impact on Biblical Archaeology](/research/excavations/exploring-the-environmental-impact-on-biblical-archaeology)
+- [The Unearthing of Ancient Temples: a Biblical Archaeological](/research/biblical-archaeology/the-unearthing-of-ancient-temples-a-biblical-archaeological-expedition)
+- [Exploring the Multidisciplinary Approach in Biblical Archaeology](/research/biblical-archaeology/exploring-the-multidisciplinary-approach-in-biblical-archaeology)
+- [Embracing the Future: new Technologies in Biblical Archaeology](/research/biblical-archaeology/embracing-the-future-new-technologies-in-biblical-archaeology)
+- [How Do Desert Fortresses Echo Resilience in Biblical Archaeology?](/research/biblical-archaeology/desert-fortress-the-laments-of-national-defeat-in-archaeological-context)
 
 ## Frequently Asked Questions
 
@@ -171,4 +178,3 @@ Artificial intelligence and machine learning algorithms enable automated text an
 ### Why does exploring the impact of technology in biblical archaeology matter for understanding the Bible?
 
 From the use of advanced imaging techniques to the development of cutting-edge excavation tools, technology has revolutionized the way scholars and archaeologists explore and interpret ancient texts and artifacts. By examining the archaeological and historical background, readers gain a more grounded perspective on the people, places, and events described in scripture.
-

@@ -11,6 +11,10 @@ imageAlt: "notre-dame cathedral, catholic, church, cathedral, dame, notre, paris
 imageCredit: "Image by dancepool on Pixabay"
 imageWidth: 1280
 imageHeight: 851
+siloTier: "support"
+siloCluster: "biblical-archaeologists"
+siloParent: "/research/faith/exploring-the-depths-the-future-of-underwater-biblical-archaeological-research"
+siloPriority: 41
 ---What do you think life was like for a group of people living in the shadows of the Dead Sea, hidden away in the rugged landscape of Qumran? Imagine a community so steeped in austerity, dedicating their days to study and ritual, where every whispered word carried the weight of their beliefs. This is not just an intriguing story but a lens through which you can glimpse the daily rhythms and profound ideals of a sect that lived over two thousand years ago.
 
 This topic is part of our [research on faith and history](/research/faith).
@@ -102,7 +106,10 @@ In this hustle of life, perhaps theres a resonating truth from Qumran: that ever
 
 Explore these related articles for deeper study:
 
-- [Unearthing Ancient Wisdom: How Biblical Archaeology Reveals](/research/biblical-archaeology/windstorm-in-judean-valley-a-call-for-moral-renewal)
+- [Exploring the Depths: the Future of Underwater Biblical](/research/faith/exploring-the-depths-the-future-of-underwater-biblical-archaeological-research)
+- [Unearthing Spiritual Symbolism in Biblical Archaeology: The](/research/faith/fishermans-vessel-the-role-of-water-as-purifier-in-desert-belief)
+- [Unearthing Biblical Truths: the Impact of Archaeology on Modern](/research/faith/unearthing-biblical-truths-the-impact-of-archaeology-on-modern-religious-beliefs)
+- [Unearthing Truth: the Battle of Biblical Archaeologists Against](/research/faith/unearthing-truth-the-battle-of-biblical-archaeologists-against-looting)
 
 ## Frequently Asked Questions
 
@@ -119,4 +126,3 @@ This is not just an intriguing story but a lens through which you can glimpse th
 A Journey Through History
  
 To understand the Qumran community, it helps to sift through historical records and archaeological findings that paint a clearer picture of their austere existence. By examining the archaeological and historical background, readers gain a more grounded perspective on the people, places, and events described in scripture.
-

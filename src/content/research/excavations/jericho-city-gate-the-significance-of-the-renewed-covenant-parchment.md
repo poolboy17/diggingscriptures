@@ -11,6 +11,10 @@ imageAlt: "greece, parthenon, temple, ruins, building, architecture, pillars, co
 imageCredit: "Image by nonbirinonko on Pixabay"
 imageWidth: 1280
 imageHeight: 852
+siloTier: "pillar"
+siloCluster: "lost-biblical"
+siloParent: "/research/excavations"
+siloPriority: 93
 ---Exploring Ancient Jericho City Gate: Its Historical is an area of archaeological investigation that has yielded significant findings about the ancient world.
 
 This topic is part of our [research on archaeological excavations](/research/excavations).
@@ -191,7 +195,10 @@ So, what can you take away from the tales of Jericho? Perhaps its the realizatio
 
 Explore these related articles for deeper study:
 
-- [Exploring Ancient Bonds: Decoding the Jericho Mound Ledger](/research/excavations/exploring-the-jericho-mound-ledger-offerings-to-a-desert-fellowship)
+- [Exploring Biblical Archaeology: Unveiling the Secrets of Ancient](/research/excavations/exploring-biblical-archaeology-unveiling-the-secrets-of-ancient-relics)
+- [Lost Biblical City Found: Ancient Life Revealed](/research/excavations/lost-biblical-city-found-ancient-life-revealed)
+- [Lost Biblical City Found: Ancient Fortress Reveals new Story](/research/excavations/lost-biblical-city-found-ancient-fortress-reveals-new-story)
+- [Unlocking the City of David: a Journey Through Biblical](/research/excavations/city-of-david-blocked-door-a-journey-into-restoration)
 
 ## Frequently Asked Questions
 
@@ -210,4 +217,3 @@ The parchment found in Jericho echoes themes of reassurance and the reaffirmatio
 ### Why does exploring ancient jericho city gate: its historical matter for understanding the Bible?
 
 Exploring Ancient Jericho City Gate: Its Historical is an area of archaeological investigation that has yielded significant findings about the ancient world. By examining the archaeological and historical background, readers gain a more grounded perspective on the people, places, and events described in scripture.
-

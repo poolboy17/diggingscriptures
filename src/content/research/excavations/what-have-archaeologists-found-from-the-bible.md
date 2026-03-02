@@ -11,6 +11,10 @@ imageAlt: "masada national park, masada, the great revolt, roman siege ramp, cli
 imageCredit: "Image by samirsmier on Pixabay"
 imageWidth: 1280
 imageHeight: 720
+siloTier: "support"
+siloCluster: "biblical-archaeologists"
+siloParent: "/research/excavations/unlocking-the-past-the-role-of-biblical-archaeologists-in-engaging-the-public"
+siloPriority: 38
 ---What Have Archaeologists Found from the Bible? is an area of archaeological investigation that has yielded significant findings about the ancient world.
 
 This topic is part of our [research on archaeological excavations](/research/excavations).
@@ -68,7 +72,10 @@ Through these discoveries, the intricate details of ancient cultural practices a
 
 Explore these related articles for deeper study:
 
-- [Have any Artifacts from the Bible Been Found?](/research/excavations/have-any-artifacts-from-the-bible-been-found)
+- [Unlocking the Past: the Role of Biblical Archaeologists in](/research/excavations/unlocking-the-past-the-role-of-biblical-archaeologists-in-engaging-the-public)
+- [Discovering the Pioneers: Prominent Biblical Archaeologists](/research/excavations/discovering-the-pioneers-prominent-biblical-archaeologists)
+- [The Role of Biblical Archaeologists in the Preservation of](/research/excavations/the-role-of-biblical-archaeologists-in-the-preservation-of-cultural-heritage)
+- [Top Excavation Sites for Biblical Archaeologists](/research/excavations/top-excavation-sites-for-biblical-archaeologists)
 
 ## Frequently Asked Questions
 
@@ -83,4 +90,3 @@ The Givati Parking Lot excavation in Jerusalem stands out for its significant fi
 ### Why does have archaeologists found from the bible? matter for understanding the Bible?
 
 Among these discoveries are monumental inscriptions that shed light on the achievements of kings in biblical narratives. By examining the archaeological and historical background, readers gain a more grounded perspective on the people, places, and events described in scripture.
-

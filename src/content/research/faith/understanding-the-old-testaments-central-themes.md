@@ -11,6 +11,10 @@ imageAlt: "jerusalem, historic center, city wall, dome of the rock, western wall
 imageCredit: "Image by Buecherwurm_65 on Pixabay"
 imageWidth: 1280
 imageHeight: 853
+siloTier: "support"
+siloCluster: "biblical-archaeologists"
+siloParent: "/research/faith/exploring-the-depths-the-future-of-underwater-biblical-archaeological-research"
+siloPriority: 50
 ---Understanding the old Testament's Central Themes is a theological subject that explores the intersection of faith traditions and historical evidence.
 
 This topic is part of our [research on faith and history](/research/faith).
@@ -111,7 +115,10 @@ The Old Testament's focus on worship and rituals underscores the importance of i
 
 Explore these related articles for deeper study:
 
-- [Central Themes in the old Testament and the new Testament](/research/scripture/central-themes-in-the-old-testament-and-the-new-testament)
+- [Exploring the Depths: the Future of Underwater Biblical](/research/faith/exploring-the-depths-the-future-of-underwater-biblical-archaeological-research)
+- [Comparing old and new Testaments: Central Themes](/research/faith/comparing-old-and-new-testaments-central-themes)
+- [Understanding the Methods of Biblical Archaeologists](/research/faith/understanding-the-methods-of-biblical-archaeologists)
+- [10 Essential Tips for Aspiring Biblical Archaeologists](/research/faith/10-essential-tips-for-aspiring-biblical-archaeologists)
 
 ## Frequently Asked Questions
 
@@ -126,4 +133,3 @@ Understanding the old Testament's Central Themes is a theological subject that e
 ### Why does understanding the old testament's central themes matter for understanding the Bible?
 
 The Old Testament is a collection of sacred texts that hold great significance in Judaism and Christianity. By examining the archaeological and historical background, readers gain a more grounded perspective on the people, places, and events described in scripture.
-
