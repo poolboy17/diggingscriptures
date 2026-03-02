@@ -1,132 +1,74 @@
 # DiggingScriptures — Project Context
 
-## Site Identity
-- **URL:** diggingscriptures.com
-- **Stack:** Astro 5 + Tailwind 4 + React, static SSG, deployed on Netlify
-- **Voice:** Scholarly explorer — rigorous, accessible, respectful of all faith traditions
-- **Revenue:** Affiliate tours (Viator/GYG) — ONLY in designated sections of places/routes
-- **Content dir:** `src/content/{hubs,stories,places,routes,context}/`
-- **Format:** Markdown (.md) with YAML frontmatter + `<Fragment slot="">` sections
+## Overview
+Static site at **diggingscriptures.com** built with Astro 5 + Tailwind 4 + React.
+Deployed on Netlify (site ID: `18c0f63d-4335-4206-9a5b-13d5bb6d31b6`).
+Git: `https://github.com/poolboy17/diggingscriptures.git` (branch: main)
 
-## Content Architecture (Hub-Spoke Model)
+## Content Structure
+- **55 pilgrimage articles** in `src/content/pilgrimage/` (5 categories: context, places, routes, tips, faith)
+- **680 research articles** in `src/content/research/` (5 categories below)
+- Research categories: `biblical-archaeology`, `scripture`, `excavations`, `artifacts`, `faith`
+- Hub pages at `/research/{category}` serve as silo landing pages
+
+## SEO Pyramid Schema (frontmatter fields)
+Every research article has these silo fields in YAML frontmatter:
+```yaml
+siloTier: "support"           # hub | pillar | cluster | support
+siloCluster: "ark-covenant"   # cluster slug within category
+siloParent: "/research/..."   # URL of parent (pillar or hub)
+siloPriority: 53              # 1-100
 ```
-Hubs (authority pages — 2000-3000 words, NO monetization)
-  ↕
-Places (sacred sites — 1200-2500 words, affiliate in "Experience" section only)
-  ↔
-Routes (pilgrimage paths — 1200-2500 words, affiliate in "Modern" section only)
-  ↔
-Stories (people/traditions — 1000-2000 words, NO monetization)
-  ↔
-Context (background articles — 1000-2000 words, NO monetization)
+- 55 pillar pages, 625 support pages, 64 clusters across 5 categories
+- Pillar = longest article per cluster (>= 1500 words)
+
+## Key Scripts (project root)
+| Script | Purpose |
+|--------|---------|
+| `semantic-pipe-research.py` | SemanticPipe v2.1 — GEO/AEO/SXO optimization, FAQ injection, opener hardening, link fixing |
+| `internal_linker.py` | Internal link analysis + silo-aware injection (v2). Flags: `--audit`, `--fix`, `--relink` |
+| `silo_mapper.py` | SEO pyramid schema generator with auto-clustering. Flags: `--analyze`, `--apply`, `--export` |
+| `_validate_pyramid.py` | Tests all pyramid linking chains (bottom-up + top-down) across every silo |
+
+## Internal Linking Rules (enforced by internal_linker.py v2)
+- Every support article links to its cluster pillar (via siloParent)
+- Every support article links to its category hub
+- Every pillar links to its category hub
+- Every pillar links to cluster siblings (top-down)
+- Cluster siblings cross-link to each other (avg >= 1 per article)
+- Validated: 1424/1424 checks PASS across all 5 silos
+
+## SemanticPipe Flags
+```bash
+python semantic-pipe-research.py --all                    # Full optimization
+python semantic-pipe-research.py --all --fix-links        # + internal linking
+python semantic-pipe-research.py --all --aeo-harden       # + FAQ injection
+python semantic-pipe-research.py --all --fix-openers      # + opener hardening
+python semantic-pipe-research.py --audit                  # Score audit only
+python semantic-pipe-research.py --slug article-slug      # Single article
 ```
-## Content Inventory (Target: 42 articles)
 
-### Hubs (5)
-| Slug | Tradition | Status |
-|------|-----------|--------|
-| christian-pilgrimage-traditions | Christianity | DONE |
-| faith-based-journeys | Multi-faith | DONE |
-| islamic-pilgrimage-traditions | Islam | DONE |
-| jewish-pilgrimage-heritage | Judaism | DONE |
-| buddhist-pilgrimage-paths | Buddhism | DONE |
+## Build & Deploy
+```bash
+cd /d D:\dev\projects\diggingscriptures
+npx astro build                    # builds to dist/ (~752 pages, ~27s)
+npx netlify deploy --prod --dir=dist --site=18c0f63d-4335-4206-9a5b-13d5bb6d31b6
+```
 
-### Places (15)
-| Slug | Hub | Status |
-|------|-----|--------|
-| jerusalem | christian | DONE |
-| jerusalem-old-city | christian | DONE |
-| santiago-de-compostela | christian | DONE |
-| rome-vatican | christian | DONE |
-| lourdes | christian | DONE |
-| mecca | islamic | DONE |
-| medina | islamic | IN PROGRESS |
-| dome-of-the-rock | islamic | PENDING |
-| western-wall | jewish | PENDING |
-| safed-kabbalah | jewish | PENDING |
-| hebron-cave-patriarchs | jewish | PENDING |
-| bodh-gaya | buddhist | PENDING |
-| lumbini | buddhist | PENDING |
-| mount-koya | buddhist | PENDING |
-| varanasi | faith-based | PENDING |
-### Routes (8)
-| Slug | Hub | Status |
-|------|-----|--------|
-| camino-de-santiago | christian | DONE |
-| via-francigena | christian | PENDING |
-| hajj-route | islamic | PENDING |
-| abraham-path | faith-based | PENDING |
-| shikoku-88-temples | buddhist | PENDING |
-| kora-mount-kailash | buddhist | PENDING |
-| st-olavs-way | christian | PENDING |
-| kumano-kodo | buddhist | PENDING |
+## Windows CMD Notes
+- Always use `shell: cmd` (not PowerShell) for python scripts
+- Always set `PYTHONIOENCODING=utf-8` before running python
+- For long operations (>30s), use .bat files with `start /b` pattern
+- Git commits: use `-F filename` for multi-line messages (avoid inline quoting issues)
 
-### Stories (8)
-| Slug | Tradition | Status |
-|------|-----------|--------|
-| legend-of-saint-james | Christianity | DONE |
-| helena-and-the-true-cross | Christianity | PENDING |
-| ibn-battuta-pilgrim-traveler | Islam | PENDING |
-| egeria-first-pilgrim-writer | Christianity | PENDING |
-| margery-kempe-medieval-pilgrim | Christianity | PENDING |
-| xuanzang-buddhist-pilgrim | Buddhism | PENDING |
-| rabbi-nachman-journey-to-israel | Judaism | PENDING |
-| kobo-daishi-shikoku | Buddhism | PENDING |
+## Current SEO Scores (as of last full audit)
+- GEO: 58.9%, AEO: 47.4%, SXO: 69.2%, Combined: 58.7%
+- 19 D-grade articles still need manual attention
 
-### Context (6)
-| Slug | Type | Status |
-|------|------|--------|
-| history-of-christian-pilgrimage | historical-background | DONE |
-| five-pillars-hajj-explained | religious-context | PENDING |
-| three-pilgrim-festivals-judaism | religious-context | PENDING |
-| four-sacred-sites-buddhism | religious-context | PENDING |
-| relics-and-sacred-objects | cultural-overview | PENDING |
-| pilgrimage-tourism-modern-era | cultural-overview | PENDING |
-## Layout Slot Patterns
-
-### Places: `<Fragment slot="history|culture|features|experience|related">`
-### Routes: `<Fragment slot="history|journey|places|modern|related">`
-### Stories: `<Fragment slot="narrative|context|legacy|related">`
-### Context: default `<slot />` + `<slot name="concepts">` + `<slot name="sources">` + `<slot name="related">`
-### Hubs: default `<slot />` (no fragments — plain markdown)
-
-## Writing Rules (Key Points)
-- Scholarly but accessible — like a historian giving a walking tour
-- Respectful of ALL traditions equally — never frame one as "correct"
-- Evidence-based: "tradition holds," "scholarship suggests," "archaeological evidence indicates"
-- ≥3 dates, ≥3 named figures, ≥2 primary sources per article
-- NO devotional language as editorial voice
-- Banned: journey (as metaphor), unlock, game-changer, delve, realm, dive in, furthermore, in conclusion
-
-## Key Files
-- `docs/ARTICLE-WRITER-CONFIG.md` — Full 375-line writer config
-- `CONTENT-MAP.md` — Complete content architecture
-- `src/content/config.ts` — Astro collection schemas (LOCKED)
-- `src/layouts/` — 7 layout templates (LOCKED)
-- `netlify.toml` — Deployment config
-
-## Research Silo
-- **680 research articles** across 5 categories: biblical-archaeology (190), excavations (164), scripture (127), faith (119), artifacts (80)
-- URL pattern: `/research/[category]/[slug]`
-- Article JSON-LD schema on every research page (author, publisher, datePublished, image)
-- Dynamic OG images per article (hero image instead of static default)
-- Breadcrumbs on all layouts (Research, Story, Context)
-- `/about` page with Organization schema for E-E-A-T
-
-## SemanticPipe v2.0 (`semantic-pipe-research.py`)
-Multi-threaded quality pipeline with three-layer scoring:
-- **GEO** (Generative Engine Optimization) — entity density, source attribution, temporal anchors, factual claims
-- **AEO** (Answer Engine Optimization) — question headings, definition patterns, opening paragraph, list structure, FAQ
-- **SXO** (Search Experience Optimization) — internal links, content depth, heading hierarchy, paragraph length, frontmatter completeness
-- Combined A/B/C/D/F grading per article
-- `--audit-only` mode for scoring without changes
-- `--aeo-harden` mode to auto-inject FAQ sections
-- `--all --force` for full re-optimization
-
-## Writing Rules (AEO-aware)
-- Opening paragraph must be self-contained factual answer
-- ≥2 question-format H2/H3 headings per article
-- ≥1 definition sentence ("X is Y") per section
-- ≥1 bulleted/numbered list per article
-- FAQ section (3 Q&A pairs) required at end of every research article
-- Full spec: `docs/ARTICLE-WRITER-CONFIG.md`
+## Remaining TODO (lower priority)
+- Google Analytics (GA4) + Search Console verification
+- Custom 404 page
+- Pagefind search integration
+- Related articles component (render silo links in UI)
+- Pagination for category pages
+- Reading time + social share buttons
