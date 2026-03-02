@@ -9,6 +9,8 @@ draft: false
 image: "/images/research/excavations/the-political-powers-impact-on-biblical-archaeology.jpg"
 imageAlt: "valley of the kings, deir el-bahri, egypt, hatshepsut's mortuary temple, archaeology, architecture, mountain, sandstone, hatshepsut, nature, brown king"
 imageCredit: "Image by RonPorter on Pixabay"
+imageWidth: 1280
+imageHeight: 853
 ---
 
 In the realm of biblical archaeology, the impact of political power cannot be understated. The connection between politics and excavations has shaped the way researchers approach and interpret ancient biblical sites. This article explores how political agendas and power dynamics have influenced the field of biblical archaeology, shedding light on the delicate balance between objective research and external influences. From controversial expeditions to the manipulation of historical narratives, the relationship between political power and biblical archaeology unfolds as a compelling story of exploration and manipulation.

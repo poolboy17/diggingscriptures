@@ -9,6 +9,8 @@ draft: false
 image: "/images/research/biblical-archaeology/desert-plateau-slab-the-exiled-teachers-call-to-steadfastness.jpg"
 imageAlt: "israel, jerusalem, old city, damascus gate, gate, wall, architecture, stone, old, ancient, stronghold, fortification, city, protection, defence, travel, israel, jerusalem, jerusalem, jerusalem, jerusalem, jerusalem, stronghold, stronghold"
 imageCredit: "Image by 2427999 on Pixabay"
+imageWidth: 1280
+imageHeight: 853
 ---
 
 Isn't it intriguing how the voices of the past echo through the ages, telling tales that still resonate with us today? When you think of the Desert Plateau Slab and the exiled teacher's call to steadfastness, you might wonder what lessons remain relevant in our modern world. The stories carved into stone many centuries ago have a way of shaping our understanding of resilience, faith, and human experience.

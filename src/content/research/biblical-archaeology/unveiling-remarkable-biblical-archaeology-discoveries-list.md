@@ -9,6 +9,8 @@ draft: false
 image: "/images/research/biblical-archaeology/unveiling-remarkable-biblical-archaeology-discoveries-list.jpg"
 imageAlt: "contrast, abstract, nature, minimalism, windows, stone wall, desert, israel"
 imageCredit: "Image by Pix-Off on Pixabay"
+imageWidth: 1280
+imageHeight: 853
 ---
 
 Exploring the fascinating realm of biblical archaeology unveils a treasure trove of discoveries that illuminate the ancient world. These tangible remnants of history, such as **Ancient artifacts** and **Ancient inscriptions**, provide invaluable insights into the customs and beliefs of past civilizations. 

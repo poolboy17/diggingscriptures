@@ -9,6 +9,8 @@ draft: false
 image: "/images/research/artifacts/where-to-access-biblical-manuscripts-online-today.jpg"
 imageAlt: "postage stamps, mail, weathering, brand, hobby, seal, letters, stamp, rubber stamp, post, choice, vacations, relaxation, collection, old stamps, paper, postage stamp album, mongolia, postage stamps, postage stamps, postage stamps, postage stamps, postage stamps, brand, mongolia"
 imageCredit: "Image by pasja1000 on Pixabay"
+imageWidth: 1280
+imageHeight: 914
 ---
 
 Have you ever been curious about where you can delve into the depths of the world's most ancient biblical manuscripts without leaving the comfort of your home? With the digital age upon us, you have at your fingertips access to these priceless artifacts online. As someone with a PhD in Theology, I can attest to how fascinating and fulfilling studying these texts can be. Exploring biblical manuscripts doesn't just deepen your understanding of religious texts; it also helps connect you to the cultural and historical contexts in which these documents were written.

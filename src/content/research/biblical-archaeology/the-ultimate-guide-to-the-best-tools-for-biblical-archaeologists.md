@@ -9,6 +9,8 @@ draft: false
 image: "/images/research/biblical-archaeology/the-ultimate-guide-to-the-best-tools-for-biblical-archaeologists.jpg"
 imageAlt: "excavator, construction machine, two-way excavator, gripper, site, construction site, machinery, heavy machinery, excavator, excavator, excavator, excavator, excavator, construction site, construction site, construction site"
 imageCredit: "Image by Tama66 on Pixabay"
+imageWidth: 1280
+imageHeight: 954
 ---
 
 In the fast-paced world of biblical archaeology, having the right tools can make all the difference in uncovering ancient mysteries. From high-tech scanning devices to good old-fashioned shovels, this ultimate guide explores the best tools available to aid biblical archaeologists in their excavation and analysis. Whether it's remote sensing equipment to detect hidden structures or specialized software to piece together fragmented artifacts, this comprehensive guide is a valuable resource for anyone passionate about unearthing the secrets of the past.

@@ -9,6 +9,8 @@ draft: false
 image: "/images/research/excavations/unraveling-the-last-qumran-jar-a-discourse-on-free-will-vs-destiny-in-israels-future.jpg"
 imageAlt: "valley of the kings, deir el-bahri, egypt, hatshepsut's mortuary temple, archaeology, architecture, mountain, sandstone, hatshepsut, nature, brown king"
 imageCredit: "Image by RonPorter on Pixabay"
+imageWidth: 1280
+imageHeight: 853
 ---
 
 What do you think about the eternal tug-of-war between free will and destiny? This age-old debate has resurfaced recently, especially in the context of biblical archaeology and the artifacts that shed light on Israel's past. One striking example is the last Qumran jar, a relic steeped in history, mystery, and implications for the future. So, grab a cup of coffee and lets unpack the fascinating realm where archaeology meets philosophy.

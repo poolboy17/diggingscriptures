@@ -9,6 +9,8 @@ draft: false
 image: "/images/research/faith/mountaintop-shrine-pilgrims-seek-echoes-of-the-arks-holiness.jpg"
 imageAlt: "pray, buddha statue, measure, religion, buddhism, asia, prayer, religious, spirit, sacred, faith, statue, culture, meditation, god, buddhist, meditate, worship, sculpture, tranquility, ancient, architecture, art, thailand, buddhism, meditation, meditation, meditation, meditation, meditation, god, god, god"
 imageCredit: "Image by setthayos on Pixabay"
+imageWidth: 1280
+imageHeight: 854
 ---
 
 What would drive someone to scale treacherous mountains and traverse rugged landscapes in search of echoes from a divine past? If youre curious about this, you might be tapping into the timeless human quest for connection with that which transcends mundane existence. The allure of sacred places has beckoned pilgrims for centuries, and one such destination is the Mountaintop Shrine, where seekers hope to find traces of the Ark of the Covenants holiness.

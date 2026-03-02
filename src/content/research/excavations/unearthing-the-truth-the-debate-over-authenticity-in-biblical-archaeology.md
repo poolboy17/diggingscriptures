@@ -9,6 +9,8 @@ draft: false
 image: "/images/research/excavations/unearthing-the-truth-the-debate-over-authenticity-in-biblical-archaeology.jpg"
 imageAlt: "mining excavator, electric, bucket wheel excavator, walking excavator, moscow region, ladle, body, night, technique, construction, excavator, special equipment, tractor, building object, dig, industry, sand, construction site, wheels, laying, grader, master, workers, yellow, construction machinery, building, excavator digging, heavy machinery, playground, pipe, flashlight, construction, construction, construction, construction, construction, excavator, tractor, construction site, construction site"
 imageCredit: "Image by xusenru on Pixabay"
+imageWidth: 1280
+imageHeight: 853
 ---
 
 Unearthing the Truth: The Debate Over Authenticity in Biblical Archaeology takes readers on a captivating journey into the world of painstaking excavation and unraveling mysteries that lie hidden beneath layers of time. Within the realm of biblical archaeology, a contentious debate rages on regarding the authenticity of artifacts and sites that claim to hold crucial historical and religious significance. With scholars and experts on both sides passionately defending their viewpoints, this article explores the various arguments and evidence presented, shedding light on the complex and intriguing nature of the ongoing controversy.

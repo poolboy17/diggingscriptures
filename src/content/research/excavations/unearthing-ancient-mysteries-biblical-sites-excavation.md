@@ -9,6 +9,8 @@ draft: false
 image: "/images/research/excavations/unearthing-ancient-mysteries-biblical-sites-excavation.jpg"
 imageAlt: "city, aerial view, illuminated, city lights, cityscape, skyline, night photography, horizon, city view, distant view, bird's eye view, bangkok, night, traffic, asia, bangkok, bangkok, bangkok, bangkok, bangkok, traffic, traffic"
 imageCredit: "Image by Pexels on Pixabay"
+imageWidth: 1280
+imageHeight: 720
 ---
 
 Embarking on an archaeological dig into the depths of history, researchers uncover layers of ancient ruins and sacred relics, revealing the rich tapestry of civilizations long past. Through meticulous **exploration** and **historical site investigation**, these sites offer tantalizing glimpses of human ingenuity and creativity, shedding light on the mysteries of our past. 

@@ -9,6 +9,8 @@ draft: false
 image: "/images/research/faith/high-holy-psalms-the-melodic-prayer-of-priests-circling-the-ark.jpg"
 imageAlt: "church, ceiling, dome, architecture, cathedral, historical, basilica, frescoes, symbolic, religion, hungary, budapest, stephansdom"
 imageCredit: "Image by ArminEP on Pixabay"
+imageWidth: 1280
+imageHeight: 853
 ---
 
 What if you could stand among ancient priests, encircling the Ark of the Covenant, listening to the melodic prayers that resonated through the ages? The notion of sacred music, deep-rooted in biblical traditions, evokes a sense of timeless spirituality. High Holy Psalms hold the essence of this experience, blending history, faith, and music into an enduring legacy. Lets unravel the captivating tapestry of these psalms and their significance in sacred rituals.

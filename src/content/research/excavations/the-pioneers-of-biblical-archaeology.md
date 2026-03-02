@@ -9,6 +9,8 @@ draft: false
 image: "/images/research/excavations/the-pioneers-of-biblical-archaeology.jpg"
 imageAlt: "ruins, sunset, nature, travel, outdoors, castle, fortress, architecture, dusk, sky, clouds, greece, silhouette"
 imageCredit: "Image by papazachariasa on Pixabay"
+imageWidth: 1280
+imageHeight: 853
 ---
 
 Meet the trailblazers of Biblical Archaeology, the individuals who made groundbreaking discoveries and shaped our understanding of ancient religious texts. From William F. Albright's meticulous excavations to Kathleen Kenyon's groundbreaking work at Jericho, these pioneers of the field dedicated their lives to unearthing and interpreting the physical remnants of a centuries-old era. Their contributions have not only shed light on the historical accuracy of biblical accounts but also highlighted the cultural and societal context in which these stories unfolded. Join us as we take a closer look at the leading figures in the field of Biblical Archaeology and their invaluable contributions.

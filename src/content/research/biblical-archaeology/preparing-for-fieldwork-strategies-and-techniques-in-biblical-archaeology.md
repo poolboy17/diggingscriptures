@@ -9,6 +9,8 @@ draft: false
 image: "/images/research/biblical-archaeology/preparing-for-fieldwork-strategies-and-techniques-in-biblical-archaeology.jpg"
 imageAlt: "san galgano, abbey, ruins, tuscany, church, architecture, medieval, italy, religion, cathedral, ancient, stone, galgano, ruin, brick, history, old, gothic, brown church, brown history, brown old, brown stone, ruins, church, medieval, italy, italy, cathedral, ancient, ancient, history, history, history, history, history"
 imageCredit: "Image by ClickerHappy on Pixabay"
+imageWidth: 1280
+imageHeight: 838
 ---
 
 In "Preparing for Fieldwork: Strategies and Techniques in Biblical Archaeology," readers will embark on a fascinating journey into the world of biblical archaeology. This article explores the various strategies and techniques employed by experts in this field to uncover and understand the historical context of biblical times. From meticulous excavation methods to the analysis of unearthed artifacts, the article sheds light on the meticulous preparation required to successfully conduct fieldwork in biblical archaeology.

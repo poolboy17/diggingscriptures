@@ -9,6 +9,8 @@ draft: false
 image: "/images/research/faith/exploring-the-first-temple-treasury.jpg"
 imageAlt: "western wall, jerusalem, jews, pray, orthodox, holy, religious, western, wall, torah, temple, judaism, israel, jewish, religion, prayer, old, god, rock, east, stone, faith, hebrew, belief, judaic, spirituality, spiritual, architecture, traditional, city, synagogue, worship, wailing, ancient, people, sacred, brown city, brown wall, brown god, brown pray, brown rock, brown prayer, brown stone, western wall, jerusalem, jerusalem, jews, jews, judaism, judaism, israel, israel, israel, jewish, jewish, jewish, jewish, jewish"
 imageCredit: "Image by rliessum on Pixabay"
+imageWidth: 1280
+imageHeight: 960
 ---
 
 What would it feel like to uncover treasures lost to antiquity? This thought provokes much fascination, particularly when discussing the First Temple Treasury, a subject rich in historical intrigue and biblical significance. The notion of uncovering lost artifacts from an ancient era captivates historians, archaeologists, and enthusiasts alike. The First Temple Treasury is not just a historical site; it represents the intersection of religious narratives, myths, and human history. As we explore the First Temple Treasury, we examine its biblical background, archaeological evidence, and the profound significance it holds today.

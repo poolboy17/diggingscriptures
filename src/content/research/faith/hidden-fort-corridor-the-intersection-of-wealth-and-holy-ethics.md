@@ -9,6 +9,8 @@ draft: false
 image: "/images/research/faith/hidden-fort-corridor-the-intersection-of-wealth-and-holy-ethics.jpg"
 imageAlt: "angel, icon, wall paint, iconography, damaged, weathered, aged, church, archangel michael, 12th century, orthodox, christianity, medieval, kato lefkara, cyprus, brown angel, archangel michael, archangel michael, archangel michael, archangel michael, archangel michael"
 imageCredit: "Image by dimitrisvetsikas1969 on Pixabay"
+imageWidth: 1280
+imageHeight: 854
 ---
 
 What do you think happens when wealth meets ethical dilemmas infused with sacred traditions? There's a fascinating balanceor often imbalancethat societies have navigated throughout history when it comes to wealth and holy ethics, particularly within the context of the ancient world. Lets unpack that concept as we meander through the corridors of both history and sentiment.

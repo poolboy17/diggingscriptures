@@ -9,6 +9,8 @@ draft: false
 image: "/images/research/artifacts/how-codex-vaticanus-shapes-our-bible-text-today.jpg"
 imageAlt: "morocco, city, historic, village, clay, old, nature, antique, ait-ben-haddou, arabic, town, arid, desert, brown city, brown desert, brown village, brown old"
 imageCredit: "Image by Walkerssk on Pixabay"
+imageWidth: 1280
+imageHeight: 719
 ---
 
 Have you ever wondered how the Bible texts you've read came to be in their current form? In an era where historical authenticity is increasingly important, understanding the origins and preservation of biblical manuscripts like Codex Vaticanus can deepen our knowledge and appreciation of these sacred texts. As a PhD holder in Theology, I find myself perpetually intrigued by how ancient documents shape modern perceptions of religious texts. , we will explore how one of the most significant ancient manuscripts, Codex Vaticanus, continues to influence the Bible as we know it today, even as we progress into 2025.

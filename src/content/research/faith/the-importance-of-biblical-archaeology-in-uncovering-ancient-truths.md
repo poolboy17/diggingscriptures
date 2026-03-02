@@ -9,6 +9,8 @@ draft: false
 image: "/images/research/faith/the-importance-of-biblical-archaeology-in-uncovering-ancient-truths.jpg"
 imageAlt: "baptism, candle, decoration, christianity, religious, cross, symbol, christian, celebration, sacred, faith, spirituality, catholic, religion, baptism, baptism, baptism, baptism, baptism"
 imageCredit: "Image by karoligraphics on Pixabay"
+imageWidth: 1280
+imageHeight: 853
 ---
 
 Exploring the depths of ancient civilizations through the lens of archaeological discoveries sheds light on the rich tapestry of human history, providing valuable insights into the historical accuracy of Biblical events. By analyzing **ancient artifacts** and delving into the **religious context** of the past, researchers piece together a mosaic of cultural practices that offer concrete **historical evidence** to support **Biblical history**. 

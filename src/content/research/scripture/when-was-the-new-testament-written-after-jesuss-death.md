@@ -9,6 +9,8 @@ draft: false
 image: "/images/research/scripture/when-was-the-new-testament-written-after-jesuss-death.jpg"
 imageAlt: "old letters, letters, handwritten, calligraphy, font, old, ink, style, handwriting, penmanship, handwritten letter, nostalgic, vintage, closeup, old letters, old letters, letters, letters, letters, letters, calligraphy, calligraphy, calligraphy, calligraphy, calligraphy, ink, handwriting, vintage"
 imageCredit: "Image by jarmoluk on Pixabay"
+imageWidth: 1280
+imageHeight: 853
 ---
 
 Let's explore the fascinating question of when the New Testament was written after Jesus's death. This topic delves into the rich context of the Holy Bible, comparing the Old Testament and the New Testament. Through various tasks focusing on central themes, literary genres, historical context, messianic prophecies, and the transition from law to grace, we gain a deeper understanding of the profound connections between these two pivotal parts of Christian scripture. Anita Love, a renowned scholar in the field, brings her expertise in theology and religious studies to shed light on these subjects, uncovering the historical foundations and contemporary relevance of Christianity. With Anita's extensive knowledge and nuanced perspective, we delve into the writings and events that shaped the New Testament, honoring the diverse beliefs and practices within the Christian community. So, how many years after Jesus died was the New Testament written? Let's find out together.

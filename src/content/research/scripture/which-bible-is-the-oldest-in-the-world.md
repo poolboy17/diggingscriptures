@@ -9,6 +9,8 @@ draft: false
 image: "/images/research/scripture/which-bible-is-the-oldest-in-the-world.jpg"
 imageAlt: "a book, antiquariat, old books, used books, old, literature, worn, second hand, brown, leather bindings, antique, read, nostalgic, browse, to learn, look up, knowledge, pitched, to study, pages, paper, bound, hardback, book pages, hardback, hardback, hardback, hardback, hardback"
 imageCredit: "Image by ulleo on Pixabay"
+imageWidth: 1280
+imageHeight: 783
 ---
 
 Many may not realize that when it comes to the oldest Bible in the world, the answer is not straightforward. While the Codex Sinaiticus is a significant contender, other ancient manuscripts also vie for this prestigious title.

@@ -9,6 +9,8 @@ draft: false
 image: "/images/research/artifacts/the-john-rylands-papyrus-first-century-gospel-fragment.jpg"
 imageAlt: "temple, burma, wall, stone, figurines, cubby holes, ruins, attraction, old, outdoor, spiritual, architecture, tourism, culture, heritage, asia, myanmar, ancient, buddhism, bagan, monastery, destination, monument, traditional, praying, archaeological, spirituality, golden, ethnicity, exterior, structure, mandalay, sacred, worship, majestic, famous, shrine, buddhist, statues, buddha, meditation, sculpture, zen, peace, god, oriental, pray, meditate, symbol, eastern, china, serene, buddha purnima, enlightenment, holy, faith, wisdom, decoration, yellow, tourist, japanese, bronze, icon, inle lake, antique, archaeology, artifacts, carve, city, brown meditation, brown god, brown pray, brown peace, brown buddha"
 imageCredit: "Image by awenstrom on Pixabay"
+imageWidth: 1280
+imageHeight: 960
 ---
 
 Have you ever wondered about the oldest written records of the New Testament? Discover the fascinating story of the John Rylands Papyrus, often hailed as one of the earliest fragments of the Gospel of John. Authored by Dr. James Elliott, with a PhD in Theology, this article explores why this papyrus remains significant in 2025. In a time of ongoing debates about the roots and reliability of biblical texts, understanding such early fragments can offer a glimpse into the transmission of these influential writings through history.

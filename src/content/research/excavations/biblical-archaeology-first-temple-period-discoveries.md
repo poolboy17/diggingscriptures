@@ -9,6 +9,8 @@ draft: false
 image: "/images/research/excavations/biblical-archaeology-first-temple-period-discoveries.jpg"
 imageAlt: "jerash, jordan, ruins, ancient, architecture, roman, archeology, pillar, historic, stone, column, brown stone, jerash, jerash, jordan, jordan, jordan, jordan, jordan"
 imageCredit: "Image by Graham-H on Pixabay"
+imageWidth: 1280
+imageHeight: 996
 ---
 
 Have you ever wondered about the secrets hidden beneath the ancient soils of Jerusalem? The remnants of what we call the First Temple Period are not just stones or relics buried in time; they are the whispers of history, echoing stories of faith, power, and civilization. The First Temple Period, often referred to in biblical texts, has captivated scholars and archaeologists alike, igniting quests to uncover the truths enshrined in the earth.

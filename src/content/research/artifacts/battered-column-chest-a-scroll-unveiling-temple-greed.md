@@ -9,6 +9,8 @@ draft: false
 image: "/images/research/artifacts/battered-column-chest-a-scroll-unveiling-temple-greed.jpg"
 imageAlt: "cents, coins, currency, cash, money, wealth, finance, loose change, coins, money, money, money, money, money"
 imageCredit: "Image by stux on Pixabay"
+imageWidth: 1280
+imageHeight: 990
 ---
 
 What drives people to risk everything for wealth, power, and status, especially when such pursuits can lead to ruin?

@@ -9,6 +9,8 @@ draft: false
 image: "/images/research/excavations/the-best-universities-for-studying-biblical-archaeology.jpg"
 imageAlt: "jerash, jordan, roman, gerasa, travel, architecture, ancient, historic, tourism, culture, history, stone, archaeology, ruins, ruin, vacations, pillar, antiquity, building, column, civilization, relief, pillars, gate, temple, jerash, jerash, jerash, jerash, jerash, jordan"
 imageCredit: "Image by 8834113 on Pixabay"
+imageWidth: 1280
+imageHeight: 853
 ---
 
 When it comes to studying biblical archaeology, choosing the right university is crucial to ensure a comprehensive education that combines historical research with a deep understanding of ancient civilizations. This article explores some of the top universities worldwide that offer robust programs in biblical archaeology, equipping students with the knowledge and skills to excavate and interpret biblical sites and artifacts. From renowned institutions with rich archaeological collections to programs that emphasize hands-on fieldwork experience, these universities provide a fertile ground for those passionate about unraveling the mysteries of the ancient world.

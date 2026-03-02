@@ -9,6 +9,8 @@ draft: false
 image: "/images/research/biblical-archaeology/preserving-biblical-archaeological-sites-best-practices-revealed.jpg"
 imageAlt: "whitby abbey, dracula, bram stoker, haunted, ruin, moody, whitby, yorkshire, history, historic, gothic, landscape, grey, old, whitby, yorkshire, history, history, history, history, history, gothic"
 imageCredit: "Image by TimHill on Pixabay"
+imageWidth: 1280
+imageHeight: 720
 ---
 
 Preserving Biblical Archaeological Sites: Best Practices Revealed is an insightful article that explores the most effective strategies for safeguarding these historically significant locations. Delving into the world of biblical archaeology, it highlights the importance of preserving these sites for future generations to appreciate and learn from. By outlining the best practices endorsed by experts, this article aims to shed light on the crucial role that careful preservation plays in maintaining the integrity and authenticity of these remarkable archaeological treasures.

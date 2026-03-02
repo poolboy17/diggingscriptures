@@ -9,6 +9,8 @@ draft: false
 image: "/images/research/biblical-archaeology/embracing-the-future-new-technologies-in-biblical-archaeology.jpg"
 imageAlt: "san galgano, abbey, ruins, tuscany, church, architecture, medieval, italy, religion, cathedral, ancient, stone, galgano, ruin, brick, history, old, gothic, brown church, brown history, brown old, brown stone, ruins, church, medieval, italy, italy, cathedral, ancient, ancient, history, history, history, history, history"
 imageCredit: "Image by ClickerHappy on Pixabay"
+imageWidth: 1280
+imageHeight: 838
 ---
 
 With the advancement of technology, the field of biblical archaeology is undergoing a transformation, as experts embrace new technologies and approaches to uncover the secrets of the past. From satellite imaging and remote sensing to 3D modeling and virtual reality, these advancements are revolutionizing the way archaeological sites are explored and understood. , we will explore the exciting ways in which new technologies are shaping the future of biblical archaeology, allowing researchers to delve deeper into the ancient world and shed light on the stories preserved in the pages of the Bible.

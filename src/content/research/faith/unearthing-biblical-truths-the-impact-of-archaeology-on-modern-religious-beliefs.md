@@ -9,6 +9,8 @@ draft: false
 image: "/images/research/faith/unearthing-biblical-truths-the-impact-of-archaeology-on-modern-religious-beliefs.jpg"
 imageAlt: "mosaic, mosaic tiles, floor, ancient, decorative, decoration, tile, geometric, old church, archaeology, ornament, euphrasian basilica, porec, mosaic, mosaic tiles, euphrasian basilica, porec, porec, porec, porec, porec"
 imageCredit: "Image by BiljaST on Pixabay"
+imageWidth: 1280
+imageHeight: 960
 ---
 
 In "Unearthing Biblical Truths: The Impact of Archaeology on Modern Religious Beliefs," this article explores the fascinating world of biblical archaeology and its profound influence on contemporary religious beliefs. From unearthing ancient artifacts to deciphering ancient texts, scholars and archaeologists have embarked on a journey to delve into the past to shed light on the origins and authenticity of biblical narratives. By examining the tangible evidence left by ancient civilizations, this field of study has the potential to challenge, confirm, or reshape our understanding of religious traditions and their historical accuracy. Join us as we uncover the significance of biblical archaeology and its impact on modern faith communities.

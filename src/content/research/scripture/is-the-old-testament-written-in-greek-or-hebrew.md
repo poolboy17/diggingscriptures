@@ -9,6 +9,8 @@ draft: false
 image: "/images/research/scripture/is-the-old-testament-written-in-greek-or-hebrew.jpg"
 imageAlt: "books, stack, book store, stack of books, 2nd hand, retro, hipster, shop, old, trendy, vintage, travel, venice, messy, literature, library, education, knowledge, novels, stories, books, books, books, books, books, library, education"
 imageCredit: "Image by EliFrancis on Pixabay"
+imageWidth: 1280
+imageHeight: 853
 ---
 
 Have you ever wondered whether the Old Testament was written in Greek or Hebrew? Well, you're not alone. The question of the language used in the ancient scriptures has puzzled many believers and scholars alike. , we will explore this intriguing topic and shed light on the origins and composition of the Old Testament. With the help of Anita Love, a renowned theologian and expert in biblical manuscripts, we will journey into the world of ancient texts, unraveling the mysteries behind this linguistic enigma. So, get ready to uncover the truth and deepen your understanding of the foundation of Christianity.

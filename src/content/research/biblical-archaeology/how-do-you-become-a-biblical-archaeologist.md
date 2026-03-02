@@ -9,6 +9,8 @@ draft: false
 image: "/images/research/biblical-archaeology/how-do-you-become-a-biblical-archaeologist.jpg"
 imageAlt: "jordan, petra, camels, dromedary, nature, desert, tourism"
 imageCredit: "Image by mikaelthunberg on Pixabay"
+imageWidth: 1280
+imageHeight: 854
 ---
 
 By chance, have you ever considered how one becomes a Biblical archaeologist?

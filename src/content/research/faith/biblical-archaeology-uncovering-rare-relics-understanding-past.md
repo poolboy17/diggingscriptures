@@ -9,6 +9,8 @@ draft: false
 image: "/images/research/faith/biblical-archaeology-uncovering-rare-relics-understanding-past.jpg"
 imageAlt: "mosaic, mosaic tiles, floor, ancient, decorative, decoration, tile, geometric, old church, archaeology, ornament, euphrasian basilica, porec, mosaic, mosaic tiles, euphrasian basilica, porec, porec, porec, porec, porec"
 imageCredit: "Image by BiljaST on Pixabay"
+imageWidth: 1280
+imageHeight: 960
 ---
 
 It's fascinating how **Biblical archaeology** offers us a unique glimpse into the ancient world, providing **rare relics** that help shape our understanding of history. These archaeological finds not only enrich our knowledge of **ancient civilizations**, but also validate the accuracy of **Biblical accounts** and shed light on the cultural practices and daily life of people from centuries ago. Through meticulous excavation and analysis, archaeologists are able to **piece together** the puzzle of the past, uncovering **hidden treasures** that continue to captivate and educate us today. Join us as we investigate into the world of Biblical archaeology and discover the **profound impact** it has on our perception of history.

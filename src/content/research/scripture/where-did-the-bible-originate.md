@@ -9,6 +9,8 @@ draft: false
 image: "/images/research/scripture/where-did-the-bible-originate.jpg"
 imageAlt: "desktop, laptop, crafts, still life, mockup, table, decoration, design, workspace, presents, gifts, laptop, laptop, laptop, laptop, laptop, workspace"
 imageCredit: "Image by rawpixel on Pixabay"
+imageWidth: 1280
+imageHeight: 916
 ---
 
 Ironically, the mystery surrounding the Bible's origin often raises eyebrows among scholars and believers alike. Many ponder the complexities of its inception, contemplating the intricate web of historical, cultural, and divine influences that shaped this revered text.

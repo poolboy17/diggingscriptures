@@ -9,6 +9,8 @@ draft: false
 image: "/images/research/excavations/exploring-the-link-biblical-archaeologys-influence-on-tourism.jpg"
 imageAlt: "egyptian temple, historic site, structure, land lot, archaeological site, outdoor structure, mortuary temple, ancient history, facade, roof, history, brown history, egyptian temple, egyptian temple, egyptian temple, egyptian temple, egyptian temple"
 imageCredit: "Image by Wael-Ezz on Pixabay"
+imageWidth: 1280
+imageHeight: 853
 ---
 
 "Exploring the Link: Biblical Archaeology's Influence on Tourism" delves into the fascinating connection between Biblical Archaeology and the booming tourism industry. This captivating article explores how the exploration and preservation of ancient Biblical sites have captivated the imagination of travelers worldwide, transforming these historical landmarks into popular destinations. From the iconic city of Jerusalem to the majestic ruins of ancient Babylon, this article takes readers on a journey through the profound influence of Biblical Archaeology on the tourism landscape.

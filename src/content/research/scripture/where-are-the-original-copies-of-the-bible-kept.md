@@ -9,6 +9,8 @@ draft: false
 image: "/images/research/scripture/where-are-the-original-copies-of-the-bible-kept.jpg"
 imageAlt: "mesopotamia, myth, mythology, history, landscape, ruins, anunnaki, sumerian, gods, enki, enlil, cuneiform, tablet, writings, clay tablets, texts, ancient"
 imageCredit: "Image by BenFishold on Pixabay"
+imageWidth: 1280
+imageHeight: 731
 ---
 
 An intriguing fact is that the oldest known complete copy of the Bible is the Codex Sinaiticus, dating back to the 4th century AD.

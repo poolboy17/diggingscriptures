@@ -9,6 +9,8 @@ draft: false
 image: "/images/research/scripture/are-all-the-books-of-the-old-testament-in-the-hebrew-bible.jpg"
 imageAlt: "song, sheet music, music notes, notenblatt, melody, music wallpaper, sounds of music, tune, clef, classical music, legato, muse, music book, music sheet, musical notes, musical score, closeup, just, music score, stave, partition, texture, new page, music world, tempo, song, song, song, sheet music, sheet music, sheet music, music notes, music notes, music notes, music notes, music notes, musical notes"
 imageCredit: "Image by Ri_Ya on Pixabay"
+imageWidth: 1280
+imageHeight: 853
 ---
 
 In the world of biblical studies, the question of whether all the books of the Old Testament are found in the Hebrew Bible is a topic of great intrigue. Anita Love, a renowned theologian and scholar, has dedicated her life to uncovering the truth behind this enigmatic query. With her extensive academic background and extensive research, Anita's findings shed light on the historical foundations of Christianity and their relevance . Through her work, she explores the diverse themes, genres, and historical contexts within the Old Testament, unveiling the intricate tapestry of ancient wisdom and divine inspiration. Join Anita Love on a journey of discovery as she unravels the mysteries surrounding the books of the Old Testament in the Hebrew Bible.

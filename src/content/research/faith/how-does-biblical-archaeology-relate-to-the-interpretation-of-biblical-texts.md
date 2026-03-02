@@ -9,6 +9,8 @@ draft: false
 image: "/images/research/faith/how-does-biblical-archaeology-relate-to-the-interpretation-of-biblical-texts.jpg"
 imageAlt: "masjid prophetic, medina, religion, muslim, islam, architectural, hz, mohammed, the last prophet, architectural history"
 imageCredit: "Image by Konevi on Pixabay"
+imageWidth: 1280
+imageHeight: 853
 ---
 
 When exploring the intricate tapestry of biblical texts, biblical archaeology serves as a guiding light, illuminating hidden truths and offering a glimpse into the ancient world.

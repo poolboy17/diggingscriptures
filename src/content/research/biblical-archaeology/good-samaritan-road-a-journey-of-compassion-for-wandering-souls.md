@@ -9,6 +9,8 @@ draft: false
 image: "/images/research/biblical-archaeology/good-samaritan-road-a-journey-of-compassion-for-wandering-souls.jpg"
 imageAlt: "temple, jupiter, roman, antique, column, architecture, ancient, stone, antiquity, baalbek, lebanon, brown stone, temple, temple, temple, roman, roman, roman, roman, ancient, ancient, lebanon, lebanon, lebanon, lebanon, lebanon"
 imageCredit: "Image by djedj on Pixabay"
+imageWidth: 1280
+imageHeight: 854
 ---
 
 What does compassion mean to you? In a world that often feels chaotic and disconnected, the idea of extending kindness to those in need becomes a guiding principle, reminding us of our shared humanity. One concept that embodies this spirit of compassion is the often-overlooked Good Samaritan Road, a metaphorical journey where wandering souls find relief, healing, and a sense of belonging. This article will take you on an enlightening journey through the historical, theological, and cultural significance of this key biblical concept, all while ensuring that your understanding deepens and broadens like the horizon at dusk.

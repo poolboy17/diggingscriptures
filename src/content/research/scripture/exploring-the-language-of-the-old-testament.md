@@ -9,6 +9,8 @@ draft: false
 image: "/images/research/scripture/exploring-the-language-of-the-old-testament.png"
 imageAlt: "to learn, read, a book, literature, old, old book, to study, school, training, middle ages, study, bound, historical, leather binding, writing, book pages, pitched, isolated"
 imageCredit: "Image by garten-gg on Pixabay"
+imageWidth: 1280
+imageHeight: 1157
 ---
 
 Have you ever wondered in what language most of the Old Testament was given? Well, Anita Love, a renowned scholar in the field of biblical studies, might just have the answer for you. With her extensive academic background and expertise in ancient biblical manuscripts, Anita has delved into the depths of Old Testament narratives. Through her published books and scholarly articles, she explores the role of cultural context in interpreting scriptures and uncovers the divine inspiration behind the canonization process. Join Anita on a fascinating journey as she uncovers the language of the Old Testament and its significance in understanding the foundations of Christianity.

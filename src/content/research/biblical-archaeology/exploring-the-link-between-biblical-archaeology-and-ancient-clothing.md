@@ -9,6 +9,8 @@ draft: false
 image: "/images/research/biblical-archaeology/exploring-the-link-between-biblical-archaeology-and-ancient-clothing.jpg"
 imageAlt: "pretty much, jerash, oval forum, roman, culture, story, historical, ancient, columns, stone, ruins, jordan, tourism, to travel, middle east, jerash, jerash, jordan, jordan, jordan, jordan, jordan, middle east"
 imageCredit: "Image by ChiemSeherin on Pixabay"
+imageWidth: 1280
+imageHeight: 720
 ---
 
 In the fascinating world of Biblical Archaeology, researchers have discovered a captivating link between the artifacts they unearth and the study of ancient clothing. Through their meticulous excavations and analysis, these archaeologists have unraveled the secrets of the past, shedding light on the garments worn by our ancient ancestors. As they delve deeper into this intersection, a clearer picture emerges of the way clothing played a significant role in the lives of people thousands of years ago. Join us on this remarkable journey as we explore the intricate connection between Biblical Archaeology and ancient clothing.

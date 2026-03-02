@@ -9,6 +9,8 @@ draft: false
 image: "/images/research/biblical-archaeology/digital-mapping-uncovers-lost-biblical-city-streets.jpg"
 imageAlt: "egypt, temple, hieroglyphics, pharaoh, egyptian temple, travel, statue, columns, pierre, story, nile, edfu, archaeologist, archaeology, archaeological excavations, archaeologist, archaeologist, archaeologist, archaeologist, archaeologist"
 imageCredit: "Image by NadineDoerle on Pixabay"
+imageWidth: 1280
+imageHeight: 850
 ---
 
 Have you ever wondered how technological advancements might reshape our understanding of ancient history? Digital mapping is doing just that by uncovering lost city streets that hold significance in biblical narratives. In recent times, advanced technology has opened new doors into the ancient past, allowing modern civilization to touch the stories once confined to sacred texts. This article delves into the extraordinary revelations brought to light by digital mapping, turning the pages of history to rediscover streets long considered lost.

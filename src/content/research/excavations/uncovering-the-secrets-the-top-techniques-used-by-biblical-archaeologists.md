@@ -9,6 +9,8 @@ draft: false
 image: "/images/research/excavations/uncovering-the-secrets-the-top-techniques-used-by-biblical-archaeologists.jpg"
 imageAlt: "archaeology, archaeological dig, documenting, digging, research, archaeologist, digger, brown research, brown document, archaeology, archaeology, archaeologist, archaeologist, archaeologist, archaeologist, archaeologist"
 imageCredit: "Image by JamesDeMers on Pixabay"
+imageWidth: 1280
+imageHeight: 1165
 ---
 
 Uncovering the secrets of ancient civilizations has always fascinated humanity, and biblical archaeology plays a crucial role in unraveling the mysteries of the past. , the top techniques used by biblical archaeologists in their excavation and analysis will be explored. From meticulous stratigraphy to advanced dating methods, these experts rely on a diverse range of tools and approaches to uncover the hidden stories and artifacts of biblical times. So, let's embark on a journey of discovery and unveil the secrets preserved beneath the sands of time.

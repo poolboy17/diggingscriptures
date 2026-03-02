@@ -9,6 +9,8 @@ draft: false
 image: "/images/research/excavations/debunking-misconceptions-about-biblical-archaeology.jpg"
 imageAlt: "egyptian temple, historic site, structure, land lot, archaeological site, outdoor structure, mortuary temple, ancient history, facade, roof, history, egyptian temple, egyptian temple, egyptian temple, egyptian temple, egyptian temple"
 imageCredit: "Image by Wael-Ezz on Pixabay"
+imageWidth: 1280
+imageHeight: 853
 ---
 
 In "Debunking Misconceptions about Biblical Archaeology," this article aims to clear up common misconceptions surrounding the field of Biblical archaeology. Delving into the realm of ancient artifacts and historical context, this captivating piece seeks to address and dispel the myths that often surround the study of Biblical archaeology. By shedding light on the truths behind these misconceptions, readers will gain a better understanding of the discipline and its significance in uncovering the mysteries of the biblical world.

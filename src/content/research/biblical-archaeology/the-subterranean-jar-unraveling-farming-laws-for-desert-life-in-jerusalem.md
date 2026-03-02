@@ -9,6 +9,8 @@ draft: false
 image: "/images/research/biblical-archaeology/the-subterranean-jar-unraveling-farming-laws-for-desert-life-in-jerusalem.jpg"
 imageAlt: "contrast, abstract, nature, minimalism, windows, stone wall, desert, israel"
 imageCredit: "Image by Pix-Off on Pixabay"
+imageWidth: 1280
+imageHeight: 853
 ---
 
 Isn't it fascinating how the remnants of ancient civilizations continue to affect our present-day understanding of agriculture and community in challenging environments like the deserts surrounding Jerusalem? Lets take a closer look at how farming laws in these arid lands shaped life from antiquity to modern times, particularly through the lens of archaeological finds like the Subterranean Jar.

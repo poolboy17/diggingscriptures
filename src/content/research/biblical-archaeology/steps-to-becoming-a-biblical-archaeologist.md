@@ -9,6 +9,8 @@ draft: false
 image: "/images/research/biblical-archaeology/steps-to-becoming-a-biblical-archaeologist.jpg"
 imageAlt: "israel, jerusalem, jewish, palestine, religion, temple, judaism, holy, torah, architecture, old, ancient, history, rabbi, pray, east, israel, israel, jerusalem, jerusalem, jerusalem, jerusalem, jerusalem"
 imageCredit: "Image by Nick115 on Pixabay"
+imageWidth: 1280
+imageHeight: 854
 ---
 
 In the journey towards becoming a Biblical Archaeologist, one must embark on an extraordinary exploration of history, faith, and ancient civilizations. This captivating profession combines the meticulous skills of an archaeologist with the fascinating subject matter of biblical texts, unveiling the mysteries and stories that have shaped the world. By meticulously studying ancient artifacts, meticulously examining ancient artifacts, deciphering ancient languages, and conducting meticulous research, aspiring biblical archaeologists can unlock the secrets of the past and contribute to our understanding of ancient cultures and religions. With each step taken, the path to becoming a biblical archaeologist becomes increasingly captivating and rewarding.

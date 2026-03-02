@@ -9,6 +9,8 @@ draft: false
 image: "/images/research/artifacts/exploring-the-wilderness-insights-from-the-bethlehem-monastery-chest.jpg"
 imageAlt: "jewellery, chain, pearl necklace, pearls, gold, necklace, glittering, jewelry pearls, jewellery, jewellery, jewellery, jewellery, jewellery, pearls, pearls, necklace, necklace"
 imageCredit: "Image by Sponchia on Pixabay"
+imageWidth: 1280
+imageHeight: 853
 ---
 
 What if you stumbled upon a treasure chest filled with ancient manuscripts that could illuminate your understanding of biblical archaeology and theology? The Bethlehem Monastery Chest, known for holding the Wilderness Penance Manuscript, might just be that treasure. Lets unpack what this chest has to offer, revealing insights about its historical significance and the cultural context of the texts it contains.

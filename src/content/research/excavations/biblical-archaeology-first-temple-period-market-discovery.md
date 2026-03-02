@@ -9,6 +9,8 @@ draft: false
 image: "/images/research/excavations/biblical-archaeology-first-temple-period-market-discovery.jpg"
 imageAlt: "way, building, excavator, viaduct, road, cities, work, digging, builder, a worker at the construction site, construction site, excavator, excavator, excavator, excavator, digging, digging, digging, digging, digging, builder, construction site"
 imageCredit: "Image by satynek on Pixabay"
+imageWidth: 1280
+imageHeight: 781
 ---
 
 Have you ever pondered the daily hustle and bustle of marketplaces that thrived thousands of years ago? The recent discovery of a First Temple Period market opens an intriguing window into such ancient commercial activities. This find is not just a monumental addition to the field of biblical archaeology but a vivid narrative of ancient economies and societies.

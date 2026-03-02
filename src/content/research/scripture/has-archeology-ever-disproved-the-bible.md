@@ -9,6 +9,8 @@ draft: false
 image: "/images/research/scripture/has-archeology-ever-disproved-the-bible.jpg"
 imageAlt: "calligraphy, story, ink, feather, a book, vintage, old, wood, fairy tale, author, writer, diary, story, story, story, story, author, author, writer, writer, writer, writer, writer, diary"
 imageCredit: "Image by Ghinzo on Pixabay"
+imageWidth: 1280
+imageHeight: 853
 ---
 
 In the domain of biblical studies, the intersection with archaeology has long been a subject of intrigue. While some scholars argue that archaeological findings have cast doubt on certain biblical accounts, a closer examination reveals a more nuanced relationship between the two disciplines.

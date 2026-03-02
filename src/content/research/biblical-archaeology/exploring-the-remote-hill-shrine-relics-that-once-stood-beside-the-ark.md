@@ -9,6 +9,8 @@ draft: false
 image: "/images/research/biblical-archaeology/exploring-the-remote-hill-shrine-relics-that-once-stood-beside-the-ark.jpg"
 imageAlt: "archaeology, city, petra, jordan, historical site, landscape, petra, petra, petra, petra, petra, jordan, jordan, jordan"
 imageCredit: "Image by StockSnap on Pixabay"
+imageWidth: 1280
+imageHeight: 854
 ---
 
 What if you stumbled upon an ancient shrine, steeped in mystery, that once housed relics beside the elusive Ark of the Covenant? Such a discovery could take you down a winding path of history, faith, and intrigue. The Remote Hill Shrine presents an opportunity to unveil secrets from long ago, connecting todays world with the ancient past.

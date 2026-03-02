@@ -9,6 +9,8 @@ draft: false
 image: "/images/research/faith/exploring-the-depths-the-future-of-underwater-biblical-archaeological-research.jpg"
 imageAlt: "interior, ceiling, window, old, church, architecture, interior, ceiling, window, church, church, church, church, church"
 imageCredit: "Image by analogicus on Pixabay"
+imageWidth: 1280
+imageHeight: 853
 ---
 
 In "Exploring the Depths: The Future of Underwater Biblical Archaeological Research," the article highlights the exciting possibilities that lie ahead for the field of underwater Biblical Archaeological research. With advancements in technology and increased interest in uncovering the mysteries of the past, experts are diving deep into the depths of the world's seas and oceans to discover hidden artifacts and potential evidence of ancient civilizations. Through this exploration, researchers hope to gain a deeper understanding of biblical history and shed light on the stories and events that have shaped our world.

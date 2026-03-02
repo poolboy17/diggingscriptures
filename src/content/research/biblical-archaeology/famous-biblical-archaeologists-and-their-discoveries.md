@@ -9,6 +9,8 @@ draft: false
 image: "/images/research/biblical-archaeology/famous-biblical-archaeologists-and-their-discoveries.jpg"
 imageAlt: "excavator, construction machine, two-way excavator, gripper, site, construction site, machinery, heavy machinery, excavator, excavator, excavator, excavator, excavator, construction site, construction site, construction site"
 imageCredit: "Image by Tama66 on Pixabay"
+imageWidth: 1280
+imageHeight: 954
 ---
 
 In the world of biblical archaeology, there are several renowned individuals who have made significant discoveries. From unearthing ancient artifacts to deciphering ancient texts, these archaeologists have shed light on the historical context of biblical events. With their meticulous excavations and extensive research, they have pieced together fragments of the past, providing valuable insights into the lives and cultures of our ancestors. This article takes a closer look at some of these famous biblical archaeologists and the contributions they have made to the field.

@@ -9,6 +9,8 @@ draft: false
 image: "/images/research/scripture/the-influence-of-cultural-context-on-old-testament-narratives.jpg"
 imageAlt: "document, parchment, the middle ages, ducal, royal, history, old times, manuscript, europe, poland, silesia, parchment, parchment, parchment, parchment, history, history, history, manuscript, manuscript, manuscript, manuscript, manuscript"
 imageCredit: "Image by Arcaion on Pixabay"
+imageWidth: 1280
+imageHeight: 854
 ---
 
 The Old Testament, also known as the Hebrew Bible, is a collection of sacred texts that hold immense significance in the Jewish and Christian faiths. Comprised of various books and writings, the Old Testament serves as a foundational text for understanding the origins, beliefs, and historical context of these religious traditions. This ancient scripture provides insights into the creation of the world, the lives of prominent figures such as Abraham and Moses, the establishment of God's covenant with the Israelites, and the moral and ethical teachings that guide believers. By exploring the influence of cultural context on Old Testament narratives, we gain a deeper understanding of the rich tapestry of history, customs, and values that shape the interpretation and relevance of these timeless stories.

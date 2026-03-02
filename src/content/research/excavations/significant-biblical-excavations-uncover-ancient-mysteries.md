@@ -9,6 +9,8 @@ draft: false
 image: "/images/research/excavations/significant-biblical-excavations-uncover-ancient-mysteries.jpg"
 imageAlt: "archaeology, archaeological dig, documenting, digging, research, archaeologist, digger, brown research, brown document, archaeology, archaeology, archaeologist, archaeologist, archaeologist, archaeologist, archaeologist"
 imageCredit: "Image by JamesDeMers on Pixabay"
+imageWidth: 1280
+imageHeight: 1165
 ---
 
 Exploring the depths of history, archaeological sites like Jerusalem, Megiddo, and Jericho have unearthed ancient ruins that offer a rare glimpse into the lives of past civilizations. These **ancient ruins** hold fascinating insights that challenge our perception of the past, showcasing the rich history of the Holy Land and the people who once called these places home. 

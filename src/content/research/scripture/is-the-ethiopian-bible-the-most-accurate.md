@@ -9,6 +9,8 @@ draft: false
 image: "/images/research/scripture/is-the-ethiopian-bible-the-most-accurate.jpg"
 imageAlt: "bhagavad gita, ancient scriptures, john rylands library, book, old, literature, library, education, paper, knowledge, read, brown education, brown library, brown paper, brown reading, brown knowledge, bhagavad gita, bhagavad gita, bhagavad gita, bhagavad gita, bhagavad gita"
 imageCredit: "Image by nmoodley on Pixabay"
+imageWidth: 1280
+imageHeight: 960
 ---
 
 One could contend that the accuracy of the Ethiopian Bible is debatable due to its distinctive composition and historical context. However, a closer look at the origins and preservation of this ancient text reveals a compelling narrative that challenges conventional notions of biblical accuracy.

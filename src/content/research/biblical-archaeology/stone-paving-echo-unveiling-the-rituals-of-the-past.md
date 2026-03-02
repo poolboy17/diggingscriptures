@@ -9,6 +9,8 @@ draft: false
 image: "/images/research/biblical-archaeology/stone-paving-echo-unveiling-the-rituals-of-the-past.jpg"
 imageAlt: "israel, jerusalem, old city, damascus gate, gate, wall, architecture, stone, old, ancient, stronghold, fortification, city, protection, defence, travel, israel, jerusalem, jerusalem, jerusalem, jerusalem, jerusalem, stronghold, stronghold"
 imageCredit: "Image by 2427999 on Pixabay"
+imageWidth: 1280
+imageHeight: 853
 ---
 
 Have you ever considered how the remnants of ancient rituals, particularly those involving stone paving, echo through the corridors of history? The fascinating intersection of archaeology, culture, and the age-old question of purpose gives us a deeper understanding of our past. It serves as a reminder that every stone that has been laid carries with it a narrative waiting to be uncovered.

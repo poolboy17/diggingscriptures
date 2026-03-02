@@ -9,6 +9,8 @@ draft: false
 image: "/images/research/excavations/radiocarbon-dating-validates-biblical-site-discoveries.jpg"
 imageAlt: "city, aerial view, illuminated, city lights, cityscape, skyline, night photography, horizon, city view, distant view, bird's eye view, bangkok, night, traffic, asia, bangkok, bangkok, bangkok, bangkok, bangkok, traffic, traffic"
 imageCredit: "Image by Pexels on Pixabay"
+imageWidth: 1280
+imageHeight: 720
 ---
 
 Have you ever wondered how modern science validates some of the most ancient stories known to humanity? The quest for understanding our past has often led scientists and historians to draw from a variety of disciplines to weave together the narratives of our ancestors. One such compelling area is the intersection of archaeology and biblical studies, notably the role of radiocarbon dating in verifying the historical accuracy of biblical site discoveries. By carefully dissecting these revelations, you gain insights not only into the past but also into the complexities of modern scientific methods and their application to ancient texts.

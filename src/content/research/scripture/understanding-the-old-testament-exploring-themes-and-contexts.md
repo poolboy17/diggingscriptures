@@ -9,6 +9,8 @@ draft: false
 image: "/images/research/scripture/understanding-the-old-testament-exploring-themes-and-contexts.jpg"
 imageAlt: "diary, ipad, write, blog, workplace, notebook, coffee mug, mockup, diary, blog, blog, blog, blog, blog"
 imageCredit: "Image by Edar on Pixabay"
+imageWidth: 1280
+imageHeight: 960
 ---
 
 If you've ever wondered about the fascinating depths of the Old Testament and its relevance to our lives today, then look no further. In "Understanding the Old Testament: Exploring Themes and Contexts," Anita Love, a renowned authority in Christian theology, invites readers on a captivating journey of discovery. With her extensive knowledge and expertise, Love delves into the central themes, literary genres, historical contexts, messianic prophecies, and the transformation from law to grace found within the Old Testament. By exploring these themes, readers gain a deeper understanding and appreciation of the rich tapestry that is the Old Testament. So, grab a cup of coffee, sit back, and let Love guide you through this enthralling exploration of the ancient scriptures. The Old Testament, also known as the Hebrew Bible, is a collection of religious texts that are sacred in both Judaism and Christianity. It is divided into several books, which collectively tell the story of the Hebrew people and their relationship with God. The Old Testament is considered the first section of the Christian Bible and consists of several different genres of writing, including historical accounts, poetry, prophecy, and legal codes.

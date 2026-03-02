@@ -9,6 +9,8 @@ draft: false
 image: "/images/research/scripture/where-is-the-original-bible-kept.jpg"
 imageAlt: "books, students, library, university, knowledge, literature, brown book, brown books, brown library, brown knowledge, books, library, library, library, library, library, university, university"
 imageCredit: "Image by Pexels on Pixabay"
+imageWidth: 1280
+imageHeight: 486
 ---
 
 Nestled within the annals of history, where the whispers of scribes and the touch of ancient parchment linger, lies the elusive trail to the original Bible's whereabouts.

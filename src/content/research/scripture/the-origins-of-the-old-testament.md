@@ -9,6 +9,8 @@ draft: false
 image: "/images/research/scripture/the-origins-of-the-old-testament.jpg"
 imageAlt: "qumran national park, drone footage, aerial shot, archeology park, cave, aqueduct, silo, travel, history, dead sea scrolls, qumran, visitors center, tourism, drone footage, drone footage, drone footage, drone footage, drone footage"
 imageCredit: "Image by samirsmier on Pixabay"
+imageWidth: 1280
+imageHeight: 720
 ---
 
 In Anita Love's thought-provoking exploration of the Old Testament, she sheds light on the origins and significance of this fundamental part of the Bible. As an esteemed theologian with a passion for unraveling ancient texts and uncovering the historical context behind religious teachings, Anita Love delves into the central themes, literary genres, historical context, messianic prophecies, and laws and covenants that shape the Old Testament. With her expertise and scholarly approach, Anita Love offers readers a captivating journey through the history and relevance of the Old Testament, demonstrating the profound impact it has on our understanding of Christianity today. So, where did the title "Old Testament" come from? Let's find out.

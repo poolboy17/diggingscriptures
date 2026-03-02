@@ -9,6 +9,8 @@ draft: false
 image: "/images/research/scripture/oldest-writing-in-the-old-testament.jpg"
 imageAlt: "scroll, feather, ink, caligraphy, hebrew, writing, characters, paper, papirus, old style, brown paper, brown writing, scroll, scroll, scroll, scroll, scroll, hebrew, hebrew"
 imageCredit: "Image by zofiaEliyahu on Pixabay"
+imageWidth: 1280
+imageHeight: 859
 ---
 
 In Anita Love's captivating exploration of the oldest writing in the Old Testament, she dives into the depths of ancient biblical manuscripts, shedding light on the historical foundations of Christianity and its contemporary relevance. With her impressive background in Theology and Religious Studies, Anita presents a nuanced perspective that honors the diversity of Christian denominations, belief systems, and lifestyles. Through her extensive research and scholarly writings, she reveals the authenticity of religious teachings, the historical accuracy of scriptural events, and the divine inspiration that underlies the canonization process. Join Anita Love on a journey through time to uncover the oldest Old Testament writing and gain a deeper understanding of its significance.

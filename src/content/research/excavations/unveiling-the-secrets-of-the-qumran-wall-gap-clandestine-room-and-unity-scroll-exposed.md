@@ -9,6 +9,8 @@ draft: false
 image: "/images/research/excavations/unveiling-the-secrets-of-the-qumran-wall-gap-clandestine-room-and-unity-scroll-exposed.jpg"
 imageAlt: "archaeology, archaeological dig, documenting, digging, research, archaeologist, digger, brown research, brown document, archaeology, archaeology, archaeologist, archaeologist, archaeologist, archaeologist, archaeologist"
 imageCredit: "Image by JamesDeMers on Pixabay"
+imageWidth: 1280
+imageHeight: 1165
 ---
 
 What if the secrets of ancient texts and hidden rooms told a deeper story than first imagined? As you consider this idea, lets unravel the mysteries shrouding the Qumran Wall Gap, the so-called Clandestine Room, and the notable Unity Scroll. You might be surprised by the blend of scholarship, spirituality, and history that springs from this fascinating corner of the world.

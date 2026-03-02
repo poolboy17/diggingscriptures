@@ -9,6 +9,8 @@ draft: false
 image: "/images/research/excavations/exploring-the-connection-the-intersection-of-science-and-religion-in-biblical-archaeology.jpg"
 imageAlt: "valley of the kings, deir el-bahri, egypt, hatshepsut's mortuary temple, archaeology, architecture, mountain, sandstone, hatshepsut, nature, brown king"
 imageCredit: "Image by RonPorter on Pixabay"
+imageWidth: 1280
+imageHeight: 853
 ---
 
 In the riveting article, "Exploring the Connection: The Intersection of Science and Religion in Biblical Archaeology," readers are taken on a captivating journey into the realm where science and religion intertwine in the field of Biblical Archaeology. Delving into the fascinating discoveries that have been made, the article provides a unique perspective on the relationship between scientific exploration and religious beliefs. From unearthing ancient artifacts to deciphering historical texts, this article presents a thought-provoking exploration of the intricate connection between science and religion in this captivating field.

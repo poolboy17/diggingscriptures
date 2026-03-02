@@ -9,6 +9,8 @@ draft: false
 image: "/images/research/biblical-archaeology/biblical-archaeology-excavation-techniques-unraveled.jpg"
 imageAlt: "contrast, abstract, nature, minimalism, windows, stone wall, desert, israel"
 imageCredit: "Image by Pix-Off on Pixabay"
+imageWidth: 1280
+imageHeight: 853
 ---
 
 Uncovering the secrets of ancient civilizations through meticulous excavation methods is a fascinating journey. In the realm of Biblical archaeology, the process of delving into the past involves a variety of intricate techniques. 

@@ -9,6 +9,8 @@ draft: false
 image: "/images/research/artifacts/how-many-old-testament-manuscripts-survive.jpg"
 imageAlt: "egypt, statue, pharaoh, museum, sculpture, antique, egyptian, archaeology, story, egypt, pharaoh, pharaoh, pharaoh, pharaoh, pharaoh"
 imageCredit: "Image by louisredon on Pixabay"
+imageWidth: 1280
+imageHeight: 853
 ---
 
 Isn't it fascinating to consider how much history is tucked away in the pages of ancient manuscripts? When it comes to the Old Testament, the number of surviving manuscripts is a topic that intrigues many scholars and history enthusiasts alike. What makes this collection of texts so resilient across millennia, and what does the survival of these manuscripts tell us about the transmission of biblical documents? As we delve into this subject, you'll find that it not only concerns ancient texts but also touches on issues of authenticity and historical accuracy that matter greatly in our current era, notably in 2025 and beyond. I hold a PhD in Theology and have dedicated years to studying biblical manuscripts, offering first-hand perspectives and insights into this intriguing conversation.

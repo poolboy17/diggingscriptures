@@ -9,6 +9,8 @@ draft: false
 image: "/images/research/scripture/contrasting-worship-in-the-old-testament-and-the-new-testament.jpg"
 imageAlt: "books, stack, book store, stack of books, 2nd hand, retro, hipster, shop, old, trendy, vintage, travel, venice, messy, literature, library, education, knowledge, novels, stories, books, books, books, books, books, library, education"
 imageCredit: "Image by EliFrancis on Pixabay"
+imageWidth: 1280
+imageHeight: 853
 ---
 
 In "Contrasting Worship in the Old Testament and the New Testament," Anita Love, a renowned expert in Christian theology, delves into the distinction between worship practices in these two biblical periods. With her extensive knowledge and academic background, Love explores the differences in central themes, literary genres, historical contexts, messianic prophecies, and the emphasis on law and covenant. By examining key passages, analyzing cultural contexts, and drawing comparisons, Love uncovers the unique aspects and theological implications of worship in the Old Testament compared to the New Testament. Her expertise provides invaluable insights into the evolution of worship practices throughout Christianity's history.

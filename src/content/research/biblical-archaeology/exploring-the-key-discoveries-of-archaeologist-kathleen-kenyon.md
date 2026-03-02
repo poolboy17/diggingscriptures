@@ -9,6 +9,8 @@ draft: false
 image: "/images/research/biblical-archaeology/exploring-the-key-discoveries-of-archaeologist-kathleen-kenyon.jpg"
 imageAlt: "archaeology, excavation, sun sails, protection, sun protection, archaeological excavation, research, archaeological site, coast, landscape, mnajdra, malta, excavation, sun protection, research, archaeological site, mnajdra, mnajdra, mnajdra, mnajdra, mnajdra, malta, malta, malta, malta"
 imageCredit: "Image by Efraimstochter on Pixabay"
+imageWidth: 1280
+imageHeight: 960
 ---
 
 Archaeologist Kathleen Kenyon is renowned for her groundbreaking discoveries that shed light on the ancient world. Through her meticulous excavations in Jericho, Jerusalem, and various sites in the Middle East, she unearthed a wealth of artifacts and evidence that provided invaluable insights into biblical history and the development of human civilization. From the uncovering of the earliest stone houses in Jericho to the identification of significant architectural features in ancient Jerusalem, Kenyon's research has revolutionized our understanding of the past. Join us as we embark on a fascinating journey, exploring the key discoveries that have solidified Kathleen Kenyon's legacy as one of the most influential archaeologists of her time.

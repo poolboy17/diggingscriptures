@@ -9,6 +9,8 @@ draft: false
 image: "/images/research/faith/comparing-old-and-new-testaments-central-themes.jpg"
 imageAlt: "temple of hercules, pillars, roman temple, historic site, amman citadel, ancient, historic, travel, tourism, archaeology, old town, amman, jordan, pillars, pillars, ancient, amman, jordan, jordan, jordan, jordan, jordan"
 imageCredit: "Image by dimitrisvetsikas1969 on Pixabay"
+imageWidth: 1280
+imageHeight: 915
 ---
 
 In the world of biblical studies, the comparison between the Old and New Testaments is a topic of perpetual fascination and exploration. Tasked with analyzing the central themes of these two foundational texts, scholars and theologians delve into the heart of religious teachings, seeking to understand the nuanced differences that exist between the Old and New Testaments. In the hands of Anita Love, a renowned theologian with a deep passion for historical accuracy and contemporary relevance, these examinations of contrasting themes, literary genres, historical contexts, messianic prophecies, and concepts of law and covenant come to life with meticulous research and insightful analysis. Anita's expertise provides a unique perspective, illuminating the subtle yet profound distinctions between the Old and New Testaments, ultimately leading to a greater appreciation for the depth and richness of biblical teachings.

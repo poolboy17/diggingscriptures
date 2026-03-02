@@ -9,6 +9,8 @@ draft: false
 image: "/images/research/faith/exploring-the-roman-encampment-chamber-insights-into-minority-faiths-under-empire.jpg"
 imageAlt: "temple of hercules, pillars, roman temple, historic site, amman citadel, ancient, historic, travel, tourism, archaeology, old town, amman, jordan, pillars, pillars, ancient, amman, jordan, jordan, jordan, jordan, jordan"
 imageCredit: "Image by dimitrisvetsikas1969 on Pixabay"
+imageWidth: 1280
+imageHeight: 915
 ---
 
 What do you think life was like for a minority faith in the vast expanse of the Roman Empire?

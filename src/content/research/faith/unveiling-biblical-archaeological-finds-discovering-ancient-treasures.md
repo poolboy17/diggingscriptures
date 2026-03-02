@@ -9,6 +9,8 @@ draft: false
 image: "/images/research/faith/unveiling-biblical-archaeological-finds-discovering-ancient-treasures.jpg"
 imageAlt: "church, stained glass, cathedral, architecture, church window, glass window, chapel, religion, church, church, church, church, church, cathedral"
 imageCredit: "Image by Tama66 on Pixabay"
+imageWidth: 1280
+imageHeight: 853
 ---
 
 Uncovered from the depths of time, ancient artifacts possess a captivating charm for archaeologists and history enthusiasts alike. These remnants of bygone civilizations offer a glimpse into past epochs, illuminating the customs and beliefs of ancient societies. 

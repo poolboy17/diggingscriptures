@@ -9,6 +9,8 @@ draft: false
 image: "/images/research/biblical-archaeology/crafting-trustworthy-articles-on-biblical-archaeology.jpg"
 imageAlt: "amman, jordan, city, urban, buildings, downtown, city life, architecture, landscape, amman, amman, amman, amman, jordan, jordan, jordan, jordan, jordan"
 imageCredit: "Image by Jonny_Joka on Pixabay"
+imageWidth: 1280
+imageHeight: 853
 ---
 
 What makes an article on biblical archaeology trustworthy? Is it solely the number of scholarly references? Or is it the ability to paint a vivid picture of ancient times, merging history with the invaluable insights found in the scriptures? Whether you're an avid explorer of ancient civilizations or someone who simply craves knowledge, understanding how to craft and consume trustworthy articles in this fascinating field is essential.

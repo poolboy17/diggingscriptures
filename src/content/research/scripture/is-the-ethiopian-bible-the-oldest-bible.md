@@ -9,6 +9,8 @@ draft: false
 image: "/images/research/scripture/is-the-ethiopian-bible-the-oldest-bible.jpg"
 imageAlt: "crown, thorns, happy easter, love, cross, heart, bible, shadow, easter, good friday, sacrifice, symbol, religion, pray, faith, sorrow"
 imageCredit: "Image by jclk8888 on Pixabay"
+imageWidth: 1280
+imageHeight: 853
 ---
 
 In the vast tapestry of ancient religious texts, the Ethiopian Bible stands as a thread of immense historical value.

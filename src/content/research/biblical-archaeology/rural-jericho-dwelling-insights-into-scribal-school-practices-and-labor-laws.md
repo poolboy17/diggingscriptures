@@ -9,6 +9,8 @@ draft: false
 image: "/images/research/biblical-archaeology/rural-jericho-dwelling-insights-into-scribal-school-practices-and-labor-laws.jpg"
 imageAlt: "pottery shard, clay pot, shard, burning clay, craft, burma, myanmar"
 imageCredit: "Image by thomaspedrazzoli on Pixabay"
+imageWidth: 1280
+imageHeight: 1280
 ---
 
 What do you think about the intersection of education and labor in ancient societies? It's fascinating, isn't it? In our modern world, we often draw clear lines between the two, but history shows us that such distinctions weren't always so straightforward. In places like ancient Jericho, especially in its rural settings, scribal schools and labor laws reflect a complex tapestry of life that continues to intrigue scholars and curious minds alike.

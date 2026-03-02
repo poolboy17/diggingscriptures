@@ -9,6 +9,8 @@ draft: false
 image: "/images/research/faith/the-kings-grand-procession-unveiling-the-victory-tied-to-the-arks-presence.jpg"
 imageAlt: "church, stained glass, cathedral, architecture, church window, glass window, chapel, religion, church, church, church, church, church, cathedral"
 imageCredit: "Image by Tama66 on Pixabay"
+imageWidth: 1280
+imageHeight: 853
 ---
 
 What if you could trace the echoes of a moment when faith met triumph, right in the heart of a bustling city? Picture this: a king leading a grand procession, the thrumming of excitement in the air, vibrant banners waving against the azure sky, and at the center of it all, the awe-inspiring Ark of the Covenant. This scene isnt just a historical anecdote; it's steeped in layers of significance that have transcended millennia. So, lets unravel the threads of this majestic narrative.

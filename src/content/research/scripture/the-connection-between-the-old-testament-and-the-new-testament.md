@@ -9,6 +9,8 @@ draft: false
 image: "/images/research/scripture/the-connection-between-the-old-testament-and-the-new-testament.jpg"
 imageAlt: "to learn, read, a book, literature, old, old book, to study, school, training, middle ages, study, bound, historical, leather binding, writing, book pages, old book, old book, old book, old book, old book, middle ages"
 imageCredit: "Image by garten-gg on Pixabay"
+imageWidth: 1280
+imageHeight: 884
 ---
 
 In "The Connection Between the Old Testament and the New Testament," Anita Love, a renowned authority on Christianity's historical foundations, delves into the intricate relationship between these two crucial parts of the Holy Bible. With her vast knowledge and expertise, Anita explores various TEHI formats that focus on contrasting themes, literary genres, historical contexts, messianic prophecies, and the transition from law to grace. By comparing key passages, analyzing cultural and historical contexts, and examining the fulfillment of prophecies, Anita provides valuable insight into how the Old Testament and the New Testament are intricately connected. Through her nuanced perspective and distinguished writings, Anita embraces the diversity of Christian denominations, belief systems, and lifestyles, making her a respected figure in ecumenical circles.

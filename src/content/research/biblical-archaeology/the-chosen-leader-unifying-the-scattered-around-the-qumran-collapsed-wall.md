@@ -9,6 +9,8 @@ draft: false
 image: "/images/research/biblical-archaeology/the-chosen-leader-unifying-the-scattered-around-the-qumran-collapsed-wall.jpg"
 imageAlt: "egypt, temple, hieroglyphics, pharaoh, egyptian temple, travel, statue, columns, pierre, story, nile, edfu, archaeologist, archaeology, archaeological excavations, archaeologist, archaeologist, archaeologist, archaeologist, archaeologist"
 imageCredit: "Image by NadineDoerle on Pixabay"
+imageWidth: 1280
+imageHeight: 850
 ---
 
 What draws you to the idea of leadership? Is it the power to direct? The duty to guide? Or maybe it's the inherent responsibility to bring people together, especially when they're scattered like leaves in the wind. When we consider the concept of leadership, reflections on ancient communitiesspecifically the Qumran communityoffer fascinating insights. With its intriguing ruins and a history thats intertwined with the legendary Dead Sea Scrolls, the story of the Qumran community, especially around the collapsed wall, resonates deeply. Lets unpack what it means to be a chosen leader, and how leaders unify scattered individuals, even in the aftermath of collapse.

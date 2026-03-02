@@ -9,6 +9,8 @@ draft: false
 image: "/images/research/biblical-archaeology/ravine-echoes-a-journey-through-festival-music-in-a-desert-shrine.jpg"
 imageAlt: "archeology, history, ancient, culture, architecture, antique, stone, landmark, historic, monument, ruin, temple, historical, column, turkey, bergama, pergamon, blue history, blue culture, blue stone, turkey, turkey, bergama, bergama, pergamon, pergamon, pergamon, pergamon, pergamon"
 imageCredit: "Image by nikolabelopitov on Pixabay"
+imageWidth: 1280
+imageHeight: 854
 ---
 
 Have you ever taken a moment to think about the role music plays during festivals, especially in a unique setting like a desert shrine? It might seem like an odd intersection at first, but when you dig a little deeper, youll find that the echoes of festival music in such a vivid backdrop reveal a fascinating blend of history, culture, and experience.

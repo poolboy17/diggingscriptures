@@ -9,6 +9,8 @@ draft: false
 image: "/images/research/scripture/when-was-the-first-bible-written-and-who-wrote-it.jpg"
 imageAlt: "qumran national park, drone footage, aerial shot, archeology park, cave, aqueduct, silo, travel, history, dead sea scrolls, qumran, visitors center, tourism, drone footage, drone footage, drone footage, drone footage, drone footage"
 imageCredit: "Image by samirsmier on Pixabay"
+imageWidth: 1280
+imageHeight: 720
 ---
 
 The origins of the Bible date back to the 10th century BCE, with the Torah being canonized during the Babylonian Exile.

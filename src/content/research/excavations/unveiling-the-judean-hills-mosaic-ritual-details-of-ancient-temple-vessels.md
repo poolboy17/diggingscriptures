@@ -9,6 +9,8 @@ draft: false
 image: "/images/research/excavations/unveiling-the-judean-hills-mosaic-ritual-details-of-ancient-temple-vessels.jpg"
 imageAlt: "egyptian temple, historic site, structure, land lot, archaeological site, outdoor structure, mortuary temple, ancient history, facade, roof, history, egyptian temple, egyptian temple, egyptian temple, egyptian temple, egyptian temple"
 imageCredit: "Image by Wael-Ezz on Pixabay"
+imageWidth: 1280
+imageHeight: 853
 ---
 
 What do you picture when you think about the ancient rituals performed in sacred temples? Perhaps it's a scene filled with majestic vessels, each crafted with meticulous care, holding deep significance in the spiritual lives of those who used them. The Judean Hills Mosaic brings to life the intricate details of these ancient temple vessels, revealing the richness of ritual practices in their time.

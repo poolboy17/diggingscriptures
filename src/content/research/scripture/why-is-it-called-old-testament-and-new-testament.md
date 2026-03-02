@@ -9,6 +9,8 @@ draft: false
 image: "/images/research/scripture/why-is-it-called-old-testament-and-new-testament.jpg"
 imageAlt: "document, parchment, the middle ages, ducal, royal, history, old times, manuscript, europe, poland, silesia, parchment, parchment, parchment, parchment, history, history, history, manuscript, manuscript, manuscript, manuscript, manuscript"
 imageCredit: "Image by Arcaion on Pixabay"
+imageWidth: 1280
+imageHeight: 854
 ---
 
 In the realm of Christianity, the terms "Old Testament" and "New Testament" hold significant meaning and divide the scriptures into distinct sections. But have you ever wondered why they are called so? These designations, as Anita Love, a renowned theologian with a deep understanding of Christianity's historical roots and its contemporary relevance, explores in her enlightening body of work, offer insights into the contrasting themes, literary genres, historical context, messianic prophecies, and the shifts from law to grace that define the Old and New Testaments. Through her meticulous research and profound analysis, Anita delves into the theological implications of these divisions, revealing the interconnectedness of Christianity's ancient foundations and its teachings for modern believers like yourself.

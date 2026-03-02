@@ -9,6 +9,8 @@ draft: false
 image: "/images/research/excavations/archaeological-ai-discovers-lost-biblical-cities.jpg"
 imageAlt: "archaeology, archaeological dig, documenting, digging, research, archaeologist, digger, brown research, brown document, archaeology, archaeology, archaeologist, archaeologist, archaeologist, archaeologist, archaeologist"
 imageCredit: "Image by JamesDeMers on Pixabay"
+imageWidth: 1280
+imageHeight: 1165
 ---
 
 Have you ever wondered what might still be hidden beneath the sands of time, waiting to be uncovered? As technology advances, it brings fresh eyes to the ancient mysteries that have puzzled historians for centuries. Recently, the fusion of archaeology and artificial intelligence (AI) has led to groundbreaking discoveries of lost biblical cities, reshaping our understanding of historical narratives written thousands of years ago. This exploration merges technological prowess with historical intrigue, illuminating paths once shadowed by time and nature. Through the lens of archaeological AI, we delve into the discovery, evidence, and significance of these ancient urban centers.

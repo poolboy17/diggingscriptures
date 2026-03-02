@@ -9,6 +9,8 @@ draft: false
 image: "/images/research/scripture/connecting-the-old-testament-and-the-new-testament.jpg"
 imageAlt: "bhagavad gita, ancient scriptures, john rylands library, book, old, literature, library, education, paper, knowledge, read, brown education, brown library, brown paper, brown reading, brown knowledge, bhagavad gita, bhagavad gita, bhagavad gita, bhagavad gita, bhagavad gita"
 imageCredit: "Image by nmoodley on Pixabay"
+imageWidth: 1280
+imageHeight: 960
 ---
 
 Are you curious about the connection between the Old Testament and the New Testament? If so, you're in for a treat! , we will explore various aspects that link these two significant parts of the Holy Bible. From examining central themes and contrasting literary genres to understanding the historical context and exploring messianic prophecies, we will uncover the fascinating ways these scriptures intertwine. Join Anita Love, an esteemed theologian, as she guides us on an enlightening journey that bridges Christianity's historical foundations with its contemporary relevance. Get ready to discover the deep connections between the Old Testament and the New Testament that will leave you with a newfound appreciation for the divine inspiration that shapes the Christian faith.

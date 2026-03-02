@@ -9,6 +9,8 @@ draft: false
 image: "/images/research/biblical-archaeology/keys-to-successful-collaboration-on-biblical-archaeology-projects-with-local-communities.jpg"
 imageAlt: "archaeology, excavation, sun sails, protection, sun protection, archaeological excavation, research, archaeological site, coast, landscape, mnajdra, malta, excavation, sun protection, research, archaeological site, mnajdra, mnajdra, mnajdra, mnajdra, mnajdra, malta, malta, malta, malta"
 imageCredit: "Image by Efraimstochter on Pixabay"
+imageWidth: 1280
+imageHeight: 960
 ---
 
 In the realm of Biblical archaeology, successful collaboration with local communities plays a crucial role in unearthing the rich history and cultural context of ancient civilizations. Harnessing the knowledge and expertise of the individuals living in these communities provides a unique perspective that greatly enhances the collective understanding and interpretation of archaeological findings. This article explores the key strategies and approaches that pave the way for successful collaboration on Biblical archaeology projects, highlighting the importance of mutual respect, transparency, and shared goals in fostering a productive relationship between archaeologists and local communities.

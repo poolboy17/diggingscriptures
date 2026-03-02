@@ -9,6 +9,8 @@ draft: false
 image: "/images/research/artifacts/how-jeromes-vulgate-influenced-canon-texts.jpg"
 imageAlt: "ancient, pottery, pots, clay, antique, art, artisan, artistic, brown, ceramic, crafts, culture, handcraft, handicraft, handmade, india, indian, pottery, pottery, pottery, clay, art, culture, india, india, india, india, india, indian"
 imageCredit: "Image by Pexels on Pixabay"
+imageWidth: 1280
+imageHeight: 853
 ---
 
 Have you ever wondered how a singular translation of biblical texts could shape centuries of religious canon? Sometimes, a pivotal change in the history of religious texts offers us a lens through which to view cultural shifts, theological debates, and historical contexts. Thats exactly the impact Jeromes Vulgate had on canon texts. But why would such a translation matter, especially ?

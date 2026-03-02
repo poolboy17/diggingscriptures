@@ -9,6 +9,8 @@ draft: false
 image: "/images/research/biblical-archaeology/exploring-jerusalem-market-crafting-fellowship-amidst-oppression.jpg"
 imageAlt: "pyramids, egypt, egyptian, ancient, desert, giza, historical, architecture, sand, dunes, sand dunes, barren, nature, barren landscape, landmark, sunset, panorama, panoramic"
 imageCredit: "Image by TheDigitalArtist on Pixabay"
+imageWidth: 1280
+imageHeight: 480
 ---
 
 What if I told you that the simple act of shopping could be a profound experience that touches upon centuries of culture, conflict, and community? In the heart of Jerusalem, the market stands as a testament to both resilience and fellowship. While the area around you may reflect a long history of oppression, the market pulses with life, stories, and connections that defy such circumstances.

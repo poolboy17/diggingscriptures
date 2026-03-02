@@ -9,6 +9,8 @@ draft: false
 image: "/images/research/excavations/unveiling-the-truth-biblical-archaeologists-debunk-popular-misconceptions.jpg"
 imageAlt: "streets, night, lights, circle, highways, top view, cityscape, aerial view, urban, crossroads, freeway, traffic, city lights, night photography, city view, aerial photography, circle, top view, cityscape, cityscape, cityscape, cityscape, aerial view, urban, crossroads, crossroads, freeway, city lights, city lights, city lights, city lights, city lights, night photography, night photography, night photography, city view, city view"
 imageCredit: "Image by csliaw on Pixabay"
+imageWidth: 1280
+imageHeight: 960
 ---
 
 In "Unveiling the Truth: Biblical Archaeologists Debunk Popular Misconceptions," readers are taken on a captivating journey behind the scenes of Biblical archaeology. With a friendly tone, this article aims to deconstruct the common myths and misunderstandings surrounding the field. Through expert analysis and firsthand accounts, readers will gain a deeper understanding of the challenging yet rewarding work carried out by these dedicated professionals. Prepare to have your preconceived notions shattered as the truth behind Biblical archaeology is revealed.

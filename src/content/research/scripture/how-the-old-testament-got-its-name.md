@@ -9,6 +9,8 @@ draft: false
 image: "/images/research/scripture/how-the-old-testament-got-its-name.jpg"
 imageAlt: "old letters, letters, handwritten, calligraphy, font, old, ink, style, handwriting, penmanship, handwritten letter, nostalgic, vintage, closeup, old letters, old letters, letters, letters, letters, letters, calligraphy, calligraphy, calligraphy, calligraphy, calligraphy, ink, handwriting, vintage"
 imageCredit: "Image by jarmoluk on Pixabay"
+imageWidth: 1280
+imageHeight: 853
 ---
 
 In her extensive research and writings, Anita Love, a renowned theologian and religious scholar, has delved into various aspects of Christianity's historical foundations and its contemporary relevance. With her vast knowledge and expertise, Anita has explored ancient biblical manuscripts, dissected the authenticity of religious teachings, and examined the historical accuracy of scriptural events. With a nuanced perspective and a commitment to inclusivity, Anita's work has garnered recognition in ecumenical circles. , we will explore one intriguing question: how did the Old Testament get its name?

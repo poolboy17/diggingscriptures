@@ -9,6 +9,8 @@ draft: false
 image: "/images/research/artifacts/scientific-site-analysis-of-biblical-archaeology.jpg"
 imageAlt: "globe, ink, rustic, still life, map, tusche indian ink, ancient, old, vintage, glass, light, table, wooden table, globe, globe, globe, globe, still life, map, map, map, map, map, ancient, ancient, ancient, old, vintage, vintage, vintage, vintage, light, table, table, table"
 imageCredit: "Image by Felix-Mittermeier on Pixabay"
+imageWidth: 1280
+imageHeight: 720
 ---
 
 Do you often wonder how scientific methods have been utilized in the analysis of biblical archaeology, shedding light on ancient histories that intertwine faith with factual evidence? Within the realm of biblical archaeology, scientific analysis not only substantiates religious texts but also provides a lens through which historical narratives can be better understood and appreciated. This article delves into the methodologies and findings that define this fascinating intersection of science and scripture.

@@ -9,6 +9,8 @@ draft: false
 image: "/images/research/artifacts/why-the-samaritan-pentateuch-matters-to-origins.jpg"
 imageAlt: "sculpture, statue, sphinx, bronze, artwork, berlin, park, sculpture, statue, statue, statue, statue, statue, sphinx, artwork, berlin, berlin"
 imageCredit: "Image by Couleur on Pixabay"
+imageWidth: 1280
+imageHeight: 853
 ---
 
 Do you ever find yourself pondering the origins of ancient texts and their significance ? Let's unravel the fascinating tale of the Samaritan Pentateucha unique version of the first five books of the Bible. This article aims to shed light on why the Samaritan Pentateuch is crucial for understanding textual origins and the broader biblical heritage.

@@ -9,6 +9,8 @@ draft: false
 image: "/images/research/artifacts/how-scholars-reconstruct-the-earliest-texts-2.jpg"
 imageAlt: "british museum, parthenon, acropolis, ancient, archaeology, athens, elgin, greece, greek, marble, heritage, museum, british museum, british museum, british museum, british museum, british museum, parthenon, parthenon, parthenon, parthenon, parthenon, elgin, elgin"
 imageCredit: "Image by Tasos_Lekkas on Pixabay"
+imageWidth: 1280
+imageHeight: 978
 ---
 
 Have you ever wondered how scholars unravel the mysteries of ancient texts? These timeworn documents carry the wisdom, culture, and tales of civilizations that paved the way for modern society. Yet, the journey to deciphering them is anything but straightforward. I'm Dr. Alex Moon, holding a PhD in Ancient History, and I'm here to shed light on the meticulous work that goes into reconstructing humanity's earliest written records.

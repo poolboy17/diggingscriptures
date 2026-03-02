@@ -9,6 +9,8 @@ draft: false
 image: "/images/research/faith/unearthing-truth-the-battle-of-biblical-archaeologists-against-looting.jpg"
 imageAlt: "masjid prophetic, medina, religion, muslim, islam, architectural, hz, mohammed, the last prophet, architectural history"
 imageCredit: "Image by Konevi on Pixabay"
+imageWidth: 1280
+imageHeight: 853
 ---
 
 In the ongoing battle against the illicit trade of historical artifacts, a group of dedicated individuals has emerged as the unsung heroes - biblical archaeologists. These passionate scholars tirelessly work to unearth the truth of the past, using their expertise to piece together ancient mysteries. However, they face a grave challenge - the rampant looting of archaeological sites. This article takes a closer look at the valiant efforts of biblical archaeologists as they fight to preserve our shared human heritage and prevent the loss of invaluable historical artifacts to the black market.

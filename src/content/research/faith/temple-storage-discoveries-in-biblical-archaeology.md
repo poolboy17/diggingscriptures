@@ -9,6 +9,8 @@ draft: false
 image: "/images/research/faith/temple-storage-discoveries-in-biblical-archaeology.jpg"
 imageAlt: "mosaic, floor, tile, famous, antique, roman, italy, rome, museum"
 imageCredit: "Image by RGY23 on Pixabay"
+imageWidth: 1280
+imageHeight: 853
 ---
 
 Have you ever wondered what secrets lie within the ancient storerooms of biblical temples and the stories they could tell? The fascinating world of temple storage in biblical archaeology is a tapestry of faith, culture, and daily life interwoven over centuries. In the realm of archaeological exploration, occasional discoveries may seem like whispers from the past that echo into todays world. Through the lens of biblical archaeology, these storerooms offer invaluable insights not only into religious practices but also into the people who lived and worshiped during those times.

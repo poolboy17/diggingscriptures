@@ -9,6 +9,8 @@ draft: false
 image: "/images/research/scripture/why-is-the-new-testament-written-in-greek-and-not-hebrew.jpg"
 imageAlt: "scroll, feather, ink, caligraphy, hebrew, writing, characters, paper, papirus, old style, brown paper, brown writing, scroll, scroll, scroll, scroll, scroll, hebrew, hebrew"
 imageCredit: "Image by zofiaEliyahu on Pixabay"
+imageWidth: 1280
+imageHeight: 859
 ---
 
 Have you ever wondered why the New Testament was written in Greek instead of Hebrew? It's a question that has fascinated theologians and biblical scholars for centuries. , we will explore the reasons behind this linguistic choice and delve into the implications it holds for our understanding of the scriptures. Join us as we embark on a journey to uncover the historical and cultural context that shaped the composition of the New Testament, and discover how language played a crucial role in conveying the teachings of Christianity.

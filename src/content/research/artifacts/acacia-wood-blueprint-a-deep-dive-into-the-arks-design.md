@@ -9,6 +9,8 @@ draft: false
 image: "/images/research/artifacts/acacia-wood-blueprint-a-deep-dive-into-the-arks-design.jpg"
 imageAlt: "chinese, free background, mac wallpaper, vase, 4k wallpaper 1920x1080, windows wallpaper, wallpaper 4k, free wallpaper, tea cup, 4k wallpaper, ceramics, full hd wallpaper, wallpaper hd, white, isolated, antique, cool backgrounds, tea, desktop backgrounds, background, blue, art, laptop wallpaper, pottery, traditional, culture, vintage, oriental, asia, oldies, porcelain, bowl, expedition, hd wallpaper, cup, ancient, beautiful wallpaper, decoration, colorful, asian, tradition, old, mystery"
 imageCredit: "Image by 947051 on Pixabay"
+imageWidth: 1280
+imageHeight: 753
 ---
 
 What do you think of when you hear the word "ark"? Maybe a flood, some animals two by two, or perhaps you think of adventure. But theres so much more to it, especially when discussing the Ark of the Covenant and the materials that went into its design. One material stands out from the restacacia wood. Lets unravel the intriguing blueprint of this sacred object and its significant role in biblical history.

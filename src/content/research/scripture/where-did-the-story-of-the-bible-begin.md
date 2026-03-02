@@ -9,6 +9,8 @@ draft: false
 image: "/images/research/scripture/where-did-the-story-of-the-bible-begin.jpg"
 imageAlt: "crown, thorns, happy easter, love, cross, heart, bible, shadow, easter, good friday, sacrifice, symbol, religion, pray, faith, sorrow"
 imageCredit: "Image by jclk8888 on Pixabay"
+imageWidth: 1280
+imageHeight: 853
 ---
 
 In the intricate tapestry of biblical origins, one can liken the beginning of the Bible's narrative to a foundational cornerstone, holding the weight of centuries of human history and faith. But where did this cornerstone truly originate, and what mysteries does it hold within its ancient walls?

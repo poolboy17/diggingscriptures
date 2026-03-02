@@ -9,6 +9,8 @@ draft: false
 image: "/images/research/biblical-archaeology/governing-temple-rites-the-secrets-of-the-museum-storeroom-box.jpg"
 imageAlt: "archeology, history, ancient, culture, architecture, antique, stone, landmark, historic, monument, ruin, temple, historical, column, turkey, bergama, pergamon, blue history, blue culture, blue stone, turkey, turkey, bergama, bergama, pergamon, pergamon, pergamon, pergamon, pergamon"
 imageCredit: "Image by nikolabelopitov on Pixabay"
+imageWidth: 1280
+imageHeight: 854
 ---
 
 What comes to mind when you think about ancient temples? Do you envision gilded altars and grand ceremonies, or do you ponder about the strict rules that governed them? The truth is, in the intricate world of temple rites, every detail mattered. From the sacred items stored in museum storerooms to the ancient texts that outline how religious practices were conducted, the governance of these rites reveals secrets that have captivated historians and the faithful alike.

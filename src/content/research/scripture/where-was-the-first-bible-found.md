@@ -9,6 +9,8 @@ draft: false
 image: "/images/research/scripture/where-was-the-first-bible-found.jpg"
 imageAlt: "writing, manuscript, letter, document, ancient, lyrics, feather, ink, calligraphy"
 imageCredit: "Image by makamuki0 on Pixabay"
+imageWidth: 1280
+imageHeight: 960
 ---
 
 In the intricate tapestry of biblical history, the quest for the first Bible's origin remains a fascinating enigma. Scholars and historians have long pondered the elusive beginnings of this sacred text, tracing its evolution through the annals of time.

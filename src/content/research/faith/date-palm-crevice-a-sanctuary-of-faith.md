@@ -9,6 +9,8 @@ draft: false
 image: "/images/research/faith/date-palm-crevice-a-sanctuary-of-faith.jpg"
 imageAlt: "buddha, statue, temple, ruins, praying, worship, thailand, buddha purnima, sukhothai, ancient, historical site"
 imageCredit: "Image by qimono on Pixabay"
+imageWidth: 1280
+imageHeight: 853
 ---
 
 What comes to mind when you think of a sanctuary? Is it a quiet space filled with light, a gathering of friends, or perhaps a refuge where faith is nurtured? For communities around the world, sanctuaries can take on various forms, but few are as evocative as the Date Palm Crevice. This particular location symbolizes a blend of nature, spirituality, and cultural heritage. Let's embark on a journey through this fascinating intersection of faith and history.

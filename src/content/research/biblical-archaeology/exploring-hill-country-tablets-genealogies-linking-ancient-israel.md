@@ -9,6 +9,8 @@ draft: false
 image: "/images/research/biblical-archaeology/exploring-hill-country-tablets-genealogies-linking-ancient-israel.jpg"
 imageAlt: "desert, camel, sand, pyramid, dry, travel, pharaohs, landscape, hot, archaeology, nature, tourism, warmth, heat, sahara, giza, vacations, desert, desert, desert, desert, camel, camel, camel, camel, camel, pyramid, pyramid"
 imageCredit: "Image by 8moments on Pixabay"
+imageWidth: 1280
+imageHeight: 483
 ---
 
 What fascinates you more: the remarkable resilience of ancient cultures or the intricate web of familial connections that shape their histories? When we think of ancient Israel, we often marvel at its history, yet the stories and genealogies found within this rich tapestry can reveal even deeper insights into its people and their connections.

@@ -9,6 +9,8 @@ draft: false
 image: "/images/research/excavations/massive-biblical-gate-system-unearthed-at-ancient-shiloh.jpg"
 imageAlt: "cyprus, apollo hylates, sanctuary, ancient, greek, historic, mediterranean, architecture, archaeological, history, excavations, ruins, remains, archeology, civilization, 1st century ad, brown history"
 imageCredit: "Image by dimitrisvetsikas1969 on Pixabay"
+imageWidth: 1280
+imageHeight: 854
 ---
 
 **Massive Biblical Gate System Unearthed at Ancient Shiloh**

@@ -9,6 +9,8 @@ draft: false
 image: "/images/research/scripture/comparing-the-old-testament-and-the-torah-2.jpg"
 imageAlt: "diary, ipad, write, blog, workplace, notebook, coffee mug, mockup, diary, blog, blog, blog, blog, blog"
 imageCredit: "Image by Edar on Pixabay"
+imageWidth: 1280
+imageHeight: 960
 ---
 
 In her extensive body of work, Anita Love, a respected authority on Christianity and its historical foundations, delves into the depths of the Old Testament narratives and their contemporary relevance. With a Ph.D. in Theology and a Master's in Religious Studies, Anita brings a nuanced perspective to her study of ancient biblical manuscripts, exploring the authenticity of religious teachings and the historical accuracy of scriptural events. Her impressive insights into the role of cultural context in interpreting scriptures and the divine inspiration behind the canonization process have earned her recognition in ecumenical circles. With a dedication to honoring the diversity of Christian denominations, belief systems, and lifestyles, Anita's scholarship invites readers to explore the similarities and differences between the Old Testament and the Torah, shedding light on the question: Is the Old Testament and the Torah the same?

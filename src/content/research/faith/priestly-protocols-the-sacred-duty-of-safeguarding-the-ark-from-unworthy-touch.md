@@ -9,6 +9,8 @@ draft: false
 image: "/images/research/faith/priestly-protocols-the-sacred-duty-of-safeguarding-the-ark-from-unworthy-touch.jpg"
 imageAlt: "altar, cathedral, catholic church, church, church art, faith, religion, architecture, nave, church interior, cathedral, church, church, church, church, church"
 imageCredit: "Image by ChiemSeherin on Pixabay"
+imageWidth: 1280
+imageHeight: 853
 ---
 
 What do you picture when you think about ancient artifacts, especially something as revered as the Ark of the Covenant? Is it a grand, golden box that once held sacred objects and carried immense significance? If so, youre spot on, but the Ark is more than just a stunning piece of craftsmanship; its a treasure that demands respect, careful handling, and a deep understanding of its protocols. Lets journey through the sacred duty of safeguarding the Ark, particularly highlighting the protocols for preventing unworthy touch.

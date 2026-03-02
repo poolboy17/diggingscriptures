@@ -9,6 +9,8 @@ draft: false
 image: "/images/research/biblical-archaeology/ways-to-involve-the-public-in-the-discoveries-of-biblical-archaeology.jpg"
 imageAlt: "desert, camel, sand, pyramid, dry, travel, pharaohs, landscape, hot, archaeology, nature, tourism, warmth, heat, sahara, giza, vacations, desert, desert, desert, desert, camel, camel, camel, camel, camel, pyramid, pyramid"
 imageCredit: "Image by 8moments on Pixabay"
+imageWidth: 1280
+imageHeight: 483
 ---
 
 Biblical archaeology has the remarkable ability to provide insights into the ancient world and shed light on the historical context of biblical texts. However, this fascinating field often remains inaccessible to the general public. , we explore different ways to involve and engage the public in the discoveries of Biblical archaeology, allowing everyone to appreciate and learn from these unparalleled findings. From interactive exhibits to virtual tours and educational programs, there are numerous opportunities for individuals of all ages and backgrounds to connect with the wonders of the past.

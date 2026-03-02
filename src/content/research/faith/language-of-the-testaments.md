@@ -9,6 +9,8 @@ draft: false
 image: "/images/research/faith/language-of-the-testaments.jpg"
 imageAlt: "mosque, crowd, worship, mecca, islam, religion, kaaba, trip, architectural, city, qibla, tawaf, building, cami, mosque, mosque, mecca, islam, islam, islam, islam, islam, kaaba"
 imageCredit: "Image by Konevi on Pixabay"
+imageWidth: 1280
+imageHeight: 853
 ---
 
 In Anita Love's thought-provoking article, "Language of the Testaments," she explores the language in which the biblical testaments were written. With her extensive background in theology and religious studies, Anita delves into the complexities of the Old Testament and the New Testament, shedding light on their contrasting themes, literary genres, historical contexts, messianic prophecies, and the emphasis on law and covenant. As a respected authority in her field, Anita's work offers a nuanced perspective that fosters a deeper understanding of Christianity's historical foundations while acknowledging the diversity within the faith. So, what language were the testaments written in? Let's find out.

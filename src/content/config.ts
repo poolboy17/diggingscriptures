@@ -267,6 +267,8 @@ const research = defineCollection({
         image: z.string().optional(),
         imageAlt: z.string().optional(),
         imageCredit: z.string().optional(),
+        imageWidth: z.number().optional(),
+        imageHeight: z.number().optional(),
 
         // SEO and metadata
         pubDate: z.date().optional(),

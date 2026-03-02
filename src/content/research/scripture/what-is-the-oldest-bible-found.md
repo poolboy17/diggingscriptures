@@ -9,6 +9,8 @@ draft: false
 image: "/images/research/scripture/what-is-the-oldest-bible-found.jpg"
 imageAlt: "scroll, feather, ink, caligraphy, hebrew, writing, characters, paper, papirus, old style, brown paper, brown writing, scroll, scroll, scroll, scroll, scroll, hebrew, hebrew"
 imageCredit: "Image by zofiaEliyahu on Pixabay"
+imageWidth: 1280
+imageHeight: 859
 ---
 
 In the annals of biblical history, a pivotal discovery sheds light on the origins of the Christian faith.

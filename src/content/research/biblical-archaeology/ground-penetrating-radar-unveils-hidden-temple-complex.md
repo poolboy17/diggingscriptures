@@ -9,6 +9,8 @@ draft: false
 image: "/images/research/biblical-archaeology/ground-penetrating-radar-unveils-hidden-temple-complex.jpg"
 imageAlt: "parthenon, monument, temple, greece, athens, acropolis, greek architecture, history, ancient temple, travel, museum, columns, landmark, historic site, architecture, temple, greece, greece, greece, greece, greece, athens, athens, athens, history, museum"
 imageCredit: "Image by Nick115 on Pixabay"
+imageWidth: 1280
+imageHeight: 850
 ---
 
 Have you ever wondered what ancient secrets lie beneath our feet, hidden from view and yet promising to shed light on the past? Recent advancements in technology have led to groundbreaking discoveries in biblical archaeology, one of which is the unveiling of a hidden temple complex using ground-penetrating radar.

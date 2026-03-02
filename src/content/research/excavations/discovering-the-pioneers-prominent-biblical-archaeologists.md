@@ -9,6 +9,8 @@ draft: false
 image: "/images/research/excavations/discovering-the-pioneers-prominent-biblical-archaeologists.jpg"
 imageAlt: "western wall, jerusalem, jews, pray, orthodox, holy, religious, western, wall, torah, temple, judaism, israel, jewish, religion, prayer, old, god, rock, east, stone, faith, hebrew, belief, judaic, spirituality, spiritual, architecture, traditional, city, synagogue, worship, wailing, ancient, people, sacred, brown city, brown wall, brown god, brown pray, brown rock, brown prayer, brown stone, western wall, jerusalem, jerusalem, jews, jews, judaism, judaism, israel, israel, israel, jewish, jewish, jewish, jewish, jewish"
 imageCredit: "Image by rliessum on Pixabay"
+imageWidth: 1280
+imageHeight: 960
 ---
 
 In the fascinating world of Biblical archaeology, there have been numerous pioneers who dedicated their lives to uncovering the ancient stories and artifacts that shape our understanding of history. These prominent individuals played a crucial role in unearthing important biblical sites, deciphering ancient texts, and shedding light on the lives of biblical figures. From Flinders Petrie, known for his meticulous excavation techniques, to Kathleen Kenyon, who revolutionized the field with her innovative methods, this article is a captivating exploration of the lives and achievements of these extraordinary individuals. Join us as we embark on a journey to discover the pioneers of biblical archaeology and the invaluable contributions they made to our understanding of the past.

@@ -9,6 +9,8 @@ draft: false
 image: "/images/research/faith/exploring-the-depths-of-biblical-archaeology.jpg"
 imageAlt: "church, cathedral, architecture, chapel, france, normandy, religion, faith, christianity, catholic, church, church, church, church, church, cathedral, cathedral, france, france, catholic"
 imageCredit: "Image by Tama66 on Pixabay"
+imageWidth: 1280
+imageHeight: 853
 ---
 
 ## Understanding Biblical Archaeology

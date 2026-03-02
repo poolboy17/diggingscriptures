@@ -9,6 +9,8 @@ draft: false
 image: "/images/research/excavations/debunking-the-top-misconceptions-about-biblical-archaeology.jpg"
 imageAlt: "egypt, temple, hieroglyphics, pharaoh, egyptian temple, travel, statue, columns, pierre, story, nile, edfu, archaeologist, archaeology, archaeological excavations, archaeologist, archaeologist, archaeologist, archaeologist, archaeologist"
 imageCredit: "Image by NadineDoerle on Pixabay"
+imageWidth: 1280
+imageHeight: 850
 ---
 
 Debunking the Top Misconceptions about Biblical Archaeology takes readers on a fascinating journey into the often-misunderstood realm of biblical archaeology. Exploring the ancient ruins, artifacts, and historical discoveries associated with the Bible, this article seeks to shed light on the numerous misconceptions that surround this field of study. From debunking the belief that biblical archaeologists are solely focused on proving the existence of God to challenging the notion that all biblical stories can be proven through archaeology, readers will gain a fresh understanding and appreciation for the complexities of this rich subject.

@@ -9,6 +9,8 @@ draft: false
 image: "/images/research/faith/biblical-archaeology-illuminating-the-word-of-god.jpg"
 imageAlt: "western wall, jerusalem, jews, pray, orthodox, holy, religious, western, wall, torah, temple, judaism, israel, jewish, religion, prayer, old, god, rock, east, stone, faith, hebrew, belief, judaic, spirituality, spiritual, architecture, traditional, city, synagogue, worship, wailing, ancient, people, sacred, brown city, brown wall, brown god, brown pray, brown rock, brown prayer, brown stone, western wall, jerusalem, jerusalem, jews, jews, judaism, judaism, israel, israel, israel, jewish, jewish, jewish, jewish, jewish"
 imageCredit: "Image by rliessum on Pixabay"
+imageWidth: 1280
+imageHeight: 960
 ---
 
 You will be amazed at** how biblical archaeology** can shed** light on the authenticity and historical accuracy** of the **Word of God**. Through unearthed artifacts, ancient inscriptions, and archaeological findings, **we can gain valuable insights** into the **context** in which biblical events took place. In this blog post, we will explore **the power of biblical archaeology** in **illuminating** and **strengthening our understanding** of the **Bible**.

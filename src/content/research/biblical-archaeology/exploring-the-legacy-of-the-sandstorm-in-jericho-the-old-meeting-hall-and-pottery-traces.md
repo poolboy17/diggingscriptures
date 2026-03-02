@@ -9,6 +9,8 @@ draft: false
 image: "/images/research/biblical-archaeology/exploring-the-legacy-of-the-sandstorm-in-jericho-the-old-meeting-hall-and-pottery-traces.jpg"
 imageAlt: "pretty much, jerash, columns, roman, ancient, culture, story, historical, ruins, stone, jordan, tourism, to travel, middle east, jerash, jerash, jordan, jordan, jordan, jordan, jordan"
 imageCredit: "Image by ChiemSeherin on Pixabay"
+imageWidth: 1280
+imageHeight: 961
 ---
 
 What do you think about the interplay between ancient events and modern archaeological discoveries? Its fascinating how remnants of the past can shape our understanding of history, isn't it? In this piece, we'll take a closer look at the legacy of a significant sandstorm in Jericho and how it intertwined with the Old Meeting Hall and pottery traces, shedding light on a captivating chapter of biblical archaeology.

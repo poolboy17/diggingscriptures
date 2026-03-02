@@ -9,6 +9,8 @@ draft: false
 image: "/images/research/excavations/exploring-biblical-archaeology-studies-unveiling-ancient-secrets.jpg"
 imageAlt: "workers, construction, excavation, dig, building, construction workers, helmet, safety vest, construction site, soil, construction, excavation, excavation, excavation, excavation, excavation, construction workers, construction workers, safety vest, safety vest, safety vest, safety vest, safety vest, construction site, construction site"
 imageCredit: "Image by planet_fox on Pixabay"
+imageWidth: 1280
+imageHeight: 853
 ---
 
 Embarking on journeys through the realm of archaeological excavations unveils a captivating exploration into the ancient world, where historical sites come to life and ancient artifacts tell stories of bygone eras. Through meticulous **archaeological excavations**, researchers have unearthed a plethora of treasures that serve as windows into the past, enriching our understanding of **biblical texts** and shedding light on the customs and societies of ancient times. 

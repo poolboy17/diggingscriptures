@@ -9,6 +9,8 @@ draft: false
 image: "/images/research/faith/effective-communication-strategies-for-biblical-archaeology.jpg"
 imageAlt: "masjid prophetic, medina, religion, muslim, islam, architectural, hz, mohammed, the last prophet, architectural history"
 imageCredit: "Image by Konevi on Pixabay"
+imageWidth: 1280
+imageHeight: 853
 ---
 
 In the realm of biblical archaeology, effective communication is key when it comes to engaging diverse audiences. Whether it's sharing groundbreaking discoveries or unraveling the mysteries of ancient civilizations, the art of conveying information in a clear and relatable manner becomes paramount. By employing strategies that capture the attention and spark curiosity, researchers can bridge the gap and foster a better understanding of the significance of biblical archaeology for people from all walks of life.

@@ -9,6 +9,8 @@ draft: false
 image: "/images/research/excavations/quest-for-qumran-mysteries-in-the-holy-land.jpg"
 imageAlt: "archaeology, excavation, sun sails, protection, sun protection, archaeological excavation, research, archaeological site, coast, landscape, mnajdra, malta, excavation, sun protection, research, archaeological site, mnajdra, mnajdra, mnajdra, mnajdra, mnajdra, malta, malta, malta, malta"
 imageCredit: "Image by Efraimstochter on Pixabay"
+imageWidth: 1280
+imageHeight: 960
 ---
 
 It's a journey that has captivated the minds of historians, archaeologists, and enthusiasts alike - the quest for **Qumran**. Nestled on the northwest shore of the Dead Sea, in the heart of the **Holy Land**, Qumran is a site shrouded in mystery and intrigue. From the discovery of the **Dead Sea Scrolls** to the enigmatic **Essenes** who once inhabited the area, the secrets buried within the ancient ruins continue to pique curiosity and spark debate. Join us as we explore into the **historical significance** of Qumran, explore its archaeological** wonders**, and unravel the **unsolved mysteries** that lie beneath the desert sands.

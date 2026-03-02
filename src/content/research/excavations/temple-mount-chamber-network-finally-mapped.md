@@ -9,6 +9,8 @@ draft: false
 image: "/images/research/excavations/temple-mount-chamber-network-finally-mapped.jpg"
 imageAlt: "chichen itza, mexico, pyramid, milky way, night, mayans, archaeology, archaeological site, stars, starry sky, starry night, landmark, famous, places of interest, chichen itza, mexico, mexico, mexico, mexico, mexico, pyramid"
 imageCredit: "Image by Walkerssk on Pixabay"
+imageWidth: 1280
+imageHeight: 773
 ---
 
 Have you ever pondered the mysteries hidden beneath the surface of the Temple Mount? Recent archaeological advancements have allowed scientists to finally map the intricate network of chambers hidden beneath this historically significant site. This breakthrough in our understanding provides not only a more tangible connection to biblical narratives but also sets the stage for modern theological and historical discourse.

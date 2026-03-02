@@ -9,6 +9,8 @@ draft: false
 image: "/images/research/excavations/unveiling-the-secrets-of-biblical-archaeology-2.jpg"
 imageAlt: "egypt, temple, hieroglyphics, pharaoh, egyptian temple, travel, statue, columns, pierre, story, nile, edfu, archaeologist, archaeology, archaeological excavations, archaeologist, archaeologist, archaeologist, archaeologist, archaeologist"
 imageCredit: "Image by NadineDoerle on Pixabay"
+imageWidth: 1280
+imageHeight: 850
 ---
 
 Unveiling the Secrets of Biblical Archaeology takes readers on a fascinating journey through the world of ancient writing systems and its connection to biblical archaeology. , the reader will discover the intricate link between archaeology and the decoding of ancient texts, unlocking the mysteries of civilizations that have long been buried beneath layers of time. From deciphering cuneiform tablets to uncovering the hidden messages behind ancient Egyptian hieroglyphics, this exploration sheds light on the valuable insights these ancient writings provide into the history, culture, and beliefs of civilizations past.

@@ -9,6 +9,8 @@ draft: false
 image: "/images/research/excavations/unlocking-mysteries-biblical-archaeology-research-unveiled.jpg"
 imageAlt: "castle, travel, architecture, outdoors, daytime, medieval, hill, landmark, tower, military, fortification, scenic, landscape, ancient, building, fortress, sky, tree, nature, forest"
 imageCredit: "Image by Pexels on Pixabay"
+imageWidth: 1280
+imageHeight: 853
 ---
 
 Step into the captivating realm of Biblical Archaeology Research as we explore the fascinating world of excavating ancient artifacts, deciphering cryptic clues, and peeling back the layers of history. Through meticulous **excavation techniques** and careful analysis, researchers unveil a treasure trove of insights into the **cultural context** of the past. 

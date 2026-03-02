@@ -9,6 +9,8 @@ draft: false
 image: "/images/research/biblical-archaeology/desert-fortress-the-laments-of-national-defeat-in-archaeological-context.jpg"
 imageAlt: "israel, jerusalem, jewish, palestine, religion, temple, judaism, holy, torah, architecture, old, ancient, history, rabbi, pray, east, israel, israel, jerusalem, jerusalem, jerusalem, jerusalem, jerusalem"
 imageCredit: "Image by Nick115 on Pixabay"
+imageWidth: 1280
+imageHeight: 854
 ---
 
 Have you ever considered how landscapes can tell stories that are buried deep beneath the sands of time? The deserts, often thought of as barren and lifeless, in fact hold whispers of ancient civilizations, each with its own tales of victories and defeats. Among these narratives, desert fortresses stand as silent yet powerful sentinels of their respective histories. In this conversation, we turn our gaze to the profound implications of national defeat found in archaeological contexts, particularly through the lens of a remarkable artifactthe Earthen Jar from the Desert Fortress.

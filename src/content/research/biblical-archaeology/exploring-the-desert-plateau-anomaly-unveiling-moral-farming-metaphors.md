@@ -9,6 +9,8 @@ draft: false
 image: "/images/research/biblical-archaeology/exploring-the-desert-plateau-anomaly-unveiling-moral-farming-metaphors.jpg"
 imageAlt: "amman, jordan, city, urban, buildings, downtown, city life, architecture, landscape, amman, amman, amman, amman, jordan, jordan, jordan, jordan, jordan"
 imageCredit: "Image by Jonny_Joka on Pixabay"
+imageWidth: 1280
+imageHeight: 853
 ---
 
 What comes to mind when you think of farming? Is it the image of rolling green fields stretching as far as the eye can see, or do you picture something differentperhaps rugged terrains and unconventional landscapes? Theres a peculiar intersection between agriculture and morality that transcends mere cultivation. This is where you delve into the fascinating world of moral farming metaphors, particularly framed within the context of the Desert Plateau Anomaly. As you navigate through this intriguing landscape, youll uncover insights that tie together ancient history and contemporary ethical discussions.

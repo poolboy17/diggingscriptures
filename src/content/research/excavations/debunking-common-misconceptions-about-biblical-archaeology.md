@@ -9,6 +9,8 @@ draft: false
 image: "/images/research/excavations/debunking-common-misconceptions-about-biblical-archaeology.jpg"
 imageAlt: "egyptian temple, historic site, structure, land lot, archaeological site, outdoor structure, mortuary temple, ancient history, facade, roof, history, brown history, egyptian temple, egyptian temple, egyptian temple, egyptian temple, egyptian temple"
 imageCredit: "Image by Wael-Ezz on Pixabay"
+imageWidth: 1280
+imageHeight: 853
 ---
 
 In the fascinating world of Biblical Archaeology, there are numerous misconceptions that have taken root in popular culture. These misconceptions often cloud our understanding and prevent us from fully appreciating the compelling tales that lie beneath the layers of history. From the belief that archaeologists have uncovered all there is to know about ancient biblical sites to the assumption that artifacts are always found in pristine condition, this article aims to unravel these misunderstandings and shed light on the real challenges faced by researchers in their quest to unravel the mysteries of the past.

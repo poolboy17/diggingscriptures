@@ -9,6 +9,8 @@ draft: false
 image: "/images/research/scripture/the-lost-cities-of-the-bible-explorations.jpg"
 imageAlt: "calligraphy, story, ink, feather, a book, vintage, old, wood, fairy tale, author, writer, diary, story, story, story, story, author, author, writer, writer, writer, writer, writer, diary"
 imageCredit: "Image by Ghinzo on Pixabay"
+imageWidth: 1280
+imageHeight: 853
 ---
 
 With **mysteries buried** beneath the sands of time and **ancient ruins** waiting to be discovered, exploring the **lost cities** of the Bible is a journey of **adventure** and **wonder**. From the legendary city of **Jericho** to the breathtaking ruins of **Persepolis**, each site holds **historical significance** and **archaeological marvels** waiting to be unearthed. Join us as we probe into the **hidden secrets** and **priceless treasures** that these **ancient cities** have to offer.

@@ -9,6 +9,8 @@ draft: false
 image: "/images/research/biblical-archaeology/unearthing-the-past-the-future-of-biblical-archaeology.jpg"
 imageAlt: "petra, jordan, royal tombs, sand stone, antique, historically, history, culture, archaeology, world heritage, monument, stone, architecture, travel, vacation, tourism, middle east, petra, petra, petra, petra, petra"
 imageCredit: "Image by ChiemSeherin on Pixabay"
+imageWidth: 1280
+imageHeight: 853
 ---
 
 Unearthing the Past: The Future of Biblical Archaeology takes a compelling look at how the field of biblical archaeology is evolving in the age of globalization. This article explores the exciting possibilities and challenges that lie ahead for archaeologists as they uncover ancient artifacts and unearth the secrets of the past. From advancements in technology to the increasing interconnectedness of cultures, the future of biblical archaeology promises to be a fascinating journey of discovery and exploration. Prepare to be captivated by the stories waiting to be revealed by the ancient world.

@@ -9,6 +9,8 @@ draft: false
 image: "/images/research/biblical-archaeology/prophets-assurance-unveiling-the-law-behind-the-arks-true-power.jpg"
 imageAlt: "archaeology, archaeological dig, documenting, digging, research, archaeologist, digger, brown research, brown document, archaeology, archaeology, archaeologist, archaeologist, archaeologist, archaeologist, archaeologist"
 imageCredit: "Image by JamesDeMers on Pixabay"
+imageWidth: 1280
+imageHeight: 1165
 ---
 
 What do you think truly empowers the Ark of the Covenant? Is it the gold, the craftsmanship, the mystery or is it something deeper, something more esoteric?

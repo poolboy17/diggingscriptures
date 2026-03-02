@@ -9,6 +9,8 @@ draft: false
 image: "/images/research/excavations/what-dead-sea-scrolls-reveal-about-scripture.jpg"
 imageAlt: "construction site, building, work, works, concrete, armed, cables, foundations, construction site, construction site, construction site, construction site, foundations, foundations, foundations, foundations, foundations"
 imageCredit: "Image by Mrdidg on Pixabay"
+imageWidth: 1280
+imageHeight: 853
 ---
 
 Do you ever wonder what ancient artifacts reveal about religious texts and their authenticity? The discovery of the Dead Sea Scrolls significantly altered biblical scholarship and sparked widespread interest in how these ancient manuscripts can shed light on the scriptures you've always known. As a holder of a PhD in Theology and someone who has studied these transformative documents extensively, let me guide you through the intriguing revelations these scrolls offer, especially as their relevance continues to grow in 2025.

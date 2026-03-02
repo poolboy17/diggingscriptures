@@ -9,6 +9,8 @@ draft: false
 image: "/images/research/biblical-archaeology/the-golden-ark-lid-unraveling-legends-of-unseen-glory.jpg"
 imageAlt: "pretty much, jerash, columns, roman, ancient, culture, story, historical, ruins, stone, jordan, tourism, to travel, middle east, jerash, jerash, jordan, jordan, jordan, jordan, jordan"
 imageCredit: "Image by ChiemSeherin on Pixabay"
+imageWidth: 1280
+imageHeight: 961
 ---
 
 What if the stories youve heard about the Golden Ark Lid arent just fantastical tales but whispers of a profound truth buried within the sands of time? The legends surrounding this ancient artifact stir a sense of curiosity and reverence across cultures and generations. Lets sift through the dust of history, archaeology, and theology to unravel the enchanting mysteries that this golden treasure holds.

@@ -9,6 +9,8 @@ draft: false
 image: "/images/research/excavations/unraveling-the-qumran-scraps-crate-secrets-of-the-sects-initiation.jpg"
 imageAlt: "mountain, erosion, death valley, desert, dry, drought, rock formations, landscape, nature, sandstone, erosion, death valley, death valley, death valley, death valley, death valley, desert, desert, desert, desert, drought"
 imageCredit: "Image by jplenio on Pixabay"
+imageWidth: 1280
+imageHeight: 720
 ---
 
 What if the secrets of an ancient sect, hidden for centuries, began to reveal themselves piece by piece? Imagine uncovering the initiation rites of the enigmatic Qumran community, famously linked to the Dead Sea Scrolls. Lets take a leisurely stroll through the intriguing labyrinth of biblical archaeology and uncover what lies beneath the surface.

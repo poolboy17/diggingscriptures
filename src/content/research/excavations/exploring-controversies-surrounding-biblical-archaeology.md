@@ -9,6 +9,8 @@ draft: false
 image: "/images/research/excavations/exploring-controversies-surrounding-biblical-archaeology.jpg"
 imageAlt: "castle, travel, architecture, outdoors, daytime, medieval, hill, landmark, tower, military, fortification, scenic, landscape, ancient, building, fortress, sky, tree, nature, forest"
 imageCredit: "Image by Pexels on Pixabay"
+imageWidth: 1280
+imageHeight: 853
 ---
 
 In the fascinating realm of Biblical Archaeology, a multitude of controversies and critical debates have arisen, igniting passion and curiosity amongst scholars and enthusiasts alike. This engrossing article delves into the heart of these disputes, shedding light on the diverse perspectives and contrasting theories that surround the excavation and interpretation of ancient biblical sites. From contentious claims regarding the historicity of biblical events to heated discussions about the authenticity of unearthed artifacts, the world of biblical archaeology proves to be a captivating arena where the past is unravelled and questions loom unanswered.

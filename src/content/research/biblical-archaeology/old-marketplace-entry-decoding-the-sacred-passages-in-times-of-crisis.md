@@ -9,6 +9,8 @@ draft: false
 image: "/images/research/biblical-archaeology/old-marketplace-entry-decoding-the-sacred-passages-in-times-of-crisis.jpg"
 imageAlt: "archaeology, city, petra, jordan, historical site, landscape, petra, petra, petra, petra, petra, jordan, jordan, jordan"
 imageCredit: "Image by StockSnap on Pixabay"
+imageWidth: 1280
+imageHeight: 854
 ---
 
 Have you ever found yourself wandering through the pages of history, wondering how ancient wisdom applies to our tumultuous times? Its a journey that leads us not just through archaeology but into the hearts and minds of those who faced crises far greater than a fleeting moment. In interpreting sacred passages, we unlock doors to understandingespecially during times of turmoil.

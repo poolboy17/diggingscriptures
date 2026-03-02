@@ -9,6 +9,8 @@ draft: false
 image: "/images/research/faith/unlocking-the-past-fundraising-strategies-for-biblical-archaeology-expeditions.jpg"
 imageAlt: "temple of heaven, beijing, stairs, temple, landmark, historical, china, asia, old temple, architecture, steps, stairway, beijing, temple, china, china, china, china, china"
 imageCredit: "Image by jplenio on Pixabay"
+imageWidth: 1280
+imageHeight: 853
 ---
 
 In "Unlocking the Past: Fundraising Strategies for Biblical Archaeology Expeditions," this article explores the essential fundraising strategies specifically tailored for biblical archaeology expeditions. Whether it's uncovering ancient artifacts or excavating significant sites, these expeditions require substantial financial support. By examining successful fundraising methods utilized by renowned archaeologists in this field, readers will gain valuable insights on how to effectively raise funds and ensure the continuation of these important historical explorations.

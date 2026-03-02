@@ -9,6 +9,8 @@ draft: false
 image: "/images/research/excavations/unveiling-the-hidden-stories-the-impact-of-biblical-archaeology-on-modern-society.jpg"
 imageAlt: "egyptian temple, historic site, structure, land lot, archaeological site, outdoor structure, mortuary temple, ancient history, facade, roof, history, brown history, egyptian temple, egyptian temple, egyptian temple, egyptian temple, egyptian temple"
 imageCredit: "Image by Wael-Ezz on Pixabay"
+imageWidth: 1280
+imageHeight: 853
 ---
 
 Unveiling the Hidden Stories: The Impact of Biblical Archaeology on Modern Society explores the profound influence that Biblical Archaeology has had on our present-day society. By uncovering the ancient remnants of the biblical world, archaeological discoveries have not only shed light on historical events and places mentioned in the Bible but have also vastly enriched our understanding of ancient cultures and civilizations. From uncovering ancient artifacts to confirming the authenticity of biblical narratives, this article highlights the significance of biblical archaeology in shaping our knowledge, beliefs, and perspectives.

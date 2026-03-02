@@ -9,6 +9,8 @@ draft: false
 image: "/images/research/biblical-archaeology/exploring-the-city-of-david-cracks-insights-into-afterlife-discourse-on-tattered-scrolls.jpg"
 imageAlt: "museum, artifacts, antiquities, culture, history, vietnam, south east asia, antique statues, black and white, history, black and white, black and white, black and white, black and white, black and white"
 imageCredit: "Image by NguyenHoangThach on Pixabay"
+imageWidth: 1280
+imageHeight: 853
 ---
 
 What comes to mind when you think about the afterlife? For many, it conjures images of ethereal realms and angelic hosts. Yet, in the heart of Jerusalem lies a place steeped in history and mysteryone that offers a unique perspective on the afterlife concept: the City of David. The remnants of an ancient civilization whisper tales through the cracks and tattered scrolls that have endured the test of time. Lets take a closer look at this fascinating intersection of archaeology, theology, and history.

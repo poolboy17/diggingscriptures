@@ -9,6 +9,8 @@ draft: false
 image: "/images/research/biblical-archaeology/what-are-the-methods-used-in-biblical-archaeology.jpg"
 imageAlt: "pyramids, egypt, egyptian, ancient, desert, giza, historical, architecture, sand, dunes, sand dunes, barren, nature, barren landscape, landmark, sunset, panorama, panoramic"
 imageCredit: "Image by TheDigitalArtist on Pixabay"
+imageWidth: 1280
+imageHeight: 480
 ---
 
 In the labyrinthine world of biblical archaeology, scholars employ a myriad of methods to unearth the mysteries hidden beneath layers of time.

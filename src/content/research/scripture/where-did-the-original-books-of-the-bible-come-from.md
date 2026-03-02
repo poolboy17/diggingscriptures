@@ -9,6 +9,8 @@ draft: false
 image: "/images/research/scripture/where-did-the-original-books-of-the-bible-come-from.jpg"
 imageAlt: "bhagavad gita, ancient scriptures, john rylands library, book, old, literature, library, education, paper, knowledge, read, brown education, brown library, brown paper, brown reading, brown knowledge, bhagavad gita, bhagavad gita, bhagavad gita, bhagavad gita, bhagavad gita"
 imageCredit: "Image by nmoodley on Pixabay"
+imageWidth: 1280
+imageHeight: 960
 ---
 
 Many people may not realize that the original books of the Bible have a complex and fascinating history of how they came to be.

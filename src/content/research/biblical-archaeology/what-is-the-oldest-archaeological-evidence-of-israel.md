@@ -9,6 +9,8 @@ draft: false
 image: "/images/research/biblical-archaeology/what-is-the-oldest-archaeological-evidence-of-israel.jpg"
 imageAlt: "egypt, temple, hieroglyphics, pharaoh, egyptian temple, travel, statue, columns, pierre, story, nile, edfu, archaeologist, archaeology, archaeological excavations, archaeologist, archaeologist, archaeologist, archaeologist, archaeologist"
 imageCredit: "Image by NadineDoerle on Pixabay"
+imageWidth: 1280
+imageHeight: 850
 ---
 
 In the quest to uncover the oldest archaeological evidence of Israel, scholars scrutinize the Southern Levant's Late Bronze Age artifacts for clues to the region's ancient past.

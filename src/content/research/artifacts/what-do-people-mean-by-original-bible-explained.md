@@ -9,6 +9,8 @@ draft: false
 image: "/images/research/artifacts/what-do-people-mean-by-original-bible-explained.jpg"
 imageAlt: "paestum, salerno, fresco, tomb of the diver, chariot, charioteer, shooting horses, italy, magna grecia, archaeology, archaeological museum, archaeological museum of paestum, paestum, chariot, chariot, chariot, chariot, chariot"
 imageCredit: "Image by valtercirillo on Pixabay"
+imageWidth: 1280
+imageHeight: 853
 ---
 
 What do people mean when they talk about the "Original Bible"? It's a question that can spark a deep curiosity, not only about religious texts but also about the history, culture, and linguistic evolution behind some of the most influential writings in human history. My name is [Your Name], and I hold a PhD in Theology with a focus on historical religious texts. This topic holds significant weight in 2025, as ongoing archeological discoveries and advancements in linguistic analysis continue to reshape our understanding of ancient manuscripts. With debates swirling around authenticity and interpretation, examining what constitutes the "Original Bible" is more important than ever.

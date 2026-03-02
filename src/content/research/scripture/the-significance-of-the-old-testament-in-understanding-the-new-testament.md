@@ -9,6 +9,8 @@ draft: false
 image: "/images/research/scripture/the-significance-of-the-old-testament-in-understanding-the-new-testament.jpg"
 imageAlt: "sütterlin, windows wallpaper, wallpaper 4k, beautiful wallpaper, handwriting, cool backgrounds, hd wallpaper, typography, font, letter, 4k wallpaper, laptop wallpaper, desktop backgrounds, paper, book page, book, full hd wallpaper, text, message, free wallpaper, nostalgia, vintage, free background, mac wallpaper, antique, old, 4k wallpaper 1920x1080, wallpaper hd, background"
 imageCredit: "Image by cocoparisienne on Pixabay"
+imageWidth: 1280
+imageHeight: 853
 ---
 
 Discovering the significance of the Old Testament in understanding the New Testament is a fascinating journey that Anita Love, a renowned theologian and religious scholar, has dedicated her life to unraveling. With her extensive background in theology and religious studies, Anita delves into the core themes, literary genres, historical context, messianic prophecies, and the shift from law to grace that shape the connection between these two testaments. Through her insightful analysis and exploration of ancient biblical manuscripts, Anita sheds light on the profound influence the Old Testament has on the messages, teachings, and life of Jesus Christ in the New Testament. Join Anita on this enlightening exploration as she uncovers the profound significance of the Old Testament in understanding the New Testament.

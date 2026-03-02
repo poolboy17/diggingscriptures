@@ -9,6 +9,8 @@ draft: false
 image: "/images/research/faith/traders-route-unveiling-the-treasures-of-biblical-poetry-in-the-desert-library.jpg"
 imageAlt: "architecture, ceiling, rome, rome, rome, rome, rome, rome"
 imageCredit: "Image by raffalel on Pixabay"
+imageWidth: 1280
+imageHeight: 853
 ---
 
 What do you think of when you hear the term "Desert Library"? Does it conjure images of ancient scrolls nestled in sun-bleached caves, or perhaps the stirring verses of long-forgotten poets echoing through arid landscapes? Imagine setting out on a journey where poetry meets archaeology, revealing treasures that alter the very fabric of history. Today, you're about to uncover the poetic treasures hidden within this remarkable intersection of biblical lore and the artifacts of time.

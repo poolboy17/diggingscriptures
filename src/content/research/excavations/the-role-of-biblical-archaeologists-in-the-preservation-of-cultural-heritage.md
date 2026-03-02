@@ -9,6 +9,8 @@ draft: false
 image: "/images/research/excavations/the-role-of-biblical-archaeologists-in-the-preservation-of-cultural-heritage.jpg"
 imageAlt: "mountain, erosion, death valley, desert, dry, drought, rock formations, landscape, nature, sandstone, erosion, death valley, death valley, death valley, death valley, death valley, desert, desert, desert, desert, drought"
 imageCredit: "Image by jplenio on Pixabay"
+imageWidth: 1280
+imageHeight: 720
 ---
 
 Biblical archaeologists play a crucial role in safeguarding cultural heritage by unearthing and studying ancient artifacts and structures mentioned in the Bible. Through their meticulous excavation and meticulous documentation processes, these archaeologists shed light on the fascinating historical, cultural, and religious aspects of the biblical era, ensuring that valuable knowledge and artifacts are preserved for future generations to appreciate and learn from.

@@ -9,6 +9,8 @@ draft: false
 image: "/images/research/scripture/how-does-the-ethiopian-bible-differ-from-the-bible.jpg"
 imageAlt: "dead sea scrolls, qumran caves, scripture, israel, dead sea, landscape, bible, essenes, brown bible, qumran caves, israel, dead sea, dead sea, dead sea, dead sea, dead sea, bible, essenes, essenes, essenes"
 imageCredit: "Image by jdblack on Pixabay"
+imageWidth: 1280
+imageHeight: 848
 ---
 
 Coincidentally, the Ethiopian Bible presents a fascinating departure from the traditional Bible known to many. With unique books and distinct translations, it raises intriguing questions about the differences in content and cultural influences.

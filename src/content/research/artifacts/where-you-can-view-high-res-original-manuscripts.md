@@ -9,6 +9,8 @@ draft: false
 image: "/images/research/artifacts/where-you-can-view-high-res-original-manuscripts.jpg"
 imageAlt: "rubber stamp, wooden stamp, round, seen, read, laughing, logo, seal, funny"
 imageCredit: "Image by Negrobike on Pixabay"
+imageWidth: 1280
+imageHeight: 813
 ---
 
 Have you ever wondered where you could get an up-close look at high-resolution images of original manuscripts? In the digital age of 2025, the world is filled with vast repositories of these ancient texts, each promising a glimpse into the past through the lenses of high-definition technology. As a proud possessor of a PhD in Historical Theology, Ive frequently found myself diving into the vaults and archives of the world's most prestigious libraries and institutions. Whether you're a scholar, student, or simply a curious mind, understanding the pathways to these manuscripts is essential not just for academics, but for anyone with a thirst for historical knowledge and appreciation of the written word.

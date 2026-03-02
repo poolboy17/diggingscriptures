@@ -9,6 +9,8 @@ draft: false
 image: "/images/research/artifacts/10-most-important-biblical-artifacts-discovered.jpg"
 imageAlt: "museum, artifacts, antiquities, culture, history, vietnam, south east asia, antique statues, black and white, history, black and white, black and white, black and white, black and white, black and white"
 imageCredit: "Image by NguyenHoangThach on Pixabay"
+imageWidth: 1280
+imageHeight: 853
 ---
 
 In the world of Biblical archaeology, countless artifacts have been unearthed that provide insights into the history and teachings of the Bible. From ancient scrolls to sacred relics, these discoveries have shed light on the stories and events described in the scriptures. , we will explore the ten most significant biblical artifacts that have been uncovered by archaeologists, offering a glimpse into the past and bolstering the faith of believers worldwide.

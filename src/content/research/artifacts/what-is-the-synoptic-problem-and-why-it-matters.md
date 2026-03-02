@@ -9,6 +9,8 @@ draft: false
 image: "/images/research/artifacts/what-is-the-synoptic-problem-and-why-it-matters.jpg"
 imageAlt: "bust, head, sculpture, art, hellenic, craft, workmanship, museum, mythology, religion, ancient, museum, museum, museum, museum, museum, mythology, ancient"
 imageCredit: "Image by Engin_Akyurt on Pixabay"
+imageWidth: 1280
+imageHeight: 853
 ---
 
 Have you ever wondered why the Gospels of Matthew, Mark, and Luke are so similar, yet have distinct details that make them unique? This intricate question is precisely what scholars refer to as the "Synoptic Problem." Tucked within the layers of ancient scripture lies a puzzle that has intrigued theologians, historians, and curious minds for centuries. As someone fascinated by theological studies and a PhD in Theology myself, I find this topic not only captivating but also significantly relevant as we unravel the complexities of early Christian texts into 2025.

@@ -9,6 +9,8 @@ draft: false
 image: "/images/research/biblical-archaeology/buried-wine-jar-scribes-told-to-copy-without-bias-in-ancient-texts.jpg"
 imageAlt: "jordan, petra, camels, dromedary, nature, desert, tourism"
 imageCredit: "Image by mikaelthunberg on Pixabay"
+imageWidth: 1280
+imageHeight: 854
 ---
 
 What do you think when you hear the phrase buried wine jar, especially when tied with ancient scribes and their quest for unbiased documentation? It conjures up images of meticulous scribes, immersed in scripts and scrolls while adhering to a weighty tradition. So, lets unravel the threads of this fascinating concept while engaging with the rich tapestry of biblical archaeology and historical manuscripts.

@@ -9,6 +9,8 @@ draft: false
 image: "/images/research/faith/discover-notable-biblical-excavations-unearthed.jpg"
 imageAlt: "church, ceiling, dome, architecture, cathedral, historical, basilica, frescoes, symbolic, religion, hungary, budapest, stephansdom"
 imageCredit: "Image by ArminEP on Pixabay"
+imageWidth: 1280
+imageHeight: 853
 ---
 
 Delve into the captivating world of uncovering the mysteries of biblical history through fascinating ancient artifacts found in archaeological discoveries. 

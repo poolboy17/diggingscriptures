@@ -9,6 +9,8 @@ draft: false
 image: "/images/research/excavations/the-role-of-3d-modeling-in-biblical-archaeological-research.jpg"
 imageAlt: "death valley, desert, highway, road, rural, countryside, landscape, sky, nature, sunny, california, desert, highway, road, road, road, road, road, sky, sky"
 imageCredit: "Image by jplenio on Pixabay"
+imageWidth: 1280
+imageHeight: 853
 ---
 
 In the fascinating world of Biblical Archaeological research, 3D modeling has emerged as a valuable tool for unraveling the secrets of the past. This innovative technology has revolutionized the way researchers analyze and interpret ancient artifacts, structures, and landscapes from biblical times. By creating faithful digital representations, archaeologists can virtually immerse themselves in the ancient world, exploring and uncovering new insights with unprecedented accuracy and detail. From reconstructing ancient cities to visualizing long-lost artifacts, 3D modeling has become an indispensable ally in the quest to understand the rich tapestry of biblical history.

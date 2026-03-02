@@ -9,6 +9,8 @@ draft: false
 image: "/images/research/excavations/the-top-institutions-for-biblical-archaeology-research-funding.jpg"
 imageAlt: "cyprus, apollo hylates, sanctuary, ancient, greek, historic, mediterranean, architecture, archaeological, history, excavations, ruins, remains, archeology, civilization, 1st century ad, brown history"
 imageCredit: "Image by dimitrisvetsikas1969 on Pixabay"
+imageWidth: 1280
+imageHeight: 854
 ---
 
 In the world of biblical archaeology, funding plays a crucial role in the pursuit of knowledge and understanding. The search for ancient artifacts and the exploration of historical sites require significant financial support, making it essential for researchers and institutions to secure adequate funding. This article highlights the top institutions that have been at the forefront of providing funding opportunities for biblical archaeology research, showcasing their commitment to uncovering the mysteries of the past.

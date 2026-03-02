@@ -9,6 +9,8 @@ draft: false
 image: "/images/research/biblical-archaeology/discovering-the-ancient-jewish-bath-house.jpg"
 imageAlt: "petra, jordan, royal tombs, sand stone, antique, historically, history, culture, archaeology, world heritage, monument, stone, architecture, travel, vacation, tourism, middle east, petra, petra, petra, petra, petra"
 imageCredit: "Image by ChiemSeherin on Pixabay"
+imageWidth: 1280
+imageHeight: 853
 ---
 
 Have you ever wondered about the ancient practices that shaped religious and cultural rituals through history? One such practicethe use of mikveh, or the ancient Jewish bath houseoffers a fascinating glimpse into a history rich with tradition and spiritual significance. These ancient structures not only provide insight into the daily lives of Jewish communities of the past but also serve as a testament to religious observances that have permeated through centuries.

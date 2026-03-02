@@ -9,6 +9,8 @@ draft: false
 image: "/images/research/artifacts/first-temple-period-royal-seal-collection-unearthed.jpg"
 imageAlt: "necklace with winged heart, winged heart, red heart, necklace, gold necklace, jewelry, retro, valentine's day, st, passion"
 imageCredit: "Image by MAKY_OREL on Pixabay"
+imageWidth: 1280
+imageHeight: 853
 ---
 
 Have you ever wondered what tangible connections remain today between us and the ancient biblical times, when kings and prophets walked the lands of Israel? The discovery of a collection of royal seals from the First Temple Period provides a fascinating glimpse into this divine era, unveiling artifacts that shed light on the cultural, political, and religious landscapes of ancient Judah. This article explores the monumental find, its significance, and how it shapes our understanding of biblical history.

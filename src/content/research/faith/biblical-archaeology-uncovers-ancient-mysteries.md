@@ -9,6 +9,8 @@ draft: false
 image: "/images/research/faith/biblical-archaeology-uncovers-ancient-mysteries.jpg"
 imageAlt: "flooring, mosaic tile, wood, mosaic, tile, floor, pattern, design, geometric, color, wall, decor, tiled, ceramic, flooring, flooring, flooring, flooring, flooring"
 imageCredit: "Image by shannonrphillips on Pixabay"
+imageWidth: 1280
+imageHeight: 853
 ---
 
 Exploring the mysteries of ancient civilizations and religious practices through the excavation of artifacts and historical sites offers invaluable insights into the past. The interdisciplinary approach of delving into the **archaeology of the Bible** and studying **biblical manuscripts** has revolutionized our understanding of history, shedding light on the cultural and societal contexts of ancient times. 

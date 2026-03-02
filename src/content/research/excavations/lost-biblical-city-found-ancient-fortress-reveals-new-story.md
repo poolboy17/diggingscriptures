@@ -9,6 +9,8 @@ draft: false
 image: "/images/research/excavations/lost-biblical-city-found-ancient-fortress-reveals-new-story.jpg"
 imageAlt: "valley of the kings, deir el-bahri, egypt, hatshepsut's mortuary temple, archaeology, architecture, mountain, sandstone, hatshepsut, nature, brown king"
 imageCredit: "Image by RonPorter on Pixabay"
+imageWidth: 1280
+imageHeight: 853
 ---
 
 Have you ever wondered what hidden narratives lie beneath the sands of ancient lands? The discovery of a lost biblical city has recently been unearthed, and it demands attention, not just from historians and archaeologists but from anyone intrigued by the stories of humanity's past. The revelation of this ancient fortress offers a new lens through which we can examine and understand our history.

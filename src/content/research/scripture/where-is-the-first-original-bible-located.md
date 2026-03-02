@@ -9,6 +9,8 @@ draft: false
 image: "/images/research/scripture/where-is-the-first-original-bible-located.jpg"
 imageAlt: "bible, book, highlighter, pages, text, open, open book, open bible, holy bible, bible reading, bible study, psalms, bible stories, bible, bible, bible, bible, bible, bible study"
 imageCredit: "Image by Pexels on Pixabay"
+imageWidth: 1280
+imageHeight: 961
 ---
 
 Nestled within the halls of the British Museum lies a treasure trove of ancient wisdom, the Codex Sinaiticus. But where did this venerable manuscript truly originate from?

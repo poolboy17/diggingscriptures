@@ -9,6 +9,8 @@ draft: false
 image: "/images/research/biblical-archaeology/the-sealed-jar-with-no-opening-a-flowing-prophecy-like-spring-water.jpg"
 imageAlt: "san galgano, abbey, ruins, tuscany, church, architecture, medieval, italy, religion, cathedral, ancient, stone, galgano, ruin, brick, history, old, gothic, brown church, brown history, brown old, brown stone, ruins, church, medieval, italy, italy, cathedral, ancient, ancient, history, history, history, history, history"
 imageCredit: "Image by ClickerHappy on Pixabay"
+imageWidth: 1280
+imageHeight: 838
 ---
 
 What if the key to understanding ancient secrets lay in a jar that has neither lid nor opening?

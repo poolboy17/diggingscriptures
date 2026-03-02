@@ -9,6 +9,8 @@ draft: false
 image: "/images/research/faith/unveiling-the-intriguing-world-of-biblical-archaeology-history.jpg"
 imageAlt: "church windows, stained glass windows, church, cathedral, decoration, interiors, interior decoration, windows, stained glass, glass, architecture, glass window, old window, jesus, religion, holy, faith, window grilles, chapel, church, church, church, church, church, jesus, jesus, jesus, jesus, religion"
 imageCredit: "Image by NoName_13 on Pixabay"
+imageWidth: 1280
+imageHeight: 746
 ---
 
 Delving into the realm of biblical archaeology reveals a captivating tapestry of ancient artifacts and historical events. Through meticulous excavation and analysis of **Antiquities**, scholars unearth priceless insights into the context of biblical stories. 

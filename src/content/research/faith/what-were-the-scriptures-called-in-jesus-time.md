@@ -9,6 +9,8 @@ draft: false
 image: "/images/research/faith/what-were-the-scriptures-called-in-jesus-time.jpg"
 imageAlt: "stained glass, window glass, church window, saint austremonius, saint stramonius, austromoine, church, cathedral, stained glass, stained glass, stained glass, stained glass, stained glass, church window, church, church, church, church, cathedral, cathedral"
 imageCredit: "Image by WikiImages on Pixabay"
+imageWidth: 1280
+imageHeight: 1257
 ---
 
 In Jesus' time, the scriptures that are known today as the Old Testament were commonly referred to as the Hebrew Bible or the Tanakh. These ancient texts held immense significance for the Jewish people and provided them with spiritual guidance, moral teachings, and historical accounts. Through her extensive research and study, Anita Love sheds light on the historical context behind these scriptures, exploring their central themes, literary genres, and the rich tapestry of messianic prophecies they contain. With her expertise in theology and religious studies, Anita presents a captivating analysis of the Old Testament and its profound connection to the life and teachings of Jesus Christ.

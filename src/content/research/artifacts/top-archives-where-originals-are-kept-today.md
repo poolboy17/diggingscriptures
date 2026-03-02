@@ -9,6 +9,8 @@ draft: false
 image: "/images/research/artifacts/top-archives-where-originals-are-kept-today.jpg"
 imageAlt: "necklace with winged heart, winged heart, red heart, necklace, gold necklace, jewelry, retro, valentine's day, st, passion"
 imageCredit: "Image by MAKY_OREL on Pixabay"
+imageWidth: 1280
+imageHeight: 853
 ---
 
 Have you ever wondered where the worlds most treasured original documents and artifacts are kept? It's a question that might spark the curiosity of history enthusiasts, academics, and anyone fascinated by the preservation of our collective heritage. As someone deeply invested in historical studies, possessing a Ph.D. in History, I find the topic of archives not only intriguing but crucial in 2025. Archives play a pivotal role in preserving the authenticity of documents and providing a foundation for historical research and analysis. This topic holds tremendous relevance today as we strive to maintain the integrity and accessibility of original records amid a rapidly digitalizing world.

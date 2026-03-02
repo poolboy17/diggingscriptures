@@ -9,6 +9,8 @@ draft: false
 image: "/images/research/biblical-archaeology/exploring-the-hidden-channel-vessel-israels-redemption-reaffirmed.jpg"
 imageAlt: "petra, ad deir, world heritage, sand stone, antique, historically, nature, archaeology, monument, culture, ad dayr, history, stones, sky, tourism, travel, vacations, middle east, jordan"
 imageCredit: "Image by ChiemSeherin on Pixabay"
+imageWidth: 1280
+imageHeight: 853
 ---
 
 Have you ever wondered how ancient artifacts can reshape our understanding of history, faith, and identity? The past holds a treasure trove of secrets, each whispering tales of redemption and loss. As you delve into the intricate narrative of the "Hidden Channel Vessel," you'll discover how this artifact connects to broader themes within Israel's narrative of redemption.

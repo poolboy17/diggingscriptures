@@ -9,6 +9,8 @@ draft: false
 image: "/images/research/biblical-archaeology/angels-in-the-desert-the-en-gedi-stone-arch-and-its-significance.jpg"
 imageAlt: "pretty much, jerash, oval forum, roman, culture, story, historical, ancient, columns, stone, ruins, jordan, tourism, to travel, middle east, jerash, jerash, jordan, jordan, jordan, jordan, jordan, middle east"
 imageCredit: "Image by ChiemSeherin on Pixabay"
+imageWidth: 1280
+imageHeight: 720
 ---
 
 What comes to your mind when you think of angels? Do they float freely in the skies above or perch quietly in unexpected corners of the world? Its intriguing to imagine how the celestial can intertwine with the earthly, especially in a place as ancient and mystical as En Gedi.

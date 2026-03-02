@@ -9,6 +9,8 @@ draft: false
 image: "/images/research/excavations/dead-sea-scroll-cave-yields-lost-biblical-text.jpg"
 imageAlt: "cyprus, apollo hylates, sanctuary, ancient, greek, historic, mediterranean, architecture, archaeological, history, excavations, ruins, remains, archeology, civilization, 1st century ad, brown history"
 imageCredit: "Image by dimitrisvetsikas1969 on Pixabay"
+imageWidth: 1280
+imageHeight: 854
 ---
 
 Have you ever wondered what ancient secrets lie within the remote caves surrounding the Dead Sea? The recent discovery of a lost biblical text within these unique formations offers an intriguing new narrative to biblical history. The Dead Sea Scrolls, often heralded as one of the most significant archaeological finds of the 20th century, have deepened our understanding of ancient religious texts. Yet, the recent unearthing of additional scrolls expands the possibilities even further.

@@ -9,6 +9,8 @@ draft: false
 image: "/images/research/faith/unlocking-ancient-trade-paths-in-biblical-archaeology.jpg"
 imageAlt: "mosque, crowd, worship, mecca, islam, religion, kaaba, trip, architectural, city, qibla, tawaf, building, cami, mosque, mosque, mecca, islam, islam, islam, islam, islam, kaaba"
 imageCredit: "Image by Konevi on Pixabay"
+imageWidth: 1280
+imageHeight: 853
 ---
 
 ## Unlocking Ancient Trade Paths in Biblical Archaeology

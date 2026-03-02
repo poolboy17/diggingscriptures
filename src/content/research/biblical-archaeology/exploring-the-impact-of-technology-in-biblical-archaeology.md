@@ -9,6 +9,8 @@ draft: false
 image: "/images/research/biblical-archaeology/exploring-the-impact-of-technology-in-biblical-archaeology.jpg"
 imageAlt: "western wall, jerusalem, jews, pray, orthodox, holy, religious, western, wall, torah, temple, judaism, israel, jewish, religion, prayer, old, god, rock, east, stone, faith, hebrew, belief, judaic, spirituality, spiritual, architecture, traditional, city, synagogue, worship, wailing, ancient, people, sacred, brown city, brown wall, brown god, brown pray, brown rock, brown prayer, brown stone, western wall, jerusalem, jerusalem, jews, jews, judaism, judaism, israel, israel, israel, jewish, jewish, jewish, jewish, jewish"
 imageCredit: "Image by rliessum on Pixabay"
+imageWidth: 1280
+imageHeight: 960
 ---
 
 In the fascinating world of Biblical Archaeology, technology has played an increasingly significant role in recent years. From the use of advanced imaging techniques to the development of cutting-edge excavation tools, technology has revolutionized the way scholars and archaeologists explore and interpret ancient texts and artifacts. This article delves into the impact of technology in Biblical Archaeology, shining a light on the innovative tools and methods that have reshaped our understanding of the past.

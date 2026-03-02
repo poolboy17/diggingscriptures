@@ -9,6 +9,8 @@ draft: false
 image: "/images/research/faith/unraveling-ancient-cultures-through-biblical-archaeology.jpg"
 imageAlt: "buddha, statue, temple, ruins, praying, worship, thailand, buddha purnima, sukhothai, ancient, historical site"
 imageCredit: "Image by qimono on Pixabay"
+imageWidth: 1280
+imageHeight: 853
 ---
 
 Unraveling Ancient Cultures through Biblical Archaeology sheds light on the profound impact that this field has on our understanding of ancient civilizations. By exploring the tangible remnants of the past, such as artifacts and ruins, Biblical Archaeology provides crucial insights into the practices, beliefs, and daily lives of these ancient cultures. This article explores how this discipline offers a unique perspective, allowing us to piece together the puzzle of history and gain a deeper appreciation for the rich tapestry of human civilization.

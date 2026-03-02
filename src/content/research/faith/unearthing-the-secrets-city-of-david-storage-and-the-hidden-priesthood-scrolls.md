@@ -9,6 +9,8 @@ draft: false
 image: "/images/research/faith/unearthing-the-secrets-city-of-david-storage-and-the-hidden-priesthood-scrolls.jpg"
 imageAlt: "flooring, mosaic tile, wood, mosaic, tile, floor, pattern, design, geometric, color, wall, decor, tiled, ceramic, flooring, flooring, flooring, flooring, flooring"
 imageCredit: "Image by shannonrphillips on Pixabay"
+imageWidth: 1280
+imageHeight: 853
 ---
 
 What if you could stumble upon relics from a civilization long lost, revealing secrets buried in the earth for centuries? The City of David, an archaeological gold mine located just outside the walls of Jerusalems Old City, is a site overflowing with history, much of it obscured by time and layers of sediment. Among its treasures, you might find references to the mysterious Priesthood Scrolls, documents that may challenge everything you thought you knew about the ancient world and its religious practices.

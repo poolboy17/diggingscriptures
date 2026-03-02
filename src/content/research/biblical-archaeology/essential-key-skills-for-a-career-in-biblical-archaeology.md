@@ -9,6 +9,8 @@ draft: false
 image: "/images/research/biblical-archaeology/essential-key-skills-for-a-career-in-biblical-archaeology.jpg"
 imageAlt: "whitby abbey, dracula, bram stoker, haunted, ruin, moody, whitby, yorkshire, history, historic, gothic, landscape, grey, old, whitby, yorkshire, history, history, history, history, history, gothic"
 imageCredit: "Image by TimHill on Pixabay"
+imageWidth: 1280
+imageHeight: 720
 ---
 
 One cannot underestimate the importance of possessing essential key skills for a career in Biblical archaeology. As one delves into the deep layers of history, it becomes apparent that a unique set of abilities is required to navigate the complex terrain of this field. From meticulous attention to detail to a thorough understanding of biblical texts, these skills serve as the foundation for unearthing the treasures of the ancient world. , we explore the key skills necessary for anyone seeking a fulfilling career in Biblical archaeology.

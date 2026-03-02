@@ -9,6 +9,8 @@ draft: false
 image: "/images/research/biblical-archaeology/storage-cave-debris-unveiling-the-secrets-of-ancient-conformity.jpg"
 imageAlt: "archaeology, excavation, sun sails, protection, sun protection, archaeological excavation, research, archaeological site, coast, landscape, mnajdra, malta, excavation, sun protection, research, archaeological site, mnajdra, mnajdra, mnajdra, mnajdra, mnajdra, malta, malta, malta, malta"
 imageCredit: "Image by Efraimstochter on Pixabay"
+imageWidth: 1280
+imageHeight: 960
 ---
 
 Have you ever stopped to wonder what secrets lie beneath the surface of the earth, tucked away in places long forgotten? Picture yourself in a dimly lit cave, surrounded by the echoes of ancient times. One can't help but feel a connection to the past, especially when contemplating the debris left behind by those who came before us. The study of storage cave debris provides a fascinating glance into ancient societies and their ways of life, revealing not just their daily activities but something deepera struggle against conformity that resonates through the ages.

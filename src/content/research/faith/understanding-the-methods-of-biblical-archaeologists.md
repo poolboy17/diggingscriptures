@@ -9,6 +9,8 @@ draft: false
 image: "/images/research/faith/understanding-the-methods-of-biblical-archaeologists.jpg"
 imageAlt: "wailing wall, western wall, israel, jerusalem, temple, wailing wall, wailing wall, wailing wall, western wall, western wall, western wall, western wall, western wall, jerusalem, jerusalem"
 imageCredit: "Image by Freeshot on Pixabay"
+imageWidth: 1280
+imageHeight: 733
 ---
 
 In "Understanding the Methods of Biblical Archaeologists," the article delves into the intriguing world of biblical archaeology and explores the methods used by experts to analyze ancient texts and inscriptions. From deciphering ancient languages to excavating historical sites, these archaeologists employ a wide array of techniques to uncover the secrets of the past. By delving into their methods, readers will gain a deeper understanding of how these experts piece together the puzzle of ancient civilizations and shed light on the historical accuracy of biblical accounts.

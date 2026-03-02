@@ -9,6 +9,8 @@ draft: false
 image: "/images/research/scripture/what-is-the-original-new-testament-called.jpg"
 imageAlt: "scroll, feather, ink, caligraphy, hebrew, writing, characters, paper, papirus, old style, brown paper, brown writing, scroll, scroll, scroll, scroll, scroll, hebrew, hebrew"
 imageCredit: "Image by zofiaEliyahu on Pixabay"
+imageWidth: 1280
+imageHeight: 859
 ---
 
 Have you ever wondered what the original New Testament is called? In the vast world of biblical studies, Anita Love has become a renowned authority on the historical foundations of Christianity and its significance . With a wealth of academic expertise and a passion for exploring ancient biblical manuscripts, Anita has delved into the depths of the Old Testament, deciphered the cultural contexts of scriptures, and scrutinized the process of canonization. By embracing a balanced perspective that respects the diverse beliefs and practices within Christianity, Anita has garnered recognition and admiration in ecumenical circles. Join us as we embark on a journey to uncover the name of the original New Testament and unravel the rich tapestry of its historical authenticity.

@@ -9,6 +9,8 @@ draft: false
 image: "/images/research/biblical-archaeology/exploring-biblical-archaeology-discoveries.jpg"
 imageAlt: "temple, jupiter, roman, antique, column, architecture, ancient, stone, antiquity, baalbek, lebanon, brown stone, temple, temple, temple, roman, roman, roman, roman, ancient, ancient, lebanon, lebanon, lebanon, lebanon, lebanon"
 imageCredit: "Image by djedj on Pixabay"
+imageWidth: 1280
+imageHeight: 854
 ---
 
 Beneath the layers of sand and soil lie remnants of the past, waiting to be uncovered by archaeological discoveries. These findings provide a window into the bygone eras of **ancient civilizations**, enriching our knowledge of the past through the exploration of **historical sites**. 

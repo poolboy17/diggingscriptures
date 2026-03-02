@@ -9,6 +9,8 @@ draft: false
 image: "/images/research/faith/jordan-slope-stone-unveiling-the-psalms-echo-in-shepherds-fragment.jpg"
 imageAlt: "monk, pilgrimage, path, sunset, pilgrim, walk, road, enlightenment, tradition, culture, afternoon, nature, field, farm, landscape, rural, countryside, dusk"
 imageCredit: "Image by josealbafotos on Pixabay"
+imageWidth: 1280
+imageHeight: 854
 ---
 
 What do you imagine when you think of ancient texts whispering their secrets across the ages? Perhaps you consider the Psalmic verses that have transcended time, echoing through history and leaving behind traces in the most unexpected places. What if I told you that the Jordan Slope Stone offers a glimpse into that very echo?

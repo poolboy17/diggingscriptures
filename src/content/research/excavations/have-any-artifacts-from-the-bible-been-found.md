@@ -9,6 +9,8 @@ draft: false
 image: "/images/research/excavations/have-any-artifacts-from-the-bible-been-found.jpg"
 imageAlt: "workshop, carpenter, crafts, artisan, drink, work, tool, vintage, workshop, workshop, workshop, workshop, workshop, carpenter, carpenter"
 imageCredit: "Image by ThMilherou on Pixabay"
+imageWidth: 1280
+imageHeight: 848
 ---
 
 Archaeologists recently unearthed a clay seal impression in Jerusalem bearing the name 'Isaiah.' This discovery has sparked debates among scholars about its possible connection to the biblical prophet.

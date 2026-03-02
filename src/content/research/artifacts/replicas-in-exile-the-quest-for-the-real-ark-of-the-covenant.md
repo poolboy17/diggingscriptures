@@ -9,6 +9,8 @@ draft: false
 image: "/images/research/artifacts/replicas-in-exile-the-quest-for-the-real-ark-of-the-covenant.jpg"
 imageAlt: "coins, ancient, ancient coin, financial, currency, gold, coins, ancient, ancient coin, ancient coin, ancient coin, ancient coin, ancient coin"
 imageCredit: "Image by cho_phophimon on Pixabay"
+imageWidth: 1280
+imageHeight: 853
 ---
 
 What would you risk to uncover a piece of history?

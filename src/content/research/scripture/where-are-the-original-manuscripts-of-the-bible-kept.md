@@ -9,6 +9,8 @@ draft: false
 image: "/images/research/scripture/where-are-the-original-manuscripts-of-the-bible-kept.jpg"
 imageAlt: "diary, ipad, write, blog, workplace, notebook, coffee mug, mockup, diary, blog, blog, blog, blog, blog"
 imageCredit: "Image by Edar on Pixabay"
+imageWidth: 1280
+imageHeight: 960
 ---
 
 Scattered across museums, libraries, and private collections worldwide, the original manuscripts of the Bible remain a subject of intrigue and fascination for scholars and enthusiasts alike.

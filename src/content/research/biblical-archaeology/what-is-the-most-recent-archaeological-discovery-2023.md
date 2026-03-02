@@ -9,6 +9,8 @@ draft: false
 image: "/images/research/biblical-archaeology/what-is-the-most-recent-archaeological-discovery-2023.jpg"
 imageAlt: "archaeology, excavation, sun sails, protection, sun protection, archaeological excavation, research, archaeological site, coast, landscape, mnajdra, malta, excavation, sun protection, research, archaeological site, mnajdra, mnajdra, mnajdra, mnajdra, mnajdra, malta, malta, malta, malta"
 imageCredit: "Image by Efraimstochter on Pixabay"
+imageWidth: 1280
+imageHeight: 960
 ---
 
 In the quest for unraveling mysteries of the past, a team of archaeologists uncovered an intact mummy in a 4,400-year-old tomb deep within the Egyptian desert. This find sparked global interest and raised questions about the individual's identity and the practices of ancient burial rituals.

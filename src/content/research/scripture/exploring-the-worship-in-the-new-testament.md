@@ -9,6 +9,8 @@ draft: false
 image: "/images/research/scripture/exploring-the-worship-in-the-new-testament.jpg"
 imageAlt: "scroll, feather, ink, caligraphy, hebrew, writing, characters, paper, papirus, old style, brown paper, brown writing, scroll, scroll, scroll, scroll, scroll, hebrew, hebrew"
 imageCredit: "Image by zofiaEliyahu on Pixabay"
+imageWidth: 1280
+imageHeight: 859
 ---
 
 In the captivating article, "Exploring the Worship in the New Testament," Anita Love, a distinguished authority on Christianity's historical foundations, delves into the significance of worship in the New Testament. With a keen focus on understanding the differences between the Old Testament and the New Testament, Anita explores the central themes, literary genres, historical context, messianic prophecies, and the nuances of law and covenant. With her nuanced perspective and extensive academic background, Anita sheds light on the word for worship in the New Testament and its profound implications.

@@ -9,6 +9,8 @@ draft: false
 image: "/images/research/biblical-archaeology/can-you-be-an-archaeologist-without-a-degree.jpg"
 imageAlt: "pottery shard, clay pot, shard, burning clay, craft, burma, myanmar"
 imageCredit: "Image by thomaspedrazzoli on Pixabay"
+imageWidth: 1280
+imageHeight: 1280
 ---
 
 In the world of archaeology, a degree often stands as a symbolic key to unfastening doors of opportunity and credibility. But what if one were to navigate the archaeological landscape without this traditional marker of academic achievement?

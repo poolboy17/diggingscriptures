@@ -9,6 +9,8 @@ draft: false
 image: "/images/research/biblical-archaeology/what-techniques-did-archaeologists-use.jpg"
 imageAlt: "petra, jordan, royal tombs, sand stone, antique, historically, history, culture, archaeology, world heritage, monument, stone, architecture, travel, vacation, tourism, middle east, petra, petra, petra, petra, petra"
 imageCredit: "Image by ChiemSeherin on Pixabay"
+imageWidth: 1280
+imageHeight: 853
 ---
 
 In their quest to uncover ancient secrets, archaeologists employed a myriad of innovative techniques. From meticulous excavation methods to cutting-edge scientific dating procedures, these experts probed deep into the past using a blend of traditional practices and modern technologies.

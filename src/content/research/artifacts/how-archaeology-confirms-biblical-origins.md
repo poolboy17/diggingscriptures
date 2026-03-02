@@ -9,6 +9,8 @@ draft: false
 image: "/images/research/artifacts/how-archaeology-confirms-biblical-origins.jpg"
 imageAlt: "text, egypt, pyramid, symbol, message, egypt, egypt, egypt, egypt, egypt, pyramid"
 imageCredit: "Image by tumtac on Pixabay"
+imageWidth: 1280
+imageHeight: 853
 ---
 
 Did you ever wonder how reliable the Bible is when it comes to historical facts? If so, you're definitely not alone. Many people, like you and me, have pondered this, particularly given that the Bible has been a cornerstone for both faith and culture for millennia. I'm Dr. Ashley Thompson, with a PhD in Theology. I've spent countless hours researching ancient texts and artifacts to better understand their historical contexts. As of 2025, this topic is more relevant than ever, not just due to its religious significance but also because archaeology continues to dig up findings that either confirm or challenge our existing beliefs. The advances in scientific dating methods and new digs have provided us with unprecedented insights.

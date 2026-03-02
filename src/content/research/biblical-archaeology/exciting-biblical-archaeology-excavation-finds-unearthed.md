@@ -9,6 +9,8 @@ draft: false
 image: "/images/research/biblical-archaeology/exciting-biblical-archaeology-excavation-finds-unearthed.jpg"
 imageAlt: "excavator, construction machine, two-way excavator, gripper, site, construction site, machinery, heavy machinery, excavator, excavator, excavator, excavator, excavator, construction site, construction site, construction site"
 imageCredit: "Image by Tama66 on Pixabay"
+imageWidth: 1280
+imageHeight: 954
 ---
 
 Delving into the depths of historical excavations at biblical archaeological sites, we uncover a plethora of ancient artifacts that offer profound insights into the past. The discovery of pottery, in particular, has proven to be instrumental in unraveling the mysteries of ancient civilizations. 

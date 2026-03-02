@@ -9,6 +9,8 @@ draft: false
 image: "/images/research/artifacts/what-is-codex-sinaiticus-and-why-its-important.jpg"
 imageAlt: "egypt, statue, pharaoh, museum, sculpture, antique, egyptian, archaeology, story, egypt, pharaoh, pharaoh, pharaoh, pharaoh, pharaoh"
 imageCredit: "Image by louisredon on Pixabay"
+imageWidth: 1280
+imageHeight: 853
 ---
 
 Have you ever wondered what the big deal is with ancient manuscripts and why scholars still get excited about their discovery? Well, when it comes to historical documents, the Codex Sinaiticus is like hitting the jackpot. But what exactly is this famous codex, and why does it hold such importance even today? With a background in Theology, Im here to break down the significance of this ancient text and explore why it remains a crucial artifact in 2025.

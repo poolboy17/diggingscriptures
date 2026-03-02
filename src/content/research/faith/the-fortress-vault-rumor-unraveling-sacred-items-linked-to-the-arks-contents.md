@@ -9,6 +9,8 @@ draft: false
 image: "/images/research/faith/the-fortress-vault-rumor-unraveling-sacred-items-linked-to-the-arks-contents.jpg"
 imageAlt: "temple of heaven, beijing, stairs, temple, landmark, historical, china, asia, old temple, architecture, steps, stairway, beijing, temple, china, china, china, china, china"
 imageCredit: "Image by jplenio on Pixabay"
+imageWidth: 1280
+imageHeight: 853
 ---
 
 What do you think might have happened to the sacred items that were said to be contained within the Ark of the Covenant? Could they still exist today, hidden away in some long-forgotten fortress vault, waiting to be discovered? Lets take a stroll through history, rumor, and the intriguing world of biblical archaeology to piece together the puzzle surrounding the Ark and its legendary contents.

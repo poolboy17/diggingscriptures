@@ -9,6 +9,8 @@ draft: false
 image: "/images/research/faith/sacred-vessels-in-temple-worship-unveiled.jpg"
 imageAlt: "wailing wall, western wall, israel, jerusalem, temple, wailing wall, wailing wall, wailing wall, western wall, western wall, western wall, western wall, western wall, jerusalem, jerusalem"
 imageCredit: "Image by Freeshot on Pixabay"
+imageWidth: 1280
+imageHeight: 733
 ---
 
 Have you ever considered the profound legacy held within sacred vessels used in temple worship throughout history? The intersection of spirituality, anthropology, and archaeology holds a captivating treasure trove of insights into ancient practices that continue to resonate today. Unveiling these enigmatic artifacts not only enriches our understanding of religious rituals of the past but also deepens our appreciation for their ongoing influence.

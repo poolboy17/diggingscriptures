@@ -9,6 +9,8 @@ draft: false
 image: "/images/research/scripture/when-was-the-new-testament-originally-written.jpg"
 imageAlt: "sütterlin, windows wallpaper, wallpaper 4k, beautiful wallpaper, handwriting, cool backgrounds, hd wallpaper, typography, font, letter, 4k wallpaper, laptop wallpaper, desktop backgrounds, paper, book page, book, full hd wallpaper, text, message, free wallpaper, nostalgia, vintage, free background, mac wallpaper, antique, old, 4k wallpaper 1920x1080, wallpaper hd, background"
 imageCredit: "Image by cocoparisienne on Pixabay"
+imageWidth: 1280
+imageHeight: 853
 ---
 
 Discovering the origins of the New Testament is like unlocking a treasure trove that holds the key to understanding the foundations of Christianity. Renowned theologian, Anita Love, unravels the mystery behind the timing of its writing, shedding light on how this ancient text came to be. With her extensive knowledge and expertise in biblical studies, Love explores the historical, cultural, and theological contexts surrounding the New Testament, providing valuable insights into its significance and relevance in our lives today. Let's embark on a fascinating journey to uncover the origins of the New Testament and gain a deeper appreciation for its timeless teachings.

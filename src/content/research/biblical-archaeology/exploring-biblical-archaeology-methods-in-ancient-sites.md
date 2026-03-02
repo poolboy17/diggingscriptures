@@ -9,6 +9,8 @@ draft: false
 image: "/images/research/biblical-archaeology/exploring-biblical-archaeology-methods-in-ancient-sites.jpg"
 imageAlt: "archeology, history, ancient, culture, architecture, antique, stone, landmark, historic, monument, ruin, temple, historical, column, turkey, bergama, pergamon, blue history, blue culture, blue stone, turkey, turkey, bergama, bergama, pergamon, pergamon, pergamon, pergamon, pergamon"
 imageCredit: "Image by nikolabelopitov on Pixabay"
+imageWidth: 1280
+imageHeight: 854
 ---
 
 Delve into the enigmatic past with cutting-edge methods in archaeology that unearth ancient artifacts. Excavation processes, crucial tools, and specialized techniques all contribute to revealing the mysteries hidden beneath layers of time. 

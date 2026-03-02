@@ -9,6 +9,8 @@ draft: false
 image: "/images/research/artifacts/what-is-the-oldest-biblical-manuscript-we-have.jpg"
 imageAlt: "aged, ancient, antique, ceramic, clay, container, containers, crock, crockery, domestic, historic, jar, jug, old, pitcher, porcelain, pot, pots, pottery, vintage, jug, jug, pitcher, pitcher, pitcher, pottery, pottery, pottery, pottery, pottery"
 imageCredit: "Image by PublicDomainPictures on Pixabay"
+imageWidth: 1280
+imageHeight: 853
 ---
 
 Many may not realize that the oldest biblical manuscript we possess is the Codex Sinaiticus, dating back to around 350 CE.

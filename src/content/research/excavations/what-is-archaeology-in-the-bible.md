@@ -9,6 +9,8 @@ draft: false
 image: "/images/research/excavations/what-is-archaeology-in-the-bible.jpg"
 imageAlt: "archaeology, archaeological dig, documenting, digging, research, archaeologist, digger, brown research, brown document, archaeology, archaeology, archaeologist, archaeologist, archaeologist, archaeologist, archaeologist"
 imageCredit: "Image by JamesDeMers on Pixabay"
+imageWidth: 1280
+imageHeight: 1165
 ---
 
 Archaeology in the Bible is like a code to revealing ancient mysteries, exposing layers of history intertwined with biblical accounts. As the spade unearths artifacts and sites, a profound connection to biblical narratives emerges.

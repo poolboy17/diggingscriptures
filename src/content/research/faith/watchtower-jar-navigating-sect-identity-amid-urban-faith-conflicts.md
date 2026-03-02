@@ -9,6 +9,8 @@ draft: false
 image: "/images/research/faith/watchtower-jar-navigating-sect-identity-amid-urban-faith-conflicts.jpg"
 imageAlt: "masjid prophetic, medina, religion, muslim, islam, architectural, hz, mohammed, the last prophet, architectural history"
 imageCredit: "Image by Konevi on Pixabay"
+imageWidth: 1280
+imageHeight: 853
 ---
 
 Have you ever found yourself caught between the traditions of faith and the pulsating rhythm of urban life? Its a tug-of-war that many feel when navigating the complex landscape of sect identity, particularly in bustling cities where diverse beliefs collide. Understanding this phenomenon can shed light on some of the more intricate aspects of contemporary religious life.

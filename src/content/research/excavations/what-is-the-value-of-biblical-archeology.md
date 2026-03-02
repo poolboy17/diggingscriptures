@@ -9,6 +9,8 @@ draft: false
 image: "/images/research/excavations/what-is-the-value-of-biblical-archeology.jpg"
 imageAlt: "jerash, jordan, roman, gerasa, travel, architecture, ancient, historic, tourism, culture, history, stone, archaeology, ruins, ruin, vacations, pillar, antiquity, building, column, civilization, relief, pillars, gate, temple, jerash, jerash, jerash, jerash, jerash, jordan"
 imageCredit: "Image by 8834113 on Pixabay"
+imageWidth: 1280
+imageHeight: 853
 ---
 
 In today's digitally-driven world, the excavation of ancient sites continues to captivate the imagination of scholars and historians alike.

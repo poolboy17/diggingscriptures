@@ -9,6 +9,8 @@ draft: false
 image: "/images/research/excavations/what-have-archaeologists-found-from-the-bible.jpg"
 imageAlt: "masada national park, masada, the great revolt, roman siege ramp, cliff, desert, unesco heritage site, tourism, israel, palaces of king herod the great, nature, aerial view"
 imageCredit: "Image by samirsmier on Pixabay"
+imageWidth: 1280
+imageHeight: 720
 ---
 
 In the vast landscape of archaeological findings related to the Bible, one particular discovery stands out like a beacon illuminating the past.

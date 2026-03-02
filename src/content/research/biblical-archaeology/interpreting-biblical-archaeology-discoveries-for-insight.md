@@ -9,6 +9,8 @@ draft: false
 image: "/images/research/biblical-archaeology/interpreting-biblical-archaeology-discoveries-for-insight.jpg"
 imageAlt: "pottery shard, clay pot, shard, burning clay, craft, burma, myanmar"
 imageCredit: "Image by thomaspedrazzoli on Pixabay"
+imageWidth: 1280
+imageHeight: 1280
 ---
 
 Exploring the realm of **Biblical history** involves delving deep into **archaeological findings**, where researchers uncover valuable **ancient artifacts** that reveal the historical context behind **religious texts**. These discoveries offer a window into the mysteries of the past, allowing scholars to piece together the puzzle of ancient civilizations and their beliefs. 

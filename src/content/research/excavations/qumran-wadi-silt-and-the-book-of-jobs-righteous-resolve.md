@@ -9,6 +9,8 @@ draft: false
 image: "/images/research/excavations/qumran-wadi-silt-and-the-book-of-jobs-righteous-resolve.jpg"
 imageAlt: "streets, night, lights, circle, highways, top view, cityscape, aerial view, urban, crossroads, freeway, traffic, city lights, night photography, city view, aerial photography, circle, top view, cityscape, cityscape, cityscape, cityscape, aerial view, urban, crossroads, crossroads, freeway, city lights, city lights, city lights, city lights, city lights, night photography, night photography, night photography, city view, city view"
 imageCredit: "Image by csliaw on Pixabay"
+imageWidth: 1280
+imageHeight: 960
 ---
 
 What if I told you that two seemingly unrelated topicsQumran Wadi silt and the Book of Jobreflect significant aspects of human resilience and spirituality? Lets sift through the sediment of history and belief to uncover what these two subjects reveal about our understanding of righteousness during trials.

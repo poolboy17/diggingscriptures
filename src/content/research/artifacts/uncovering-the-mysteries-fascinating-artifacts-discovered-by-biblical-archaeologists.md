@@ -9,6 +9,8 @@ draft: false
 image: "/images/research/artifacts/uncovering-the-mysteries-fascinating-artifacts-discovered-by-biblical-archaeologists.jpg"
 imageAlt: "loving, memory, memorial, grief, bereavement, tribute, love, grave, gravestone, inscription, remembrance, affection, life, tombstone, serif, font, engraving, stone, brown love, brown life, brown death, brown memory, brown stone"
 imageCredit: "Image by aitoff on Pixabay"
+imageWidth: 1280
+imageHeight: 958
 ---
 
 In the captivating article "Uncovering the Mysteries: Fascinating Artifacts Discovered by Biblical Archaeologists," readers will embark on a thrilling journey through time and witness the astounding discoveries made by these dedicated professionals. From ancient manuscripts to intricate sculptures, the artifacts uncovered by these archaeologists shed light on past civilizations, revealing secrets and stories that have been buried for centuries. Each artifact is a doorway into a distant world, inviting us to unravel the enigmas that lie within the pages of history.

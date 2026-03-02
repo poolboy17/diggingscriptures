@@ -9,6 +9,8 @@ draft: false
 image: "/images/research/biblical-archaeology/qumran-broken-ladder-navigating-conflict-resolution-for-desert-saints.jpg"
 imageAlt: "excavator, construction machine, two-way excavator, gripper, site, construction site, machinery, heavy machinery, excavator, excavator, excavator, excavator, excavator, construction site, construction site, construction site"
 imageCredit: "Image by Tama66 on Pixabay"
+imageWidth: 1280
+imageHeight: 954
 ---
 
 What if the conflicts we face today have echoes in the past, shaping not only personal relationships but entire communities? The wisdom of ancient communities, like those of the Qumran sect, offers valuable insights into navigating conflict resolution. Situated near the shores of the Dead Sea, this enigmatic group has puzzled scholars for decades, yet their teachings and practices remain relevant. Let's stroll through Qumrans fascinating history, their approach to conflict resolution, and the potential lessons you can apply in your life today.

@@ -9,6 +9,8 @@ draft: false
 image: "/images/research/faith/the-uncovered-secrets-most-intriguing-biblical-archaeological-discoveries.jpg"
 imageAlt: "church, ceiling, dome, architecture, cathedral, historical, basilica, frescoes, symbolic, religion, hungary, budapest, stephansdom"
 imageCredit: "Image by ArminEP on Pixabay"
+imageWidth: 1280
+imageHeight: 853
 ---
 
 In the realm of Biblical archaeology, numerous captivating discoveries have been unearthed over the past decade. These remarkable findings have not only shed light on the ancient world but have also provided valuable insight into biblical events and figures. From ancient cities to religious relics, the mysteries of the Bible continue to unravel through these fascinating archaeological endeavors.

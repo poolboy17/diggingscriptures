@@ -9,6 +9,8 @@ draft: false
 image: "/images/research/biblical-archaeology/desert-rain-at-ein-gedi-the-interplay-of-fragile-scrolls-and-hopeful-laments.jpg"
 imageAlt: "archaeology, excavation, sun sails, protection, sun protection, archaeological excavation, research, archaeological site, coast, landscape, mnajdra, malta, excavation, sun protection, research, archaeological site, mnajdra, mnajdra, mnajdra, mnajdra, mnajdra, malta, malta, malta, malta"
 imageCredit: "Image by Efraimstochter on Pixabay"
+imageWidth: 1280
+imageHeight: 960
 ---
 
 What if the whispers of the past could answer your deepest questions? Imagine standing in a stark, sun-kissed landscape, surrounded by the remnants of ancient civilizations that flourished against the odds. This isnt just a fantasy; its the reality of Ein Gedi, nestled along the shores of the Dead Sea, where fragile scrolls of history and the echoes of hopeful laments intertwine in a tale that spans millennia.

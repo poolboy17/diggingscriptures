@@ -9,6 +9,8 @@ draft: false
 image: "/images/research/biblical-archaeology/biblical-city-destruction-evidence-aligns-with-ancient-tales.jpg"
 imageAlt: "archeology, history, ancient, culture, architecture, antique, stone, landmark, historic, monument, ruin, temple, historical, column, turkey, bergama, pergamon, blue history, blue culture, blue stone, turkey, turkey, bergama, bergama, pergamon, pergamon, pergamon, pergamon, pergamon"
 imageCredit: "Image by nikolabelopitov on Pixabay"
+imageWidth: 1280
+imageHeight: 854
 ---
 
 Have you ever wondered if the ancient tales of biblical city destructions hold any truth when measured against the evidence unearthed by modern archaeology? This question opens up a fascinating exploration of the intersections between ancient narratives and contemporary scientific discoveries. It is within these interwoven tales and facts where compelling narratives unfold, potentially transforming our understanding of historical events.

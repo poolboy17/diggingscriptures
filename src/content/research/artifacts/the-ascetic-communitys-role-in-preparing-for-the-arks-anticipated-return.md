@@ -9,6 +9,8 @@ draft: false
 image: "/images/research/artifacts/the-ascetic-communitys-role-in-preparing-for-the-arks-anticipated-return.jpg"
 imageAlt: "girls, jewelry, shop, outdoors, women, window, showcase, glass case, show window, shopping, seller, man, snapshot, street photography, recreation, urban, city"
 imageCredit: "Image by Surprising_Media on Pixabay"
+imageWidth: 1280
+imageHeight: 853
 ---
 
 What if the return of a legendary artifact could reshape not only faith but also culture itself? The Ark of the Covenant, an object steeped in biblical history and mystery, has long captivated the imagination of scholars, theologians, and seekers. Its anticipated return is not merely a matter of religious significance; it also profoundly involves the rich tapestry of the ascetic community that has worked to preserve spiritual practices over centuries.

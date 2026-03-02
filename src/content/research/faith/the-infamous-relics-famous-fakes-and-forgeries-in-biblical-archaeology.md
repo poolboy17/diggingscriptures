@@ -9,6 +9,8 @@ draft: false
 image: "/images/research/faith/the-infamous-relics-famous-fakes-and-forgeries-in-biblical-archaeology.jpg"
 imageAlt: "candles, church, burning, religion, light, flame, fire, celebration, wax, candlelight, religious, ceremony, spirituality, glow, brown fire, brown candle, brown candles"
 imageCredit: "Image by Republica on Pixabay"
+imageWidth: 1280
+imageHeight: 920
 ---
 
 "The Infamous Relics: Famous Fakes and Forgeries in Biblical Archaeology" takes readers on a captivating journey through the fascinating world of counterfeit artifacts that have made their way into the realm of biblical archaeology. From cleverly crafted replicas to audacious hoaxes, this article unveils the shocking tales of deceit and manipulation that have left experts and enthusiasts alike questioning the authenticity of some of the most treasured relics. Delve into the intriguing stories behind these infamous forgeries and explore the lingering impact they have had on our understanding of history and faith.

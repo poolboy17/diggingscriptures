@@ -9,6 +9,8 @@ draft: false
 image: "/images/research/biblical-archaeology/unveiling-ancient-coins-in-biblical-archaeology.jpg"
 imageAlt: "whitby abbey, dracula, bram stoker, haunted, ruin, moody, whitby, yorkshire, history, historic, gothic, landscape, grey, old, whitby, yorkshire, history, history, history, history, history, gothic"
 imageCredit: "Image by TimHill on Pixabay"
+imageWidth: 1280
+imageHeight: 720
 ---
 
 Have you ever held an ancient coin in your hand and pondered its journey through time, envisioning the myriad hands it may have passed through and the stories it could tell? Ancient coins serve as tangible connections to the past, offering a unique glimpse into the cultural and economic landscape of the times they represent. In the realm of biblical archaeology, these coins provide even more than historical insight; they symbolize a bridge between the sacred texts and empirical evidence. This article explores the multifaceted world of ancient coins within biblical archaeology, illuminating their discoveries, the archaeological evidence they present, and their broader implications for our understanding of history.

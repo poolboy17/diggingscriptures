@@ -9,6 +9,8 @@ draft: false
 image: "/images/research/artifacts/3-methods-to-identify-genuine-and-counterfeit-artifacts-in-biblical-archaeology.jpg"
 imageAlt: "aged, ancient, antique, ceramic, clay, container, containers, crock, crockery, domestic, historic, jar, jug, old, pitcher, porcelain, pot, pots, pottery, vintage, jug, jug, pitcher, pitcher, pitcher, pottery, pottery, pottery, pottery, pottery"
 imageCredit: "Image by PublicDomainPictures on Pixabay"
+imageWidth: 1280
+imageHeight: 853
 ---
 
 In the fascinating world of Biblical Archaeology, the quest to uncover ancient artifacts can sometimes lead to a conundrum: how can one distinguish between genuine treasures and cunningly crafted fakes? Fortunately, there are three reliable methods that experts rely on to identify the authenticity of these artifacts. By examining historical context, analyzing material composition, and utilizing advanced imaging techniques, researchers have honed their skills in determining the true value and significance of these ancient relics. Whether you're an enthusiast or a professional in the field, these methods will undoubtedly prove invaluable in navigating the fascinating world of Biblical Archaeology.

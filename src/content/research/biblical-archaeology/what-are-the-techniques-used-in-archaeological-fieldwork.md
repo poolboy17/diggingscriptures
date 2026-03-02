@@ -9,6 +9,8 @@ draft: false
 image: "/images/research/biblical-archaeology/what-are-the-techniques-used-in-archaeological-fieldwork.jpg"
 imageAlt: "ancient, pottery, pots, clay, antique, art, artisan, artistic, brown, ceramic, crafts, culture, handcraft, handicraft, handmade, india, indian, pottery, pottery, pottery, clay, art, culture, india, india, india, india, india, indian"
 imageCredit: "Image by Pexels on Pixabay"
+imageWidth: 1280
+imageHeight: 853
 ---
 
 Archaeologists employ various methods during fieldwork, such as the meticulous process of conducting surveys to uncover surface artifacts and using advanced technologies like drones for aerial assessments. However, these are just the tip of the iceberg when it comes to the intricate techniques utilized in archaeological excavation.

@@ -9,6 +9,8 @@ draft: false
 image: "/images/research/biblical-archaeology/uncovering-nelson-gluecks-archaeological-legacy.jpg"
 imageAlt: "pyramids, egypt, egyptian, ancient, desert, giza, historical, architecture, sand, dunes, sand dunes, barren, nature, barren landscape, landmark, sunset, panorama, panoramic"
 imageCredit: "Image by TheDigitalArtist on Pixabay"
+imageWidth: 1280
+imageHeight: 480
 ---
 
 In the realm of archaeology, few names shine as brightly as Nelson Glueck. Known for his groundbreaking work in the Middle East during the mid-20th century, Glueck's contributions to the field are both extensive and enduring. From uncovering ancient cities to deciphering biblical texts, he left an indelible mark on the world of archaeology. This article takes a closer look at Glueck's archaeological legacy, exploring the impact of his discoveries and shedding light on his extraordinary career.

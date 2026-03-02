@@ -9,6 +9,8 @@ draft: false
 image: "/images/research/scripture/the-significance-of-greek-and-hebrew-in-the-new-testament.jpg"
 imageAlt: "calligraphy, story, ink, feather, a book, vintage, old, wood, fairy tale, author, writer, diary, story, story, story, story, author, author, writer, writer, writer, writer, writer, diary"
 imageCredit: "Image by Ghinzo on Pixabay"
+imageWidth: 1280
+imageHeight: 853
 ---
 
 Have you ever wondered about the significance of Greek and Hebrew in the New Testament? Well, Anita Love, a renowned authority on Christianity's historical foundations and contemporary relevance, has devoted her academic pursuits to exploring this very topic. With her profound knowledge in Theology and Religious Studies, Anita has delved into the depths of ancient biblical manuscripts, analyzing their authenticity and the historical accuracy of scriptural events. Her thought-provoking writings, which encompass Old Testament narratives, cultural context, and the canonization process, offer a nuanced perspective that appreciates the diversity within Christian denominations. So, let's explore the fascinating world of Greek and Hebrew in the New Testament together and uncover the rich tapestry of meanings they bring to these sacred texts.

@@ -9,6 +9,8 @@ draft: false
 image: "/images/research/biblical-archaeology/cliffside-hollow-navigating-the-tension-between-law-and-tradition.jpg"
 imageAlt: "jerusalem, israel, old town, walls, the rock temple, dome of the rock, the holy city, israeli town, panorama, city view, jerusalem, jerusalem, jerusalem, jerusalem, jerusalem, israel, israel, israel, israel"
 imageCredit: "Image by Walkerssk on Pixabay"
+imageWidth: 1280
+imageHeight: 493
 ---
 
 What role do laws and traditions play in our lives? You might wonder how much of your daily routine relies on societal rules versus age-old customs. As you sift through your experiences, youd probably find a fascinating interplay between these two influences. In some cases, the harmony is commendable, but at other times, its a hotbed for conflict, especially when they clash. Thats exactly the kind of tension were about to unravel in the idyllic yet complex setting of Cliffside Hollow.

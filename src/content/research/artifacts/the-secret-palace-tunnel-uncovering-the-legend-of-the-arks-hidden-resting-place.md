@@ -9,6 +9,8 @@ draft: false
 image: "/images/research/artifacts/the-secret-palace-tunnel-uncovering-the-legend-of-the-arks-hidden-resting-place.jpg"
 imageAlt: "chain, gold, human, girl, woman, person, close up, detail, person human"
 imageCredit: "Image by Pezibear on Pixabay"
+imageWidth: 1280
+imageHeight: 855
 ---
 
 What if the most sacred artifact in human history was hidden right beneath our feet? The Ark of the Covenant, a revered biblical artifact, has been the subject of countless legends and tales. One of the most captivating stories revolves around the Secret Palace Tunnel, rumored to be its hidden resting place. Let's unravel this intriguing narrative together, as we journey through history, archaeology, and faith.

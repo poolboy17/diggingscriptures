@@ -9,6 +9,8 @@ draft: false
 image: "/images/research/scripture/exploring-a-biblical-ship-harbor-discovery.jpg"
 imageAlt: "writing, manuscript, letter, document, ancient, lyrics, feather, ink, calligraphy"
 imageCredit: "Image by makamuki0 on Pixabay"
+imageWidth: 1280
+imageHeight: 960
 ---
 
 Have you ever wondered how a discovery from biblical times could influence our modern perception of history and religion? Recently, an ancient ship harbor mentioned in biblical texts was uncovered, providing a vivid connection between documented religious events and archaeological evidence. This exciting finding, known as the **Biblical Era Ship Harbor**, offers new insights into the historical narrative of ancient seafaring and biblical accounts.

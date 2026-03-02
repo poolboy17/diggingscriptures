@@ -9,6 +9,8 @@ draft: false
 image: "/images/research/excavations/understanding-the-various-techniques-in-biblical-archaeological-excavation.jpg"
 imageAlt: "city, frankfurt, cityscape, skyscrapers, dusk, twilight, night, lights, aerial view, city, city, city, city, frankfurt, frankfurt, frankfurt, frankfurt, frankfurt"
 imageCredit: "Image by Bru-nO on Pixabay"
+imageWidth: 1280
+imageHeight: 853
 ---
 
 In the fascinating field of Biblical Archaeology, researchers utilize various techniques to uncover and understand the ancient world described in the Bible. This article provides an overview of the different methods of excavation employed by experts as they meticulously dig through time. From stratigraphy to remote sensing, each technique offers valuable insights into the past and sheds light on the stories and civilizations that once thrived in the lands of the Bible. Get ready to embark on an excavation adventure and delve into the captivating world of Biblical Archaeology.

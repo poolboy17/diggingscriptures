@@ -9,6 +9,8 @@ draft: false
 image: "/images/research/excavations/what-archaeological-evidence-points-to-the-historical-accuracy-of-the-biblical-story-of-the-fall-of-jericho.jpg"
 imageAlt: "city, aerial view, illuminated, city lights, cityscape, skyline, night photography, horizon, city view, distant view, bird's eye view, bangkok, night, traffic, asia, bangkok, bangkok, bangkok, bangkok, bangkok, traffic, traffic"
 imageCredit: "Image by Pexels on Pixabay"
+imageWidth: 1280
+imageHeight: 720
 ---
 
 Could archaeological findings provide concrete evidence supporting the biblical tale of Jericho's fall? As excavations continue to unearth new clues, the debate over the historical accuracy of this ancient event intensifies.

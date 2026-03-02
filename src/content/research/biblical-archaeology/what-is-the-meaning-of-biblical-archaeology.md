@@ -9,6 +9,8 @@ draft: false
 image: "/images/research/biblical-archaeology/what-is-the-meaning-of-biblical-archaeology.jpg"
 imageAlt: "israel, jerusalem, old city, damascus gate, gate, wall, architecture, stone, old, ancient, stronghold, fortification, city, protection, defence, travel, israel, jerusalem, jerusalem, jerusalem, jerusalem, jerusalem, stronghold, stronghold"
 imageCredit: "Image by 2427999 on Pixabay"
+imageWidth: 1280
+imageHeight: 853
 ---
 
 Many may not realize that biblical archaeology goes beyond searching for artifacts; it involves piecing together historical puzzles that shed light on ancient societies and religious texts.

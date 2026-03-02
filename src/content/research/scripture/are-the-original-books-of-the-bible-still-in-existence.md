@@ -9,6 +9,8 @@ draft: false
 image: "/images/research/scripture/are-the-original-books-of-the-bible-still-in-existence.jpg"
 imageAlt: "book, manuscript, paper, ancient, manuscript, manuscript, manuscript, manuscript, manuscript"
 imageCredit: "Image by TonyPrats on Pixabay"
+imageWidth: 1280
+imageHeight: 850
 ---
 
 Ancient manuscripts like the Codex Sinaiticus and Codex Vaticanus offer valuable insights into the original books of the Bible. While these physical copies have not survived the test of time, the meticulous work of scholars in textual criticism has been pivotal in ensuring the Bible's authenticity.

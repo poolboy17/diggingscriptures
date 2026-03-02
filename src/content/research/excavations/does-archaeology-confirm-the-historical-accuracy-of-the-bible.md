@@ -9,6 +9,8 @@ draft: false
 image: "/images/research/excavations/does-archaeology-confirm-the-historical-accuracy-of-the-bible.jpg"
 imageAlt: "masada national park, masada, the great revolt, roman siege ramp, cliff, desert, unesco heritage site, tourism, israel, palaces of king herod the great, nature, aerial view"
 imageCredit: "Image by samirsmier on Pixabay"
+imageWidth: 1280
+imageHeight: 720
 ---
 
 In the world of biblical archaeology, the sands of time often reveal surprising connections between ancient artifacts and biblical narratives. As excavations continue to unearth new evidence, the question arises: does archaeology truly confirm the historical accuracy of the Bible?

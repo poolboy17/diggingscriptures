@@ -9,6 +9,8 @@ draft: false
 image: "/images/research/faith/dead-sea-cliffs-unlocking-the-hidden-library-of-prophetic-insights.jpg"
 imageAlt: "baptism, candle, decoration, christianity, religious, cross, symbol, christian, celebration, sacred, faith, spirituality, catholic, religion, baptism, baptism, baptism, baptism, baptism"
 imageCredit: "Image by karoligraphics on Pixabay"
+imageWidth: 1280
+imageHeight: 853
 ---
 
 What's hiding beneath the craggy cliffs of the Dead Sea? If you've ever pondered the mysteries of ancient texts or the prophetic insights that have shaped religious thought through the centuries, the Dead Sea Cliffs offer more than just a breathtaking viewthey hold a treasure trove of historical significance waiting to be uncovered.

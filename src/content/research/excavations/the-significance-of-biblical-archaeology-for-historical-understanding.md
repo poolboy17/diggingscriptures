@@ -9,6 +9,8 @@ draft: false
 image: "/images/research/excavations/the-significance-of-biblical-archaeology-for-historical-understanding.jpg"
 imageAlt: "landscape, tree, stone, wall, travel, ancient, old, architecture, archeology, roman, nature, roman construction, roman remains, empúries, ampurias, ruins of ampurias, roman empire, antiquity, city, site, ruins, history, ancient rome"
 imageCredit: "Image by Photos_Marta on Pixabay"
+imageWidth: 1280
+imageHeight: 960
 ---
 
 Biblical archaeology holds a crucial position in unraveling the mysteries of history, allowing individuals to gain deep insight into the past. By exploring the relics and remnants of ancient civilizations mentioned in the Bible, this field of study serves as a vital bridge connecting the gap between the written word and tangible evidence. Through the excavation of ancient sites, biblical archaeology offers a unique perspective on the lives of ancient peoples, shedding light on their customs, beliefs, and daily experiences. It is through this discipline that history comes alive, transforming the pages of texts into vibrant stories that resonate with our present.

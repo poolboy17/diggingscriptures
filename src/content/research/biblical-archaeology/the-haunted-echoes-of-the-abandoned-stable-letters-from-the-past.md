@@ -9,6 +9,8 @@ draft: false
 image: "/images/research/biblical-archaeology/the-haunted-echoes-of-the-abandoned-stable-letters-from-the-past.jpg"
 imageAlt: "pretty much, jerash, oval forum, roman, culture, story, historical, ancient, columns, stone, ruins, jordan, tourism, to travel, middle east, jerash, jerash, jordan, jordan, jordan, jordan, jordan, middle east"
 imageCredit: "Image by ChiemSeherin on Pixabay"
+imageWidth: 1280
+imageHeight: 720
 ---
 
 Have you ever wondered what secrets lie hidden in the forgotten corners of time? The past often leaves behind echoes, whispers of stories that yearn to be told. In the case of the abandoned stable, there exists a peculiar set of letters that may just bring the ghostly history of this place to life.

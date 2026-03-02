@@ -9,6 +9,8 @@ draft: false
 image: "/images/research/biblical-archaeology/ein-gedi-fallen-stones-a-testament-of-hope-in-the-barren-sands.jpg"
 imageAlt: "archaeology, city, petra, jordan, historical site, landscape, petra, petra, petra, petra, petra, jordan, jordan, jordan"
 imageCredit: "Image by StockSnap on Pixabay"
+imageWidth: 1280
+imageHeight: 854
 ---
 
 What do you think of when you hear the word "hope"? Is it a fleeting feeling, a tangible goal, or perhaps a testament rooted deeply in history? In the arid swathes of Israel, the Ein Gedi Fallen Stones stand as silent witnesses to human aspiration and resilience amid desolation. These remnants tell stories not just of ancient people but of enduring hope, making them a fascinating subject of study.

@@ -9,6 +9,8 @@ draft: false
 image: "/images/research/biblical-archaeology/first-temple-archive-unearths-historical-record-changes.jpg"
 imageAlt: "archaeology, excavation, sun sails, protection, sun protection, archaeological excavation, research, archaeological site, coast, landscape, mnajdra, malta, excavation, sun protection, research, archaeological site, mnajdra, mnajdra, mnajdra, mnajdra, mnajdra, malta, malta, malta, malta"
 imageCredit: "Image by Efraimstochter on Pixabay"
+imageWidth: 1280
+imageHeight: 960
 ---
 
 Have you ever wondered how new archaeological discoveries can redefine our understanding of ancient history? The unearthing of the First Temple archive is one such groundbreaking discovery that challenges and enriches the historical records of biblical times.

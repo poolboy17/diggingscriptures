@@ -9,6 +9,8 @@ draft: false
 image: "/images/research/scripture/where-is-the-original-bible-located.jpg"
 imageAlt: "scroll, feather, ink, caligraphy, hebrew, writing, characters, paper, papirus, old style, brown paper, brown writing, scroll, scroll, scroll, scroll, scroll, hebrew, hebrew"
 imageCredit: "Image by zofiaEliyahu on Pixabay"
+imageWidth: 1280
+imageHeight: 859
 ---
 
 Many have pondered the elusive question of where the original Bible resides, but the answer is not as straightforward as one might hope. The journey of the original biblical manuscripts is a tale of dispersion and preservation, with fragments scattered across the globe in various institutions.

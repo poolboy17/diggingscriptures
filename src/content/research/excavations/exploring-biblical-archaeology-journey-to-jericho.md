@@ -9,6 +9,8 @@ draft: false
 image: "/images/research/excavations/exploring-biblical-archaeology-journey-to-jericho.jpg"
 imageAlt: "way, building, excavator, viaduct, road, cities, work, digging, builder, a worker at the construction site, construction site, excavator, excavator, excavator, excavator, digging, digging, digging, digging, digging, builder, construction site"
 imageCredit: "Image by satynek on Pixabay"
+imageWidth: 1280
+imageHeight: 781
 ---
 
 There's a world beneath the surface waiting to be uncovered in Biblical archaeology. From unearthing ancient artifacts to unlocking mysteries of the past, this **fascinating** field offers a unique glimpse into the **history** and **culture** of biblical times. In this blog post, we will examine into the **exciting** discoveries at the ancient city of Jericho, known as the oldest continuously inhabited city in the world. Join us on a journey through time as we explore the **rich** tapestry of archaeological findings that bring the stories of the Bible to life.

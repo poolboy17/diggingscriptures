@@ -9,6 +9,8 @@ draft: false
 image: "/images/research/scripture/is-the-ethiopian-bible-the-oldest.jpg"
 imageAlt: "bible, book, highlighter, pages, text, open, open book, open bible, holy bible, bible reading, bible study, psalms, bible stories, bible, bible, bible, bible, bible, bible study"
 imageCredit: "Image by Pexels on Pixabay"
+imageWidth: 1280
+imageHeight: 961
 ---
 
 Many researchers have marveled at the antiquity of the Ethiopian Bible, yet debates persist regarding its true age. With carbon dating placing it far back in history, the Ethiopian Bible's claim to being the oldest remains a subject of intrigue and controversy among scholars.

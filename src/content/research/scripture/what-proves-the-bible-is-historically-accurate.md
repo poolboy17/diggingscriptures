@@ -9,6 +9,8 @@ draft: false
 image: "/images/research/scripture/what-proves-the-bible-is-historically-accurate.jpg"
 imageAlt: "dead sea scrolls, qumran caves, scripture, israel, dead sea, landscape, bible, essenes, brown bible, qumran caves, israel, dead sea, dead sea, dead sea, dead sea, dead sea, bible, essenes, essenes, essenes"
 imageCredit: "Image by jdblack on Pixabay"
+imageWidth: 1280
+imageHeight: 848
 ---
 
 Many people are unaware that the historical accuracy of the Bible has been a subject of scholarly inquiry and debate for centuries. Various indicators, such as archaeological findings and external sources, contribute to the ongoing discussions regarding its credibility.

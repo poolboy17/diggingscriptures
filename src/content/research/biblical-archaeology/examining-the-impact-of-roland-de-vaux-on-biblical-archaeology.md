@@ -9,6 +9,8 @@ draft: false
 image: "/images/research/biblical-archaeology/examining-the-impact-of-roland-de-vaux-on-biblical-archaeology.jpg"
 imageAlt: "contrast, abstract, nature, minimalism, windows, stone wall, desert, israel"
 imageCredit: "Image by Pix-Off on Pixabay"
+imageWidth: 1280
+imageHeight: 853
 ---
 
 Roland de Vaux holds a prominent position in the field of Biblical archaeology due to his immense impact on the subject. Through his rigorous research and excavation work, de Vaux has shed light on various aspects of the Bible, providing valuable insights and enhancing our understanding of ancient history. His contributions have not only made a lasting impression on the field but have also paved the way for future scholars and archaeologists to continue exploring the rich tapestry of the biblical past. , we will delve into the life and work of Roland de Vaux, examining the profound influence he has had on the field of Biblical archaeology.

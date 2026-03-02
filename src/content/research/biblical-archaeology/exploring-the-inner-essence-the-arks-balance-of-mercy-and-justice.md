@@ -9,6 +9,8 @@ draft: false
 image: "/images/research/biblical-archaeology/exploring-the-inner-essence-the-arks-balance-of-mercy-and-justice.jpg"
 imageAlt: "israel, jerusalem, jewish, palestine, religion, temple, judaism, holy, torah, architecture, old, ancient, history, rabbi, pray, east, israel, israel, jerusalem, jerusalem, jerusalem, jerusalem, jerusalem"
 imageCredit: "Image by Nick115 on Pixabay"
+imageWidth: 1280
+imageHeight: 854
 ---
 
 What do you think the Ark of the Covenant symbolizes in todays world?

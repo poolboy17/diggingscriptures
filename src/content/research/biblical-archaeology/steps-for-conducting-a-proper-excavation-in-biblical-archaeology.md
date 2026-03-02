@@ -9,6 +9,8 @@ draft: false
 image: "/images/research/biblical-archaeology/steps-for-conducting-a-proper-excavation-in-biblical-archaeology.jpg"
 imageAlt: "western wall, jerusalem, jews, pray, orthodox, holy, religious, western, wall, torah, temple, judaism, israel, jewish, religion, prayer, old, god, rock, east, stone, faith, hebrew, belief, judaic, spirituality, spiritual, architecture, traditional, city, synagogue, worship, wailing, ancient, people, sacred, brown city, brown wall, brown god, brown pray, brown rock, brown prayer, brown stone, western wall, jerusalem, jerusalem, jews, jews, judaism, judaism, israel, israel, israel, jewish, jewish, jewish, jewish, jewish"
 imageCredit: "Image by rliessum on Pixabay"
+imageWidth: 1280
+imageHeight: 960
 ---
 
 In the world of Biblical Archaeology, conducting a proper excavation is of utmost importance for uncovering ancient artifacts and shedding light on historical events. This article explores the necessary steps involved in conducting an excavation, providing valuable insights for researchers and enthusiasts alike. From site selection to recording and analyzing findings, this guide aims to ensure that excavations are carried out with precision and accuracy. Whether one is a seasoned archaeologist or simply curious about the field, these steps offer a roadmap to successfully unearthing the mysteries of the past.

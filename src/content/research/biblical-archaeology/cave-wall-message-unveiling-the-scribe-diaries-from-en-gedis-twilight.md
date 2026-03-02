@@ -9,6 +9,8 @@ draft: false
 image: "/images/research/biblical-archaeology/cave-wall-message-unveiling-the-scribe-diaries-from-en-gedis-twilight.jpg"
 imageAlt: "ancient, pottery, pots, clay, antique, art, artisan, artistic, brown, ceramic, crafts, culture, handcraft, handicraft, handmade, india, indian, pottery, pottery, pottery, clay, art, culture, india, india, india, india, india, indian"
 imageCredit: "Image by Pexels on Pixabay"
+imageWidth: 1280
+imageHeight: 853
 ---
 
 Have you ever gazed at a crumbling wall and wondered just what stories it could tell? The ancient caves of En Gedi, with their weathered stone and whispered secrets, offer more than just a glimpse into the past; they beckon you to unravel the captivating narratives held within. Here, the scribe diaries have surfaced, illuminating a tapestry of history that is both richly embroidered and deeply complex. Lets unravel this intriguing tale together.

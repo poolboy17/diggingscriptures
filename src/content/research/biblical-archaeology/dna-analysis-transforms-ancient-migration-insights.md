@@ -9,6 +9,8 @@ draft: false
 image: "/images/research/biblical-archaeology/dna-analysis-transforms-ancient-migration-insights.jpg"
 imageAlt: "masada national park, masada, the great revolt, roman siege ramp, cliff, desert, unesco heritage site, tourism, israel, palaces of king herod the great, nature, aerial view"
 imageCredit: "Image by samirsmier on Pixabay"
+imageWidth: 1280
+imageHeight: 720
 ---
 
 Could it be that our understanding of ancient human migrations is on the cusp of a paradigm shift thanks to advances in DNA analysis? As researchers unlock genetic secrets buried deep within ancient bones, the migratory paths of our ancestors are being mapped with unprecedented clarity. This article examines how the transformative nature of DNA analysis is painting a new picture of ancient migrations, particularly in the context of biblical history.

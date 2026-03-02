@@ -9,6 +9,8 @@ draft: false
 image: "/images/research/faith/uncovering-ancient-cities-through-biblical-archaeology.jpg"
 imageAlt: "monk, pilgrimage, path, sunset, pilgrim, walk, road, enlightenment, tradition, culture, afternoon, nature, field, farm, landscape, rural, countryside, dusk"
 imageCredit: "Image by josealbafotos on Pixabay"
+imageWidth: 1280
+imageHeight: 854
 ---
 
 In the realm of Biblical archaeology, remarkable discoveries have been made through the excavation of ancient cities that were once lost to time. Through meticulous research and exploration, archaeologists have unearthed fascinating artifacts and ruins that provide invaluable insights into civilizations of the past. This article delves into the realm of Biblical archaeology, highlighting some of its greatest discoveries and shedding light on the intricate historical tapestry that connects the present to the ancient world.

@@ -9,6 +9,8 @@ draft: false
 image: "/images/research/excavations/exploring-the-qumran-storeroom-trunk-a-study-in-moral-integrity.jpg"
 imageAlt: "streets, night, lights, circle, highways, top view, cityscape, aerial view, urban, crossroads, freeway, traffic, city lights, night photography, city view, aerial photography, circle, top view, cityscape, cityscape, cityscape, cityscape, aerial view, urban, crossroads, crossroads, freeway, city lights, city lights, city lights, city lights, city lights, night photography, night photography, night photography, city view, city view"
 imageCredit: "Image by csliaw on Pixabay"
+imageWidth: 1280
+imageHeight: 960
 ---
 
 What does it mean to maintain moral integrity when faced with temptation? Isnt that a question worth pondering, especially in light of historical examples that resonate even today? The Qumran Storeroom Trunk, a seemingly ordinary object from the Second Temple period, may offer unexpected insights into this question. For those intrigued by the interplay between archaeology and ethics, this study delves into the moral implications woven into the very fabric of ancient lives.

@@ -9,6 +9,8 @@ draft: false
 image: "/images/research/biblical-archaeology/decoding-ancient-inscriptions-unraveling-the-secrets-of-biblical-archaeology.jpg"
 imageAlt: "petra, ad deir, world heritage, sand stone, antique, historically, nature, archaeology, monument, culture, ad dayr, history, stones, sky, tourism, travel, vacations, middle east, jordan"
 imageCredit: "Image by ChiemSeherin on Pixabay"
+imageWidth: 1280
+imageHeight: 853
 ---
 
 In the fascinating world of biblical archaeology, researchers are tirelessly working to decipher the enigmatic inscriptions and artifacts left behind by ancient civilizations. Through the painstaking process of analyzing and interpreting these ancient messages, a window into the past is opened, shedding light on the mysteries of our religious history. , we will explore the captivating journey of decoding ancient inscriptions and unveiling the secrets that lie within, providing a deeper understanding of the rich tapestry that is biblical archaeology.

@@ -9,6 +9,8 @@ draft: false
 image: "/images/research/faith/exploring-the-ethical-issues-in-biblical-archaeology.jpg"
 imageAlt: "jerusalem, historic center, city wall, dome of the rock, western wall, temple mount, holy city, golden, israel, dome, building, houses, city, jerusalem, jerusalem, jerusalem, jerusalem, jerusalem, israel"
 imageCredit: "Image by Buecherwurm_65 on Pixabay"
+imageWidth: 1280
+imageHeight: 853
 ---
 
 In the intriguing world of Biblical Archaeology, numerous ethical dilemmas arise. As researchers strive to uncover and piece together ancient artifacts and sites mentioned in the Bible, they are confronted with a myriad of ethical considerations. This article will explore the underlying ethical issues that arise in the field of Biblical Archaeology, shedding light on the delicate balance between preserving the past and respecting the cultures and beliefs intertwined within it. From questions of ownership and looting to the potential manipulation of historical narratives, the ethical landscape of Biblical Archaeology is as fascinating as the discoveries themselves.

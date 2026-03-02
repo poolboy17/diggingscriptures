@@ -9,6 +9,8 @@ draft: false
 image: "/images/research/faith/purification-rites-an-examination-of-strict-washings-before-moving-the-ark.jpg"
 imageAlt: "church, cathedral, architecture, chapel, france, normandy, religion, faith, christianity, catholic, church, church, church, church, church, cathedral, cathedral, france, france, catholic"
 imageCredit: "Image by Tama66 on Pixabay"
+imageWidth: 1280
+imageHeight: 853
 ---
 
 What do you think of when you hear the term purification rites? Perhaps images of elaborate rituals or meticulous preparations come to mind. Now, envision this in the context of the Ark of the Covenanta sacred symbol in ancient Israelite culture, representing divine presence and guidance. Today, lets unpack the fascinating subject of purification rites, particularly the strict washings mandated before moving this significant artifact.

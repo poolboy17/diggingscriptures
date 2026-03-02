@@ -9,6 +9,8 @@ draft: false
 image: "/images/research/biblical-archaeology/what-is-the-difference-between-archeological-and-archaeological.jpg"
 imageAlt: "petra, ad deir, world heritage, sand stone, antique, historically, nature, archaeology, monument, culture, ad dayr, history, stones, sky, tourism, travel, vacations, middle east, jordan"
 imageCredit: "Image by ChiemSeherin on Pixabay"
+imageWidth: 1280
+imageHeight: 853
 ---
 
 In the domain of historical study, the distinction between 'archeological' and 'archaeological' can often puzzle even the most seasoned linguists. While the core meaning remains consistent, the subtle spelling variance has sparked debates among scholars and enthusiasts alike.

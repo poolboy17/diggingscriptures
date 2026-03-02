@@ -9,6 +9,8 @@ draft: false
 image: "/images/research/biblical-archaeology/cherubim-light-a-symbol-of-hope-and-authority-in-biblical-context.jpg"
 imageAlt: "museum, artifacts, antiquities, culture, history, vietnam, south east asia, antique statues, black and white, history, black and white, black and white, black and white, black and white, black and white"
 imageCredit: "Image by NguyenHoangThach on Pixabay"
+imageWidth: 1280
+imageHeight: 853
 ---
 
 Have you ever considered the role of symbols in conveying meaning and hope, especially within a biblical context? One of the most fascinating symbols is the cherubim, often depicted as a radiant light, representing both divine authority and hope. Lets unpack this intricate subject together, exploring its historical, theological, and cultural significance.

@@ -9,6 +9,8 @@ draft: false
 image: "/images/research/biblical-archaeology/what-techniques-do-archaeologists-use-to-survey.jpg"
 imageAlt: "masada national park, masada, the great revolt, roman siege ramp, cliff, desert, unesco heritage site, tourism, israel, palaces of king herod the great, nature, aerial view"
 imageCredit: "Image by samirsmier on Pixabay"
+imageWidth: 1280
+imageHeight: 720
 ---
 
 Imagine standing in a vast field, equipped with tools that can reveal hidden treasures beneath the surface. Archaeologists are akin to detectives, using a variety of techniques to uncover the secrets of ancient civilizations. From cutting-edge technologies like ground-penetrating radar to traditional methods such as fieldwalking, the arsenal of survey techniques is diverse and essential for piecing together the puzzle of our history.

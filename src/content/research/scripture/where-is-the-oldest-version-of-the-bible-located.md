@@ -9,6 +9,8 @@ draft: false
 image: "/images/research/scripture/where-is-the-oldest-version-of-the-bible-located.jpg"
 imageAlt: "books, library, read, shelves, shelf, reading, culture, book, edition, books, books, books, books, books, library, library, book, book"
 imageCredit: "Image by Marisa_Sias on Pixabay"
+imageWidth: 1280
+imageHeight: 720
 ---
 
 Nestled in the quiet confines of Saint Catherine's Monastery in the Sinai Peninsula lies a time-worn relic that holds the secrets of the ancient world.

@@ -9,6 +9,8 @@ draft: false
 image: "/images/research/scripture/what-is-the-difference-between-the-ethiopian-bible-and-the-bible.jpg"
 imageAlt: "to learn, read, a book, literature, old, old book, to study, school, training, middle ages, study, bound, historical, leather binding, writing, book pages, old book, old book, old book, old book, old book, middle ages"
 imageCredit: "Image by garten-gg on Pixabay"
+imageWidth: 1280
+imageHeight: 884
 ---
 
 Amidst the vast expanse of biblical knowledge, one may ponder: what truly sets the Ethiopian Bible apart from its widely known counterpart?

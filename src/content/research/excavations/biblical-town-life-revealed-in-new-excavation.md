@@ -9,6 +9,8 @@ draft: false
 image: "/images/research/excavations/biblical-town-life-revealed-in-new-excavation.jpg"
 imageAlt: "castle, travel, architecture, outdoors, daytime, medieval, hill, landmark, tower, military, fortification, scenic, landscape, ancient, building, fortress, sky, tree, nature, forest"
 imageCredit: "Image by Pexels on Pixabay"
+imageWidth: 1280
+imageHeight: 853
 ---
 
 Have you ever wondered what life was truly like in the towns of biblical times? Recent archaeological discoveries have unearthed fascinating insights that peel back the layers of history, shedding light on the day-to-day existence of ancient peoples. Through careful examination of these findings, a clearer picture emerges, allowing us to glimpse into a world long past. This article will explore the remarkable discoveries in a biblical town excavation, providing context, delving into the evidence uncovered, and discussing the broader significance of these findings for our understanding of history and scripture.

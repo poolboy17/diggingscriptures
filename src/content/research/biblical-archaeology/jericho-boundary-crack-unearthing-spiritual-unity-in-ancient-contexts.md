@@ -9,6 +9,8 @@ draft: false
 image: "/images/research/biblical-archaeology/jericho-boundary-crack-unearthing-spiritual-unity-in-ancient-contexts.jpg"
 imageAlt: "western wall, jerusalem, jews, pray, orthodox, holy, religious, western, wall, torah, temple, judaism, israel, jewish, religion, prayer, old, god, rock, east, stone, faith, hebrew, belief, judaic, spirituality, spiritual, architecture, traditional, city, synagogue, worship, wailing, ancient, people, sacred, brown city, brown wall, brown god, brown pray, brown rock, brown prayer, brown stone, western wall, jerusalem, jerusalem, jews, jews, judaism, judaism, israel, israel, israel, jewish, jewish, jewish, jewish, jewish"
 imageCredit: "Image by rliessum on Pixabay"
+imageWidth: 1280
+imageHeight: 960
 ---
 
 Have you ever wondered about the stories and ancient truths hidden in the cracks of our world? Lets talk about the Jericho Boundary Crack and how it relates to spiritual unity and the survival of communities through ancient contexts.

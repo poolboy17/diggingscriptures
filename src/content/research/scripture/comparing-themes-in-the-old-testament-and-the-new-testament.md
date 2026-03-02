@@ -9,6 +9,8 @@ draft: false
 image: "/images/research/scripture/comparing-themes-in-the-old-testament-and-the-new-testament.jpg"
 imageAlt: "desktop, laptop, crafts, still life, mockup, table, decoration, design, workspace, presents, gifts, laptop, laptop, laptop, laptop, laptop, workspace"
 imageCredit: "Image by rawpixel on Pixabay"
+imageWidth: 1280
+imageHeight: 916
 ---
 
 In "Comparing Themes in the Old Testament and the New Testament," Anita Love, a renowned expert in Christian theology and religious studies, offers valuable insights into the distinctive themes present in both Testaments of the Holy Bible. With her extensive academic background and deep knowledge of ancient biblical manuscripts, Love examines the contrasting core themes, literary genres, historical contexts, messianic prophecies, and the emphasis on law and covenant in each Testament. Through her nuanced perspective and recognition of the diverse beliefs within Christianity, Love presents a captivating exploration of the Old and New Testaments and their significance in contemporary religious understanding.

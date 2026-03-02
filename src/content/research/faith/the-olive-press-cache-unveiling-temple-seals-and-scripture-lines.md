@@ -9,6 +9,8 @@ draft: false
 image: "/images/research/faith/the-olive-press-cache-unveiling-temple-seals-and-scripture-lines.jpg"
 imageAlt: "church, monastery, architecture, st geronimo, granada, columns, religion, spirituality, cathedral, church, church, church, church, church, architecture, architecture, architecture, architecture, granada, granada, granada, religion, cathedral, cathedral, cathedral"
 imageCredit: "Image by ELG21 on Pixabay"
+imageWidth: 1280
+imageHeight: 853
 ---
 
 What if the secrets of the past could literally spring to life? Imagine unearthing artifacts that not only tell a story but also challenge what you thought you knew about history, theology, and culture. Sounds intriguing, right? Today, were going to talk about the Olive Press Cache. This fascinating discovery opens the door to Temple seals and scripture lines that could reshape our understanding of ancient texts and their significance.

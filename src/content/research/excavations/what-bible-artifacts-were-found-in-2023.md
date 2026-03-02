@@ -9,6 +9,8 @@ draft: false
 image: "/images/research/excavations/what-bible-artifacts-were-found-in-2023.jpg"
 imageAlt: "western wall, jerusalem, jews, pray, orthodox, holy, religious, western, wall, torah, temple, judaism, israel, jewish, religion, prayer, old, god, rock, east, stone, faith, hebrew, belief, judaic, spirituality, spiritual, architecture, traditional, city, synagogue, worship, wailing, ancient, people, sacred, brown city, brown wall, brown god, brown pray, brown rock, brown prayer, brown stone, western wall, jerusalem, jerusalem, jews, jews, judaism, judaism, israel, israel, israel, jewish, jewish, jewish, jewish, jewish"
 imageCredit: "Image by rliessum on Pixabay"
+imageWidth: 1280
+imageHeight: 960
 ---
 
 Within the domain of biblical archaeology, 2023 revealed a compelling array of ancient relics that shed light on historical mysteries. From the unearthing of ancient scrolls in the Judean Desert to the discovery of rare biblical coins in Galilee, the year held a trove of surprises.

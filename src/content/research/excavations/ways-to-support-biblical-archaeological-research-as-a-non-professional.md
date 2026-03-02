@@ -9,6 +9,8 @@ draft: false
 image: "/images/research/excavations/ways-to-support-biblical-archaeological-research-as-a-non-professional.jpg"
 imageAlt: "city, frankfurt, cityscape, skyscrapers, dusk, twilight, night, lights, aerial view, city, city, city, city, frankfurt, frankfurt, frankfurt, frankfurt, frankfurt"
 imageCredit: "Image by Bru-nO on Pixabay"
+imageWidth: 1280
+imageHeight: 853
 ---
 
 In the fascinating realm of Biblical Archaeological research, there are countless ways for non-professionals to contribute and support the uncovering of historical treasures. Whether you have a passion for ancient artifacts, a knack for fundraising, or simply a desire to be part of preserving our shared heritage, there are various avenues where you can lend a helping hand. From volunteering on excavation sites to supporting educational initiatives, this article explores the numerous ways individuals can play a vital role in advancing Biblical Archaeological research, even without professional training or expertise.

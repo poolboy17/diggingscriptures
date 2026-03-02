@@ -9,6 +9,8 @@ draft: false
 image: "/images/research/faith/tree-root-hollow-unveiling-the-ritual-freedoms-of-exile.jpg"
 imageAlt: "masjid prophetic, medina, religion, muslim, islam, architectural, hz, mohammed, the last prophet, architectural history"
 imageCredit: "Image by Konevi on Pixabay"
+imageWidth: 1280
+imageHeight: 853
 ---
 
 What do you imagine when you think of a hollowed tree root? Maybe you see it as a whimsical spot where fairies might gather to share secrets or perhaps a cozy nook for a weary traveler seeking solace. But what if I told you that this seemingly innocuous nature feature symbolizes far more than just whimsy? Its roots may actually intertwine with themes of exile, ritual freedom, and a link between the ancient and contemporary world. Let's embark on a conversation about "Tree Root Hollow: Unveiling the Ritual Freedoms of Exile."

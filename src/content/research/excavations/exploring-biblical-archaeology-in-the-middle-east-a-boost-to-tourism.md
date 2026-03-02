@@ -9,6 +9,8 @@ draft: false
 image: "/images/research/excavations/exploring-biblical-archaeology-in-the-middle-east-a-boost-to-tourism.jpg"
 imageAlt: "jerash, jordan, ruins, ancient, architecture, roman, archeology, pillar, historic, stone, column, brown stone, jerash, jerash, jordan, jordan, jordan, jordan, jordan"
 imageCredit: "Image by Graham-H on Pixabay"
+imageWidth: 1280
+imageHeight: 996
 ---
 
 Biblical archaeology in the Middle East has proven to be a significant boost to tourism in the region. With its rich historical significance and captivating discoveries, travelers from all around the world are flocking to witness firsthand the fascinating remnants of ancient civilizations. From the Holy Land to the ruins of ancient cities, each artifact and artifact has a story to tell, painting a vivid picture of the past and intriguing visitors with tales of religious and cultural significance. As tourists immerse themselves in these archaeological wonders, they not only gain a deeper appreciation for history but also contribute to the economic growth of the region's tourism industry.

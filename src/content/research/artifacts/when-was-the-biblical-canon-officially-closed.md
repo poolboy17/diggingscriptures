@@ -9,6 +9,8 @@ draft: false
 image: "/images/research/artifacts/when-was-the-biblical-canon-officially-closed.jpg"
 imageAlt: "globe, ink, rustic, still life, map, tusche indian ink, ancient, old, vintage, glass, light, table, wooden table, globe, globe, globe, globe, still life, map, map, map, map, map, ancient, ancient, ancient, old, vintage, vintage, vintage, vintage, light, table, table, table"
 imageCredit: "Image by Felix-Mittermeier on Pixabay"
+imageWidth: 1280
+imageHeight: 720
 ---
 
 Have you ever wondered about the exact moment when the biblical canon was officially closed? Understanding this concept can be pivotal in connecting the past with the theological and spiritual aspects of our current times and future studies.

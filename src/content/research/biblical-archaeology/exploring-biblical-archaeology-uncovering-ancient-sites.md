@@ -9,6 +9,8 @@ draft: false
 image: "/images/research/biblical-archaeology/exploring-biblical-archaeology-uncovering-ancient-sites.jpg"
 imageAlt: "parthenon, monument, temple, greece, athens, acropolis, greek architecture, history, ancient temple, travel, museum, columns, landmark, historic site, architecture, temple, greece, greece, greece, greece, greece, athens, athens, athens, history, museum"
 imageCredit: "Image by Nick115 on Pixabay"
+imageWidth: 1280
+imageHeight: 850
 ---
 
 In "Exploring Biblical Archaeology: Uncovering Ancient Sites," this article provides a captivating exploration of major biblical archaeology sites found across the world. From the majestic city of Petra in Jordan to the sacred Temple Mount in Jerusalem, these archaeological wonders offer a window into the ancient world of biblical times. Join us on a fascinating journey as we delve into the fascinating discoveries and untold stories waiting to be unearthed at these sacred sites.

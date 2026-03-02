@@ -9,6 +9,8 @@ draft: false
 image: "/images/research/excavations/ancient-jerusalem-marketplace-near-temple-unveiled.jpg"
 imageAlt: "city, frankfurt, cityscape, skyscrapers, dusk, twilight, night, lights, aerial view, city, city, city, city, frankfurt, frankfurt, frankfurt, frankfurt, frankfurt"
 imageCredit: "Image by Bru-nO on Pixabay"
+imageWidth: 1280
+imageHeight: 853
 ---
 
 Have you ever wondered what hidden stories lie beneath the ancient stones of Jerusalem? The recent archaeological unveiling of a marketplace near the Temple of Jerusalem offers us a window into the past, a discovery that enriches our understanding of this historic city. This marketplace is not just a relic of ancient commerce; it is a testament to the vibrant life that once pulsed through the heart of Jerusalem. With archaeological evidence and scholarly interpretations, we are offered new insights into the everyday life and cultural dynamics of biblical times. Let us journey through this remarkable discovery and explore its implications on our understanding of both historical and biblical narratives.

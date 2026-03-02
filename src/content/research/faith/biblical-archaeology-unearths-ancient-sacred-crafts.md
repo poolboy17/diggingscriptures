@@ -9,6 +9,8 @@ draft: false
 image: "/images/research/faith/biblical-archaeology-unearths-ancient-sacred-crafts.jpg"
 imageAlt: "mosaic, floor, tile, famous, antique, roman, italy, rome, museum"
 imageCredit: "Image by RGY23 on Pixabay"
+imageWidth: 1280
+imageHeight: 853
 ---
 
 Have you ever wondered how ancient civilizations fused their faith with craftsmanship in their daily lives? The study of biblical archaeology unveils how ancient sacred crafts are interwoven with religious practices and societal norms of biblical times. By examining archaeological discoveries, you explore the delicate art of crafting sacred objects, which reveal not only the ingenuity of ancient artisans but also the depth of spiritual expression prevalent in biblical societies. This article delves into these ancient crafts, weaving together threads of historical context, archaeological evidence, and their significance in both past and present contexts.

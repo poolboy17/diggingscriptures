@@ -9,6 +9,8 @@ draft: false
 image: "/images/research/excavations/dead-sea-scroll-cave-yields-revolutionary-new-testament-text.jpg"
 imageAlt: "architecture, old, stone, ancient, building, historic, antique, facade, exterior, ruins, heritage, vintage, tourism, architectural, town, structure, history, culture, wall, remains, monument, fort, golconda, historical, landmark, archeology, brown history, brown culture, fort, fort, fort, golconda, golconda, golconda, golconda, golconda"
 imageCredit: "Image by jeh6 on Pixabay"
+imageWidth: 1280
+imageHeight: 853
 ---
 
 Have you ever wondered what hidden treasures might still lie beneath the dusty surface of history, waiting to revolutionize our understanding of ancient texts? The sands of time have revealed yet another chapter in the enigmatic saga of the Dead Sea Scrolls. Unearthed in a previously undiscovered cave, this latest trove contains a groundbreaking New Testament text, promising to reshape biblical scholarship profoundly. This article will navigate the significance of this discovery, shedding light on its historical and archaeological impact while examining its modern implications for understanding scriptural authenticity and history.

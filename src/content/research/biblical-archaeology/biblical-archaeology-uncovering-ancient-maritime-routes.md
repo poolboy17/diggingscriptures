@@ -9,6 +9,8 @@ draft: false
 image: "/images/research/biblical-archaeology/biblical-archaeology-uncovering-ancient-maritime-routes.jpg"
 imageAlt: "temple, jupiter, roman, antique, column, architecture, ancient, stone, antiquity, baalbek, lebanon, brown stone, temple, temple, temple, roman, roman, roman, roman, ancient, ancient, lebanon, lebanon, lebanon, lebanon, lebanon"
 imageCredit: "Image by djedj on Pixabay"
+imageWidth: 1280
+imageHeight: 854
 ---
 
 In "Biblical Archaeology: Uncovering Ancient Maritime Routes," the fascinating realm of Biblical archaeology takes center stage as it explores the intricacies of ancient seafaring and navigation. Delving into the depths of the past, this article unveils the mysteries surrounding maritime routes that were traversed centuries ago. Transporting readers back in time, it highlights the importance of these ancient routes, offering a unique perspective on the profound impact they had on the world during their heyday.

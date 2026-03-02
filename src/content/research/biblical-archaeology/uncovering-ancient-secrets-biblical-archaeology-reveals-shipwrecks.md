@@ -9,6 +9,8 @@ draft: false
 image: "/images/research/biblical-archaeology/uncovering-ancient-secrets-biblical-archaeology-reveals-shipwrecks.jpg"
 imageAlt: "parthenon, monument, temple, greece, athens, acropolis, greek architecture, history, ancient temple, travel, museum, columns, landmark, historic site, architecture, temple, greece, greece, greece, greece, greece, athens, athens, athens, history, museum"
 imageCredit: "Image by Nick115 on Pixabay"
+imageWidth: 1280
+imageHeight: 850
 ---
 
 Uncovering Ancient Secrets: Biblical Archaeology Reveals Shipwrecks

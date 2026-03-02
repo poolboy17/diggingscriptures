@@ -9,6 +9,8 @@ draft: false
 image: "/images/research/excavations/unveiling-temple-mount-construction-methods.jpg"
 imageAlt: "cyprus, apollo hylates, sanctuary, ancient, greek, historic, mediterranean, architecture, archaeological, history, excavations, ruins, remains, archeology, civilization, 1st century ad, brown history"
 imageCredit: "Image by dimitrisvetsikas1969 on Pixabay"
+imageWidth: 1280
+imageHeight: 854
 ---
 
 Have you ever wondered how the ancient builders of the Temple Mount managed to construct such a monumental and enigmatic structure with the tools they had at their disposal? The methods behind the construction of the Temple Mount have intrigued historians, archaeologists, and enthusiasts for centuries.

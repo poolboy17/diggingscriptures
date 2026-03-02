@@ -9,6 +9,8 @@ draft: false
 image: "/images/research/biblical-archaeology/why-are-there-two-different-spellings-archaeology-and-archeology.jpg"
 imageAlt: "petra, ad deir, world heritage, sand stone, antique, historically, nature, archaeology, monument, culture, ad dayr, history, stones, sky, tourism, travel, vacations, middle east, jordan"
 imageCredit: "Image by ChiemSeherin on Pixabay"
+imageWidth: 1280
+imageHeight: 853
 ---
 
 One prevalent theory suggests that the divergence between 'archaeology' and 'archeology' stems from the historical influences of British versus American English. However, the reasoning behind this linguistic discrepancy runs deeper than mere geographical distinctions.

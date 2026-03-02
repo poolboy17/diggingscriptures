@@ -9,6 +9,8 @@ draft: false
 image: "/images/research/faith/first-temple-treasury-complex-unveiled.jpg"
 imageAlt: "church, monastery, architecture, st geronimo, granada, columns, religion, spirituality, cathedral, church, church, church, church, church, architecture, architecture, architecture, architecture, granada, granada, granada, religion, cathedral, cathedral, cathedral"
 imageCredit: "Image by ELG21 on Pixabay"
+imageWidth: 1280
+imageHeight: 853
 ---
 
 Have you ever wondered about the hidden treasures of the First Temple and what their discovery might reveal to us today?

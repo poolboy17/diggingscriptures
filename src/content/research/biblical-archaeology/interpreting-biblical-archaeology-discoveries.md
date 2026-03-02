@@ -9,6 +9,8 @@ draft: false
 image: "/images/research/biblical-archaeology/interpreting-biblical-archaeology-discoveries.jpg"
 imageAlt: "ancient, pottery, pots, clay, antique, art, artisan, artistic, brown, ceramic, crafts, culture, handcraft, handicraft, handmade, india, indian, pottery, pottery, pottery, clay, art, culture, india, india, india, india, india, indian"
 imageCredit: "Image by Pexels on Pixabay"
+imageWidth: 1280
+imageHeight: 853
 ---
 
 Exploring the fascinating world of Biblical Archaeology Discoveries reveals a wealth of information about the past through the study of Ancient artifacts. Delving into the **Historical context** surrounding these relics offers valuable insights into the customs and beliefs of ancient civilizations. 

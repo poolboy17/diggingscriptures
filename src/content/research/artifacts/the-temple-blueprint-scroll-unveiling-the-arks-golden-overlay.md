@@ -9,6 +9,8 @@ draft: false
 image: "/images/research/artifacts/the-temple-blueprint-scroll-unveiling-the-arks-golden-overlay.jpg"
 imageAlt: "jewellery, chain, pearl necklace, pearls, gold, necklace, glittering, jewelry pearls, jewellery, jewellery, jewellery, jewellery, jewellery, pearls, pearls, necklace, necklace"
 imageCredit: "Image by Sponchia on Pixabay"
+imageWidth: 1280
+imageHeight: 853
 ---
 
 Have you ever wondered about the true significance of the Ark of the Covenant and its golden overlay? This mysterious artifact, cloaked in biblical history and theological implications, evokes both curiosity and reverence.

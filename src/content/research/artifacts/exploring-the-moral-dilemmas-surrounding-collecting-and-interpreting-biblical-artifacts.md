@@ -9,6 +9,8 @@ draft: false
 image: "/images/research/artifacts/exploring-the-moral-dilemmas-surrounding-collecting-and-interpreting-biblical-artifacts.jpg"
 imageAlt: "chain, gold, human, girl, woman, person, close up, detail, person human"
 imageCredit: "Image by Pezibear on Pixabay"
+imageWidth: 1280
+imageHeight: 855
 ---
 
 In this thought-provoking article, the moral dilemmas surrounding the collection and interpretation of biblical artifacts are explored. Delving into the ethics of this practice, the author examines the complex issues that arise when it comes to acquiring and understanding these valuable historical objects. From questions about ownership and representation to the potential manipulation of religious narratives, this article sheds light on the fascinating and contentious world of biblical artifact collection and interpretation.

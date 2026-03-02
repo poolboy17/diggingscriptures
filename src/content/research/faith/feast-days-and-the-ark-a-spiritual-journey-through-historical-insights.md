@@ -9,6 +9,8 @@ draft: false
 image: "/images/research/faith/feast-days-and-the-ark-a-spiritual-journey-through-historical-insights.jpg"
 imageAlt: "baptism, candle, decoration, christianity, religious, cross, symbol, christian, celebration, sacred, faith, spirituality, catholic, religion, baptism, baptism, baptism, baptism, baptism"
 imageCredit: "Image by karoligraphics on Pixabay"
+imageWidth: 1280
+imageHeight: 853
 ---
 
 What do you think connects the grandeur of ancient rituals with the treasures of history? Imagine standing at the intersection where spiritual reverence meets archaeological discovery. This journey will take you through feast days marked in calendars and the legendary Ark of the Covenant, bringing together historical insights and modern interpretations. Lets dive into this rich tapestry of meaning and significance together.

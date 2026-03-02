@@ -9,6 +9,8 @@ draft: false
 image: "/images/research/faith/the-forbidden-cave-plateau-unearthing-war-time-prophecies-of-justice.jpg"
 imageAlt: "mosque, crowd, worship, mecca, islam, religion, kaaba, trip, architectural, city, qibla, tawaf, building, cami, mosque, mosque, mecca, islam, islam, islam, islam, islam, kaaba"
 imageCredit: "Image by Konevi on Pixabay"
+imageWidth: 1280
+imageHeight: 853
 ---
 
 What would you say if a cave whispered ancient secrets of justice and prophecy, beckoning you to unravel its mysteries?

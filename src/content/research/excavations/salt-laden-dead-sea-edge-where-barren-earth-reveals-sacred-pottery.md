@@ -9,6 +9,8 @@ draft: false
 image: "/images/research/excavations/salt-laden-dead-sea-edge-where-barren-earth-reveals-sacred-pottery.jpg"
 imageAlt: "masada national park, masada, the great revolt, roman siege ramp, cliff, desert, unesco heritage site, tourism, israel, palaces of king herod the great, nature, aerial view"
 imageCredit: "Image by samirsmier on Pixabay"
+imageWidth: 1280
+imageHeight: 720
 ---
 
 What would it feel like to stand on the edge of a body of water so unique that it doesn't support life? The Dead Sea, known for its high salt content and striking geographical features, is a place where the barren earth meets extraordinary history. As you wander along its shores, you might stumble upon remnants of the pastartifacts that tell stories of ancient civilizations, sacred rituals, and a culture long faded but not forgotten. This conversation explores how the salty expanse reveals secrets, particularly those found in pottery, illuminating a fascinating intersection of archaeology, theology, and culture.

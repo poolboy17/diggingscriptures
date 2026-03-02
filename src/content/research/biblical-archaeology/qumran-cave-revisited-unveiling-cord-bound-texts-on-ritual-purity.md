@@ -9,6 +9,8 @@ draft: false
 image: "/images/research/biblical-archaeology/qumran-cave-revisited-unveiling-cord-bound-texts-on-ritual-purity.jpg"
 imageAlt: "archaeology, excavation, sun sails, protection, sun protection, archaeological excavation, research, archaeological site, coast, landscape, mnajdra, malta, excavation, sun protection, research, archaeological site, mnajdra, mnajdra, mnajdra, mnajdra, mnajdra, malta, malta, malta, malta"
 imageCredit: "Image by Efraimstochter on Pixabay"
+imageWidth: 1280
+imageHeight: 960
 ---
 
 Have you ever stopped to ponder the mysteries hidden in ancient texts? The secrets they might reveal about rituals and beliefs of ages long past can be tantalizing. Among these fascinating discoveries are the Cord-Bound Texts found in Qumran, which shed light on the complexities of ritual purity. Lets pull back the curtain on these significant relics, unravel their stories, and explore their implications for our understanding of the ancient world.

@@ -9,6 +9,8 @@ draft: false
 image: "/images/research/faith/exciting-discoveries-await-biblical-archaeology-excavation-teams.jpg"
 imageAlt: "monk, pilgrimage, path, sunset, pilgrim, walk, road, enlightenment, tradition, culture, afternoon, nature, field, farm, landscape, rural, countryside, dusk"
 imageCredit: "Image by josealbafotos on Pixabay"
+imageWidth: 1280
+imageHeight: 854
 ---
 
 Embarking on archaeological expeditions delving into the realm of Biblical history, exploration teams anticipate unveiling extraordinary remnants that illuminate the past with their historical ruins. The excitement of unearthing **ancient artifacts** and **pottery shards** at **historical ruins** resonates with the thrill of discovery, providing a window into bygone civilizations and their cultural heritage. 

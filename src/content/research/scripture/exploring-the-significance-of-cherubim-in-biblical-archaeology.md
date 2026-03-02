@@ -9,6 +9,8 @@ draft: false
 image: "/images/research/scripture/exploring-the-significance-of-cherubim-in-biblical-archaeology.jpg"
 imageAlt: "scroll, feather, ink, caligraphy, hebrew, writing, characters, paper, papirus, old style, brown paper, brown writing, scroll, scroll, scroll, scroll, scroll, hebrew, hebrew"
 imageCredit: "Image by zofiaEliyahu on Pixabay"
+imageWidth: 1280
+imageHeight: 859
 ---
 
 What do you really know about cherubim beyond their cute depictions? In the realm of biblical archaeology, cherubim sit at the crossroads of theology, history, and art. You may have seen those adorable chubby figures floating around in various artworks claiming to be angels, but the truth goes way deeper. Lets unravel the mystery behind these fascinating figures and their significance.

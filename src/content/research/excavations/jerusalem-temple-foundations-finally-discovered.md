@@ -9,6 +9,8 @@ draft: false
 image: "/images/research/excavations/jerusalem-temple-foundations-finally-discovered.jpg"
 imageAlt: "workers, construction, excavation, dig, building, construction workers, helmet, safety vest, construction site, soil, construction, excavation, excavation, excavation, excavation, excavation, construction workers, construction workers, safety vest, safety vest, safety vest, safety vest, safety vest, construction site, construction site"
 imageCredit: "Image by planet_fox on Pixabay"
+imageWidth: 1280
+imageHeight: 853
 ---
 
 Have you ever wondered about the origins of one of the most significant sites in biblical history? Recent findings have brought to light the intriguing discovery of the Jerusalem Temple Foundations, a revelation that could redefine our understanding of this ancient, sacred site. This breakthrough not only confirms long-held biblical accounts but also enriches our comprehension of the ancient worlds complex narratives.

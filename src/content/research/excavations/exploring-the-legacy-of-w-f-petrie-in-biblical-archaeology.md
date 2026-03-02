@@ -9,6 +9,8 @@ draft: false
 image: "/images/research/excavations/exploring-the-legacy-of-w-f-petrie-in-biblical-archaeology.jpg"
 imageAlt: "cyprus, apollo hylates, sanctuary, ancient, greek, historic, mediterranean, architecture, archaeological, history, excavations, ruins, remains, archeology, civilization, 1st century ad, brown history"
 imageCredit: "Image by dimitrisvetsikas1969 on Pixabay"
+imageWidth: 1280
+imageHeight: 854
 ---
 
 In the world of biblical archaeology, the name W.F. Petrie holds significant weight. This article explores the enduring legacy of this renowned figure, delving into the contributions he made to the field. From his groundbreaking excavation techniques to his meticulous recording and analysis of artifacts, Petrie's impact on biblical archaeology continues to shape the way we understand ancient civilizations and their religious practices. By examining his methodologies and the discoveries he made throughout his career, we gain a deeper appreciation for the invaluable knowledge he has left behind.

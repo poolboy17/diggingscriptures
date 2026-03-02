@@ -9,6 +9,8 @@ draft: false
 image: "/images/research/biblical-archaeology/modern-insights-into-biblical-archaeology-discoveries.jpg"
 imageAlt: "pretty much, jerash, columns, roman, ancient, culture, story, historical, ruins, stone, jordan, tourism, to travel, middle east, jerash, jerash, jordan, jordan, jordan, jordan, jordan"
 imageCredit: "Image by ChiemSeherin on Pixabay"
+imageWidth: 1280
+imageHeight: 961
 ---
 
 Have you ever wondered how recent archaeological discoveries have provided deeper insights into the world depicted in biblical texts? The field of biblical archaeology offers a fascinating lens through which you can explore ancient civilizations and religious history. As researchers continue to unearth artifacts, they offer you new interpretations and confirmations of events portrayed in sacred scriptures.

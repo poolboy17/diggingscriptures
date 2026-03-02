@@ -9,6 +9,8 @@ draft: false
 image: "/images/research/faith/temple-mounts-hidden-tunnel-system-unveiled.jpg"
 imageAlt: "mosaic, mosaic tiles, floor, ancient, decorative, decoration, tile, geometric, old church, archaeology, ornament, euphrasian basilica, porec, mosaic, mosaic tiles, euphrasian basilica, porec, porec, porec, porec, porec"
 imageCredit: "Image by BiljaST on Pixabay"
+imageWidth: 1280
+imageHeight: 960
 ---
 
 Have you ever wondered about the mysteries lying beneath some of the world's most sacred sites? The Temple Mount's hidden tunnel system, shrouded in mystery for centuries, has now been unveiled, offering new insights and sparking discussions in both archaeological and theological circles. , you will be taken on a journey through this labyrinthine network that holds significant historical, religious, and cultural implications. Our exploration will delve into the monumental discovery itself, the compelling archaeological evidence that has been unearthed, and the profound significance it holds for understanding our shared history. Let's now turn our focus to the specifics of this incredible find.

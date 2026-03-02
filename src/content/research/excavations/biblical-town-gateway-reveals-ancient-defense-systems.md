@@ -9,6 +9,8 @@ draft: false
 image: "/images/research/excavations/biblical-town-gateway-reveals-ancient-defense-systems.jpg"
 imageAlt: "mining excavator, electric, bucket wheel excavator, walking excavator, moscow region, ladle, body, night, technique, construction, excavator, special equipment, tractor, building object, dig, industry, sand, construction site, wheels, laying, grader, master, workers, yellow, construction machinery, building, excavator digging, heavy machinery, playground, pipe, flashlight, construction, construction, construction, construction, construction, excavator, tractor, construction site, construction site"
 imageCredit: "Image by xusenru on Pixabay"
+imageWidth: 1280
+imageHeight: 853
 ---
 
 Have you ever wondered how ancient civilizations protected themselves against threats in turbulent times? The recent revelations of a Biblical town gateway have unveiled sophisticated ancient defense systems, opening a window into the past. This extraordinary archaeological discovery prompts a closer look at the inherent ingenuity of our ancestors who built elaborate fortifications to protect their societies. Today, we explore the origins of these protective structures, the evidence unearthed, and their significance in understanding biblical and historical narratives.

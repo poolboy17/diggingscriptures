@@ -9,6 +9,8 @@ draft: false
 image: "/images/research/scripture/what-is-the-oldest-archaeological-evidence-of-the-bible.jpg"
 imageAlt: "parchment, contract, paper, document, old, manuscript, retro, yellow, sheet, business, ancient, letter, ink, typewriter, history, certificate, vintage, education, scroll, text, typography, antique, diploma, university, school, degree, graduation, graduate, message, old school, communication, brown school, brown education, brown community, brown communication, brown letter, brown graduation, brown document, certificate, certificate, certificate, scroll, scroll, diploma, diploma, diploma, diploma, diploma"
 imageCredit: "Image by icame on Pixabay"
+imageWidth: 1280
+imageHeight: 853
 ---
 
 The quest for the oldest archaeological evidence of the Bible leads researchers on a fascinating journey through ancient artifacts and inscriptions that offer intriguing glimpses into the historical contexts of biblical narratives. From the enigmatic Merneptah Stele to the intriguing Tel Dan Inscription, these discoveries shed light on the intersection of archaeology and biblical accounts, sparking debates and shaping our understanding of the ancient world.

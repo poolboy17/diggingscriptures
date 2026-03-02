@@ -9,6 +9,8 @@ draft: false
 image: "/images/research/artifacts/was-the-bible-originally-oral-tradition-or-text.jpg"
 imageAlt: "morocco, city, historic, village, clay, old, nature, antique, ait-ben-haddou, arabic, town, arid, desert, brown city, brown desert, brown village, brown old"
 imageCredit: "Image by Walkerssk on Pixabay"
+imageWidth: 1280
+imageHeight: 719
 ---
 
 Have you ever wondered about the origins of the Bible? Was it originally passed down as oral tradition or was it immediately written as text? Understanding this is crucial as it sheds light on how we connect with what many consider a sacred text. I'm your guide on this exploration of biblical history, with insights grounded in my academic background: I hold a PhD in Theology and have spent years analyzing ancient religious texts. In 2025, as we delve into this question, it remains essential for scholars and readers alike to unravel how a pivotal part of human history has evolved over time.

@@ -9,6 +9,8 @@ draft: false
 image: "/images/research/excavations/unearthing-the-past-the-fascination-of-biblical-archaeology-in-tourism.jpg"
 imageAlt: "chichen itza, mexico, pyramid, milky way, night, mayans, archaeology, archaeological site, stars, starry sky, starry night, landmark, famous, places of interest, chichen itza, mexico, mexico, mexico, mexico, mexico, pyramid"
 imageCredit: "Image by Walkerssk on Pixabay"
+imageWidth: 1280
+imageHeight: 773
 ---
 
 Unearthing the Past: The Fascination of Biblical Archaeology in Tourism explores the captivating connection between Biblical archaeology and the booming tourism industry. This article delves into the profound influence these ancient discoveries have on travelers seeking to immerse themselves in the rich history and religious significance of the Holy Land. From excavations of ancient cities to the unveiling of artifacts, the exploration of Biblical archaeology has become an enthralling adventure for tourists around the world.

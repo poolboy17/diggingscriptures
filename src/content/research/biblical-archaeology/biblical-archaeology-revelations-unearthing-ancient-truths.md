@@ -9,6 +9,8 @@ draft: false
 image: "/images/research/biblical-archaeology/biblical-archaeology-revelations-unearthing-ancient-truths.jpg"
 imageAlt: "excavator, construction machine, two-way excavator, gripper, site, construction site, machinery, heavy machinery, excavator, excavator, excavator, excavator, excavator, construction site, construction site, construction site"
 imageCredit: "Image by Tama66 on Pixabay"
+imageWidth: 1280
+imageHeight: 954
 ---
 
 Exploring recent archaeological discoveries has provided us with a window into ancient truths, unveiling a hidden history waiting to be unearthed. As we delve into the remnants of past civilizations through **historical artifacts**, we gain valuable insights into their daily lives and beliefs. 

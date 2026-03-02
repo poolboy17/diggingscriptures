@@ -9,6 +9,8 @@ draft: false
 image: "/images/research/biblical-archaeology/biblical-archaeology-findings-shed-light-on-ancient-mysteries.jpg"
 imageAlt: "archaeology, archaeological dig, documenting, digging, research, archaeologist, digger, brown research, brown document, archaeology, archaeology, archaeologist, archaeologist, archaeologist, archaeologist, archaeologist"
 imageCredit: "Image by JamesDeMers on Pixabay"
+imageWidth: 1280
+imageHeight: 1165
 ---
 
 Unearthed during excavations are ancient artifacts that have intrigued experts for centuries, providing a fascinating glimpse into past civilizations. **Biblical discoveries** have provided valuable insights into ancient mysteries, shedding light on the customs, beliefs, and practices of our ancestors. 

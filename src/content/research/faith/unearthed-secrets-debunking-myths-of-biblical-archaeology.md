@@ -9,6 +9,8 @@ draft: false
 image: "/images/research/faith/unearthed-secrets-debunking-myths-of-biblical-archaeology.jpg"
 imageAlt: "western wall, jerusalem, jews, pray, orthodox, holy, religious, western, wall, torah, temple, judaism, israel, jewish, religion, prayer, old, god, rock, east, stone, faith, hebrew, belief, judaic, spirituality, spiritual, architecture, traditional, city, synagogue, worship, wailing, ancient, people, sacred, brown city, brown wall, brown god, brown pray, brown rock, brown prayer, brown stone, western wall, jerusalem, jerusalem, jews, jews, judaism, judaism, israel, israel, israel, jewish, jewish, jewish, jewish, jewish"
 imageCredit: "Image by rliessum on Pixabay"
+imageWidth: 1280
+imageHeight: 960
 ---
 
 In "Unearthed Secrets: Debunking Myths of Biblical Archaeology," readers are taken on a captivating journey that unravels long-held misconceptions and myths surrounding the field of biblical archaeology. Exploring the fascinating intersection between archaeology and the stories of the Bible, this article shines a friendly light on the archaeological discoveries that have transformed our understanding of ancient civilizations and religious texts. By delving into the diverse range of artifacts and sites, this article presents a fresh perspective that challenges preconceived notions and reveals the true treasures that lie beneath the surface.

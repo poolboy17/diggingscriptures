@@ -9,6 +9,8 @@ draft: false
 image: "/images/research/faith/masadas-charred-parchment-a-window-into-ancient-prayers-for-deliverance.jpg"
 imageAlt: "stained glass, window glass, church window, saint austremonius, saint stramonius, austromoine, church, cathedral, stained glass, stained glass, stained glass, stained glass, stained glass, church window, church, church, church, church, cathedral, cathedral"
 imageCredit: "Image by WikiImages on Pixabay"
+imageWidth: 1280
+imageHeight: 1257
 ---
 
 What would you do if you were staring death in the face, surrounded by enemies, with no light at the end of the tunnel? The residents of Masada, those ancient Jewish rebels, faced this exact situation in the first century CE. Their desperate prayers for deliverance and survival were not only a matter of faith but also reflections of a cultural heritage steeped in resilience and defiance. Among the remnants of their struggle lies the charred parchment that offers an intriguing glimpse into their spiritual lives.

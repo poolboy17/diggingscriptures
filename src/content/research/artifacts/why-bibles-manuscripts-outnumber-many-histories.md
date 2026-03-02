@@ -9,6 +9,8 @@ draft: false
 image: "/images/research/artifacts/why-bibles-manuscripts-outnumber-many-histories.jpg"
 imageAlt: "glasses, case, reading glasses, glasses case, optically, case, case, case, case, case, optically"
 imageCredit: "Image by HOerwin56 on Pixabay"
+imageWidth: 1280
+imageHeight: 804
 ---
 
 Have you ever wondered why the Bible's manuscripts seem to outnumber those of many other historical texts? This intriguing fact raises questions about the significance, distribution, and preservation of biblical texts through centuries. Perhaps you might wonder why the Bible has more existing manuscripts than any single work of classical antiquity. Exploring this subject requires not just historical insight but an understanding of why it remains relevant today.

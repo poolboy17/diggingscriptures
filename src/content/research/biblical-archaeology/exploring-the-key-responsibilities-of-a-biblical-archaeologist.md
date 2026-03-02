@@ -9,6 +9,8 @@ draft: false
 image: "/images/research/biblical-archaeology/exploring-the-key-responsibilities-of-a-biblical-archaeologist.jpg"
 imageAlt: "egypt, temple, hieroglyphics, pharaoh, egyptian temple, travel, statue, columns, pierre, story, nile, edfu, archaeologist, archaeology, archaeological excavations, archaeologist, archaeologist, archaeologist, archaeologist, archaeologist"
 imageCredit: "Image by NadineDoerle on Pixabay"
+imageWidth: 1280
+imageHeight: 850
 ---
 
 In the fascinating world of Biblical archaeology, individuals known as Biblical archaeologists play a crucial role in unearthing and understanding the remnants of civilizations past. Their responsibilities include uncovering ancient artifacts, deciphering inscriptions, and conducting meticulous research to shed light on the historical and cultural context of biblical events. Through their dedicated efforts, these experts bridge the gap between the sacred texts and the physical evidence, enriching our understanding of the stories and people of the Bible.

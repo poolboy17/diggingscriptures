@@ -9,6 +9,8 @@ draft: false
 image: "/images/research/biblical-archaeology/exploring-the-power-of-collaboration-in-biblical-archaeology-research.jpg"
 imageAlt: "petra, ad deir, world heritage, sand stone, antique, historically, nature, archaeology, monument, culture, ad dayr, history, stones, sky, tourism, travel, vacations, middle east, jordan"
 imageCredit: "Image by ChiemSeherin on Pixabay"
+imageWidth: 1280
+imageHeight: 853
 ---
 
 In the fascinating realm of Biblical archaeology research, the power of collaboration shines brightly as scholars from various disciplines and backgrounds come together to uncover the secrets of the past. Through this collaborative effort, the field has witnessed groundbreaking discoveries, transformative interpretations, and the revitalization of ancient stories. With each expert contributing their unique skill set and perspective, the exploration of biblical history becomes a dynamic and enriching journey, offering new insights and understanding for scholars and enthusiasts alike.

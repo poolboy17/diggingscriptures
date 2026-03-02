@@ -9,6 +9,8 @@ draft: false
 image: "/images/research/scripture/worship-in-the-old-and-new-testament.jpg"
 imageAlt: "calligraphy, story, ink, feather, a book, vintage, old, wood, fairy tale, author, writer, diary, story, story, story, story, author, author, writer, writer, writer, writer, writer, diary"
 imageCredit: "Image by Ghinzo on Pixabay"
+imageWidth: 1280
+imageHeight: 853
 ---
 
 In "Worship in the Old and New Testament," Anita Love, a renowned author and scholar in theology and religious studies, explores the practices and traditions of worship in biblical times. With a deep understanding of ancient manuscripts, cultural context, and the canonization process, Anita delves into the diverse nature of worship in both the Old and New Testaments. By analyzing passages and historical events, Anita sheds light on the contrasting themes, literary genres, historical backgrounds, messianic prophecies, and the shift from law to grace in worship practices throughout biblical history. Join Anita on this enlightening journey as she unravels the essence of worship in ancient times and its relevance to modern believers.

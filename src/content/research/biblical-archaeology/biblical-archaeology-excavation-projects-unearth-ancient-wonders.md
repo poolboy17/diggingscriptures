@@ -9,6 +9,8 @@ draft: false
 image: "/images/research/biblical-archaeology/biblical-archaeology-excavation-projects-unearth-ancient-wonders.jpg"
 imageAlt: "whitby abbey, dracula, bram stoker, haunted, ruin, moody, whitby, yorkshire, history, historic, gothic, landscape, grey, old, whitby, yorkshire, history, history, history, history, history, gothic"
 imageCredit: "Image by TimHill on Pixabay"
+imageWidth: 1280
+imageHeight: 720
 ---
 
 Delving into the realm of biblical archaeology, recent excavations in Jerusalem have brought to light remarkable treasures from the past. These significant findings offer valuable insights into the history of the region and provide a glimpse into the daily lives of ancient inhabitants. 

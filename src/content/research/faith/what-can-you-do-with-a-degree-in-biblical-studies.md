@@ -9,6 +9,8 @@ draft: false
 image: "/images/research/faith/what-can-you-do-with-a-degree-in-biblical-studies.jpg"
 imageAlt: "mosque, crowd, worship, mecca, islam, religion, kaaba, trip, architectural, city, qibla, tawaf, building, cami, mosque, mosque, mecca, islam, islam, islam, islam, islam, kaaba"
 imageCredit: "Image by Konevi on Pixabay"
+imageWidth: 1280
+imageHeight: 853
 ---
 
 With a degree in Biblical Studies, one can be likened to a skilled artisan with a versatile toolkit, capable of crafting a myriad of professional paths. The depth of knowledge and understanding acquired through such a degree offers a unique lens through which individuals can explore diverse career avenues.

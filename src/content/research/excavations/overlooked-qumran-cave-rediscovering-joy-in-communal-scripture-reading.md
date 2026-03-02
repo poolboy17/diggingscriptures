@@ -9,6 +9,8 @@ draft: false
 image: "/images/research/excavations/overlooked-qumran-cave-rediscovering-joy-in-communal-scripture-reading.jpg"
 imageAlt: "egyptian temple, historic site, structure, land lot, archaeological site, outdoor structure, mortuary temple, ancient history, facade, roof, history, brown history, egyptian temple, egyptian temple, egyptian temple, egyptian temple, egyptian temple"
 imageCredit: "Image by Wael-Ezz on Pixabay"
+imageWidth: 1280
+imageHeight: 853
 ---
 
 What comes to mind when you think of the Qumran Caves? Perhaps it's the whispers of ancient scrolls, the stories they've shared, or the quiet fortitude of those who gathered there. Qumran, nestled along the shores of the Dead Sea, isn't just an archaeological site; its a treasure trove of communal history and spiritual significance waiting to be unpacked. Let's unravel the nuances hidden within those weathered stones and engage with the essence of communal scripture reading that flourished in this fascinating place.

@@ -9,6 +9,8 @@ draft: false
 image: "/images/research/scripture/was-the-first-bible-found-in-ethiopia.jpg"
 imageAlt: "bible, book, highlighter, pages, text, open, open book, open bible, holy bible, bible reading, bible study, psalms, bible stories, bible, bible, bible, bible, bible, bible study"
 imageCredit: "Image by Pexels on Pixabay"
+imageWidth: 1280
+imageHeight: 961
 ---
 
 In the domain of ancient manuscripts, the Garima Gospels stand as a beacon of historical significance. The debate over whether the first Bible was found in Ethiopia has intrigued scholars and historians alike.

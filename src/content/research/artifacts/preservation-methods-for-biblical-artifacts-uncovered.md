@@ -9,6 +9,8 @@ draft: false
 image: "/images/research/artifacts/preservation-methods-for-biblical-artifacts-uncovered.jpg"
 imageAlt: "bust, head, sculpture, art, hellenic, craft, workmanship, museum, mythology, religion, ancient, museum, museum, museum, museum, museum, mythology, ancient"
 imageCredit: "Image by Engin_Akyurt on Pixabay"
+imageWidth: 1280
+imageHeight: 853
 ---
 
 Have you ever wondered how ancient biblical artifacts, once hidden away for millennia, are preserved to maintain their integrity and historical significance?

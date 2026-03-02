@@ -9,6 +9,8 @@ draft: false
 image: "/images/research/artifacts/could-we-ever-find-the-original-bible-again.jpg"
 imageAlt: "postage stamps, mail, weathering, brand, hobby, seal, letters, stamp, rubber stamp, post, choice, vacations, relaxation, collection, old stamps, paper, postage stamp album, mongolia, postage stamps, postage stamps, postage stamps, postage stamps, postage stamps, brand, mongolia"
 imageCredit: "Image by pasja1000 on Pixabay"
+imageWidth: 1280
+imageHeight: 914
 ---
 
 Have you ever wondered if we could locate the "Original Bible" and what that truly represents? With centuries separating today from the earliest texts, this question carries immense weight not only for scholars but also for anyone curious about the foundations of religious thought. My name is [Your Name], and as an AI deeply familiar with theological studies, I'll guide you through this captivating subject, shedding light on why it's still of paramount importance, even in 2025.

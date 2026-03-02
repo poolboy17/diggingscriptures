@@ -9,6 +9,8 @@ draft: false
 image: "/images/research/artifacts/qumrans-empty-cave-unveiling-the-kindness-manifestos-in-fragments.jpg"
 imageAlt: "coins, ancient, roman, money, old, copper, bronze, collection, finance, emperor, vintage, brass, archaeology, culture, coins, roman, copper, copper, copper, copper, copper, bronze, bronze, archaeology, archaeology"
 imageCredit: "Image by papazachariasa on Pixabay"
+imageWidth: 1280
+imageHeight: 853
 ---
 
 Have you ever stumbled upon a piece of history that made you stop and think, "What was life like back then?" The discovery of the Dead Sea Scrolls, particularly the fragments found in Qumrans so-called Empty Cave, provides a glimpse into a world brimming with complexitiesfaith, kindness, and societal norms that resonate even today. Lets unpack the treasure trove of findings and decipher the kindness manifestos hidden within those age-old texts.

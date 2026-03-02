@@ -9,6 +9,8 @@ draft: false
 image: "/images/research/biblical-archaeology/the-unearthing-of-ancient-temples-a-biblical-archaeological-expedition.jpg"
 imageAlt: "archaeology, excavation, sun sails, protection, sun protection, archaeological excavation, research, archaeological site, coast, landscape, mnajdra, malta, excavation, sun protection, research, archaeological site, mnajdra, mnajdra, mnajdra, mnajdra, mnajdra, malta, malta, malta, malta"
 imageCredit: "Image by Efraimstochter on Pixabay"
+imageWidth: 1280
+imageHeight: 960
 ---
 
 "The Unearthing of Ancient Temples: A Biblical Archaeological Expedition" takes readers on a captivating journey through time, as a team of archaeologists delves into the mysteries of ancient temples and ritual sites. This insightful article explores the fascinating world of biblical archaeology, shedding light on the methods used to excavate these historically significant sites. As the expedition uncovers hidden artifacts and unearths ancient structures, it paints a vivid picture of the rituals and beliefs of civilizations long gone. Join the adventure as the past comes to life through the lens of archaeology.

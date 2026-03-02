@@ -9,6 +9,8 @@ draft: false
 image: "/images/research/biblical-archaeology/jericho-alcove-unveiling-the-complexities-of-occupation-in-ancient-texts.jpg"
 imageAlt: "petra, ad deir, world heritage, sand stone, antique, historically, nature, archaeology, monument, culture, ad dayr, history, stones, sky, tourism, travel, vacations, middle east, jordan"
 imageCredit: "Image by ChiemSeherin on Pixabay"
+imageWidth: 1280
+imageHeight: 853
 ---
 
 When you think about ancient civilizations, what images come to mind? Is it the sprawling ruins of once-great cities, the mysterious artifacts left behind, or perhaps the stories etched in religious texts that tell tales of human experience? The ancient city of Jericho, one of the oldest continually inhabited places on earth, might just capture your imagination in a way few others can. Let's take a closer look at Jericho, specifically the intriguing complexities surrounding its occupation as unveiled in new manuscripts.

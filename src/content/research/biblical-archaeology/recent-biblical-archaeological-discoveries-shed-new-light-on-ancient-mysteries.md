@@ -9,6 +9,8 @@ draft: false
 image: "/images/research/biblical-archaeology/recent-biblical-archaeological-discoveries-shed-new-light-on-ancient-mysteries.jpg"
 imageAlt: "parthenon, monument, temple, greece, athens, acropolis, greek architecture, history, ancient temple, travel, museum, columns, landmark, historic site, architecture, temple, greece, greece, greece, greece, greece, athens, athens, athens, history, museum"
 imageCredit: "Image by Nick115 on Pixabay"
+imageWidth: 1280
+imageHeight: 850
 ---
 
 In the realm of archaeology, recent excavations have brought to light astonishing artifacts and structures that offer a captivating glimpse into the daily lives of ancient civilizations. Through the discovery of **ancient scrolls**, **religious relics**, **biblical manuscripts**, and other archaeological findings, historians and scholars have been presented with a wealth of new information that challenges previously held beliefs and sheds fresh light on age-old mysteries. 

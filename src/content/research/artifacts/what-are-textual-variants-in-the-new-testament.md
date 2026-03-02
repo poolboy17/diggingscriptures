@@ -9,6 +9,8 @@ draft: false
 image: "/images/research/artifacts/what-are-textual-variants-in-the-new-testament.jpg"
 imageAlt: "ancient, pottery, pots, clay, antique, art, artisan, artistic, brown, ceramic, crafts, culture, handcraft, handicraft, handmade, india, indian, pottery, pottery, pottery, clay, art, culture, india, india, india, india, india, indian"
 imageCredit: "Image by Pexels on Pixabay"
+imageWidth: 1280
+imageHeight: 853
 ---
 
 Have you ever wondered why there are different versions of the same text in biblical studieshow can a single testament have so many variations? If you're curious about textual variances in the New Testament and why they matter today, then you're in the right place to find answers.

@@ -9,6 +9,8 @@ draft: false
 image: "/images/research/excavations/exploring-the-significance-of-biblical-archaeology.jpg"
 imageAlt: "masada national park, masada, the great revolt, roman siege ramp, cliff, desert, unesco heritage site, tourism, israel, palaces of king herod the great, nature, aerial view"
 imageCredit: "Image by samirsmier on Pixabay"
+imageWidth: 1280
+imageHeight: 720
 ---
 
 In the fascinating world of biblical archaeology, the exploration of ancient artifacts and sites serves as a profound testament to the historical accuracy of biblical narratives. Through meticulous excavations and careful analysis, archaeologists have unearthed remarkable evidence that corroborates the stories and events described in the Bible. From the discovery of ancient cities and structures to the unearthing of ancient texts and inscriptions, the significance of biblical archaeology lies in its ability to provide tangible proof of the rich and diverse history contained within the pages of the Bible.

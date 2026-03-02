@@ -9,6 +9,8 @@ draft: false
 image: "/images/research/biblical-archaeology/unearthing-the-secrets-biblical-archaeology-reveals-ancient-burial-practices.jpg"
 imageAlt: "masada national park, masada, the great revolt, roman siege ramp, cliff, desert, unesco heritage site, tourism, israel, palaces of king herod the great, nature, aerial view"
 imageCredit: "Image by samirsmier on Pixabay"
+imageWidth: 1280
+imageHeight: 720
 ---
 
 Unearthing the ancient past has always fascinated humanity, offering glimpses into a lost world and shedding light on ancient customs and traditions. In the realm of biblical archaeology, a captivating journey awaits as researchers delve into the mysteries of burial practices in the ancient world. From religious rituals to intricate grave goods, the secrets hidden beneath layers of time are slowly emerging, unveiling a tapestry of humanity's reverence for the departed. With each discovery, ancient burial practices come to life, painting a vivid picture of ancient civilizations and their beliefs regarding death and the afterlife.

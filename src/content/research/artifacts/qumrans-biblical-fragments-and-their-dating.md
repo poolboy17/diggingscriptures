@@ -9,6 +9,8 @@ draft: false
 image: "/images/research/artifacts/qumrans-biblical-fragments-and-their-dating.jpg"
 imageAlt: "museum, artifacts, antiquities, culture, history, vietnam, south east asia, antique statues, black and white, history, black and white, black and white, black and white, black and white, black and white"
 imageCredit: "Image by NguyenHoangThach on Pixabay"
+imageWidth: 1280
+imageHeight: 853
 ---
 
 Have you ever wondered about the mysterious fragments of ancient biblical texts discovered at Qumran near the Dead Sea, and the methods used to date them? As a curious individual diving into the history of these fragments, understanding their significance and timing can open up a fascinating world of early religious and textual history. Im excited to bring you on this exploration, as someone with a PhD in Theology, weaving through the depths of this topic. So, why is this so important today, especially as we approach 2025?

@@ -9,6 +9,8 @@ draft: false
 image: "/images/research/biblical-archaeology/royal-seals-unearthed-from-the-first-temple-period.jpg"
 imageAlt: "jordan, petra, camels, dromedary, nature, desert, tourism"
 imageCredit: "Image by mikaelthunberg on Pixabay"
+imageWidth: 1280
+imageHeight: 854
 ---
 
 Have you ever wondered what artifacts lie beneath the sands of history and what stories they have to tell about ancient civilizations? In recent years, discoveries have illuminated our understanding of the First Temple Period, notably the unearthing of royal seals that shed light on the biblical era. These archaeological finds not only corroborate historical texts but also deepen our connection to a time shrouded in legend and lore.

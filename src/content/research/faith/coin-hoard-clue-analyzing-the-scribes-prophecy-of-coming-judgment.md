@@ -9,6 +9,8 @@ draft: false
 image: "/images/research/faith/coin-hoard-clue-analyzing-the-scribes-prophecy-of-coming-judgment.jpg"
 imageAlt: "temple of heaven, beijing, stairs, temple, landmark, historical, china, asia, old temple, architecture, steps, stairway, beijing, temple, china, china, china, china, china"
 imageCredit: "Image by jplenio on Pixabay"
+imageWidth: 1280
+imageHeight: 853
 ---
 
 What if the answers we seek about our past are wrapped in coins buried beneath layers of time? This thought doesnt just spark curiosity; it invites you to ponder the complex narratives spun by ancient civilizations and their artifacts. The findings today often lead us back to the pages of sacred texts, especially when it comes to prophecies, judgments, and the spiritual landscape of cultures that once thrived.

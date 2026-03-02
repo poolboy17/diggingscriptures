@@ -9,6 +9,8 @@ draft: false
 image: "/images/research/biblical-archaeology/unearthing-ancient-lineages-how-biblical-archaeologists-utilize-dna-analysis.jpg"
 imageAlt: "amman, jordan, city, urban, buildings, downtown, city life, architecture, landscape, amman, amman, amman, amman, jordan, jordan, jordan, jordan, jordan"
 imageCredit: "Image by Jonny_Joka on Pixabay"
+imageWidth: 1280
+imageHeight: 853
 ---
 
 Unearthing Ancient Lineages: How Biblical Archaeologists Utilize DNA Analysis

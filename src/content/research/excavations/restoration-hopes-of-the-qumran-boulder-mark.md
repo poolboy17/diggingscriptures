@@ -9,6 +9,8 @@ draft: false
 image: "/images/research/excavations/restoration-hopes-of-the-qumran-boulder-mark.jpg"
 imageAlt: "construction site, building, work, works, concrete, armed, cables, foundations, construction site, construction site, construction site, construction site, foundations, foundations, foundations, foundations, foundations"
 imageCredit: "Image by Mrdidg on Pixabay"
+imageWidth: 1280
+imageHeight: 853
 ---
 
 What secrets lie beneath the dust of the desert where ancient manuscripts once whispered their stories?
