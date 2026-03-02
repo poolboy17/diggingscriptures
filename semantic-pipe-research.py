@@ -22,7 +22,7 @@ from datetime import datetime
 from pathlib import Path
 from concurrent.futures import ThreadPoolExecutor, as_completed
 
-SPEC_VERSION = "DiggingScriptures-Research-2.0"
+SPEC_VERSION = "DiggingScriptures-Research-2.1"
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 RESEARCH_DIR = os.path.join(BASE_DIR, "src", "content", "research")
 AUDIT_LOG = os.path.join(BASE_DIR, "SEMANTIC-AUDIT-RESEARCH.md")
@@ -45,6 +45,7 @@ TOPIC_KEYWORDS = [
 ]
 
 BANNED_PHRASES = [
+    # Original v1.0 list
     "in this article", "in this post", "in this guide",
     "without further ado", "it goes without saying",
     "needless to say", "at the end of the day",
@@ -54,6 +55,10 @@ BANNED_PHRASES = [
     "buckle up", "dive in", "let's dive",
     "game changer", "game-changer",
     "you won't believe", "mind-blowing",
+    # v2.1 — synced from ARTICLE-WRITER-CONFIG.md banned list
+    "in conclusion", "furthermore",
+    "sacred duty", "spiritual awakening",
+    "unlock", "delve", "realm",
 ]
 
 BANNED_REPLACEMENTS = {
@@ -62,6 +67,9 @@ BANNED_REPLACEMENTS = {
     "needless to say": "",
     "it is important to note": "Notably",
     "it is worth noting": "Notably",
+    "in conclusion": "", "furthermore": "Additionally",
+    "sacred duty": "", "spiritual awakening": "",
+    "unlock": "reveal", "delve": "examine", "realm": "field",
 }
 
 
@@ -263,14 +271,14 @@ def fix_banned_phrases(body):
 # AEO HARDENING — Auto-inject FAQ + improve answer extractability
 # ═══════════════════════════════════════════════════════════════
 
-def generate_faq_from_title(title, category):
+def generate_faq_from_title(title, category, body=""):
     """
-    Generate 3 FAQ Q&A pairs from article title and category.
-    Uses pattern-matched templates seeded by the title's topic.
+    Generate 3 FAQ Q&A pairs from article title, category, AND body content.
+    v2.1: Extracts real facts from the article body to build specific answers.
+    Falls back to templates only when body extraction fails.
     """
     # Extract the core subject from the title
     subject = title
-    # Strip common prefixes
     for prefix in ['The ', 'A ', 'An ', 'How ', 'What ', 'Why ', 'When ', 'Where ', 'Who ']:
         if subject.startswith(prefix):
             subject = subject[len(prefix):]
@@ -285,43 +293,105 @@ def generate_faq_from_title(title, category):
     }
     field = category_labels.get(category, 'biblical research')
 
-    # Generate 3 question-answer templates based on patterns
+    # --- Extract real content from article body ---
+    plain = strip_markdown(body) if body else ""
+    sentences = re.split(r'(?<=[.!?])\s+', plain)
+    # Filter to substantive sentences (40-250 chars, contains a fact signal)
+    fact_sents = [s.strip() for s in sentences
+                  if 40 <= len(s.strip()) <= 250
+                  and re.search(r'\b(?:is|was|were|are|dates?|discovered|built|located|found|written|established|excavat|record)', s, re.I)]
+
+    # Extract specific entities, dates, and places from body
+    body_years = sorted({y for y in re.findall(r'\b([1-9]\d{2,3})\b', plain) if 100 <= int(y) <= 2030})
+    body_places = set()
+    for m in re.finditer(r'\b((?:Tel|Mount|Wadi|Sea of|Lake|Valley of|City of|Temple of|Church of)\s+[A-Z][a-z]+(?:\s+[A-Z][a-z]+)?)\b', plain):
+        body_places.add(m.group(1))
+    body_people = set()
+    for m in re.finditer(r'\b((?:King|Queen|Emperor|Prophet|Pharaoh|Rabbi|Bishop|Pope|Saint|Dr\.?|Professor)\s+[A-Z][a-z]+(?:\s+[A-Z][a-z]+)?)\b', plain):
+        body_people.add(m.group(1))
+
+    # Clean extracted sentences: strip trailing punctuation for clean joining
+    fact_sents = [re.sub(r'[.!?]+$', '', s).strip() for s in fact_sents]
+    # Filter out sentences that look like leaked section headings
+    fact_sents = [s for s in fact_sents if not re.match(r'^(Conclusion|Introduction|Summary|Overview|Background)\b', s)]
+
+    # Pick best fact sentences for answers (prefer ones with dates/names)
+    scored_sents = []
+    for s in fact_sents:
+        score = 0
+        if re.search(r'\b\d{3,4}\b', s): score += 2  # has a date
+        if re.search(r'\b[A-Z][a-z]+\s+[A-Z][a-z]+\b', s): score += 1  # has a name
+        if any(kw in s.lower() for kw in ['discover', 'excavat', 'found', 'built', 'inscription']): score += 1
+        scored_sents.append((score, s))
+    scored_sents.sort(key=lambda x: -x[0])
+    top_facts = [s for _, s in scored_sents[:6]]  # keep top 6 for picking from
+
+    # --- Build contextual detail strings ---
+    date_detail = ""
+    if body_years:
+        if len(body_years) >= 2:
+            date_detail = f", with key dates including {body_years[0]} and {body_years[-1]}"
+        else:
+            date_detail = f", dating to approximately {body_years[0]}"
+
+    place_detail = ""
+    if body_places:
+        plist = sorted(body_places)[:2]
+        place_detail = f" at {' and '.join(plist)}" if plist else ""
+
+    people_detail = ""
+    if body_people:
+        plist = sorted(body_people)[:2]
+        people_detail = f" Researchers such as {' and '.join(plist)} have contributed to this field."
+
     faqs = []
 
-    # Q1: "What is..." definitional question
+    # Q1: "What is..." definitional — use first strong fact sentence if available
+    a1_core = top_facts[0] if len(top_facts) > 0 else f"{title} is a significant topic within {field}"
     faqs.append({
         'q': f"What is the significance of {subject.lower()} in {field}?",
-        'a': f"{title} represents an important area of study within {field}. Scholars and researchers continue to examine the evidence surrounding this topic, drawing on archaeological findings, ancient texts, and historical records to deepen our understanding."
+        'a': f"{a1_core}{date_detail}. Scholars continue to study this subject, drawing on archaeological evidence, ancient texts, and historical analysis to refine our understanding of the ancient world."
     })
 
-    # Q2: "What evidence..." evidentiary question
+    # Q2: "What evidence..." — use evidence-related sentences
+    evidence_sents = [s for s in top_facts[1:4] if re.search(r'(?:discover|excavat|found|inscription|pottery|artifact|remains|evidence)', s, re.I)]
+    a2_core = evidence_sents[0] if evidence_sents else (top_facts[1] if len(top_facts) > 1 else f"Archaeological research related to {subject.lower()} includes material finds from excavation sites{place_detail}")
     faqs.append({
         'q': f"What archaeological evidence relates to {subject.lower()}?",
-        'a': f"Archaeological evidence related to {subject.lower()} includes material finds from excavation sites, inscriptions, pottery, and architectural remains. These physical discoveries help scholars evaluate historical claims and reconstruct the ancient context described in biblical and extra-biblical sources."
+        'a': f"{a2_core}. Physical discoveries including inscriptions, pottery, and architectural remains help scholars reconstruct the historical context.{people_detail}"
     })
 
-    # Q3: "Why does... matter" relevance question
+    # Q3: "Why does... matter" — use a broader significance sentence
+    significance_sents = [s for s in top_facts[2:6] if re.search(r'(?:important|significan|understand|reveal|shed light|context|interpret)', s, re.I)]
+    a3_core = significance_sents[0] if significance_sents else (top_facts[2] if len(top_facts) > 2 else f"Studying {subject.lower()} provides important historical context for interpreting biblical narratives")
     faqs.append({
         'q': f"Why does {subject.lower()} matter for understanding the Bible?",
-        'a': f"Understanding {subject.lower()} provides important context for interpreting biblical narratives. By examining the historical and archaeological background, readers gain a more grounded perspective on the people, places, and events described in scripture."
+        'a': f"{a3_core}. By examining the archaeological and historical background, readers gain a more grounded perspective on the people, places, and events described in scripture."
     })
 
     return faqs
 
 
-def harden_aeo(body, title, category):
+def harden_aeo(body, title, category, regen_faq=False):
     """
     AEO hardening pass. Injects a FAQ section at the end of articles
-    that don't already have one. Returns modified body and list of changes.
+    that don't already have one. With regen_faq=True, strips existing
+    FAQ and regenerates with body-aware content.
     """
     changes = []
 
-    # Skip if article already has a FAQ section
-    if re.search(r'^##\s+.*(?:FAQ|Frequently Asked|Common Questions)', body, re.MULTILINE | re.I):
+    existing_faq = re.search(r'^##\s+.*(?:FAQ|Frequently Asked|Common Questions)', body, re.MULTILINE | re.I)
+    if existing_faq and not regen_faq:
         return body, changes
 
-    # Generate FAQ
-    faqs = generate_faq_from_title(title, category)
+    # Strip existing FAQ section if regenerating
+    if existing_faq and regen_faq:
+        faq_start = existing_faq.start()
+        body = body[:faq_start].rstrip() + '\n'
+        changes.append("Stripped old FAQ for regeneration")
+
+    # Generate FAQ — pass body for content-aware answers
+    faqs = generate_faq_from_title(title, category, body)
 
     # Build markdown FAQ section
     faq_md = "\n\n## Frequently Asked Questions\n"
@@ -331,6 +401,75 @@ def harden_aeo(body, title, category):
     # Append to body
     body = body.rstrip() + faq_md + "\n"
     changes.append("Injected FAQ section (3 Q&A pairs)")
+
+    return body, changes
+
+
+def harden_opener(body, title, category):
+    """
+    AEO opener hardening. Rewrites weak opening paragraphs to start with
+    a definitional/factual sentence. Only touches articles where the first
+    sentence lacks a definitional verb (is, was, are, refers to, dates to, etc.).
+    """
+    changes = []
+
+    # Find the first real paragraph (skip blank lines after frontmatter)
+    lines = body.split('\n')
+    first_para_start = -1
+    first_para_end = -1
+    in_para = False
+    for i, line in enumerate(lines):
+        stripped = line.strip()
+        # Skip headings, images, blank lines, HTML
+        if not stripped or stripped.startswith('#') or stripped.startswith('!') or stripped.startswith('<'):
+            if in_para:
+                first_para_end = i
+                break
+            continue
+        if not in_para:
+            first_para_start = i
+            in_para = True
+    if first_para_start == -1:
+        return body, changes
+    if first_para_end == -1:
+        first_para_end = first_para_start + 1
+
+    first_para = ' '.join(lines[first_para_start:first_para_end]).strip()
+
+    # Check if first sentence already has a definitional verb
+    first_sent_match = re.match(r'^(.+?[.!?])\s', first_para + ' ')
+    if not first_sent_match:
+        return body, changes
+    first_sent = first_sent_match.group(1)
+
+    definitional = re.search(
+        r'\b(?:is|was|are|were|refers?\s+to|dates?\s+to|represents?|denotes?|describes?|constitutes?|encompasses)\b',
+        first_sent, re.I
+    )
+    if definitional:
+        return body, changes  # Already strong
+
+    # --- Build a definitional opener from the title ---
+    subject = title
+    for prefix in ['The ', 'A ', 'An ']:
+        if subject.startswith(prefix):
+            subject = subject[len(prefix):]
+            break
+
+    category_openers = {
+        'biblical-archaeology': f'{title} is a topic in biblical archaeology that connects ancient material evidence with scriptual narratives.',
+        'scripture': f'{title} refers to a subject within biblical manuscript studies that scholars continue to investigate.',
+        'excavations': f'{title} is an area of archaeological investigation that has yielded significant findings about the ancient world.',
+        'artifacts': f'{title} refers to ancient material remains that provide physical evidence for understanding biblical history.',
+        'faith': f'{title} is a theological subject that explores the intersection of faith traditions and historical evidence.',
+    }
+    new_opener = category_openers.get(category,
+        f'{title} is a subject within biblical research that draws on archaeological and textual evidence.')
+
+    # Prepend the definitional sentence, keep the original paragraph
+    lines.insert(first_para_start, new_opener + '\n')
+    body = '\n'.join(lines)
+    changes.append("Hardened opener (prepended definitional sentence)")
 
     return body, changes
 
@@ -570,7 +709,7 @@ def load_inventory():
 
 
 # ── Core Optimizer (v2.0 with multi-layer scoring) ──────────
-def optimize_article(slug, data, dry_run=False, show_diff=False, audit_only=False, aeo_harden=False):
+def optimize_article(slug, data, dry_run=False, show_diff=False, audit_only=False, aeo_harden=False, fix_openers=False, regen_faq=False):
     filepath = data['filepath']
     category = data['category']
     fm = copy.deepcopy(data['fm'])
@@ -596,10 +735,15 @@ def optimize_article(slug, data, dry_run=False, show_diff=False, audit_only=Fals
         body, bc = fix_banned_phrases(body)
         changes.extend(bc)
 
-        # 4. AEO hardening — inject FAQ section if missing
-        if aeo_harden:
-            body, ac = harden_aeo(body, fm.get('title', ''), category)
+        # 4. AEO hardening — inject FAQ section if missing (or regen existing)
+        if aeo_harden or regen_faq:
+            body, ac = harden_aeo(body, fm.get('title', ''), category, regen_faq=regen_faq)
             changes.extend(ac)
+
+        # 5. Opener hardening — prepend definitional sentence if weak
+        if fix_openers:
+            body, oc = harden_opener(body, fm.get('title', ''), category)
+            changes.extend(oc)
 
     # 5. Legacy semantic scores
     plain = strip_markdown(body)
@@ -636,8 +780,8 @@ def optimize_article(slug, data, dry_run=False, show_diff=False, audit_only=Fals
 
     # Save
     save_frontmatter(filepath, fm)
-    # Write body changes (banned phrase removal, FAQ injection, etc.)
-    body_changed = any(('Removed' in c or 'Injected' in c) for c in changes)
+    # Write body changes — detect ANY body modification (not just specific keywords)
+    body_changed = (body != data['body'])
     if body_changed:
         with open(filepath, "r", encoding="utf-8") as f:
             raw = f.read()
@@ -665,11 +809,13 @@ def optimize_article(slug, data, dry_run=False, show_diff=False, audit_only=Fals
 
 
 # ── Pipeline Runner (v2.0 with grade distribution) ──────────
-def run_pipeline(slugs, articles, threads=4, dry_run=False, show_diff=False, audit_only=False, aeo_harden=False):
+def run_pipeline(slugs, articles, threads=4, dry_run=False, show_diff=False, audit_only=False, aeo_harden=False, fix_openers=False, regen_faq=False):
     print(f"\n{'='*70}")
-    print(f"SemanticPipe v2.0 — Research Edition")
+    print(f"SemanticPipe v2.1 — Research Edition")
     mode = 'AUDIT' if audit_only else 'DRY' if dry_run else 'LIVE'
     if aeo_harden: mode += '+AEO'
+    if fix_openers: mode += '+OPENER'
+    if regen_faq: mode += '+REGEN_FAQ'
     print(f"Articles: {len(slugs)} | Threads: {threads} | Mode: {mode}")
     print(f"{'='*70}\n")
 
@@ -678,7 +824,7 @@ def run_pipeline(slugs, articles, threads=4, dry_run=False, show_diff=False, aud
 
     def process(slug):
         try:
-            return optimize_article(slug, articles[slug], dry_run, show_diff, audit_only, aeo_harden)
+            return optimize_article(slug, articles[slug], dry_run, show_diff, audit_only, aeo_harden, fix_openers, regen_faq)
         except Exception as e:
             return {'slug': slug, 'status': 'ERROR', 'error': str(e), 'changes': [],
                     'grade': {'grade': '?', 'pct': 0}}
@@ -786,6 +932,8 @@ def main():
     parser.add_argument('--dry-run', action='store_true', help='Preview without saving')
     parser.add_argument('--audit-only', action='store_true', help='Score only, no changes')
     parser.add_argument('--aeo-harden', action='store_true', help='Inject FAQ sections for AEO')
+    parser.add_argument('--fix-openers', action='store_true', help='Harden weak opening paragraphs')
+    parser.add_argument('--regen-faq', action='store_true', help='Strip and regenerate all FAQ sections with body-aware content')
     parser.add_argument('--all', action='store_true', help='Process all articles')
     parser.add_argument('--force', action='store_true', help='Re-optimize everything')
     parser.add_argument('--diff', action='store_true', help='Show before/after')
@@ -826,7 +974,8 @@ def main():
 
     run_pipeline(slugs, articles, threads=args.threads,
                  dry_run=args.dry_run, show_diff=args.diff,
-                 audit_only=args.audit_only, aeo_harden=args.aeo_harden)
+                 audit_only=args.audit_only, aeo_harden=args.aeo_harden,
+                 fix_openers=args.fix_openers, regen_faq=args.regen_faq)
 
 if __name__ == '__main__':
     main()
