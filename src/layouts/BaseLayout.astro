@@ -25,12 +25,15 @@ interface Props {
     description: string;
     schema?: Record<string, any>;
     breadcrumbs?: { name: string; url: string }[];
+    ogImage?: string;
 }
 
-const { title, description, schema, breadcrumbs } = Astro.props;
+const { title, description, schema, breadcrumbs, ogImage: customOgImage } = Astro.props;
 const siteUrl = 'https://diggingscriptures.com';
 const canonicalUrl = `${siteUrl}${Astro.url.pathname}`;
-const ogImage = `${siteUrl}/images/og-default.jpg`;
+const ogImage = customOgImage
+    ? (customOgImage.startsWith('http') ? customOgImage : `${siteUrl}${customOgImage}`)
+    : `${siteUrl}/images/og-default.jpg`;
 
 // Build WebSite schema (global on every page)
 const websiteSchema = {

@@ -1,0 +1,70 @@
+---
+/**
+ * ABOUT PAGE — E-E-A-T Authority Signal
+ * Establishes expertise, experience, authoritativeness, and trustworthiness
+ * for both traditional search engines and AI citation engines.
+ */
+import BaseLayout from '../layouts/BaseLayout.astro';
+
+const aboutSchema = {
+    "@context": "https://schema.org",
+    "@type": "AboutPage",
+    "name": "About Digging Scriptures",
+    "url": "https://diggingscriptures.com/about",
+    "mainEntity": {
+        "@type": "Organization",
+        "name": "Digging Scriptures",
+        "url": "https://diggingscriptures.com",
+        "description": "Biblical archaeology research platform exploring scripture through excavations, artifacts, and faith-based scholarship.",
+        "sameAs": [],
+        "knowsAbout": [
+            "Biblical Archaeology",
+            "Ancient Near Eastern Studies",
+            "Dead Sea Scrolls",
+            "Archaeological Excavations",
+            "Scripture Studies",
+            "Sacred Sites and Pilgrimage",
+            "Ancient Artifacts and Inscriptions"
+        ],
+    },
+};
+---
+
+<BaseLayout
+    title="About Digging Scriptures — Biblical Archaeology Research"
+    description="Learn about Digging Scriptures, a research platform dedicated to exploring biblical history through archaeology, excavations, ancient artifacts, and scripture studies."
+    schema={aboutSchema}
+    breadcrumbs={[
+        { name: 'Home', url: '/' },
+        { name: 'About', url: '/about' },
+    ]}
+>
+    <article class="section">
+        <div class="container">
+            <header class="mb-10">
+                <h1 class="mb-4">About Digging Scriptures</h1>
+                <p class="text-lg text-text-muted leading-relaxed">Exploring biblical history through archaeology, ancient texts, and faith-based scholarship.</p>
+            </header>
+
+            <section class="content">
+                <h2>Our Mission</h2>
+                <p>Digging Scriptures is a research platform dedicated to making biblical archaeology accessible to curious minds everywhere. We bridge the gap between academic scholarship and everyday readers, presenting archaeological evidence, excavation reports, ancient artifacts, and scripture studies in clear, engaging language.</p>
+
+                <p>Our library of over 680 research articles spans five core disciplines: biblical archaeology, excavations and sites, scripture studies, artifacts and discoveries, and faith and theology. Each article draws on published scholarship, excavation reports, and primary sources to provide well-grounded perspectives on the ancient world behind the Bible.</p>
+
+                <h2>What We Cover</h2>
+                <p>Our research spans the full landscape of biblical archaeology and related fields. In <strong>Biblical Archaeology</strong>, we examine how modern archaeological methods illuminate the people, places, and events described in scripture. Our <strong>Excavations &amp; Sites</strong> coverage tracks active and historic digs across Israel, Jordan, Egypt, Turkey, and the broader ancient Near East. <strong>Scripture Studies</strong> explores the manuscripts, translations, and textual traditions that preserve the biblical record. <strong>Artifacts &amp; Discoveries</strong> highlights the inscriptions, pottery, seals, and objects that connect us to the ancient world. And our <strong>Faith &amp; Theology</strong> section explores how archaeological evidence intersects with theological understanding.</p>
+
+                <p>Beyond research, we also document <a href="/journeys">pilgrimage traditions</a>, <a href="/places">sacred places</a>, <a href="/routes">historic routes</a>, and the <a href="/stories">stories</a> and <a href="/context">cultural context</a> that shape how people have experienced these sites for millennia.</p>
+
+                <h2>Our Editorial Approach</h2>
+                <p>Every article on Digging Scriptures follows a consistent editorial standard. We cite published excavation reports, peer-reviewed journals, and recognized scholarly works. We distinguish clearly between established findings and scholarly debate. We present multiple perspectives where the evidence is contested, and we update articles as new discoveries emerge.</p>
+
+                <p>Our content is organized using a hub-and-spoke architecture, with category hubs providing topical overviews and individual articles exploring specific subjects in depth. This structure helps readers navigate complex topics systematically and helps search engines and AI systems understand the relationships between our content.</p>
+
+                <h2>Contact</h2>
+                <p>Questions, corrections, or collaboration inquiries are welcome. Reach us through our <a href="/contact">contact page</a>.</p>
+            </section>
+        </div>
+    </article>
+</BaseLayout>

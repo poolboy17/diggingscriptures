@@ -29,6 +29,7 @@ const { title, description, category, pubDate, image, imageAlt, imageCredit, ima
 
 const imgW = imageWidth || 1280;
 const imgH = imageHeight || 853;
+const siteUrl = 'https://diggingscriptures.com';
 
 const categoryLabels: Record<string, string> = {
     'biblical-archaeology': 'Biblical Archaeology',
@@ -37,9 +38,47 @@ const categoryLabels: Record<string, string> = {
     'artifacts': 'Artifacts & Discoveries',
     'faith': 'Faith & Theology',
 };
+
+// Article JSON-LD for GEO/AEO — helps AI engines cite this content
+const articleSchema = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": title,
+    "description": description,
+    "author": {
+        "@type": "Organization",
+        "name": "Digging Scriptures",
+        "url": siteUrl,
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Digging Scriptures",
+        "url": siteUrl,
+        "logo": {
+            "@type": "ImageObject",
+            "url": `${siteUrl}/favicon.svg`,
+        },
+    },
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": `${siteUrl}${Astro.url.pathname}`,
+    },
+    "articleSection": categoryLabels[category] || category,
+    ...(pubDate && { "datePublished": pubDate.toISOString() }),
+    ...(pubDate && { "dateModified": pubDate.toISOString() }),
+    ...(image && {
+        "image": {
+            "@type": "ImageObject",
+            "url": image.startsWith('http') ? image : `${siteUrl}${image}`,
+            "width": imgW,
+            "height": imgH,
+            ...(imageAlt && { "caption": imageAlt }),
+        },
+    }),
+};
 ---
 
-<BaseLayout title={title} description={description} breadcrumbs={[
+<BaseLayout title={title} description={description} schema={articleSchema} ogImage={image} breadcrumbs={[
     { name: 'Home', url: '/' },
     { name: 'Research', url: '/research' },
     { name: categoryLabels[category] || category, url: `/research/${category}` },

@@ -1,12 +1,19 @@
 #!/usr/bin/env python3
 """
-SemanticPipe — Research Edition
+SemanticPipe — Research Edition v2.0
 Optimizes title, description, banned phrases, and computes semantic scores
-for the 698 /research/ articles (biblical archaeology content).
+for the 680 /research/ articles (biblical archaeology content).
+
+v2.0 additions:
+  - GEO (Generative Engine Optimization) scoring
+  - AEO (Answer Engine Optimization) scoring
+  - SXO (Search Experience Optimization) scoring
+  - Combined multi-layer quality grade (A/B/C/D/F)
 
 Usage:
   python semantic-pipe-research.py --all --force         # Optimize all
   python semantic-pipe-research.py --all --diff          # Preview changes
+  python semantic-pipe-research.py --audit-only          # Score without changing
   python semantic-pipe-research.py --chunk 0 --chunks 4  # Process chunk 0 of 4
 """
 
@@ -15,7 +22,7 @@ from datetime import datetime
 from pathlib import Path
 from concurrent.futures import ThreadPoolExecutor, as_completed
 
-SPEC_VERSION = "DiggingScriptures-Research-1.0"
+SPEC_VERSION = "DiggingScriptures-Research-2.0"
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 RESEARCH_DIR = os.path.join(BASE_DIR, "src", "content", "research")
 AUDIT_LOG = os.path.join(BASE_DIR, "SEMANTIC-AUDIT-RESEARCH.md")
@@ -24,7 +31,7 @@ audit_lock = threading.Lock()
 
 CATEGORIES = ["biblical-archaeology", "scripture", "excavations", "artifacts", "faith"]
 
-# Archaeology / biblical studies keywords (replaces pilgrimage keywords)
+# Archaeology / biblical studies keywords
 TOPIC_KEYWORDS = [
     "archaeology", "archaeological", "archaeologist", "excavation", "excavate",
     "artifact", "artefact", "ancient", "biblical", "bible", "scripture",
@@ -58,7 +65,7 @@ BANNED_REPLACEMENTS = {
 }
 
 
-# ── YAML Frontmatter Parser (same as original) ──────────────
+# ── YAML Frontmatter Parser ─────────────────────────────────
 def parse_frontmatter(filepath):
     with open(filepath, "r", encoding="utf-8") as f:
         raw = f.read()
@@ -120,6 +127,7 @@ def save_frontmatter(filepath, fm):
     with open(filepath, "w", encoding="utf-8") as f:
         f.write(result)
 
+
 # ── Text Utilities ──────────────────────────────────────────
 def strip_markdown(text):
     text = re.sub(r'<[^>]+>', '', text)
@@ -136,6 +144,16 @@ def count_words(body):
 def get_h2s(body):
     return re.findall(r'^##\s+(.+)$', body, re.MULTILINE)
 
+def get_h3s(body):
+    return re.findall(r'^###\s+(.+)$', body, re.MULTILINE)
+
+def get_internal_links(body):
+    return re.findall(r'\]\((/[^)]+)\)', body)
+
+def get_paragraphs(body):
+    plain = strip_markdown(body)
+    return [p.strip() for p in plain.split('\n\n') if len(p.strip()) > 30]
+
 
 # ── Title Optimizer (archaeology-tuned) ─────────────────────
 def has_topic_keyword(title):
@@ -145,14 +163,11 @@ def has_topic_keyword(title):
 def optimize_title(title, category):
     changes = []
     original = title
-    # Fix title casing: "BeginnerS" -> "Beginner's", etc
-    title = re.sub(r'(\w)S\b', r"\1's", title)  # Fix possessive S artifacts
-    # Already good?
+    title = re.sub(r'(\w)S\b', r"\1's", title)
     if 30 <= len(title) <= 65 and has_topic_keyword(title):
         if title != original:
             changes.append(f"Title fix: '{original[:40]}' -> '{title[:40]}'")
         return title, changes
-    # Too long — trim at word boundary
     if len(title) > 65:
         truncated = title[:65]
         last_space = truncated.rfind(' ')
@@ -160,7 +175,6 @@ def optimize_title(title, category):
             title = truncated[:last_space]
         else:
             title = truncated[:64]
-    # Too short — enrich with category suffix
     if len(title) < 30:
         suffix_map = {
             "biblical-archaeology": "Biblical Archaeology",
@@ -184,7 +198,6 @@ def optimize_description(desc, category, body=""):
     original = desc
     if 120 <= len(desc) <= 155:
         return desc, changes
-    # Too long
     if len(desc) > 155:
         t = desc[:155]
         lp = t.rfind('.')
@@ -193,7 +206,6 @@ def optimize_description(desc, category, body=""):
         else:
             ls = t.rfind(' ')
             desc = t[:ls].rstrip(',;:') + '.' if ls > 100 else t[:154] + '.'
-    # Too short — enrich from body
     if len(desc) < 120 and body:
         plain = strip_markdown(body)
         paragraphs = [p.strip() for p in plain.split('\n\n') if len(p.strip()) > 80]
@@ -213,7 +225,6 @@ def optimize_description(desc, category, body=""):
                     if ls > 120:
                         desc = trimmed[:ls].rstrip('.,;:') + '.'
                     break
-    # Still short — pad with category-specific text
     if len(desc) < 120:
         pad_map = {
             "biblical-archaeology": " Explore archaeological evidence, methods, and discoveries that illuminate biblical history.",
@@ -247,10 +258,195 @@ def fix_banned_phrases(body):
             changes.append(f"Removed '{phrase}'")
     return body, changes
 
-# ── Semantic Score Computer ─────────────────────────────────
+
+# ═══════════════════════════════════════════════════════════════
+# v2.0 — MULTI-LAYER QUALITY SCORING (GEO / AEO / SXO)
+# ═══════════════════════════════════════════════════════════════
+
+def score_geo(body, plain, fm, wc):
+    """
+    GEO — Generative Engine Optimization
+    Measures how well AI systems can extract, attribute, and cite this content.
+    Factors: entity density, source references, structured claims, unique data.
+    """
+    score = 0
+    details = []
+
+    # 1. Named entities (people, places, orgs) — AI citation anchors
+    entities = set()
+    for m in re.finditer(r'\b([A-Z][a-z]+(?:\s+(?:of|the|and))?\s+[A-Z][a-z]+(?:\s+[A-Z][a-z]+)?)\b', plain):
+        entities.add(m.group(1))
+    e_count = len(entities)
+    if e_count >= 10: score += 3
+    elif e_count >= 5: score += 2
+    elif e_count >= 2: score += 1
+    details.append(f"entities={e_count}")
+
+    # 2. Source/attribution signals — AI engines prefer citable content
+    src_pats = [r'\b(?:according to|records show|archives?|museum|documented)\b',
+                r'\b(?:journal|court record|testimony|report|study|census)\b',
+                r'\b(?:historian|researcher|archaeologist|professor|scholar)\b',
+                r'\b(?:published|peer.reviewed|excavation report|field notes)\b',
+                r'\b(?:university|institute|academic|dissertation|thesis)\b']
+    src_count = sum(1 for p in src_pats if re.search(p, plain, re.I))
+    if src_count >= 4: score += 3
+    elif src_count >= 2: score += 2
+    elif src_count >= 1: score += 1
+    details.append(f"sources={src_count}")
+
+    # 3. Specific dates/years — temporal anchors for factual claims
+    years = {y for y in re.findall(r'\b([1-9]\d{2,3})\b', plain) if 100 <= int(y) <= 2030}
+    if len(years) >= 5: score += 2
+    elif len(years) >= 2: score += 1
+    details.append(f"years={len(years)}")
+
+    # 4. Quantitative data — measurements, statistics, specifics
+    measurements = re.findall(r'\b\d+[\-\s](?:feet|miles?|meters?|km|pounds?|acres?|cubits?|inches?|cm)\b', plain, re.I)
+    numbers = re.findall(r'\b\d{2,}\b', plain)
+    data_density = (len(set(measurements)) + min(len(numbers), 20)) / max(wc/1000, 0.1)
+    if data_density >= 8: score += 2
+    elif data_density >= 3: score += 1
+    details.append(f"data_density={data_density:.1f}")
+
+    # 5. Unique factual claims — sentences with "is", "was", "were" + specifics
+    factual = re.findall(r'[A-Z][^.!?]{20,}(?:is|was|were|dates? to|discovered in|built in|located in)[^.!?]{10,}[.!?]', plain)
+    if len(factual) >= 10: score += 2
+    elif len(factual) >= 4: score += 1
+    details.append(f"factual_claims={len(factual)}")
+
+    # 6. Image with alt text (AI uses image context for understanding)
+    has_image = bool(fm.get('image'))
+    has_alt = bool(fm.get('imageAlt'))
+    if has_image and has_alt: score += 1
+    details.append(f"image={'yes' if has_image else 'no'}")
+
+    # Max possible: 14
+    return {'score': score, 'max': 14, 'pct': round(score/14*100), 'details': details}
+
+
+def score_aeo(body, plain, fm, wc):
+    """
+    AEO — Answer Engine Optimization
+    Measures how well content can be extracted as direct answers by
+    featured snippets, People Also Ask, and AI answer boxes.
+    Factors: question-answer pairs, definition patterns, list structure.
+    """
+    score = 0
+    details = []
+
+    # 1. Question-answer patterns (Q in heading, A in first paragraph)
+    h2s = get_h2s(body)
+    question_h2s = [h for h in h2s if '?' in h or h.lower().startswith(('what', 'who', 'where', 'when', 'why', 'how'))]
+    if len(question_h2s) >= 3: score += 3
+    elif len(question_h2s) >= 1: score += 2
+    elif any('?' in h for h in get_h3s(body)): score += 1
+    details.append(f"question_headings={len(question_h2s)}")
+
+    # 2. Definition patterns — "X is...", "X refers to..." (snippet bait)
+    definitions = re.findall(r'(?:^|\. )[A-Z][a-z]+ (?:is|refers to|means|was|are) [a-z]', plain)
+    if len(definitions) >= 5: score += 2
+    elif len(definitions) >= 2: score += 1
+    details.append(f"definitions={len(definitions)}")
+
+    # 3. Opening paragraph quality — first 2 sentences should be self-contained answer
+    paragraphs = get_paragraphs(body)
+    if paragraphs:
+        first_p = paragraphs[0]
+        first_sentences = re.split(r'(?<=[.!?])\s+', first_p)[:2]
+        opening = ' '.join(first_sentences)
+        # Good opening: 40-200 chars, contains a factual statement
+        if 40 <= len(opening) <= 200 and re.search(r'\b(?:is|was|are|were|dates?|located|discovered)\b', opening, re.I):
+            score += 2
+        elif len(opening) >= 40:
+            score += 1
+    details.append(f"opening_len={len(paragraphs[0]) if paragraphs else 0}")
+
+    # 4. Structured lists (numbered or bulleted) — snippet-friendly format
+    bullet_lines = len(re.findall(r'^[\s]*[-*+]\s', body, re.MULTILINE))
+    numbered_lines = len(re.findall(r'^[\s]*\d+[.)]\s', body, re.MULTILINE))
+    list_items = bullet_lines + numbered_lines
+    if list_items >= 5: score += 2
+    elif list_items >= 2: score += 1
+    details.append(f"list_items={list_items}")
+
+    # 5. Concise section structure (H2s that segment topic clearly)
+    if len(h2s) >= 4: score += 2
+    elif len(h2s) >= 2: score += 1
+    details.append(f"h2s={len(h2s)}")
+
+    # Max possible: 12
+    return {'score': score, 'max': 12, 'pct': round(score/12*100), 'details': details}
+
+
+def score_sxo(body, plain, fm, wc):
+    """
+    SXO — Search Experience Optimization
+    Measures the reader journey quality: scannability, internal linking,
+    content depth, and engagement signals.
+    """
+    score = 0
+    details = []
+
+    # 1. Internal links (keeps users on site, signals topic authority)
+    internal_links = get_internal_links(body)
+    if len(internal_links) >= 5: score += 3
+    elif len(internal_links) >= 2: score += 2
+    elif len(internal_links) >= 1: score += 1
+    details.append(f"internal_links={len(internal_links)}")
+
+    # 2. Content depth — word count sweet spot for authority articles
+    if 1200 <= wc <= 3500: score += 3
+    elif 800 <= wc < 1200: score += 2
+    elif wc >= 600: score += 1
+    details.append(f"wc={wc}")
+
+    # 3. Heading hierarchy (H2 + H3 = scannability)
+    h2s = get_h2s(body)
+    h3s = get_h3s(body)
+    heading_count = len(h2s) + len(h3s)
+    if heading_count >= 6: score += 2
+    elif heading_count >= 3: score += 1
+    details.append(f"headings={heading_count}")
+
+    # 4. Paragraph length distribution (no walls of text)
+    paras = get_paragraphs(body)
+    if paras:
+        avg_para_len = sum(len(p.split()) for p in paras) / len(paras)
+        long_paras = sum(1 for p in paras if len(p.split()) > 150)
+        if avg_para_len <= 80 and long_paras == 0: score += 2
+        elif avg_para_len <= 120 and long_paras <= 2: score += 1
+        details.append(f"avg_para={avg_para_len:.0f}w,long={long_paras}")
+    else:
+        details.append("avg_para=N/A")
+
+    # 5. Frontmatter completeness (title + desc + image + category)
+    fm_fields = ['title', 'description', 'image', 'imageAlt', 'category', 'pubDate']
+    present = sum(1 for f in fm_fields if fm.get(f))
+    if present >= 5: score += 2
+    elif present >= 3: score += 1
+    details.append(f"fm_fields={present}/6")
+
+    # Max possible: 12
+    return {'score': score, 'max': 12, 'pct': round(score/12*100), 'details': details}
+
+
+def compute_multilayer_grade(geo, aeo, sxo):
+    """Combine GEO/AEO/SXO into a single A-F grade."""
+    total = geo['score'] + aeo['score'] + sxo['score']
+    max_total = geo['max'] + aeo['max'] + sxo['max']  # 38
+    pct = round(total / max_total * 100)
+    if pct >= 80: grade = 'A'
+    elif pct >= 65: grade = 'B'
+    elif pct >= 50: grade = 'C'
+    elif pct >= 35: grade = 'D'
+    else: grade = 'F'
+    return {'grade': grade, 'total': total, 'max': max_total, 'pct': pct}
+
+
+# ── Legacy Semantic Score (backward compat) ─────────────────
 def compute_scores(body, plain, wc):
     entities = set()
-    for m in re.finditer(r'\b([A-Z][a-z]+(?:\s+(?:of|the|and))?(?:\s+[A-Z][a-z]+)+)\b', plain):
+    for m in re.finditer(r'\b([A-Z][a-z]+(?:\s+(?:of|the|and))?\s+[A-Z][a-z]+(?:\s+[A-Z][a-z]+)?)\b', plain):
         entities.add(m.group(1))
     years = {y for y in re.findall(r'\b([1-9]\d{2,3})\b', plain) if 100 <= int(y) <= 2030}
     measurements = re.findall(r'\b\d+[\-\s](?:feet|miles?|meters?|km|pounds?|acres?)\b', plain, re.I)
@@ -275,7 +471,7 @@ def compute_scores(body, plain, wc):
     }
 
 
-# ── Inventory Loader (nested research folders) ──────────────
+# ── Inventory Loader ────────────────────────────────────────
 def load_inventory():
     articles = {}
     for cat in CATEGORIES:
@@ -296,8 +492,9 @@ def load_inventory():
             }
     return articles
 
-# ── Core Optimizer ──────────────────────────────────────────
-def optimize_article(slug, data, dry_run=False, show_diff=False):
+
+# ── Core Optimizer (v2.0 with multi-layer scoring) ──────────
+def optimize_article(slug, data, dry_run=False, show_diff=False, audit_only=False):
     filepath = data['filepath']
     category = data['category']
     fm = copy.deepcopy(data['fm'])
@@ -306,30 +503,38 @@ def optimize_article(slug, data, dry_run=False, show_diff=False):
     orig_title = fm.get('title', '')
     orig_desc = fm.get('description', '')
 
-    # 1. Title
-    new_title, tc = optimize_title(fm.get('title', ''), category)
-    if new_title != fm.get('title', ''):
-        fm['title'] = new_title
-    changes.extend(tc)
+    if not audit_only:
+        # 1. Title
+        new_title, tc = optimize_title(fm.get('title', ''), category)
+        if new_title != fm.get('title', ''):
+            fm['title'] = new_title
+        changes.extend(tc)
 
-    # 2. Description
-    new_desc, dc = optimize_description(fm.get('description', ''), category, body)
-    if new_desc != fm.get('description', ''):
-        fm['description'] = new_desc
-    changes.extend(dc)
+        # 2. Description
+        new_desc, dc = optimize_description(fm.get('description', ''), category, body)
+        if new_desc != fm.get('description', ''):
+            fm['description'] = new_desc
+        changes.extend(dc)
 
-    # 3. Banned phrases
-    body, bc = fix_banned_phrases(body)
-    changes.extend(bc)
+        # 3. Banned phrases
+        body, bc = fix_banned_phrases(body)
+        changes.extend(bc)
 
-    # 4. Semantic scores
+    # 4. Legacy semantic scores
     plain = strip_markdown(body)
     wc = count_words(body)
     scores = compute_scores(body, plain, wc)
 
+    # 5. v2.0 multi-layer scores
+    geo = score_geo(body, plain, fm, wc)
+    aeo = score_aeo(body, plain, fm, wc)
+    sxo = score_sxo(body, plain, fm, wc)
+    grade = compute_multilayer_grade(geo, aeo, sxo)
+
     result = {
         'slug': slug, 'category': category,
         'changes': changes, 'scores': scores,
+        'geo': geo, 'aeo': aeo, 'sxo': sxo, 'grade': grade,
         'title_len': len(fm.get('title', '')),
         'desc_len': len(fm.get('description', '')),
         'word_count': wc,
@@ -344,13 +549,12 @@ def optimize_article(slug, data, dry_run=False, show_diff=False):
             diffs.append(f"  D: {len(orig_desc)}c -> {len(fm['description'])}c")
         result['diff'] = diffs
 
-    if dry_run:
-        result['status'] = 'DRY_RUN'
+    if dry_run or audit_only:
+        result['status'] = 'AUDIT' if audit_only else 'DRY_RUN'
         return result
 
     # Save
     save_frontmatter(filepath, fm)
-    # If banned phrases were fixed, rewrite body too
     if any('Removed' in c for c in changes):
         with open(filepath, "r", encoding="utf-8") as f:
             raw = f.read()
@@ -365,6 +569,10 @@ def optimize_article(slug, data, dry_run=False, show_diff=False):
     now = datetime.now().strftime('%Y-%m-%d %H:%M')
     entry = {'timestamp': now, 'slug': slug, 'category': category,
              'changes': changes, 'scores': scores,
+             'geo': {'score': geo['score'], 'pct': geo['pct']},
+             'aeo': {'score': aeo['score'], 'pct': aeo['pct']},
+             'sxo': {'score': sxo['score'], 'pct': sxo['pct']},
+             'grade': grade['grade'],
              'title_len': result['title_len'], 'desc_len': result['desc_len'],
              'word_count': wc}
     with audit_lock:
@@ -373,11 +581,11 @@ def optimize_article(slug, data, dry_run=False, show_diff=False):
     return result
 
 
-# ── Pipeline Runner ─────────────────────────────────────────
-def run_pipeline(slugs, articles, threads=4, dry_run=False, show_diff=False):
+# ── Pipeline Runner (v2.0 with grade distribution) ──────────
+def run_pipeline(slugs, articles, threads=4, dry_run=False, show_diff=False, audit_only=False):
     print(f"\n{'='*70}")
-    print(f"SemanticPipe — Research Edition")
-    print(f"Articles: {len(slugs)} | Threads: {threads} | Dry run: {dry_run}")
+    print(f"SemanticPipe v2.0 — Research Edition")
+    print(f"Articles: {len(slugs)} | Threads: {threads} | Mode: {'AUDIT' if audit_only else 'DRY' if dry_run else 'LIVE'}")
     print(f"{'='*70}\n")
 
     saved, errors = [], []
@@ -385,9 +593,10 @@ def run_pipeline(slugs, articles, threads=4, dry_run=False, show_diff=False):
 
     def process(slug):
         try:
-            return optimize_article(slug, articles[slug], dry_run, show_diff)
+            return optimize_article(slug, articles[slug], dry_run, show_diff, audit_only)
         except Exception as e:
-            return {'slug': slug, 'status': 'ERROR', 'error': str(e), 'changes': []}
+            return {'slug': slug, 'status': 'ERROR', 'error': str(e), 'changes': [],
+                    'grade': {'grade': '?', 'pct': 0}}
 
     with ThreadPoolExecutor(max_workers=threads) as ex:
         futures = {ex.submit(process, s): s for s in slugs}
@@ -396,63 +605,101 @@ def run_pipeline(slugs, articles, threads=4, dry_run=False, show_diff=False):
             s = r['slug']
             st = r['status']
             nc = len(r.get('changes', []))
+            g = r.get('grade', {}).get('grade', '?')
             if st == 'ERROR':
                 errors.append(r)
-                print(f"  [{i:3d}/{len(slugs)}] ERR   {s[:50]:50s} {r.get('error','')[:30]}")
+                print(f"  [{i:3d}/{len(slugs)}] ERR   {s[:45]:45s} {r.get('error','')[:30]}")
             else:
                 saved.append(r)
-                detail = f"{nc}chg t={r.get('title_len',0)}c d={r.get('desc_len',0)}c {r.get('word_count',0)}w"
-                print(f"  [{i:3d}/{len(slugs)}] {'DRY' if dry_run else 'OK':5s} {s[:50]:50s} {detail}")
+                geo_p = r.get('geo', {}).get('pct', 0)
+                aeo_p = r.get('aeo', {}).get('pct', 0)
+                sxo_p = r.get('sxo', {}).get('pct', 0)
+                detail = f"[{g}] GEO={geo_p}% AEO={aeo_p}% SXO={sxo_p}% {r.get('word_count',0)}w"
+                if nc: detail += f" +{nc}chg"
+                print(f"  [{i:3d}/{len(slugs)}] {st:5s} {s[:45]:45s} {detail}")
                 if show_diff and r.get('diff'):
                     for d in r['diff']:
                         print(f"         {d}")
 
     elapsed = (datetime.now() - start).total_seconds()
+
+    # ── Summary Report ──────────────────────────────────────
     print(f"\n{'='*70}")
     print(f"DONE in {elapsed:.1f}s ({elapsed/max(len(slugs),1):.3f}s/article)")
-    print(f"  Saved: {len(saved)} | Errors: {len(errors)}")
+    print(f"  Processed: {len(saved)} | Errors: {len(errors)}")
 
-    # Stats
+    if not saved:
+        print(f"{'='*70}")
+        return {'saved': 0, 'errors': len(errors), 'elapsed': elapsed}
+
     changed = [r for r in saved if r.get('changes')]
-    short_t = [r for r in saved if r.get('title_len', 0) < 30]
-    long_t = [r for r in saved if r.get('title_len', 0) > 65]
-    short_d = [r for r in saved if r.get('desc_len', 0) < 120]
-    long_d = [r for r in saved if r.get('desc_len', 0) > 155]
-
     print(f"  Articles changed: {len(changed)}")
-    if short_t: print(f"  Short titles (<30c): {len(short_t)}")
-    if long_t: print(f"  Long titles (>65c): {len(long_t)}")
-    if short_d: print(f"  Short descs (<120c): {len(short_d)}")
-    if long_d: print(f"  Long descs (>155c): {len(long_d)}")
 
-    if saved:
-        avg_e = sum(r['scores']['entities'] for r in saved) / len(saved)
-        avg_y = sum(r['scores']['years'] for r in saved) / len(saved)
-        avg_p = sum(r['scores']['namedPeople'] for r in saved) / len(saved)
-        avg_s = sum(r['scores']['sourceRefs'] for r in saved) / len(saved)
-        print(f"\n  Avg Semantic: entities={avg_e:.1f} years={avg_y:.1f} people={avg_p:.1f} sources={avg_s:.1f}")
+    # Grade distribution
+    grades = {}
+    for r in saved:
+        g = r.get('grade', {}).get('grade', '?')
+        grades[g] = grades.get(g, 0) + 1
+    print(f"\n  GRADE DISTRIBUTION:")
+    for g in ['A', 'B', 'C', 'D', 'F']:
+        count = grades.get(g, 0)
+        bar = '#' * (count // 5) if count else ''
+        print(f"    {g}: {count:3d} ({count/len(saved)*100:4.1f}%) {bar}")
+
+    # Layer averages
+    avg_geo = sum(r.get('geo', {}).get('pct', 0) for r in saved) / len(saved)
+    avg_aeo = sum(r.get('aeo', {}).get('pct', 0) for r in saved) / len(saved)
+    avg_sxo = sum(r.get('sxo', {}).get('pct', 0) for r in saved) / len(saved)
+    avg_total = sum(r.get('grade', {}).get('pct', 0) for r in saved) / len(saved)
+    print(f"\n  LAYER AVERAGES:")
+    print(f"    GEO (AI citation):    {avg_geo:5.1f}%")
+    print(f"    AEO (answer engine):  {avg_aeo:5.1f}%")
+    print(f"    SXO (search UX):      {avg_sxo:5.1f}%")
+    print(f"    COMBINED:             {avg_total:5.1f}%")
+
+    # Legacy semantic averages
+    avg_e = sum(r['scores']['entities'] for r in saved) / len(saved)
+    avg_y = sum(r['scores']['years'] for r in saved) / len(saved)
+    avg_p = sum(r['scores']['namedPeople'] for r in saved) / len(saved)
+    avg_s = sum(r['scores']['sourceRefs'] for r in saved) / len(saved)
+    print(f"\n  LEGACY SEMANTIC: entities={avg_e:.1f} years={avg_y:.1f} people={avg_p:.1f} sources={avg_s:.1f}")
 
     # Category breakdown
-    print(f"\n  By Category:")
+    print(f"\n  BY CATEGORY:")
     for cat in CATEGORIES:
         cat_arts = [r for r in saved if r.get('category') == cat]
         if cat_arts:
-            avg_wc = sum(r.get('word_count',0) for r in cat_arts) / len(cat_arts)
-            chg = sum(1 for r in cat_arts if r.get('changes'))
-            print(f"    {cat:25s} {len(cat_arts):3d} articles  avg {avg_wc:.0f}w  {chg} changed")
+            avg_wc = sum(r.get('word_count', 0) for r in cat_arts) / len(cat_arts)
+            avg_g = sum(r.get('grade', {}).get('pct', 0) for r in cat_arts) / len(cat_arts)
+            cat_grades = {}
+            for r in cat_arts:
+                g = r.get('grade', {}).get('grade', '?')
+                cat_grades[g] = cat_grades.get(g, 0) + 1
+            dist = ' '.join(f"{g}={cat_grades.get(g,0)}" for g in ['A','B','C','D','F'] if cat_grades.get(g,0))
+            print(f"    {cat:25s} {len(cat_arts):3d} articles  avg {avg_wc:.0f}w  {avg_g:.0f}%  {dist}")
+
+    # Bottom 10 (lowest grades)
+    bottom = sorted(saved, key=lambda r: r.get('grade', {}).get('pct', 0))[:10]
+    print(f"\n  BOTTOM 10 (need improvement):")
+    for r in bottom:
+        g = r.get('grade', {}).get('grade', '?')
+        pct = r.get('grade', {}).get('pct', 0)
+        print(f"    [{g}] {pct:2d}% {r['slug'][:55]}")
 
     print(f"{'='*70}")
     if errors:
         print(f"\nErrors:")
         for r in errors:
-            print(f"  {r['slug']}: {r.get('error','')}")
-    return {'saved': len(saved), 'errors': len(errors), 'elapsed': elapsed}
+            print(f"  {r['slug']}: {r.get('error', '')}")
+    return {'saved': len(saved), 'errors': len(errors), 'elapsed': elapsed,
+            'grades': grades, 'avg_geo': avg_geo, 'avg_aeo': avg_aeo, 'avg_sxo': avg_sxo}
 
 
 # ── CLI Entry Point ─────────────────────────────────────────
 def main():
-    parser = argparse.ArgumentParser(description='SemanticPipe — Research Edition')
+    parser = argparse.ArgumentParser(description='SemanticPipe v2.0 — Research Edition')
     parser.add_argument('--dry-run', action='store_true', help='Preview without saving')
+    parser.add_argument('--audit-only', action='store_true', help='Score only, no changes')
     parser.add_argument('--all', action='store_true', help='Process all articles')
     parser.add_argument('--force', action='store_true', help='Re-optimize everything')
     parser.add_argument('--diff', action='store_true', help='Show before/after')
@@ -472,13 +719,13 @@ def main():
     # Determine targets
     if args.category:
         slugs = sorted(s for s, a in articles.items() if a['category'] == args.category)
-    elif args.all or args.force:
+    elif args.all or args.force or args.audit_only:
         slugs = sorted(articles.keys())
     else:
-        print("Use --all, --force, or --category")
+        print("Use --all, --force, --audit-only, or --category")
         sys.exit(0)
 
-    # Chunking support for parallel runs
+    # Chunking support
     if args.chunk is not None:
         chunk_size = len(slugs) // args.chunks
         remainder = len(slugs) % args.chunks
@@ -491,7 +738,8 @@ def main():
         print("No articles to process.")
         sys.exit(0)
 
-    run_pipeline(slugs, articles, threads=args.threads, dry_run=args.dry_run, show_diff=args.diff)
+    run_pipeline(slugs, articles, threads=args.threads,
+                 dry_run=args.dry_run, show_diff=args.diff, audit_only=args.audit_only)
 
 if __name__ == '__main__':
     main()
