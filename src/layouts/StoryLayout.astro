@@ -38,7 +38,11 @@ const {
 } = Astro.props;
 ---
 
-<BaseLayout title={title} description={description}>
+<BaseLayout title={title} description={description} breadcrumbs={[
+    { name: 'Home', url: '/' },
+    { name: 'Stories', url: '/stories' },
+    { name: title, url: Astro.url.pathname },
+]}>
     <article class="section">
         <div class="container">
 

@@ -39,7 +39,12 @@ const categoryLabels: Record<string, string> = {
 };
 ---
 
-<BaseLayout title={title} description={description}>
+<BaseLayout title={title} description={description} breadcrumbs={[
+    { name: 'Home', url: '/' },
+    { name: 'Research', url: '/research' },
+    { name: categoryLabels[category] || category, url: `/research/${category}` },
+    { name: title, url: Astro.url.pathname },
+]}>
     <article class="section">
         <div class="container">
             <header class="mb-10">
