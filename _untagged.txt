@@ -1,0 +1,95 @@
+UNTAGGED POSTS: 400
+
+Most common words in untagged titles:
+              biblical: 275
+           archaeology: 193
+               ancient: 114
+             exploring: 55
+                  what: 54
+        archaeologists: 44
+                 bible: 42
+            unearthing: 41
+               secrets: 40
+             unveiling: 34
+        archaeological: 31
+             mysteries: 22
+            uncovering: 20
+           discoveries: 18
+               history: 17
+               through: 16
+                  past: 15
+                  role: 15
+            unraveling: 15
+               reveals: 15
+            archeology: 15
+             artifacts: 14
+             unlocking: 14
+           discovering: 14
+            techniques: 14
+                impact: 13
+              research: 13
+               between: 12
+                  into: 12
+              discover: 10
+                  does: 10
+                  from: 9
+            excavation: 9
+              evidence: 9
+               methods: 8
+         understanding: 8
+              decoding: 8
+                 truth: 8
+                 texts: 8
+          significance: 8
+
+
+SAMPLE UNTAGGED >2000w (105):
+   6313w  Exploring Biblical Archaeology: Unveiling the Secrets of Ancient Relic
+   4623w  The Pioneers of Biblical Archaeology
+   4430w  Decoding Ancient Technology: Insights from Biblical Archaeology
+   4398w  Exploring the Depths: the Future of Underwater Biblical Archaeological
+   4298w  Unearthing Ancient Environmental Adaptations Through Biblical Archaeol
+   4124w  Unveiling the Secrets of Biblical Archaeology
+   3820w  Unearthing the Truth: Current Controversies in Biblical Archaeology
+   3699w  Exploring Ancient Religious Practices Through Biblical Archaeology
+   3524w  The Infamous Relics: Famous Fakes and Forgeries in Biblical Archaeolog
+   3509w  3 Methods to Identify Genuine and Counterfeit Artifacts in Biblical Ar
+   3449w  Exploring the Controversies: the Role of Biblical Archaeologists
+   3439w  Exploring the Environmental Impact on Biblical Archaeology
+   3334w  Exploring the Connections Between Biblical Archaeology and Ancient Mus
+   3304w  The Ultimate Guide to Studying Biblical Archaeology
+   3299w  Methods Used by Biblical Archaeologists to Date Ancient Artifacts
+
+SAMPLE UNTAGGED 1000-2000w (225):
+   1964w  Uncovering the Mysteries: Fascinating Artifacts Discovered by Biblical
+   1961w  Exploring Ethical Considerations in Biblical Archaeological Excavation
+   1940w  Advancing Biblical Archaeology Through Remote Sensing
+   1934w  The Power of Interdisciplinary Collaboration in Biblical Archaeology
+   1929w  Preserving Biblical Archaeological Sites: Best Practices Revealed
+   1907w  Exploring the Multidisciplinary Approach in Biblical Archaeology
+   1903w  Discovering the Legacy: Exploring the Life and Work of William f. Albr
+   1897w  Unearthing the Legacies: Prominent Women in Biblical Archaeology
+   1892w  Unraveling the Mysteries: Challenges Faced by Biblical Archaeologists
+   1884w  Exploring the Influence of Biblical Archaeology on Religious Tradition
+   1867w  Decoding Ancient Inscriptions: a Biblical Archaeological Perspective
+   1860w  Keys to Successful Collaboration on Biblical Archaeology Projects with
+   1857w  Exploring the Relationship Between Biblical Archaeologists and Conserv
+   1851w  The Impact of Biblical Archaeologists on Cultural Heritage Preservatio
+   1850w  Which Books are Missing from the Hebrew Bible?
+
+SAMPLE UNTAGGED <1000w (70):
+    998w  Has Archaeology Buried the Bible Review?
+    995w  How Many Times has the Bible Been Changed?
+    993w  Unearthed: how Radiant Energy Reveals Biblical
+    991w  Are There any Original Bibles Left?
+    988w  What is the Meaning of Archaeology in the Bible?
+    988w  What is the First Archaeological Evidence of Israel?
+    985w  What Technology did Archaeologists Use?
+    984w  What do Bible Archaeologists Do?
+    984w  What are 5 Tools Archaeologists Use?
+    980w  Unlocking Secrets: how Science Preserves Ancient Biblical Artifacts
+    979w  What are the Techniques Used in Archaeological Survey?
+    978w  What Techniques do Archaeologists Use?
+    976w  Did Nicaea Decide The Bibles Original Content?
+    975w  Interpreting the First Bible: Archaeology Sheds Light on Ancient
+    974w  Did the Catholic Church put the Bible Together?

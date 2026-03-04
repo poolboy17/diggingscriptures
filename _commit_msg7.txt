@@ -1,0 +1,6 @@
+Surface research silo in navigation and homepage
+
+Add Research as first item in header and footer nav (680 articles
+were previously unreachable from main navigation). Add featured
+research articles section to homepage with 6 latest articles grid
+and CTA linking to /research hub.

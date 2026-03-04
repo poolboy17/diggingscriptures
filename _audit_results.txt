@@ -1,0 +1,734 @@
+Loading research inventory...
+  680 articles across 5 categories
+    biblical-archaeology: 190
+    scripture: 127
+    excavations: 164
+    artifacts: 80
+    faith: 119
+
+======================================================================
+SemanticPipe v2.0 — Research Edition
+Articles: 680 | Threads: 4 | Mode: AUDIT
+======================================================================
+
+  [  1/680] AUDIT alexandrian-vs-byzantine-vs-western-texts-exp [C] GEO=57% AEO=67% SXO=50% 1056w
+  [  2/680] AUDIT acacia-wood-blueprint-a-deep-dive-into-the-ar [C] GEO=57% AEO=25% SXO=67% 1257w
+  [  3/680] AUDIT a-guide-to-evaluating-the-credibility-of-bibl [C] GEO=64% AEO=33% SXO=75% 2749w
+  [  4/680] AUDIT 5-ways-to-stay-updated-on-the-latest-developm [C] GEO=64% AEO=25% SXO=83% 3256w
+  [  5/680] AUDIT 10-famous-biblical-archaeologists-you-should- [B] GEO=86% AEO=33% SXO=83% 2814w
+  [  6/680] AUDIT 10-must-visit-biblical-archaeological-sites   [C] GEO=50% AEO=42% SXO=75% 2982w
+  [  7/680] AUDIT 10-essential-tips-for-aspiring-biblical-archa [C] GEO=57% AEO=33% SXO=75% 2377w
+  [  8/680] AUDIT 10-steps-to-volunteer-on-a-biblical-archaeolo [C] GEO=57% AEO=42% SXO=75% 2101w
+  [  9/680] AUDIT advanced-imaging-illuminates-ancient-hebrew-t [D] GEO=57% AEO=25% SXO=58% 852w
+  [ 10/680] AUDIT 3-methods-to-identify-genuine-and-counterfeit [C] GEO=64% AEO=33% SXO=58% 3509w
+  [ 11/680] AUDIT advancing-biblical-archaeology-through-remote [C] GEO=57% AEO=17% SXO=75% 1940w
+  [ 12/680] AUDIT 10-most-important-biblical-artifacts-discover [B] GEO=79% AEO=33% SXO=83% 2517w
+  [ 13/680] AUDIT ancient-hebrew-army-camp-discovery-unveils-bi [D] GEO=50% AEO=25% SXO=58% 860w
+  [ 14/680] AUDIT analyzing-the-role-of-peer-review-in-biblical [C] GEO=57% AEO=42% SXO=75% 2318w
+  [ 15/680] AUDIT ancient-hebrew-scripts-and-their-impact-on-bi [D] GEO=50% AEO=25% SXO=58% 936w
+  [ 16/680] AUDIT ancient-hebrew-military-camp-unearthed-in-bib [D] GEO=57% AEO=25% SXO=58% 911w
+  [ 17/680] AUDIT ancient-hebrew-technology-unlocking-temple-bu [D] GEO=57% AEO=25% SXO=58% 863w
+  [ 18/680] AUDIT ancient-hebrew-technology-unveils-temple-buil [D] GEO=57% AEO=25% SXO=58% 898w
+  [ 19/680] AUDIT ancient-hebrew-time-system-decoded-at-last    [D] GEO=50% AEO=25% SXO=58% 866w
+  [ 20/680] AUDIT ancient-jerusalem-palace-unearthed-sparks-bib [D] GEO=57% AEO=25% SXO=58% 892w
+  [ 21/680] AUDIT ancient-jerusalem-street-reveals-temple-pilgr [D] GEO=43% AEO=25% SXO=58% 966w
+  [ 22/680] AUDIT ancient-jerusalem-unveiling-the-commerce-cent [D] GEO=57% AEO=25% SXO=58% 894w
+  [ 23/680] AUDIT ancient-hebrew-seal-collection-reveals-biblic [C] GEO=50% AEO=42% SXO=58% 995w
+  [ 24/680] AUDIT ancient-jewish-festival-evidence-uncovered    [D] GEO=50% AEO=25% SXO=58% 829w
+  [ 25/680] AUDIT ancient-jewish-quarter-reveals-temple-era-com [D] GEO=43% AEO=25% SXO=58% 1083w
+  [ 26/680] AUDIT ancient-jerusalem-marketplace-near-temple-unv [C] GEO=57% AEO=33% SXO=58% 1040w
+  [ 27/680] AUDIT ancient-temple-seal-discovery-rewrites-biblic [D] GEO=57% AEO=25% SXO=58% 904w
+  [ 28/680] AUDIT angels-in-the-desert-the-en-gedi-stone-arch-a [C] GEO=43% AEO=42% SXO=67% 1414w
+  [ 29/680] AUDIT archaeological-ai-discovers-lost-biblical-cit [D] GEO=57% AEO=25% SXO=58% 1021w
+  [ 30/680] AUDIT archaeological-maps-of-ancient-jerusalem-unve [D] GEO=57% AEO=25% SXO=58% 1077w
+  [ 31/680] AUDIT archaeological-scanning-unveils-temple-mount- [D] GEO=57% AEO=25% SXO=58% 910w
+  [ 32/680] AUDIT archaeoastronomy-uncovering-ancient-cultures- [C] GEO=50% AEO=25% SXO=83% 2079w
+  [ 33/680] AUDIT ancient-temple-mount-discovery-shifts-biblica [D] GEO=57% AEO=25% SXO=58% 1031w
+  [ 34/680] AUDIT are-any-original-bible-manuscripts-still-in-e [C] GEO=50% AEO=50% SXO=58% 1109w
+  [ 35/680] AUDIT are-archeology-degrees-worth-it               [C] GEO=71% AEO=50% SXO=50% 1071w
+  [ 36/680] AUDIT are-all-the-books-of-the-old-testament-in-the [C] GEO=57% AEO=25% SXO=67% 1938w
+  [ 37/680] AUDIT are-there-any-archaeological-evidence-of-the- [C] GEO=50% AEO=25% SXO=75% 1149w
+  [ 38/680] AUDIT are-all-new-testament-books-written-in-greek  [C] GEO=57% AEO=50% SXO=42% 3507w
+  [ 39/680] AUDIT ancient-jewish-cemetery-reveals-burial-rites  [D] GEO=50% AEO=25% SXO=58% 899w
+  [ 40/680] AUDIT biblical-archaeology-article-discovery-reveal [D] GEO=57% AEO=25% SXO=58% 876w
+  [ 41/680] AUDIT battered-column-chest-a-scroll-unveiling-temp [D] GEO=43% AEO=25% SXO=67% 1301w
+  [ 42/680] AUDIT are-the-original-books-of-the-bible-still-in- [C] GEO=64% AEO=25% SXO=75% 1082w
+  [ 43/680] AUDIT biblical-archaeology-evidence-unveiled        [C] GEO=57% AEO=42% SXO=83% 1241w
+  [ 44/680] AUDIT biblical-archaeology-excavation-projects-unea [C] GEO=43% AEO=42% SXO=75% 1084w
+  [ 45/680] AUDIT biblical-archaeology-and-the-dead-sea-scrolls [C] GEO=64% AEO=42% SXO=83% 1902w
+  [ 46/680] AUDIT biblical-archaeology-findings-shed-light-on-a [C] GEO=50% AEO=42% SXO=75% 1183w
+  [ 47/680] AUDIT biblical-archaeology-discovering-ancient-temp [D] GEO=57% AEO=25% SXO=58% 1025w
+  [ 48/680] AUDIT biblical-archaeology-first-temple-period-mark [D] GEO=50% AEO=33% SXO=58% 962w
+  [ 49/680] AUDIT biblical-archaeology-from-ruins-to-revelation [C] GEO=50% AEO=33% SXO=67% 1196w
+  [ 50/680] AUDIT biblical-archaeology-first-temple-period-disc [D] GEO=50% AEO=25% SXO=58% 929w
+  [ 51/680] AUDIT biblical-archaeology-revelations-unearthing-a [C] GEO=50% AEO=42% SXO=83% 1301w
+  [ 52/680] AUDIT biblical-archaeology-discoveries-unveil-ancie [C] GEO=57% AEO=42% SXO=75% 1064w
+  [ 53/680] AUDIT biblical-archaeology-town-destruction-verifie [D] GEO=57% AEO=25% SXO=58% 949w
+  [ 54/680] AUDIT biblical-archaeology-uncovering-ancient-marit [D] GEO=50% AEO=8% SXO=75% 1130w
+  [ 55/680] AUDIT biblical-archaeology-the-mystery-of-ancient-t [C] GEO=57% AEO=25% SXO=83% 2792w
+  [ 56/680] AUDIT biblical-archaeology-uncovers-ancient-mysteri [B] GEO=57% AEO=67% SXO=83% 1690w
+  [ 57/680] AUDIT biblical-archaeology-illuminating-the-word-of [C] GEO=50% AEO=33% SXO=83% 1374w
+  [ 58/680] AUDIT biblical-archaeology-unearths-ancient-sacred- [D] GEO=57% AEO=25% SXO=58% 1026w
+  [ 59/680] AUDIT biblical-archaeology-unearthing-ancient-secre [C] GEO=50% AEO=33% SXO=75% 1166w
+  [ 60/680] AUDIT biblical-archaeology-unlocking-the-secrets-of [C] GEO=57% AEO=25% SXO=83% 2399w
+  [ 61/680] AUDIT biblical-city-destruction-evidence-aligns-wit [D] GEO=57% AEO=33% SXO=50% 1159w
+  [ 62/680] AUDIT biblical-era-trading-post-unveils-solomons-we [D] GEO=57% AEO=25% SXO=58% 954w
+  [ 63/680] AUDIT biblical-archaeology-excavation-techniques-un [C] GEO=57% AEO=58% SXO=75% 1266w
+  [ 64/680] AUDIT biblical-historical-sites-unveiled            [C] GEO=50% AEO=42% SXO=75% 1148w
+  [ 65/680] AUDIT biblical-interpolations-what-were-added-later [B] GEO=79% AEO=67% SXO=58% 1279w
+  [ 66/680] AUDIT biblical-era-workshop-reveals-ancient-craftin [D] GEO=57% AEO=25% SXO=58% 972w
+  [ 67/680] AUDIT biblical-town-gateway-reveals-ancient-defense [D] GEO=57% AEO=25% SXO=50% 909w
+  [ 68/680] AUDIT biblical-town-life-revealed-in-new-excavation [D] GEO=57% AEO=25% SXO=58% 1036w
+  [ 69/680] AUDIT biblical-archaeology-uncovering-rare-relics-u [C] GEO=50% AEO=33% SXO=75% 1222w
+  [ 70/680] AUDIT biblical-towns-uncovered-ancient-texts-reveal [D] GEO=57% AEO=25% SXO=58% 854w
+  [ 71/680] AUDIT biblical-archaeologys-influence-on-modern-fai [C] GEO=50% AEO=33% SXO=83% 1407w
+  [ 72/680] AUDIT buried-wine-jar-scribes-told-to-copy-without- [C] GEO=57% AEO=42% SXO=67% 1452w
+  [ 73/680] AUDIT can-you-be-an-archaeologist-without-a-degree  [D] GEO=57% AEO=33% SXO=50% 1063w
+  [ 74/680] AUDIT cave-wall-message-unveiling-the-scribe-diarie [C] GEO=57% AEO=42% SXO=58% 1366w
+  [ 75/680] AUDIT biblical-period-oil-production-unearthed      [D] GEO=57% AEO=25% SXO=58% 1073w
+  [ 76/680] AUDIT cherubim-light-a-symbol-of-hope-and-authority [C] GEO=64% AEO=58% SXO=67% 1211w
+  [ 77/680] AUDIT city-of-david-blocked-door-a-journey-into-res [C] GEO=57% AEO=42% SXO=67% 1269w
+  [ 78/680] AUDIT biblical-town-streets-explored-and-mapped     [D] GEO=43% AEO=25% SXO=58% 1050w
+  [ 79/680] AUDIT cliffside-hollow-navigating-the-tension-betwe [D] GEO=43% AEO=33% SXO=58% 1664w
+  [ 80/680] AUDIT cliff-stone-platform-a-study-of-the-apocalypt [D] GEO=50% AEO=25% SXO=67% 1350w
+  [ 81/680] AUDIT brief-overview-of-the-old-testament           [D] GEO=43% AEO=25% SXO=67% 2032w
+  [ 82/680] AUDIT coin-hoard-clue-analyzing-the-scribes-prophec [C] GEO=50% AEO=42% SXO=67% 1395w
+  [ 83/680] AUDIT comparing-old-testament-and-new-testament-the [C] GEO=64% AEO=42% SXO=50% 5057w
+  [ 84/680] AUDIT comparing-the-old-testament-and-new-testament [C] GEO=57% AEO=58% SXO=50% 4688w
+  [ 85/680] AUDIT central-themes-in-the-old-testament-and-the-n [D] GEO=50% AEO=42% SXO=50% 4262w
+  [ 86/680] AUDIT comparing-old-and-new-testaments-central-them [C] GEO=57% AEO=25% SXO=67% 3106w
+  [ 87/680] AUDIT compassion-for-social-outcasts-the-legacy-of- [D] GEO=43% AEO=33% SXO=58% 1195w
+  [ 88/680] AUDIT connecting-the-old-testament-and-the-new-test [D] GEO=50% AEO=25% SXO=50% 998w
+  [ 89/680] AUDIT comparing-themes-in-the-old-testament-and-the [D] GEO=50% AEO=25% SXO=50% 3839w
+  [ 90/680] AUDIT comparing-the-old-testament-and-the-new-testa [D] GEO=57% AEO=33% SXO=50% 4913w
+  [ 91/680] AUDIT comparing-the-old-testament-and-the-torah-2   [C] GEO=57% AEO=75% SXO=50% 7663w
+  [ 92/680] AUDIT contrasting-themes-in-the-old-testament-and-t [C] GEO=57% AEO=42% SXO=50% 8745w
+  [ 93/680] AUDIT could-we-ever-find-the-original-bible-again   [C] GEO=64% AEO=50% SXO=58% 1421w
+  [ 94/680] AUDIT controversies-in-biblical-archaeology-unearth [C] GEO=64% AEO=42% SXO=83% 2712w
+  [ 95/680] AUDIT date-palm-crevice-a-sanctuary-of-faith        [C] GEO=50% AEO=50% SXO=50% 1199w
+  [ 96/680] AUDIT crafting-trustworthy-articles-on-biblical-arc [B] GEO=79% AEO=58% SXO=67% 1477w
+  [ 97/680] AUDIT dead-sea-orchard-unraveling-the-cosmic-battle [C] GEO=43% AEO=42% SXO=67% 1222w
+  [ 98/680] AUDIT dead-sea-scroll-cave-yields-lost-biblical-tex [C] GEO=64% AEO=25% SXO=58% 823w
+  [ 99/680] AUDIT continuity-and-discontinuity-the-relationship [C] GEO=64% AEO=25% SXO=67% 2221w
+  [100/680] AUDIT dead-sea-vineyard-a-lamentation-in-jars-of-mo [C] GEO=64% AEO=50% SXO=67% 1418w
+  [101/680] AUDIT contrasting-worship-in-the-old-testament-and- [D] GEO=57% AEO=25% SXO=50% 5703w
+  [102/680] AUDIT debunking-misconceptions-about-biblical-archa [C] GEO=50% AEO=33% SXO=75% 1579w
+  [103/680] AUDIT dead-sea-scroll-cave-yields-revolutionary-new [C] GEO=64% AEO=25% SXO=58% 826w
+  [104/680] AUDIT debunking-the-top-misconceptions-about-biblic [C] GEO=57% AEO=42% SXO=83% 2448w
+  [105/680] AUDIT debunking-popular-misconceptions-about-biblic [C] GEO=50% AEO=33% SXO=75% 2818w
+  [106/680] AUDIT decoding-ancient-inscriptions-unraveling-the- [C] GEO=64% AEO=42% SXO=83% 2310w
+  [107/680] AUDIT decoding-ancient-inscriptions-a-biblical-arch [C] GEO=57% AEO=33% SXO=83% 1875w
+  [108/680] AUDIT dead-sea-cliffs-unlocking-the-hidden-library- [C] GEO=71% AEO=50% SXO=67% 1326w
+  [109/680] AUDIT decoding-the-ancient-hebrew-calendar-system   [D] GEO=57% AEO=25% SXO=58% 881w
+  [110/680] AUDIT decoding-ancient-myths-the-role-of-biblical-a [C] GEO=50% AEO=42% SXO=83% 2490w
+  [111/680] AUDIT decoding-ancient-technology-insights-from-bib [C] GEO=50% AEO=33% SXO=67% 4440w
+  [112/680] AUDIT desert-fortress-the-laments-of-national-defea [C] GEO=43% AEO=50% SXO=58% 1324w
+  [113/680] AUDIT desert-fortress-jars-a-quest-for-purity-in-a- [D] GEO=50% AEO=25% SXO=67% 1219w
+  [114/680] AUDIT desert-orchard-trough-crafting-communal-worsh [C] GEO=50% AEO=33% SXO=67% 1256w
+  [115/680] AUDIT desert-plateau-slab-the-exiled-teachers-call- [D] GEO=43% AEO=33% SXO=58% 1457w
+  [116/680] AUDIT desert-hostel-stone-a-teachers-vision-of-libe [C] GEO=43% AEO=50% SXO=67% 1408w
+  [117/680] AUDIT did-the-israelites-conquer-jericho-a-new-look [C] GEO=79% AEO=25% SXO=75% 1148w
+  [118/680] AUDIT decoding-the-enigma-challenges-of-conservatio [C] GEO=50% AEO=25% SXO=75% 2334w
+  [119/680] AUDIT differences-in-biblical-canon-among-tradition [C] GEO=64% AEO=58% SXO=58% 1168w
+  [120/680] AUDIT digital-mapping-of-biblical-cities-unearthing [D] GEO=57% AEO=25% SXO=58% 901w
+  [121/680] AUDIT debunking-common-misconceptions-about-biblica [C] GEO=57% AEO=42% SXO=75% 2761w
+  [122/680] AUDIT digital-recording-of-ancient-hebrew-seals-and [D] GEO=50% AEO=25% SXO=58% 890w
+  [123/680] AUDIT digital-mapping-uncovers-lost-biblical-city-s [D] GEO=57% AEO=25% SXO=58% 977w
+  [124/680] AUDIT discover-fascinating-biblical-archaeology-art [C] GEO=43% AEO=42% SXO=83% 1215w
+  [125/680] AUDIT discover-notable-biblical-excavations-unearth [C] GEO=50% AEO=42% SXO=83% 1292w
+  [126/680] AUDIT differences-between-sinaiticus-and-vaticanus  [C] GEO=79% AEO=33% SXO=58% 1530w
+  [127/680] AUDIT discovering-biblical-art-through-archaeology  [C] GEO=71% AEO=25% SXO=58% 929w
+  [128/680] AUDIT discover-exciting-opportunities-to-support-bi [C] GEO=57% AEO=25% SXO=83% 2422w
+  [129/680] AUDIT discovering-history-the-temple-mount-scanning [C] GEO=57% AEO=33% SXO=58% 858w
+  [130/680] AUDIT discoveries-in-biblical-archaeology-unearth-n [C] GEO=50% AEO=42% SXO=75% 1142w
+  [131/680] AUDIT discovering-the-legacy-exploring-the-life-and [C] GEO=71% AEO=33% SXO=83% 1913w
+  [132/680] AUDIT desert-rain-at-ein-gedi-the-interplay-of-frag [C] GEO=57% AEO=50% SXO=67% 1535w
+  [133/680] AUDIT dna-analysis-transforms-ancient-migration-ins [D] GEO=57% AEO=25% SXO=58% 898w
+  [134/680] AUDIT do-any-of-the-original-books-of-the-bible-sti [C] GEO=79% AEO=42% SXO=67% 1089w
+  [135/680] AUDIT discovering-hidden-treasures-the-art-of-bibli [C] GEO=57% AEO=25% SXO=83% 2403w
+  [136/680] AUDIT does-archaeology-confirm-the-historical-accur [C] GEO=50% AEO=42% SXO=67% 1124w
+  [137/680] AUDIT does-the-original-bible-still-exist           [C] GEO=71% AEO=42% SXO=75% 1119w
+  [138/680] AUDIT discovering-the-pioneers-prominent-biblical-a [C] GEO=57% AEO=25% SXO=83% 2077w
+  [139/680] AUDIT donkey-kicked-boulder-a-journey-through-trial [D] GEO=57% AEO=25% SXO=58% 1262w
+  [140/680] AUDIT do-the-dead-sea-scrolls-include-biblical-text [B] GEO=79% AEO=50% SXO=67% 1567w
+  [141/680] AUDIT ein-gedi-fallen-stones-a-testament-of-hope-in [C] GEO=57% AEO=58% SXO=67% 1557w
+  [142/680] AUDIT dominion-struggles-in-the-shadow-of-the-dead- [C] GEO=50% AEO=42% SXO=67% 1213w
+  [143/680] AUDIT essential-key-skills-for-a-career-in-biblical [C] GEO=64% AEO=25% SXO=75% 2212w
+  [144/680] AUDIT effective-communication-strategies-for-biblic [C] GEO=57% AEO=33% SXO=75% 2892w
+  [145/680] AUDIT excavations-unveiling-biblical-archaeology    [C] GEO=50% AEO=42% SXO=75% 1228w
+  [146/680] AUDIT embracing-the-future-new-technologies-in-bibl [C] GEO=57% AEO=33% SXO=83% 3031w
+  [147/680] AUDIT exciting-biblical-archaeology-excavation-find [C] GEO=50% AEO=42% SXO=75% 1315w
+  [148/680] AUDIT examining-the-impact-of-roland-de-vaux-on-bib [C] GEO=57% AEO=25% SXO=83% 2337w
+  [149/680] AUDIT exploring-a-biblical-ship-harbor-discovery    [D] GEO=57% AEO=25% SXO=50% 845w
+  [150/680] AUDIT exploring-ancient-biblical-artifacts-the-role [D] GEO=57% AEO=8% SXO=67% 1091w
+  [151/680] AUDIT exciting-discoveries-await-biblical-archaeolo [C] GEO=50% AEO=42% SXO=83% 1231w
+  [152/680] AUDIT exploring-ancient-hebrew-homes-through-archae [D] GEO=50% AEO=25% SXO=58% 920w
+  [153/680] AUDIT exploring-ancient-jerusalem-pilgrim-routes-un [D] GEO=57% AEO=25% SXO=58% 892w
+  [154/680] AUDIT exploring-ancient-biblical-sites-a-journey-th [C] GEO=50% AEO=42% SXO=83% 1354w
+  [155/680] AUDIT exploring-ancient-markets-role-in-temple-econ [D] GEO=57% AEO=25% SXO=58% 950w
+  [156/680] AUDIT exploring-ancient-languages-through-biblical- [C] GEO=64% AEO=8% SXO=83% 1745w
+  [157/680] AUDIT exploring-biblical-archaeological-evidence    [D] GEO=50% AEO=25% SXO=58% 876w
+  [158/680] AUDIT exploring-biblical-archaeology-discoveries    [D] GEO=43% AEO=25% SXO=67% 964w
+  [159/680] AUDIT exploring-ancient-religious-practices-through [C] GEO=50% AEO=33% SXO=67% 3711w
+  [160/680] AUDIT exploring-biblical-archaeology-journey-to-jer [C] GEO=50% AEO=33% SXO=83% 1210w
+  [161/680] AUDIT discovering-the-ancient-jewish-bath-house     [C] GEO=57% AEO=25% SXO=67% 1303w
+  [162/680] AUDIT exploring-biblical-archaeology-studies-unveil [C] GEO=50% AEO=42% SXO=75% 1048w
+  [163/680] AUDIT exploring-biblical-archaeology-in-the-middle- [C] GEO=57% AEO=25% SXO=83% 2057w
+  [164/680] AUDIT exciting-biblical-archaeology-excavation-disc [C] GEO=50% AEO=25% SXO=75% 1194w
+  [165/680] AUDIT exploring-biblical-archaeology-uncovering-anc [C] GEO=57% AEO=25% SXO=83% 3352w
+  [166/680] AUDIT exploring-controversies-surrounding-biblical- [C] GEO=57% AEO=33% SXO=83% 2158w
+  [167/680] AUDIT exploring-hill-country-tablets-genealogies-li [C] GEO=50% AEO=42% SXO=67% 1389w
+  [168/680] AUDIT exploring-biblical-archaeology-methods-in-anc [C] GEO=50% AEO=42% SXO=67% 1134w
+  [169/680] AUDIT exploring-biblical-archaeology-unveiling-the- [C] GEO=57% AEO=33% SXO=67% 6323w
+  [170/680] AUDIT exploring-ethical-considerations-in-biblical- [C] GEO=50% AEO=25% SXO=75% 1961w
+  [171/680] AUDIT exploring-the-ancient-jerusalem-palace-comple [D] GEO=50% AEO=25% SXO=58% 859w
+  [172/680] AUDIT exploring-the-ancient-world-the-most-popular- [C] GEO=57% AEO=33% SXO=67% 1081w
+  [173/680] AUDIT exploring-new-approaches-in-biblical-archaeol [C] GEO=50% AEO=25% SXO=75% 2972w
+  [174/680] AUDIT exploring-the-best-methods-for-analyzing-arti [C] GEO=50% AEO=25% SXO=75% 1661w
+  [175/680] AUDIT exploring-the-city-of-david-cracks-insights-i [C] GEO=64% AEO=33% SXO=67% 1261w
+  [176/680] AUDIT exploring-jerusalem-market-crafting-fellowshi [C] GEO=43% AEO=42% SXO=67% 1486w
+  [177/680] AUDIT exploring-the-connection-architecture-and-bib [C] GEO=50% AEO=33% SXO=83% 1662w
+  [178/680] AUDIT exploring-the-connections-between-biblical-ar [C] GEO=50% AEO=33% SXO=75% 3346w
+  [179/680] AUDIT exploring-the-authenticity-of-old-testament-m [D] GEO=57% AEO=33% SXO=50% 4645w
+  [180/680] AUDIT exploring-the-depths-of-biblical-archaeology  [D] GEO=57% AEO=17% SXO=67% 974w
+  [181/680] AUDIT exploring-the-connection-the-intersection-of- [C] GEO=57% AEO=25% SXO=83% 3042w
+  [182/680] AUDIT exploring-the-desert-oven-hideaway-a-study-of [C] GEO=50% AEO=58% SXO=58% 1327w
+  [183/680] AUDIT exploring-the-desert-plateau-anomaly-unveilin [C] GEO=50% AEO=58% SXO=58% 1659w
+  [184/680] AUDIT exploring-side-canyon-shelter-a-journey-throu [C] GEO=57% AEO=42% SXO=58% 1490w
+  [185/680] AUDIT exploring-the-era-of-moral-decay-the-ark-as-h [C] GEO=43% AEO=42% SXO=67% 1306w
+  [186/680] AUDIT exploring-the-controversies-the-role-of-bibli [C] GEO=64% AEO=25% SXO=83% 3461w
+  [187/680] AUDIT exploring-the-ethical-issues-in-biblical-arch [C] GEO=57% AEO=42% SXO=75% 2019w
+  [188/680] AUDIT exploring-the-environmental-impact-on-biblica [C] GEO=50% AEO=25% SXO=83% 3450w
+  [189/680] AUDIT exploring-the-ethical-implications-of-display [C] GEO=57% AEO=42% SXO=75% 2347w
+  [190/680] AUDIT exploring-the-hidden-channel-vessel-israels-r [C] GEO=57% AEO=25% SXO=67% 1268w
+  [191/680] AUDIT exploring-the-first-temple-treasury           [D] GEO=57% AEO=25% SXO=58% 886w
+  [192/680] AUDIT exploring-the-impact-of-technology-in-biblica [C] GEO=50% AEO=25% SXO=83% 1950w
+  [193/680] AUDIT exploring-the-impact-of-biblical-archaeology- [C] GEO=57% AEO=33% SXO=83% 1753w
+  [194/680] AUDIT exploring-the-inner-essence-the-arks-balance- [D] GEO=64% AEO=8% SXO=58% 1156w
+  [195/680] AUDIT exploring-the-influence-of-biblical-archaeolo [C] GEO=57% AEO=25% SXO=83% 1894w
+  [196/680] AUDIT exploring-the-intersection-of-biblical-archae [C] GEO=57% AEO=17% SXO=83% 2147w
+  [197/680] AUDIT exploring-the-galilean-synagogue-mosaic-a-stu [C] GEO=57% AEO=50% SXO=67% 1252w
+  [198/680] AUDIT exploring-the-jericho-mound-ledger-offerings- [C] GEO=50% AEO=58% SXO=67% 1441w
+  [199/680] AUDIT exploring-the-interconnections-religion-and-b [C] GEO=57% AEO=25% SXO=67% 3530w
+  [200/680] AUDIT exploring-the-jericho-cellar-tapestry-a-journ [C] GEO=57% AEO=50% SXO=67% 1590w
+  [201/680] AUDIT exploring-the-jericho-ruins-a-single-jar-of-a [D] GEO=43% AEO=42% SXO=58% 1265w
+  [202/680] AUDIT exploring-the-key-skills-of-biblical-archaeol [C] GEO=57% AEO=25% SXO=75% 1636w
+  [203/680] AUDIT exploring-the-key-responsibilities-of-a-bibli [C] GEO=64% AEO=25% SXO=75% 3489w
+  [204/680] AUDIT exploring-the-legacy-of-the-sandstorm-in-jeri [C] GEO=57% AEO=42% SXO=67% 1278w
+  [205/680] AUDIT exploring-the-legacy-of-w-f-petrie-in-biblica [D] GEO=50% AEO=25% SXO=67% 1134w
+  [206/680] AUDIT exploring-the-language-of-the-old-testament   [C] GEO=64% AEO=50% SXO=50% 5181w
+  [207/680] AUDIT exploring-the-depths-the-future-of-underwater [C] GEO=57% AEO=33% SXO=67% 4408w
+  [208/680] AUDIT exploring-the-key-discoveries-of-archaeologis [C] GEO=71% AEO=33% SXO=83% 2406w
+  [209/680] AUDIT exploring-the-link-biblical-archaeologys-infl [C] GEO=57% AEO=33% SXO=83% 2610w
+  [210/680] AUDIT exploring-the-link-between-biblical-archaeolo [C] GEO=57% AEO=33% SXO=83% 2486w
+  [211/680] AUDIT exploring-the-mountain-corridor-a-journey-thr [C] GEO=50% AEO=50% SXO=67% 1348w
+  [212/680] AUDIT exploring-the-link-biblical-archaeology-and-t [C] GEO=64% AEO=42% SXO=83% 3038w
+  [213/680] AUDIT exploring-the-multidisciplinary-approach-in-b [C] GEO=57% AEO=25% SXO=83% 1921w
+  [214/680] AUDIT exploring-the-mysteries-of-the-qumran-stairwa [C] GEO=50% AEO=50% SXO=67% 1206w
+  [215/680] AUDIT exploring-the-mysteries-exciting-careers-for- [C] GEO=64% AEO=25% SXO=83% 2402w
+  [216/680] AUDIT exploring-the-mysteries-of-the-well-shaft-in- [C] GEO=57% AEO=33% SXO=67% 1221w
+  [217/680] AUDIT exploring-the-moral-dilemmas-surrounding-coll [C] GEO=57% AEO=42% SXO=75% 2053w
+  [218/680] AUDIT exploring-the-old-testament-through-a-cultura [D] GEO=43% AEO=25% SXO=50% 4952w
+  [219/680] AUDIT exploring-the-old-testaments-role-in-christia [C] GEO=50% AEO=33% SXO=67% 3291w
+  [220/680] AUDIT exploring-the-power-of-collaboration-in-bibli [C] GEO=57% AEO=25% SXO=67% 1151w
+  [221/680] AUDIT exploring-the-qumran-storeroom-trunk-a-study- [C] GEO=57% AEO=50% SXO=67% 1293w
+  [222/680] AUDIT exploring-the-origins-understanding-biblical- [C] GEO=57% AEO=33% SXO=83% 2071w
+  [223/680] AUDIT exploring-the-relationship-between-biblical-a [C] GEO=57% AEO=25% SXO=83% 1868w
+  [224/680] AUDIT exploring-the-political-implications-of-bibli [C] GEO=50% AEO=25% SXO=83% 2167w
+  [225/680] AUDIT exploring-the-remote-hill-shrine-relics-that- [C] GEO=43% AEO=50% SXO=67% 1489w
+  [226/680] AUDIT exploring-the-qumran-workshop-ruins-a-quest-f [C] GEO=57% AEO=50% SXO=67% 1793w
+  [227/680] AUDIT exploring-the-secrets-of-biblical-seals       [D] GEO=50% AEO=25% SXO=58% 884w
+  [228/680] AUDIT exploring-the-link-between-biblical-archaeolo [C] GEO=50% AEO=25% SXO=75% 893w
+  [229/680] AUDIT exploring-the-significance-of-biblical-archae [C] GEO=50% AEO=25% SXO=75% 1384w
+  [230/680] AUDIT exploring-the-significance-biblical-archaeolo [C] GEO=57% AEO=25% SXO=83% 2606w
+  [231/680] AUDIT exploring-the-significance-of-biblical-archae [C] GEO=57% AEO=33% SXO=83% 1525w
+  [232/680] AUDIT exploring-the-roman-encampment-chamber-insigh [C] GEO=50% AEO=50% SXO=67% 1292w
+  [233/680] AUDIT exploring-the-techniques-employed-by-biblical [C] GEO=50% AEO=25% SXO=75% 2251w
+  [234/680] AUDIT exploring-the-temple-era-gardens-in-biblical- [D] GEO=57% AEO=25% SXO=58% 828w
+  [235/680] AUDIT exploring-the-significance-of-biblical-archae [C] GEO=57% AEO=25% SXO=83% 2516w
+  [236/680] AUDIT exploring-the-wadi-cliff-fish-carving-insight [C] GEO=50% AEO=42% SXO=58% 1454w
+  [237/680] AUDIT exploring-the-religious-significance-biblical [C] GEO=57% AEO=25% SXO=83% 2166w
+  [238/680] AUDIT exploring-the-worship-in-the-new-testament    [C] GEO=57% AEO=42% SXO=67% 2707w
+  [239/680] AUDIT exploring-the-significance-of-cherubim-in-bib [D] GEO=50% AEO=25% SXO=58% 1159w
+  [240/680] AUDIT famous-biblical-dig-sites-revealed            [C] GEO=50% AEO=42% SXO=75% 1053w
+  [241/680] AUDIT feast-days-and-the-ark-a-spiritual-journey-th [C] GEO=64% AEO=42% SXO=67% 1610w
+  [242/680] AUDIT exploring-the-wilderness-insights-from-the-be [C] GEO=50% AEO=42% SXO=67% 1404w
+  [243/680] AUDIT first-temple-market-unearthed-a-new-biblical- [C] GEO=71% AEO=25% SXO=58% 911w
+  [244/680] AUDIT first-temple-period-discovery-reveals-ancient [D] GEO=50% AEO=25% SXO=58% 828w
+  [245/680] AUDIT first-temple-period-royal-seal-collection-une [C] GEO=64% AEO=25% SXO=58% 957w
+  [246/680] AUDIT famous-biblical-archaeologists-and-their-disc [C] GEO=57% AEO=25% SXO=75% 918w
+  [247/680] AUDIT first-temple-treasury-complex-unveiled        [D] GEO=57% AEO=25% SXO=58% 1009w
+  [248/680] AUDIT fishermans-vessel-the-role-of-water-as-purifi [D] GEO=50% AEO=25% SXO=50% 1056w
+  [249/680] AUDIT foundations-of-biblical-archaeology-uncovered [D] GEO=57% AEO=25% SXO=58% 962w
+  [250/680] AUDIT first-temple-archive-unearths-historical-reco [D] GEO=50% AEO=25% SXO=58% 926w
+  [251/680] AUDIT good-samaritan-road-a-journey-of-compassion-f [C] GEO=43% AEO=42% SXO=67% 1472w
+  [252/680] AUDIT first-temple-storage-complex-unveils-ancient- [D] GEO=57% AEO=25% SXO=58% 1145w
+  [253/680] AUDIT ground-penetrating-radar-unveils-hidden-templ [D] GEO=50% AEO=25% SXO=58% 1034w
+  [254/680] AUDIT governing-temple-rites-the-secrets-of-the-mus [C] GEO=50% AEO=58% SXO=67% 1474w
+  [255/680] AUDIT has-archeology-ever-disproved-the-bible       [C] GEO=43% AEO=42% SXO=67% 1099w
+  [256/680] AUDIT has-the-bible-ever-been-mistranslated         [C] GEO=71% AEO=42% SXO=50% 1078w
+  [257/680] AUDIT exploring-the-transition-between-the-old-test [D] GEO=57% AEO=25% SXO=58% 1241w
+  [258/680] AUDIT have-the-original-books-of-the-bible-been-fou [C] GEO=64% AEO=42% SXO=75% 1137w
+  [259/680] AUDIT has-archaeology-buried-the-bible-review       [C] GEO=50% AEO=42% SXO=75% 1013w
+  [260/680] AUDIT hezekiahs-tunnel-plug-unraveling-the-royal-de [C] GEO=64% AEO=42% SXO=58% 1035w
+  [261/680] AUDIT hidden-fort-corridor-the-intersection-of-weal [C] GEO=50% AEO=50% SXO=67% 1407w
+  [262/680] AUDIT have-any-artifacts-from-the-bible-been-found  [C] GEO=50% AEO=42% SXO=67% 1112w
+  [263/680] AUDIT high-holy-psalms-the-melodic-prayer-of-priest [C] GEO=43% AEO=50% SXO=67% 1440w
+  [264/680] AUDIT hillside-dwelling-scribal-lessons-on-preserva [C] GEO=57% AEO=42% SXO=67% 1398w
+  [265/680] AUDIT hidden-temple-chamber-reveals-lost-biblical-t [D] GEO=57% AEO=25% SXO=58% 993w
+  [266/680] AUDIT how-archaeology-confirms-biblical-origins     [C] GEO=64% AEO=42% SXO=67% 1253w
+  [267/680] AUDIT hebrew-aramaic-greek-biblical-languages-expla [B] GEO=71% AEO=58% SXO=67% 1501w
+  [268/680] AUDIT how-codex-vaticanus-shapes-our-bible-text-tod [C] GEO=71% AEO=50% SXO=58% 1316w
+  [269/680] AUDIT how-do-you-become-a-biblical-archaeologist    [D] GEO=50% AEO=25% SXO=50% 1012w
+  [270/680] AUDIT galilee-synagogue-floor-exploring-the-watchme [C] GEO=50% AEO=42% SXO=58% 1317w
+  [271/680] AUDIT how-does-biblical-archaeology-relate-to-the-i [C] GEO=43% AEO=42% SXO=67% 1020w
+  [272/680] AUDIT how-and-why-the-original-bible-autographs-wer [C] GEO=57% AEO=50% SXO=50% 1122w
+  [273/680] AUDIT how-jeromes-vulgate-influenced-canon-texts    [C] GEO=64% AEO=58% SXO=58% 1259w
+  [274/680] AUDIT how-many-ancient-manuscripts-of-the-bible-hav [C] GEO=86% AEO=42% SXO=58% 1021w
+  [275/680] AUDIT how-does-archeology-prove-the-bible-is-true   [C] GEO=57% AEO=25% SXO=75% 1136w
+  [276/680] AUDIT how-many-new-testament-manuscripts-exist-toda [C] GEO=64% AEO=58% SXO=50% 846w
+  [277/680] AUDIT how-many-old-testament-manuscripts-survive    [C] GEO=64% AEO=50% SXO=67% 1285w
+  [278/680] AUDIT how-many-different-versions-of-the-bible-are- [C] GEO=64% AEO=33% SXO=58% 1036w
+  [279/680] AUDIT how-scholars-reconstruct-the-earliest-texts-2 [C] GEO=57% AEO=33% SXO=67% 1370w
+  [280/680] AUDIT how-does-the-ethiopian-bible-differ-from-the- [C] GEO=50% AEO=42% SXO=58% 1130w
+  [281/680] AUDIT how-the-documentary-hypothesis-shapes-origins [C] GEO=64% AEO=33% SXO=67% 1344w
+  [282/680] AUDIT how-septuagint-shed-light-on-early-hebrew-tex [C] GEO=64% AEO=42% SXO=58% 1546w
+  [283/680] AUDIT integrating-biblical-archaeology-in-education [D] GEO=50% AEO=25% SXO=67% 2154w
+  [284/680] AUDIT interpreting-biblical-archaeology-discoveries [C] GEO=50% AEO=42% SXO=67% 1115w
+  [285/680] AUDIT how-many-times-has-the-bible-been-changed     [D] GEO=64% AEO=25% SXO=50% 996w
+  [286/680] AUDIT interpreting-biblical-texts-with-clarity      [C] GEO=50% AEO=42% SXO=67% 1193w
+  [287/680] AUDIT is-anything-in-the-bible-historically-accurat [C] GEO=50% AEO=42% SXO=67% 1023w
+  [288/680] AUDIT interpreting-biblical-archaeology-discoveries [C] GEO=43% AEO=42% SXO=75% 1199w
+  [289/680] AUDIT is-the-ethiopian-bible-the-first-bible        [C] GEO=71% AEO=42% SXO=58% 1101w
+  [290/680] AUDIT how-the-old-testament-got-its-name            [C] GEO=57% AEO=33% SXO=58% 1952w
+  [291/680] AUDIT is-the-ethiopian-bible-the-oldest             [C] GEO=64% AEO=42% SXO=50% 1147w
+  [292/680] AUDIT is-the-ethiopian-bible-the-oldest-bible       [C] GEO=64% AEO=42% SXO=58% 1097w
+  [293/680] AUDIT how-church-fathers-help-reconstruct-originals [C] GEO=57% AEO=42% SXO=58% 1460w
+  [294/680] AUDIT is-there-a-degree-in-biblical-history         [C] GEO=57% AEO=50% SXO=75% 1040w
+  [295/680] AUDIT is-there-a-difference-between-archaeology-and [C] GEO=71% AEO=33% SXO=58% 1019w
+  [296/680] AUDIT is-the-old-testament-written-in-greek-or-hebr [C] GEO=57% AEO=50% SXO=67% 2150w
+  [297/680] AUDIT jericho-boundary-crack-unearthing-spiritual-u [C] GEO=50% AEO=50% SXO=67% 1579w
+  [298/680] AUDIT jericho-alcove-unveiling-the-complexities-of- [C] GEO=43% AEO=42% SXO=67% 1388w
+  [299/680] AUDIT jericho-orchard-shelter-exploring-faith-amids [C] GEO=57% AEO=42% SXO=58% 1182w
+  [300/680] AUDIT jerusalem-temple-construction-methods-finally [D] GEO=43% AEO=25% SXO=58% 862w
+  [301/680] AUDIT jericho-city-gate-the-significance-of-the-ren [C] GEO=57% AEO=58% SXO=67% 1358w
+  [302/680] AUDIT jerusalem-wall-niche-a-reflection-on-moral-wa [C] GEO=43% AEO=42% SXO=67% 1377w
+  [303/680] AUDIT is-the-ethiopian-bible-the-most-accurate      [C] GEO=71% AEO=25% SXO=58% 1120w
+  [304/680] AUDIT jordan-baptism-site-jar-unveiling-repentance- [D] GEO=43% AEO=33% SXO=67% 1420w
+  [305/680] AUDIT jordan-clay-pots-unearthing-the-day-of-reckon [C] GEO=50% AEO=50% SXO=58% 1436w
+  [306/680] AUDIT jerusalem-temple-foundations-finally-discover [C] GEO=71% AEO=25% SXO=58% 942w
+  [307/680] AUDIT joyous-festival-processions-at-the-city-sewer [D] GEO=43% AEO=17% SXO=58% 1438w
+  [308/680] AUDIT kathleen-kenyons-contributions-to-biblical-ar [B] GEO=86% AEO=33% SXO=83% 1780w
+  [309/680] AUDIT is-ethiopian-bible-accurate                   [C] GEO=50% AEO=33% SXO=67% 1143w
+  [310/680] AUDIT keys-to-successful-collaboration-on-biblical- [C] GEO=50% AEO=25% SXO=75% 1860w
+  [311/680] AUDIT language-of-the-testaments                    [D] GEO=43% AEO=25% SXO=67% 1218w
+  [312/680] AUDIT language-of-the-old-testament-exploring-the-s [D] GEO=50% AEO=33% SXO=50% 4157w
+  [313/680] AUDIT lightning-shattered-cliff-a-glimpse-of-future [D] GEO=43% AEO=25% SXO=58% 1554w
+  [314/680] AUDIT lidar-technology-uncovers-biblical-archaeolog [D] GEO=50% AEO=25% SXO=50% 830w
+  [315/680] AUDIT lost-biblical-city-found-ancient-life-reveale [D] GEO=50% AEO=25% SXO=50% 803w
+  [316/680] AUDIT lost-biblical-city-found-ancient-fortress-rev [D] GEO=43% AEO=25% SXO=50% 1040w
+  [317/680] AUDIT mapping-the-ancient-jerusalem-defense-system  [D] GEO=43% AEO=33% SXO=58% 914w
+  [318/680] AUDIT mapping-the-priestly-lineages-of-qumran-old-c [C] GEO=50% AEO=42% SXO=67% 1455w
+  [319/680] AUDIT major-contributions-of-biblical-archaeologist [C] GEO=64% AEO=33% SXO=83% 2266w
+  [320/680] AUDIT masadas-charred-parchment-a-window-into-ancie [C] GEO=57% AEO=33% SXO=67% 1337w
+  [321/680] AUDIT massive-biblical-gate-system-unearthed-at-anc [C] GEO=64% AEO=25% SXO=58% 909w
+  [322/680] AUDIT jerusalems-hidden-compartment-unraveling-the- [D] GEO=50% AEO=25% SXO=58% 1012w
+  [323/680] AUDIT modern-insights-into-biblical-archaeology-dis [D] GEO=50% AEO=25% SXO=58% 843w
+  [324/680] AUDIT modern-methods-in-unearthing-biblical-structu [D] GEO=50% AEO=25% SXO=58% 819w
+  [325/680] AUDIT monastery-remains-exploring-compassion-as-dev [D] GEO=43% AEO=42% SXO=58% 1238w
+  [326/680] AUDIT jordan-slope-stone-unveiling-the-psalms-echo- [D] GEO=43% AEO=25% SXO=67% 1376w
+  [327/680] AUDIT mountaintop-shrine-pilgrims-seek-echoes-of-th [C] GEO=50% AEO=50% SXO=67% 1484w
+  [328/680] AUDIT maps-of-ancient-commerce-in-the-biblical-era  [D] GEO=57% AEO=17% SXO=58% 1009w
+  [329/680] AUDIT new-dating-technology-in-biblical-archaeology [D] GEO=57% AEO=25% SXO=58% 1007w
+  [330/680] AUDIT notable-discoveries-by-female-biblical-archae [C] GEO=57% AEO=17% SXO=75% 943w
+  [331/680] AUDIT methods-used-by-biblical-archaeologists-to-da [C] GEO=64% AEO=25% SXO=83% 3311w
+  [332/680] AUDIT old-testament-books-written-in-aramaic        [C] GEO=57% AEO=42% SXO=67% 1977w
+  [333/680] AUDIT monastic-heirloom-chest-unearthing-prophetic- [C] GEO=50% AEO=42% SXO=67% 1392w
+  [334/680] AUDIT overlooked-qumran-cave-rediscovering-joy-in-c [D] GEO=50% AEO=25% SXO=67% 1204w
+  [335/680] AUDIT oldest-writing-in-the-old-testament           [C] GEO=57% AEO=42% SXO=67% 2368w
+  [336/680] AUDIT preparing-for-fieldwork-strategies-and-techni [C] GEO=57% AEO=25% SXO=75% 2731w
+  [337/680] AUDIT preserving-biblical-archaeological-sites-best [C] GEO=57% AEO=25% SXO=83% 1943w
+  [338/680] AUDIT preservation-methods-for-biblical-artifacts-u [D] GEO=50% AEO=25% SXO=58% 991w
+  [339/680] AUDIT preserving-endangered-cultural-sites-the-role [C] GEO=50% AEO=25% SXO=83% 1734w
+  [340/680] AUDIT preserving-cultural-heritage-strategies-for-d [C] GEO=57% AEO=25% SXO=75% 1209w
+  [341/680] AUDIT prophets-assurance-unveiling-the-law-behind-t [D] GEO=43% AEO=33% SXO=58% 1044w
+  [342/680] AUDIT old-marketplace-entry-decoding-the-sacred-pas [C] GEO=50% AEO=50% SXO=67% 1243w
+  [343/680] AUDIT quest-for-qumran-mysteries-in-the-holy-land   [C] GEO=57% AEO=50% SXO=83% 1522w
+  [344/680] AUDIT qumran-boundary-stone-unlocking-the-calendar- [C] GEO=43% AEO=42% SXO=67% 1210w
+  [345/680] AUDIT priestly-protocols-the-sacred-duty-of-safegua [C] GEO=50% AEO=50% SXO=67% 1563w
+  [346/680] AUDIT qumran-cave-revisited-unveiling-cord-bound-te [C] GEO=43% AEO=67% SXO=58% 1491w
+  [347/680] AUDIT qumran-fallen-beams-the-tug-of-war-between-pi [C] GEO=57% AEO=42% SXO=58% 1295w
+  [348/680] AUDIT navigating-political-challenges-in-middle-eas [C] GEO=57% AEO=33% SXO=75% 2574w
+  [349/680] AUDIT qumran-storage-surprise-unveiling-ascetic-con [C] GEO=50% AEO=58% SXO=67% 1395w
+  [350/680] AUDIT qumran-pit-of-ash-unveiling-righteous-resolve [C] GEO=57% AEO=33% SXO=67% 1293w
+  [351/680] AUDIT qumrans-biblical-fragments-and-their-dating   [C] GEO=50% AEO=42% SXO=58% 1339w
+  [352/680] AUDIT purification-rites-an-examination-of-strict-w [C] GEO=50% AEO=42% SXO=67% 1425w
+  [353/680] AUDIT qumrans-empty-cave-unveiling-the-kindness-man [D] GEO=50% AEO=25% SXO=58% 1525w
+  [354/680] AUDIT radiocarbon-dating-validates-biblical-site-di [C] GEO=64% AEO=25% SXO=58% 924w
+  [355/680] AUDIT qumran-broken-ladder-navigating-conflict-reso [C] GEO=50% AEO=42% SXO=67% 1358w
+  [356/680] AUDIT ravine-settlement-a-glimpse-into-roman-rule-a [C] GEO=50% AEO=42% SXO=67% 1234w
+  [357/680] AUDIT recent-biblical-archaeological-discoveries-sh [C] GEO=50% AEO=42% SXO=83% 1271w
+  [358/680] AUDIT qumrans-clay-jar-the-secrets-of-a-devoted-com [C] GEO=57% AEO=25% SXO=67% 1411w
+  [359/680] AUDIT replicas-in-exile-the-quest-for-the-real-ark- [C] GEO=64% AEO=50% SXO=67% 1496w
+  [360/680] AUDIT restoration-hopes-of-the-qumran-boulder-mark  [C] GEO=57% AEO=50% SXO=67% 1326w
+  [361/680] AUDIT qumran-wadi-silt-and-the-book-of-jobs-righteo [C] GEO=43% AEO=42% SXO=67% 1337w
+  [362/680] AUDIT royal-chronicles-an-expedition-into-arks-trav [C] GEO=57% AEO=42% SXO=67% 1344w
+  [363/680] AUDIT royal-seals-unearthed-from-the-first-temple-p [D] GEO=43% AEO=25% SXO=58% 1013w
+  [364/680] AUDIT revolutionizing-biblical-archaeology-research [D] GEO=50% AEO=25% SXO=67% 2530w
+  [365/680] AUDIT rural-jericho-dwelling-insights-into-scribal- [D] GEO=50% AEO=42% SXO=50% 974w
+  [366/680] AUDIT salt-laden-dead-sea-edge-where-barren-earth-r [C] GEO=57% AEO=50% SXO=67% 1243w
+  [367/680] AUDIT scientific-analysis-of-temple-artifacts-and-b [D] GEO=50% AEO=25% SXO=58% 898w
+  [368/680] AUDIT sacred-vessels-in-temple-worship-unveiled     [D] GEO=50% AEO=25% SXO=58% 860w
+  [369/680] AUDIT scientific-site-analysis-of-biblical-archaeol [D] GEO=57% AEO=25% SXO=58% 884w
+  [370/680] AUDIT shepherds-cave-discovery-unearthing-the-secre [C] GEO=43% AEO=67% SXO=50% 973w
+  [371/680] AUDIT ravine-echoes-a-journey-through-festival-musi [D] GEO=43% AEO=42% SXO=50% 1189w
+  [372/680] AUDIT significant-biblical-excavations-uncover-anci [C] GEO=50% AEO=33% SXO=83% 1205w
+  [373/680] AUDIT solomons-economic-power-unveiled-through-bibl [D] GEO=50% AEO=33% SXO=58% 831w
+  [374/680] AUDIT should-i-read-the-new-testament-or-the-old-te [C] GEO=50% AEO=33% SXO=67% 3377w
+  [375/680] AUDIT solomons-lost-quarries-unveiled-revelations-i [C] GEO=79% AEO=25% SXO=58% 884w
+  [376/680] AUDIT solomons-lost-harbor-unearthing-a-maritime-tr [D] GEO=50% AEO=25% SXO=58% 826w
+  [377/680] AUDIT steps-to-becoming-a-biblical-archaeologist    [C] GEO=57% AEO=25% SXO=75% 1543w
+  [378/680] AUDIT stone-paving-echo-unveiling-the-rituals-of-th [C] GEO=57% AEO=42% SXO=58% 1175w
+  [379/680] AUDIT steps-for-conducting-a-proper-excavation-in-b [C] GEO=64% AEO=25% SXO=75% 2347w
+  [380/680] AUDIT temple-artifacts-reveal-ancient-worship-pract [D] GEO=57% AEO=25% SXO=58% 820w
+  [381/680] AUDIT temple-construction-insights-biblical-and-arc [D] GEO=43% AEO=25% SXO=58% 867w
+  [382/680] AUDIT storage-cave-debris-unveiling-the-secrets-of- [C] GEO=57% AEO=42% SXO=67% 1426w
+  [383/680] AUDIT temple-mount-construction-secrets-unveiled    [D] GEO=57% AEO=25% SXO=58% 1120w
+  [384/680] AUDIT temple-mounts-hidden-tunnel-system-unveiled   [C] GEO=64% AEO=25% SXO=58% 911w
+  [385/680] AUDIT scientific-dating-in-biblical-archaeology-coi [C] GEO=79% AEO=25% SXO=58% 890w
+  [386/680] AUDIT temple-storage-discoveries-in-biblical-archae [D] GEO=50% AEO=25% SXO=58% 939w
+  [387/680] AUDIT the-ancient-city-unpacking-prophecy-and-ethic [D] GEO=43% AEO=33% SXO=58% 1172w
+  [388/680] AUDIT temple-objects-reveal-ancient-ritual-practice [D] GEO=57% AEO=25% SXO=58% 937w
+  [389/680] AUDIT the-archaeology-of-the-bible-the-greatest-dis [C] GEO=64% AEO=42% SXO=83% 2717w
+  [390/680] AUDIT temple-mount-chamber-network-finally-mapped   [D] GEO=50% AEO=25% SXO=58% 948w
+  [391/680] AUDIT the-ascetic-communitys-role-in-preparing-for- [C] GEO=50% AEO=42% SXO=67% 1247w
+  [392/680] AUDIT the-archaeological-evidence-of-ancient-mariti [C] GEO=50% AEO=25% SXO=75% 2459w
+  [393/680] AUDIT the-chosen-leader-unifying-the-scattered-arou [C] GEO=50% AEO=58% SXO=67% 1362w
+  [394/680] AUDIT the-arks-moral-authority-in-turmoil-a-deep-di [D] GEO=43% AEO=33% SXO=58% 1121w
+  [395/680] AUDIT the-controversy-surrounding-the-existence-of- [D] GEO=57% AEO=8% SXO=67% 877w
+  [396/680] AUDIT the-best-universities-for-studying-biblical-a [C] GEO=57% AEO=25% SXO=83% 1752w
+  [397/680] AUDIT the-distant-queens-visit-unearthing-the-gifts [C] GEO=50% AEO=42% SXO=67% 1456w
+  [398/680] AUDIT the-evolution-of-temple-worship-artifacts     [D] GEO=57% AEO=25% SXO=58% 849w
+  [399/680] AUDIT the-dead-sea-scrolls-unearthed-secrets-of-the [C] GEO=50% AEO=25% SXO=75% 2973w
+  [400/680] AUDIT the-excavation-of-qumran-unearthing-the-famou [C] GEO=64% AEO=25% SXO=83% 2397w
+  [401/680] AUDIT the-evolution-of-the-old-testament-tracing-it [D] GEO=50% AEO=25% SXO=67% 3111w
+  [402/680] AUDIT remote-sensing-reveals-lost-biblical-towns    [D] GEO=50% AEO=25% SXO=58% 1025w
+  [403/680] AUDIT the-fortress-vault-rumor-unraveling-sacred-it [C] GEO=64% AEO=42% SXO=58% 1137w
+  [404/680] AUDIT the-golden-ark-lid-unraveling-legends-of-unse [C] GEO=57% AEO=67% SXO=67% 1270w
+  [405/680] AUDIT the-connection-between-the-old-testament-and- [D] GEO=50% AEO=33% SXO=50% 6333w
+  [406/680] AUDIT the-hidden-passageway-to-the-messianic-banque [C] GEO=43% AEO=42% SXO=67% 1388w
+  [407/680] AUDIT the-formation-of-the-new-testament-who-added- [D] GEO=64% AEO=25% SXO=50% 4024w
+  [408/680] AUDIT the-hidden-scrolls-of-the-temple-unearthing-m [C] GEO=50% AEO=33% SXO=67% 1226w
+  [409/680] AUDIT the-historical-accuracy-of-the-new-testament  [C] GEO=57% AEO=25% SXO=67% 2372w
+  [410/680] AUDIT the-forbidden-cave-plateau-unearthing-war-tim [D] GEO=43% AEO=42% SXO=58% 1216w
+  [411/680] AUDIT the-impact-of-technology-on-biblical-archaeol [C] GEO=50% AEO=25% SXO=75% 2006w
+  [412/680] AUDIT the-historical-context-of-the-old-testament-a [D] GEO=64% AEO=25% SXO=50% 5407w
+  [413/680] AUDIT the-impact-of-biblical-archaeologists-on-cult [C] GEO=57% AEO=33% SXO=83% 1862w
+  [414/680] AUDIT the-infamous-relics-famous-fakes-and-forgerie [C] GEO=86% AEO=25% SXO=67% 3538w
+  [415/680] AUDIT the-intertestamental-period-exploring-the-tim [C] GEO=71% AEO=42% SXO=67% 2551w
+  [416/680] AUDIT the-john-rylands-papyrus-first-century-gospel [C] GEO=79% AEO=42% SXO=50% 1059w
+  [417/680] AUDIT the-influence-of-cultural-context-on-old-test [C] GEO=64% AEO=50% SXO=50% 3684w
+  [418/680] AUDIT the-jordan-crossing-miracle-unveiling-the-wat [C] GEO=57% AEO=42% SXO=58% 1123w
+  [419/680] AUDIT the-jordan-orchard-jar-a-glimpse-into-worship [C] GEO=57% AEO=42% SXO=58% 1157w
+  [420/680] AUDIT the-importance-of-biblical-archaeology-in-unc [C] GEO=50% AEO=42% SXO=67% 1083w
+  [421/680] AUDIT the-kings-grand-procession-unveiling-the-vict [C] GEO=43% AEO=42% SXO=67% 1231w
+  [422/680] AUDIT the-john-rylands-papyrus-first-century-gospel [C] GEO=79% AEO=42% SXO=58% 1779w
+  [423/680] AUDIT the-language-of-the-old-testament-exploring-i [C] GEO=57% AEO=33% SXO=67% 2646w
+  [424/680] AUDIT the-haunted-echoes-of-the-abandoned-stable-le [C] GEO=57% AEO=50% SXO=58% 1505w
+  [425/680] AUDIT the-last-stand-in-battle-how-the-ark-lifts-th [C] GEO=43% AEO=42% SXO=67% 1269w
+  [426/680] AUDIT the-language-of-the-original-old-testament-ex [C] GEO=57% AEO=33% SXO=67% 2143w
+  [427/680] AUDIT the-language-of-the-new-testament-exploring-i [D] GEO=57% AEO=33% SXO=50% 5061w
+  [428/680] AUDIT the-mystery-of-the-dead-sea-stone-inscription [C] GEO=57% AEO=58% SXO=67% 1556w
+  [429/680] AUDIT the-judean-desert-riverbed-a-ledger-of-an-exi [C] GEO=50% AEO=42% SXO=67% 1580w
+  [430/680] AUDIT the-olive-press-cache-unveiling-temple-seals- [C] GEO=43% AEO=42% SXO=67% 1519w
+  [431/680] AUDIT the-old-testament-exploring-themes-genres-and [C] GEO=50% AEO=33% SXO=67% 3296w
+  [432/680] AUDIT the-original-language-of-the-new-testament-bi [C] GEO=57% AEO=50% SXO=58% 1892w
+  [433/680] AUDIT the-materials-used-for-writing-the-old-testam [D] GEO=50% AEO=25% SXO=58% 2017w
+  [434/680] AUDIT the-outer-qumran-wall-collapse-an-exploration [C] GEO=57% AEO=58% SXO=67% 1285w
+  [435/680] AUDIT the-original-language-of-the-new-testament    [D] GEO=57% AEO=25% SXO=58% 2538w
+  [436/680] AUDIT the-origins-of-the-old-testament              [C] GEO=50% AEO=50% SXO=50% 5060w
+  [437/680] AUDIT the-lost-cities-of-the-bible-explorations     [C] GEO=50% AEO=33% SXO=83% 1251w
+  [438/680] AUDIT the-role-of-3d-modeling-in-biblical-archaeolo [C] GEO=50% AEO=25% SXO=83% 1592w
+  [439/680] AUDIT the-pioneers-of-biblical-archaeology          [C] GEO=79% AEO=42% SXO=67% 4633w
+  [440/680] AUDIT the-role-of-biblical-archaeologists-in-the-pr [D] GEO=43% AEO=25% SXO=75% 1224w
+  [441/680] AUDIT the-political-powers-impact-on-biblical-archa [C] GEO=57% AEO=33% SXO=75% 2858w
+  [442/680] AUDIT the-sealed-jar-with-no-opening-a-flowing-prop [D] GEO=43% AEO=33% SXO=50% 1193w
+  [443/680] AUDIT the-role-of-biblical-archaeologists-in-recons [C] GEO=50% AEO=33% SXO=83% 2808w
+  [444/680] AUDIT the-secret-palace-tunnel-uncovering-the-legen [C] GEO=57% AEO=33% SXO=67% 1308w
+  [445/680] AUDIT the-secret-hideout-unveiling-the-chest-of-pro [C] GEO=57% AEO=50% SXO=58% 1556w
+  [446/680] AUDIT the-power-of-interdisciplinary-collaboration- [C] GEO=57% AEO=17% SXO=83% 1944w
+  [447/680] AUDIT the-significance-of-the-desert-stone-bench-in [C] GEO=57% AEO=42% SXO=67% 1372w
+  [448/680] AUDIT the-significance-of-greek-and-hebrew-in-the-n [D] GEO=57% AEO=42% SXO=42% 3766w
+  [449/680] AUDIT the-subterranean-jar-unraveling-farming-laws- [C] GEO=43% AEO=50% SXO=67% 1225w
+  [450/680] AUDIT the-significance-of-biblical-archaeology-for- [C] GEO=57% AEO=33% SXO=83% 2668w
+  [451/680] AUDIT the-top-institutions-for-biblical-archaeology [C] GEO=57% AEO=25% SXO=83% 1774w
+  [452/680] AUDIT the-temple-blueprint-scroll-unveiling-the-ark [C] GEO=50% AEO=50% SXO=67% 1306w
+  [453/680] AUDIT the-ultimate-beginners-guide-to-biblical-arch [B] GEO=64% AEO=58% SXO=83% 3219w
+  [454/680] AUDIT the-translation-of-the-old-testament-a-histor [C] GEO=64% AEO=42% SXO=67% 2408w
+  [455/680] AUDIT the-ultimate-guide-to-the-best-tools-for-bibl [C] GEO=57% AEO=50% SXO=75% 1500w
+  [456/680] AUDIT the-ultimate-guide-to-studying-biblical-archa [C] GEO=64% AEO=42% SXO=83% 3316w
+  [457/680] AUDIT the-unearthing-of-ancient-temples-a-biblical- [C] GEO=57% AEO=33% SXO=83% 3061w
+  [458/680] AUDIT the-significance-of-the-old-testament-in-unde [D] GEO=57% AEO=25% SXO=50% 3553w
+  [459/680] AUDIT the-role-of-statistical-analysis-in-biblical- [C] GEO=50% AEO=42% SXO=83% 2453w
+  [460/680] AUDIT top-excavation-sites-for-biblical-archaeologi [C] GEO=50% AEO=42% SXO=83% 1663w
+  [461/680] AUDIT top-archives-where-originals-are-kept-today   [C] GEO=86% AEO=42% SXO=50% 1048w
+  [462/680] AUDIT tree-root-hollow-unveiling-the-ritual-freedom [C] GEO=57% AEO=42% SXO=67% 1563w
+  [463/680] AUDIT top-5-historical-locations-for-biblical-archa [C] GEO=50% AEO=33% SXO=83% 1294w
+  [464/680] AUDIT uncovering-ancient-cities-through-biblical-ar [C] GEO=64% AEO=33% SXO=83% 3046w
+  [465/680] AUDIT the-uncovered-secrets-most-intriguing-biblica [C] GEO=64% AEO=33% SXO=83% 2768w
+  [466/680] AUDIT uncovering-ancient-secrets-biblical-archaeolo [C] GEO=57% AEO=25% SXO=83% 1278w
+  [467/680] AUDIT traders-route-unveiling-the-treasures-of-bibl [C] GEO=50% AEO=50% SXO=67% 1587w
+  [468/680] AUDIT uncovering-ancient-trade-routes-through-bibli [C] GEO=50% AEO=25% SXO=83% 2334w
+  [469/680] AUDIT uncharted-qumran-passage-a-journey-into-the-m [C] GEO=64% AEO=42% SXO=67% 1702w
+  [470/680] AUDIT uncovering-lost-biblical-treasures            [D] GEO=50% AEO=8% SXO=75% 1244w
+  [471/680] AUDIT uncovering-ancient-military-strategies-throug [C] GEO=43% AEO=25% SXO=83% 2156w
+  [472/680] AUDIT uncovering-rare-finds-in-biblical-archaeology [C] GEO=57% AEO=33% SXO=75% 1155w
+  [473/680] AUDIT uncovering-ancient-trading-networks-through-b [C] GEO=57% AEO=25% SXO=83% 2656w
+  [474/680] AUDIT uncovering-the-biblical-past-in-the-face-of-c [C] GEO=57% AEO=25% SXO=83% 2390w
+  [475/680] AUDIT uncovering-nelson-gluecks-archaeological-lega [B] GEO=86% AEO=33% SXO=83% 2266w
+  [476/680] AUDIT uncovering-the-mysteries-the-future-of-biblic [C] GEO=43% AEO=25% SXO=83% 2296w
+  [477/680] AUDIT uncovering-ancient-textile-production-through [C] GEO=50% AEO=25% SXO=75% 1095w
+  [478/680] AUDIT uncovering-the-past-exploring-the-significanc [C] GEO=57% AEO=25% SXO=83% 2600w
+  [479/680] AUDIT uncovering-the-historical-significance-the-im [C] GEO=71% AEO=25% SXO=83% 2689w
+  [480/680] AUDIT uncovering-the-past-biblical-archaeology-thro [C] GEO=57% AEO=25% SXO=83% 2827w
+  [481/680] AUDIT uncovering-the-secrets-of-biblical-archaeolog [C] GEO=64% AEO=33% SXO=75% 2269w
+  [482/680] AUDIT uncovering-the-mysteries-fascinating-artifact [C] GEO=43% AEO=25% SXO=83% 1974w
+  [483/680] AUDIT uncovering-the-truth-exploring-the-connection [C] GEO=57% AEO=42% SXO=83% 2673w
+  [484/680] AUDIT uncovering-the-secrets-biblical-archaeology-a [C] GEO=57% AEO=25% SXO=75% 3190w
+  [485/680] AUDIT understanding-jesus-in-the-old-testament      [C] GEO=64% AEO=25% SXO=67% 1671w
+  [486/680] AUDIT uncovering-the-secrets-the-top-techniques-use [C] GEO=50% AEO=25% SXO=75% 1282w
+  [487/680] AUDIT understanding-the-methods-of-biblical-archaeo [C] GEO=50% AEO=25% SXO=83% 2467w
+  [488/680] AUDIT understanding-biblical-archaeology-decoding-t [C] GEO=64% AEO=25% SXO=83% 2917w
+  [489/680] AUDIT uncovering-the-past-the-intersection-of-bibli [C] GEO=57% AEO=33% SXO=83% 2544w
+  [490/680] AUDIT understanding-the-old-testament-exploring-the [D] GEO=43% AEO=25% SXO=58% 871w
+  [491/680] AUDIT understanding-the-original-language-of-the-ne [C] GEO=57% AEO=33% SXO=67% 2228w
+  [492/680] AUDIT understanding-the-old-testament-in-jesuss-tim [D] GEO=57% AEO=25% SXO=50% 4356w
+  [493/680] AUDIT understanding-the-various-techniques-in-bibli [C] GEO=57% AEO=25% SXO=75% 1615w
+  [494/680] AUDIT understanding-the-old-testaments-central-them [D] GEO=43% AEO=33% SXO=67% 1933w
+  [495/680] AUDIT unearthed-secrets-debunking-myths-of-biblical [C] GEO=57% AEO=42% SXO=83% 3131w
+  [496/680] AUDIT unearthing-ancient-lineages-how-biblical-arch [D] GEO=50% AEO=8% SXO=75% 1612w
+  [497/680] AUDIT unearthing-ancient-livestock-a-closer-look-at [D] GEO=50% AEO=8% SXO=75% 1039w
+  [498/680] AUDIT understanding-the-purpose-of-the-old-testamen [C] GEO=50% AEO=42% SXO=67% 2355w
+  [499/680] AUDIT unearthing-ancient-stone-tools-insights-from- [D] GEO=57% AEO=8% SXO=75% 1189w
+  [500/680] AUDIT understanding-the-contrast-approaches-of-bibl [C] GEO=57% AEO=42% SXO=83% 2085w
+  [501/680] AUDIT unearthing-the-ancient-food-and-agriculture-p [C] GEO=43% AEO=25% SXO=83% 2041w
+  [502/680] AUDIT unearthing-biblical-truths-the-impact-of-arch [D] GEO=57% AEO=8% SXO=75% 1150w
+  [503/680] AUDIT unearthing-the-ein-gedi-cave-flood-pottery-an [C] GEO=50% AEO=33% SXO=67% 1288w
+  [504/680] AUDIT unearthing-the-crossroads-of-war-biblical-arc [C] GEO=50% AEO=25% SXO=75% 1312w
+  [505/680] AUDIT unearthing-ancient-environmental-adaptations- [C] GEO=57% AEO=42% SXO=58% 4298w
+  [506/680] AUDIT unearthing-the-legacies-prominent-women-in-bi [C] GEO=57% AEO=25% SXO=83% 1907w
+  [507/680] AUDIT unearthing-the-hidden-stories-biblical-archae [C] GEO=57% AEO=25% SXO=83% 2411w
+  [508/680] AUDIT unearthing-the-mysteries-ancient-civilization [D] GEO=50% AEO=8% SXO=75% 1103w
+  [509/680] AUDIT unearthing-the-mysteries-the-top-challenges-i [C] GEO=64% AEO=33% SXO=75% 2526w
+  [510/680] AUDIT unearthing-ancient-mysteries-biblical-sites-e [C] GEO=57% AEO=42% SXO=75% 1175w
+  [511/680] AUDIT unearthing-the-past-how-biblical-archaeologis [C] GEO=50% AEO=33% SXO=83% 1604w
+  [512/680] AUDIT unearthing-the-most-important-biblical-digs   [C] GEO=57% AEO=42% SXO=83% 1302w
+  [513/680] AUDIT unearthing-the-past-lessons-from-biblical-arc [C] GEO=57% AEO=25% SXO=83% 3096w
+  [514/680] AUDIT unearthing-the-past-the-fascination-of-biblic [C] GEO=57% AEO=25% SXO=83% 2841w
+  [515/680] AUDIT unearthing-the-past-the-role-of-biblical-arch [C] GEO=57% AEO=33% SXO=83% 2252w
+  [516/680] AUDIT unearthing-the-secrets-biblical-archaeology-r [D] GEO=50% AEO=25% SXO=67% 862w
+  [517/680] AUDIT unearthing-the-past-the-future-of-biblical-ar [C] GEO=57% AEO=25% SXO=83% 2278w
+  [518/680] AUDIT unearthing-the-secrets-city-of-david-storage- [C] GEO=50% AEO=50% SXO=67% 1249w
+  [519/680] AUDIT unearthing-the-secrets-biblical-archaeology-r [C] GEO=50% AEO=25% SXO=83% 1754w
+  [520/680] AUDIT unearthing-the-past-biblical-archaeology-reve [C] GEO=57% AEO=33% SXO=83% 1746w
+  [521/680] AUDIT unearthing-the-secrets-the-quest-for-the-ark- [C] GEO=50% AEO=33% SXO=83% 1459w
+  [522/680] AUDIT unearthing-the-secrets-discoveries-of-biblica [B] GEO=64% AEO=50% SXO=83% 2430w
+  [523/680] AUDIT unearthing-the-significance-the-importance-of [C] GEO=57% AEO=25% SXO=83% 2035w
+  [524/680] AUDIT unearthing-the-truth-current-controversies-in [C] GEO=57% AEO=33% SXO=67% 3834w
+  [525/680] AUDIT unearthing-the-truth-how-biblical-archaeology [D] GEO=57% AEO=8% SXO=75% 978w
+  [526/680] AUDIT unearthing-the-engineering-marvels-of-biblica [C] GEO=43% AEO=25% SXO=83% 3040w
+  [527/680] AUDIT unearthing-the-secrets-key-findings-of-biblic [B] GEO=64% AEO=50% SXO=83% 3001w
+  [528/680] AUDIT unearthing-truth-the-battle-of-biblical-archa [C] GEO=57% AEO=33% SXO=75% 1953w
+  [529/680] AUDIT unearthing-the-truth-how-biblical-archaeology [C] GEO=50% AEO=25% SXO=83% 2125w
+  [530/680] AUDIT unlocking-ancient-trade-paths-in-biblical-arc [D] GEO=57% AEO=8% SXO=58% 960w
+  [531/680] AUDIT unlocking-mysteries-biblical-archaeology-rese [C] GEO=50% AEO=25% SXO=75% 1072w
+  [532/680] AUDIT unearthing-the-truth-the-debate-over-authenti [C] GEO=50% AEO=42% SXO=83% 2810w
+  [533/680] AUDIT unlocking-the-past-the-role-of-biblical-archa [C] GEO=57% AEO=33% SXO=83% 3023w
+  [534/680] AUDIT unearthing-truth-the-debate-over-the-reliabil [C] GEO=57% AEO=25% SXO=83% 2333w
+  [535/680] AUDIT unearthing-the-truth-the-impact-of-biblical-a [C] GEO=57% AEO=25% SXO=83% 2181w
+  [536/680] AUDIT unraveling-the-controversy-biblical-archaeolo [C] GEO=64% AEO=33% SXO=83% 2870w
+  [537/680] AUDIT unlocking-the-past-fundraising-strategies-for [C] GEO=50% AEO=33% SXO=75% 3006w
+  [538/680] AUDIT unraveling-the-last-qumran-jar-a-discourse-on [C] GEO=57% AEO=42% SXO=67% 1458w
+  [539/680] AUDIT unlocking-the-secrets-of-ancient-biblical-tex [C] GEO=57% AEO=25% SXO=83% 2629w
+  [540/680] AUDIT unraveling-the-mysteries-common-challenges-fa [C] GEO=57% AEO=33% SXO=75% 2309w
+  [541/680] AUDIT unraveling-the-dead-sea-scrolls-biblical-insi [C] GEO=71% AEO=33% SXO=83% 1587w
+  [542/680] AUDIT unraveling-the-qumran-mystery-nook-insights-i [D] GEO=57% AEO=17% SXO=67% 1295w
+  [543/680] AUDIT unraveling-the-qumran-scraps-crate-secrets-of [C] GEO=57% AEO=58% SXO=67% 1418w
+  [544/680] AUDIT unraveling-the-mysteries-challenges-faced-by- [C] GEO=57% AEO=33% SXO=75% 1892w
+  [545/680] AUDIT unveiling-ancient-coins-in-biblical-archaeolo [D] GEO=43% AEO=33% SXO=58% 914w
+  [546/680] AUDIT unraveling-the-mysteries-of-biblical-history- [C] GEO=50% AEO=42% SXO=83% 1289w
+  [547/680] AUDIT unveiling-qumran-sublevel-a-study-of-generati [C] GEO=64% AEO=42% SXO=67% 1497w
+  [548/680] AUDIT unraveling-the-significance-of-biblical-archa [C] GEO=57% AEO=33% SXO=83% 2968w
+  [549/680] AUDIT unveiling-biblical-archaeological-finds-disco [C] GEO=50% AEO=42% SXO=75% 1128w
+  [550/680] AUDIT unveiling-temple-tools-in-biblical-archaeolog [D] GEO=50% AEO=25% SXO=58% 1150w
+  [551/680] AUDIT unraveling-ancient-cultures-through-biblical- [C] GEO=50% AEO=25% SXO=83% 2408w
+  [552/680] AUDIT unveiling-the-bias-exploring-religious-belief [C] GEO=57% AEO=25% SXO=75% 1475w
+  [553/680] AUDIT unveiling-remarkable-biblical-archaeology-dis [C] GEO=50% AEO=42% SXO=75% 1167w
+  [554/680] AUDIT unveiling-the-hidden-secrets-the-latest-devel [C] GEO=57% AEO=25% SXO=83% 1982w
+  [555/680] AUDIT unveiling-the-discoveries-the-process-of-docu [C] GEO=64% AEO=33% SXO=75% 2435w
+  [556/680] AUDIT unveiling-the-intriguing-world-of-biblical-ar [C] GEO=57% AEO=42% SXO=83% 1349w
+  [557/680] AUDIT unveiling-the-jericho-underground-ramp-a-stud [D] GEO=43% AEO=25% SXO=58% 1182w
+  [558/680] AUDIT unveiling-the-ancient-secrets-biblical-archae [C] GEO=57% AEO=50% SXO=83% 2922w
+  [559/680] AUDIT unveiling-the-mystery-of-the-collapsed-tower- [C] GEO=50% AEO=58% SXO=67% 1233w
+  [560/680] AUDIT unveiling-the-past-biblical-period-dating-met [D] GEO=50% AEO=33% SXO=58% 1036w
+  [561/680] AUDIT unveiling-the-hidden-stories-the-impact-of-bi [C] GEO=50% AEO=25% SXO=83% 2149w
+  [562/680] AUDIT unveiling-the-secrets-of-biblical-archaeologi [C] GEO=57% AEO=33% SXO=83% 2781w
+  [563/680] AUDIT unveiling-the-secrets-of-biblical-archaeology [C] GEO=64% AEO=42% SXO=67% 4136w
+  [564/680] AUDIT unveiling-the-secrets-of-the-qumran-wall-gap- [C] GEO=50% AEO=42% SXO=67% 1343w
+  [565/680] AUDIT unveiling-temple-mount-construction-methods   [D] GEO=43% AEO=25% SXO=58% 826w
+  [566/680] AUDIT unveiling-the-secrets-the-role-of-biblical-ar [C] GEO=57% AEO=25% SXO=75% 3009w
+  [567/680] AUDIT unveiling-the-judean-hills-mosaic-ritual-deta [C] GEO=50% AEO=42% SXO=67% 1331w
+  [568/680] AUDIT unveiling-the-women-of-ancient-societies-a-bi [D] GEO=50% AEO=8% SXO=75% 1108w
+  [569/680] AUDIT unveiling-the-secrets-the-role-of-biblical-ar [C] GEO=64% AEO=25% SXO=83% 1859w
+  [570/680] AUDIT was-the-first-bible-found-in-ethiopia         [C] GEO=71% AEO=42% SXO=58% 1089w
+  [571/680] AUDIT unveiling-the-secrets-of-biblical-archaeology [B] GEO=64% AEO=58% SXO=83% 2182w
+  [572/680] AUDIT was-the-old-testament-originally-written-in-g [C] GEO=57% AEO=42% SXO=67% 2456w
+  [573/680] AUDIT unveiling-the-truth-biblical-archaeologists-d [C] GEO=57% AEO=42% SXO=75% 1832w
+  [574/680] AUDIT was-the-original-new-testament-written-in-gre [C] GEO=57% AEO=42% SXO=58% 1506w
+  [575/680] AUDIT was-the-old-testament-written-in-aramaic      [C] GEO=64% AEO=33% SXO=67% 2512w
+  [576/680] AUDIT was-the-new-testament-originally-written-in-h [D] GEO=43% AEO=33% SXO=58% 2306w
+  [577/680] AUDIT was-the-bible-originally-oral-tradition-or-te [C] GEO=64% AEO=50% SXO=67% 1633w
+  [578/680] AUDIT were-the-new-testament-books-written-in-hebre [C] GEO=64% AEO=33% SXO=67% 2464w
+  [579/680] AUDIT ways-to-involve-the-public-in-the-discoveries [C] GEO=57% AEO=25% SXO=83% 2396w
+  [580/680] AUDIT what-are-textual-variants-in-the-new-testamen [C] GEO=64% AEO=58% SXO=50% 1150w
+  [581/680] AUDIT what-are-the-archaeological-techniques        [C] GEO=57% AEO=42% SXO=50% 1085w
+  [582/680] AUDIT ways-to-support-biblical-archaeological-resea [C] GEO=57% AEO=25% SXO=75% 2280w
+  [583/680] AUDIT what-are-the-methods-used-in-biblical-archaeo [D] GEO=50% AEO=42% SXO=50% 1058w
+  [584/680] AUDIT what-are-the-most-recent-archaeological-disco [C] GEO=93% AEO=42% SXO=50% 1031w
+  [585/680] AUDIT what-are-the-oldest-biblical-manuscripts-foun [C] GEO=93% AEO=25% SXO=67% 1111w
+  [586/680] AUDIT what-are-the-contributions-of-archaeology-to- [D] GEO=50% AEO=25% SXO=67% 1117w
+  [587/680] AUDIT what-are-the-techniques-used-in-archaeology-s [C] GEO=50% AEO=50% SXO=50% 1037w
+  [588/680] AUDIT what-bible-artifacts-were-found-in-2023       [C] GEO=64% AEO=42% SXO=67% 1142w
+  [589/680] AUDIT watchtower-jar-navigating-sect-identity-amid- [C] GEO=50% AEO=42% SXO=58% 1526w
+  [590/680] AUDIT what-dead-sea-scrolls-reveal-about-scripture  [C] GEO=71% AEO=50% SXO=58% 1205w
+  [591/680] AUDIT what-archaeological-evidence-points-to-the-hi [C] GEO=43% AEO=42% SXO=67% 1091w
+  [592/680] AUDIT what-does-the-name-archaeology-mean           [C] GEO=57% AEO=33% SXO=58% 1006w
+  [593/680] AUDIT what-have-archaeologists-found-from-the-bible [D] GEO=50% AEO=25% SXO=67% 1114w
+  [594/680] AUDIT what-are-the-techniques-used-in-archaeologica [C] GEO=50% AEO=42% SXO=58% 1059w
+  [595/680] AUDIT what-is-codex-sinaiticus-and-why-its-importan [C] GEO=79% AEO=50% SXO=58% 1228w
+  [596/680] AUDIT what-is-the-course-on-biblical-archeology     [C] GEO=57% AEO=33% SXO=67% 1073w
+  [597/680] AUDIT what-can-you-do-with-a-degree-in-biblical-stu [D] GEO=50% AEO=33% SXO=42% 1061w
+  [598/680] AUDIT what-is-the-difference-between-archeological- [C] GEO=57% AEO=33% SXO=58% 1030w
+  [599/680] AUDIT what-is-the-difference-between-archeology-and [D] GEO=57% AEO=25% SXO=50% 1008w
+  [600/680] AUDIT what-is-archaeology-in-the-bible              [C] GEO=50% AEO=42% SXO=58% 1083w
+  [601/680] AUDIT what-is-the-earliest-archaeological-evidence- [C] GEO=71% AEO=25% SXO=67% 1046w
+  [602/680] AUDIT what-is-the-earliest-archeological-evidence-o [D] GEO=43% AEO=42% SXO=58% 1079w
+  [603/680] AUDIT what-do-people-mean-by-original-bible-explain [C] GEO=64% AEO=50% SXO=50% 977w
+  [604/680] AUDIT what-is-the-meaning-of-biblical-archaeology   [C] GEO=57% AEO=25% SXO=67% 1162w
+  [605/680] AUDIT what-is-the-most-recent-archaeological-discov [C] GEO=79% AEO=33% SXO=58% 1005w
+  [606/680] AUDIT what-is-the-difference-between-archaeology-an [C] GEO=79% AEO=42% SXO=58% 1125w
+  [607/680] AUDIT what-is-the-oldest-archaeological-evidence-of [C] GEO=64% AEO=33% SXO=67% 1044w
+  [608/680] AUDIT what-is-the-oldest-archaeological-evidence-of [C] GEO=50% AEO=42% SXO=67% 1121w
+  [609/680] AUDIT what-is-the-old-testament-called              [C] GEO=64% AEO=58% SXO=50% 5556w
+  [610/680] AUDIT what-is-the-oldest-archaeological-find-in-isr [C] GEO=57% AEO=33% SXO=67% 1055w
+  [611/680] AUDIT what-is-the-oldest-bible-in-existence-today   [C] GEO=71% AEO=33% SXO=50% 1058w
+  [612/680] AUDIT what-is-the-oldest-biblical-artifact-ever-fou [B] GEO=79% AEO=42% SXO=75% 1060w
+  [613/680] AUDIT what-is-the-oldest-biblical-manuscript-we-hav [B] GEO=79% AEO=50% SXO=67% 1149w
+  [614/680] AUDIT what-is-the-masoretic-text-and-how-was-it-for [C] GEO=64% AEO=50% SXO=67% 1503w
+  [615/680] AUDIT what-is-the-oldest-known-bible-artifact       [C] GEO=50% AEO=42% SXO=67% 1164w
+  [616/680] AUDIT what-is-the-oldest-complete-old-testament-man [C] GEO=71% AEO=33% SXO=67% 2353w
+  [617/680] AUDIT what-is-the-oldest-bible-found                [C] GEO=71% AEO=42% SXO=50% 1039w
+  [618/680] AUDIT what-is-the-science-of-biblical-archeology    [C] GEO=50% AEO=42% SXO=67% 1137w
+  [619/680] AUDIT what-is-the-study-of-archeology-called        [C] GEO=57% AEO=58% SXO=50% 1087w
+  [620/680] AUDIT what-is-the-difference-between-the-ethiopian- [D] GEO=50% AEO=33% SXO=50% 1012w
+  [621/680] AUDIT what-is-the-study-of-biblical-archeology      [C] GEO=57% AEO=42% SXO=75% 1162w
+  [622/680] AUDIT what-is-the-synoptic-problem-and-why-it-matte [C] GEO=57% AEO=58% SXO=58% 1407w
+  [623/680] AUDIT what-is-the-relationship-between-the-bible-an [C] GEO=43% AEO=50% SXO=75% 1071w
+  [624/680] AUDIT what-is-the-ubs-na-critical-edition-of-the-bi [B] GEO=71% AEO=67% SXO=58% 1522w
+  [625/680] AUDIT what-is-the-value-of-biblical-archeology      [C] GEO=57% AEO=42% SXO=50% 1100w
+  [626/680] AUDIT what-is-the-original-new-testament-called     [C] GEO=57% AEO=25% SXO=67% 2723w
+  [627/680] AUDIT what-language-was-the-new-testament-first-wri [C] GEO=57% AEO=33% SXO=58% 1758w
+  [628/680] AUDIT what-language-is-most-of-the-old-testament-wr [C] GEO=57% AEO=42% SXO=67% 2885w
+  [629/680] AUDIT what-language-was-the-new-testament-originall [C] GEO=57% AEO=42% SXO=67% 2634w
+  [630/680] AUDIT what-language-was-the-new-testament-written-i [C] GEO=57% AEO=33% SXO=58% 2055w
+  [631/680] AUDIT what-languages-was-the-bible-first-written-in [C] GEO=64% AEO=67% SXO=58% 1111w
+  [632/680] AUDIT what-proves-the-bible-is-historically-accurat [C] GEO=57% AEO=33% SXO=67% 1082w
+  [633/680] AUDIT what-is-the-study-of-biblical-archaeology     [C] GEO=57% AEO=42% SXO=67% 1118w
+  [634/680] AUDIT what-techniques-do-archaeologists-use-to-surv [D] GEO=43% AEO=42% SXO=58% 1037w
+  [635/680] AUDIT what-language-was-the-old-testament-written-i [C] GEO=64% AEO=42% SXO=50% 5574w
+  [636/680] AUDIT whats-the-earliest-fragments-of-the-bible-we- [B] GEO=71% AEO=58% SXO=67% 1279w
+  [637/680] AUDIT when-did-biblical-archeology-start            [C] GEO=50% AEO=25% SXO=75% 1045w
+  [638/680] AUDIT what-were-the-scriptures-called-in-jesus-time [C] GEO=57% AEO=33% SXO=67% 2370w
+  [639/680] AUDIT when-was-the-first-bible-written-and-who-wrot [C] GEO=57% AEO=50% SXO=67% 1136w
+  [640/680] AUDIT what-is-the-textus-receptus-and-why-it-still- [C] GEO=79% AEO=50% SXO=50% 1117w
+  [641/680] AUDIT when-was-the-new-testament-originally-written [C] GEO=57% AEO=33% SXO=58% 1684w
+  [642/680] AUDIT when-was-the-new-testament-actually-written   [C] GEO=57% AEO=25% SXO=67% 2791w
+  [643/680] AUDIT where-are-the-original-copies-of-the-bible-ke [C] GEO=57% AEO=50% SXO=67% 1102w
+  [644/680] AUDIT where-are-the-original-manuscripts-of-the-bib [C] GEO=71% AEO=42% SXO=67% 1177w
+  [645/680] AUDIT where-did-the-bible-originate                 [C] GEO=64% AEO=42% SXO=67% 1049w
+  [646/680] AUDIT when-was-the-biblical-canon-officially-closed [C] GEO=71% AEO=50% SXO=50% 1182w
+  [647/680] AUDIT where-did-the-story-of-the-bible-begin        [C] GEO=64% AEO=25% SXO=75% 1051w
+  [648/680] AUDIT where-is-the-first-original-bible-located     [C] GEO=79% AEO=25% SXO=58% 1106w
+  [649/680] AUDIT where-is-the-oldest-bible-in-the-world-kept   [C] GEO=79% AEO=25% SXO=50% 1026w
+  [650/680] AUDIT what-techniques-did-archaeologists-use        [D] GEO=50% AEO=42% SXO=50% 1159w
+  [651/680] AUDIT where-is-the-original-bible-kept              [C] GEO=71% AEO=42% SXO=50% 1156w
+  [652/680] AUDIT where-is-the-original-bible-located           [C] GEO=71% AEO=42% SXO=75% 1148w
+  [653/680] AUDIT where-did-the-original-books-of-the-bible-com [D] GEO=57% AEO=25% SXO=58% 1053w
+  [654/680] AUDIT where-was-the-bible-originally-found          [C] GEO=57% AEO=50% SXO=58% 1135w
+  [655/680] AUDIT where-was-the-first-bible-found               [C] GEO=50% AEO=42% SXO=75% 1144w
+  [656/680] AUDIT when-was-the-new-testament-written-after-jesu [C] GEO=57% AEO=42% SXO=58% 2571w
+  [657/680] AUDIT where-you-can-view-high-res-original-manuscri [C] GEO=64% AEO=33% SXO=50% 1129w
+  [658/680] AUDIT where-is-the-oldest-version-of-the-bible-loca [C] GEO=71% AEO=42% SXO=50% 1153w
+  [659/680] AUDIT which-bible-verses-are-most-disputed-by-varia [B] GEO=86% AEO=58% SXO=58% 1260w
+  [660/680] AUDIT which-books-are-missing-from-the-hebrew-bible [C] GEO=57% AEO=42% SXO=67% 1860w
+  [661/680] AUDIT where-to-access-biblical-manuscripts-online-t [C] GEO=57% AEO=67% SXO=67% 1416w
+  [662/680] AUDIT who-made-the-first-bible-in-the-world         [D] GEO=50% AEO=17% SXO=50% 1040w
+  [663/680] AUDIT who-wrote-the-first-copy-of-each-gospel       [C] GEO=71% AEO=58% SXO=58% 1214w
+  [664/680] AUDIT why-are-there-two-different-spellings-archaeo [C] GEO=57% AEO=42% SXO=58% 1073w
+  [665/680] AUDIT which-bible-is-the-oldest-in-the-world        [C] GEO=79% AEO=42% SXO=58% 1096w
+  [666/680] AUDIT why-is-archaeology-called-archaeology         [C] GEO=64% AEO=33% SXO=58% 1029w
+  [667/680] AUDIT why-bibles-manuscripts-outnumber-many-histori [C] GEO=71% AEO=33% SXO=58% 1482w
+  [668/680] AUDIT why-is-the-new-testament-written-in-greek-and [C] GEO=57% AEO=50% SXO=67% 2159w
+  [669/680] AUDIT who-compiled-the-new-testament                [C] GEO=57% AEO=33% SXO=67% 2361w
+  [670/680] AUDIT where-were-the-original-books-of-the-bible-fo [C] GEO=50% AEO=42% SXO=75% 1130w
+  [671/680] AUDIT why-jerome-rejected-parts-of-the-septuagint   [C] GEO=57% AEO=58% SXO=58% 1213w
+  [672/680] AUDIT why-is-the-old-testament-called-the-old-testa [D] GEO=57% AEO=33% SXO=50% 4207w
+  [673/680] AUDIT why-the-samaritan-pentateuch-matters-to-origi [C] GEO=64% AEO=42% SXO=67% 1238w
+  [674/680] AUDIT why-the-septuagint-is-called-the-first-bible  [C] GEO=64% AEO=58% SXO=50% 1113w
+  [675/680] AUDIT why-is-it-called-old-testament-and-new-testam [D] GEO=43% AEO=25% SXO=50% 9394w
+  [676/680] AUDIT windstorm-in-judean-valley-a-call-for-moral-r [D] GEO=43% AEO=42% SXO=58% 1423w
+  [677/680] AUDIT why-we-dont-have-the-bibles-original-autograp [C] GEO=71% AEO=58% SXO=58% 1150w
+  [678/680] AUDIT why-the-gutenberg-bible-marked-a-turning-poin [C] GEO=57% AEO=50% SXO=58% 1188w
+  [679/680] AUDIT why-is-the-old-testament-written              [D] GEO=43% AEO=25% SXO=67% 2087w
+  [680/680] AUDIT worship-in-the-old-and-new-testament          [C] GEO=57% AEO=25% SXO=67% 3361w
+
+======================================================================
+DONE in 5.3s (0.008s/article)
+  Processed: 680 | Errors: 0
+  Articles changed: 0
+
+  GRADE DISTRIBUTION:
+    A:   0 ( 0.0%) 
+    B:  18 ( 2.6%) ###
+    C: 492 (72.4%) ##################################################################################################
+    D: 170 (25.0%) ##################################
+    F:   0 ( 0.0%) 
+
+  LAYER AVERAGES:
+    GEO (AI citation):     56.1%
+    AEO (answer engine):   35.1%
+    SXO (search UX):       67.0%
+    COMBINED:              53.0%
+
+  LEGACY SEMANTIC: entities=45.2 years=0.8 people=35.0 sources=1.2
+
+  BY CATEGORY:
+    biblical-archaeology      190 articles  avg 1520w  53%  B=4 C=136 D=50
+    scripture                 127 articles  avg 2310w  51%  C=85 D=42
+    excavations               164 articles  avg 1677w  53%  B=4 C=122 D=38
+    artifacts                  80 articles  avg 1396w  56%  B=8 C=61 D=11
+    faith                     119 articles  avg 1757w  52%  B=2 C=88 D=29
+
+  BOTTOM 10 (need improvement):
+    [D] 39% exploring-the-old-testament-through-a-cultural-lens
+    [D] 39% joyous-festival-processions-at-the-city-sewer-grate-cha
+    [D] 39% lost-biblical-city-found-ancient-fortress-reveals-new-s
+    [D] 39% who-made-the-first-bible-in-the-world
+    [D] 39% why-is-it-called-old-testament-and-new-testament
+    [D] 42% ancient-jerusalem-street-reveals-temple-pilgrim-path
+    [D] 42% ancient-jewish-quarter-reveals-temple-era-commerce
+    [D] 42% biblical-town-streets-explored-and-mapped
+    [D] 42% connecting-the-old-testament-and-the-new-testament
+    [D] 42% comparing-themes-in-the-old-testament-and-the-new-testa
+======================================================================
+=== DONE === 

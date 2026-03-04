@@ -1,0 +1,1 @@
+docs: add CLAUDE.md project context + update internal-linker SKILL.md for v2 silo-aware

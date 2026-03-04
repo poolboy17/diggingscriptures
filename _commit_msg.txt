@@ -1,0 +1,13 @@
+feat: silo-aware internal linker v2 + pyramid validation
+
+- Upgraded internal_linker.py with silo-aware matching (v2):
+  * Reads siloTier/siloCluster/siloParent from frontmatter
+  * Same-cluster siblings get +5 score bonus
+  * Pillar pages prioritized as link targets (+3)
+  * Guarantees support articles link to their pillar parent
+  * --relink flag: replaces Related Research with silo-optimized links
+- Re-linked all 680 articles with silo-aware targets (2720 related links)
+- Pyramid validation: 1424/1424 checks PASS across all 5 silos
+  * Bottom-up: Support->Pillar 625/625, Support->Hub 625/625, Pillar->Hub 55/55
+  * Top-down: Pillar->Support 55/55
+  * Cohesion: 64/64 clusters avg >= 1 intra-cluster cross-link

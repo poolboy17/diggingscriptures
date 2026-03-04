@@ -1,0 +1,8 @@
+Optimize research images: compress, add dimensions, fix CLS
+
+- Compressed all 680 images (JPEG quality 80) — saved 106MB
+- Added imageWidth/imageHeight to all 680 article frontmatter
+- ResearchLayout now uses actual dimensions instead of hardcoded 1080x720
+- Added aspect-ratio:3/2 CSS to prevent Cumulative Layout Shift
+- Updated config.ts schema with imageWidth/imageHeight fields
+- Responsive sizing: (max-width: 900px) 100vw, 900px

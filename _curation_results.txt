@@ -1,0 +1,69 @@
+Loading WordPress XML...
+Parsing...
+Loaded 875 published posts
+
+CURATION RESULTS:
+  Keepers (unique, >=800w): 776
+  Duplicates (dropped):     29
+  Thin (<800w, dropped):    70
+
+SILO BREAKDOWN (keepers):
+       history:  754 posts  (avg 1663w)
+     scripture:   13 posts  (avg 1242w)
+   discoveries:    9 posts  (avg 1361w)
+
+QUALITY SCORE DISTRIBUTION (keepers):
+  80-100:   77  #########################
+  60-79:  475  ##############################################################################################################################################################
+  40-59:  224  ##########################################################################
+  20-39:    0  
+  0-19:    0  
+
+TOP 30 KEEPERS:
+ Sc   Wds H2s         Silo Slug
+------------------------------------------------------------------------------------------
+100  3205  10      history *the-ultimate-beginners-guide-to-biblical-archaeology
+ 95  2469  10      history *were-the-new-testament-books-written-in-hebrew
+ 90  2228  10      history *continuity-and-discontinuity-the-relationship-between-the-
+ 85  7615  40      history  comparing-the-old-testament-and-the-torah-2
+ 85  5585  10      history  what-language-was-the-old-testament-written-in
+ 85  5557  10      history  what-is-the-old-testament-called
+ 85  5070  10      history  the-language-of-the-new-testament-exploring-its-origins
+ 85  5061  10      history  comparing-old-testament-and-new-testament-themes
+ 85  5057  10      history  the-origins-of-the-old-testament
+ 85  4918  10      history  comparing-the-old-testament-and-the-new-testament
+ 85  4686  10      history  comparing-the-old-testament-and-new-testament-themes
+ 85  4623  31      history  the-pioneers-of-biblical-archaeology
+ 85  4357  10      history  understanding-the-old-testament-in-jesuss-time
+ 85  4267  10      history  central-themes-in-the-old-testament-and-the-new-testament
+ 85  4208  10      history  why-is-the-old-testament-called-the-old-testament
+ 85  4158  10      history  language-of-the-old-testament-exploring-the-scriptures
+ 85  3842  10      history  comparing-themes-in-the-old-testament-and-the-new-testamen
+ 85  3781  10      history  the-significance-of-greek-and-hebrew-in-the-new-testament
+ 85  3498  16      history  are-all-new-testament-books-written-in-greek
+ 85  3382  10      history  should-i-read-the-new-testament-or-the-old-testament-first
+ 85  3362  10      history  worship-in-the-old-and-new-testament
+ 85  3304  47      history  the-ultimate-guide-to-studying-biblical-archaeology
+ 85  3117  10      history  unearthed-secrets-debunking-myths-of-biblical-archaeology
+ 85  3111  11      history  comparing-old-and-new-testaments-central-themes
+ 82  9395  10      history  why-is-it-called-old-testament-and-new-testament
+ 82  1119   5      history *is-the-ethiopian-bible-the-most-accurate
+ 80  8746  10      history  contrasting-themes-in-the-old-testament-and-the-new-testam
+ 80  6334  10      history  the-connection-between-the-old-testament-and-the-new-testa
+ 80  5704  10      history  contrasting-worship-in-the-old-testament-and-the-new-testa
+ 80  4029  10      history  the-formation-of-the-new-testament-who-added-it-to-the-bib
+
+BOTTOM 10 KEEPERS (borderline):
+ 48   847   4      history exploring-a-biblical-ship-harbor-discovery
+ 48   846   4      history discovering-history-the-temple-mount-scanning-project
+ 48   814   4      history exploring-the-temple-era-gardens-in-biblical-archaeology
+ 47  1283   3      history unraveling-the-qumran-mystery-nook-insights-into-sects-aus
+ 47   877   1      history the-controversy-surrounding-the-existence-of-biblical-citi
+ 46  1044   1      history fishermans-vessel-the-role-of-water-as-purifier-in-desert-
+ 44   968   1      history unearthing-the-truth-how-biblical-archaeology-unveils-anci
+ 44   950   1      history unlocking-ancient-trade-paths-in-biblical-archaeology
+ 44   946   1      history why-some-books-didnt-make-the-original-bible
+ 40   872   0      history understanding-the-old-testament-exploring-themes-and-conte
+
+Saved 776 keepers to _keepers.json
+Saved 776 keepers (with content) to _keepers_full.json

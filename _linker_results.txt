@@ -1,0 +1,37 @@
+Building article inventory and link graph...
+  680 articles indexed across 5 categories
+  [  1] 10-essential-tips-for-aspiring-biblical-archaeolog  +2 changes
+  [  2] 10-famous-biblical-archaeologists-you-should-know   +2 changes
+  [  3] 10-most-important-biblical-artifacts-discovered     +2 changes
+  [  4] 10-must-visit-biblical-archaeological-sites         +2 changes
+  [  5] 10-steps-to-volunteer-on-a-biblical-archaeology-di  +2 changes
+  [  6] 3-methods-to-identify-genuine-and-counterfeit-arti  +2 changes
+  [  7] 5-ways-to-stay-updated-on-the-latest-developments-  +2 changes
+  [  8] a-guide-to-evaluating-the-credibility-of-biblical-  +2 changes
+  [  9] acacia-wood-blueprint-a-deep-dive-into-the-arks-de  +2 changes
+  [ 10] advanced-imaging-illuminates-ancient-hebrew-texts   +2 changes
+  [ 50] biblical-archaeology-first-temple-period-discoveri  +2 changes
+  [100] dead-sea-orchard-unraveling-the-cosmic-battle-theo  +2 changes
+  [150] exciting-biblical-archaeology-excavation-finds-une  +2 changes
+  [200] exploring-the-jericho-cellar-tapestry-a-journey-th  +2 changes
+  [250] first-temple-treasury-complex-unveiled              +2 changes
+  [300] jericho-boundary-crack-unearthing-spiritual-unity-  +2 changes
+  [350] qumran-fallen-beams-the-tug-of-war-between-piety-a  +2 changes
+  [400] the-distant-queens-visit-unearthing-the-gifts-offe  +2 changes
+  [450] the-significance-of-the-desert-stone-bench-in-bibl  +2 changes
+  [500] unearthing-ancient-livestock-a-closer-look-at-bibl  +2 changes
+  [550] unveiling-qumran-sublevel-a-study-of-generational-  +2 changes
+  [600] what-is-the-difference-between-archaeology-and-arc  +2 changes
+  [650] where-did-the-story-of-the-bible-begin              +2 changes
+
+======================================================================
+  INTERNAL LINKER RESULTS
+======================================================================
+  Articles processed:    680
+  Already adequate:      0
+  Fixed:                 680
+  Hub links injected:    680
+  Related links added:   881
+  Mode:                  SAVED
+======================================================================
+DONE 

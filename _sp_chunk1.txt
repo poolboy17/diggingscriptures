@@ -1,0 +1,366 @@
+Loading research inventory...
+  698 articles across 5 categories
+    biblical-archaeology: 208
+    scripture: 127
+    excavations: 164
+    artifacts: 80
+    faith: 119
+  Chunk 1/4: articles 175-349 (175 articles)
+
+======================================================================
+SemanticPipe — Research Edition
+Articles: 175 | Threads: 2 | Dry run: False
+======================================================================
+
+  [  1/175] OK    exploring-side-canyon-shelter-a-journey-through-pa 2chg t=60c d=148c 1490w
+           T: 'Unearthed Wisdom: Discovering Ancient Letters' -> 'Unearthed Wisdom: Discovering Ancient Letters'
+           D: 104c -> 148c
+  [  2/175] OK    exploring-the-ancient-jerusalem-palace-complex-dis 1chg t=58c d=154c 848w
+           D: 112c -> 154c
+  [  3/175] OK    exploring-the-ancient-world-the-most-popular-excav 1chg t=56c d=125c 1081w
+           T: 'Exploring the Ancient World: the Most Popular' -> 'Exploring the Ancient World: the Most Popular'
+  [  4/175] OK    exploring-the-best-methods-for-analyzing-artifacts 2chg t=62c d=155c 1661w
+           T: 'Exploring the Best Methods for Analyzing Arti' -> 'Exploring the Best Methods for Analyzing Arti'
+           D: 156c -> 155c
+  [  5/175] OK    exploring-the-city-of-david-cracks-insights-into-a 0chg t=58c d=121c 1247w
+  [  6/175] OK    exploring-the-connection-architecture-and-biblical 0chg t=63c d=154c 1648w
+  [  7/175] OK    exploring-the-authenticity-of-old-testament-manusc 2chg t=55c d=148c 4633w
+           D: 79c -> 148c
+  [  8/175] OK    exploring-the-connection-the-intersection-of-scien 2chg t=57c d=155c 3028w
+           T: 'Exploring the Connection: the Intersection of' -> 'Exploring the Connection: the Intersection of'
+           D: 156c -> 155c
+  [  9/175] OK    exploring-the-controversies-the-role-of-biblical-a 2chg t=64c d=152c 3447w
+           D: 117c -> 152c
+  [ 10/175] OK    exploring-the-connections-between-biblical-archaeo 3chg t=58c d=152c 3332w
+           T: 'Exploring the Connections Between Biblical Ar' -> 'Exploring the Connections Between Biblical Ar'
+           D: 113c -> 152c
+  [ 11/175] OK    exploring-the-depths-of-biblical-archaeology       1chg t=44c d=155c 974w
+           D: 157c -> 155c
+  [ 12/175] OK    exploring-the-depths-the-future-of-underwater-bibl 2chg t=55c d=155c 4398w
+           T: 'Exploring the Depths: the Future of Underwate' -> 'Exploring the Depths: the Future of Underwate'
+           D: 157c -> 155c
+  [ 13/175] OK    exploring-the-desert-oven-hideaway-a-study-of-sabb 1chg t=55c d=151c 1327w
+           D: 119c -> 151c
+  [ 14/175] OK    exploring-the-environmental-impact-on-biblical-arc 0chg t=58c d=152c 3439w
+  [ 15/175] OK    exploring-the-era-of-moral-decay-the-ark-as-humani 1chg t=60c d=150c 1296w
+           T: 'New Evidence: The Arks Role in Ethical Resili' -> 'New Evidence: The Arks Role in Ethical Resili'
+  [ 16/175] OK    exploring-the-desert-plateau-anomaly-unveiling-mor 3chg t=59c d=152c 1659w
+           T: 'Analyzing Modern Farming: A Glimpse into the ' -> 'Analyzing Modern Farming: A Glimpse into the '
+           D: 45c -> 152c
+  [ 17/175] OK    exploring-the-ethical-implications-of-displaying-b 3chg t=57c d=149c 2347w
+           T: 'Exploring the Ethical Implications of Display' -> 'Exploring the Ethical Implications of Display'
+           D: 103c -> 149c
+  [ 18/175] OK    exploring-the-ethical-issues-in-biblical-archaeolo 1chg t=52c d=148c 2019w
+           D: 81c -> 148c
+  [ 19/175] OK    exploring-the-first-temple-treasury                1chg t=35c d=128c 872w
+           D: 63c -> 128c
+  [ 20/175] OK    exploring-the-galilean-synagogue-mosaic-a-study-of 1chg t=56c d=148c 1242w
+           D: 73c -> 148c
+  [ 21/175] OK    exploring-the-hidden-channel-vessel-israels-redemp 1chg t=57c d=154c 1258w
+           D: 107c -> 154c
+  [ 22/175] OK    exploring-the-impact-of-biblical-archaeology-on-pu 0chg t=61c d=127c 1739w
+  [ 23/175] OK    exploring-the-impact-of-technology-in-biblical-arc 0chg t=58c d=121c 1936w
+  [ 24/175] OK    exploring-the-inner-essence-the-arks-balance-of-me 1chg t=61c d=140c 1142w
+           D: 69c -> 140c
+  [ 25/175] OK    exploring-the-influence-of-biblical-archaeology-on 3chg t=60c d=155c 1882w
+           T: 'Exploring the Influence of Biblical Archaeolo' -> 'Exploring the Influence of Biblical Archaeolo'
+           D: 108c -> 155c
+  [ 26/175] OK    exploring-the-intersection-of-biblical-archaeology 2chg t=54c d=152c 2133w
+           T: 'Exploring the Intersection of Biblical Archae' -> 'Exploring the Intersection of Biblical Archae'
+           D: 111c -> 152c
+  [ 27/175] OK    exploring-the-interconnections-religion-and-biblic 2chg t=53c d=150c 3516w
+           T: 'Exploring the Interconnections: Religion and ' -> 'Exploring the Interconnections: Religion and '
+  [ 28/175] OK    exploring-the-jericho-cellar-tapestry-a-journey-th 1chg t=50c d=152c 1580w
+           D: 75c -> 152c
+  [ 29/175] OK    exploring-the-jericho-mound-ledger-offerings-to-a- 2chg t=58c d=148c 1431w
+           T: 'Exploring Ancient Bonds: Decoding the Jericho' -> 'Exploring Ancient Bonds: Decoding the Jericho'
+           D: 119c -> 148c
+  [ 30/175] OK    exploring-the-key-discoveries-of-archaeologist-kat 1chg t=62c d=148c 2392w
+           D: 114c -> 148c
+  [ 31/175] OK    exploring-the-jericho-ruins-a-single-jar-of-agricu 0chg t=50c d=136c 1265w
+  [ 32/175] OK    exploring-the-key-responsibilities-of-a-biblical-a 0chg t=62c d=153c 3489w
+  [ 33/175] OK    exploring-the-key-skills-of-biblical-archaeologist 1chg t=51c d=151c 1636w
+           D: 116c -> 151c
+  [ 34/175] OK    exploring-the-legacy-of-the-sandstorm-in-jericho-t 2chg t=59c d=155c 1268w
+           T: 'Archaeology Unveils: Ancient Sandstorms Impac' -> 'Archaeology Unveils: Ancient Sandstorms Impac'
+           D: 99c -> 155c
+  [ 35/175] OK    exploring-the-legacy-of-w-f-petrie-in-biblical-arc 1chg t=59c d=136c 1134w
+           D: 84c -> 136c
+  [ 36/175] OK    exploring-the-language-of-the-old-testament        2chg t=43c d=154c 5167w
+           D: 76c -> 154c
+  [ 37/175] OK    exploring-the-link-between-biblical-archaeology-an 1chg t=59c d=151c 883w
+           T: 'Exploring the Link Between Biblical Archaeolo' -> 'Exploring the Link Between Biblical Archaeolo'
+  [ 38/175] OK    exploring-the-link-between-biblical-archaeology-an 1chg t=59c d=155c 2472w
+           T: 'Exploring the Link Between Biblical Archaeolo' -> 'Exploring the Link Between Biblical Archaeolo'
+  [ 39/175] OK    exploring-the-link-biblical-archaeology-and-the-de 1chg t=65c d=143c 3024w
+           D: 117c -> 143c
+  [ 40/175] OK    exploring-the-link-biblical-archaeologys-influence 1chg t=63c d=151c 2596w
+           T: 'Exploring the Link: Biblical ArchaeologyS Inf' -> 'Exploring the Link: Biblical Archaeology's In'
+  [ 41/175] OK    exploring-the-moral-dilemmas-surrounding-collectin 1chg t=55c d=135c 2053w
+           T: 'Exploring the Moral Dilemmas Surrounding Coll' -> 'Exploring the Moral Dilemmas Surrounding Coll'
+  [ 42/175] OK    exploring-the-multidisciplinary-approach-in-biblic 0chg t=64c d=154c 1907w
+  [ 43/175] OK    exploring-the-mountain-corridor-a-journey-through- 2chg t=50c d=150c 1338w
+           D: 88c -> 150c
+  [ 44/175] OK    exploring-the-mysteries-exciting-careers-for-bibli 1chg t=54c d=154c 2388w
+           T: 'Exploring the Mysteries: Exciting Careers for' -> 'Exploring the Mysteries: Exciting Careers for'
+  [ 45/175] OK    exploring-the-mysteries-of-the-qumran-stairway-lev 2chg t=60c d=152c 1192w
+           T: 'Discover Ancient Rituals: a Deep Dive into Qu' -> 'Discover Ancient Rituals: a Deep Dive into Qu'
+           D: 110c -> 152c
+  [ 46/175] OK    exploring-the-mysteries-of-the-well-shaft-in-jeric 1chg t=56c d=148c 1211w
+           D: 55c -> 148c
+  [ 47/175] OK    exploring-the-old-testament-through-a-cultural-len 0chg t=51c d=154c 4942w
+  [ 48/175] OK    exploring-the-old-testaments-role-in-christianity  1chg t=50c d=129c 3280w
+           T: 'Exploring the old TestamentS Role in Christia' -> 'Exploring the old Testament's Role in Christi'
+  [ 49/175] OK    exploring-the-origins-understanding-biblical-archa 1chg t=57c d=146c 2061w
+  [ 50/175] OK    exploring-the-political-implications-of-biblical-a 1chg t=60c d=155c 2156w
+           D: 157c -> 155c
+  [ 51/175] OK    exploring-the-power-of-collaboration-in-biblical-a 2chg t=60c d=155c 1137w
+           T: 'Exploring the Power of Collaboration in Bibli' -> 'Exploring the Power of Collaboration in Bibli'
+           D: 157c -> 155c
+  [ 52/175] OK    exploring-the-qumran-storeroom-trunk-a-study-in-mo 2chg t=60c d=148c 1281w
+           T: 'Discover Ancient Ethics: Qumran StoreroomS Ti' -> 'Discover Ancient Ethics: Qumran Storeroom's T'
+           D: 73c -> 148c
+  [ 53/175] OK    exploring-the-qumran-workshop-ruins-a-quest-for-te 0chg t=55c d=147c 1779w
+  [ 54/175] OK    exploring-the-religious-significance-biblical-arch 1chg t=61c d=150c 2155w
+           T: 'Exploring the Religious Significance: Biblica' -> 'Exploring the Religious Significance: Biblica'
+  [ 55/175] OK    exploring-the-relationship-between-biblical-archae 1chg t=62c d=153c 1857w
+           T: 'Exploring the Relationship Between Biblical A' -> 'Exploring the Relationship Between Biblical A'
+  [ 56/175] OK    exploring-the-remote-hill-shrine-relics-that-once- 0chg t=61c d=128c 1479w
+  [ 57/175] OK    exploring-the-roman-encampment-chamber-insights-in 0chg t=57c d=128c 1280w
+  [ 58/175] OK    exploring-the-secrets-of-biblical-seals            2chg t=39c d=152c 873w
+           D: 89c -> 152c
+  [ 59/175] OK    exploring-the-significance-biblical-archaeologists 1chg t=63c d=148c 2595w
+           T: 'Exploring the Significance: Biblical Archaeol' -> 'Exploring the Significance: Biblical Archaeol'
+  [ 60/175] OK    exploring-the-significance-of-biblical-archaeologi 1chg t=56c d=135c 1384w
+           T: 'Exploring the Significance of Biblical Archae' -> 'Exploring the Significance of Biblical Archae'
+  [ 61/175] OK    exploring-the-significance-of-biblical-archaeology 1chg t=50c d=155c 2502w
+           D: 157c -> 155c
+  [ 62/175] OK    exploring-the-significance-of-biblical-archaeology 1chg t=62c d=153c 1513w
+           T: 'Exploring the Significance of Biblical Archae' -> 'Exploring the Significance of Biblical Archae'
+  [ 63/175] OK    exploring-the-significance-of-cherubim-in-biblical 2chg t=60c d=138c 1147w
+           T: 'Cherubim in the Bible: What were their True R' -> 'Cherubim in the Bible: What were their True R'
+           D: 68c -> 138c
+  [ 64/175] OK    exploring-the-techniques-employed-by-biblical-arch 0chg t=60c d=147c 2251w
+  [ 65/175] OK    exploring-the-temple-era-gardens-in-biblical-archa 0chg t=56c d=154c 814w
+  [ 66/175] OK    exploring-the-transition-between-the-old-testament 3chg t=62c d=154c 1241w
+           T: 'Exploring the Transition Between the old Test' -> 'Exploring the Transition Between the old Test'
+           D: 85c -> 154c
+  [ 67/175] OK    exploring-the-wilderness-insights-from-the-bethleh 0chg t=51c d=153c 1395w
+  [ 68/175] OK    exploring-the-wadi-cliff-fish-carving-insights-fro 3chg t=58c d=148c 1454w
+           T: 'Decoding the Wadi Cliff Fish Mystery: a new P' -> 'Decoding the Wadi Cliff Fish Mystery: a new P'
+           D: 80c -> 148c
+  [ 69/175] OK    exploring-the-worship-in-the-new-testament         1chg t=42c d=155c 2695w
+           D: 156c -> 155c
+  [ 70/175] OK    family-friendly-escapes                            1chg t=62c d=121c 1348w
+           T: 'Family-friendly Escapes: Planning the Perfect' -> 'Family-friendly Escapes: Planning the Perfect'
+  [ 71/175] OK    famous-biblical-dig-sites-revealed                 1chg t=34c d=151c 1039w
+           D: 100c -> 151c
+  [ 72/175] OK    famous-biblical-archaeologists-and-their-discoveri 2chg t=52c d=153c 907w
+           D: 115c -> 153c
+  [ 73/175] OK    feast-days-and-the-ark-a-spiritual-journey-through 1chg t=64c d=155c 1596w
+           D: 89c -> 155c
+  [ 74/175] OK    first-temple-market-unearthed-a-new-biblical-insig 1chg t=53c d=151c 897w
+           D: 108c -> 151c
+  [ 75/175] OK    first-temple-period-discovery-reveals-ancient-secr 1chg t=45c d=154c 814w
+           D: 108c -> 154c
+  [ 76/175] OK    first-temple-archive-unearths-historical-record-ch 2chg t=55c d=141c 912w
+           D: 108c -> 141c
+  [ 77/175] OK    first-temple-period-royal-seal-collection-unearthe 0chg t=51c d=151c 943w
+  [ 78/175] OK    first-temple-storage-complex-unveils-ancient-organ 0chg t=57c d=122c 1131w
+  [ 79/175] OK    first-temple-treasury-complex-unveiled             0chg t=38c d=120c 995w
+  [ 80/175] OK    fishermans-vessel-the-role-of-water-as-purifier-in 0chg t=59c d=143c 1056w
+  [ 81/175] OK    foundations-of-biblical-archaeology-uncovered      0chg t=63c d=132c 951w
+  [ 82/175] OK    galilee-synagogue-floor-exploring-the-watchmens-du 3chg t=62c d=155c 1317w
+           T: 'Explore Ancient Galilee Synagogue: Unveiling ' -> 'Explore Ancient Galilee Synagogue: Unveiling '
+           D: 102c -> 155c
+  [ 83/175] OK    good-samaritan-road-a-journey-of-compassion-for-wa 1chg t=65c d=153c 1461w
+           D: 33c -> 153c
+  [ 84/175] OK    governing-temple-rites-the-secrets-of-the-museum-s 1chg t=65c d=148c 1460w
+           D: 56c -> 148c
+  [ 85/175] OK    ground-penetrating-radar-unveils-hidden-temple-com 0chg t=61c d=127c 1022w
+  [ 86/175] OK    has-archaeology-buried-the-bible-review            1chg t=40c d=147c 1003w
+           D: 40c -> 147c
+  [ 87/175] OK    has-archeology-ever-disproved-the-bible            1chg t=40c d=145c 1085w
+           D: 105c -> 145c
+  [ 88/175] OK    has-the-bible-ever-been-mistranslated              0chg t=38c d=131c 1078w
+  [ 89/175] OK    have-any-artifacts-from-the-bible-been-found       0chg t=45c d=155c 1101w
+  [ 90/175] OK    have-the-original-books-of-the-bible-been-found    0chg t=48c d=152c 1127w
+  [ 91/175] OK    hezekiahs-tunnel-plug-unraveling-the-royal-decrees 2chg t=56c d=154c 1024w
+           T: 'Analyzing HezekiahS Tunnel: a Unique Blend of' -> 'Analyzing Hezekiah's Tunnel: a Unique Blend o'
+           D: 115c -> 154c
+  [ 92/175] OK    hidden-fort-corridor-the-intersection-of-wealth-an 2chg t=64c d=155c 1395w
+           T: 'Deciphering Wealth & Ethics: A Historical Ana' -> 'Deciphering Wealth & Ethics: A Historical Ana'
+           D: 92c -> 155c
+  [ 93/175] OK    hebrew-aramaic-greek-biblical-languages-explained  1chg t=52c d=154c 1491w
+  [ 94/175] OK    hidden-gems-europe                                 0chg t=65c d=121c 1149w
+  [ 95/175] OK    hidden-temple-chamber-reveals-lost-biblical-treasu 1chg t=53c d=155c 981w
+           D: 117c -> 155c
+  [ 96/175] OK    high-holy-psalms-the-melodic-prayer-of-priests-cir 1chg t=62c d=148c 1426w
+           T: 'High Holy Psalms: Unraveling the Mysteries of' -> 'High Holy Psalms: Unraveling the Mysteries of'
+  [ 97/175] OK    hillside-dwelling-scribal-lessons-on-preservation- 1chg t=53c d=128c 1388w
+           D: 63c -> 128c
+  [ 98/175] OK    how-archaeology-confirms-biblical-origins          1chg t=41c d=154c 1239w
+           D: 116c -> 154c
+  [ 99/175] OK    how-and-why-the-original-bible-autographs-were-los 3chg t=58c d=152c 1122w
+           T: 'Why Did Original Bible Autographs Vanish? Imp' -> 'Why Did Original Bible Autographs Vanish? Imp'
+           D: 78c -> 152c
+  [100/175] OK    how-church-fathers-help-reconstruct-originals      0chg t=45c d=150c 1460w
+  [101/175] OK    how-do-you-become-a-biblical-archaeologist         1chg t=43c d=147c 1012w
+           D: 77c -> 147c
+  [102/175] OK    how-does-archeology-prove-the-bible-is-true        0chg t=44c d=139c 1122w
+  [103/175] OK    how-codex-vaticanus-shapes-our-bible-text-today    3chg t=60c d=153c 1316w
+           T: 'Deciphering Codex Vaticanus: Its Transformati' -> 'Deciphering Codex Vaticanus: Its Transformati'
+           D: 88c -> 153c
+  [104/175] OK    how-does-biblical-archaeology-relate-to-the-interp 2chg t=61c d=155c 1010w
+           T: 'How Does Biblical Archaeology Relate to the I' -> 'How Does Biblical Archaeology Relate to the I'
+           D: 157c -> 155c
+  [105/175] OK    how-does-the-ethiopian-bible-differ-from-the-bible 1chg t=51c d=147c 1118w
+           D: 110c -> 147c
+  [106/175] OK    how-many-ancient-manuscripts-of-the-bible-have-bee 0chg t=58c d=126c 1021w
+  [107/175] OK    how-many-different-versions-of-the-bible-are-there 0chg t=51c d=135c 1036w
+  [108/175] OK    how-jeromes-vulgate-influenced-canon-texts         3chg t=64c d=149c 1259w
+           T: 'How did JeromeS Vulgate Influence Western Bib' -> 'How did Jerome's Vulgate Influence Western Bi'
+           D: 109c -> 149c
+  [109/175] OK    how-many-new-testament-manuscripts-exist-today     2chg t=56c d=142c 846w
+           T: 'Decoding Testament Manuscripts: How Modern Te' -> 'Decoding Testament Manuscripts: How Modern Te'
+           D: 70c -> 142c
+  [110/175] OK    how-many-old-testament-manuscripts-survive         2chg t=54c d=153c 1273w
+           T: 'Analyzing Old Testament Manuscripts: How They' -> 'Analyzing Old Testament Manuscripts: How They'
+           D: 101c -> 153c
+  [111/175] OK    how-many-times-has-the-bible-been-changed          1chg t=42c d=153c 996w
+           D: 111c -> 153c
+  [112/175] OK    how-scholars-reconstruct-the-earliest-texts-2      1chg t=43c d=152c 1358w
+           D: 75c -> 152c
+  [113/175] OK    how-septuagint-shed-light-on-early-hebrew-text     1chg t=46c d=153c 1546w
+           D: 89c -> 153c
+  [114/175] OK    how-the-documentary-hypothesis-shapes-origins      0chg t=45c d=122c 1334w
+  [115/175] OK    how-the-old-testament-got-its-name                 2chg t=35c d=149c 1952w
+  [116/175] OK    integrating-biblical-archaeology-in-educational-cu 2chg t=59c d=153c 2154w
+           D: 114c -> 153c
+  [117/175] OK    interpreting-biblical-archaeology-discoveries      0chg t=45c d=154c 1115w
+  [118/175] OK    interpreting-biblical-archaeology-discoveries-for- 0chg t=57c d=147c 1187w
+  [119/175] OK    interpreting-biblical-texts-with-clarity           0chg t=40c d=151c 1193w
+  [120/175] OK    is-anything-in-the-bible-historically-accurate     1chg t=47c d=151c 1013w
+           D: 96c -> 151c
+  [121/175] OK    is-ethiopian-bible-accurate                        2chg t=47c d=154c 1129w
+           T: 'Is Ethiopian Bible Accurate?' -> 'Is Ethiopian Bible Accurate?: Scripture Studi'
+           D: 113c -> 154c
+  [122/175] OK    is-the-ethiopian-bible-the-first-bible             0chg t=39c d=128c 1101w
+  [123/175] OK    is-the-ethiopian-bible-the-most-accurate           0chg t=41c d=130c 1120w
+  [124/175] OK    is-the-ethiopian-bible-the-oldest                  1chg t=34c d=154c 1147w
+           D: 115c -> 154c
+  [125/175] OK    is-the-ethiopian-bible-the-oldest-bible            1chg t=40c d=149c 1097w
+           D: 116c -> 149c
+  [126/175] OK    is-there-a-degree-in-biblical-history              1chg t=38c d=155c 1030w
+           D: 116c -> 155c
+  [127/175] OK    is-there-a-difference-between-archaeology-and-arch 0chg t=57c d=123c 1019w
+  [128/175] OK    is-the-old-testament-written-in-greek-or-hebrew    2chg t=48c d=154c 2136w
+           D: 104c -> 154c
+  [129/175] OK    jericho-alcove-unveiling-the-complexities-of-occup 2chg t=51c d=140c 1378w
+           D: 69c -> 140c
+  [130/175] OK    jericho-boundary-crack-unearthing-spiritual-unity- 1chg t=50c d=149c 1567w
+           D: 94c -> 149c
+  [131/175] OK    jericho-city-gate-the-significance-of-the-renewed- 0chg t=51c d=144c 1346w
+  [132/175] OK    jericho-orchard-shelter-exploring-faith-amidst-cat 2chg t=57c d=155c 1172w
+           T: 'New Evidence Sheds Light on Jericho Orchards ' -> 'New Evidence Sheds Light on Jericho Orchards '
+           D: 97c -> 155c
+  [133/175] OK    jerusalem-temple-foundations-finally-discovered    1chg t=47c d=155c 928w
+           D: 98c -> 155c
+  [134/175] OK    jerusalem-temple-construction-methods-finally-reve 1chg t=54c d=152c 848w
+  [135/175] OK    jerusalem-wall-niche-a-reflection-on-moral-warning 1chg t=53c d=134c 1366w
+           D: 66c -> 134c
+  [136/175] OK    jerusalems-hidden-compartment-unraveling-the-proph 2chg t=60c d=152c 998w
+           T: 'Unearthing Ancient Jerusalem: Secrets of the ' -> 'Unearthing Ancient Jerusalem: Secrets of the '
+           D: 101c -> 152c
+  [137/175] OK    jordan-baptism-site-jar-unveiling-repentance-theme 1chg t=63c d=140c 1410w
+           D: 69c -> 140c
+  [138/175] OK    jordan-clay-pots-unearthing-the-day-of-reckoning-i 2chg t=60c d=155c 1436w
+           T: 'Analyzing Jordans Biblical Clay Pots: A Glimp' -> 'Analyzing Jordans Biblical Clay Pots: A Glimp'
+           D: 85c -> 155c
+  [139/175] OK    jordan-slope-stone-unveiling-the-psalms-echo-in-sh 1chg t=63c d=147c 1366w
+           D: 93c -> 147c
+  [140/175] OK    joyous-festival-processions-at-the-city-sewer-grat 1chg t=60c d=154c 1438w
+           D: 113c -> 154c
+  [141/175] OK    kathleen-kenyons-contributions-to-biblical-archaeo 1chg t=55c d=141c 1766w
+           T: 'Kathleen KenyonS Contributions to Biblical Ar' -> 'Kathleen Kenyon's Contributions to Biblical A'
+  [142/175] OK    keys-to-successful-collaboration-on-biblical-archa 1chg t=56c d=153c 1860w
+           T: 'Keys to Successful Collaboration on Biblical ' -> 'Keys to Successful Collaboration on Biblical '
+  [143/175] OK    language-of-the-old-testament-exploring-the-script 1chg t=55c d=150c 4143w
+           D: 74c -> 150c
+  [144/175] OK    language-of-the-testaments                         1chg t=44c d=145c 1208w
+           T: 'Language of the Testaments' -> 'Language of the Testaments: Faith & Theology'
+  [145/175] OK    latest-laptops                                     1chg t=58c d=121c 860w
+           T: 'Cutting-edge Computing: a Review of the Lates' -> 'Cutting-edge Computing: a Review of the Lates'
+  [146/175] OK    lidar-technology-uncovers-biblical-archaeological- 2chg t=58c d=154c 830w
+           T: 'Unveiling Ancient Biblical Sites: how Lidar R' -> 'Unveiling Ancient Biblical Sites: how Lidar R'
+           D: 107c -> 154c
+  [147/175] OK    lightning-shattered-cliff-a-glimpse-of-future-peac 2chg t=63c d=147c 1554w
+           T: 'Unearthing Peace: How Biblical Archaeology Re' -> 'Unearthing Peace: How Biblical Archaeology Re'
+           D: 107c -> 147c
+  [148/175] OK    lost-biblical-city-found-ancient-life-revealed     1chg t=47c d=155c 803w
+           D: 100c -> 155c
+  [149/175] OK    lost-biblical-city-found-ancient-fortress-reveals- 2chg t=60c d=155c 1040w
+           D: 85c -> 155c
+  [150/175] OK    major-contributions-of-biblical-archaeologist-will 1chg t=65c d=155c 2256w
+           D: 112c -> 155c
+  [151/175] OK    mapping-the-ancient-jerusalem-defense-system       2chg t=62c d=148c 903w
+           T: 'Unlocking Ancient Jerusalem: a Deep Dive into' -> 'Unlocking Ancient Jerusalem: a Deep Dive into'
+           D: 87c -> 148c
+  [152/175] OK    mapping-the-priestly-lineages-of-qumran-old-crates 0chg t=53c d=151c 1441w
+  [153/175] OK    maps-of-ancient-commerce-in-the-biblical-era       2chg t=57c d=152c 999w
+           T: 'Unveiling Biblical Trade Routes: a Deep Dive ' -> 'Unveiling Biblical Trade Routes: a Deep Dive '
+           D: 102c -> 152c
+  [154/175] OK    masadas-charred-parchment-a-window-into-ancient-pr 2chg t=56c d=151c 1326w
+           T: 'Exploring Ancient Prayers: FaithS Resilience ' -> 'Exploring Ancient Prayers: Faith's Resilience'
+           D: 119c -> 151c
+  [155/175] OK    massive-biblical-gate-system-unearthed-at-ancient- 0chg t=56c d=149c 898w
+  [156/175] OK    methods-used-by-biblical-archaeologists-to-date-an 1chg t=65c d=154c 3299w
+           D: 109c -> 154c
+  [157/175] OK    mixing-patterns                                    0chg t=58c d=121c 1149w
+  [158/175] OK    modern-insights-into-biblical-archaeology-discover 0chg t=53c d=133c 832w
+  [159/175] OK    monastery-remains-exploring-compassion-as-devotion 1chg t=55c d=148c 1238w
+           D: 117c -> 148c
+  [160/175] OK    monastic-heirloom-chest-unearthing-prophetic-insig 1chg t=58c d=138c 1382w
+           D: 68c -> 138c
+  [161/175] OK    modern-methods-in-unearthing-biblical-structures   3chg t=59c d=154c 805w
+           T: 'Unveiling Ancient Biblical Sites: a Fusion of' -> 'Unveiling Ancient Biblical Sites: a Fusion of'
+           D: 107c -> 154c
+  [162/175] OK    mountaintop-shrine-pilgrims-seek-echoes-of-the-ark 0chg t=62c d=126c 1470w
+  [163/175] OK    navigating-political-challenges-in-middle-eastern- 1chg t=58c d=144c 2574w
+           T: 'Navigating Political Challenges in Middle Eas' -> 'Navigating Political Challenges in Middle Eas'
+  [164/175] OK    new-dating-technology-in-biblical-archaeology      1chg t=46c d=150c 993w
+           D: 74c -> 150c
+  [165/175] OK    noise-canceling-headphones                         1chg t=59c d=121c 860w
+           T: 'Top 3 Noise-Canceling Headphones for the Ulti' -> 'Top 3 Noise-Canceling Headphones for the Ulti'
+  [166/175] OK    notable-discoveries-by-female-biblical-archaeologi 1chg t=53c d=128c 932w
+  [167/175] OK    old-testament-books-written-in-aramaic             0chg t=38c d=153c 1967w
+  [168/175] OK    old-marketplace-entry-decoding-the-sacred-passages 2chg t=60c d=130c 1232w
+           T: 'Unearth Ancient Wisdom: Navigating Modern Cri' -> 'Unearth Ancient Wisdom: Navigating Modern Cri'
+  [169/175] OK    oldest-writing-in-the-old-testament                0chg t=35c d=154c 2356w
+  [170/175] OK    overlooked-qumran-cave-rediscovering-joy-in-commun 2chg t=61c d=154c 1192w
+           T: 'Scriptural Insights from Qumran Cave: A Fresh' -> 'Scriptural Insights from Qumran Cave: A Fresh'
+           D: 54c -> 154c
+  [171/175] OK    playlist-perfection                                1chg t=63c d=121c 1149w
+           T: 'Playlist Perfection: Crafting the Ultimate So' -> 'Playlist Perfection: Crafting the Ultimate So'
+  [172/175] OK    preparing-for-fieldwork-strategies-and-techniques- 1chg t=62c d=155c 2731w
+           T: 'Preparing for Fieldwork: Strategies and Techn' -> 'Preparing for Fieldwork: Strategies and Techn'
+  [173/175] OK    preservation-methods-for-biblical-artifacts-uncove 1chg t=57c d=146c 980w
+           T: 'Unlocking Secrets: how Science Preserves Anci' -> 'Unlocking Secrets: how Science Preserves Anci'
+  [174/175] OK    preserving-biblical-archaeological-sites-best-prac 0chg t=65c d=154c 1929w
+  [175/175] OK    preserving-cultural-heritage-strategies-for-dealin 1chg t=57c d=154c 1209w
+           T: 'Preserving Cultural Heritage: Strategies for ' -> 'Preserving Cultural Heritage: Strategies for '
+
+======================================================================
+DONE in 1.5s (0.008s/article)
+  Saved: 175 | Errors: 0
+  Articles changed: 130
+
+  Avg Semantic: entities=39.1 years=0.7 people=31.1 sources=1.0
+
+  By Category:
+    biblical-archaeology       57 articles  avg 1420w  40 changed
+    scripture                  27 articles  avg 1834w  16 changed
+    excavations                40 articles  avg 1580w  33 changed
+    artifacts                  20 articles  avg 1480w  15 changed
+    faith                      31 articles  avg 1677w  26 changed
+======================================================================

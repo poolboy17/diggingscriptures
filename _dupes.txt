@@ -1,0 +1,83 @@
+================================================================================
+EXACT DUPLICATE TITLES: 6
+================================================================================
+  4x  Contrasting Themes in the old Testament and the new Testament
+       -> contrasting-themes-in-the-old-testament-and-the-new-testament-4 (8746w)
+       -> contrasting-themes-in-the-old-testament-and-the-new-testament-2 (3746w)
+       -> contrasting-themes-in-the-old-testament-and-the-new-testament-3 (3722w)
+       -> contrasting-themes-in-the-old-testament-and-the-new-testament (2953w)
+  4x  What Is The Synoptic Problem And Why It Matters
+       -> what-is-the-synoptic-problem-and-why-it-matters (1385w)
+       -> what-is-the-synoptic-problem-and-why-it-matters-3 (1359w)
+       -> what-is-the-synoptic-problem-and-why-it-matters-2 (1200w)
+       -> what-is-the-synoptic-problem-and-why-it-matters-4 (1110w)
+  3x  Unveiling the Secrets of Biblical Archaeology
+       -> unveiling-the-secrets-of-biblical-archaeology-2 (4124w)
+       -> unveiling-the-secrets-of-biblical-archaeology (2975w)
+       -> unveiling-the-secrets-of-biblical-archaeology-3 (2158w)
+  2x  Comparing the old Testament and the Torah
+       -> comparing-the-old-testament-and-the-torah-2 (7615w)
+       -> comparing-the-old-testament-and-the-torah (2958w)
+  2x  What Language was the new Testament Originally Written In?
+       -> what-language-was-the-new-testament-originally-written-in (2641w)
+       -> what-language-was-the-new-testament-originally-written-in-2 (2554w)
+  2x  How Scholars Reconstruct The Earliest Texts
+       -> how-scholars-reconstruct-the-earliest-texts-2 (1360w)
+       -> how-scholars-reconstruct-the-earliest-texts (1173w)
+
+================================================================================
+POSTS PER CATEGORY (for silo planning)
+================================================================================
+   643  Ancient Near East History
+        Avg: 1682w  Min: 652w  Max: 9395w
+   382  Ancient Civilizations
+        Avg: 1690w  Min: 661w  Max: 7615w
+   367  Scriptural Analysis
+        Avg: 1810w  Min: 652w  Max: 7615w
+   239  Ancient History
+        Avg: 1270w  Min: 680w  Max: 4430w
+   222  Historical Narratives
+        Avg: 1529w  Min: 652w  Max: 6313w
+   220  Worship &amp; Rituals
+        Avg: 2145w  Min: 662w  Max: 9395w
+   160  Ancient Texts &amp; Scrolls
+        Avg: 1597w  Min: 662w  Max: 5557w
+   115  Archaeological Discoveries
+        Avg: 1725w  Min: 340w  Max: 3699w
+   113  Sacred Sites &amp; Places
+        Avg: 1872w  Min: 727w  Max: 6313w
+    77  Theological Studies
+        Avg: 2666w  Min: 707w  Max: 8746w
+    51  Faith &amp; Theology
+        Avg: 1775w  Min: 733w  Max: 5704w
+    50  Language &amp; Linguistics
+        Avg: 2040w  Min: 662w  Max: 9395w
+    46  Ancient Objects &amp; Relics
+        Avg: 2276w  Min: 904w  Max: 6313w
+    41  Recent Excavations
+        Avg: 1200w  Min: 832w  Max: 2401w
+    33  Text Origins &amp; Manuscript Studies
+        Avg: 1277w  Min: 827w  Max: 1742w
+    31  Bible Origins &amp; Manuscript Studies
+        Avg: 1259w  Min: 946w  Max: 1602w
+     8  Excavation Findings
+        Avg: 1220w  Min: 661w  Max: 2657w
+     6  Uncategorized
+        Avg: 685w  Min: 618w  Max: 699w
+     2  Technology &amp; Modern Life
+        Avg: 1523w  Min: 1493w  Max: 1554w
+
+================================================================================
+WORD COUNT BUCKETS
+================================================================================
+       5000+:   13  ##
+   3000-5000:   53  ##########
+   2000-3000:  133  ##########################
+   1500-2000:   86  #################
+   1000-1500:  367  #########################################################################
+    500-1000:  222  ############################################
+        <500:    1  
+
+Posts mentioning 'Ark' in preview or title: 142
+Posts with generic 'Exploring/Unveiling/Unearthing' slug prefix: 209
+Posts with specific slugs: 666

@@ -1,42 +1,55 @@
+{"path": "D:\\dev\\projects\\diggingscriptures\\src\\content\\context\\aliyah-leregel.md", "status": "ok", "changes": [], "blocks": [], "warns": []}
+{"path": "D:\\dev\\projects\\diggingscriptures\\src\\content\\context\\diaspora-pilgrimage.md", "status": "ok", "changes": ["~ removed 1 banned word(s)"], "blocks": [], "warns": []}
 {"path": "D:\\dev\\projects\\diggingscriptures\\src\\content\\context\\five-pillars-hajj-explained.md", "status": "ok", "changes": [], "blocks": [], "warns": []}
-{"path": "D:\\dev\\projects\\diggingscriptures\\src\\content\\context\\four-sacred-sites-buddhism.md", "status": "ok", "changes": ["~ removed 2 banned word(s)"], "blocks": [], "warns": []}
-{"path": "D:\\dev\\projects\\diggingscriptures\\src\\content\\context\\history-of-christian-pilgrimage.md", "status": "ok", "changes": ["~ removed 3 banned word(s)"], "blocks": [], "warns": []}
-{"path": "D:\\dev\\projects\\diggingscriptures\\src\\content\\context\\pilgrimage-tourism-modern-era.md", "status": "warn", "changes": ["~ description: 164c -> 155c", "~ removed 1 banned word(s)"], "blocks": [], "warns": ["Description long: 164c (target ≤160)"]}
+{"path": "D:\\dev\\projects\\diggingscriptures\\src\\content\\context\\four-sacred-sites-buddhism.md", "status": "ok", "changes": [], "blocks": [], "warns": []}
+{"path": "D:\\dev\\projects\\diggingscriptures\\src\\content\\context\\history-of-christian-pilgrimage.md", "status": "ok", "changes": [], "blocks": [], "warns": []}
+{"path": "D:\\dev\\projects\\diggingscriptures\\src\\content\\context\\pilgrimage-tourism-modern-era.md", "status": "ok", "changes": [], "blocks": [], "warns": []}
+{"path": "D:\\dev\\projects\\diggingscriptures\\src\\content\\context\\psychology-of-pilgrimage.md", "status": "ok", "changes": ["~ removed 1 banned word(s)"], "blocks": [], "warns": []}
 {"path": "D:\\dev\\projects\\diggingscriptures\\src\\content\\context\\relics-and-sacred-objects.md", "status": "ok", "changes": [], "blocks": [], "warns": []}
-{"path": "D:\\dev\\projects\\diggingscriptures\\src\\content\\context\\three-pilgrim-festivals-judaism.md", "status": "warn", "changes": ["~ description: 171c -> 153c"], "blocks": [], "warns": ["Description long: 171c (target ≤160)"]}
-{"path": "D:\\dev\\projects\\diggingscriptures\\src\\content\\hubs\\buddhist-pilgrimage-paths.md", "status": "ok", "changes": ["~ removed 1 banned word(s)"], "blocks": [], "warns": []}
-{"path": "D:\\dev\\projects\\diggingscriptures\\src\\content\\hubs\\christian-pilgrimage-traditions.md", "status": "ok", "changes": ["~ removed 4 banned word(s)"], "blocks": [], "warns": []}
-{"path": "D:\\dev\\projects\\diggingscriptures\\src\\content\\hubs\\faith-based-journeys.md", "status": "ok", "changes": ["~ removed 4 banned word(s)"], "blocks": [], "warns": []}
+{"path": "D:\\dev\\projects\\diggingscriptures\\src\\content\\context\\three-pilgrim-festivals-judaism.md", "status": "ok", "changes": [], "blocks": [], "warns": []}
+{"path": "D:\\dev\\projects\\diggingscriptures\\src\\content\\context\\what-is-pilgrimage.md", "status": "ok", "changes": [], "blocks": [], "warns": []}
+{"path": "D:\\dev\\projects\\diggingscriptures\\src\\content\\context\\women-and-pilgrimage.md", "status": "ok", "changes": [], "blocks": [], "warns": []}
+{"path": "D:\\dev\\projects\\diggingscriptures\\src\\content\\context\\ziyarat-visiting-shrines-islam.md", "status": "ok", "changes": [], "blocks": [], "warns": []}
+{"path": "D:\\dev\\projects\\diggingscriptures\\src\\content\\hubs\\buddhist-pilgrimage-paths.md", "status": "ok", "changes": [], "blocks": [], "warns": []}
+{"path": "D:\\dev\\projects\\diggingscriptures\\src\\content\\hubs\\christian-pilgrimage-traditions.md", "status": "ok", "changes": [], "blocks": [], "warns": []}
+{"path": "D:\\dev\\projects\\diggingscriptures\\src\\content\\hubs\\faith-based-journeys.md", "status": "ok", "changes": [], "blocks": [], "warns": []}
 {"path": "D:\\dev\\projects\\diggingscriptures\\src\\content\\hubs\\islamic-pilgrimage-traditions.md", "status": "ok", "changes": [], "blocks": [], "warns": []}
 {"path": "D:\\dev\\projects\\diggingscriptures\\src\\content\\hubs\\jewish-pilgrimage-heritage.md", "status": "ok", "changes": [], "blocks": [], "warns": []}
+{"path": "D:\\dev\\projects\\diggingscriptures\\src\\content\\places\\al-aqsa-mosque.md", "status": "ok", "changes": [], "blocks": [], "warns": []}
 {"path": "D:\\dev\\projects\\diggingscriptures\\src\\content\\places\\bodh-gaya.md", "status": "ok", "changes": [], "blocks": [], "warns": []}
-{"path": "D:\\dev\\projects\\diggingscriptures\\src\\content\\places\\dome-of-the-rock.md", "status": "ok", "changes": ["~ removed 1 banned word(s)"], "blocks": [], "warns": []}
+{"path": "D:\\dev\\projects\\diggingscriptures\\src\\content\\places\\dome-of-the-rock.md", "status": "ok", "changes": [], "blocks": [], "warns": []}
 {"path": "D:\\dev\\projects\\diggingscriptures\\src\\content\\places\\hebron-cave-patriarchs.md", "status": "ok", "changes": [], "blocks": [], "warns": []}
 {"path": "D:\\dev\\projects\\diggingscriptures\\src\\content\\places\\jerusalem-old-city.md", "status": "ok", "changes": [], "blocks": [], "warns": []}
-{"path": "D:\\dev\\projects\\diggingscriptures\\src\\content\\places\\jerusalem.md", "status": "ok", "changes": ["~ removed 1 banned word(s)"], "blocks": [], "warns": []}
-{"path": "D:\\dev\\projects\\diggingscriptures\\src\\content\\places\\lourdes.md", "status": "ok", "changes": ["~ removed 1 banned word(s)"], "blocks": [], "warns": []}
-{"path": "D:\\dev\\projects\\diggingscriptures\\src\\content\\places\\lumbini.md", "status": "ok", "changes": ["~ removed 1 banned word(s)"], "blocks": [], "warns": []}
+{"path": "D:\\dev\\projects\\diggingscriptures\\src\\content\\places\\jerusalem.md", "status": "ok", "changes": [], "blocks": [], "warns": []}
+{"path": "D:\\dev\\projects\\diggingscriptures\\src\\content\\places\\lourdes.md", "status": "ok", "changes": [], "blocks": [], "warns": []}
+{"path": "D:\\dev\\projects\\diggingscriptures\\src\\content\\places\\lumbini.md", "status": "ok", "changes": [], "blocks": [], "warns": []}
 {"path": "D:\\dev\\projects\\diggingscriptures\\src\\content\\places\\mecca.md", "status": "ok", "changes": [], "blocks": [], "warns": []}
 {"path": "D:\\dev\\projects\\diggingscriptures\\src\\content\\places\\medina.md", "status": "ok", "changes": [], "blocks": [], "warns": []}
-{"path": "D:\\dev\\projects\\diggingscriptures\\src\\content\\places\\mount-koya.md", "status": "ok", "changes": ["~ removed 1 banned word(s)"], "blocks": [], "warns": []}
+{"path": "D:\\dev\\projects\\diggingscriptures\\src\\content\\places\\mount-koya.md", "status": "ok", "changes": [], "blocks": [], "warns": []}
+{"path": "D:\\dev\\projects\\diggingscriptures\\src\\content\\places\\mount-meron.md", "status": "ok", "changes": ["~ removed 1 banned word(s)"], "blocks": [], "warns": []}
+{"path": "D:\\dev\\projects\\diggingscriptures\\src\\content\\places\\najaf-karbala.md", "status": "ok", "changes": ["~ removed 1 banned word(s)"], "blocks": [], "warns": []}
+{"path": "D:\\dev\\projects\\diggingscriptures\\src\\content\\places\\rachels-tomb.md", "status": "ok", "changes": ["~ removed 1 banned word(s)"], "blocks": [], "warns": []}
 {"path": "D:\\dev\\projects\\diggingscriptures\\src\\content\\places\\rome-vatican.md", "status": "ok", "changes": [], "blocks": [], "warns": []}
-{"path": "D:\\dev\\projects\\diggingscriptures\\src\\content\\places\\safed-kabbalah.md", "status": "ok", "changes": ["~ removed 2 banned word(s)"], "blocks": [], "warns": []}
-{"path": "D:\\dev\\projects\\diggingscriptures\\src\\content\\places\\santiago-de-compostela.md", "status": "ok", "changes": ["~ removed 1 banned word(s)"], "blocks": [], "warns": []}
-{"path": "D:\\dev\\projects\\diggingscriptures\\src\\content\\places\\varanasi.md", "status": "ok", "changes": ["~ removed 2 banned word(s)"], "blocks": [], "warns": []}
+{"path": "D:\\dev\\projects\\diggingscriptures\\src\\content\\places\\safed-kabbalah.md", "status": "ok", "changes": [], "blocks": [], "warns": []}
+{"path": "D:\\dev\\projects\\diggingscriptures\\src\\content\\places\\santiago-de-compostela.md", "status": "ok", "changes": [], "blocks": [], "warns": []}
+{"path": "D:\\dev\\projects\\diggingscriptures\\src\\content\\places\\sarnath.md", "status": "ok", "changes": [], "blocks": [], "warns": []}
+{"path": "D:\\dev\\projects\\diggingscriptures\\src\\content\\places\\varanasi.md", "status": "ok", "changes": [], "blocks": [], "warns": []}
 {"path": "D:\\dev\\projects\\diggingscriptures\\src\\content\\places\\western-wall.md", "status": "ok", "changes": [], "blocks": [], "warns": []}
-{"path": "D:\\dev\\projects\\diggingscriptures\\src\\content\\routes\\abraham-path.md", "status": "ok", "changes": ["~ removed 7 banned word(s)"], "blocks": [], "warns": []}
-{"path": "D:\\dev\\projects\\diggingscriptures\\src\\content\\routes\\camino-de-santiago.md", "status": "ok", "changes": ["~ removed 7 banned word(s)"], "blocks": [], "warns": []}
+{"path": "D:\\dev\\projects\\diggingscriptures\\src\\content\\routes\\abraham-path.md", "status": "ok", "changes": [], "blocks": [], "warns": []}
+{"path": "D:\\dev\\projects\\diggingscriptures\\src\\content\\routes\\camino-de-santiago.md", "status": "ok", "changes": [], "blocks": [], "warns": []}
 {"path": "D:\\dev\\projects\\diggingscriptures\\src\\content\\routes\\hajj-route.md", "status": "ok", "changes": [], "blocks": [], "warns": []}
-{"path": "D:\\dev\\projects\\diggingscriptures\\src\\content\\routes\\kora-mount-kailash.md", "status": "ok", "changes": ["~ removed 2 banned word(s)"], "blocks": [], "warns": []}
-{"path": "D:\\dev\\projects\\diggingscriptures\\src\\content\\routes\\kumano-kodo.md", "status": "warn", "changes": ["~ description: 164c -> 155c", "~ removed 8 banned word(s)"], "blocks": [], "warns": ["Description long: 164c (target ≤160)"]}
-{"path": "D:\\dev\\projects\\diggingscriptures\\src\\content\\routes\\shikoku-88-temples.md", "status": "ok", "changes": ["~ removed 2 banned word(s)"], "blocks": [], "warns": []}
-{"path": "D:\\dev\\projects\\diggingscriptures\\src\\content\\routes\\st-olavs-way.md", "status": "ok", "changes": ["~ removed 8 banned word(s)"], "blocks": [], "warns": []}
-{"path": "D:\\dev\\projects\\diggingscriptures\\src\\content\\routes\\via-francigena.md", "status": "ok", "changes": ["~ removed 6 banned word(s)"], "blocks": [], "warns": []}
-{"path": "D:\\dev\\projects\\diggingscriptures\\src\\content\\stories\\egeria-first-pilgrim-writer.md", "status": "ok", "changes": ["~ removed 2 banned word(s)"], "blocks": [], "warns": []}
-{"path": "D:\\dev\\projects\\diggingscriptures\\src\\content\\stories\\helena-and-the-true-cross.md", "status": "ok", "changes": ["~ removed 1 banned word(s)"], "blocks": [], "warns": []}
+{"path": "D:\\dev\\projects\\diggingscriptures\\src\\content\\routes\\kora-mount-kailash.md", "status": "ok", "changes": [], "blocks": [], "warns": []}
+{"path": "D:\\dev\\projects\\diggingscriptures\\src\\content\\routes\\kumano-kodo.md", "status": "ok", "changes": [], "blocks": [], "warns": []}
+{"path": "D:\\dev\\projects\\diggingscriptures\\src\\content\\routes\\shikoku-88-temples.md", "status": "ok", "changes": [], "blocks": [], "warns": []}
+{"path": "D:\\dev\\projects\\diggingscriptures\\src\\content\\routes\\st-olavs-way.md", "status": "ok", "changes": [], "blocks": [], "warns": []}
+{"path": "D:\\dev\\projects\\diggingscriptures\\src\\content\\routes\\temple-mount-ascent.md", "status": "ok", "changes": [], "blocks": [], "warns": []}
+{"path": "D:\\dev\\projects\\diggingscriptures\\src\\content\\routes\\umrah.md", "status": "ok", "changes": [], "blocks": [], "warns": []}
+{"path": "D:\\dev\\projects\\diggingscriptures\\src\\content\\routes\\via-francigena.md", "status": "ok", "changes": [], "blocks": [], "warns": []}
+{"path": "D:\\dev\\projects\\diggingscriptures\\src\\content\\stories\\egeria-first-pilgrim-writer.md", "status": "ok", "changes": [], "blocks": [], "warns": []}
+{"path": "D:\\dev\\projects\\diggingscriptures\\src\\content\\stories\\helena-and-the-true-cross.md", "status": "ok", "changes": [], "blocks": [], "warns": []}
 {"path": "D:\\dev\\projects\\diggingscriptures\\src\\content\\stories\\ibn-battuta-pilgrim-traveler.md", "status": "ok", "changes": [], "blocks": [], "warns": []}
-{"path": "D:\\dev\\projects\\diggingscriptures\\src\\content\\stories\\kobo-daishi-shikoku.md", "status": "warn", "changes": ["~ description: 166c -> 153c", "~ removed 1 banned word(s)"], "blocks": [], "warns": ["Description long: 166c (target ≤160)"]}
-{"path": "D:\\dev\\projects\\diggingscriptures\\src\\content\\stories\\legend-of-saint-james.md", "status": "ok", "changes": ["~ removed 1 banned word(s)"], "blocks": [], "warns": []}
+{"path": "D:\\dev\\projects\\diggingscriptures\\src\\content\\stories\\kobo-daishi-shikoku.md", "status": "ok", "changes": [], "blocks": [], "warns": []}
+{"path": "D:\\dev\\projects\\diggingscriptures\\src\\content\\stories\\legend-of-saint-james.md", "status": "ok", "changes": [], "blocks": [], "warns": []}
 {"path": "D:\\dev\\projects\\diggingscriptures\\src\\content\\stories\\margery-kempe-medieval-pilgrim.md", "status": "ok", "changes": [], "blocks": [], "warns": []}
-{"path": "D:\\dev\\projects\\diggingscriptures\\src\\content\\stories\\rabbi-nachman-journey-to-israel.md", "status": "ok", "changes": ["~ removed 1 banned word(s)"], "blocks": [], "warns": []}
+{"path": "D:\\dev\\projects\\diggingscriptures\\src\\content\\stories\\rabbi-nachman-journey-to-israel.md", "status": "ok", "changes": [], "blocks": [], "warns": []}
 {"path": "D:\\dev\\projects\\diggingscriptures\\src\\content\\stories\\xuanzang-buddhist-pilgrim.md", "status": "ok", "changes": [], "blocks": [], "warns": []}

@@ -1,0 +1,32 @@
+Building inventory...
+  680 articles indexed
+
+Running silo-aware relink (ALL categories)...
+  [  1] 10-essential-tips-for-aspiring-biblical-archaeolog  Stripped old Related Research section | Added Related Research (4 links (silo-aware))
+  [  2] 10-famous-biblical-archaeologists-you-should-know   Stripped old Related Research section | Added Related Research (4 links (silo-aware))
+  [  3] 10-most-important-biblical-artifacts-discovered     Stripped old Related Research section | Added Related Research (4 links (silo-aware))
+  [  4] 10-must-visit-biblical-archaeological-sites         Stripped old Related Research section | Added Related Research (4 links (silo-aware))
+  [  5] 10-steps-to-volunteer-on-a-biblical-archaeology-di  Stripped old Related Research section | Added Related Research (4 links (silo-aware))
+  [  6] 3-methods-to-identify-genuine-and-counterfeit-arti  Stripped old Related Research section | Added Related Research (4 links (silo-aware))
+  [  7] 5-ways-to-stay-updated-on-the-latest-developments-  Stripped old Related Research section | Added Related Research (4 links (silo-aware))
+  [  8] a-guide-to-evaluating-the-credibility-of-biblical-  Stripped old Related Research section | Added Related Research (4 links (silo-aware))
+  [  9] acacia-wood-blueprint-a-deep-dive-into-the-arks-de  Stripped old Related Research section | Added Related Research (4 links (silo-aware))
+  [ 10] advanced-imaging-illuminates-ancient-hebrew-texts   Stripped old Related Research section | Added Related Research (4 links (silo-aware))
+  [100] dead-sea-orchard-unraveling-the-cosmic-battle-theo  Stripped old Related Research section | Added Related Research (4 links (silo-aware))
+  [200] exploring-the-jericho-cellar-tapestry-a-journey-th  Stripped old Related Research section | Added Related Research (4 links (silo-aware))
+  [300] jericho-boundary-crack-unearthing-spiritual-unity-  Stripped old Related Research section | Added Related Research (4 links (silo-aware))
+  [400] the-distant-queens-visit-unearthing-the-gifts-offe  Stripped old Related Research section | Added Related Research (4 links (silo-aware))
+  [500] unearthing-ancient-livestock-a-closer-look-at-bibl  Stripped old Related Research section | Added Related Research (4 links (silo-aware))
+  [600] what-is-the-difference-between-archaeology-and-arc  Stripped old Related Research section | Added Related Research (4 links (silo-aware))
+
+======================================================================
+  SILO-AWARE RELINK RESULTS
+======================================================================
+  Articles processed:    680
+  Relinked:              680
+  Skipped (no changes):  0
+  Hub links added:       0
+  Related links added:   2720
+  Mode:                  SAVED
+======================================================================
+DONE 

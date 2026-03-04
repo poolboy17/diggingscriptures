@@ -1,0 +1,5 @@
+Fix responsive layout: add container wrapper to Research, Story, Context layouts
+
+Add .container class and .content prose styling to ResearchLayout,
+StoryLayout, and ContextLayout to match PlaceLayout/RouteLayout patterns.
+Prevents text from running full-width on all screen sizes.

@@ -1,0 +1,109 @@
+======================================================================
+SANITY CHECK — Process & Writer Alignment Audit
+======================================================================
+
+Loaded 680 articles
+
+--- CHECK 1: FAQ SECTION QUALITY ---
+  No FAQ:      41
+  Generic FAQ: 630 (template answers, not article-specific)
+  Good FAQ:    9 (appears customized)
+
+--- CHECK 2: OPENING PARAGRAPH QUALITY ---
+  Strong openers: 230 (definitional verb in first 2 sentences)
+  Weak openers:   450 (narrative/vague start)
+
+--- CHECK 3: QUESTION-FORMAT HEADINGS ---
+  0 question headings: 12 articles
+  1 question heading:  2 articles
+  2 question headings: 6 articles
+  3+ question headings: 660 articles
+
+--- CHECK 4: DEFINITION SENTENCES ---
+  Articles with 0 definition sentences: 363
+
+--- CHECK 5: LIST STRUCTURE ---
+  Articles with 0 lists: 87
+
+--- CHECK 6: INTERNAL LINKS ---
+  Zero internal links: 179 (orphaned)
+  1-2 internal links:  501 (below writer config minimum of 3)
+
+--- CHECK 7: FRONTMATTER COMPLETENESS ---
+  Missing fields across 680 articles:
+
+--- CHECK 8: BANNED PHRASES ---
+  158 banned phrase occurrences found:
+    'in conclusion': 158
+
+--- CHECK 9: CONFIG ↔ PIPELINE ALIGNMENT ---
+  [OK] Pipeline checks internal links
+  [OK] Pipeline scores date/year density (GEO layer)
+  [OK] Pipeline scores named people (legacy scores)
+  [OK] Pipeline tracks word count
+  [PARTIAL] Pipeline SCORES openers but doesn't AUTO-FIX them
+  [PARTIAL] Pipeline SCORES question headings but doesn't inject them
+  [PARTIAL] Pipeline SCORES list presence but doesn't inject them
+  [GAP] Writer bans 'in conclusion' but pipeline BANNED_PHRASES list doesn't include it
+  [GAP] Writer bans 'sacred duty' but pipeline doesn't check for it
+  [GAP] Writer bans 'spiritual awakening' but pipeline doesn't check for it
+  [GAP] Pipeline scores opening paragraph quality but has no auto-fix (only FAQ injection exists)
+  [GAP] Pipeline scores question headings but has no auto-fix — only FAQ H3s count
+
+--- CHECK 10: DUPLICATE TITLES ---
+  Clean — no duplicate titles
+
+--- CHECK 11: THIN CONTENT ---
+  <300 words: 0 articles
+  <500 words: 0 articles
+
+--- CHECK 12: H2 COUNT ---
+  0 H2s: 0 articles
+  <3 H2s: 27 articles
+
+--- CHECK 13: IMAGE COVERAGE ---
+  No image: 0 articles
+  Image but no alt: 0 articles
+
+======================================================================
+ISSUES FOUND: 13
+======================================================================
+
+  [CRITICAL]
+    CRITICAL: 179 articles have ZERO internal links (orphaned)
+
+  [HIGH]
+    HIGH: 450 articles have weak opening paragraphs (no definitional verb)
+    HIGH: 501 articles have <3 internal links (writer config requires >=3)
+    HIGH: 158 banned phrase occurrences still in articles
+
+  [MEDIUM]
+    MEDIUM: 630 articles have generic template FAQ answers
+    MEDIUM: 14 articles have <2 question-format headings (writer config requires >=2)
+    MEDIUM: 87 articles have zero bulleted/numbered lists
+
+  [LOW]
+    LOW: 363 articles have zero 'X is Y' definition patterns
+
+  [ALIGNMENT]
+    ALIGNMENT: Writer bans 'in conclusion' but pipeline BANNED_PHRASES list doesn't include it
+    ALIGNMENT: Writer bans 'sacred duty' but pipeline doesn't check for it
+    ALIGNMENT: Writer bans 'spiritual awakening' but pipeline doesn't check for it
+    ALIGNMENT: Pipeline scores opening paragraph quality but has no auto-fix (only FAQ injection exists)
+    ALIGNMENT: Pipeline scores question headings but has no auto-fix — only FAQ H3s count
+
+======================================================================
+RECOMMENDED ACTIONS (by impact):
+======================================================================
+  1. [CRITICAL] Build internal link injector — orphaned articles hurt all 3 layers
+  2. [HIGH] Improve FAQ generator — use article body content to generate specific answers instead of templates
+  3. [HIGH] Build opener hardener — rewrite first sentence to include definitional verb
+  4. [HIGH] Re-run banned phrase cleaner — expand BANNED_PHRASES list to match writer config
+  6. [MEDIUM] Convert 1-2 declarative H2s per article to question format
+  7. [MEDIUM] Inject at least one structured list per article
+  8. [MEDIUM] Sync pipeline BANNED_PHRASES with full writer config banned list
+
+======================================================================
+AUDIT COMPLETE
+======================================================================
+=== DONE === 

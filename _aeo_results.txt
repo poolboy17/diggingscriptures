@@ -1,0 +1,734 @@
+Loading research inventory...
+  680 articles across 5 categories
+    biblical-archaeology: 190
+    scripture: 127
+    excavations: 164
+    artifacts: 80
+    faith: 119
+
+======================================================================
+SemanticPipe v2.0 — Research Edition
+Articles: 680 | Threads: 4 | Mode: LIVE+AEO
+======================================================================
+
+  [  1/680] SAVED 10-essential-tips-for-aspiring-biblical-archa [C] GEO=57% AEO=42% SXO=75% 2539w +1chg
+  [  2/680] SAVED 10-famous-biblical-archaeologists-you-should- [B] GEO=86% AEO=42% SXO=83% 2976w +1chg
+  [  3/680] SAVED 10-most-important-biblical-artifacts-discover [B] GEO=79% AEO=42% SXO=83% 2673w +1chg
+  [  4/680] SAVED 10-must-visit-biblical-archaeological-sites   [B] GEO=64% AEO=50% SXO=83% 3132w +1chg
+  [  5/680] SAVED 10-steps-to-volunteer-on-a-biblical-archaeolo [C] GEO=64% AEO=50% SXO=75% 2275w +1chg
+  [  6/680] SAVED 3-methods-to-identify-genuine-and-counterfeit [C] GEO=57% AEO=42% SXO=58% 3683w +1chg
+  [  7/680] SAVED 5-ways-to-stay-updated-on-the-latest-developm [C] GEO=64% AEO=33% SXO=83% 3442w +1chg
+  [  8/680] SAVED a-guide-to-evaluating-the-credibility-of-bibl [C] GEO=64% AEO=42% SXO=75% 2918w +1chg
+  [  9/680] SAVED acacia-wood-blueprint-a-deep-dive-into-the-ar [C] GEO=64% AEO=33% SXO=67% 1444w +1chg
+  [ 10/680] SAVED advanced-imaging-illuminates-ancient-hebrew-t [C] GEO=64% AEO=33% SXO=58% 1014w +1chg
+  [ 11/680] SAVED advancing-biblical-archaeology-through-remote [C] GEO=57% AEO=33% SXO=75% 2096w +1chg
+  [ 12/680] SAVED alexandrian-vs-byzantine-vs-western-texts-exp [C] GEO=57% AEO=67% SXO=50% 1056w
+  [ 13/680] SAVED analyzing-the-role-of-peer-review-in-biblical [C] GEO=57% AEO=50% SXO=75% 2492w +1chg
+  [ 14/680] SAVED ancient-hebrew-army-camp-discovery-unveils-bi [C] GEO=50% AEO=33% SXO=67% 1028w +1chg
+  [ 15/680] SAVED ancient-hebrew-military-camp-unearthed-in-bib [C] GEO=57% AEO=33% SXO=58% 1085w +1chg
+  [ 16/680] SAVED ancient-hebrew-scripts-and-their-impact-on-bi [D] GEO=50% AEO=33% SXO=58% 1110w +1chg
+  [ 17/680] SAVED ancient-hebrew-seal-collection-reveals-biblic [C] GEO=57% AEO=42% SXO=58% 1157w +1chg
+  [ 18/680] SAVED ancient-hebrew-technology-unlocking-temple-bu [C] GEO=57% AEO=33% SXO=58% 1019w +1chg
+  [ 19/680] SAVED ancient-hebrew-technology-unveils-temple-buil [C] GEO=57% AEO=33% SXO=58% 1054w +1chg
+  [ 20/680] SAVED ancient-hebrew-time-system-decoded-at-last    [C] GEO=57% AEO=33% SXO=58% 1028w +1chg
+  [ 21/680] SAVED ancient-jerusalem-marketplace-near-temple-unv [C] GEO=57% AEO=42% SXO=58% 1196w +1chg
+  [ 22/680] SAVED ancient-jerusalem-palace-unearthed-sparks-bib [C] GEO=57% AEO=33% SXO=58% 1054w +1chg
+  [ 23/680] SAVED ancient-jerusalem-street-reveals-temple-pilgr [D] GEO=50% AEO=33% SXO=58% 1140w +1chg
+  [ 24/680] SAVED ancient-jerusalem-unveiling-the-commerce-cent [C] GEO=57% AEO=33% SXO=58% 1050w +1chg
+  [ 25/680] SAVED ancient-jewish-cemetery-reveals-burial-rites  [C] GEO=57% AEO=33% SXO=58% 1055w +1chg
+  [ 26/680] SAVED ancient-jewish-festival-evidence-uncovered    [D] GEO=50% AEO=33% SXO=58% 991w +1chg
+  [ 27/680] SAVED ancient-jewish-quarter-reveals-temple-era-com [C] GEO=50% AEO=33% SXO=67% 1245w +1chg
+  [ 28/680] SAVED ancient-temple-mount-discovery-shifts-biblica [C] GEO=57% AEO=33% SXO=58% 1187w +1chg
+  [ 29/680] SAVED ancient-temple-seal-discovery-rewrites-biblic [C] GEO=57% AEO=33% SXO=58% 1066w +1chg
+  [ 30/680] SAVED angels-in-the-desert-the-en-gedi-stone-arch-a [C] GEO=50% AEO=50% SXO=67% 1582w +1chg
+  [ 31/680] SAVED archaeoastronomy-uncovering-ancient-cultures- [C] GEO=50% AEO=33% SXO=83% 2241w +1chg
+  [ 32/680] SAVED archaeological-ai-discovers-lost-biblical-cit [C] GEO=57% AEO=33% SXO=58% 1183w +1chg
+  [ 33/680] SAVED archaeological-maps-of-ancient-jerusalem-unve [C] GEO=57% AEO=33% SXO=67% 1239w +1chg
+  [ 34/680] SAVED archaeological-scanning-unveils-temple-mount- [C] GEO=57% AEO=33% SXO=58% 1078w +1chg
+  [ 35/680] SAVED are-all-new-testament-books-written-in-greek  [C] GEO=57% AEO=58% SXO=42% 3675w +1chg
+  [ 36/680] SAVED are-all-the-books-of-the-old-testament-in-the [C] GEO=57% AEO=33% SXO=67% 2130w +1chg
+  [ 37/680] SAVED are-any-original-bible-manuscripts-still-in-e [C] GEO=50% AEO=50% SXO=58% 1109w
+  [ 38/680] SAVED are-archeology-degrees-worth-it               [B] GEO=79% AEO=58% SXO=67% 1221w +1chg
+  [ 39/680] SAVED are-the-original-books-of-the-bible-still-in- [C] GEO=64% AEO=33% SXO=83% 1262w +1chg
+  [ 40/680] SAVED are-there-any-archaeological-evidence-of-the- [C] GEO=57% AEO=33% SXO=83% 1317w +1chg
+  [ 41/680] SAVED battered-column-chest-a-scroll-unveiling-temp [C] GEO=50% AEO=42% SXO=67% 1475w +1chg
+  [ 42/680] SAVED biblical-archaeology-and-the-dead-sea-scrolls [B] GEO=64% AEO=50% SXO=83% 2070w +1chg
+  [ 43/680] SAVED biblical-archaeology-article-discovery-reveal [C] GEO=57% AEO=33% SXO=58% 1026w +1chg
+  [ 44/680] SAVED biblical-archaeology-discoveries-unveil-ancie [C] GEO=57% AEO=50% SXO=83% 1214w +1chg
+  [ 45/680] SAVED biblical-archaeology-discovering-ancient-temp [C] GEO=57% AEO=33% SXO=58% 1199w +1chg
+  [ 46/680] SAVED biblical-archaeology-evidence-unveiled        [C] GEO=57% AEO=50% SXO=83% 1385w +1chg
+  [ 47/680] SAVED biblical-archaeology-excavation-projects-unea [C] GEO=50% AEO=50% SXO=83% 1246w +1chg
+  [ 48/680] SAVED biblical-archaeology-findings-shed-light-on-a [C] GEO=50% AEO=50% SXO=83% 1351w +1chg
+  [ 49/680] SAVED biblical-archaeology-excavation-techniques-un [C] GEO=57% AEO=58% SXO=75% 1416w +1chg
+  [ 50/680] SAVED biblical-archaeology-first-temple-period-disc [C] GEO=57% AEO=33% SXO=67% 1091w +1chg
+  [ 51/680] SAVED biblical-archaeology-first-temple-period-mark [C] GEO=50% AEO=42% SXO=58% 1130w +1chg
+  [ 52/680] SAVED biblical-archaeology-from-ruins-to-revelation [C] GEO=50% AEO=33% SXO=67% 1196w
+  [ 53/680] SAVED biblical-archaeology-illuminating-the-word-of [C] GEO=50% AEO=33% SXO=83% 1374w
+  [ 54/680] SAVED biblical-archaeology-revelations-unearthing-a [C] GEO=50% AEO=50% SXO=83% 1457w +1chg
+  [ 55/680] SAVED biblical-archaeology-the-mystery-of-ancient-t [C] GEO=57% AEO=33% SXO=83% 2954w +1chg
+  [ 56/680] SAVED biblical-archaeology-town-destruction-verifie [C] GEO=57% AEO=33% SXO=58% 1111w +1chg
+  [ 57/680] SAVED biblical-archaeology-uncovering-ancient-marit [C] GEO=50% AEO=25% SXO=83% 1286w +1chg
+  [ 58/680] SAVED biblical-archaeology-uncovering-rare-relics-u [C] GEO=50% AEO=33% SXO=75% 1222w
+  [ 59/680] SAVED biblical-archaeology-uncovers-ancient-mysteri [B] GEO=57% AEO=67% SXO=83% 1840w +1chg
+  [ 60/680] SAVED biblical-archaeology-unearthing-ancient-secre [C] GEO=50% AEO=33% SXO=75% 1166w
+  [ 61/680] SAVED biblical-archaeology-unearths-ancient-sacred- [C] GEO=57% AEO=33% SXO=67% 1200w +1chg
+  [ 62/680] SAVED biblical-archaeology-unlocking-the-secrets-of [C] GEO=57% AEO=33% SXO=83% 2567w +1chg
+  [ 63/680] SAVED biblical-archaeologys-influence-on-modern-fai [C] GEO=50% AEO=33% SXO=83% 1407w
+  [ 64/680] SAVED biblical-city-destruction-evidence-aligns-wit [C] GEO=64% AEO=42% SXO=58% 1321w +1chg
+  [ 65/680] SAVED biblical-era-trading-post-unveils-solomons-we [C] GEO=57% AEO=33% SXO=58% 1116w +1chg
+  [ 66/680] SAVED biblical-historical-sites-unveiled            [C] GEO=50% AEO=50% SXO=83% 1292w +1chg
+  [ 67/680] SAVED biblical-era-workshop-reveals-ancient-craftin [C] GEO=64% AEO=33% SXO=58% 1134w +1chg
+  [ 68/680] SAVED biblical-interpolations-what-were-added-later [B] GEO=79% AEO=67% SXO=58% 1279w
+  [ 69/680] SAVED biblical-period-oil-production-unearthed      [C] GEO=57% AEO=33% SXO=67% 1223w +1chg
+  [ 70/680] SAVED biblical-town-gateway-reveals-ancient-defense [C] GEO=64% AEO=33% SXO=50% 1071w +1chg
+  [ 71/680] SAVED biblical-town-life-revealed-in-new-excavation [C] GEO=57% AEO=33% SXO=75% 1204w +1chg
+  [ 72/680] SAVED biblical-town-streets-explored-and-mapped     [C] GEO=50% AEO=33% SXO=67% 1206w +1chg
+  [ 73/680] SAVED biblical-towns-uncovered-ancient-texts-reveal [C] GEO=57% AEO=33% SXO=58% 1016w +1chg
+  [ 74/680] SAVED buried-wine-jar-scribes-told-to-copy-without- [C] GEO=57% AEO=50% SXO=67% 1632w +1chg
+  [ 75/680] SAVED brief-overview-of-the-old-testament           [C] GEO=50% AEO=33% SXO=67% 2188w +1chg
+  [ 76/680] SAVED can-you-be-an-archaeologist-without-a-degree  [C] GEO=57% AEO=42% SXO=67% 1231w +1chg
+  [ 77/680] SAVED cave-wall-message-unveiling-the-scribe-diarie [C] GEO=64% AEO=50% SXO=58% 1546w +1chg
+  [ 78/680] SAVED central-themes-in-the-old-testament-and-the-n [C] GEO=57% AEO=50% SXO=50% 4442w +1chg
+  [ 79/680] SAVED cherubim-light-a-symbol-of-hope-and-authority [C] GEO=64% AEO=58% SXO=67% 1373w +1chg
+  [ 80/680] SAVED city-of-david-blocked-door-a-journey-into-res [C] GEO=57% AEO=50% SXO=67% 1443w +1chg
+  [ 81/680] SAVED cliff-stone-platform-a-study-of-the-apocalypt [C] GEO=57% AEO=42% SXO=67% 1512w +1chg
+  [ 82/680] SAVED cliffside-hollow-navigating-the-tension-betwe [C] GEO=50% AEO=50% SXO=58% 1838w +1chg
+  [ 83/680] SAVED coin-hoard-clue-analyzing-the-scribes-prophec [C] GEO=57% AEO=50% SXO=67% 1557w +1chg
+  [ 84/680] SAVED comparing-old-and-new-testaments-central-them [C] GEO=57% AEO=33% SXO=67% 3268w +1chg
+  [ 85/680] SAVED comparing-old-testament-and-new-testament-the [C] GEO=71% AEO=50% SXO=50% 5219w +1chg
+  [ 86/680] SAVED comparing-the-old-testament-and-the-new-testa [C] GEO=57% AEO=42% SXO=50% 5081w +1chg
+  [ 87/680] SAVED comparing-the-old-testament-and-new-testament [C] GEO=57% AEO=67% SXO=50% 4856w +1chg
+  [ 88/680] SAVED comparing-the-old-testament-and-the-torah-2   [C] GEO=57% AEO=75% SXO=50% 7825w +1chg
+  [ 89/680] SAVED comparing-themes-in-the-old-testament-and-the [D] GEO=57% AEO=33% SXO=50% 4019w +1chg
+  [ 90/680] SAVED compassion-for-social-outcasts-the-legacy-of- [C] GEO=50% AEO=33% SXO=67% 1363w +1chg
+  [ 91/680] SAVED connecting-the-old-testament-and-the-new-test [C] GEO=50% AEO=42% SXO=58% 1166w +1chg
+  [ 92/680] SAVED continuity-and-discontinuity-the-relationship [C] GEO=64% AEO=33% SXO=67% 2389w +1chg
+  [ 93/680] SAVED contrasting-worship-in-the-old-testament-and- [D] GEO=57% AEO=33% SXO=50% 5883w +1chg
+  [ 94/680] SAVED contrasting-themes-in-the-old-testament-and-t [C] GEO=57% AEO=50% SXO=50% 8925w +1chg
+  [ 95/680] SAVED controversies-in-biblical-archaeology-unearth [C] GEO=64% AEO=42% SXO=83% 2874w +1chg
+  [ 96/680] SAVED crafting-trustworthy-articles-on-biblical-arc [B] GEO=79% AEO=67% SXO=67% 1640w +1chg
+  [ 97/680] SAVED could-we-ever-find-the-original-bible-again   [C] GEO=64% AEO=50% SXO=58% 1421w
+  [ 98/680] SAVED date-palm-crevice-a-sanctuary-of-faith        [C] GEO=57% AEO=58% SXO=58% 1355w +1chg
+  [ 99/680] SAVED dead-sea-cliffs-unlocking-the-hidden-library- [C] GEO=71% AEO=50% SXO=67% 1488w +1chg
+  [100/680] SAVED dead-sea-orchard-unraveling-the-cosmic-battle [C] GEO=50% AEO=50% SXO=67% 1402w +1chg
+  [101/680] SAVED dead-sea-scroll-cave-yields-lost-biblical-tex [C] GEO=71% AEO=33% SXO=58% 991w +1chg
+  [102/680] SAVED dead-sea-scroll-cave-yields-revolutionary-new [C] GEO=64% AEO=33% SXO=58% 1000w +1chg
+  [103/680] SAVED dead-sea-vineyard-a-lamentation-in-jars-of-mo [C] GEO=64% AEO=50% SXO=67% 1592w +1chg
+  [104/680] SAVED debunking-common-misconceptions-about-biblica [C] GEO=57% AEO=50% SXO=75% 2917w +1chg
+  [105/680] SAVED debunking-misconceptions-about-biblical-archa [C] GEO=57% AEO=42% SXO=75% 1729w +1chg
+  [106/680] SAVED debunking-popular-misconceptions-about-biblic [C] GEO=50% AEO=42% SXO=75% 2974w +1chg
+  [107/680] SAVED debunking-the-top-misconceptions-about-biblic [C] GEO=57% AEO=50% SXO=83% 2610w +1chg
+  [108/680] SAVED decoding-ancient-inscriptions-a-biblical-arch [C] GEO=57% AEO=33% SXO=83% 2031w +1chg
+  [109/680] SAVED decoding-ancient-inscriptions-unraveling-the- [C] GEO=64% AEO=42% SXO=83% 2472w +1chg
+  [110/680] SAVED decoding-ancient-myths-the-role-of-biblical-a [C] GEO=50% AEO=42% SXO=83% 2658w +1chg
+  [111/680] SAVED decoding-the-ancient-hebrew-calendar-system   [C] GEO=57% AEO=33% SXO=58% 1037w +1chg
+  [112/680] SAVED decoding-ancient-technology-insights-from-bib [C] GEO=50% AEO=42% SXO=67% 4602w +1chg
+  [113/680] SAVED decoding-the-enigma-challenges-of-conservatio [C] GEO=50% AEO=33% SXO=75% 2502w +1chg
+  [114/680] SAVED desert-fortress-jars-a-quest-for-purity-in-a- [C] GEO=57% AEO=33% SXO=67% 1381w +1chg
+  [115/680] SAVED desert-fortress-the-laments-of-national-defea [C] GEO=50% AEO=58% SXO=58% 1493w +1chg
+  [116/680] SAVED desert-hostel-stone-a-teachers-vision-of-libe [C] GEO=50% AEO=58% SXO=67% 1576w +1chg
+  [117/680] SAVED desert-orchard-trough-crafting-communal-worsh [C] GEO=50% AEO=33% SXO=67% 1419w +1chg
+  [118/680] SAVED desert-plateau-slab-the-exiled-teachers-call- [C] GEO=50% AEO=42% SXO=58% 1613w +1chg
+  [119/680] SAVED desert-rain-at-ein-gedi-the-interplay-of-frag [C] GEO=64% AEO=50% SXO=67% 1697w +1chg
+  [120/680] SAVED did-the-israelites-conquer-jericho-a-new-look [C] GEO=71% AEO=33% SXO=83% 1328w +1chg
+  [121/680] SAVED differences-in-biblical-canon-among-tradition [C] GEO=64% AEO=58% SXO=58% 1168w
+  [122/680] SAVED differences-between-sinaiticus-and-vaticanus  [C] GEO=79% AEO=42% SXO=58% 1698w +1chg
+  [123/680] SAVED digital-mapping-of-biblical-cities-unearthing [C] GEO=57% AEO=33% SXO=58% 1069w +1chg
+  [124/680] SAVED digital-recording-of-ancient-hebrew-seals-and [D] GEO=50% AEO=33% SXO=58% 1064w +1chg
+  [125/680] SAVED digital-mapping-uncovers-lost-biblical-city-s [C] GEO=57% AEO=33% SXO=58% 1151w +1chg
+  [126/680] SAVED discover-exciting-opportunities-to-support-bi [C] GEO=57% AEO=33% SXO=83% 2584w +1chg
+  [127/680] SAVED discover-fascinating-biblical-archaeology-art [C] GEO=50% AEO=50% SXO=83% 1377w +1chg
+  [128/680] SAVED discover-notable-biblical-excavations-unearth [C] GEO=50% AEO=50% SXO=83% 1442w +1chg
+  [129/680] SAVED discoveries-in-biblical-archaeology-unearth-n [C] GEO=50% AEO=50% SXO=83% 1304w +1chg
+  [130/680] SAVED discovering-biblical-art-through-archaeology  [C] GEO=71% AEO=33% SXO=58% 1079w +1chg
+  [131/680] SAVED discovering-hidden-treasures-the-art-of-bibli [C] GEO=57% AEO=33% SXO=83% 2571w +1chg
+  [132/680] SAVED discovering-history-the-temple-mount-scanning [C] GEO=57% AEO=42% SXO=58% 1026w +1chg
+  [133/680] SAVED discovering-the-ancient-jewish-bath-house     [C] GEO=57% AEO=33% SXO=67% 1459w +1chg
+  [134/680] SAVED discovering-the-pioneers-prominent-biblical-a [C] GEO=57% AEO=33% SXO=83% 2233w +1chg
+  [135/680] SAVED discovering-the-legacy-exploring-the-life-and [B] GEO=71% AEO=42% SXO=83% 2093w +1chg
+  [136/680] SAVED do-any-of-the-original-books-of-the-bible-sti [B] GEO=71% AEO=50% SXO=75% 1275w +1chg
+  [137/680] SAVED dna-analysis-transforms-ancient-migration-ins [C] GEO=57% AEO=33% SXO=58% 1060w +1chg
+  [138/680] SAVED do-the-dead-sea-scrolls-include-biblical-text [B] GEO=79% AEO=50% SXO=67% 1567w
+  [139/680] SAVED does-archaeology-confirm-the-historical-accur [C] GEO=57% AEO=50% SXO=75% 1298w +1chg
+  [140/680] SAVED does-the-original-bible-still-exist           [B] GEO=71% AEO=50% SXO=83% 1275w +1chg
+  [141/680] SAVED donkey-kicked-boulder-a-journey-through-trial [C] GEO=57% AEO=42% SXO=58% 1424w +1chg
+  [142/680] SAVED dominion-struggles-in-the-shadow-of-the-dead- [C] GEO=57% AEO=50% SXO=67% 1387w +1chg
+  [143/680] SAVED effective-communication-strategies-for-biblic [C] GEO=57% AEO=42% SXO=75% 3048w +1chg
+  [144/680] SAVED embracing-the-future-new-technologies-in-bibl [C] GEO=57% AEO=42% SXO=83% 3199w +1chg
+  [145/680] SAVED ein-gedi-fallen-stones-a-testament-of-hope-in [C] GEO=57% AEO=58% SXO=67% 1737w +1chg
+  [146/680] SAVED essential-key-skills-for-a-career-in-biblical [C] GEO=64% AEO=33% SXO=75% 2386w +1chg
+  [147/680] SAVED examining-the-impact-of-roland-de-vaux-on-bib [C] GEO=57% AEO=33% SXO=83% 2517w +1chg
+  [148/680] SAVED excavations-unveiling-biblical-archaeology    [C] GEO=50% AEO=50% SXO=75% 1372w +1chg
+  [149/680] SAVED exciting-biblical-archaeology-excavation-find [C] GEO=50% AEO=50% SXO=75% 1471w +1chg
+  [150/680] SAVED exciting-biblical-archaeology-excavation-disc [C] GEO=50% AEO=33% SXO=83% 1350w +1chg
+  [151/680] SAVED exciting-discoveries-await-biblical-archaeolo [C] GEO=50% AEO=50% SXO=83% 1393w +1chg
+  [152/680] SAVED exploring-a-biblical-ship-harbor-discovery    [D] GEO=57% AEO=33% SXO=50% 1007w +1chg
+  [153/680] SAVED exploring-ancient-biblical-artifacts-the-role [C] GEO=57% AEO=25% SXO=75% 1259w +1chg
+  [154/680] SAVED exploring-ancient-biblical-sites-a-journey-th [C] GEO=50% AEO=50% SXO=83% 1522w +1chg
+  [155/680] SAVED exploring-ancient-hebrew-homes-through-archae [D] GEO=50% AEO=33% SXO=58% 1076w +1chg
+  [156/680] SAVED exploring-ancient-jerusalem-pilgrim-routes-un [C] GEO=64% AEO=33% SXO=58% 1048w +1chg
+  [157/680] SAVED exploring-ancient-languages-through-biblical- [C] GEO=64% AEO=25% SXO=83% 1901w +1chg
+  [158/680] SAVED exploring-ancient-markets-role-in-temple-econ [C] GEO=57% AEO=33% SXO=58% 1112w +1chg
+  [159/680] SAVED exploring-ancient-religious-practices-through [C] GEO=50% AEO=42% SXO=67% 3867w +1chg
+  [160/680] SAVED exploring-biblical-archaeological-evidence    [C] GEO=57% AEO=33% SXO=58% 1038w +1chg
+  [161/680] SAVED exploring-biblical-archaeology-discoveries    [C] GEO=50% AEO=33% SXO=67% 1108w +1chg
+  [162/680] SAVED exploring-biblical-archaeology-in-the-middle- [C] GEO=57% AEO=33% SXO=83% 2237w +1chg
+  [163/680] SAVED exploring-biblical-archaeology-journey-to-jer [C] GEO=50% AEO=33% SXO=83% 1210w
+  [164/680] SAVED exploring-biblical-archaeology-methods-in-anc [C] GEO=50% AEO=50% SXO=75% 1296w +1chg
+  [165/680] SAVED exploring-biblical-archaeology-studies-unveil [C] GEO=50% AEO=50% SXO=83% 1204w +1chg
+  [166/680] SAVED exploring-biblical-archaeology-uncovering-anc [C] GEO=57% AEO=33% SXO=67% 3508w +1chg
+  [167/680] SAVED exploring-biblical-archaeology-unveiling-the- [C] GEO=57% AEO=42% SXO=67% 6491w +1chg
+  [168/680] SAVED exploring-controversies-surrounding-biblical- [C] GEO=57% AEO=42% SXO=83% 2308w +1chg
+  [169/680] SAVED exploring-ethical-considerations-in-biblical- [C] GEO=57% AEO=33% SXO=75% 2117w +1chg
+  [170/680] SAVED exploring-hill-country-tablets-genealogies-li [C] GEO=57% AEO=42% SXO=67% 1557w +1chg
+  [171/680] SAVED exploring-jerusalem-market-crafting-fellowshi [C] GEO=50% AEO=50% SXO=67% 1666w +1chg
+  [172/680] SAVED exploring-new-approaches-in-biblical-archaeol [C] GEO=50% AEO=33% SXO=75% 3134w +1chg
+  [173/680] SAVED exploring-side-canyon-shelter-a-journey-throu [C] GEO=57% AEO=50% SXO=58% 1658w +1chg
+  [174/680] SAVED exploring-the-ancient-jerusalem-palace-comple [C] GEO=57% AEO=33% SXO=58% 1021w +1chg
+  [175/680] SAVED exploring-the-ancient-world-the-most-popular- [C] GEO=57% AEO=42% SXO=75% 1249w +1chg
+  [176/680] SAVED exploring-the-authenticity-of-old-testament-m [C] GEO=57% AEO=42% SXO=50% 4807w +1chg
+  [177/680] SAVED exploring-the-best-methods-for-analyzing-arti [C] GEO=50% AEO=33% SXO=75% 1835w +1chg
+  [178/680] SAVED exploring-the-city-of-david-cracks-insights-i [C] GEO=64% AEO=42% SXO=67% 1423w +1chg
+  [179/680] SAVED exploring-the-connection-architecture-and-bib [C] GEO=50% AEO=33% SXO=83% 1824w +1chg
+  [180/680] SAVED exploring-the-connection-the-intersection-of- [C] GEO=57% AEO=33% SXO=83% 3210w +1chg
+  [181/680] SAVED exploring-the-connections-between-biblical-ar [C] GEO=50% AEO=42% SXO=58% 3508w +1chg
+  [182/680] SAVED exploring-the-controversies-the-role-of-bibli [C] GEO=64% AEO=33% SXO=67% 3629w +1chg
+  [183/680] SAVED exploring-the-depths-of-biblical-archaeology  [C] GEO=57% AEO=25% SXO=67% 1130w +1chg
+  [184/680] SAVED exploring-the-desert-oven-hideaway-a-study-of [C] GEO=50% AEO=58% SXO=58% 1489w +1chg
+  [185/680] SAVED exploring-the-depths-the-future-of-underwater [C] GEO=57% AEO=42% SXO=67% 4576w +1chg
+  [186/680] SAVED exploring-the-desert-plateau-anomaly-unveilin [C] GEO=57% AEO=58% SXO=58% 1833w +1chg
+  [187/680] SAVED exploring-the-era-of-moral-decay-the-ark-as-h [C] GEO=50% AEO=50% SXO=67% 1480w +1chg
+  [188/680] SAVED exploring-the-environmental-impact-on-biblica [C] GEO=50% AEO=33% SXO=67% 3612w +1chg
+  [189/680] SAVED exploring-the-ethical-implications-of-display [C] GEO=57% AEO=50% SXO=75% 2509w +1chg
+  [190/680] SAVED exploring-the-ethical-issues-in-biblical-arch [C] GEO=57% AEO=50% SXO=75% 2181w +1chg
+  [191/680] SAVED exploring-the-first-temple-treasury           [C] GEO=57% AEO=33% SXO=58% 1036w +1chg
+  [192/680] SAVED exploring-the-galilean-synagogue-mosaic-a-stu [C] GEO=64% AEO=58% SXO=67% 1420w +1chg
+  [193/680] SAVED exploring-the-hidden-channel-vessel-israels-r [C] GEO=57% AEO=33% SXO=67% 1436w +1chg
+  [194/680] SAVED exploring-the-impact-of-technology-in-biblica [C] GEO=50% AEO=33% SXO=83% 2118w +1chg
+  [195/680] SAVED exploring-the-impact-of-biblical-archaeology- [C] GEO=57% AEO=42% SXO=83% 1927w +1chg
+  [196/680] SAVED exploring-the-influence-of-biblical-archaeolo [C] GEO=57% AEO=33% SXO=83% 2062w +1chg
+  [197/680] SAVED exploring-the-inner-essence-the-arks-balance- [C] GEO=71% AEO=25% SXO=67% 1342w +1chg
+  [198/680] SAVED exploring-the-intersection-of-biblical-archae [C] GEO=57% AEO=25% SXO=83% 2309w +1chg
+  [199/680] SAVED exploring-the-interconnections-religion-and-b [C] GEO=57% AEO=33% SXO=67% 3686w +1chg
+  [200/680] SAVED exploring-the-jericho-cellar-tapestry-a-journ [C] GEO=64% AEO=58% SXO=67% 1764w +1chg
+  [201/680] SAVED exploring-the-jericho-mound-ledger-offerings- [C] GEO=57% AEO=58% SXO=67% 1609w +1chg
+  [202/680] SAVED exploring-the-key-discoveries-of-archaeologis [B] GEO=71% AEO=42% SXO=83% 2574w +1chg
+  [203/680] SAVED exploring-the-jericho-ruins-a-single-jar-of-a [C] GEO=50% AEO=50% SXO=58% 1433w +1chg
+  [204/680] SAVED exploring-the-key-skills-of-biblical-archaeol [C] GEO=57% AEO=33% SXO=75% 1798w +1chg
+  [205/680] SAVED exploring-the-key-responsibilities-of-a-bibli [C] GEO=64% AEO=33% SXO=58% 3657w +1chg
+  [206/680] SAVED exploring-the-language-of-the-old-testament   [C] GEO=64% AEO=58% SXO=50% 5343w +1chg
+  [207/680] SAVED exploring-the-legacy-of-the-sandstorm-in-jeri [C] GEO=57% AEO=50% SXO=67% 1440w +1chg
+  [208/680] SAVED exploring-the-legacy-of-w-f-petrie-in-biblica [C] GEO=57% AEO=33% SXO=75% 1308w +1chg
+  [209/680] SAVED exploring-the-link-between-biblical-archaeolo [C] GEO=50% AEO=33% SXO=75% 1061w +1chg
+  [210/680] SAVED exploring-the-link-between-biblical-archaeolo [C] GEO=57% AEO=42% SXO=83% 2654w +1chg
+  [211/680] SAVED exploring-the-link-biblical-archaeology-and-t [C] GEO=64% AEO=42% SXO=83% 3218w +1chg
+  [212/680] SAVED exploring-the-link-biblical-archaeologys-infl [C] GEO=57% AEO=42% SXO=83% 2778w +1chg
+  [213/680] SAVED exploring-the-moral-dilemmas-surrounding-coll [C] GEO=57% AEO=50% SXO=75% 2215w +1chg
+  [214/680] SAVED exploring-the-mountain-corridor-a-journey-thr [C] GEO=57% AEO=50% SXO=67% 1510w +1chg
+  [215/680] SAVED exploring-the-multidisciplinary-approach-in-b [C] GEO=57% AEO=33% SXO=83% 2083w +1chg
+  [216/680] SAVED exploring-the-mysteries-exciting-careers-for- [C] GEO=64% AEO=33% SXO=83% 2564w +1chg
+  [217/680] SAVED exploring-the-mysteries-of-the-qumran-stairwa [C] GEO=57% AEO=50% SXO=67% 1380w +1chg
+  [218/680] SAVED exploring-the-mysteries-of-the-well-shaft-in- [C] GEO=57% AEO=42% SXO=67% 1395w +1chg
+  [219/680] SAVED exploring-the-old-testament-through-a-cultura [D] GEO=50% AEO=33% SXO=50% 5120w +1chg
+  [220/680] SAVED exploring-the-old-testaments-role-in-christia [C] GEO=50% AEO=42% SXO=67% 3453w +1chg
+  [221/680] SAVED exploring-the-origins-understanding-biblical- [C] GEO=57% AEO=42% SXO=83% 2227w +1chg
+  [222/680] SAVED exploring-the-political-implications-of-bibli [C] GEO=57% AEO=33% SXO=83% 2329w +1chg
+  [223/680] SAVED exploring-the-qumran-storeroom-trunk-a-study- [C] GEO=57% AEO=50% SXO=67% 1455w +1chg
+  [224/680] SAVED exploring-the-power-of-collaboration-in-bibli [C] GEO=57% AEO=33% SXO=75% 1319w +1chg
+  [225/680] SAVED exploring-the-qumran-workshop-ruins-a-quest-f [C] GEO=57% AEO=50% SXO=67% 1961w +1chg
+  [226/680] SAVED exploring-the-relationship-between-biblical-a [C] GEO=57% AEO=33% SXO=83% 2030w +1chg
+  [227/680] SAVED exploring-the-religious-significance-biblical [C] GEO=57% AEO=33% SXO=83% 2322w +1chg
+  [228/680] SAVED exploring-the-remote-hill-shrine-relics-that- [C] GEO=50% AEO=50% SXO=67% 1663w +1chg
+  [229/680] SAVED exploring-the-roman-encampment-chamber-insigh [C] GEO=50% AEO=50% SXO=67% 1448w +1chg
+  [230/680] SAVED exploring-the-secrets-of-biblical-seals       [D] GEO=50% AEO=33% SXO=58% 1040w +1chg
+  [231/680] SAVED exploring-the-significance-biblical-archaeolo [C] GEO=57% AEO=33% SXO=83% 2768w +1chg
+  [232/680] SAVED exploring-the-significance-of-biblical-archae [C] GEO=50% AEO=33% SXO=75% 1546w +1chg
+  [233/680] SAVED exploring-the-significance-of-biblical-archae [C] GEO=57% AEO=33% SXO=83% 2672w +1chg
+  [234/680] SAVED exploring-the-significance-of-biblical-archae [C] GEO=57% AEO=42% SXO=83% 1693w +1chg
+  [235/680] SAVED exploring-the-significance-of-cherubim-in-bib [C] GEO=50% AEO=33% SXO=67% 1345w +1chg
+  [236/680] SAVED exploring-the-techniques-employed-by-biblical [C] GEO=50% AEO=33% SXO=75% 2413w +1chg
+  [237/680] SAVED exploring-the-temple-era-gardens-in-biblical- [C] GEO=57% AEO=33% SXO=58% 996w +1chg
+  [238/680] SAVED exploring-the-wadi-cliff-fish-carving-insight [C] GEO=57% AEO=50% SXO=58% 1634w +1chg
+  [239/680] SAVED exploring-the-transition-between-the-old-test [C] GEO=57% AEO=33% SXO=58% 1421w +1chg
+  [240/680] SAVED exploring-the-wilderness-insights-from-the-be [C] GEO=57% AEO=50% SXO=67% 1560w +1chg
+  [241/680] SAVED famous-biblical-archaeologists-and-their-disc [C] GEO=57% AEO=33% SXO=75% 1074w +1chg
+  [242/680] SAVED exploring-the-worship-in-the-new-testament    [C] GEO=57% AEO=50% SXO=67% 2869w +1chg
+  [243/680] SAVED famous-biblical-dig-sites-revealed            [C] GEO=57% AEO=50% SXO=83% 1203w +1chg
+  [244/680] SAVED feast-days-and-the-ark-a-spiritual-journey-th [C] GEO=64% AEO=50% SXO=67% 1796w +1chg
+  [245/680] SAVED first-temple-archive-unearths-historical-reco [C] GEO=57% AEO=33% SXO=58% 1088w +1chg
+  [246/680] SAVED first-temple-market-unearthed-a-new-biblical- [C] GEO=64% AEO=33% SXO=58% 1079w +1chg
+  [247/680] SAVED first-temple-period-royal-seal-collection-une [C] GEO=64% AEO=33% SXO=58% 1119w +1chg
+  [248/680] SAVED first-temple-period-discovery-reveals-ancient [C] GEO=57% AEO=33% SXO=58% 984w +1chg
+  [249/680] SAVED first-temple-storage-complex-unveils-ancient- [C] GEO=64% AEO=33% SXO=67% 1307w +1chg
+  [250/680] SAVED fishermans-vessel-the-role-of-water-as-purifi [C] GEO=57% AEO=42% SXO=58% 1218w +1chg
+  [251/680] SAVED first-temple-treasury-complex-unveiled        [C] GEO=64% AEO=33% SXO=58% 1159w +1chg
+  [252/680] SAVED foundations-of-biblical-archaeology-uncovered [C] GEO=57% AEO=33% SXO=58% 1136w +1chg
+  [253/680] SAVED galilee-synagogue-floor-exploring-the-watchme [C] GEO=50% AEO=50% SXO=58% 1479w +1chg
+  [254/680] SAVED good-samaritan-road-a-journey-of-compassion-f [C] GEO=50% AEO=50% SXO=67% 1640w +1chg
+  [255/680] SAVED ground-penetrating-radar-unveils-hidden-templ [C] GEO=57% AEO=33% SXO=58% 1196w +1chg
+  [256/680] SAVED governing-temple-rites-the-secrets-of-the-mus [C] GEO=57% AEO=58% SXO=67% 1648w +1chg
+  [257/680] SAVED has-archaeology-buried-the-bible-review       [C] GEO=57% AEO=50% SXO=75% 1169w +1chg
+  [258/680] SAVED has-archeology-ever-disproved-the-bible       [C] GEO=50% AEO=50% SXO=75% 1255w +1chg
+  [259/680] SAVED has-the-bible-ever-been-mistranslated         [C] GEO=71% AEO=50% SXO=67% 1234w +1chg
+  [260/680] SAVED have-the-original-books-of-the-bible-been-fou [B] GEO=64% AEO=50% SXO=83% 1311w +1chg
+  [261/680] SAVED have-any-artifacts-from-the-bible-been-found  [C] GEO=57% AEO=50% SXO=75% 1280w +1chg
+  [262/680] SAVED hebrew-aramaic-greek-biblical-languages-expla [B] GEO=71% AEO=58% SXO=67% 1657w +1chg
+  [263/680] SAVED hezekiahs-tunnel-plug-unraveling-the-royal-de [C] GEO=64% AEO=50% SXO=67% 1209w +1chg
+  [264/680] SAVED hidden-fort-corridor-the-intersection-of-weal [C] GEO=57% AEO=50% SXO=67% 1587w +1chg
+  [265/680] SAVED hidden-temple-chamber-reveals-lost-biblical-t [C] GEO=57% AEO=33% SXO=58% 1155w +1chg
+  [266/680] SAVED high-holy-psalms-the-melodic-prayer-of-priest [C] GEO=50% AEO=50% SXO=67% 1614w +1chg
+  [267/680] SAVED how-and-why-the-original-bible-autographs-wer [C] GEO=57% AEO=50% SXO=50% 1122w
+  [268/680] SAVED hillside-dwelling-scribal-lessons-on-preserva [C] GEO=57% AEO=50% SXO=67% 1566w +1chg
+  [269/680] SAVED how-archaeology-confirms-biblical-origins     [C] GEO=71% AEO=50% SXO=67% 1398w +1chg
+  [270/680] SAVED how-church-fathers-help-reconstruct-originals [C] GEO=57% AEO=42% SXO=58% 1460w
+  [271/680] SAVED how-codex-vaticanus-shapes-our-bible-text-tod [C] GEO=71% AEO=50% SXO=58% 1316w
+  [272/680] SAVED how-do-you-become-a-biblical-archaeologist    [C] GEO=57% AEO=33% SXO=58% 1169w +1chg
+  [273/680] SAVED how-does-archeology-prove-the-bible-is-true   [C] GEO=64% AEO=33% SXO=83% 1299w +1chg
+  [274/680] SAVED how-does-biblical-archaeology-relate-to-the-i [C] GEO=50% AEO=50% SXO=67% 1189w +1chg
+  [275/680] SAVED how-does-the-ethiopian-bible-differ-from-the- [C] GEO=57% AEO=50% SXO=67% 1299w +1chg
+  [276/680] SAVED how-jeromes-vulgate-influenced-canon-texts    [C] GEO=64% AEO=58% SXO=58% 1259w
+  [277/680] SAVED how-many-different-versions-of-the-bible-are- [C] GEO=64% AEO=42% SXO=75% 1205w +1chg
+  [278/680] SAVED how-many-ancient-manuscripts-of-the-bible-hav [B] GEO=86% AEO=50% SXO=67% 1196w +1chg
+  [279/680] SAVED how-many-old-testament-manuscripts-survive    [C] GEO=64% AEO=50% SXO=67% 1285w
+  [280/680] SAVED how-many-new-testament-manuscripts-exist-toda [C] GEO=64% AEO=58% SXO=50% 846w
+  [281/680] SAVED how-many-times-has-the-bible-been-changed     [C] GEO=71% AEO=33% SXO=58% 1159w +1chg
+  [282/680] SAVED how-scholars-reconstruct-the-earliest-texts-2 [C] GEO=57% AEO=33% SXO=67% 1370w
+  [283/680] SAVED how-septuagint-shed-light-on-early-hebrew-tex [C] GEO=64% AEO=42% SXO=58% 1546w
+  [284/680] SAVED how-the-documentary-hypothesis-shapes-origins [C] GEO=64% AEO=33% SXO=67% 1344w
+  [285/680] SAVED how-the-old-testament-got-its-name            [C] GEO=57% AEO=42% SXO=58% 2109w +1chg
+  [286/680] SAVED integrating-biblical-archaeology-in-education [C] GEO=57% AEO=33% SXO=67% 2310w +1chg
+  [287/680] SAVED interpreting-biblical-archaeology-discoveries [C] GEO=50% AEO=50% SXO=75% 1259w +1chg
+  [288/680] SAVED interpreting-biblical-texts-with-clarity      [C] GEO=50% AEO=50% SXO=75% 1343w +1chg
+  [289/680] SAVED interpreting-biblical-archaeology-discoveries [C] GEO=50% AEO=50% SXO=83% 1355w +1chg
+  [290/680] SAVED is-anything-in-the-bible-historically-accurat [C] GEO=57% AEO=50% SXO=67% 1185w +1chg
+  [291/680] SAVED is-ethiopian-bible-accurate                   [C] GEO=57% AEO=42% SXO=75% 1299w +1chg
+  [292/680] SAVED is-the-ethiopian-bible-the-first-bible        [C] GEO=64% AEO=50% SXO=75% 1263w +1chg
+  [293/680] SAVED is-the-ethiopian-bible-the-most-accurate      [C] GEO=71% AEO=33% SXO=75% 1282w +1chg
+  [294/680] SAVED is-the-ethiopian-bible-the-oldest             [C] GEO=64% AEO=50% SXO=67% 1303w +1chg
+  [295/680] SAVED is-the-ethiopian-bible-the-oldest-bible       [C] GEO=64% AEO=50% SXO=75% 1259w +1chg
+  [296/680] SAVED is-the-old-testament-written-in-greek-or-hebr [C] GEO=57% AEO=58% SXO=67% 2324w +1chg
+  [297/680] SAVED is-there-a-degree-in-biblical-history         [B] GEO=57% AEO=58% SXO=83% 1202w +1chg
+  [298/680] SAVED is-there-a-difference-between-archaeology-and [C] GEO=71% AEO=42% SXO=67% 1187w +1chg
+  [299/680] SAVED jericho-alcove-unveiling-the-complexities-of- [C] GEO=50% AEO=50% SXO=67% 1550w +1chg
+  [300/680] SAVED jericho-boundary-crack-unearthing-spiritual-u [C] GEO=50% AEO=50% SXO=67% 1741w +1chg
+  [301/680] SAVED jericho-city-gate-the-significance-of-the-ren [C] GEO=57% AEO=58% SXO=67% 1520w +1chg
+  [302/680] SAVED jericho-orchard-shelter-exploring-faith-amids [C] GEO=57% AEO=50% SXO=67% 1356w +1chg
+  [303/680] SAVED jerusalem-temple-construction-methods-finally [D] GEO=50% AEO=33% SXO=58% 1018w +1chg
+  [304/680] SAVED jerusalem-temple-foundations-finally-discover [C] GEO=71% AEO=33% SXO=58% 1092w +1chg
+  [305/680] SAVED jerusalem-wall-niche-a-reflection-on-moral-wa [C] GEO=50% AEO=42% SXO=67% 1533w +1chg
+  [306/680] SAVED jerusalems-hidden-compartment-unraveling-the- [C] GEO=57% AEO=33% SXO=67% 1180w +1chg
+  [307/680] SAVED jordan-baptism-site-jar-unveiling-repentance- [C] GEO=50% AEO=42% SXO=67% 1600w +1chg
+  [308/680] SAVED jordan-clay-pots-unearthing-the-day-of-reckon [C] GEO=57% AEO=50% SXO=58% 1610w +1chg
+  [309/680] SAVED jordan-slope-stone-unveiling-the-psalms-echo- [C] GEO=50% AEO=33% SXO=67% 1556w +1chg
+  [310/680] SAVED joyous-festival-processions-at-the-city-sewer [D] GEO=50% AEO=25% SXO=58% 1606w +1chg
+  [311/680] SAVED kathleen-kenyons-contributions-to-biblical-ar [B] GEO=86% AEO=42% SXO=83% 1936w +1chg
+  [312/680] SAVED keys-to-successful-collaboration-on-biblical- [C] GEO=57% AEO=33% SXO=75% 2022w +1chg
+  [313/680] SAVED language-of-the-testaments                    [C] GEO=50% AEO=42% SXO=67% 1380w +1chg
+  [314/680] SAVED language-of-the-old-testament-exploring-the-s [D] GEO=50% AEO=42% SXO=50% 4325w +1chg
+  [315/680] SAVED lidar-technology-uncovers-biblical-archaeolog [D] GEO=50% AEO=33% SXO=50% 992w +1chg
+  [316/680] SAVED lightning-shattered-cliff-a-glimpse-of-future [D] GEO=50% AEO=33% SXO=58% 1722w +1chg
+  [317/680] SAVED lost-biblical-city-found-ancient-fortress-rev [D] GEO=50% AEO=33% SXO=58% 1214w +1chg
+  [318/680] SAVED lost-biblical-city-found-ancient-life-reveale [D] GEO=57% AEO=33% SXO=50% 965w +1chg
+  [319/680] SAVED major-contributions-of-biblical-archaeologist [C] GEO=64% AEO=42% SXO=83% 2434w +1chg
+  [320/680] SAVED mapping-the-priestly-lineages-of-qumran-old-c [C] GEO=57% AEO=42% SXO=67% 1617w +1chg
+  [321/680] SAVED maps-of-ancient-commerce-in-the-biblical-era  [D] GEO=57% AEO=25% SXO=58% 1183w +1chg
+  [322/680] SAVED mapping-the-ancient-jerusalem-defense-system  [D] GEO=50% AEO=33% SXO=58% 1088w +1chg
+  [323/680] SAVED massive-biblical-gate-system-unearthed-at-anc [C] GEO=64% AEO=33% SXO=58% 1077w +1chg
+  [324/680] SAVED masadas-charred-parchment-a-window-into-ancie [C] GEO=57% AEO=42% SXO=67% 1499w +1chg
+  [325/680] SAVED methods-used-by-biblical-archaeologists-to-da [C] GEO=64% AEO=33% SXO=83% 3485w +1chg
+  [326/680] SAVED modern-methods-in-unearthing-biblical-structu [C] GEO=57% AEO=33% SXO=67% 999w +1chg
+  [327/680] SAVED modern-insights-into-biblical-archaeology-dis [C] GEO=57% AEO=33% SXO=58% 999w +1chg
+  [328/680] SAVED monastery-remains-exploring-compassion-as-dev [C] GEO=50% AEO=50% SXO=58% 1407w +1chg
+  [329/680] SAVED monastic-heirloom-chest-unearthing-prophetic- [C] GEO=50% AEO=50% SXO=67% 1560w +1chg
+  [330/680] SAVED mountaintop-shrine-pilgrims-seek-echoes-of-th [C] GEO=57% AEO=50% SXO=67% 1652w +1chg
+  [331/680] SAVED navigating-political-challenges-in-middle-eas [C] GEO=57% AEO=42% SXO=75% 2736w +1chg
+  [332/680] SAVED notable-discoveries-by-female-biblical-archae [C] GEO=64% AEO=33% SXO=75% 1099w +1chg
+  [333/680] SAVED new-dating-technology-in-biblical-archaeology [C] GEO=57% AEO=33% SXO=58% 1163w +1chg
+  [334/680] SAVED old-marketplace-entry-decoding-the-sacred-pas [C] GEO=57% AEO=58% SXO=67% 1411w +1chg
+  [335/680] SAVED old-testament-books-written-in-aramaic        [C] GEO=57% AEO=42% SXO=67% 2133w +1chg
+  [336/680] SAVED oldest-writing-in-the-old-testament           [C] GEO=57% AEO=42% SXO=67% 2524w +1chg
+  [337/680] SAVED overlooked-qumran-cave-rediscovering-joy-in-c [C] GEO=57% AEO=33% SXO=67% 1384w +1chg
+  [338/680] SAVED preparing-for-fieldwork-strategies-and-techni [C] GEO=57% AEO=33% SXO=75% 2899w +1chg
+  [339/680] SAVED preservation-methods-for-biblical-artifacts-u [C] GEO=57% AEO=33% SXO=58% 1153w +1chg
+  [340/680] SAVED preserving-biblical-archaeological-sites-best [C] GEO=57% AEO=33% SXO=83% 2105w +1chg
+  [341/680] SAVED preserving-cultural-heritage-strategies-for-d [C] GEO=64% AEO=33% SXO=75% 1371w +1chg
+  [342/680] SAVED preserving-endangered-cultural-sites-the-role [C] GEO=50% AEO=33% SXO=83% 1902w +1chg
+  [343/680] SAVED priestly-protocols-the-sacred-duty-of-safegua [C] GEO=57% AEO=58% SXO=67% 1737w +1chg
+  [344/680] SAVED prophets-assurance-unveiling-the-law-behind-t [C] GEO=50% AEO=42% SXO=67% 1224w +1chg
+  [345/680] SAVED purification-rites-an-examination-of-strict-w [C] GEO=50% AEO=50% SXO=67% 1599w +1chg
+  [346/680] SAVED quest-for-qumran-mysteries-in-the-holy-land   [C] GEO=57% AEO=50% SXO=83% 1522w
+  [347/680] SAVED qumran-boundary-stone-unlocking-the-calendar- [C] GEO=50% AEO=50% SXO=67% 1384w +1chg
+  [348/680] SAVED qumran-broken-ladder-navigating-conflict-reso [C] GEO=57% AEO=50% SXO=67% 1514w +1chg
+  [349/680] SAVED qumran-cave-revisited-unveiling-cord-bound-te [C] GEO=50% AEO=67% SXO=58% 1653w +1chg
+  [350/680] SAVED qumran-fallen-beams-the-tug-of-war-between-pi [C] GEO=57% AEO=50% SXO=58% 1475w +1chg
+  [351/680] SAVED qumran-pit-of-ash-unveiling-righteous-resolve [C] GEO=57% AEO=42% SXO=67% 1473w +1chg
+  [352/680] SAVED qumran-storage-surprise-unveiling-ascetic-con [C] GEO=50% AEO=58% SXO=67% 1569w +1chg
+  [353/680] SAVED qumran-wadi-silt-and-the-book-of-jobs-righteo [C] GEO=50% AEO=50% SXO=67% 1523w +1chg
+  [354/680] SAVED qumrans-biblical-fragments-and-their-dating   [C] GEO=50% AEO=42% SXO=58% 1339w
+  [355/680] SAVED qumrans-clay-jar-the-secrets-of-a-devoted-com [C] GEO=57% AEO=42% SXO=67% 1573w +1chg
+  [356/680] SAVED qumrans-empty-cave-unveiling-the-kindness-man [C] GEO=57% AEO=33% SXO=58% 1693w +1chg
+  [357/680] SAVED radiocarbon-dating-validates-biblical-site-di [C] GEO=64% AEO=33% SXO=58% 1080w +1chg
+  [358/680] SAVED ravine-echoes-a-journey-through-festival-musi [C] GEO=50% AEO=50% SXO=58% 1357w +1chg
+  [359/680] SAVED ravine-settlement-a-glimpse-into-roman-rule-a [C] GEO=57% AEO=50% SXO=67% 1408w +1chg
+  [360/680] SAVED recent-biblical-archaeological-discoveries-sh [C] GEO=50% AEO=50% SXO=83% 1439w +1chg
+  [361/680] SAVED remote-sensing-reveals-lost-biblical-towns    [C] GEO=57% AEO=33% SXO=58% 1193w +1chg
+  [362/680] SAVED replicas-in-exile-the-quest-for-the-real-ark- [B] GEO=71% AEO=58% SXO=67% 1670w +1chg
+  [363/680] SAVED restoration-hopes-of-the-qumran-boulder-mark  [C] GEO=57% AEO=50% SXO=67% 1500w +1chg
+  [364/680] SAVED revolutionizing-biblical-archaeology-research [C] GEO=50% AEO=33% SXO=67% 2686w +1chg
+  [365/680] SAVED royal-chronicles-an-expedition-into-arks-trav [C] GEO=57% AEO=50% SXO=67% 1506w +1chg
+  [366/680] SAVED royal-seals-unearthed-from-the-first-temple-p [D] GEO=50% AEO=33% SXO=58% 1181w +1chg
+  [367/680] SAVED rural-jericho-dwelling-insights-into-scribal- [C] GEO=57% AEO=50% SXO=50% 1148w +1chg
+  [368/680] SAVED sacred-vessels-in-temple-worship-unveiled     [D] GEO=50% AEO=33% SXO=58% 1016w +1chg
+  [369/680] SAVED salt-laden-dead-sea-edge-where-barren-earth-r [C] GEO=64% AEO=50% SXO=67% 1417w +1chg
+  [370/680] SAVED scientific-analysis-of-temple-artifacts-and-b [C] GEO=57% AEO=33% SXO=58% 1060w +1chg
+  [371/680] SAVED scientific-dating-in-biblical-archaeology-coi [C] GEO=71% AEO=33% SXO=58% 1064w +1chg
+  [372/680] SAVED scientific-site-analysis-of-biblical-archaeol [C] GEO=57% AEO=33% SXO=58% 1046w +1chg
+  [373/680] SAVED shepherds-cave-discovery-unearthing-the-secre [C] GEO=50% AEO=67% SXO=50% 1141w +1chg
+  [374/680] SAVED should-i-read-the-new-testament-or-the-old-te [D] GEO=50% AEO=42% SXO=50% 3563w +1chg
+  [375/680] SAVED significant-biblical-excavations-uncover-anci [C] GEO=50% AEO=42% SXO=83% 1361w +1chg
+  [376/680] SAVED solomons-economic-power-unveiled-through-bibl [C] GEO=57% AEO=33% SXO=58% 999w +1chg
+  [377/680] SAVED solomons-lost-harbor-unearthing-a-maritime-tr [C] GEO=57% AEO=33% SXO=58% 994w +1chg
+  [378/680] SAVED solomons-lost-quarries-unveiled-revelations-i [C] GEO=79% AEO=33% SXO=58% 1046w +1chg
+  [379/680] SAVED steps-for-conducting-a-proper-excavation-in-b [C] GEO=64% AEO=33% SXO=75% 2521w +1chg
+  [380/680] SAVED steps-to-becoming-a-biblical-archaeologist    [C] GEO=57% AEO=33% SXO=75% 1699w +1chg
+  [381/680] SAVED stone-paving-echo-unveiling-the-rituals-of-th [C] GEO=57% AEO=50% SXO=67% 1343w +1chg
+  [382/680] SAVED storage-cave-debris-unveiling-the-secrets-of- [C] GEO=57% AEO=50% SXO=67% 1594w +1chg
+  [383/680] SAVED temple-artifacts-reveal-ancient-worship-pract [C] GEO=57% AEO=33% SXO=58% 976w +1chg
+  [384/680] SAVED temple-construction-insights-biblical-and-arc [D] GEO=50% AEO=33% SXO=58% 1023w +1chg
+  [385/680] SAVED temple-mount-chamber-network-finally-mapped   [C] GEO=57% AEO=33% SXO=58% 1104w +1chg
+  [386/680] SAVED temple-mount-construction-secrets-unveiled    [C] GEO=57% AEO=33% SXO=67% 1270w +1chg
+  [387/680] SAVED temple-mounts-hidden-tunnel-system-unveiled   [C] GEO=64% AEO=33% SXO=58% 1073w +1chg
+  [388/680] SAVED temple-storage-discoveries-in-biblical-archae [C] GEO=57% AEO=33% SXO=58% 1095w +1chg
+  [389/680] SAVED temple-objects-reveal-ancient-ritual-practice [C] GEO=57% AEO=33% SXO=58% 1093w +1chg
+  [390/680] SAVED the-ancient-city-unpacking-prophecy-and-ethic [C] GEO=50% AEO=42% SXO=67% 1334w +1chg
+  [391/680] SAVED the-archaeological-evidence-of-ancient-mariti [C] GEO=50% AEO=33% SXO=75% 2622w +1chg
+  [392/680] SAVED the-archaeology-of-the-bible-the-greatest-dis [B] GEO=64% AEO=50% SXO=83% 2886w +1chg
+  [393/680] SAVED the-arks-moral-authority-in-turmoil-a-deep-di [C] GEO=50% AEO=42% SXO=67% 1301w +1chg
+  [394/680] SAVED the-ascetic-communitys-role-in-preparing-for- [C] GEO=57% AEO=50% SXO=67% 1427w +1chg
+  [395/680] SAVED the-best-universities-for-studying-biblical-a [C] GEO=57% AEO=33% SXO=83% 1909w +1chg
+  [396/680] SAVED the-chosen-leader-unifying-the-scattered-arou [C] GEO=57% AEO=67% SXO=67% 1524w +1chg
+  [397/680] SAVED the-connection-between-the-old-testament-and- [C] GEO=57% AEO=42% SXO=50% 6508w +1chg
+  [398/680] SAVED the-controversy-surrounding-the-existence-of- [C] GEO=57% AEO=25% SXO=67% 1046w +1chg
+  [399/680] SAVED the-dead-sea-scrolls-unearthed-secrets-of-the [C] GEO=50% AEO=33% SXO=75% 3142w +1chg
+  [400/680] SAVED the-distant-queens-visit-unearthing-the-gifts [C] GEO=57% AEO=50% SXO=67% 1624w +1chg
+  [401/680] SAVED the-evolution-of-temple-worship-artifacts     [C] GEO=57% AEO=33% SXO=58% 1000w +1chg
+  [402/680] SAVED the-evolution-of-the-old-testament-tracing-it [C] GEO=57% AEO=33% SXO=67% 3286w +1chg
+  [403/680] SAVED the-excavation-of-qumran-unearthing-the-famou [C] GEO=64% AEO=33% SXO=83% 2572w +1chg
+  [404/680] SAVED the-forbidden-cave-plateau-unearthing-war-tim [C] GEO=50% AEO=50% SXO=58% 1378w +1chg
+  [405/680] SAVED the-formation-of-the-new-testament-who-added- [C] GEO=64% AEO=33% SXO=50% 4211w +1chg
+  [406/680] SAVED the-fortress-vault-rumor-unraveling-sacred-it [C] GEO=64% AEO=42% SXO=67% 1305w +1chg
+  [407/680] SAVED the-golden-ark-lid-unraveling-legends-of-unse [B] GEO=64% AEO=67% SXO=67% 1450w +1chg
+  [408/680] SAVED the-haunted-echoes-of-the-abandoned-stable-le [C] GEO=57% AEO=50% SXO=58% 1679w +1chg
+  [409/680] SAVED the-hidden-passageway-to-the-messianic-banque [C] GEO=50% AEO=50% SXO=67% 1562w +1chg
+  [410/680] SAVED the-hidden-scrolls-of-the-temple-unearthing-m [C] GEO=50% AEO=33% SXO=67% 1394w +1chg
+  [411/680] SAVED the-historical-accuracy-of-the-new-testament  [C] GEO=57% AEO=33% SXO=67% 2529w +1chg
+  [412/680] SAVED the-historical-context-of-the-old-testament-a [C] GEO=64% AEO=33% SXO=50% 5588w +1chg
+  [413/680] SAVED the-impact-of-biblical-archaeologists-on-cult [C] GEO=57% AEO=42% SXO=83% 2025w +1chg
+  [414/680] SAVED the-impact-of-technology-on-biblical-archaeol [C] GEO=50% AEO=33% SXO=75% 2169w +1chg
+  [415/680] SAVED the-importance-of-biblical-archaeology-in-unc [C] GEO=50% AEO=50% SXO=75% 1246w +1chg
+  [416/680] SAVED the-infamous-relics-famous-fakes-and-forgerie [C] GEO=86% AEO=33% SXO=67% 3707w +1chg
+  [417/680] SAVED the-influence-of-cultural-context-on-old-test [C] GEO=64% AEO=50% SXO=50% 3853w +1chg
+  [418/680] SAVED the-intertestamental-period-exploring-the-tim [C] GEO=71% AEO=50% SXO=67% 2720w +1chg
+  [419/680] SAVED the-john-rylands-papyrus-first-century-gospel [C] GEO=79% AEO=42% SXO=58% 1779w
+  [420/680] SAVED the-john-rylands-papyrus-first-century-gospel [C] GEO=79% AEO=50% SXO=58% 1245w +1chg
+  [421/680] SAVED the-jordan-crossing-miracle-unveiling-the-wat [C] GEO=57% AEO=50% SXO=67% 1297w +1chg
+  [422/680] SAVED the-jordan-orchard-jar-a-glimpse-into-worship [C] GEO=57% AEO=42% SXO=67% 1325w +1chg
+  [423/680] SAVED the-kings-grand-procession-unveiling-the-vict [C] GEO=50% AEO=50% SXO=67% 1411w +1chg
+  [424/680] SAVED the-judean-desert-riverbed-a-ledger-of-an-exi [C] GEO=57% AEO=50% SXO=67% 1748w +1chg
+  [425/680] SAVED the-language-of-the-new-testament-exploring-i [C] GEO=57% AEO=42% SXO=50% 5230w +1chg
+  [426/680] SAVED the-language-of-the-old-testament-exploring-i [C] GEO=57% AEO=42% SXO=67% 2821w +1chg
+  [427/680] SAVED the-language-of-the-original-old-testament-ex [C] GEO=57% AEO=42% SXO=67% 2312w +1chg
+  [428/680] SAVED the-last-stand-in-battle-how-the-ark-lifts-th [C] GEO=50% AEO=50% SXO=67% 1449w +1chg
+  [429/680] SAVED the-lost-cities-of-the-bible-explorations     [C] GEO=50% AEO=33% SXO=83% 1251w
+  [430/680] SAVED the-materials-used-for-writing-the-old-testam [D] GEO=50% AEO=33% SXO=58% 2180w +1chg
+  [431/680] SAVED the-mystery-of-the-dead-sea-stone-inscription [C] GEO=57% AEO=58% SXO=67% 1730w +1chg
+  [432/680] SAVED the-old-testament-exploring-themes-genres-and [C] GEO=57% AEO=42% SXO=67% 3459w +1chg
+  [433/680] SAVED the-olive-press-cache-unveiling-temple-seals- [C] GEO=50% AEO=50% SXO=67% 1681w +1chg
+  [434/680] SAVED the-original-language-of-the-new-testament-bi [C] GEO=57% AEO=58% SXO=58% 2055w +1chg
+  [435/680] SAVED the-original-language-of-the-new-testament    [C] GEO=57% AEO=33% SXO=58% 2695w +1chg
+  [436/680] SAVED the-origins-of-the-old-testament              [C] GEO=50% AEO=58% SXO=50% 5211w +1chg
+  [437/680] SAVED the-outer-qumran-wall-collapse-an-exploration [C] GEO=57% AEO=58% SXO=67% 1459w +1chg
+  [438/680] SAVED the-pioneers-of-biblical-archaeology          [B] GEO=79% AEO=50% SXO=67% 4778w +1chg
+  [439/680] SAVED the-political-powers-impact-on-biblical-archa [C] GEO=57% AEO=42% SXO=75% 3015w +1chg
+  [440/680] SAVED the-power-of-interdisciplinary-collaboration- [C] GEO=57% AEO=33% SXO=83% 2101w +1chg
+  [441/680] SAVED the-role-of-3d-modeling-in-biblical-archaeolo [C] GEO=50% AEO=33% SXO=83% 1761w +1chg
+  [442/680] SAVED the-role-of-biblical-archaeologists-in-recons [C] GEO=50% AEO=42% SXO=83% 2971w +1chg
+  [443/680] SAVED the-role-of-biblical-archaeologists-in-the-pr [C] GEO=50% AEO=33% SXO=75% 1393w +1chg
+  [444/680] SAVED the-role-of-statistical-analysis-in-biblical- [C] GEO=50% AEO=50% SXO=83% 2616w +1chg
+  [445/680] SAVED the-sealed-jar-with-no-opening-a-flowing-prop [C] GEO=50% AEO=42% SXO=58% 1361w +1chg
+  [446/680] SAVED the-secret-hideout-unveiling-the-chest-of-pro [C] GEO=57% AEO=50% SXO=58% 1736w +1chg
+  [447/680] SAVED the-secret-palace-tunnel-uncovering-the-legen [C] GEO=57% AEO=42% SXO=67% 1500w +1chg
+  [448/680] SAVED the-significance-of-biblical-archaeology-for- [C] GEO=57% AEO=42% SXO=83% 2825w +1chg
+  [449/680] SAVED the-significance-of-greek-and-hebrew-in-the-n [D] GEO=57% AEO=42% SXO=42% 3941w +1chg
+  [450/680] SAVED the-significance-of-the-desert-stone-bench-in [C] GEO=57% AEO=42% SXO=67% 1540w +1chg
+  [451/680] SAVED the-subterranean-jar-unraveling-farming-laws- [C] GEO=50% AEO=50% SXO=67% 1381w +1chg
+  [452/680] SAVED the-significance-of-the-old-testament-in-unde [D] GEO=57% AEO=33% SXO=50% 3728w +1chg
+  [453/680] SAVED the-top-institutions-for-biblical-archaeology [C] GEO=57% AEO=33% SXO=83% 1937w +1chg
+  [454/680] SAVED the-temple-blueprint-scroll-unveiling-the-ark [C] GEO=57% AEO=58% SXO=67% 1480w +1chg
+  [455/680] SAVED the-translation-of-the-old-testament-a-histor [C] GEO=64% AEO=50% SXO=67% 2577w +1chg
+  [456/680] SAVED the-ultimate-beginners-guide-to-biblical-arch [B] GEO=64% AEO=58% SXO=83% 3376w +1chg
+  [457/680] SAVED the-ultimate-guide-to-studying-biblical-archa [C] GEO=64% AEO=42% SXO=83% 3473w +1chg
+  [458/680] SAVED the-ultimate-guide-to-the-best-tools-for-bibl [C] GEO=57% AEO=58% SXO=75% 1675w +1chg
+  [459/680] SAVED the-uncovered-secrets-most-intriguing-biblica [C] GEO=64% AEO=42% SXO=83% 2925w +1chg
+  [460/680] SAVED the-unearthing-of-ancient-temples-a-biblical- [C] GEO=57% AEO=42% SXO=83% 3224w +1chg
+  [461/680] SAVED top-5-historical-locations-for-biblical-archa [C] GEO=57% AEO=42% SXO=83% 1456w +1chg
+  [462/680] SAVED top-archives-where-originals-are-kept-today   [C] GEO=86% AEO=42% SXO=50% 1048w
+  [463/680] SAVED top-excavation-sites-for-biblical-archaeologi [C] GEO=57% AEO=50% SXO=83% 1819w +1chg
+  [464/680] SAVED traders-route-unveiling-the-treasures-of-bibl [C] GEO=57% AEO=58% SXO=67% 1749w +1chg
+  [465/680] SAVED tree-root-hollow-unveiling-the-ritual-freedom [C] GEO=57% AEO=50% SXO=67% 1731w +1chg
+  [466/680] SAVED uncharted-qumran-passage-a-journey-into-the-m [C] GEO=64% AEO=50% SXO=67% 1876w +1chg
+  [467/680] SAVED uncovering-ancient-cities-through-biblical-ar [C] GEO=64% AEO=42% SXO=83% 3202w +1chg
+  [468/680] SAVED uncovering-ancient-military-strategies-throug [C] GEO=50% AEO=33% SXO=83% 2312w +1chg
+  [469/680] SAVED uncovering-ancient-secrets-biblical-archaeolo [C] GEO=57% AEO=33% SXO=83% 1434w +1chg
+  [470/680] SAVED uncovering-ancient-textile-production-through [C] GEO=50% AEO=33% SXO=83% 1251w +1chg
+  [471/680] SAVED uncovering-ancient-trade-routes-through-bibli [C] GEO=50% AEO=33% SXO=83% 2496w +1chg
+  [472/680] SAVED uncovering-ancient-trading-networks-through-b [C] GEO=57% AEO=33% SXO=83% 2818w +1chg
+  [473/680] SAVED uncovering-lost-biblical-treasures            [C] GEO=50% AEO=25% SXO=83% 1388w +1chg
+  [474/680] SAVED uncovering-rare-finds-in-biblical-archaeology [C] GEO=57% AEO=33% SXO=75% 1155w
+  [475/680] SAVED uncovering-nelson-gluecks-archaeological-lega [B] GEO=86% AEO=42% SXO=83% 2416w +1chg
+  [476/680] SAVED uncovering-the-biblical-past-in-the-face-of-c [C] GEO=57% AEO=33% SXO=83% 2570w +1chg
+  [477/680] SAVED uncovering-the-historical-significance-the-im [C] GEO=71% AEO=33% SXO=83% 2857w +1chg
+  [478/680] SAVED uncovering-the-mysteries-fascinating-artifact [C] GEO=50% AEO=33% SXO=83% 2136w +1chg
+  [479/680] SAVED uncovering-the-mysteries-the-future-of-biblic [C] GEO=43% AEO=33% SXO=83% 2464w +1chg
+  [480/680] SAVED uncovering-the-past-exploring-the-significanc [C] GEO=57% AEO=33% SXO=83% 2768w +1chg
+  [481/680] SAVED uncovering-the-past-biblical-archaeology-thro [C] GEO=57% AEO=33% SXO=83% 2989w +1chg
+  [482/680] SAVED uncovering-the-secrets-of-biblical-archaeolog [C] GEO=64% AEO=42% SXO=75% 2437w +1chg
+  [483/680] SAVED uncovering-the-secrets-biblical-archaeology-a [C] GEO=57% AEO=33% SXO=75% 3358w +1chg
+  [484/680] SAVED uncovering-the-past-the-intersection-of-bibli [C] GEO=57% AEO=42% SXO=83% 2712w +1chg
+  [485/680] SAVED uncovering-the-secrets-the-top-techniques-use [C] GEO=57% AEO=33% SXO=75% 1456w +1chg
+  [486/680] SAVED uncovering-the-truth-exploring-the-connection [C] GEO=57% AEO=50% SXO=83% 2841w +1chg
+  [487/680] SAVED understanding-biblical-archaeology-decoding-t [C] GEO=64% AEO=33% SXO=83% 3073w +1chg
+  [488/680] SAVED understanding-jesus-in-the-old-testament      [C] GEO=71% AEO=33% SXO=67% 1827w +1chg
+  [489/680] SAVED understanding-the-contrast-approaches-of-bibl [C] GEO=57% AEO=50% SXO=83% 2241w +1chg
+  [490/680] SAVED understanding-the-methods-of-biblical-archaeo [C] GEO=50% AEO=33% SXO=83% 2623w +1chg
+  [491/680] SAVED understanding-the-old-testament-exploring-the [D] GEO=50% AEO=33% SXO=58% 1039w +1chg
+  [492/680] SAVED understanding-the-old-testament-in-jesuss-tim [D] GEO=57% AEO=33% SXO=50% 4518w +1chg
+  [493/680] SAVED understanding-the-old-testaments-central-them [C] GEO=50% AEO=42% SXO=67% 2089w +1chg
+  [494/680] SAVED understanding-the-original-language-of-the-ne [C] GEO=57% AEO=42% SXO=67% 2396w +1chg
+  [495/680] SAVED understanding-the-purpose-of-the-old-testamen [C] GEO=57% AEO=50% SXO=67% 2517w +1chg
+  [496/680] SAVED understanding-the-various-techniques-in-bibli [C] GEO=57% AEO=33% SXO=75% 1777w +1chg
+  [497/680] SAVED unearthed-secrets-debunking-myths-of-biblical [C] GEO=57% AEO=42% SXO=83% 3293w +1chg
+  [498/680] SAVED unearthing-ancient-environmental-adaptations- [C] GEO=57% AEO=42% SXO=58% 4454w +1chg
+  [499/680] SAVED unearthing-ancient-lineages-how-biblical-arch [C] GEO=50% AEO=25% SXO=75% 1774w +1chg
+  [500/680] SAVED unearthing-ancient-livestock-a-closer-look-at [C] GEO=50% AEO=25% SXO=83% 1207w +1chg
+  [501/680] SAVED unearthing-ancient-mysteries-biblical-sites-e [C] GEO=57% AEO=50% SXO=83% 1331w +1chg
+  [502/680] SAVED unearthing-ancient-stone-tools-insights-from- [C] GEO=57% AEO=25% SXO=83% 1351w +1chg
+  [503/680] SAVED unearthing-biblical-truths-the-impact-of-arch [C] GEO=57% AEO=25% SXO=83% 1324w +1chg
+  [504/680] SAVED unearthing-the-ancient-food-and-agriculture-p [C] GEO=50% AEO=33% SXO=83% 2209w +1chg
+  [505/680] SAVED unearthing-the-crossroads-of-war-biblical-arc [C] GEO=50% AEO=33% SXO=75% 1474w +1chg
+  [506/680] SAVED unearthing-the-ein-gedi-cave-flood-pottery-an [C] GEO=50% AEO=42% SXO=67% 1450w +1chg
+  [507/680] SAVED unearthing-the-hidden-stories-biblical-archae [C] GEO=57% AEO=33% SXO=83% 2573w +1chg
+  [508/680] SAVED unearthing-the-engineering-marvels-of-biblica [C] GEO=50% AEO=33% SXO=83% 3202w +1chg
+  [509/680] SAVED unearthing-the-legacies-prominent-women-in-bi [C] GEO=57% AEO=33% SXO=83% 2075w +1chg
+  [510/680] SAVED unearthing-the-most-important-biblical-digs   [C] GEO=57% AEO=50% SXO=83% 1458w +1chg
+  [511/680] SAVED unearthing-the-mysteries-ancient-civilization [C] GEO=50% AEO=25% SXO=83% 1265w +1chg
+  [512/680] SAVED unearthing-the-mysteries-the-top-challenges-i [C] GEO=64% AEO=42% SXO=75% 2694w +1chg
+  [513/680] SAVED unearthing-the-past-biblical-archaeology-reve [C] GEO=57% AEO=42% SXO=83% 1908w +1chg
+  [514/680] SAVED unearthing-the-past-lessons-from-biblical-arc [C] GEO=57% AEO=33% SXO=83% 3258w +1chg
+  [515/680] SAVED unearthing-the-past-how-biblical-archaeologis [C] GEO=50% AEO=33% SXO=83% 1772w +1chg
+  [516/680] SAVED unearthing-the-past-the-fascination-of-biblic [C] GEO=57% AEO=33% SXO=83% 3015w +1chg
+  [517/680] SAVED unearthing-the-past-the-future-of-biblical-ar [C] GEO=57% AEO=33% SXO=83% 2446w +1chg
+  [518/680] SAVED unearthing-the-past-the-role-of-biblical-arch [C] GEO=57% AEO=42% SXO=83% 2426w +1chg
+  [519/680] SAVED unearthing-the-secrets-biblical-archaeology-r [C] GEO=50% AEO=33% SXO=67% 1024w +1chg
+  [520/680] SAVED unearthing-the-secrets-biblical-archaeology-r [C] GEO=50% AEO=33% SXO=83% 1916w +1chg
+  [521/680] SAVED unearthing-the-secrets-city-of-david-storage- [C] GEO=57% AEO=50% SXO=67% 1411w +1chg
+  [522/680] SAVED unearthing-the-secrets-discoveries-of-biblica [B] GEO=64% AEO=50% SXO=83% 2592w +1chg
+  [523/680] SAVED unearthing-the-significance-the-importance-of [C] GEO=57% AEO=33% SXO=83% 2203w +1chg
+  [524/680] SAVED unearthing-the-secrets-key-findings-of-biblic [B] GEO=64% AEO=50% SXO=83% 3169w +1chg
+  [525/680] SAVED unearthing-the-secrets-the-quest-for-the-ark- [C] GEO=50% AEO=42% SXO=83% 1645w +1chg
+  [526/680] SAVED unearthing-the-truth-current-controversies-in [C] GEO=57% AEO=42% SXO=67% 3996w +1chg
+  [527/680] SAVED unearthing-the-truth-how-biblical-archaeology [C] GEO=50% AEO=33% SXO=83% 2293w +1chg
+  [528/680] SAVED unearthing-the-truth-how-biblical-archaeology [C] GEO=57% AEO=25% SXO=75% 1146w +1chg
+  [529/680] SAVED unearthing-the-truth-the-debate-over-authenti [C] GEO=50% AEO=50% SXO=83% 2984w +1chg
+  [530/680] SAVED unearthing-the-truth-the-impact-of-biblical-a [C] GEO=57% AEO=33% SXO=83% 2355w +1chg
+  [531/680] SAVED unearthing-truth-the-battle-of-biblical-archa [C] GEO=57% AEO=42% SXO=75% 2121w +1chg
+  [532/680] SAVED unearthing-truth-the-debate-over-the-reliabil [C] GEO=57% AEO=33% SXO=83% 2507w +1chg
+  [533/680] SAVED unlocking-ancient-trade-paths-in-biblical-arc [D] GEO=57% AEO=25% SXO=58% 1122w +1chg
+  [534/680] SAVED unlocking-mysteries-biblical-archaeology-rese [C] GEO=50% AEO=33% SXO=83% 1228w +1chg
+  [535/680] SAVED unlocking-the-past-fundraising-strategies-for [C] GEO=50% AEO=42% SXO=75% 3168w +1chg
+  [536/680] SAVED unlocking-the-past-the-role-of-biblical-archa [C] GEO=57% AEO=42% SXO=83% 3197w +1chg
+  [537/680] SAVED unlocking-the-secrets-of-ancient-biblical-tex [C] GEO=57% AEO=33% SXO=83% 2791w +1chg
+  [538/680] SAVED unraveling-ancient-cultures-through-biblical- [C] GEO=50% AEO=33% SXO=83% 2564w +1chg
+  [539/680] SAVED unraveling-the-dead-sea-scrolls-biblical-insi [C] GEO=71% AEO=33% SXO=83% 1587w
+  [540/680] SAVED unraveling-the-controversy-biblical-archaeolo [C] GEO=64% AEO=33% SXO=83% 3026w +1chg
+  [541/680] SAVED unraveling-the-last-qumran-jar-a-discourse-on [C] GEO=64% AEO=50% SXO=67% 1626w +1chg
+  [542/680] SAVED unraveling-the-mysteries-challenges-faced-by- [C] GEO=57% AEO=42% SXO=75% 2054w +1chg
+  [543/680] SAVED unraveling-the-mysteries-common-challenges-fa [C] GEO=57% AEO=42% SXO=75% 2477w +1chg
+  [544/680] SAVED unraveling-the-mysteries-of-biblical-history- [C] GEO=50% AEO=50% SXO=83% 1451w +1chg
+  [545/680] SAVED unraveling-the-qumran-mystery-nook-insights-i [C] GEO=57% AEO=33% SXO=67% 1463w +1chg
+  [546/680] SAVED unraveling-the-qumran-scraps-crate-secrets-of [C] GEO=64% AEO=58% SXO=67% 1586w +1chg
+  [547/680] SAVED unraveling-the-significance-of-biblical-archa [C] GEO=57% AEO=42% SXO=83% 3130w +1chg
+  [548/680] SAVED unveiling-ancient-coins-in-biblical-archaeolo [C] GEO=50% AEO=42% SXO=58% 1070w +1chg
+  [549/680] SAVED unveiling-biblical-archaeological-finds-disco [C] GEO=50% AEO=50% SXO=83% 1284w +1chg
+  [550/680] SAVED unveiling-qumran-sublevel-a-study-of-generati [C] GEO=64% AEO=50% SXO=67% 1659w +1chg
+  [551/680] SAVED unveiling-remarkable-biblical-archaeology-dis [C] GEO=50% AEO=50% SXO=83% 1323w +1chg
+  [552/680] SAVED unveiling-temple-mount-construction-methods   [D] GEO=50% AEO=33% SXO=58% 976w +1chg
+  [553/680] SAVED unveiling-temple-tools-in-biblical-archaeolog [C] GEO=50% AEO=33% SXO=67% 1306w +1chg
+  [554/680] SAVED unveiling-the-bias-exploring-religious-belief [C] GEO=57% AEO=33% SXO=75% 1643w +1chg
+  [555/680] SAVED unveiling-the-ancient-secrets-biblical-archae [C] GEO=57% AEO=50% SXO=83% 3090w +1chg
+  [556/680] SAVED unveiling-the-discoveries-the-process-of-docu [C] GEO=64% AEO=42% SXO=75% 2603w +1chg
+  [557/680] SAVED unveiling-the-hidden-secrets-the-latest-devel [C] GEO=57% AEO=33% SXO=83% 2150w +1chg
+  [558/680] SAVED unveiling-the-hidden-stories-the-impact-of-bi [C] GEO=50% AEO=33% SXO=83% 2323w +1chg
+  [559/680] SAVED unveiling-the-intriguing-world-of-biblical-ar [C] GEO=57% AEO=50% SXO=83% 1517w +1chg
+  [560/680] SAVED unveiling-the-jericho-underground-ramp-a-stud [C] GEO=50% AEO=33% SXO=67% 1350w +1chg
+  [561/680] SAVED unveiling-the-judean-hills-mosaic-ritual-deta [C] GEO=57% AEO=50% SXO=67% 1517w +1chg
+  [562/680] SAVED unveiling-the-mystery-of-the-collapsed-tower- [C] GEO=50% AEO=58% SXO=67% 1395w +1chg
+  [563/680] SAVED unveiling-the-past-biblical-period-dating-met [C] GEO=57% AEO=42% SXO=67% 1210w +1chg
+  [564/680] SAVED unveiling-the-secrets-of-biblical-archaeologi [C] GEO=57% AEO=42% SXO=83% 2937w +1chg
+  [565/680] SAVED unveiling-the-secrets-of-biblical-archaeology [C] GEO=64% AEO=42% SXO=67% 4292w +1chg
+  [566/680] SAVED unveiling-the-secrets-of-biblical-archaeology [B] GEO=64% AEO=58% SXO=83% 2350w +1chg
+  [567/680] SAVED unveiling-the-secrets-of-the-qumran-wall-gap- [C] GEO=57% AEO=50% SXO=67% 1517w +1chg
+  [568/680] SAVED unveiling-the-secrets-the-role-of-biblical-ar [C] GEO=64% AEO=33% SXO=83% 2033w +1chg
+  [569/680] SAVED unveiling-the-secrets-the-role-of-biblical-ar [C] GEO=57% AEO=33% SXO=75% 3183w +1chg
+  [570/680] SAVED unveiling-the-truth-biblical-archaeologists-d [C] GEO=57% AEO=50% SXO=75% 1994w +1chg
+  [571/680] SAVED was-the-bible-originally-oral-tradition-or-te [C] GEO=64% AEO=50% SXO=67% 1633w
+  [572/680] SAVED unveiling-the-women-of-ancient-societies-a-bi [C] GEO=50% AEO=25% SXO=83% 1276w +1chg
+  [573/680] SAVED was-the-first-bible-found-in-ethiopia         [B] GEO=71% AEO=50% SXO=75% 1251w +1chg
+  [574/680] SAVED was-the-new-testament-originally-written-in-h [C] GEO=50% AEO=42% SXO=58% 2474w +1chg
+  [575/680] SAVED was-the-old-testament-originally-written-in-g [C] GEO=57% AEO=42% SXO=67% 2624w +1chg
+  [576/680] SAVED was-the-old-testament-written-in-aramaic      [C] GEO=64% AEO=42% SXO=67% 2674w +1chg
+  [577/680] SAVED was-the-original-new-testament-written-in-gre [C] GEO=57% AEO=50% SXO=58% 1686w +1chg
+  [578/680] SAVED ways-to-involve-the-public-in-the-discoveries [C] GEO=57% AEO=33% SXO=83% 2576w +1chg
+  [579/680] SAVED watchtower-jar-navigating-sect-identity-amid- [C] GEO=50% AEO=42% SXO=58% 1694w +1chg
+  [580/680] SAVED were-the-new-testament-books-written-in-hebre [C] GEO=64% AEO=42% SXO=67% 2632w +1chg
+  [581/680] SAVED ways-to-support-biblical-archaeological-resea [C] GEO=57% AEO=33% SXO=75% 2448w +1chg
+  [582/680] SAVED what-are-textual-variants-in-the-new-testamen [C] GEO=64% AEO=58% SXO=50% 1150w
+  [583/680] SAVED what-archaeological-evidence-points-to-the-hi [C] GEO=50% AEO=50% SXO=75% 1254w +1chg
+  [584/680] SAVED what-are-the-archaeological-techniques        [C] GEO=57% AEO=50% SXO=67% 1230w +1chg
+  [585/680] SAVED what-are-the-contributions-of-archaeology-to- [C] GEO=57% AEO=33% SXO=75% 1286w +1chg
+  [586/680] SAVED what-are-the-methods-used-in-biblical-archaeo [C] GEO=57% AEO=50% SXO=67% 1221w +1chg
+  [587/680] SAVED what-are-the-most-recent-archaeological-disco [B] GEO=93% AEO=50% SXO=67% 1200w +1chg
+  [588/680] SAVED what-are-the-oldest-biblical-manuscripts-foun [B] GEO=93% AEO=33% SXO=75% 1268w +1chg
+  [589/680] SAVED what-are-the-techniques-used-in-archaeologica [C] GEO=50% AEO=50% SXO=75% 1222w +1chg
+  [590/680] SAVED what-are-the-techniques-used-in-archaeology-s [C] GEO=50% AEO=58% SXO=67% 1200w +1chg
+  [591/680] SAVED what-bible-artifacts-were-found-in-2023       [B] GEO=71% AEO=50% SXO=75% 1299w +1chg
+  [592/680] SAVED what-can-you-do-with-a-degree-in-biblical-stu [C] GEO=57% AEO=42% SXO=58% 1236w +1chg
+  [593/680] SAVED what-dead-sea-scrolls-reveal-about-scripture  [C] GEO=71% AEO=50% SXO=58% 1205w
+  [594/680] SAVED what-do-people-mean-by-original-bible-explain [C] GEO=64% AEO=50% SXO=50% 977w
+  [595/680] SAVED what-does-the-name-archaeology-mean           [C] GEO=57% AEO=42% SXO=67% 1157w +1chg
+  [596/680] SAVED what-have-archaeologists-found-from-the-bible [C] GEO=50% AEO=33% SXO=75% 1271w +1chg
+  [597/680] SAVED what-is-codex-sinaiticus-and-why-its-importan [C] GEO=79% AEO=50% SXO=58% 1228w
+  [598/680] SAVED what-is-archaeology-in-the-bible              [C] GEO=50% AEO=50% SXO=67% 1234w +1chg
+  [599/680] SAVED what-is-the-course-on-biblical-archeology     [C] GEO=57% AEO=42% SXO=75% 1230w +1chg
+  [600/680] SAVED what-is-the-difference-between-archaeology-an [B] GEO=79% AEO=50% SXO=75% 1288w +1chg
+  [601/680] SAVED what-is-the-difference-between-archeological- [C] GEO=57% AEO=42% SXO=67% 1193w +1chg
+  [602/680] SAVED what-is-the-difference-between-archeology-and [C] GEO=57% AEO=33% SXO=58% 1171w +1chg
+  [603/680] SAVED what-is-the-difference-between-the-ethiopian- [C] GEO=57% AEO=42% SXO=58% 1193w +1chg
+  [604/680] SAVED what-is-the-earliest-archaeological-evidence- [C] GEO=71% AEO=33% SXO=75% 1215w +1chg
+  [605/680] SAVED what-is-the-earliest-archeological-evidence-o [C] GEO=50% AEO=50% SXO=67% 1248w +1chg
+  [606/680] SAVED what-is-the-masoretic-text-and-how-was-it-for [C] GEO=64% AEO=50% SXO=67% 1503w
+  [607/680] SAVED what-is-the-meaning-of-biblical-archaeology   [C] GEO=57% AEO=33% SXO=75% 1319w +1chg
+  [608/680] SAVED what-is-the-most-recent-archaeological-discov [C] GEO=79% AEO=42% SXO=67% 1168w +1chg
+  [609/680] SAVED what-is-the-old-testament-called              [C] GEO=64% AEO=58% SXO=50% 5707w +1chg
+  [610/680] SAVED what-is-the-oldest-archaeological-evidence-of [C] GEO=71% AEO=42% SXO=75% 1207w +1chg
+  [611/680] SAVED what-is-the-oldest-archaeological-evidence-of [C] GEO=57% AEO=50% SXO=75% 1290w +1chg
+  [612/680] SAVED what-is-the-oldest-archaeological-find-in-isr [C] GEO=57% AEO=42% SXO=75% 1218w +1chg
+  [613/680] SAVED what-is-the-oldest-bible-found                [C] GEO=71% AEO=50% SXO=58% 1190w +1chg
+  [614/680] SAVED what-is-the-oldest-bible-in-existence-today   [C] GEO=71% AEO=42% SXO=67% 1221w +1chg
+  [615/680] SAVED what-is-the-oldest-biblical-artifact-ever-fou [B] GEO=79% AEO=50% SXO=83% 1223w +1chg
+  [616/680] SAVED what-is-the-oldest-biblical-manuscript-we-hav [B] GEO=79% AEO=58% SXO=75% 1312w +1chg
+  [617/680] SAVED what-is-the-oldest-complete-old-testament-man [C] GEO=71% AEO=42% SXO=67% 2516w +1chg
+  [618/680] SAVED what-is-the-oldest-known-bible-artifact       [C] GEO=50% AEO=50% SXO=75% 1321w +1chg
+  [619/680] SAVED what-is-the-original-new-testament-called     [C] GEO=57% AEO=33% SXO=67% 2880w +1chg
+  [620/680] SAVED what-is-the-relationship-between-the-bible-an [C] GEO=50% AEO=58% SXO=83% 1240w +1chg
+  [621/680] SAVED what-is-the-science-of-biblical-archeology    [C] GEO=50% AEO=50% SXO=75% 1294w +1chg
+  [622/680] SAVED what-is-the-study-of-archeology-called        [C] GEO=57% AEO=67% SXO=67% 1244w +1chg
+  [623/680] SAVED what-is-the-study-of-biblical-archaeology     [C] GEO=57% AEO=50% SXO=75% 1275w +1chg
+  [624/680] SAVED what-is-the-synoptic-problem-and-why-it-matte [C] GEO=57% AEO=58% SXO=58% 1407w
+  [625/680] SAVED what-is-the-study-of-biblical-archeology      [C] GEO=57% AEO=50% SXO=83% 1319w +1chg
+  [626/680] SAVED what-is-the-textus-receptus-and-why-it-still- [C] GEO=79% AEO=50% SXO=50% 1117w
+  [627/680] SAVED what-is-the-ubs-na-critical-edition-of-the-bi [B] GEO=71% AEO=67% SXO=58% 1522w
+  [628/680] SAVED what-is-the-value-of-biblical-archeology      [C] GEO=57% AEO=50% SXO=67% 1257w +1chg
+  [629/680] SAVED what-language-is-most-of-the-old-testament-wr [C] GEO=57% AEO=50% SXO=67% 3060w +1chg
+  [630/680] SAVED what-language-was-the-new-testament-first-wri [C] GEO=57% AEO=42% SXO=58% 1927w +1chg
+  [631/680] SAVED what-language-was-the-new-testament-originall [C] GEO=57% AEO=50% SXO=67% 2803w +1chg
+  [632/680] SAVED what-language-was-the-new-testament-written-i [C] GEO=57% AEO=42% SXO=58% 2218w +1chg
+  [633/680] SAVED what-language-was-the-old-testament-written-i [C] GEO=64% AEO=50% SXO=50% 5737w +1chg
+  [634/680] SAVED what-languages-was-the-bible-first-written-in [C] GEO=64% AEO=67% SXO=58% 1111w
+  [635/680] SAVED what-proves-the-bible-is-historically-accurat [C] GEO=64% AEO=42% SXO=75% 1239w +1chg
+  [636/680] SAVED what-techniques-did-archaeologists-use        [C] GEO=50% AEO=50% SXO=67% 1304w +1chg
+  [637/680] SAVED what-techniques-do-archaeologists-use-to-surv [C] GEO=50% AEO=50% SXO=67% 1194w +1chg
+  [638/680] SAVED what-were-the-scriptures-called-in-jesus-time [C] GEO=57% AEO=42% SXO=67% 2533w +1chg
+  [639/680] SAVED whats-the-earliest-fragments-of-the-bible-we- [B] GEO=71% AEO=58% SXO=67% 1279w
+  [640/680] SAVED when-did-biblical-archeology-start            [C] GEO=50% AEO=33% SXO=75% 1190w +1chg
+  [641/680] SAVED when-was-the-biblical-canon-officially-closed [C] GEO=71% AEO=50% SXO=50% 1182w
+  [642/680] SAVED when-was-the-first-bible-written-and-who-wrot [C] GEO=57% AEO=58% SXO=75% 1311w +1chg
+  [643/680] SAVED when-was-the-new-testament-actually-written   [C] GEO=57% AEO=33% SXO=67% 2948w +1chg
+  [644/680] SAVED when-was-the-new-testament-written-after-jesu [C] GEO=57% AEO=50% SXO=58% 2740w +1chg
+  [645/680] SAVED when-was-the-new-testament-originally-written [C] GEO=57% AEO=42% SXO=58% 1841w +1chg
+  [646/680] SAVED where-are-the-original-copies-of-the-bible-ke [C] GEO=57% AEO=58% SXO=75% 1271w +1chg
+  [647/680] SAVED where-did-the-bible-originate                 [C] GEO=64% AEO=50% SXO=67% 1194w +1chg
+  [648/680] SAVED where-are-the-original-manuscripts-of-the-bib [C] GEO=64% AEO=50% SXO=75% 1346w +1chg
+  [649/680] SAVED where-did-the-original-books-of-the-bible-com [C] GEO=64% AEO=33% SXO=75% 1228w +1chg
+  [650/680] SAVED where-is-the-first-original-bible-located     [C] GEO=79% AEO=33% SXO=75% 1263w +1chg
+  [651/680] SAVED where-did-the-story-of-the-bible-begin        [C] GEO=71% AEO=33% SXO=83% 1214w +1chg
+  [652/680] SAVED where-is-the-oldest-bible-in-the-world-kept   [C] GEO=79% AEO=33% SXO=58% 1195w +1chg
+  [653/680] SAVED where-is-the-oldest-version-of-the-bible-loca [C] GEO=71% AEO=50% SXO=67% 1322w +1chg
+  [654/680] SAVED where-is-the-original-bible-kept              [C] GEO=71% AEO=50% SXO=67% 1307w +1chg
+  [655/680] SAVED where-is-the-original-bible-located           [B] GEO=71% AEO=50% SXO=83% 1299w +1chg
+  [656/680] SAVED where-to-access-biblical-manuscripts-online-t [C] GEO=57% AEO=67% SXO=67% 1416w
+  [657/680] SAVED where-was-the-bible-originally-found          [C] GEO=64% AEO=58% SXO=67% 1286w +1chg
+  [658/680] SAVED where-was-the-first-bible-found               [C] GEO=57% AEO=50% SXO=83% 1295w +1chg
+  [659/680] SAVED where-were-the-original-books-of-the-bible-fo [C] GEO=50% AEO=50% SXO=83% 1299w +1chg
+  [660/680] SAVED which-bible-is-the-oldest-in-the-world        [B] GEO=71% AEO=50% SXO=75% 1264w +1chg
+  [661/680] SAVED where-you-can-view-high-res-original-manuscri [C] GEO=64% AEO=33% SXO=50% 1129w
+  [662/680] SAVED which-bible-verses-are-most-disputed-by-varia [B] GEO=86% AEO=58% SXO=58% 1260w
+  [663/680] SAVED which-books-are-missing-from-the-hebrew-bible [C] GEO=57% AEO=50% SXO=67% 2028w +1chg
+  [664/680] SAVED who-compiled-the-new-testament                [C] GEO=57% AEO=42% SXO=67% 2506w +1chg
+  [665/680] SAVED why-are-there-two-different-spellings-archaeo [C] GEO=57% AEO=50% SXO=75% 1242w +1chg
+  [666/680] SAVED who-wrote-the-first-copy-of-each-gospel       [C] GEO=71% AEO=58% SXO=58% 1214w
+  [667/680] SAVED who-made-the-first-bible-in-the-world         [D] GEO=50% AEO=25% SXO=67% 1203w +1chg
+  [668/680] SAVED why-is-archaeology-called-archaeology         [C] GEO=64% AEO=42% SXO=67% 1174w +1chg
+  [669/680] SAVED why-bibles-manuscripts-outnumber-many-histori [C] GEO=71% AEO=33% SXO=58% 1482w
+  [670/680] SAVED why-is-it-called-old-testament-and-new-testam [D] GEO=50% AEO=33% SXO=50% 9563w +1chg
+  [671/680] SAVED why-is-the-old-testament-called-the-old-testa [C] GEO=57% AEO=42% SXO=50% 4376w +1chg
+  [672/680] SAVED why-is-the-new-testament-written-in-greek-and [C] GEO=57% AEO=58% SXO=67% 2340w +1chg
+  [673/680] SAVED why-is-the-old-testament-written              [C] GEO=50% AEO=33% SXO=67% 2238w +1chg
+  [674/680] SAVED why-jerome-rejected-parts-of-the-septuagint   [C] GEO=57% AEO=58% SXO=58% 1213w
+  [675/680] SAVED why-the-gutenberg-bible-marked-a-turning-poin [C] GEO=57% AEO=50% SXO=58% 1188w
+  [676/680] SAVED why-the-samaritan-pentateuch-matters-to-origi [C] GEO=64% AEO=42% SXO=67% 1238w
+  [677/680] SAVED why-the-septuagint-is-called-the-first-bible  [C] GEO=64% AEO=58% SXO=50% 1113w
+  [678/680] SAVED why-we-dont-have-the-bibles-original-autograp [C] GEO=71% AEO=58% SXO=58% 1150w
+  [679/680] SAVED windstorm-in-judean-valley-a-call-for-moral-r [C] GEO=50% AEO=42% SXO=58% 1585w +1chg
+  [680/680] SAVED worship-in-the-old-and-new-testament          [D] GEO=57% AEO=33% SXO=50% 3523w +1chg
+
+======================================================================
+DONE in 9.6s (0.014s/article)
+  Processed: 680 | Errors: 0
+  Articles changed: 630
+
+  GRADE DISTRIBUTION:
+    A:   0 ( 0.0%) 
+    B:  39 ( 5.7%) #######
+    C: 608 (89.4%) #########################################################################################################################
+    D:  33 ( 4.9%) ######
+    F:   0 ( 0.0%) 
+
+  LAYER AVERAGES:
+    GEO (AI citation):     58.0%
+    AEO (answer engine):   42.1%
+    SXO (search UX):       68.9%
+    COMBINED:              56.6%
+
+  LEGACY SEMANTIC: entities=47.7 years=0.8 people=37.2 sources=1.5
+
+  BY CATEGORY:
+    biblical-archaeology      190 articles  avg 1683w  57%  B=13 C=174 D=3
+    scripture                 127 articles  avg 2475w  56%  B=8 C=102 D=17
+    excavations               164 articles  avg 1836w  57%  B=7 C=150 D=7
+    artifacts                  80 articles  avg 1482w  58%  B=9 C=71
+    faith                     119 articles  avg 1915w  56%  B=2 C=111 D=6
+
+  BOTTOM 10 (need improvement):
+    [D] 45% exploring-the-old-testament-through-a-cultural-lens
+    [D] 45% joyous-festival-processions-at-the-city-sewer-grate-cha
+    [D] 45% lidar-technology-uncovers-biblical-archaeological-sites
+    [D] 45% why-is-it-called-old-testament-and-new-testament
+    [D] 47% ancient-hebrew-scripts-and-their-impact-on-biblical-tim
+    [D] 47% ancient-jerusalem-street-reveals-temple-pilgrim-path
+    [D] 47% ancient-jewish-festival-evidence-uncovered
+    [D] 47% comparing-themes-in-the-old-testament-and-the-new-testa
+    [D] 47% contrasting-worship-in-the-old-testament-and-the-new-te
+    [D] 47% digital-recording-of-ancient-hebrew-seals-and-their-bib
+======================================================================
+=== DONE === 

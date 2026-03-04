@@ -1,0 +1,872 @@
+​
+Netlify Build                                                 
+────────────────────────────────────────────────────────────────
+​
+❯ Version
+  @netlify/build 35.5.10
+​
+❯ Flags
+  accountId: 684367e610b36e96074c6aed
+  deployId: 69a4ce7f0e9e7d0b5ec6a6b2
+​
+❯ Current directory
+  D:\dev\projects\diggingscriptures
+​
+❯ Config file
+  D:\dev\projects\diggingscriptures\netlify.toml
+​
+❯ Context
+  production
+​
+❯ Installing extensions
+   - user-agent-blocker
+​
+❯ Loading extensions
+   - user-agent-blocker
+​
+build.command from netlify.toml                               
+────────────────────────────────────────────────────────────────
+​
+$ npm run build
+
+> pilgrimage-site@1.0.0 build
+> astro build
+
+[2m17:40:57[22m [34m[content][39m Syncing content
+[2m17:40:57[22m [34m[content][39m Synced content
+[2m17:40:57[22m [34m[types][39m Generated [2m972ms[22m
+[2m17:40:57[22m [34m[build][39m output: [34m"static"[39m
+[2m17:40:57[22m [34m[build][39m mode: [34m"static"[39m
+[2m17:40:57[22m [34m[build][39m directory: [34mD:\dev\projects\diggingscriptures\dist\[39m
+[2m17:40:57[22m [34m[build][39m Collecting build info...
+[2m17:40:57[22m [34m[build][39m [32m✓ Completed in 999ms.[39m
+[2m17:40:58[22m [34m[build][39m Building static entrypoints...
+[2m17:41:02[22m [34m[vite][39m [32m✓ built in 3.74s[39m
+[2m17:41:02[22m [34m[build][39m [32m✓ Completed in 3.79s.[39m
+
+[42m[30m building client (vite) [39m[49m
+[2m17:41:02[22m [34m[vite][39m transforming...
+[2m17:41:02[22m [34m[vite][39m [32m✓[39m 23 modules transformed.
+[2m17:41:02[22m [34m[vite][39m rendering chunks...
+[2m17:41:02[22m [34m[vite][39m computing gzip size...
+[2m17:41:02[22m [34m[vite][39m [2mdist/[22m[36m_astro/client.T9fhd2RU.js  [39m[1m[2m194.63 kB[22m[1m[22m[2m │ gzip: 60.99 kB[22m
+[2m17:41:02[22m [34m[vite][39m [32m✓ built in 647ms[39m
+
+[42m[30m generating static routes [39m[49m
+[2m17:41:02[22m [32m▶[39m src/pages/affiliate-disclaimer.astro
+[2m17:41:02[22m   [34m└─[39m [2m/affiliate-disclaimer/index.html[22m [2m(+10ms)[22m 
+[2m17:41:02[22m [32m▶[39m src/pages/contact.astro
+[2m17:41:02[22m   [34m└─[39m [2m/contact/index.html[22m [2m(+3ms)[22m 
+[2m17:41:02[22m [32m▶[39m src/pages/context/[slug].astro
+[2m17:41:03[22m   [34m├─[39m [2m/context/aliyah-leregel/index.html[22m [2m(+4ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/context/diaspora-pilgrimage/index.html[22m [2m(+3ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/context/five-pillars-hajj-explained/index.html[22m [2m(+3ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/context/four-sacred-sites-buddhism/index.html[22m [2m(+3ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/context/history-of-christian-pilgrimage/index.html[22m [2m(+2ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/context/pilgrimage-tourism-modern-era/index.html[22m [2m(+10ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/context/psychology-of-pilgrimage/index.html[22m [2m(+3ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/context/relics-and-sacred-objects/index.html[22m [2m(+2ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/context/three-pilgrim-festivals-judaism/index.html[22m [2m(+2ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/context/what-is-pilgrimage/index.html[22m [2m(+1ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/context/women-and-pilgrimage/index.html[22m [2m(+2ms)[22m 
+[2m17:41:03[22m   [34m└─[39m [2m/context/ziyarat-visiting-shrines-islam/index.html[22m [2m(+1ms)[22m 
+[2m17:41:03[22m [32m▶[39m src/pages/context/index.astro
+[2m17:41:03[22m   [34m└─[39m [2m/context/index.html[22m [2m(+5ms)[22m 
+[2m17:41:03[22m [32m▶[39m src/pages/journeys/[slug].astro
+[2m17:41:03[22m   [34m├─[39m [2m/journeys/buddhist-pilgrimage-paths/index.html[22m [2m(+7ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/journeys/christian-pilgrimage-traditions/index.html[22m [2m(+5ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/journeys/faith-based-journeys/index.html[22m [2m(+4ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/journeys/islamic-pilgrimage-traditions/index.html[22m [2m(+5ms)[22m 
+[2m17:41:03[22m   [34m└─[39m [2m/journeys/jewish-pilgrimage-heritage/index.html[22m [2m(+4ms)[22m 
+[2m17:41:03[22m [32m▶[39m src/pages/journeys/index.astro
+[2m17:41:03[22m   [34m└─[39m [2m/journeys/index.html[22m [2m(+3ms)[22m 
+[2m17:41:03[22m [32m▶[39m src/pages/places/[slug].astro
+[2m17:41:03[22m   [34m├─[39m [2m/places/bodh-gaya/index.html[22m [2m(+2ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/places/al-aqsa-mosque/index.html[22m [2m(+1ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/places/dome-of-the-rock/index.html[22m [2m(+1ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/places/hebron-cave-patriarchs/index.html[22m [2m(+1ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/places/jerusalem-old-city/index.html[22m [2m(+3ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/places/jerusalem/index.html[22m [2m(+2ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/places/lourdes/index.html[22m [2m(+1ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/places/lumbini/index.html[22m [2m(+2ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/places/mecca/index.html[22m [2m(+2ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/places/medina/index.html[22m [2m(+1ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/places/mount-koya/index.html[22m [2m(+1ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/places/najaf-karbala/index.html[22m [2m(+1ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/places/rome-vatican/index.html[22m [2m(+1ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/places/mount-meron/index.html[22m [2m(+1ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/places/safed-kabbalah/index.html[22m [2m(+2ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/places/sarnath/index.html[22m [2m(+2ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/places/santiago-de-compostela/index.html[22m [2m(+3ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/places/rachels-tomb/index.html[22m [2m(+2ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/places/varanasi/index.html[22m [2m(+2ms)[22m 
+[2m17:41:03[22m   [34m└─[39m [2m/places/western-wall/index.html[22m [2m(+2ms)[22m 
+[2m17:41:03[22m [32m▶[39m src/pages/places/index.astro
+[2m17:41:03[22m   [34m└─[39m [2m/places/index.html[22m [2m(+8ms)[22m 
+[2m17:41:03[22m [32m▶[39m src/pages/privacy.astro
+[2m17:41:03[22m   [34m└─[39m [2m/privacy/index.html[22m [2m(+1ms)[22m 
+[2m17:41:03[22m [32m▶[39m src/pages/research/[category]/[slug].astro
+[2m17:41:03[22m   [34m├─[39m [2m/research/artifacts/10-most-important-biblical-artifacts-discovered/index.html[22m [2m(+3ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/artifacts/3-methods-to-identify-genuine-and-counterfeit-artifacts-in-biblical-archaeology/index.html[22m [2m(+2ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/artifacts/acacia-wood-blueprint-a-deep-dive-into-the-arks-design/index.html[22m [2m(+2ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/artifacts/ancient-hebrew-seal-collection-reveals-biblical-names/index.html[22m [2m(+2ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/artifacts/are-any-original-bible-manuscripts-still-in-existence/index.html[22m [2m(+2ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/artifacts/ancient-temple-seal-discovery-rewrites-biblical-history/index.html[22m [2m(+2ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/artifacts/battered-column-chest-a-scroll-unveiling-temple-greed/index.html[22m [2m(+3ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/artifacts/alexandrian-vs-byzantine-vs-western-texts-explained/index.html[22m [2m(+2ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/artifacts/biblical-interpolations-what-were-added-later/index.html[22m [2m(+2ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/artifacts/biblical-archaeology-unearthing-ancient-secrets/index.html[22m [2m(+2ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/artifacts/differences-in-biblical-canon-among-traditions/index.html[22m [2m(+2ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/artifacts/could-we-ever-find-the-original-bible-again/index.html[22m [2m(+2ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/artifacts/differences-between-sinaiticus-and-vaticanus/index.html[22m [2m(+2ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/artifacts/discover-fascinating-biblical-archaeology-artifacts-in-ancient-ruins/index.html[22m [2m(+2ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/artifacts/exploring-ancient-biblical-artifacts-the-role-of-archaeologists-in-museums/index.html[22m [2m(+2ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/artifacts/exploring-the-best-methods-for-analyzing-artifacts-in-biblical-archaeology/index.html[22m [2m(+2ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/artifacts/exploring-the-jericho-ruins-a-single-jar-of-agricultural-lamentations/index.html[22m [2m(+2ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/artifacts/exploring-the-ethical-implications-of-displaying-biblical-archaeological-artifacts/index.html[22m [2m(+2ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/artifacts/exploring-the-moral-dilemmas-surrounding-collecting-and-interpreting-biblical-artifacts/index.html[22m [2m(+2ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/artifacts/exploring-the-wilderness-insights-from-the-bethlehem-monastery-chest/index.html[22m [2m(+2ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/artifacts/first-temple-period-royal-seal-collection-unearthed/index.html[22m [2m(+2ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/artifacts/hebrew-aramaic-greek-biblical-languages-explained/index.html[22m [2m(+2ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/artifacts/how-archaeology-confirms-biblical-origins/index.html[22m [2m(+2ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/artifacts/how-and-why-the-original-bible-autographs-were-lost/index.html[22m [2m(+2ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/artifacts/how-church-fathers-help-reconstruct-originals/index.html[22m [2m(+2ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/artifacts/how-jeromes-vulgate-influenced-canon-texts/index.html[22m [2m(+2ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/artifacts/how-codex-vaticanus-shapes-our-bible-text-today/index.html[22m [2m(+2ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/artifacts/how-many-new-testament-manuscripts-exist-today/index.html[22m [2m(+2ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/artifacts/how-many-old-testament-manuscripts-survive/index.html[22m [2m(+2ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/artifacts/how-scholars-reconstruct-the-earliest-texts-2/index.html[22m [2m(+2ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/artifacts/how-septuagint-shed-light-on-early-hebrew-text/index.html[22m [2m(+2ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/artifacts/how-the-documentary-hypothesis-shapes-origins/index.html[22m [2m(+2ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/artifacts/jordan-baptism-site-jar-unveiling-repentance-themes-in-desert-waters/index.html[22m [2m(+2ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/artifacts/methods-used-by-biblical-archaeologists-to-date-ancient-artifacts/index.html[22m [2m(+2ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/artifacts/preservation-methods-for-biblical-artifacts-uncovered/index.html[22m [2m(+2ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/artifacts/qumrans-biblical-fragments-and-their-dating/index.html[22m [2m(+2ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/artifacts/qumrans-empty-cave-unveiling-the-kindness-manifestos-in-fragments/index.html[22m [2m(+2ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/artifacts/ravine-settlement-a-glimpse-into-roman-rule-and-communal-documents/index.html[22m [2m(+2ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/artifacts/replicas-in-exile-the-quest-for-the-real-ark-of-the-covenant/index.html[22m [2m(+2ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/artifacts/scientific-site-analysis-of-biblical-archaeology/index.html[22m [2m(+2ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/artifacts/temple-artifacts-reveal-ancient-worship-practices/index.html[22m [2m(+2ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/artifacts/the-arks-moral-authority-in-turmoil-a-deep-dive-into-the-tablets-of-law/index.html[22m [2m(+2ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/artifacts/the-ascetic-communitys-role-in-preparing-for-the-arks-anticipated-return/index.html[22m [2m(+2ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/artifacts/the-evolution-of-temple-worship-artifacts/index.html[22m [2m(+2ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/artifacts/the-john-rylands-papyrus-first-century-gospel-fragment-2/index.html[22m [2m(+2ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/artifacts/the-john-rylands-papyrus-first-century-gospel-fragment/index.html[22m [2m(+2ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/artifacts/the-jordan-orchard-jar-a-glimpse-into-worship-rites-of-a-wandering-sect/index.html[22m [2m(+2ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/artifacts/the-last-stand-in-battle-how-the-ark-lifts-the-courage-of-the-outnumbered/index.html[22m [2m(+2ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/artifacts/the-secret-palace-tunnel-uncovering-the-legend-of-the-arks-hidden-resting-place/index.html[22m [2m(+1ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/artifacts/the-temple-blueprint-scroll-unveiling-the-arks-golden-overlay/index.html[22m [2m(+1ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/artifacts/top-archives-where-originals-are-kept-today/index.html[22m [2m(+2ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/artifacts/uncovering-the-mysteries-fascinating-artifacts-discovered-by-biblical-archaeologists/index.html[22m [2m(+2ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/artifacts/unearthing-the-secrets-the-quest-for-the-ark-of-the-covenant/index.html[22m [2m(+2ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/artifacts/unearthing-the-hidden-stories-biblical-archaeology-reveals-ancient-pottery-and-ceramics/index.html[22m [2m(+2ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/artifacts/unraveling-the-significance-of-biblical-archaeological-artifacts/index.html[22m [2m(+2ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/artifacts/was-the-bible-originally-oral-tradition-or-text/index.html[22m [2m(+2ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/artifacts/what-do-people-mean-by-original-bible-explained/index.html[22m [2m(+2ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/artifacts/what-are-textual-variants-in-the-new-testament/index.html[22m [2m(+2ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/artifacts/what-is-codex-sinaiticus-and-why-its-important/index.html[22m [2m(+2ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/artifacts/what-is-the-masoretic-text-and-how-was-it-formed/index.html[22m [2m(+2ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/artifacts/what-is-the-oldest-biblical-manuscript-we-have/index.html[22m [2m(+1ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/artifacts/what-is-the-oldest-biblical-artifact-ever-found/index.html[22m [2m(+1ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/artifacts/what-is-the-oldest-complete-old-testament-manuscript/index.html[22m [2m(+1ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/artifacts/what-is-the-oldest-known-bible-artifact/index.html[22m [2m(+2ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/artifacts/what-is-the-synoptic-problem-and-why-it-matters/index.html[22m [2m(+2ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/artifacts/what-is-the-ubs-na-critical-edition-of-the-bible/index.html[22m [2m(+2ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/artifacts/what-is-the-textus-receptus-and-why-it-still-matters/index.html[22m [2m(+2ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/artifacts/whats-the-earliest-fragments-of-the-bible-we-have/index.html[22m [2m(+2ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/artifacts/what-languages-was-the-bible-first-written-in/index.html[22m [2m(+2ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/artifacts/when-was-the-biblical-canon-officially-closed/index.html[22m [2m(+2ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/artifacts/where-to-access-biblical-manuscripts-online-today/index.html[22m [2m(+2ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/artifacts/where-you-can-view-high-res-original-manuscripts/index.html[22m [2m(+2ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/artifacts/which-bible-verses-are-most-disputed-by-variants/index.html[22m [2m(+2ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/artifacts/who-wrote-the-first-copy-of-each-gospel/index.html[22m [2m(+2ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/artifacts/why-bibles-manuscripts-outnumber-many-histories/index.html[22m [2m(+2ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/artifacts/why-jerome-rejected-parts-of-the-septuagint/index.html[22m [2m(+3ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/artifacts/why-the-gutenberg-bible-marked-a-turning-point/index.html[22m [2m(+2ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/artifacts/why-the-samaritan-pentateuch-matters-to-origins/index.html[22m [2m(+2ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/artifacts/why-the-septuagint-is-called-the-first-bible/index.html[22m [2m(+2ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/artifacts/why-we-dont-have-the-bibles-original-autographs/index.html[22m [2m(+2ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/excavations/10-famous-biblical-archaeologists-you-should-know/index.html[22m [2m(+2ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/excavations/10-steps-to-volunteer-on-a-biblical-archaeology-dig/index.html[22m [2m(+2ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/excavations/5-ways-to-stay-updated-on-the-latest-developments-in-biblical-archaeology/index.html[22m [2m(+2ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/excavations/advancing-biblical-archaeology-through-remote-sensing/index.html[22m [2m(+4ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/excavations/ancient-jerusalem-marketplace-near-temple-unveiled/index.html[22m [2m(+2ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/excavations/ancient-jerusalem-palace-unearthed-sparks-biblical-interest/index.html[22m [2m(+2ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/excavations/ancient-jerusalem-street-reveals-temple-pilgrim-path/index.html[22m [2m(+2ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/excavations/ancient-jerusalem-unveiling-the-commerce-center/index.html[22m [2m(+2ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/excavations/ancient-temple-mount-discovery-shifts-biblical-understanding/index.html[22m [2m(+2ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/excavations/archaeological-ai-discovers-lost-biblical-cities/index.html[22m [2m(+2ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/excavations/archaeological-maps-of-ancient-jerusalem-unveiled/index.html[22m [2m(+2ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/excavations/archaeological-scanning-unveils-temple-mount-secrets/index.html[22m [2m(+3ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/excavations/biblical-archaeology-discoveries-unveil-ancient-secrets/index.html[22m [2m(+2ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/excavations/biblical-archaeology-evidence-unveiled/index.html[22m [2m(+2ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/excavations/biblical-archaeology-first-temple-period-discoveries/index.html[22m [2m(+2ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/excavations/biblical-archaeology-first-temple-period-market-discovery/index.html[22m [2m(+2ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/excavations/biblical-archaeology-town-destruction-verified/index.html[22m [2m(+2ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/excavations/biblical-town-gateway-reveals-ancient-defense-systems/index.html[22m [2m(+2ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/excavations/biblical-town-life-revealed-in-new-excavation/index.html[22m [2m(+1ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/excavations/biblical-town-streets-explored-and-mapped/index.html[22m [2m(+2ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/excavations/biblical-towns-uncovered-ancient-texts-reveal-stories/index.html[22m [2m(+2ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/excavations/city-of-david-blocked-door-a-journey-into-restoration/index.html[22m [2m(+2ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/excavations/compassion-for-social-outcasts-the-legacy-of-ein-gedi-orchard-jar/index.html[22m [2m(+2ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/excavations/controversies-in-biblical-archaeology-unearthing-the-truth/index.html[22m [2m(+2ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/excavations/dead-sea-orchard-unraveling-the-cosmic-battle-theories/index.html[22m [2m(+2ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/excavations/dead-sea-scroll-cave-yields-lost-biblical-text/index.html[22m [2m(+2ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/excavations/dead-sea-scroll-cave-yields-revolutionary-new-testament-text/index.html[22m [2m(+2ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/excavations/dead-sea-vineyard-a-lamentation-in-jars-of-moral-decline/index.html[22m [2m(+2ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/excavations/debunking-common-misconceptions-about-biblical-archaeology/index.html[22m [2m(+2ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/excavations/debunking-misconceptions-about-biblical-archaeology/index.html[22m [2m(+2ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/excavations/decoding-ancient-inscriptions-a-biblical-archaeological-perspective/index.html[22m [2m(+2ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/excavations/debunking-popular-misconceptions-about-biblical-archaeology/index.html[22m [2m(+2ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/excavations/did-the-israelites-conquer-jericho-a-new-look-at-the-archaeological-evidence/index.html[22m [2m(+2ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/excavations/debunking-the-top-misconceptions-about-biblical-archaeology/index.html[22m [2m(+2ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/excavations/discovering-biblical-art-through-archaeology/index.html[22m [2m(+2ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/excavations/discovering-the-legacy-exploring-the-life-and-work-of-william-f-albright/index.html[22m [2m(+2ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/excavations/discovering-the-pioneers-prominent-biblical-archaeologists/index.html[22m [2m(+2ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/excavations/does-archaeology-confirm-the-historical-accuracy-of-the-bible/index.html[22m [2m(+3ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/excavations/do-the-dead-sea-scrolls-include-biblical-texts/index.html[22m [2m(+2ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/excavations/dominion-struggles-in-the-shadow-of-the-dead-sea-rock-face/index.html[22m [2m(+2ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/excavations/excavations-unveiling-biblical-archaeology/index.html[22m [2m(+2ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/excavations/exploring-ancient-biblical-sites-a-journey-through-history/index.html[22m [2m(+2ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/excavations/exploring-ancient-jerusalem-pilgrim-routes-unearthed/index.html[22m [2m(+2ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/excavations/exploring-biblical-archaeological-evidence/index.html[22m [2m(+2ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/excavations/exploring-biblical-archaeology-in-the-middle-east-a-boost-to-tourism/index.html[22m [2m(+2ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/excavations/exploring-biblical-archaeology-journey-to-jericho/index.html[22m [2m(+2ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/excavations/exploring-biblical-archaeology-studies-unveiling-ancient-secrets/index.html[22m [2m(+2ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/excavations/exploring-biblical-archaeology-unveiling-the-secrets-of-ancient-relics/index.html[22m [2m(+2ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/excavations/exploring-controversies-surrounding-biblical-archaeology/index.html[22m [2m(+2ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/excavations/exploring-the-ancient-jerusalem-palace-complex-discoveries/index.html[22m [2m(+2ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/excavations/exploring-the-connection-architecture-and-biblical-archaeology/index.html[22m [2m(+2ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/excavations/exploring-the-connection-the-intersection-of-science-and-religion-in-biblical-archaeology/index.html[22m [2m(+2ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/excavations/exploring-the-environmental-impact-on-biblical-archaeology/index.html[22m [2m(+7ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/excavations/exploring-the-impact-of-biblical-archaeology-on-public-policy/index.html[22m [2m(+2ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/excavations/exploring-the-jericho-mound-ledger-offerings-to-a-desert-fellowship/index.html[22m [2m(+2ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/excavations/exploring-the-legacy-of-w-f-petrie-in-biblical-archaeology/index.html[22m [2m(+2ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/excavations/exploring-the-link-between-biblical-archaeology-and-digital-reconstruction/index.html[22m [2m(+2ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/excavations/exploring-the-link-biblical-archaeology-and-the-dead-sea-scrolls/index.html[22m [2m(+2ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/excavations/exploring-the-link-biblical-archaeologys-influence-on-tourism/index.html[22m [2m(+2ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/excavations/exploring-the-mountain-corridor-a-journey-through-patriarchs-memory-in-faded-scroll/index.html[22m [2m(+2ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/excavations/exploring-the-mysteries-of-the-qumran-stairway-levitical-insights-in-the-sunken-room/index.html[22m [2m(+2ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/excavations/exploring-the-origins-understanding-biblical-archaeology/index.html[22m [2m(+2ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/excavations/exploring-the-political-implications-of-biblical-archaeology/index.html[22m [2m(+2ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/excavations/exploring-the-qumran-storeroom-trunk-a-study-in-moral-integrity/index.html[22m [2m(+2ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/excavations/exploring-the-qumran-workshop-ruins-a-quest-for-temple-artifacts/index.html[22m [2m(+2ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/excavations/exploring-the-significance-biblical-archaeologists-in-heritage-preservation/index.html[22m [2m(+2ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/excavations/exploring-the-relationship-between-biblical-archaeologists-and-conservation-efforts/index.html[22m [2m(+2ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/excavations/exploring-the-significance-of-biblical-archaeologists-in-unearthing-history/index.html[22m [2m(+2ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/excavations/exploring-the-significance-of-biblical-archaeology/index.html[22m [2m(+2ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/excavations/famous-biblical-dig-sites-revealed/index.html[22m [2m(+2ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/excavations/galilee-synagogue-floor-exploring-the-watchmens-duties-and-sacred-texts/index.html[22m [2m(+2ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/excavations/have-any-artifacts-from-the-bible-been-found/index.html[22m [2m(+2ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/excavations/jericho-city-gate-the-significance-of-the-renewed-covenant-parchment/index.html[22m [2m(+2ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/excavations/jericho-orchard-shelter-exploring-faith-amidst-cataclysmic-upheaval/index.html[22m [2m(+2ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/excavations/integrating-biblical-archaeology-in-educational-curriculums/index.html[22m [2m(+1ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/excavations/jerusalem-temple-construction-methods-finally-revealed/index.html[22m [2m(+1ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/excavations/jerusalem-temple-foundations-finally-discovered/index.html[22m [2m(+1ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/excavations/jerusalem-wall-niche-a-reflection-on-moral-warnings-for-corrupt-authority/index.html[22m [2m(+1ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/excavations/jerusalems-hidden-compartment-unraveling-the-prophetic-gathering-of-exiles/index.html[22m [2m(+2ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/excavations/kathleen-kenyons-contributions-to-biblical-archaeology/index.html[22m [2m(+2ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/excavations/lidar-technology-uncovers-biblical-archaeological-sites/index.html[22m [2m(+2ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/excavations/lost-biblical-city-found-ancient-fortress-reveals-new-story/index.html[22m [2m(+2ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/excavations/lost-biblical-city-found-ancient-life-revealed/index.html[22m [2m(+2ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/excavations/major-contributions-of-biblical-archaeologist-william-f-albright/index.html[22m [2m(+2ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/excavations/mapping-the-ancient-jerusalem-defense-system/index.html[22m [2m(+1ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/excavations/massive-biblical-gate-system-unearthed-at-ancient-shiloh/index.html[22m [2m(+1ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/excavations/modern-methods-in-unearthing-biblical-structures/index.html[22m [2m(+2ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/excavations/notable-discoveries-by-female-biblical-archaeologists/index.html[22m [2m(+1ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/excavations/overlooked-qumran-cave-rediscovering-joy-in-communal-scripture-reading/index.html[22m [2m(+2ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/excavations/preserving-endangered-cultural-sites-the-role-of-biblical-archaeologists/index.html[22m [2m(+2ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/excavations/quest-for-qumran-mysteries-in-the-holy-land/index.html[22m [2m(+2ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/excavations/qumran-boundary-stone-unlocking-the-calendar-keys-for-festival-timing/index.html[22m [2m(+2ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/excavations/qumran-wadi-silt-and-the-book-of-jobs-righteous-resolve/index.html[22m [2m(+2ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/excavations/qumran-fallen-beams-the-tug-of-war-between-piety-and-rigor-in-scroll-writings/index.html[22m [2m(+2ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/excavations/qumrans-clay-jar-the-secrets-of-a-devoted-community/index.html[22m [2m(+1ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/excavations/radiocarbon-dating-validates-biblical-site-discoveries/index.html[22m [2m(+1ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/excavations/remote-sensing-reveals-lost-biblical-towns/index.html[22m [2m(+1ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/excavations/restoration-hopes-of-the-qumran-boulder-mark/index.html[22m [2m(+1ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/excavations/salt-laden-dead-sea-edge-where-barren-earth-reveals-sacred-pottery/index.html[22m [2m(+2ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/excavations/significant-biblical-excavations-uncover-ancient-mysteries/index.html[22m [2m(+2ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/excavations/temple-mount-chamber-network-finally-mapped/index.html[22m [2m(+3ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/excavations/temple-mount-construction-secrets-unveiled/index.html[22m [2m(+2ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/excavations/the-best-universities-for-studying-biblical-archaeology/index.html[22m [2m(+2ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/excavations/the-controversy-surrounding-the-existence-of-biblical-cities-in-biblical-archaeology/index.html[22m [2m(+2ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/excavations/the-dead-sea-scrolls-unearthed-secrets-of-the-bible/index.html[22m [2m(+25ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/excavations/the-excavation-of-qumran-unearthing-the-famous-dead-sea-scrolls/index.html[22m [2m(+2ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/excavations/the-hidden-scrolls-of-the-temple-unearthing-mysteries-of-ancient-construction/index.html[22m [2m(+3ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/excavations/the-impact-of-technology-on-biblical-archaeology-preservation-and-conservation/index.html[22m [2m(+5ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/excavations/the-judean-desert-riverbed-a-ledger-of-an-exiled-people/index.html[22m [2m(+2ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/excavations/the-mystery-of-the-dead-sea-stone-inscription-unraveling-missing-jar-and-lost-texts/index.html[22m [2m(+1ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/excavations/the-pioneers-of-biblical-archaeology/index.html[22m [2m(+2ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/excavations/the-political-powers-impact-on-biblical-archaeology/index.html[22m [2m(+2ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/excavations/the-role-of-3d-modeling-in-biblical-archaeological-research/index.html[22m [2m(+2ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/excavations/the-role-of-biblical-archaeologists-in-the-preservation-of-cultural-heritage/index.html[22m [2m(+2ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/excavations/the-top-institutions-for-biblical-archaeology-research-funding/index.html[22m [2m(+2ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/excavations/the-significance-of-biblical-archaeology-for-historical-understanding/index.html[22m [2m(+1ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/excavations/the-ultimate-guide-to-studying-biblical-archaeology/index.html[22m [2m(+1ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/excavations/top-excavation-sites-for-biblical-archaeologists/index.html[22m [2m(+1ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/excavations/uncovering-lost-biblical-treasures/index.html[22m [2m(+1ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/excavations/uncovering-the-biblical-past-in-the-face-of-climate-change/index.html[22m [2m(+1ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/excavations/uncovering-the-historical-significance-the-impact-of-biblical-archaeology/index.html[22m [2m(+2ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/excavations/uncovering-the-past-biblical-archaeology-through-geospatial-technology/index.html[22m [2m(+2ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/excavations/uncovering-the-secrets-the-top-techniques-used-by-biblical-archaeologists/index.html[22m [2m(+2ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/excavations/understanding-the-various-techniques-in-biblical-archaeological-excavation/index.html[22m [2m(+2ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/excavations/uncovering-the-truth-exploring-the-connection-between-biblical-archaeology-and-the-bible/index.html[22m [2m(+2ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/excavations/unearthing-ancient-mysteries-biblical-sites-excavation/index.html[22m [2m(+2ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/excavations/unearthing-the-crossroads-of-war-biblical-archaeologys-encounter-with-conflict/index.html[22m [2m(+2ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/excavations/unearthing-the-mysteries-the-top-challenges-in-biblical-archaeology/index.html[22m [2m(+1ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/excavations/unearthing-the-past-biblical-archaeology-reveals-ancient-biblical-sites/index.html[22m [2m(+1ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/excavations/unearthing-the-past-lessons-from-biblical-archaeology/index.html[22m [2m(+2ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/excavations/unearthing-the-past-the-fascination-of-biblical-archaeology-in-tourism/index.html[22m [2m(+2ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/excavations/unearthing-the-past-the-role-of-biblical-archaeologists-in-preserving-cultural-heritage/index.html[22m [2m(+2ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/excavations/unearthing-the-secrets-biblical-archaeology-reveals-historical-truth/index.html[22m [2m(+2ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/excavations/unearthing-the-secrets-key-findings-of-biblical-archaeology/index.html[22m [2m(+2ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/excavations/unearthing-the-truth-current-controversies-in-biblical-archaeology/index.html[22m [2m(+2ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/excavations/unearthing-the-truth-how-biblical-archaeology-shaped-religious-beliefs/index.html[22m [2m(+1ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/excavations/unearthing-the-truth-how-biblical-archaeology-unveils-ancient-laws-and-legal-systems/index.html[22m [2m(+1ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/excavations/unearthing-the-truth-the-debate-over-authenticity-in-biblical-archaeology/index.html[22m [2m(+1ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/excavations/unlocking-mysteries-biblical-archaeology-research-unveiled/index.html[22m [2m(+1ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/excavations/unlocking-the-past-the-role-of-biblical-archaeologists-in-engaging-the-public/index.html[22m [2m(+1ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/excavations/unraveling-the-dead-sea-scrolls-biblical-insights/index.html[22m [2m(+2ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/excavations/unraveling-the-last-qumran-jar-a-discourse-on-free-will-vs-destiny-in-israels-future/index.html[22m [2m(+2ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/excavations/unraveling-the-mysteries-challenges-faced-by-biblical-archaeologists/index.html[22m [2m(+1ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/excavations/unraveling-the-qumran-scraps-crate-secrets-of-the-sects-initiation/index.html[22m [2m(+2ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/excavations/unveiling-qumran-sublevel-a-study-of-generational-text-preservation-methods/index.html[22m [2m(+1ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/excavations/unveiling-temple-tools-in-biblical-archaeology/index.html[22m [2m(+1ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/excavations/unveiling-temple-mount-construction-methods/index.html[22m [2m(+1ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/excavations/unveiling-the-hidden-secrets-the-latest-developments-in-biblical-archaeology-research/index.html[22m [2m(+1ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/excavations/unveiling-the-hidden-stories-the-impact-of-biblical-archaeology-on-modern-society/index.html[22m [2m(+1ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/excavations/unveiling-the-judean-hills-mosaic-ritual-details-of-ancient-temple-vessels/index.html[22m [2m(+1ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/excavations/unveiling-the-secrets-of-biblical-archaeologists/index.html[22m [2m(+1ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/excavations/unveiling-the-secrets-of-biblical-archaeology-2/index.html[22m [2m(+2ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/excavations/unveiling-the-secrets-of-the-qumran-wall-gap-clandestine-room-and-unity-scroll-exposed/index.html[22m [2m(+2ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/excavations/unveiling-the-truth-biblical-archaeologists-debunk-popular-misconceptions/index.html[22m [2m(+3ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/excavations/ways-to-support-biblical-archaeological-research-as-a-non-professional/index.html[22m [2m(+2ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/excavations/what-archaeological-evidence-points-to-the-historical-accuracy-of-the-biblical-story-of-the-fall-of-jericho/index.html[22m [2m(+2ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/excavations/what-bible-artifacts-were-found-in-2023/index.html[22m [2m(+2ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/excavations/what-dead-sea-scrolls-reveal-about-scripture/index.html[22m [2m(+2ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/excavations/what-have-archaeologists-found-from-the-bible/index.html[22m [2m(+2ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/excavations/what-is-archaeology-in-the-bible/index.html[22m [2m(+3ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/excavations/what-is-the-study-of-biblical-archaeology/index.html[22m [2m(+2ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/excavations/what-is-the-science-of-biblical-archeology/index.html[22m [2m(+2ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/excavations/what-is-the-value-of-biblical-archeology/index.html[22m [2m(+2ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/excavations/when-did-biblical-archeology-start/index.html[22m [2m(+2ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/scripture/ancient-hebrew-army-camp-discovery-unveils-biblical-history/index.html[22m [2m(+3ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/scripture/ancient-hebrew-military-camp-unearthed-in-biblical-lands/index.html[22m [2m(+2ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/scripture/ancient-hebrew-scripts-and-their-impact-on-biblical-timelines/index.html[22m [2m(+2ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/scripture/ancient-hebrew-technology-unlocking-temple-building-secrets/index.html[22m [2m(+2ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/scripture/ancient-hebrew-technology-unveils-temple-building-secrets/index.html[22m [2m(+3ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/scripture/ancient-hebrew-time-system-decoded-at-last/index.html[22m [2m(+2ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/scripture/are-all-the-books-of-the-old-testament-in-the-hebrew-bible/index.html[22m [2m(+1ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/scripture/are-all-new-testament-books-written-in-greek/index.html[22m [2m(+1ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/scripture/are-the-original-books-of-the-bible-still-in-existence/index.html[22m [2m(+1ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/scripture/are-there-any-archaeological-evidence-of-the-bible/index.html[22m [2m(+1ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/scripture/biblical-archaeology-unlocking-the-secrets-of-ancient-scripture/index.html[22m [2m(+1ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/scripture/brief-overview-of-the-old-testament/index.html[22m [2m(+1ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/scripture/central-themes-in-the-old-testament-and-the-new-testament/index.html[22m [2m(+2ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/scripture/comparing-old-testament-and-new-testament-themes/index.html[22m [2m(+2ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/scripture/comparing-the-old-testament-and-new-testament-themes/index.html[22m [2m(+2ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/scripture/comparing-the-old-testament-and-the-new-testament/index.html[22m [2m(+2ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/scripture/comparing-the-old-testament-and-the-torah-2/index.html[22m [2m(+2ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/scripture/comparing-themes-in-the-old-testament-and-the-new-testament/index.html[22m [2m(+1ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/scripture/connecting-the-old-testament-and-the-new-testament/index.html[22m [2m(+1ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/scripture/continuity-and-discontinuity-the-relationship-between-the-old-testament-and-the-new-testament/index.html[22m [2m(+1ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/scripture/contrasting-themes-in-the-old-testament-and-the-new-testament-4/index.html[22m [2m(+2ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/scripture/contrasting-worship-in-the-old-testament-and-the-new-testament/index.html[22m [2m(+1ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/scripture/decoding-the-ancient-hebrew-calendar-system/index.html[22m [2m(+2ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/scripture/digital-recording-of-ancient-hebrew-seals-and-their-biblical-significance/index.html[22m [2m(+2ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/scripture/do-any-of-the-original-books-of-the-bible-still-exist/index.html[22m [2m(+2ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/scripture/does-the-original-bible-still-exist/index.html[22m [2m(+2ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/scripture/exploring-a-biblical-ship-harbor-discovery/index.html[22m [2m(+1ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/scripture/exploring-ancient-hebrew-homes-through-archaeology/index.html[22m [2m(+1ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/scripture/exploring-the-language-of-the-old-testament/index.html[22m [2m(+1ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/scripture/exploring-the-old-testament-through-a-cultural-lens/index.html[22m [2m(+1ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/scripture/exploring-the-authenticity-of-old-testament-manuscripts/index.html[22m [2m(+1ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/scripture/exploring-the-significance-of-cherubim-in-biblical-archaeology/index.html[22m [2m(+1ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/scripture/exploring-the-transition-between-the-old-testament-and-the-new-testament/index.html[22m [2m(+1ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/scripture/exploring-the-worship-in-the-new-testament/index.html[22m [2m(+2ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/scripture/foundations-of-biblical-archaeology-uncovered/index.html[22m [2m(+2ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/scripture/has-archaeology-buried-the-bible-review/index.html[22m [2m(+2ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/scripture/has-archeology-ever-disproved-the-bible/index.html[22m [2m(+2ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/scripture/has-the-bible-ever-been-mistranslated/index.html[22m [2m(+3ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/scripture/have-the-original-books-of-the-bible-been-found/index.html[22m [2m(+2ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/scripture/how-does-archeology-prove-the-bible-is-true/index.html[22m [2m(+1ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/scripture/how-does-the-ethiopian-bible-differ-from-the-bible/index.html[22m [2m(+1ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/scripture/how-many-different-versions-of-the-bible-are-there/index.html[22m [2m(+1ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/scripture/how-many-ancient-manuscripts-of-the-bible-have-been-found/index.html[22m [2m(+1ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/scripture/how-many-times-has-the-bible-been-changed/index.html[22m [2m(+2ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/scripture/how-the-old-testament-got-its-name/index.html[22m [2m(+2ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/scripture/is-anything-in-the-bible-historically-accurate/index.html[22m [2m(+2ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/scripture/is-ethiopian-bible-accurate/index.html[22m [2m(+2ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/scripture/is-the-ethiopian-bible-the-first-bible/index.html[22m [2m(+1ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/scripture/is-the-ethiopian-bible-the-most-accurate/index.html[22m [2m(+1ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/scripture/is-the-ethiopian-bible-the-oldest/index.html[22m [2m(+1ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/scripture/is-the-ethiopian-bible-the-oldest-bible/index.html[22m [2m(+1ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/scripture/is-the-old-testament-written-in-greek-or-hebrew/index.html[22m [2m(+1ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/scripture/language-of-the-old-testament-exploring-the-scriptures/index.html[22m [2m(+1ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/scripture/old-testament-books-written-in-aramaic/index.html[22m [2m(+1ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/scripture/oldest-writing-in-the-old-testament/index.html[22m [2m(+2ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/scripture/should-i-read-the-new-testament-or-the-old-testament-first/index.html[22m [2m(+2ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/scripture/the-archaeology-of-the-bible-the-greatest-discoveries-from-genesis-to-the-roman-era/index.html[22m [2m(+2ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/scripture/the-connection-between-the-old-testament-and-the-new-testament/index.html[22m [2m(+2ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/scripture/the-evolution-of-the-old-testament-tracing-its-development-and-canonization/index.html[22m [2m(+1ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/scripture/the-formation-of-the-new-testament-who-added-it-to-the-bible/index.html[22m [2m(+1ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/scripture/the-historical-accuracy-of-the-new-testament/index.html[22m [2m(+1ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/scripture/the-influence-of-cultural-context-on-old-testament-narratives/index.html[22m [2m(+2ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/scripture/the-historical-context-of-the-old-testament-and-the-new-testament/index.html[22m [2m(+1ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/scripture/the-language-of-the-new-testament-exploring-its-origins/index.html[22m [2m(+1ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/scripture/the-language-of-the-old-testament-exploring-its-original-writing/index.html[22m [2m(+2ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/scripture/the-language-of-the-original-old-testament-exploring-ancient-biblical-manuscripts/index.html[22m [2m(+2ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/scripture/the-lost-cities-of-the-bible-explorations/index.html[22m [2m(+2ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/scripture/the-materials-used-for-writing-the-old-testament/index.html[22m [2m(+2ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/scripture/the-old-testament-exploring-themes-genres-and-historical-contexts/index.html[22m [2m(+1ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/scripture/the-original-language-of-the-new-testament-bible/index.html[22m [2m(+1ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/scripture/the-original-language-of-the-new-testament/index.html[22m [2m(+1ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/scripture/the-significance-of-greek-and-hebrew-in-the-new-testament/index.html[22m [2m(+1ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/scripture/the-origins-of-the-old-testament/index.html[22m [2m(+1ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/scripture/the-significance-of-the-old-testament-in-understanding-the-new-testament/index.html[22m [2m(+1ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/scripture/the-translation-of-the-old-testament-a-historical-perspective/index.html[22m [2m(+1ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/scripture/understanding-jesus-in-the-old-testament/index.html[22m [2m(+2ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/scripture/understanding-the-old-testament-exploring-themes-and-contexts/index.html[22m [2m(+2ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/scripture/understanding-the-old-testament-in-jesuss-time/index.html[22m [2m(+2ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/scripture/understanding-the-original-language-of-the-new-testament/index.html[22m [2m(+2ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/scripture/was-the-first-bible-found-in-ethiopia/index.html[22m [2m(+1ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/scripture/understanding-the-purpose-of-the-old-testament/index.html[22m [2m(+1ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/scripture/was-the-new-testament-originally-written-in-hebrew/index.html[22m [2m(+1ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/scripture/was-the-old-testament-originally-written-in-greek/index.html[22m [2m(+1ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/scripture/was-the-old-testament-written-in-aramaic/index.html[22m [2m(+1ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/scripture/was-the-original-new-testament-written-in-greek-or-hebrew/index.html[22m [2m(+1ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/scripture/were-the-new-testament-books-written-in-hebrew/index.html[22m [2m(+1ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/scripture/what-are-the-contributions-of-archaeology-to-the-bible/index.html[22m [2m(+2ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/scripture/what-is-the-difference-between-the-ethiopian-bible-and-the-bible/index.html[22m [2m(+2ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/scripture/what-is-the-earliest-archaeological-evidence-of-the-bible/index.html[22m [2m(+2ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/scripture/what-is-the-old-testament-called/index.html[22m [2m(+2ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/scripture/what-is-the-oldest-archaeological-evidence-of-the-bible/index.html[22m [2m(+1ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/scripture/what-is-the-oldest-bible-found/index.html[22m [2m(+1ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/scripture/what-is-the-oldest-bible-in-existence-today/index.html[22m [2m(+1ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/scripture/what-is-the-original-new-testament-called/index.html[22m [2m(+1ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/scripture/what-is-the-relationship-between-the-bible-and-archaeology/index.html[22m [2m(+1ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/scripture/what-language-is-most-of-the-old-testament-written-in/index.html[22m [2m(+2ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/scripture/what-language-was-the-new-testament-first-written-in/index.html[22m [2m(+1ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/scripture/what-language-was-the-new-testament-originally-written-in/index.html[22m [2m(+2ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/scripture/what-language-was-the-new-testament-written-in/index.html[22m [2m(+2ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/scripture/what-language-was-the-old-testament-written-in/index.html[22m [2m(+2ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/scripture/what-proves-the-bible-is-historically-accurate/index.html[22m [2m(+1ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/scripture/when-was-the-first-bible-written-and-who-wrote-it/index.html[22m [2m(+1ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/scripture/when-was-the-new-testament-actually-written/index.html[22m [2m(+1ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/scripture/when-was-the-new-testament-originally-written/index.html[22m [2m(+1ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/scripture/when-was-the-new-testament-written-after-jesuss-death/index.html[22m [2m(+1ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/scripture/where-are-the-original-copies-of-the-bible-kept/index.html[22m [2m(+1ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/scripture/where-are-the-original-manuscripts-of-the-bible-kept/index.html[22m [2m(+1ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/scripture/where-did-the-bible-originate/index.html[22m [2m(+1ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/scripture/where-did-the-story-of-the-bible-begin/index.html[22m [2m(+2ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/scripture/where-did-the-original-books-of-the-bible-come-from/index.html[22m [2m(+6ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/scripture/where-is-the-first-original-bible-located/index.html[22m [2m(+2ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/scripture/where-is-the-oldest-bible-in-the-world-kept/index.html[22m [2m(+2ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/scripture/where-is-the-oldest-version-of-the-bible-located/index.html[22m [2m(+1ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/scripture/where-is-the-original-bible-kept/index.html[22m [2m(+1ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/scripture/where-is-the-original-bible-located/index.html[22m [2m(+1ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/scripture/where-was-the-bible-originally-found/index.html[22m [2m(+1ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/scripture/where-was-the-first-bible-found/index.html[22m [2m(+2ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/scripture/which-bible-is-the-oldest-in-the-world/index.html[22m [2m(+2ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/scripture/where-were-the-original-books-of-the-bible-found/index.html[22m [2m(+2ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/scripture/which-books-are-missing-from-the-hebrew-bible/index.html[22m [2m(+2ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/scripture/who-compiled-the-new-testament/index.html[22m [2m(+1ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/scripture/who-made-the-first-bible-in-the-world/index.html[22m [2m(+1ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/scripture/why-is-it-called-old-testament-and-new-testament/index.html[22m [2m(+2ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/scripture/why-is-the-new-testament-written-in-greek-and-not-hebrew/index.html[22m [2m(+2ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/scripture/why-is-the-old-testament-called-the-old-testament/index.html[22m [2m(+1ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/scripture/why-is-the-old-testament-written/index.html[22m [2m(+1ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/scripture/worship-in-the-old-and-new-testament/index.html[22m [2m(+2ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/faith/10-essential-tips-for-aspiring-biblical-archaeologists/index.html[22m [2m(+2ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/faith/ancient-jewish-festival-evidence-uncovered/index.html[22m [2m(+2ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/faith/a-guide-to-evaluating-the-credibility-of-biblical-archaeological-findings/index.html[22m [2m(+2ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/faith/ancient-jewish-quarter-reveals-temple-era-commerce/index.html[22m [2m(+2ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/faith/biblical-archaeology-from-ruins-to-revelation/index.html[22m [2m(+1ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/faith/biblical-archaeology-illuminating-the-word-of-god/index.html[22m [2m(+1ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/faith/biblical-archaeology-uncovering-rare-relics-understanding-past/index.html[22m [2m(+1ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/faith/biblical-archaeology-uncovers-ancient-mysteries/index.html[22m [2m(+1ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/faith/biblical-archaeology-unearths-ancient-sacred-crafts/index.html[22m [2m(+1ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/faith/biblical-archaeologys-influence-on-modern-faith/index.html[22m [2m(+2ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/faith/biblical-period-oil-production-unearthed/index.html[22m [2m(+2ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/faith/cliff-stone-platform-a-study-of-the-apocalyptic-day-of-reckoning/index.html[22m [2m(+2ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/faith/coin-hoard-clue-analyzing-the-scribes-prophecy-of-coming-judgment/index.html[22m [2m(+1ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/faith/comparing-old-and-new-testaments-central-themes/index.html[22m [2m(+1ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/faith/date-palm-crevice-a-sanctuary-of-faith/index.html[22m [2m(+1ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/faith/dead-sea-cliffs-unlocking-the-hidden-library-of-prophetic-insights/index.html[22m [2m(+1ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/faith/decoding-ancient-myths-the-role-of-biblical-archaeology/index.html[22m [2m(+1ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/faith/decoding-ancient-technology-insights-from-biblical-archaeology/index.html[22m [2m(+1ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/faith/desert-fortress-jars-a-quest-for-purity-in-a-world-of-corruption/index.html[22m [2m(+1ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/faith/desert-hostel-stone-a-teachers-vision-of-liberation/index.html[22m [2m(+1ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/faith/desert-orchard-trough-crafting-communal-worship-in-drought-land/index.html[22m [2m(+2ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/faith/discover-notable-biblical-excavations-unearthed/index.html[22m [2m(+2ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/faith/digital-mapping-of-biblical-cities-unearthing-lost-histories/index.html[22m [2m(+2ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/faith/discovering-hidden-treasures-the-art-of-biblical-archaeology/index.html[22m [2m(+2ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/faith/effective-communication-strategies-for-biblical-archaeology/index.html[22m [2m(+2ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/faith/exciting-discoveries-await-biblical-archaeology-excavation-teams/index.html[22m [2m(+1ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/faith/exploring-ancient-languages-through-biblical-archaeology/index.html[22m [2m(+1ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/faith/exploring-ancient-religious-practices-through-biblical-archaeology/index.html[22m [2m(+1ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/faith/exploring-ethical-considerations-in-biblical-archaeological-excavations/index.html[22m [2m(+1ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/faith/exploring-the-connections-between-biblical-archaeology-and-ancient-music/index.html[22m [2m(+1ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/faith/exploring-the-depths-of-biblical-archaeology/index.html[22m [2m(+2ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/faith/exploring-the-controversies-the-role-of-biblical-archaeologists/index.html[22m [2m(+1ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/faith/exploring-the-depths-the-future-of-underwater-biblical-archaeological-research/index.html[22m [2m(+2ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/faith/exploring-the-era-of-moral-decay-the-ark-as-humanitys-last-bastion/index.html[22m [2m(+1ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/faith/exploring-the-ethical-issues-in-biblical-archaeology/index.html[22m [2m(+1ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/faith/exploring-the-first-temple-treasury/index.html[22m [2m(+1ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/faith/exploring-the-galilean-synagogue-mosaic-a-study-of-festal-rites/index.html[22m [2m(+1ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/faith/exploring-the-influence-of-biblical-archaeology-on-religious-traditions/index.html[22m [2m(+1ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/faith/exploring-the-interconnections-religion-and-biblical-archaeological-research/index.html[22m [2m(+1ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/faith/exploring-the-jericho-cellar-tapestry-a-journey-through-psalms-of-faith-under-adversity/index.html[22m [2m(+1ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/faith/exploring-the-mysteries-of-the-well-shaft-in-jericho-insights-into-ancient-ritual-cleansing/index.html[22m [2m(+2ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/faith/exploring-the-old-testaments-role-in-christianity/index.html[22m [2m(+1ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/faith/exploring-the-religious-significance-biblical-archaeologists-interpretations/index.html[22m [2m(+1ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/faith/exploring-the-roman-encampment-chamber-insights-into-minority-faiths-under-empire/index.html[22m [2m(+2ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/faith/exploring-the-secrets-of-biblical-seals/index.html[22m [2m(+2ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/faith/feast-days-and-the-ark-a-spiritual-journey-through-historical-insights/index.html[22m [2m(+2ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/faith/first-temple-market-unearthed-a-new-biblical-insight/index.html[22m [2m(+2ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/faith/first-temple-period-discovery-reveals-ancient-secrets/index.html[22m [2m(+2ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/faith/first-temple-storage-complex-unveils-ancient-organization/index.html[22m [2m(+1ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/faith/fishermans-vessel-the-role-of-water-as-purifier-in-desert-belief/index.html[22m [2m(+1ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/faith/first-temple-treasury-complex-unveiled/index.html[22m [2m(+1ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/faith/hidden-fort-corridor-the-intersection-of-wealth-and-holy-ethics/index.html[22m [2m(+2ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/faith/high-holy-psalms-the-melodic-prayer-of-priests-circling-the-ark/index.html[22m [2m(+1ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/faith/hillside-dwelling-scribal-lessons-on-preservation-of-the-law/index.html[22m [2m(+1ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/faith/how-does-biblical-archaeology-relate-to-the-interpretation-of-biblical-texts/index.html[22m [2m(+2ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/faith/jordan-slope-stone-unveiling-the-psalms-echo-in-shepherds-fragment/index.html[22m [2m(+2ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/faith/language-of-the-testaments/index.html[22m [2m(+8ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/faith/lightning-shattered-cliff-a-glimpse-of-future-peace-in-the-modern-world/index.html[22m [2m(+2ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/faith/masadas-charred-parchment-a-window-into-ancient-prayers-for-deliverance/index.html[22m [2m(+2ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/faith/priestly-protocols-the-sacred-duty-of-safeguarding-the-ark-from-unworthy-touch/index.html[22m [2m(+6ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/faith/purification-rites-an-examination-of-strict-washings-before-moving-the-ark/index.html[22m [2m(+6ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/faith/mountaintop-shrine-pilgrims-seek-echoes-of-the-arks-holiness/index.html[22m [2m(+9ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/faith/qumran-pit-of-ash-unveiling-righteous-resolve-under-extreme-trial/index.html[22m [2m(+8ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/faith/sacred-vessels-in-temple-worship-unveiled/index.html[22m [2m(+2ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/faith/shepherds-cave-discovery-unearthing-the-secrets-of-ancient-scrolls/index.html[22m [2m(+2ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/faith/temple-construction-insights-biblical-and-archaeological-connections/index.html[22m [2m(+2ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/faith/temple-mounts-hidden-tunnel-system-unveiled/index.html[22m [2m(+1ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/faith/temple-objects-reveal-ancient-ritual-practices/index.html[22m [2m(+1ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/faith/temple-storage-discoveries-in-biblical-archaeology/index.html[22m [2m(+1ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/faith/the-ancient-city-unpacking-prophecy-and-ethics-within-the-hidden-chest/index.html[22m [2m(+2ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/faith/the-archaeological-evidence-of-ancient-maritime-trade-routes/index.html[22m [2m(+3ms)[22m 
+[2m17:41:03[22m   [34m├─[39m [2m/research/faith/the-forbidden-cave-plateau-unearthing-war-time-prophecies-of-justice/index.html[22m [2m(+6ms)[22m 
+[2m17:41:04[22m   [34m├─[39m [2m/research/faith/the-fortress-vault-rumor-unraveling-sacred-items-linked-to-the-arks-contents/index.html[22m [2m(+1ms)[22m 
+[2m17:41:04[22m   [34m├─[39m [2m/research/faith/the-hidden-passageway-to-the-messianic-banquet-unearthing-biblical-secrets/index.html[22m [2m(+1ms)[22m 
+[2m17:41:04[22m   [34m├─[39m [2m/research/faith/the-impact-of-biblical-archaeologists-on-cultural-heritage-preservation/index.html[22m [2m(+2ms)[22m 
+[2m17:41:04[22m   [34m├─[39m [2m/research/faith/the-importance-of-biblical-archaeology-in-uncovering-ancient-truths/index.html[22m [2m(+1ms)[22m 
+[2m17:41:04[22m   [34m├─[39m [2m/research/faith/the-infamous-relics-famous-fakes-and-forgeries-in-biblical-archaeology/index.html[22m [2m(+1ms)[22m 
+[2m17:41:04[22m   [34m├─[39m [2m/research/faith/the-intertestamental-period-exploring-the-time-between-the-old-and-new-testaments/index.html[22m [2m(+2ms)[22m 
+[2m17:41:04[22m   [34m├─[39m [2m/research/faith/the-kings-grand-procession-unveiling-the-victory-tied-to-the-arks-presence/index.html[22m [2m(+1ms)[22m 
+[2m17:41:04[22m   [34m├─[39m [2m/research/faith/the-olive-press-cache-unveiling-temple-seals-and-scripture-lines/index.html[22m [2m(+1ms)[22m 
+[2m17:41:04[22m   [34m├─[39m [2m/research/faith/the-role-of-biblical-archaeologists-in-reconstructing-ancient-societies/index.html[22m [2m(+2ms)[22m 
+[2m17:41:04[22m   [34m├─[39m [2m/research/faith/the-significance-of-the-desert-stone-bench-in-biblical-archaeology/index.html[22m [2m(+1ms)[22m 
+[2m17:41:04[22m   [34m├─[39m [2m/research/faith/the-uncovered-secrets-most-intriguing-biblical-archaeological-discoveries/index.html[22m [2m(+2ms)[22m 
+[2m17:41:04[22m   [34m├─[39m [2m/research/faith/traders-route-unveiling-the-treasures-of-biblical-poetry-in-the-desert-library/index.html[22m [2m(+1ms)[22m 
+[2m17:41:04[22m   [34m├─[39m [2m/research/faith/tree-root-hollow-unveiling-the-ritual-freedoms-of-exile/index.html[22m [2m(+1ms)[22m 
+[2m17:41:04[22m   [34m├─[39m [2m/research/faith/uncovering-ancient-cities-through-biblical-archaeology/index.html[22m [2m(+1ms)[22m 
+[2m17:41:04[22m   [34m├─[39m [2m/research/faith/uncovering-ancient-military-strategies-through-biblical-archaeology/index.html[22m [2m(+1ms)[22m 
+[2m17:41:04[22m   [34m├─[39m [2m/research/faith/uncovering-ancient-trade-routes-through-biblical-archaeology/index.html[22m [2m(+1ms)[22m 
+[2m17:41:04[22m   [34m├─[39m [2m/research/faith/uncovering-ancient-trading-networks-through-biblical-archaeology/index.html[22m [2m(+1ms)[22m 
+[2m17:41:04[22m   [34m├─[39m [2m/research/faith/uncovering-the-mysteries-the-future-of-biblical-archaeology/index.html[22m [2m(+1ms)[22m 
+[2m17:41:04[22m   [34m├─[39m [2m/research/faith/uncovering-the-past-exploring-the-significance-of-biblical-archaeology/index.html[22m [2m(+1ms)[22m 
+[2m17:41:04[22m   [34m├─[39m [2m/research/faith/uncovering-the-secrets-of-biblical-archaeologist-arthur-cushman-mcgiffert-iii/index.html[22m [2m(+2ms)[22m 
+[2m17:41:04[22m   [34m├─[39m [2m/research/faith/understanding-biblical-archaeology-decoding-the-past/index.html[22m [2m(+1ms)[22m 
+[2m17:41:04[22m   [34m├─[39m [2m/research/faith/understanding-the-methods-of-biblical-archaeologists/index.html[22m [2m(+3ms)[22m 
+[2m17:41:04[22m   [34m├─[39m [2m/research/faith/understanding-the-old-testaments-central-themes/index.html[22m [2m(+2ms)[22m 
+[2m17:41:04[22m   [34m├─[39m [2m/research/faith/unearthed-secrets-debunking-myths-of-biblical-archaeology/index.html[22m [2m(+2ms)[22m 
+[2m17:41:04[22m   [34m├─[39m [2m/research/faith/unearthing-the-secrets-city-of-david-storage-and-the-hidden-priesthood-scrolls/index.html[22m [2m(+2ms)[22m 
+[2m17:41:04[22m   [34m├─[39m [2m/research/faith/unearthing-biblical-truths-the-impact-of-archaeology-on-modern-religious-beliefs/index.html[22m [2m(+2ms)[22m 
+[2m17:41:04[22m   [34m├─[39m [2m/research/faith/unearthing-the-secrets-discoveries-of-biblical-archaeologists/index.html[22m [2m(+2ms)[22m 
+[2m17:41:04[22m   [34m├─[39m [2m/research/faith/unearthing-the-truth-the-impact-of-biblical-archaeology-on-biblical-interpretation/index.html[22m [2m(+2ms)[22m 
+[2m17:41:04[22m   [34m├─[39m [2m/research/faith/unearthing-truth-the-battle-of-biblical-archaeologists-against-looting/index.html[22m [2m(+2ms)[22m 
+[2m17:41:04[22m   [34m├─[39m [2m/research/faith/unlocking-ancient-trade-paths-in-biblical-archaeology/index.html[22m [2m(+1ms)[22m 
+[2m17:41:04[22m   [34m├─[39m [2m/research/faith/unlocking-the-past-fundraising-strategies-for-biblical-archaeology-expeditions/index.html[22m [2m(+2ms)[22m 
+[2m17:41:04[22m   [34m├─[39m [2m/research/faith/unlocking-the-secrets-of-ancient-biblical-texts/index.html[22m [2m(+2ms)[22m 
+[2m17:41:04[22m   [34m├─[39m [2m/research/faith/unraveling-ancient-cultures-through-biblical-archaeology/index.html[22m [2m(+1ms)[22m 
+[2m17:41:04[22m   [34m├─[39m [2m/research/faith/unraveling-the-controversy-biblical-archaeologys-debated-findings/index.html[22m [2m(+2ms)[22m 
+[2m17:41:04[22m   [34m├─[39m [2m/research/faith/unraveling-the-mysteries-of-biblical-history-research/index.html[22m [2m(+2ms)[22m 
+[2m17:41:04[22m   [34m├─[39m [2m/research/faith/unraveling-the-qumran-mystery-nook-insights-into-sects-austerity-and-daily-study/index.html[22m [2m(+1ms)[22m 
+[2m17:41:04[22m   [34m├─[39m [2m/research/faith/unveiling-biblical-archaeological-finds-discovering-ancient-treasures/index.html[22m [2m(+1ms)[22m 
+[2m17:41:04[22m   [34m├─[39m [2m/research/faith/unveiling-the-bias-exploring-religious-beliefs-in-biblical-archaeology/index.html[22m [2m(+1ms)[22m 
+[2m17:41:04[22m   [34m├─[39m [2m/research/faith/unveiling-the-intriguing-world-of-biblical-archaeology-history/index.html[22m [2m(+1ms)[22m 
+[2m17:41:04[22m   [34m├─[39m [2m/research/faith/unveiling-the-mystery-of-the-collapsed-tower-over-jordan-a-liberation-fragments-significance/index.html[22m [2m(+1ms)[22m 
+[2m17:41:04[22m   [34m├─[39m [2m/research/faith/unveiling-the-secrets-the-role-of-biblical-archaeologists-in-deciphering-ancient-art-and-iconography/index.html[22m [2m(+2ms)[22m 
+[2m17:41:04[22m   [34m├─[39m [2m/research/faith/unveiling-the-women-of-ancient-societies-a-biblical-archaeological-perspective/index.html[22m [2m(+2ms)[22m 
+[2m17:41:04[22m   [34m├─[39m [2m/research/faith/watchtower-jar-navigating-sect-identity-amid-urban-faith-conflicts/index.html[22m [2m(+1ms)[22m 
+[2m17:41:04[22m   [34m├─[39m [2m/research/faith/what-are-the-archaeological-techniques/index.html[22m [2m(+1ms)[22m 
+[2m17:41:04[22m   [34m├─[39m [2m/research/faith/what-can-you-do-with-a-degree-in-biblical-studies/index.html[22m [2m(+1ms)[22m 
+[2m17:41:04[22m   [34m├─[39m [2m/research/faith/what-does-the-name-archaeology-mean/index.html[22m [2m(+1ms)[22m 
+[2m17:41:04[22m   [34m├─[39m [2m/research/faith/what-were-the-scriptures-called-in-jesus-time/index.html[22m [2m(+1ms)[22m 
+[2m17:41:04[22m   [34m├─[39m [2m/research/biblical-archaeology/10-must-visit-biblical-archaeological-sites/index.html[22m [2m(+1ms)[22m 
+[2m17:41:04[22m   [34m├─[39m [2m/research/biblical-archaeology/advanced-imaging-illuminates-ancient-hebrew-texts/index.html[22m [2m(+1ms)[22m 
+[2m17:41:04[22m   [34m├─[39m [2m/research/biblical-archaeology/analyzing-the-role-of-peer-review-in-biblical-archaeological-research/index.html[22m [2m(+1ms)[22m 
+[2m17:41:04[22m   [34m├─[39m [2m/research/biblical-archaeology/ancient-jewish-cemetery-reveals-burial-rites/index.html[22m [2m(+1ms)[22m 
+[2m17:41:04[22m   [34m├─[39m [2m/research/biblical-archaeology/angels-in-the-desert-the-en-gedi-stone-arch-and-its-significance/index.html[22m [2m(+1ms)[22m 
+[2m17:41:04[22m   [34m├─[39m [2m/research/biblical-archaeology/archaeoastronomy-uncovering-ancient-cultures-through-the-stars/index.html[22m [2m(+1ms)[22m 
+[2m17:41:04[22m   [34m├─[39m [2m/research/biblical-archaeology/are-archeology-degrees-worth-it/index.html[22m [2m(+1ms)[22m 
+[2m17:41:04[22m   [34m├─[39m [2m/research/biblical-archaeology/biblical-archaeology-and-the-dead-sea-scrolls-in-israel/index.html[22m [2m(+2ms)[22m 
+[2m17:41:04[22m   [34m├─[39m [2m/research/biblical-archaeology/biblical-archaeology-article-discovery-revealed/index.html[22m [2m(+1ms)[22m 
+[2m17:41:04[22m   [34m├─[39m [2m/research/biblical-archaeology/biblical-archaeology-discovering-ancient-temple-sites/index.html[22m [2m(+1ms)[22m 
+[2m17:41:04[22m   [34m├─[39m [2m/research/biblical-archaeology/biblical-archaeology-excavation-projects-unearth-ancient-wonders/index.html[22m [2m(+1ms)[22m 
+[2m17:41:04[22m   [34m├─[39m [2m/research/biblical-archaeology/biblical-archaeology-excavation-techniques-unraveled/index.html[22m [2m(+1ms)[22m 
+[2m17:41:04[22m   [34m├─[39m [2m/research/biblical-archaeology/biblical-archaeology-findings-shed-light-on-ancient-mysteries/index.html[22m [2m(+1ms)[22m 
+[2m17:41:04[22m   [34m├─[39m [2m/research/biblical-archaeology/biblical-archaeology-revelations-unearthing-ancient-truths/index.html[22m [2m(+1ms)[22m 
+[2m17:41:04[22m   [34m├─[39m [2m/research/biblical-archaeology/biblical-archaeology-the-mystery-of-ancient-textiles/index.html[22m [2m(+1ms)[22m 
+[2m17:41:04[22m   [34m├─[39m [2m/research/biblical-archaeology/biblical-city-destruction-evidence-aligns-with-ancient-tales/index.html[22m [2m(+1ms)[22m 
+[2m17:41:04[22m   [34m├─[39m [2m/research/biblical-archaeology/biblical-archaeology-uncovering-ancient-maritime-routes/index.html[22m [2m(+1ms)[22m 
+[2m17:41:04[22m   [34m├─[39m [2m/research/biblical-archaeology/biblical-era-trading-post-unveils-solomons-wealth/index.html[22m [2m(+1ms)[22m 
+[2m17:41:04[22m   [34m├─[39m [2m/research/biblical-archaeology/biblical-era-workshop-reveals-ancient-crafting-methods/index.html[22m [2m(+1ms)[22m 
+[2m17:41:04[22m   [34m├─[39m [2m/research/biblical-archaeology/biblical-historical-sites-unveiled/index.html[22m [2m(+2ms)[22m 
+[2m17:41:04[22m   [34m├─[39m [2m/research/biblical-archaeology/buried-wine-jar-scribes-told-to-copy-without-bias-in-ancient-texts/index.html[22m [2m(+1ms)[22m 
+[2m17:41:04[22m   [34m├─[39m [2m/research/biblical-archaeology/can-you-be-an-archaeologist-without-a-degree/index.html[22m [2m(+1ms)[22m 
+[2m17:41:04[22m   [34m├─[39m [2m/research/biblical-archaeology/cave-wall-message-unveiling-the-scribe-diaries-from-en-gedis-twilight/index.html[22m [2m(+1ms)[22m 
+[2m17:41:04[22m   [34m├─[39m [2m/research/biblical-archaeology/cherubim-light-a-symbol-of-hope-and-authority-in-biblical-context/index.html[22m [2m(+1ms)[22m 
+[2m17:41:04[22m   [34m├─[39m [2m/research/biblical-archaeology/cliffside-hollow-navigating-the-tension-between-law-and-tradition/index.html[22m [2m(+1ms)[22m 
+[2m17:41:04[22m   [34m├─[39m [2m/research/biblical-archaeology/crafting-trustworthy-articles-on-biblical-archaeology/index.html[22m [2m(+1ms)[22m 
+[2m17:41:04[22m   [34m├─[39m [2m/research/biblical-archaeology/decoding-ancient-inscriptions-unraveling-the-secrets-of-biblical-archaeology/index.html[22m [2m(+2ms)[22m 
+[2m17:41:04[22m   [34m├─[39m [2m/research/biblical-archaeology/decoding-the-enigma-challenges-of-conservation-in-biblical-archaeology/index.html[22m [2m(+1ms)[22m 
+[2m17:41:04[22m   [34m├─[39m [2m/research/biblical-archaeology/desert-fortress-the-laments-of-national-defeat-in-archaeological-context/index.html[22m [2m(+1ms)[22m 
+[2m17:41:04[22m   [34m├─[39m [2m/research/biblical-archaeology/desert-plateau-slab-the-exiled-teachers-call-to-steadfastness/index.html[22m [2m(+1ms)[22m 
+[2m17:41:04[22m   [34m├─[39m [2m/research/biblical-archaeology/desert-rain-at-ein-gedi-the-interplay-of-fragile-scrolls-and-hopeful-laments/index.html[22m [2m(+1ms)[22m 
+[2m17:41:04[22m   [34m├─[39m [2m/research/biblical-archaeology/digital-mapping-uncovers-lost-biblical-city-streets/index.html[22m [2m(+1ms)[22m 
+[2m17:41:04[22m   [34m├─[39m [2m/research/biblical-archaeology/discover-exciting-opportunities-to-support-biblical-archaeology/index.html[22m [2m(+2ms)[22m 
+[2m17:41:04[22m   [34m├─[39m [2m/research/biblical-archaeology/discoveries-in-biblical-archaeology-unearth-new-insights/index.html[22m [2m(+1ms)[22m 
+[2m17:41:04[22m   [34m├─[39m [2m/research/biblical-archaeology/discovering-history-the-temple-mount-scanning-project/index.html[22m [2m(+1ms)[22m 
+[2m17:41:04[22m   [34m├─[39m [2m/research/biblical-archaeology/discovering-the-ancient-jewish-bath-house/index.html[22m [2m(+1ms)[22m 
+[2m17:41:04[22m   [34m├─[39m [2m/research/biblical-archaeology/dna-analysis-transforms-ancient-migration-insights/index.html[22m [2m(+1ms)[22m 
+[2m17:41:04[22m   [34m├─[39m [2m/research/biblical-archaeology/donkey-kicked-boulder-a-journey-through-trials-and-tribulations/index.html[22m [2m(+1ms)[22m 
+[2m17:41:04[22m   [34m├─[39m [2m/research/biblical-archaeology/ein-gedi-fallen-stones-a-testament-of-hope-in-the-barren-sands/index.html[22m [2m(+1ms)[22m 
+[2m17:41:04[22m   [34m├─[39m [2m/research/biblical-archaeology/embracing-the-future-new-technologies-in-biblical-archaeology/index.html[22m [2m(+2ms)[22m 
+[2m17:41:04[22m   [34m├─[39m [2m/research/biblical-archaeology/essential-key-skills-for-a-career-in-biblical-archaeology/index.html[22m [2m(+2ms)[22m 
+[2m17:41:04[22m   [34m├─[39m [2m/research/biblical-archaeology/examining-the-impact-of-roland-de-vaux-on-biblical-archaeology/index.html[22m [2m(+2ms)[22m 
+[2m17:41:04[22m   [34m├─[39m [2m/research/biblical-archaeology/exciting-biblical-archaeology-excavation-discoveries-unveiled/index.html[22m [2m(+2ms)[22m 
+[2m17:41:04[22m   [34m├─[39m [2m/research/biblical-archaeology/exciting-biblical-archaeology-excavation-finds-unearthed/index.html[22m [2m(+2ms)[22m 
+[2m17:41:04[22m   [34m├─[39m [2m/research/biblical-archaeology/exploring-ancient-markets-role-in-temple-economy/index.html[22m [2m(+1ms)[22m 
+[2m17:41:04[22m   [34m├─[39m [2m/research/biblical-archaeology/exploring-biblical-archaeology-discoveries/index.html[22m [2m(+2ms)[22m 
+[2m17:41:04[22m   [34m├─[39m [2m/research/biblical-archaeology/exploring-biblical-archaeology-methods-in-ancient-sites/index.html[22m [2m(+1ms)[22m 
+[2m17:41:04[22m   [34m├─[39m [2m/research/biblical-archaeology/exploring-biblical-archaeology-uncovering-ancient-sites/index.html[22m [2m(+1ms)[22m 
+[2m17:41:04[22m   [34m├─[39m [2m/research/biblical-archaeology/exploring-hill-country-tablets-genealogies-linking-ancient-israel/index.html[22m [2m(+1ms)[22m 
+[2m17:41:04[22m   [34m├─[39m [2m/research/biblical-archaeology/exploring-jerusalem-market-crafting-fellowship-amidst-oppression/index.html[22m [2m(+1ms)[22m 
+[2m17:41:04[22m   [34m├─[39m [2m/research/biblical-archaeology/exploring-new-approaches-in-biblical-archaeology-research/index.html[22m [2m(+1ms)[22m 
+[2m17:41:04[22m   [34m├─[39m [2m/research/biblical-archaeology/exploring-side-canyon-shelter-a-journey-through-patience-and-deliverance-letters/index.html[22m [2m(+1ms)[22m 
+[2m17:41:04[22m   [34m├─[39m [2m/research/biblical-archaeology/exploring-the-ancient-world-the-most-popular-excavation-techniques-in-biblical-archaeology/index.html[22m [2m(+1ms)[22m 
+[2m17:41:04[22m   [34m├─[39m [2m/research/biblical-archaeology/exploring-the-city-of-david-cracks-insights-into-afterlife-discourse-on-tattered-scrolls/index.html[22m [2m(+2ms)[22m 
+[2m17:41:04[22m   [34m├─[39m [2m/research/biblical-archaeology/exploring-the-desert-oven-hideaway-a-study-of-sabbatical-laws-for-desert-farmers/index.html[22m [2m(+2ms)[22m 
+[2m17:41:04[22m   [34m├─[39m [2m/research/biblical-archaeology/exploring-the-desert-plateau-anomaly-unveiling-moral-farming-metaphors/index.html[22m [2m(+1ms)[22m 
+[2m17:41:04[22m   [34m├─[39m [2m/research/biblical-archaeology/exploring-the-hidden-channel-vessel-israels-redemption-reaffirmed/index.html[22m [2m(+1ms)[22m 
+[2m17:41:04[22m   [34m├─[39m [2m/research/biblical-archaeology/exploring-the-impact-of-technology-in-biblical-archaeology/index.html[22m [2m(+1ms)[22m 
+[2m17:41:04[22m   [34m├─[39m [2m/research/biblical-archaeology/exploring-the-inner-essence-the-arks-balance-of-mercy-and-justice/index.html[22m [2m(+1ms)[22m 
+[2m17:41:04[22m   [34m├─[39m [2m/research/biblical-archaeology/exploring-the-intersection-of-biblical-archaeology-and-anthropology/index.html[22m [2m(+1ms)[22m 
+[2m17:41:04[22m   [34m├─[39m [2m/research/biblical-archaeology/exploring-the-key-discoveries-of-archaeologist-kathleen-kenyon/index.html[22m [2m(+1ms)[22m 
+[2m17:41:04[22m   [34m├─[39m [2m/research/biblical-archaeology/exploring-the-key-responsibilities-of-a-biblical-archaeologist/index.html[22m [2m(+1ms)[22m 
+[2m17:41:04[22m   [34m├─[39m [2m/research/biblical-archaeology/exploring-the-key-skills-of-biblical-archaeologists/index.html[22m [2m(+1ms)[22m 
+[2m17:41:04[22m   [34m├─[39m [2m/research/biblical-archaeology/exploring-the-legacy-of-the-sandstorm-in-jericho-the-old-meeting-hall-and-pottery-traces/index.html[22m [2m(+1ms)[22m 
+[2m17:41:04[22m   [34m├─[39m [2m/research/biblical-archaeology/exploring-the-link-between-biblical-archaeology-and-ancient-clothing/index.html[22m [2m(+1ms)[22m 
+[2m17:41:04[22m   [34m├─[39m [2m/research/biblical-archaeology/exploring-the-multidisciplinary-approach-in-biblical-archaeology/index.html[22m [2m(+1ms)[22m 
+[2m17:41:04[22m   [34m├─[39m [2m/research/biblical-archaeology/exploring-the-mysteries-exciting-careers-for-biblical-archaeologists/index.html[22m [2m(+2ms)[22m 
+[2m17:41:04[22m   [34m├─[39m [2m/research/biblical-archaeology/exploring-the-power-of-collaboration-in-biblical-archaeology-research/index.html[22m [2m(+1ms)[22m 
+[2m17:41:04[22m   [34m├─[39m [2m/research/biblical-archaeology/exploring-the-remote-hill-shrine-relics-that-once-stood-beside-the-ark/index.html[22m [2m(+2ms)[22m 
+[2m17:41:04[22m   [34m├─[39m [2m/research/biblical-archaeology/exploring-the-significance-of-biblical-archaeology-in-cultural-heritage-preservation/index.html[22m [2m(+1ms)[22m 
+[2m17:41:04[22m   [34m├─[39m [2m/research/biblical-archaeology/exploring-the-techniques-employed-by-biblical-archaeologists/index.html[22m [2m(+1ms)[22m 
+[2m17:41:04[22m   [34m├─[39m [2m/research/biblical-archaeology/exploring-the-temple-era-gardens-in-biblical-archaeology/index.html[22m [2m(+2ms)[22m 
+[2m17:41:04[22m   [34m├─[39m [2m/research/biblical-archaeology/exploring-the-wadi-cliff-fish-carving-insights-from-desert-depths/index.html[22m [2m(+1ms)[22m 
+[2m17:41:04[22m   [34m├─[39m [2m/research/biblical-archaeology/famous-biblical-archaeologists-and-their-discoveries/index.html[22m [2m(+1ms)[22m 
+[2m17:41:04[22m   [34m├─[39m [2m/research/biblical-archaeology/first-temple-archive-unearths-historical-record-changes/index.html[22m [2m(+1ms)[22m 
+[2m17:41:04[22m   [34m├─[39m [2m/research/biblical-archaeology/good-samaritan-road-a-journey-of-compassion-for-wandering-souls/index.html[22m [2m(+1ms)[22m 
+[2m17:41:04[22m   [34m├─[39m [2m/research/biblical-archaeology/governing-temple-rites-the-secrets-of-the-museum-storeroom-box/index.html[22m [2m(+1ms)[22m 
+[2m17:41:04[22m   [34m├─[39m [2m/research/biblical-archaeology/ground-penetrating-radar-unveils-hidden-temple-complex/index.html[22m [2m(+1ms)[22m 
+[2m17:41:04[22m   [34m├─[39m [2m/research/biblical-archaeology/hezekiahs-tunnel-plug-unraveling-the-royal-decrees-on-stone/index.html[22m [2m(+2ms)[22m 
+[2m17:41:04[22m   [34m├─[39m [2m/research/biblical-archaeology/hidden-temple-chamber-reveals-lost-biblical-treasures/index.html[22m [2m(+1ms)[22m 
+[2m17:41:04[22m   [34m├─[39m [2m/research/biblical-archaeology/how-do-you-become-a-biblical-archaeologist/index.html[22m [2m(+1ms)[22m 
+[2m17:41:04[22m   [34m├─[39m [2m/research/biblical-archaeology/interpreting-biblical-archaeology-discoveries-for-insight/index.html[22m [2m(+1ms)[22m 
+[2m17:41:04[22m   [34m├─[39m [2m/research/biblical-archaeology/interpreting-biblical-archaeology-discoveries/index.html[22m [2m(+1ms)[22m 
+[2m17:41:04[22m   [34m├─[39m [2m/research/biblical-archaeology/interpreting-biblical-texts-with-clarity/index.html[22m [2m(+1ms)[22m 
+[2m17:41:04[22m   [34m├─[39m [2m/research/biblical-archaeology/is-there-a-degree-in-biblical-history/index.html[22m [2m(+1ms)[22m 
+[2m17:41:04[22m   [34m├─[39m [2m/research/biblical-archaeology/is-there-a-difference-between-archaeology-and-archeology/index.html[22m [2m(+6ms)[22m 
+[2m17:41:04[22m   [34m├─[39m [2m/research/biblical-archaeology/jericho-alcove-unveiling-the-complexities-of-occupation-in-ancient-texts/index.html[22m [2m(+2ms)[22m 
+[2m17:41:04[22m   [34m├─[39m [2m/research/biblical-archaeology/jericho-boundary-crack-unearthing-spiritual-unity-in-ancient-contexts/index.html[22m [2m(+1ms)[22m 
+[2m17:41:04[22m   [34m├─[39m [2m/research/biblical-archaeology/jordan-clay-pots-unearthing-the-day-of-reckoning-in-fragments/index.html[22m [2m(+1ms)[22m 
+[2m17:41:04[22m   [34m├─[39m [2m/research/biblical-archaeology/joyous-festival-processions-at-the-city-sewer-grate-chamber/index.html[22m [2m(+1ms)[22m 
+[2m17:41:04[22m   [34m├─[39m [2m/research/biblical-archaeology/keys-to-successful-collaboration-on-biblical-archaeology-projects-with-local-communities/index.html[22m [2m(+1ms)[22m 
+[2m17:41:04[22m   [34m├─[39m [2m/research/biblical-archaeology/mapping-the-priestly-lineages-of-qumran-old-crates-on-parchment/index.html[22m [2m(+1ms)[22m 
+[2m17:41:04[22m   [34m├─[39m [2m/research/biblical-archaeology/maps-of-ancient-commerce-in-the-biblical-era/index.html[22m [2m(+1ms)[22m 
+[2m17:41:04[22m   [34m├─[39m [2m/research/biblical-archaeology/modern-insights-into-biblical-archaeology-discoveries/index.html[22m [2m(+1ms)[22m 
+[2m17:41:04[22m   [34m├─[39m [2m/research/biblical-archaeology/monastery-remains-exploring-compassion-as-devotions-highest-ideal/index.html[22m [2m(+1ms)[22m 
+[2m17:41:04[22m   [34m├─[39m [2m/research/biblical-archaeology/monastic-heirloom-chest-unearthing-prophetic-insights-from-the-desert/index.html[22m [2m(+2ms)[22m 
+[2m17:41:04[22m   [34m├─[39m [2m/research/biblical-archaeology/navigating-political-challenges-in-middle-eastern-biblical-archaeology/index.html[22m [2m(+2ms)[22m 
+[2m17:41:04[22m   [34m├─[39m [2m/research/biblical-archaeology/new-dating-technology-in-biblical-archaeology/index.html[22m [2m(+1ms)[22m 
+[2m17:41:04[22m   [34m├─[39m [2m/research/biblical-archaeology/old-marketplace-entry-decoding-the-sacred-passages-in-times-of-crisis/index.html[22m [2m(+2ms)[22m 
+[2m17:41:04[22m   [34m├─[39m [2m/research/biblical-archaeology/preparing-for-fieldwork-strategies-and-techniques-in-biblical-archaeology/index.html[22m [2m(+2ms)[22m 
+[2m17:41:04[22m   [34m├─[39m [2m/research/biblical-archaeology/preserving-biblical-archaeological-sites-best-practices-revealed/index.html[22m [2m(+1ms)[22m 
+[2m17:41:04[22m   [34m├─[39m [2m/research/biblical-archaeology/preserving-cultural-heritage-strategies-for-dealing-with-looting-and-illicit-trade-in-biblical-archaeology/index.html[22m [2m(+2ms)[22m 
+[2m17:41:04[22m   [34m├─[39m [2m/research/biblical-archaeology/prophets-assurance-unveiling-the-law-behind-the-arks-true-power/index.html[22m [2m(+1ms)[22m 
+[2m17:41:04[22m   [34m├─[39m [2m/research/biblical-archaeology/qumran-broken-ladder-navigating-conflict-resolution-for-desert-saints/index.html[22m [2m(+1ms)[22m 
+[2m17:41:04[22m   [34m├─[39m [2m/research/biblical-archaeology/qumran-cave-revisited-unveiling-cord-bound-texts-on-ritual-purity/index.html[22m [2m(+1ms)[22m 
+[2m17:41:04[22m   [34m├─[39m [2m/research/biblical-archaeology/qumran-storage-surprise-unveiling-ascetic-confessions/index.html[22m [2m(+1ms)[22m 
+[2m17:41:04[22m   [34m├─[39m [2m/research/biblical-archaeology/ravine-echoes-a-journey-through-festival-music-in-a-desert-shrine/index.html[22m [2m(+1ms)[22m 
+[2m17:41:04[22m   [34m├─[39m [2m/research/biblical-archaeology/recent-biblical-archaeological-discoveries-shed-new-light-on-ancient-mysteries/index.html[22m [2m(+1ms)[22m 
+[2m17:41:04[22m   [34m├─[39m [2m/research/biblical-archaeology/revolutionizing-biblical-archaeology-research-with-innovations/index.html[22m [2m(+1ms)[22m 
+[2m17:41:04[22m   [34m├─[39m [2m/research/biblical-archaeology/royal-chronicles-an-expedition-into-arks-travels-to-outlying-territories/index.html[22m [2m(+1ms)[22m 
+[2m17:41:04[22m   [34m├─[39m [2m/research/biblical-archaeology/rural-jericho-dwelling-insights-into-scribal-school-practices-and-labor-laws/index.html[22m [2m(+2ms)[22m 
+[2m17:41:04[22m   [34m├─[39m [2m/research/biblical-archaeology/royal-seals-unearthed-from-the-first-temple-period/index.html[22m [2m(+2ms)[22m 
+[2m17:41:04[22m   [34m├─[39m [2m/research/biblical-archaeology/scientific-analysis-of-temple-artifacts-and-biblical-insights/index.html[22m [2m(+1ms)[22m 
+[2m17:41:04[22m   [34m├─[39m [2m/research/biblical-archaeology/scientific-dating-in-biblical-archaeology-coin-insights/index.html[22m [2m(+1ms)[22m 
+[2m17:41:04[22m   [34m├─[39m [2m/research/biblical-archaeology/solomons-economic-power-unveiled-through-biblical-trading-post/index.html[22m [2m(+1ms)[22m 
+[2m17:41:04[22m   [34m├─[39m [2m/research/biblical-archaeology/solomons-lost-harbor-unearthing-a-maritime-trade-empire/index.html[22m [2m(+1ms)[22m 
+[2m17:41:04[22m   [34m├─[39m [2m/research/biblical-archaeology/solomons-lost-quarries-unveiled-revelations-in-temple-construction/index.html[22m [2m(+1ms)[22m 
+[2m17:41:04[22m   [34m├─[39m [2m/research/biblical-archaeology/steps-for-conducting-a-proper-excavation-in-biblical-archaeology/index.html[22m [2m(+1ms)[22m 
+[2m17:41:04[22m   [34m├─[39m [2m/research/biblical-archaeology/steps-to-becoming-a-biblical-archaeologist/index.html[22m [2m(+1ms)[22m 
+[2m17:41:04[22m   [34m├─[39m [2m/research/biblical-archaeology/stone-paving-echo-unveiling-the-rituals-of-the-past/index.html[22m [2m(+1ms)[22m 
+[2m17:41:04[22m   [34m├─[39m [2m/research/biblical-archaeology/storage-cave-debris-unveiling-the-secrets-of-ancient-conformity/index.html[22m [2m(+1ms)[22m 
+[2m17:41:04[22m   [34m├─[39m [2m/research/biblical-archaeology/the-chosen-leader-unifying-the-scattered-around-the-qumran-collapsed-wall/index.html[22m [2m(+1ms)[22m 
+[2m17:41:04[22m   [34m├─[39m [2m/research/biblical-archaeology/the-distant-queens-visit-unearthing-the-gifts-offered-to-behold-arks-glory/index.html[22m [2m(+1ms)[22m 
+[2m17:41:04[22m   [34m├─[39m [2m/research/biblical-archaeology/the-golden-ark-lid-unraveling-legends-of-unseen-glory/index.html[22m [2m(+1ms)[22m 
+[2m17:41:04[22m   [34m├─[39m [2m/research/biblical-archaeology/the-haunted-echoes-of-the-abandoned-stable-letters-from-the-past/index.html[22m [2m(+1ms)[22m 
+[2m17:41:04[22m   [34m├─[39m [2m/research/biblical-archaeology/the-jordan-crossing-miracle-unveiling-the-waters-yielding-to-the-ark-bearing-priests/index.html[22m [2m(+1ms)[22m 
+[2m17:41:04[22m   [34m├─[39m [2m/research/biblical-archaeology/the-outer-qumran-wall-collapse-an-exploration-of-covenant-curses-in-deuteronomy/index.html[22m [2m(+1ms)[22m 
+[2m17:41:04[22m   [34m├─[39m [2m/research/biblical-archaeology/the-power-of-interdisciplinary-collaboration-in-biblical-archaeology/index.html[22m [2m(+1ms)[22m 
+[2m17:41:04[22m   [34m├─[39m [2m/research/biblical-archaeology/the-role-of-statistical-analysis-in-biblical-archaeological-research/index.html[22m [2m(+1ms)[22m 
+[2m17:41:04[22m   [34m├─[39m [2m/research/biblical-archaeology/the-sealed-jar-with-no-opening-a-flowing-prophecy-like-spring-water/index.html[22m [2m(+1ms)[22m 
+[2m17:41:04[22m   [34m├─[39m [2m/research/biblical-archaeology/the-secret-hideout-unveiling-the-chest-of-prophecy-debates-in-wartime/index.html[22m [2m(+1ms)[22m 
+[2m17:41:04[22m   [34m├─[39m [2m/research/biblical-archaeology/the-subterranean-jar-unraveling-farming-laws-for-desert-life-in-jerusalem/index.html[22m [2m(+1ms)[22m 
+[2m17:41:04[22m   [34m├─[39m [2m/research/biblical-archaeology/the-ultimate-beginners-guide-to-biblical-archaeology/index.html[22m [2m(+1ms)[22m 
+[2m17:41:04[22m   [34m├─[39m [2m/research/biblical-archaeology/the-ultimate-guide-to-the-best-tools-for-biblical-archaeologists/index.html[22m [2m(+1ms)[22m 
+[2m17:41:04[22m   [34m├─[39m [2m/research/biblical-archaeology/the-unearthing-of-ancient-temples-a-biblical-archaeological-expedition/index.html[22m [2m(+2ms)[22m 
+[2m17:41:04[22m   [34m├─[39m [2m/research/biblical-archaeology/top-5-historical-locations-for-biblical-archaeological-excavations/index.html[22m [2m(+2ms)[22m 
+[2m17:41:04[22m   [34m├─[39m [2m/research/biblical-archaeology/uncharted-qumran-passage-a-journey-into-the-mysteries-of-the-dead-sea-scrolls/index.html[22m [2m(+2ms)[22m 
+[2m17:41:04[22m   [34m├─[39m [2m/research/biblical-archaeology/uncovering-ancient-secrets-biblical-archaeology-reveals-shipwrecks/index.html[22m [2m(+2ms)[22m 
+[2m17:41:04[22m   [34m├─[39m [2m/research/biblical-archaeology/uncovering-ancient-textile-production-through-biblical-archaeology/index.html[22m [2m(+2ms)[22m 
+[2m17:41:04[22m   [34m├─[39m [2m/research/biblical-archaeology/uncovering-nelson-gluecks-archaeological-legacy/index.html[22m [2m(+1ms)[22m 
+[2m17:41:04[22m   [34m├─[39m [2m/research/biblical-archaeology/uncovering-the-past-the-intersection-of-biblical-archaeology-and-geography/index.html[22m [2m(+1ms)[22m 
+[2m17:41:04[22m   [34m├─[39m [2m/research/biblical-archaeology/uncovering-rare-finds-in-biblical-archaeology/index.html[22m [2m(+2ms)[22m 
+[2m17:41:04[22m   [34m├─[39m [2m/research/biblical-archaeology/uncovering-the-secrets-biblical-archaeology-and-its-connection-to-biblical-texts/index.html[22m [2m(+2ms)[22m 
+[2m17:41:04[22m   [34m├─[39m [2m/research/biblical-archaeology/understanding-the-contrast-approaches-of-biblical-archaeologists-and-biblical-scholars/index.html[22m [2m(+1ms)[22m 
+[2m17:41:04[22m   [34m├─[39m [2m/research/biblical-archaeology/unearthing-ancient-environmental-adaptations-through-biblical-archaeology/index.html[22m [2m(+2ms)[22m 
+[2m17:41:04[22m   [34m├─[39m [2m/research/biblical-archaeology/unearthing-ancient-lineages-how-biblical-archaeologists-utilize-dna-analysis/index.html[22m [2m(+2ms)[22m 
+[2m17:41:04[22m   [34m├─[39m [2m/research/biblical-archaeology/unearthing-ancient-livestock-a-closer-look-at-biblical-archaeology/index.html[22m [2m(+1ms)[22m 
+[2m17:41:04[22m   [34m├─[39m [2m/research/biblical-archaeology/unearthing-ancient-stone-tools-insights-from-biblical-archaeology/index.html[22m [2m(+2ms)[22m 
+[2m17:41:04[22m   [34m├─[39m [2m/research/biblical-archaeology/unearthing-the-ancient-food-and-agriculture-practices-through-biblical-archaeology/index.html[22m [2m(+2ms)[22m 
+[2m17:41:04[22m   [34m├─[39m [2m/research/biblical-archaeology/unearthing-the-ein-gedi-cave-flood-pottery-and-purity-rites-explored/index.html[22m [2m(+1ms)[22m 
+[2m17:41:04[22m   [34m├─[39m [2m/research/biblical-archaeology/unearthing-the-engineering-marvels-of-biblical-times/index.html[22m [2m(+1ms)[22m 
+[2m17:41:04[22m   [34m├─[39m [2m/research/biblical-archaeology/unearthing-the-legacies-prominent-women-in-biblical-archaeology/index.html[22m [2m(+1ms)[22m 
+[2m17:41:04[22m   [34m├─[39m [2m/research/biblical-archaeology/unearthing-the-most-important-biblical-digs/index.html[22m [2m(+1ms)[22m 
+[2m17:41:04[22m   [34m├─[39m [2m/research/biblical-archaeology/unearthing-the-mysteries-ancient-civilizations-and-biblical-archaeology/index.html[22m [2m(+1ms)[22m 
+[2m17:41:04[22m   [34m├─[39m [2m/research/biblical-archaeology/unearthing-the-past-how-biblical-archaeologists-piece-together-history/index.html[22m [2m(+1ms)[22m 
+[2m17:41:04[22m   [34m├─[39m [2m/research/biblical-archaeology/unearthing-the-past-the-future-of-biblical-archaeology/index.html[22m [2m(+2ms)[22m 
+[2m17:41:04[22m   [34m├─[39m [2m/research/biblical-archaeology/unearthing-the-secrets-biblical-archaeology-reveals-ancient-burial-practices/index.html[22m [2m(+1ms)[22m 
+[2m17:41:04[22m   [34m├─[39m [2m/research/biblical-archaeology/unearthing-the-significance-the-importance-of-context-in-biblical-archaeology/index.html[22m [2m(+1ms)[22m 
+[2m17:41:04[22m   [34m├─[39m [2m/research/biblical-archaeology/unearthing-truth-the-debate-over-the-reliability-of-biblical-archaeological-evidence/index.html[22m [2m(+2ms)[22m 
+[2m17:41:04[22m   [34m├─[39m [2m/research/biblical-archaeology/unraveling-the-mysteries-common-challenges-faced-by-biblical-archaeologists/index.html[22m [2m(+2ms)[22m 
+[2m17:41:04[22m   [34m├─[39m [2m/research/biblical-archaeology/unveiling-ancient-coins-in-biblical-archaeology/index.html[22m [2m(+1ms)[22m 
+[2m17:41:04[22m   [34m├─[39m [2m/research/biblical-archaeology/unveiling-remarkable-biblical-archaeology-discoveries-list/index.html[22m [2m(+1ms)[22m 
+[2m17:41:04[22m   [34m├─[39m [2m/research/biblical-archaeology/unveiling-the-ancient-secrets-biblical-archaeology-reveals-the-origins-of-biblical-stories/index.html[22m [2m(+1ms)[22m 
+[2m17:41:04[22m   [34m├─[39m [2m/research/biblical-archaeology/unveiling-the-discoveries-the-process-of-documenting-findings-in-biblical-archaeology/index.html[22m [2m(+2ms)[22m 
+[2m17:41:04[22m   [34m├─[39m [2m/research/biblical-archaeology/unveiling-the-jericho-underground-ramp-a-study-of-covenant-bonds-in-desert-shelters/index.html[22m [2m(+28ms)[22m 
+[2m17:41:04[22m   [34m├─[39m [2m/research/biblical-archaeology/unveiling-the-past-biblical-period-dating-methods/index.html[22m [2m(+1ms)[22m 
+[2m17:41:04[22m   [34m├─[39m [2m/research/biblical-archaeology/unveiling-the-secrets-of-biblical-archaeology-through-isotope-analysis/index.html[22m [2m(+1ms)[22m 
+[2m17:41:04[22m   [34m├─[39m [2m/research/biblical-archaeology/unveiling-the-secrets-the-role-of-biblical-archaeologists-in-unraveling-ancient-scriptures/index.html[22m [2m(+1ms)[22m 
+[2m17:41:04[22m   [34m├─[39m [2m/research/biblical-archaeology/what-are-the-methods-used-in-biblical-archaeology/index.html[22m [2m(+1ms)[22m 
+[2m17:41:04[22m   [34m├─[39m [2m/research/biblical-archaeology/ways-to-involve-the-public-in-the-discoveries-of-biblical-archaeology/index.html[22m [2m(+1ms)[22m 
+[2m17:41:04[22m   [34m├─[39m [2m/research/biblical-archaeology/what-are-the-most-recent-archaeological-discoveries-in-2023/index.html[22m [2m(+1ms)[22m 
+[2m17:41:04[22m   [34m├─[39m [2m/research/biblical-archaeology/what-are-the-oldest-biblical-manuscripts-found/index.html[22m [2m(+1ms)[22m 
+[2m17:41:04[22m   [34m├─[39m [2m/research/biblical-archaeology/what-are-the-techniques-used-in-archaeological-fieldwork/index.html[22m [2m(+1ms)[22m 
+[2m17:41:04[22m   [34m├─[39m [2m/research/biblical-archaeology/what-are-the-techniques-used-in-archaeology-surveying/index.html[22m [2m(+1ms)[22m 
+[2m17:41:04[22m   [34m├─[39m [2m/research/biblical-archaeology/what-is-the-course-on-biblical-archeology/index.html[22m [2m(+1ms)[22m 
+[2m17:41:04[22m   [34m├─[39m [2m/research/biblical-archaeology/what-is-the-difference-between-archaeology-and-archeology/index.html[22m [2m(+1ms)[22m 
+[2m17:41:04[22m   [34m├─[39m [2m/research/biblical-archaeology/what-is-the-difference-between-archeological-and-archaeological/index.html[22m [2m(+1ms)[22m 
+[2m17:41:04[22m   [34m├─[39m [2m/research/biblical-archaeology/what-is-the-difference-between-archeology-and-historical-archeology/index.html[22m [2m(+1ms)[22m 
+[2m17:41:04[22m   [34m├─[39m [2m/research/biblical-archaeology/what-is-the-earliest-archeological-evidence-of-the-israelites/index.html[22m [2m(+1ms)[22m 
+[2m17:41:04[22m   [34m├─[39m [2m/research/biblical-archaeology/what-is-the-meaning-of-biblical-archaeology/index.html[22m [2m(+1ms)[22m 
+[2m17:41:04[22m   [34m├─[39m [2m/research/biblical-archaeology/what-is-the-most-recent-archaeological-discovery-2023/index.html[22m [2m(+1ms)[22m 
+[2m17:41:04[22m   [34m├─[39m [2m/research/biblical-archaeology/what-is-the-oldest-archaeological-evidence-of-israel/index.html[22m [2m(+1ms)[22m 
+[2m17:41:04[22m   [34m├─[39m [2m/research/biblical-archaeology/what-is-the-oldest-archaeological-find-in-israel/index.html[22m [2m(+1ms)[22m 
+[2m17:41:04[22m   [34m├─[39m [2m/research/biblical-archaeology/what-is-the-study-of-archeology-called/index.html[22m [2m(+1ms)[22m 
+[2m17:41:04[22m   [34m├─[39m [2m/research/biblical-archaeology/what-is-the-study-of-biblical-archeology/index.html[22m [2m(+1ms)[22m 
+[2m17:41:04[22m   [34m├─[39m [2m/research/biblical-archaeology/what-techniques-did-archaeologists-use/index.html[22m [2m(+1ms)[22m 
+[2m17:41:04[22m   [34m├─[39m [2m/research/biblical-archaeology/what-techniques-do-archaeologists-use-to-survey/index.html[22m [2m(+1ms)[22m 
+[2m17:41:04[22m   [34m├─[39m [2m/research/biblical-archaeology/why-are-there-two-different-spellings-archaeology-and-archeology/index.html[22m [2m(+2ms)[22m 
+[2m17:41:04[22m   [34m├─[39m [2m/research/biblical-archaeology/why-is-archaeology-called-archaeology/index.html[22m [2m(+1ms)[22m 
+[2m17:41:04[22m   [34m└─[39m [2m/research/biblical-archaeology/windstorm-in-judean-valley-a-call-for-moral-renewal/index.html[22m [2m(+1ms)[22m 
+[2m17:41:04[22m [32m▶[39m src/pages/research/[category]/index.astro
+[2m17:41:04[22m   [34m├─[39m [2m/research/artifacts/index.html[22m [2m(+2ms)[22m 
+[2m17:41:04[22m   [34m├─[39m [2m/research/excavations/index.html[22m [2m(+2ms)[22m 
+[2m17:41:04[22m   [34m├─[39m [2m/research/scripture/index.html[22m [2m(+2ms)[22m 
+[2m17:41:04[22m   [34m├─[39m [2m/research/faith/index.html[22m [2m(+2ms)[22m 
+[2m17:41:04[22m   [34m└─[39m [2m/research/biblical-archaeology/index.html[22m [2m(+2ms)[22m 
+[2m17:41:04[22m [32m▶[39m src/pages/research/index.astro
+[2m17:41:04[22m   [34m└─[39m [2m/research/index.html[22m [2m(+10ms)[22m 
+[2m17:41:04[22m [32m▶[39m src/pages/routes/[slug].astro
+[2m17:41:04[22m   [34m├─[39m [2m/routes/abraham-path/index.html[22m [2m(+2ms)[22m 
+[2m17:41:04[22m   [34m├─[39m [2m/routes/camino-de-santiago/index.html[22m [2m(+2ms)[22m 
+[2m17:41:04[22m   [34m├─[39m [2m/routes/kora-mount-kailash/index.html[22m [2m(+1ms)[22m 
+[2m17:41:04[22m   [34m├─[39m [2m/routes/hajj-route/index.html[22m [2m(+1ms)[22m 
+[2m17:41:04[22m   [34m├─[39m [2m/routes/kumano-kodo/index.html[22m [2m(+1ms)[22m 
+[2m17:41:04[22m   [34m├─[39m [2m/routes/shikoku-88-temples/index.html[22m [2m(+1ms)[22m 
+[2m17:41:04[22m   [34m├─[39m [2m/routes/st-olavs-way/index.html[22m [2m(+1ms)[22m 
+[2m17:41:04[22m   [34m├─[39m [2m/routes/temple-mount-ascent/index.html[22m [2m(+2ms)[22m 
+[2m17:41:04[22m   [34m├─[39m [2m/routes/umrah/index.html[22m [2m(+2ms)[22m 
+[2m17:41:04[22m   [34m└─[39m [2m/routes/via-francigena/index.html[22m [2m(+1ms)[22m 
+[2m17:41:04[22m [32m▶[39m src/pages/routes/index.astro
+[2m17:41:04[22m   [34m└─[39m [2m/routes/index.html[22m [2m(+3ms)[22m 
+[2m17:41:04[22m [32m▶[39m src/pages/stories/[slug].astro
+[2m17:41:04[22m   [34m├─[39m [2m/stories/egeria-first-pilgrim-writer/index.html[22m [2m(+2ms)[22m 
+[2m17:41:04[22m   [34m├─[39m [2m/stories/ibn-battuta-pilgrim-traveler/index.html[22m [2m(+1ms)[22m 
+[2m17:41:04[22m   [34m├─[39m [2m/stories/helena-and-the-true-cross/index.html[22m [2m(+1ms)[22m 
+[2m17:41:04[22m   [34m├─[39m [2m/stories/kobo-daishi-shikoku/index.html[22m [2m(+2ms)[22m 
+[2m17:41:04[22m   [34m├─[39m [2m/stories/legend-of-saint-james/index.html[22m [2m(+1ms)[22m 
+[2m17:41:04[22m   [34m├─[39m [2m/stories/margery-kempe-medieval-pilgrim/index.html[22m [2m(+1ms)[22m 
+[2m17:41:04[22m   [34m├─[39m [2m/stories/xuanzang-buddhist-pilgrim/index.html[22m [2m(+1ms)[22m 
+[2m17:41:04[22m   [34m└─[39m [2m/stories/rabbi-nachman-journey-to-israel/index.html[22m [2m(+1ms)[22m 
+[2m17:41:04[22m [32m▶[39m src/pages/stories/index.astro
+[2m17:41:04[22m   [34m└─[39m [2m/stories/index.html[22m [2m(+2ms)[22m 
+[2m17:41:04[22m [32m▶[39m src/pages/terms.astro
+[2m17:41:04[22m   [34m└─[39m [2m/terms/index.html[22m [2m(+1ms)[22m 
+[2m17:41:04[22m [32m▶[39m src/pages/index.astro
+[2m17:41:04[22m   [34m└─[39m [2m/index.html[22m [2m(+10ms)[22m 
+[2m17:41:04[22m [32m✓ Completed in 1.71s.
+[39m
+[2m17:41:04[22m [34m[@astrojs/sitemap][39m `sitemap-index.xml` created at `dist`
+[2m17:41:04[22m [34m[build][39m 751 page(s) built in [1m7.89s[22m
+[2m17:41:04[22m [34m[build][39m [1mComplete![22m
+​
+(build.command completed in 10s)
+
+Deploying to Netlify
+────────────────────────────────────────────────────────────────
+
+[32mDeploy path: [39m       D:\dev\projects\diggingscriptures\dist
+[32mConfiguration path: [39mD:\dev\projects\diggingscriptures\netlify.toml
+
+[33m⠋[39m Uploading blobs to deploy store...
+
+[32m✔[39m Finished uploading blobs to deploy store
+[33m⠋[39m Hashing files...
+[33m⠋[39m Looking for a functions cache...
+[32m✔[39m No cached functions were found
+[32m✔[39m Finished hashing 
+[33m⠋[39m CDN diffing files...
+[32m✔[39m CDN requesting 763 files
+[33m⠋[39m Uploading 1085 files
+[32m✔[39m Finished uploading 1085 assets
+[33m⠋[39m Waiting for deploy to go live...
+[32m✔[39m Deploy is live!
+​
+Netlify Build Complete                                        
+────────────────────────────────────────────────────────────────
+​
+(Netlify Build completed in 55.1s)
+
+🚀 Deploy complete
+────────────────────────────────────────────────────────────────
+
+   ╭────────────────── ⬥  Production deploy is live ⬥  ──────────────────╮
+   │                                                                     │
+   │      Deployed to production URL: https://diggingscriptures.com      │
+   │                                                                     │
+   │                         Unique deploy URL:                          │
+   │   https://69a4ce7f0e9e7d0b5ec6a6b2--diggingscriptures.netlify.app   │
+   │                                                                     │
+   ╰─────────────────────────────────────────────────────────────────────╯
+
+[32mBuild logs: [39m        https://app.netlify.com/projects/diggingscriptures/deploys/69a4ce7f0e9e7d0b5ec6a6b2
+[32mFunction logs: [39m     https://app.netlify.com/projects/diggingscriptures/logs/functions
+[32mEdge function Logs: [39mhttps://app.netlify.com/projects/diggingscriptures/logs/edge-functions

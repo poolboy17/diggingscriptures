@@ -1,0 +1,446 @@
+Loading articles and building clusters...
+  680 articles, 63 clusters
+
+======================================================================
+  SILO MAPPER ANALYSIS
+======================================================================
+  Total articles:   680
+  Pillars:          54
+  Support:          626
+  Total clusters:   63
+
+
+  --- biblical-archaeology (190 articles, 15 clusters) ---
+
+    [biblical-archaeological] (44 articles, avg 1943w)
+      * PILLAR: The Unearthing of Ancient Temples: a Biblical Archaeological (3323w)
+        - 10 Must-Visit Biblical Archaeological Sites (3260w)
+        - Analyzing the Role of Peer Review in Biblical Archaeological (2613w)
+        - Preserving Biblical Archaeological Sites: Best Practices Revealed (2171w)
+        ... +40 more
+
+    [biblical-archaeology] (36 articles, avg 2013w)
+      * PILLAR: Unearthing Ancient Environmental Adaptations Through Biblical (4580w)
+        - Biblical Archaeology Article Discovery Revealed (1084w)
+        - Biblical Archaeology Findings Shed Light on Ancient Mysteries (1391w)
+        - Biblical Archaeology Revelations: Unearthing Ancient Truths (1535w)
+        ... +32 more
+
+    [archaeology-excavation] (21 articles, avg 1536w)
+      * PILLAR: Preparing for Fieldwork: Strategies and Techniques in Biblical (2990w)
+        - Biblical Archaeology Excavation Projects Unearth Ancient Wonders (1318w)
+        - Biblical Archaeology Excavation Techniques Unraveled (1490w)
+        - Exciting Biblical Archaeology Excavation Discoveries Unveiled (1416w)
+        ... +17 more
+
+    [ancient-secrets] (13 articles, avg 1668w)
+      * PILLAR: Decoding Ancient Inscriptions: Unraveling the Secrets of (2565w)
+        - Unlocking En Gedis Ancient Secrets: A Deep Dive into Scribe (1647w)
+        - Jerichos Hidden Past: Unearthing Ancient Secrets of (1631w)
+        - Unearthing Ancient Secrets: The Spiritual Unity of (1831w)
+        ... +9 more
+
+    [discover-ancient] (10 articles, avg 1335w)
+      * PILLAR: Temple Wonders: 5 Hidden Rituals That Shaped Ancient Spirituality (1714w)
+        - Discover Ancient Israel: Unveiling the Secrets of Hill-Country (1653w)
+        - Discover Ancient Temple Secrets with Ground-Penetrating Radar (1271w)
+        - Discover Ancient Rituals: Unearthing History Through Stone Paving (1407w)
+        ... +6 more
+
+    [biblical-archaeologists] (10 articles, avg 1947w)
+      * PILLAR: Unveiling the Secrets: the Role of Biblical Archaeologists in (3278w)
+        - Exploring the key Skills of Biblical Archaeologists (1886w)
+        - Exploring the Techniques Employed by Biblical Archaeologists (2474w)
+        - Famous Biblical Archaeologists and Their Discoveries (1168w)
+        ... +6 more
+
+    [unlocking-ancient] (9 articles, avg 1398w)
+      * PILLAR: Unlocking Biblical Secrets: A Deep Dive into Ancient Scrolls (1966w)
+        - Unlocking Ancient Scrolls: A Fascinating Journey into (1716w)
+        - Unlocking Ancient Secrets: the Role of Coins in Biblical (1144w)
+        - Unlocking Ancient Tales: How History Fought Against Conformity (1692w)
+        ... +5 more
+
+    [archaeology-ancient] (8 articles, avg 1919w)
+      * PILLAR: Exploring Biblical Archaeology: Uncovering Ancient Sites (3647w)
+        - Biblical Archaeology: Uncovering Ancient Maritime Routes (1393w)
+        - Exploring the Link Between Biblical Archaeology and Ancient (1142w)
+        - Explore Biblical Archaeology: Unveiling Ancient Secrets in the (1446w)
+        ... +4 more
+
+    [archaeology-reveals] (8 articles, avg 1575w)
+      * PILLAR: Unveiling the Ancient Secrets: Biblical Archaeology Reveals the (3207w)
+        - Uncovering Ancient Secrets: Biblical Archaeology Reveals (1480w)
+        - Unearthing the Secrets: Biblical Archaeology Reveals Ancient (1108w)
+        - Unearthing Ancient Wisdom: How Biblical Archaeology Reveals (1703w)
+        ... +4 more
+
+    [biblical-archaeologist] (6 articles, avg 2011w)
+      * PILLAR: Exploring the key Responsibilities of a Biblical Archaeologist (3784w)
+        - How do you Become a Biblical Archaeologist? (1258w)
+        - Steps to Becoming a Biblical Archaeologist (1774w)
+        - Can you be an Archaeologist Without a Degree? (1313w)
+        ... +2 more
+
+    [archaeology-archeology] (6 articles, avg 1296w)
+        - Is There a Difference Between Archaeology and Archeology? (1270w)
+        - What is the Difference Between Archaeology and Archeology? (1357w)
+        - Why are There two Different Spellings Archaeology and Archeology? (1298w)
+        ... +3 more
+
+    [latest-research] (6 articles, avg 1933w)
+      * PILLAR: Exploring new Approaches in Biblical Archaeology Research (3229w)
+        - Latest Research Deciphers the Divine Legacy of the Ancient Ark (1314w)
+        - Essenes Unearthed: Latest Research Breathes new Life into Ancient (1651w)
+        - Latest Research Connects Biblical Archaeology with Ancient (1611w)
+        ... +2 more
+
+    [ancient-biblical] (5 articles, avg 1654w)
+      * PILLAR: The Power of Interdisciplinary Collaboration in Biblical (2208w)
+        - Discover Ancient Biblical Archaeology: Unveiling Wisdom (1714w)
+        - Unveiling Ancient Biblical Streets: the Power of Digital Mapping (1225w)
+        - Unveiling Ancient Biblical Rituals: Qumran's Purity Secrets (1741w)
+        ... +1 more
+
+    [archaeology-discoveries] (4 articles, avg 1242w)
+        - Exploring Biblical Archaeology Discoveries (1182w)
+        - Modern Insights into Biblical Archaeology Discoveries (1091w)
+        - Unveiling Remarkable Biblical Archaeology Discoveries List (1396w)
+        ... +1 more
+
+    [ancient-wisdom] (4 articles, avg 1572w)
+      * PILLAR: Discover Ancient Wisdom: Unveiling Secrets of the Monastic (1645w)
+        - Unearth Ancient Wisdom: Navigating Modern Crises with Sacred (1497w)
+        - Uncover Ancient Wisdom: Qumrans Timeless Conflict (1612w)
+        - Qumrans Secrets: Deuteronomy Curses and the Fallen Wall Mystery (1536w)
+
+  --- scripture (127 articles, 15 clusters) ---
+
+    [books-written] (35 articles, avg 2385w)
+      * PILLAR: Exploring the old Testament Through a Cultural Lens (5255w)
+        - Are all new Testament Books Written in Greek? (3764w)
+        - Old Testament Books Written in Aramaic (2214w)
+        - Were the new Testament Books Written in Hebrew? (2733w)
+        ... +31 more
+
+    [ancient-hebrew] (13 articles, avg 1363w)
+      * PILLAR: Biblical Archaeology: Unlocking the Secrets of Ancient Scripture (2679w)
+        - Ancient Hebrew Army Camp Discovery Unveils Biblical History (1135w)
+        - Unveiling Ancient Hebrew Tactics: a Deep Dive into Biblical (1156w)
+        - Ancient Hebrew Scripts and Their Impact on Biblical Timelines (1169w)
+        ... +9 more
+
+    [testament-testament] (10 articles, avg 4657w)
+      * PILLAR: Why is it Called old Testament and new Testament? (9694w)
+        - Connecting the old Testament and the new Testament (1239w)
+        - Should i Read the new Testament or the old Testament First? (3670w)
+        - The Connection Between the old Testament and the new Testament (6637w)
+        ... +6 more
+
+    [language-testament] (9 articles, avg 3701w)
+      * PILLAR: Exploring the Language of the old Testament (5430w)
+        - Language of the old Testament: Exploring the Scriptures (4440w)
+        - The Language of the new Testament: Exploring its Origins (5331w)
+        - The Language of the old Testament: Exploring its Original Writing (2922w)
+        ... +5 more
+
+    [themes-testament] (8 articles, avg 4377w)
+      * PILLAR: Contrasting Themes in the old Testament and the new Testament (9058w)
+        - Central Themes in the old Testament and the new Testament (4523w)
+        - Comparing Themes in the old Testament and the new Testament (4099w)
+        - The old Testament: Exploring Themes, Genres, and Historical (3569w)
+        ... +4 more
+
+    [books-bible] (8 articles, avg 1348w)
+        - Have the Original Books of the Bible Been Found? (1382w)
+        - Where did the Original Books of the Bible Come From? (1321w)
+        - Where Were the Original Books of the Bible Found? (1377w)
+        ... +5 more
+
+    [first-bible] (8 articles, avg 1358w)
+        - Is the Ethiopian Bible the First Bible? (1361w)
+        - Was the First Bible Found in Ethiopia? (1365w)
+        - When was the First Bible Written and who Wrote It? (1384w)
+        ... +5 more
+
+    [original-language] (7 articles, avg 2920w)
+      * PILLAR: Understanding the old Testament in Jesus's Time (4648w)
+        - The Original Language of the new Testament Bible (2136w)
+        - The Original Language of the new Testament (2813w)
+        - Understanding the Original Language of the new Testament (2490w)
+        ... +3 more
+
+    [ethiopian-bible] (6 articles, avg 1341w)
+        - How Does the Ethiopian Bible Differ from the Bible? (1382w)
+        - Is Ethiopian Bible Accurate?: Scripture Studies (1403w)
+        - Is the Ethiopian Bible the Most Accurate? (1376w)
+        ... +3 more
+
+    [testament-written] (6 articles, avg 3213w)
+      * PILLAR: What Language was the old Testament Written In? (5870w)
+        - Was the old Testament Written in Aramaic? (2761w)
+        - What Language is Most of the old Testament Written In? (3134w)
+        - What Language was the new Testament Written In? (2330w)
+        ... +2 more
+
+    [evidence-bible] (4 articles, avg 1353w)
+        - Are There any Archaeological Evidence of the Bible? (1410w)
+        - What is the Earliest Archaeological Evidence of the Bible? (1311w)
+        - What is the Oldest Archaeological Evidence of the Bible? (1397w)
+        ... +1 more
+
+    [comparing-testament] (4 articles, avg 5861w)
+      * PILLAR: Comparing the old Testament and the Torah (7943w)
+        - Comparing old Testament and new Testament Themes (5337w)
+        - Comparing the old Testament and new Testament Themes (4976w)
+        - Comparing the old Testament and the new Testament (5187w)
+
+    [oldest-bible] (3 articles, avg 1288w)
+        - What is the Oldest Bible Found? (1283w)
+        - What is the Oldest Bible in Existence Today? (1289w)
+        - Where is the Oldest Bible in the World Kept? (1293w)
+
+    [bible-kept] (3 articles, avg 1401w)
+        - Where are the Original Copies of the Bible Kept? (1329w)
+        - Where are the Original Manuscripts of the Bible Kept? (1464w)
+        - Where is the Original Bible Kept? (1411w)
+
+    [bible-located] (3 articles, avg 1378w)
+        - Where is the First Original Bible Located? (1348w)
+        - Where is the Oldest Version of the Bible Located? (1427w)
+        - Where is the Original Bible Located? (1358w)
+
+  --- excavations (164 articles, 15 clusters) ---
+
+    [biblical-archaeology] (34 articles, avg 2324w)
+      * PILLAR: Exploring Biblical Archaeology: Unveiling the Secrets of Ancient (6597w)
+        - 10 Steps to Volunteer on a Biblical Archaeology Dig (2399w)
+        - Advancing Biblical Archaeology Through Remote Sensing (2210w)
+        - Biblical Archaeology Discoveries Unveil Ancient (1294w)
+        ... +30 more
+
+    [biblical-archaeologists] (18 articles, avg 1974w)
+      * PILLAR: Unlocking the Past: the Role of Biblical Archaeologists in (3286w)
+        - 10 Famous Biblical Archaeologists you Should Know (3082w)
+        - Discovering the Pioneers: Prominent Biblical Archaeologists (2339w)
+        - Exploring the Relationship Between Biblical Archaeologists and (2111w)
+        ... +14 more
+
+    [ancient-biblical] (16 articles, avg 1806w)
+      * PILLAR: Unearthing the Past: Lessons from Biblical Archaeology (3321w)
+        - Unveiling Ancient Biblical Cities: how ai Revolutionizes (1283w)
+        - Qumran Wadi Silt: a Window into Ancient Biblical Life and Lessons (1604w)
+        - Explore Ancient Biblical Temples: Unraveling the Secrets of (1480w)
+        ... +12 more
+
+    [discover-ancient] (12 articles, avg 1483w)
+      * PILLAR: Discover Ancient Temple Artifacts in Qumran: Secrets of (2025w)
+        - Discover Ancient Jerusalem: Unveiling Biblical Secrets In (1325w)
+        - Discover Ancient Rituals: a Deep Dive into Qumran Stairway's (1456w)
+        - Discover Ancient Ethics: Qumran Storeroom's Timeless Lessons (1544w)
+        ... +8 more
+
+    [ancient-jerusalem] (11 articles, avg 1250w)
+      * PILLAR: Unearthed Testament: Jerusalem Walls Powerful Message (1622w)
+        - Ancient Jerusalem Marketplace Near Temple Unveiled (1287w)
+        - Unveiling Truths: Ancient Jerusalem Palace Discovery Sparks (1139w)
+        - Ancient Jerusalem: Unveiling the Commerce Center (1128w)
+        ... +7 more
+
+    [truth-biblical] (11 articles, avg 2689w)
+      * PILLAR: Unearthing the Truth: Current Controversies in Biblical (4137w)
+        - Unearthing the Truth: how Biblical Archaeology Shaped Religious (2421w)
+        - Unearthing the Truth: how Biblical Archaeology Unveils Ancient (1240w)
+        - Unveiling the Truth: Biblical Archaeologists Debunk Popular (2087w)
+        ... +7 more
+
+    [reveals-ancient] (10 articles, avg 2037w)
+      * PILLAR: Exploring the Link: Biblical Archaeology and the Dead sea Scrolls (3328w)
+        - Biblical Town Gateway Reveals Ancient Defense Systems (1168w)
+        - Salt-encrusted Secrets: how the Dead sea Reveals Ancient History (1517w)
+        - Unearthing the Past: Biblical Archaeology Reveals Ancient (1965w)
+        ... +6 more
+
+    [temple-mount] (8 articles, avg 1319w)
+      * PILLAR: Unveiling the Hidden Secrets: the Latest Developments in (2233w)
+        - Temple Mount Secrets: Unearthing Hidden History with Advanced (1167w)
+        - Temple Mount Chamber Network Finally Mapped (1179w)
+        - Temple Mount Construction Secrets Unveiled (1354w)
+        ... +4 more
+
+    [sea-scrolls] (8 articles, avg 1780w)
+      * PILLAR: The Dead sea Scrolls: Unearthed Secrets of the Bible (3285w)
+        - Exploring Ancient Cosmic Battle Theories in the Dead Sea Scrolls (1495w)
+        - The Excavation of Qumran: Unearthing the Famous Dead sea Scrolls (2687w)
+        - Deciphering Dead sea Scrolls  a Rare Glimpse into Biblical (1572w)
+        ... +4 more
+
+    [lost-biblical] (7 articles, avg 1320w)
+      * PILLAR: Exploring Ancient Jericho City Gate: Its Historical (1595w)
+        - Dead sea Scroll Cave Yields Lost Biblical Text (1081w)
+        - Lost Biblical City Found: Ancient Fortress Reveals new Story (1299w)
+        - Lost Biblical City Found: Ancient Life Revealed (1076w)
+        ... +3 more
+
+    [dead-sea] (6 articles, avg 1660w)
+      * PILLAR: Unearthing the Mysteries: the top Challenges in Biblical (2812w)
+        - Dead sea Scroll Cave Yields Revolutionary new Testament Text (1080w)
+        - Exploring Ancient Moral Dilemmas at the Dead Sea Vineyard (1702w)
+        - New Evidence Unravels the Biblical Mysteries of the Dead Sea (1420w)
+        ... +2 more
+
+    [biblical-archaeological] (6 articles, avg 2266w)
+      * PILLAR: 5 Ways to Stay Updated on the Latest Developments in Biblical (3504w)
+        - Decoding Ancient Inscriptions: a Biblical Archaeological (2121w)
+        - The Role of 3d Modeling in Biblical Archaeological Research (1863w)
+        - Understanding the Various Techniques in Biblical Archaeological (1861w)
+        ... +2 more
+
+    [impact-biblical] (6 articles, avg 2611w)
+      * PILLAR: Exploring the Environmental Impact on Biblical Archaeology (3725w)
+        - Exploring the Impact of Biblical Archaeology on Public Policy (1990w)
+        - The Political Power's Impact on Biblical Archaeology (3132w)
+        - Uncovering the Historical Significance: the Impact of Biblical (3007w)
+        ... +2 more
+
+    [secrets-qumran] (6 articles, avg 1594w)
+      * PILLAR: New Evidence: Spirituality Secrets in Ancient Qumran Scrolls (1680w)
+        - Discover Ancient Secrets: Qumran Stones Impact on Festival Timing (1479w)
+        - Unlocking Secrets of the Qumran Boulder Mark: A Biblical (1614w)
+        - Unraveling Ancient Scrolls: Discover the Wisdom of (1611w)
+        ... +2 more
+
+    [ancient-mysteries] (5 articles, avg 1654w)
+      * PILLAR: Unraveling the Mysteries: Challenges Faced by Biblical (2181w)
+        - Significant Biblical Excavations Uncover Ancient Mysteries (1431w)
+        - Unearthing Ancient Mysteries: Biblical Sites Excavation (1409w)
+        - Israels Qumran Jar: Unraveling Ancient Mysteries of Free (1726w)
+        ... +1 more
+
+  --- artifacts (80 articles, 5 clusters) ---
+
+    [ark-covenant] (27 articles, avg 1428w)
+      * PILLAR: Exploring the Ethical Implications of Displaying Biblical (2585w)
+        - What Makes Acacia Wood so Significant in the Ark of the Covenant? (1544w)
+        - Ark of the Covenant: Divine Legacy Unraveled by Biblical (1746w)
+        - Comparing Ethics: how the Ark of the Covenant Challenges Modern (1383w)
+        ... +23 more
+
+    [sheds-light] (23 articles, avg 1262w)
+      * PILLAR: Unearthing Kindness Lessons in Qumran's Ancient Scroll: a (1771w)
+        - New Evidence Sheds Light: Tech-Enhanced Analysis of Ancient (940w)
+        - New Evidence Sheds Light: The John Rylands Papyrus and its Gospel (1338w)
+        - Interpreting the First Bible: Archaeology Sheds Light on Ancient (1013w)
+        ... +19 more
+
+    [ancient-artifacts] (12 articles, avg 2154w)
+      * PILLAR: 3 Methods to Identify Genuine and Counterfeit Artifacts in (3785w)
+        - Unearthing Ancient Artifacts  What Secrets Does Biblical (1198w)
+        - Methods Used by Biblical Archaeologists to Date Ancient Artifacts (3590w)
+        - Discover Ancient Artifacts: a Journey Through Roman Rule In (1480w)
+        ... +8 more
+
+    [biblical-archaeology] (10 articles, avg 1384w)
+      * PILLAR: Unearthing the Hidden Stories: Biblical Archaeology Reveals (2685w)
+        - Discover Fascinating Biblical Archaeology Artifacts in Ancient (1449w)
+        - How did Jerome's Vulgate Influence Western Biblical Archaeology? (1223w)
+        - Unlocking History: how Artifacts Reveal Biblical Archaeology (1127w)
+        ... +6 more
+
+    [ancient-biblical] (8 articles, avg 1476w)
+      * PILLAR: What is the Oldest Complete old Testament Manuscript? (2612w)
+        - Exploring Ancient Biblical Artifacts: the Role of Archaeologists (1333w)
+        - Unlocking Secrets: how Science Preserves Ancient Biblical (1219w)
+        - Qumrans Ancient Biblical Fragments: a Radiocarbon Revelation (1199w)
+        ... +4 more
+
+  --- faith (119 articles, 13 clusters) ---
+
+    [biblical-archaeology] (29 articles, avg 2120w)
+      * PILLAR: The Infamous Relics: Famous Fakes and Forgeries in Biblical (3860w)
+        - From Ruins to Revelation  What can Biblical Archaeology Teach us (1213w)
+        - Inscriptions and Insights  how Does Biblical Archaeology (1442w)
+        - Uncovering Rare Relics  how Biblical Archaeology Shapes our (1285w)
+        ... +25 more
+
+    [biblical-archaeologists] (18 articles, avg 2361w)
+      * PILLAR: Exploring the Depths: the Future of Underwater Biblical (4695w)
+        - 10 Essential Tips for Aspiring Biblical Archaeologists (2609w)
+        - Exploring the Religious Significance: Biblical Archaeologists (2452w)
+        - The Impact of Biblical Archaeologists on Cultural Heritage (2132w)
+        ... +14 more
+
+    [biblical-archaeological] (16 articles, avg 1848w)
+      * PILLAR: The Uncovered Secrets: Most Intriguing Biblical Archaeological (3067w)
+        - A Guide to Evaluating the Credibility of Biblical Archaeological (3042w)
+        - Exploring Ethical Considerations in Biblical Archaeological (2219w)
+        - Unveiling Biblical Archaeological Finds: Discovering Ancient (1355w)
+        ... +12 more
+
+    [first-temple] (10 articles, avg 1378w)
+      * PILLAR: The Intertestamental Period: Exploring the Time Between the old (2821w)
+        - Exploring the First Temple Treasury (1131w)
+        - First Temple Market Unearthed: a new Biblical Insight (1193w)
+        - First Temple Period Discovery Reveals Ancient (1078w)
+        ... +6 more
+
+    [role-biblical] (7 articles, avg 3085w)
+      * PILLAR: Decoding Ancient Technology: Insights from Biblical Archaeology (4720w)
+        - Decoding Ancient Myths: the Role of Biblical Archaeology (2781w)
+        - Exploring the Controversies: the Role of Biblical Archaeologists (3737w)
+        - Qumrans Influence: New Insights into its Pivotal Role in Biblical (1587w)
+        ... +3 more
+
+    [ancient-secrets] (7 articles, avg 1388w)
+      * PILLAR: Uncover Ancient Secrets: How Scribes Preserved Law in (1674w)
+        - Uncover Ancient Secrets: how Tech Revives Biblical Archaeology (1151w)
+        - Unearth Ancient Secrets: The Jordan Slope Stones Echo of Psalms (1638w)
+        - Ancient Secrets Revealed: Uncovering Jordan's Collapsed Tower (1478w)
+        ... +3 more
+
+    [unraveling-ancient] (6 articles, avg 1788w)
+      * PILLAR: Unraveling Ancient Cultures Through Biblical Archaeology (2672w)
+        - Exploring Biblical Archaeology: Unraveling Ancient History (1453w)
+        - High Holy Psalms: Unraveling the Mysteries of Ancient Biblical (1701w)
+        - Unveiling Ancient Psalms: A Deep Dive into Faith & (1878w)
+        ... +2 more
+
+    [ancient-biblical] (6 articles, avg 2034w)
+      * PILLAR: Exploring Ancient Religious Practices Through Biblical (3969w)
+        - How Desert Conditions Shaped Ancient Biblical Worship Practices? (1508w)
+        - Feast Days & the Ark: the Brilliant Tapestry of Ancient Biblical (1869w)
+        - Guarding the Ark: Ancient Biblical Protocols and Their Solemn (1806w)
+        ... +2 more
+
+    [unraveling-biblical] (5 articles, avg 1554w)
+      * PILLAR: Journey to the Messianic Banquet: Unraveling the Enigma of (1648w)
+        - Unraveling Biblical Mysteries: Journey into Ancient History (1600w)
+        - Unraveling Biblical Archaeology: The Truth Behind Desert (1470w)
+        - Unraveling the Mysteries of Biblical History Research (1522w)
+        ... +1 more
+
+    [ancient-prophecies] (5 articles, avg 1531w)
+      * PILLAR: Deciphering Wealth & Ethics: A Historical Analysis in the Hidden (1661w)
+        - Unearthing Ancient Prophecies: The Moral Dilemmas Revealed (1610w)
+        - Exploring Ancient Prophecies: Unveiling Timeless Ethics in (1426w)
+        - Unveiling Ancient Prophecies: The Forbidden Cave Plateaus (1458w)
+        ... +1 more
+
+    [strategies-biblical] (4 articles, avg 2930w)
+      * PILLAR: Unlocking the Past: Fundraising Strategies for Biblical (3267w)
+        - Effective Communication Strategies for Biblical Archaeology (3144w)
+        - Uncovering Ancient Military Strategies Through Biblical (2422w)
+        - Uncovering the Past: Exploring the Significance of Biblical (2886w)
+
+    [archaeology-ancient] (3 articles, avg 1592w)
+      * PILLAR: Exploring Biblical Archaeology: The Ancient Secrets of Tree (1824w)
+        - The Importance of Biblical Archaeology in Uncovering Ancient (1329w)
+        - Exploring Biblical Archaeology: the Ancient Secrets of The (1622w)
+
+    [unlocking-ancient] (3 articles, avg 1865w)
+      * PILLAR: Unlocking the Secrets of Ancient Biblical Texts (2864w)
+        - Unlocking Ancient Scrolls: how TheyRe Transforming Faith (1504w)
+        - Unlocking Ancient Trade Paths in Biblical Archaeology (1227w)
+
+======================================================================
+DONE 

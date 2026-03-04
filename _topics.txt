@@ -1,0 +1,136 @@
+TOPIC TAG FREQUENCY (across 776 posts):
+============================================================
+              bible-origins:   67  #############
+              old-testament:   50  ##########
+             temple-general:   46  #########
+              new-testament:   43  ########
+                  jerusalem:   31  ######
+               ark-covenant:   30  ######
+                     qumran:   26  #####
+                manuscripts:   22  ####
+                  ark-power:   19  ###
+                    jericho:   17  ###
+                 technology:   16  ###
+           dead-sea-scrolls:   16  ###
+             trade-commerce:   16  ###
+            ethics-morality:   15  ###
+                    careers:   14  ##
+                    warfare:   14  ##
+                    pottery:   12  ##
+               first-temple:   12  ##
+                  languages:    9  #
+                  ark-quest:    9  #
+             temple-worship:    9  #
+                    worship:    8  #
+            ethiopian-bible:    8  #
+               temple-mount:    8  #
+                   prophecy:    8  #
+            dead-sea-region:    8  #
+                     relics:    7  #
+                 septuagint:    6  #
+          artifacts-general:    6  #
+      famous-archaeologists:    6  #
+                     jordan:    5  #
+            temple-treasury:    5  #
+              bible-changes:    4  
+                   ein-gedi:    4  
+                    rituals:    4  
+                      seals:    4  
+                      canon:    4  
+                  holy-land:    3  
+                     judean:    3  
+                 pilgrimage:    3  
+              city-of-david:    3  
+             dating-methods:    3  
+             ancient-cities:    3  
+                      torah:    1  
+               inscriptions:    1  
+                      coins:    1  
+             oral-tradition:    1  
+                    galilee:    1  
+                  gutenberg:    1  
+                 excavation:    1  
+                      kings:    1  
+
+
+MEGA-CLUSTER DISTRIBUTION:
+============================================================
+
+  BIBLE_TEXTS: 183 posts (avg 2131w)
+                old-testament: 50
+                new-testament: 43
+                bible-origins: 67
+                bible-changes: 4
+             dead-sea-scrolls: 16
+                    languages: 9
+                  manuscripts: 22
+                        canon: 4
+                        torah: 1
+                   septuagint: 6
+              ethiopian-bible: 8
+                    gutenberg: 1
+               oral-tradition: 1
+
+  SACRED_PLACES: 100 posts (avg 1300w)
+                    jerusalem: 31
+                 temple-mount: 8
+                       qumran: 26
+                      jericho: 17
+              dead-sea-region: 8
+                city-of-david: 3
+                      galilee: 1
+                       jordan: 5
+                     ein-gedi: 4
+                       judean: 3
+                    holy-land: 3
+
+  THE_TEMPLE: 48 posts (avg 1052w)
+                 first-temple: 12
+               temple-general: 46
+               temple-worship: 9
+              temple-treasury: 5
+
+  ARK_OF_COVENANT: 38 posts (avg 1292w)
+                 ark-covenant: 30
+                    ark-quest: 9
+                    ark-power: 19
+
+  ARTIFACTS: 26 posts (avg 1293w)
+                        seals: 4
+                        coins: 1
+                      pottery: 12
+                 inscriptions: 1
+                       relics: 7
+            artifacts-general: 6
+
+  METHODS_CAREERS: 38 posts (avg 1518w)
+               dating-methods: 3
+                   excavation: 1
+                   technology: 16
+                      careers: 14
+        famous-archaeologists: 6
+
+  FAITH_THEOLOGY: 35 posts (avg 1509w)
+                      worship: 8
+                      rituals: 4
+                     prophecy: 8
+              ethics-morality: 15
+                   pilgrimage: 3
+
+  HISTORY: 32 posts (avg 1304w)
+               ancient-cities: 3
+                        kings: 1
+               trade-commerce: 16
+                      warfare: 14
+
+  UNTAGGED: 366 posts
+    the-ultimate-beginners-guide-to-biblical-archaeology
+    the-pioneers-of-biblical-archaeology
+    the-ultimate-guide-to-studying-biblical-archaeology
+    unearthed-secrets-debunking-myths-of-biblical-archaeology
+    comparing-old-and-new-testaments-central-themes
+    the-infamous-relics-famous-fakes-and-forgeries-in-biblical-a
+    3-methods-to-identify-genuine-and-counterfeit-artifacts-in-b
+    methods-used-by-biblical-archaeologists-to-date-ancient-arti
+    5-ways-to-stay-updated-on-the-latest-developments-in-biblica
+    the-unearthing-of-ancient-temples-a-biblical-archaeological-

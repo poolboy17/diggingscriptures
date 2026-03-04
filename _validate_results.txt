@@ -1,0 +1,128 @@
+Building inventory for pyramid validation...
+  680 articles indexed
+
+======================================================================
+  SILO PYRAMID VALIDATION
+  Testing: Hub <-> Pillar <-> Support linking in every silo
+======================================================================
+
+
+  SILO: biblical-archaeology
+  Hub: /research/biblical-archaeology
+  15 clusters | 13 pillars | 177 support
+  --------------------------------------------------
+
+  [BOTTOM-UP] Support -> Pillar (via siloParent or outbound link)
+    177/177 support articles link to pillar  [PASS]
+
+  [BOTTOM-UP] Support -> Hub (via hub link in body)
+    177/177 support articles link to hub  [PASS]
+
+  [BOTTOM-UP] Pillar -> Hub
+    13/13 pillar articles link to hub  [PASS]
+
+  [TOP-DOWN] Pillar -> Support (links to cluster siblings)
+    13/13 pillars link to cluster support articles  [PASS]
+
+  [COHESION] Intra-cluster linking (siblings link to siblings)
+    15/15 clusters have avg >= 1 cross-link  [PASS]
+
+  SILO: scripture
+  Hub: /research/scripture
+  15 clusters | 8 pillars | 119 support
+  --------------------------------------------------
+
+  [BOTTOM-UP] Support -> Pillar (via siloParent or outbound link)
+    119/119 support articles link to pillar  [PASS]
+
+  [BOTTOM-UP] Support -> Hub (via hub link in body)
+    119/119 support articles link to hub  [PASS]
+
+  [BOTTOM-UP] Pillar -> Hub
+    8/8 pillar articles link to hub  [PASS]
+
+  [TOP-DOWN] Pillar -> Support (links to cluster siblings)
+    8/8 pillars link to cluster support articles  [PASS]
+
+  [COHESION] Intra-cluster linking (siblings link to siblings)
+    15/15 clusters have avg >= 1 cross-link  [PASS]
+
+  SILO: excavations
+  Hub: /research/excavations
+  15 clusters | 15 pillars | 149 support
+  --------------------------------------------------
+
+  [BOTTOM-UP] Support -> Pillar (via siloParent or outbound link)
+    149/149 support articles link to pillar  [PASS]
+
+  [BOTTOM-UP] Support -> Hub (via hub link in body)
+    149/149 support articles link to hub  [PASS]
+
+  [BOTTOM-UP] Pillar -> Hub
+    15/15 pillar articles link to hub  [PASS]
+
+  [TOP-DOWN] Pillar -> Support (links to cluster siblings)
+    15/15 pillars link to cluster support articles  [PASS]
+
+  [COHESION] Intra-cluster linking (siblings link to siblings)
+    15/15 clusters have avg >= 1 cross-link  [PASS]
+
+  SILO: artifacts
+  Hub: /research/artifacts
+  5 clusters | 5 pillars | 75 support
+  --------------------------------------------------
+
+  [BOTTOM-UP] Support -> Pillar (via siloParent or outbound link)
+    75/75 support articles link to pillar  [PASS]
+
+  [BOTTOM-UP] Support -> Hub (via hub link in body)
+    75/75 support articles link to hub  [PASS]
+
+  [BOTTOM-UP] Pillar -> Hub
+    5/5 pillar articles link to hub  [PASS]
+
+  [TOP-DOWN] Pillar -> Support (links to cluster siblings)
+    5/5 pillars link to cluster support articles  [PASS]
+
+  [COHESION] Intra-cluster linking (siblings link to siblings)
+    5/5 clusters have avg >= 1 cross-link  [PASS]
+
+  SILO: faith
+  Hub: /research/faith
+  14 clusters | 14 pillars | 105 support
+  --------------------------------------------------
+
+  [BOTTOM-UP] Support -> Pillar (via siloParent or outbound link)
+    105/105 support articles link to pillar  [PASS]
+
+  [BOTTOM-UP] Support -> Hub (via hub link in body)
+    105/105 support articles link to hub  [PASS]
+
+  [BOTTOM-UP] Pillar -> Hub
+    14/14 pillar articles link to hub  [PASS]
+
+  [TOP-DOWN] Pillar -> Support (links to cluster siblings)
+    14/14 pillars link to cluster support articles  [PASS]
+
+  [COHESION] Intra-cluster linking (siblings link to siblings)
+    14/14 clusters have avg >= 1 cross-link  [PASS]
+
+
+======================================================================
+  PYRAMID VALIDATION SUMMARY
+======================================================================
+  Total checks passed:   1424
+  Total checks failed:   0
+  Total warnings:        0
+  Overall:               ALL PASS
+======================================================================
+
+  PER-SILO BREAKDOWN:
+    biblical-archaeology       support->hub=177/177  support->pillar=177/177  pillar->hub=13/13
+    scripture                  support->hub=119/119  support->pillar=119/119  pillar->hub=8/8
+    excavations                support->hub=149/149  support->pillar=149/149  pillar->hub=15/15
+    artifacts                  support->hub=75/75  support->pillar=75/75  pillar->hub=5/5
+    faith                      support->hub=105/105  support->pillar=105/105  pillar->hub=14/14
+
+======================================================================
+DONE 

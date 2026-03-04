@@ -1,0 +1,9 @@
+SEO audit fixes: remove 18 spam articles, fix headings and duplicate title
+
+- Delete 18 Lorem Ipsum spam articles (carry-on-luggage, cybersecurity, etc.)
+- Convert 110 body H1s to H2s across 21 articles (proper heading hierarchy)
+- Fix 1 duplicate title (Unveiling -> Unearthing)
+- Fix 1 encoded slug (percent-encoded Unicode dash)
+- Add H2 subheadings to 3 articles that lacked structure
+- Total pages: 751 (680 research + 71 pilgrimage/static)
+- SEO compliance: 98.9% (remaining: 42 long slugs, left as-is to avoid URL changes)

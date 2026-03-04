@@ -1,0 +1,8 @@
+Add hero images to all 680 research articles
+
+- Dual-source image fetching: Pixabay (primary) + Unsplash (fallback)
+- Pool-based strategy: 30 images per category, round-robin distribution
+- Downloaded all 680 images locally for Netlify CDN hosting
+- Updated ResearchLayout.astro with CdnImage hero rendering
+- Added imageCredit field to research collection schema
+- All frontmatter updated with local /images/research/ paths

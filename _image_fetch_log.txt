@@ -1,0 +1,97 @@
+============================================================
+DiggingScriptures Research Image Fetcher
+Pixabay (primary) + Unsplash (fallback)
+============================================================
+  artifacts: 80 articles
+  biblical-archaeology: 190 articles
+  excavations: 164 articles
+  faith: 119 articles
+  scripture: 127 articles
+  Total: 680 articles
+
+PHASE 1: Building image pools...
+
+=== Building pool: biblical-archaeology (10 queries) ===
+  biblical archaeology excavation: +3 images (pool: 3)
+  ancient ruins middle east: +3 images (pool: 6)
+  archaeological dig site desert: +3 images (pool: 9)
+  ancient stone ruins israel: +3 images (pool: 12)
+  archaeology tools excavation site: +3 images (pool: 15)
+  ancient temple ruins columns: +3 images (pool: 18)
+  desert archaeological landscape: +3 images (pool: 21)
+  ancient pottery shards: +3 images (pool: 24)
+  middle east ancient landscape: +3 images (pool: 27)
+  jerusalem ancient stone walls: +3 images (pool: 30)
+  Pool total: 30 unique images
+
+=== Building pool: scripture (10 queries) ===
+  ancient manuscript scroll parchment: +3 images (pool: 3)
+  old hebrew text writing: +3 images (pool: 6)
+  ancient bible manuscript pages: +3 images (pool: 9)
+  dead sea scrolls cave: +3 images (pool: 12)
+  old testament manuscript: +3 images (pool: 15)
+  ancient writing tablet clay: +3 images (pool: 18)
+  historic religious text book: +3 images (pool: 21)
+  ancient library scrolls shelves: +3 images (pool: 24)
+  ancient calligraphy ink: +3 images (pool: 27)
+  old leather bound book pages: +3 images (pool: 30)
+  Pool total: 30 unique images
+
+=== Building pool: excavations (10 queries) ===
+  archaeological excavation trench: +3 images (pool: 3)
+  ancient city ruins aerial view: +3 images (pool: 6)
+  dig site ancient walls foundation: +3 images (pool: 9)
+  archaeological fieldwork tools: +3 images (pool: 12)
+  ancient ruins columns pillars: +3 images (pool: 15)
+  excavation site workers digging: +3 images (pool: 18)
+  ancient fortress ruins landscape: +3 images (pool: 21)
+  ruins desert valley: +3 images (pool: 24)
+  ancient stone wall remains: +3 images (pool: 27)
+  archaeological site holy land: +3 images (pool: 30)
+  Pool total: 30 unique images
+
+=== Building pool: artifacts (10 queries) ===
+  ancient pottery ceramic vase: +3 images (pool: 3)
+  museum ancient artifacts display: +3 images (pool: 6)
+  ancient coins collection: +3 images (pool: 9)
+  ancient seal stamp cylinder: +3 images (pool: 12)
+  archaeological artifacts glass case: +3 images (pool: 15)
+  ancient bronze statue figurine: +3 images (pool: 18)
+  ancient jewelry gold necklace: +3 images (pool: 21)
+  stone inscription carved: +3 images (pool: 24)
+  ancient clay tablet cuneiform: +3 images (pool: 27)
+  museum biblical archaeology: +3 images (pool: 30)
+  Pool total: 30 unique images
+
+=== Building pool: faith (10 queries) ===
+  ancient church interior mosaic: +3 images (pool: 3)
+  jerusalem western wall: +3 images (pool: 6)
+  ancient synagogue mosaic floor: +3 images (pool: 9)
+  sacred religious site pilgrimage: +3 images (pool: 12)
+  ancient temple steps worship: +3 images (pool: 15)
+  religious ceremony candles: +3 images (pool: 18)
+  historic cathedral stained glass: +3 images (pool: 21)
+  ancient religious fresco painting: +3 images (pool: 24)
+  pilgrimage holy land path: +3 images (pool: 27)
+  ancient mosaic religious art: +3 images (pool: 30)
+  Pool total: 30 unique images
+
+Total API calls: 50
+
+Pools saved to D:\dev\projects\diggingscriptures\_image_pools.json
+
+PHASE 2: Distributing images to articles...
+
+=== Distributing: artifacts (80 articles, 30 images) ===
+
+=== Distributing: biblical-archaeology (190 articles, 30 images) ===
+
+=== Distributing: excavations (164 articles, 30 images) ===
+
+=== Distributing: faith (119 articles, 30 images) ===
+
+=== Distributing: scripture (127 articles, 30 images) ===
+
+============================================================
+DONE: 0 articles updated, 680 already had images
+============================================================

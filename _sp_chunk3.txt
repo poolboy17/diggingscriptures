@@ -1,0 +1,316 @@
+Loading research inventory...
+  698 articles across 5 categories
+    biblical-archaeology: 208
+    scripture: 127
+    excavations: 164
+    artifacts: 80
+    faith: 119
+  Chunk 3/4: articles 524-697 (174 articles)
+
+======================================================================
+SemanticPipe — Research Edition
+Articles: 174 | Threads: 2 | Dry run: False
+======================================================================
+
+  [  1/174] OK    unearthing-the-legacies-prominent-women-in-biblica 0chg t=64c d=147c 1897w
+  [  2/174] OK    unearthing-the-hidden-stories-biblical-archaeology 1chg t=59c d=155c 2401w
+           T: 'Unearthing the Hidden Stories: Biblical Archa' -> 'Unearthing the Hidden Stories: Biblical Archa'
+  [  3/174] OK    unearthing-the-most-important-biblical-digs        1chg t=43c d=155c 1291w
+           D: 103c -> 155c
+  [  4/174] OK    unearthing-the-mysteries-ancient-civilizations-and 2chg t=60c d=155c 1089w
+           T: 'Unearthing the Mysteries: Ancient Civilizatio' -> 'Unearthing the Mysteries: Ancient Civilizatio'
+           D: 157c -> 155c
+  [  5/174] OK    unearthing-the-past-biblical-archaeology-reveals-a 1chg t=57c d=141c 1732w
+           T: 'Unearthing the Past: Biblical Archaeology Rev' -> 'Unearthing the Past: Biblical Archaeology Rev'
+  [  6/174] OK    unearthing-the-past-how-biblical-archaeologists-pi 2chg t=63c d=155c 1593w
+           T: 'Unearthing the Past: how Biblical Archaeologi' -> 'Unearthing the Past: how Biblical Archaeologi'
+           D: 156c -> 155c
+  [  7/174] OK    unearthing-the-mysteries-the-top-challenges-in-bib 2chg t=56c d=150c 2526w
+           T: 'Unearthing the Mysteries: the top Challenges ' -> 'Unearthing the Mysteries: the top Challenges '
+  [  8/174] OK    unearthing-the-past-the-fascination-of-biblical-ar 1chg t=63c d=155c 2827w
+           T: 'Unearthing the Past: the Fascination of Bibli' -> 'Unearthing the Past: the Fascination of Bibli'
+  [  9/174] OK    unearthing-the-past-lessons-from-biblical-archaeol 1chg t=54c d=154c 3082w
+  [ 10/174] OK    unearthing-the-past-the-role-of-biblical-archaeolo 1chg t=59c d=149c 2241w
+           T: 'Unearthing the Past: the Role of Biblical Arc' -> 'Unearthing the Past: the Role of Biblical Arc'
+  [ 11/174] OK    unearthing-the-past-the-future-of-biblical-archaeo 1chg t=55c d=149c 2268w
+  [ 12/174] OK    unearthing-the-secrets-biblical-archaeology-reveal 1chg t=60c d=149c 862w
+           T: 'Unearthing the Secrets: Biblical Archaeology ' -> 'Unearthing the Secrets: Biblical Archaeology '
+  [ 13/174] OK    unearthing-the-secrets-city-of-david-storage-and-t 0chg t=56c d=121c 1235w
+  [ 14/174] OK    unearthing-the-secrets-discoveries-of-biblical-arc 0chg t=62c d=147c 2416w
+  [ 15/174] OK    unearthing-the-secrets-biblical-archaeology-reveal 3chg t=63c d=153c 1744w
+           T: 'Unearthing the Secrets: Biblical Archaeology ' -> 'Unearthing the Secrets: Biblical Archaeology '
+  [ 16/174] OK    unearthing-the-secrets-key-findings-of-biblical-ar 1chg t=60c d=155c 2987w
+           D: 156c -> 155c
+  [ 17/174] OK    unearthing-the-secrets-the-quest-for-the-ark-of-th 1chg t=61c d=155c 1448w
+           D: 156c -> 155c
+  [ 18/174] OK    unearthing-the-significance-the-importance-of-cont 1chg t=57c d=151c 2023w
+           T: 'Unearthing the Significance: the Importance o' -> 'Unearthing the Significance: the Importance o'
+  [ 19/174] OK    unearthing-the-truth-current-controversies-in-bibl 1chg t=55c d=153c 3820w
+           T: 'Unearthing the Truth: Current Controversies i' -> 'Unearthing the Truth: Current Controversies i'
+  [ 20/174] OK    unearthing-the-truth-how-biblical-archaeology-shap 1chg t=63c d=155c 2111w
+           T: 'Unearthing the Truth: how Biblical Archaeolog' -> 'Unearthing the Truth: how Biblical Archaeolog'
+  [ 21/174] OK    unearthing-the-truth-how-biblical-archaeology-unve 1chg t=62c d=153c 968w
+           T: 'Unearthing the Truth: how Biblical Archaeolog' -> 'Unearthing the Truth: how Biblical Archaeolog'
+  [ 22/174] OK    unearthing-the-truth-the-impact-of-biblical-archae 2chg t=59c d=155c 2171w
+           T: 'Unearthing the Truth: the Impact of Biblical ' -> 'Unearthing the Truth: the Impact of Biblical '
+           D: 156c -> 155c
+  [ 23/174] OK    unearthing-truth-the-battle-of-biblical-archaeolog 1chg t=63c d=152c 1953w
+           T: 'Unearthing Truth: the Battle of Biblical Arch' -> 'Unearthing Truth: the Battle of Biblical Arch'
+  [ 24/174] OK    unearthing-the-truth-the-debate-over-authenticity- 3chg t=62c d=155c 2796w
+           T: 'Unearthing the Truth: the Debate Over Authent' -> 'Unearthing the Truth: the Debate Over Authent'
+           D: 157c -> 155c
+  [ 25/174] OK    unearthing-truth-the-debate-over-the-reliability-o 1chg t=61c d=153c 2319w
+           T: 'Unearthing Truth: the Debate Over the Reliabi' -> 'Unearthing Truth: the Debate Over the Reliabi'
+  [ 26/174] OK    unlocking-ancient-trade-paths-in-biblical-archaeol 0chg t=53c d=155c 950w
+  [ 27/174] OK    unlocking-mysteries-biblical-archaeology-research- 1chg t=59c d=155c 1059w
+           D: 156c -> 155c
+  [ 28/174] OK    unlocking-the-past-fundraising-strategies-for-bibl 2chg t=55c d=147c 3006w
+           T: 'Unlocking the Past: Fundraising Strategies fo' -> 'Unlocking the Past: Fundraising Strategies fo'
+  [ 29/174] OK    unlocking-the-past-the-role-of-biblical-archaeolog 2chg t=58c d=142c 3012w
+           T: 'Unlocking the Past: the Role of Biblical Arch' -> 'Unlocking the Past: the Role of Biblical Arch'
+  [ 30/174] OK    unlocking-the-secrets-of-ancient-biblical-texts    0chg t=47c d=139c 2615w
+  [ 31/174] OK    unraveling-ancient-cultures-through-biblical-archa 0chg t=56c d=146c 2394w
+  [ 32/174] OK    unraveling-the-controversy-biblical-archaeologys-d 1chg t=58c d=150c 2860w
+           T: 'Unraveling the Controversy: Biblical Archaeol' -> 'Unraveling the Controversy: Biblical Archaeol'
+  [ 33/174] OK    unraveling-the-dead-sea-scrolls-biblical-insights  1chg t=58c d=153c 1573w
+           T: 'Deciphering Dead sea Scrolls  a Rare Glimpse ' -> 'Deciphering Dead sea Scrolls  a Rare Glimpse '
+  [ 34/174] OK    unraveling-the-last-qumran-jar-a-discourse-on-free 1chg t=56c d=148c 1446w
+           D: 77c -> 148c
+  [ 35/174] OK    unraveling-the-mysteries-challenges-faced-by-bibli 1chg t=54c d=153c 1892w
+           T: 'Unraveling the Mysteries: Challenges Faced by' -> 'Unraveling the Mysteries: Challenges Faced by'
+  [ 36/174] OK    unraveling-the-mysteries-common-challenges-faced-b 1chg t=61c d=155c 2309w
+           T: 'Unraveling the Mysteries: Common Challenges F' -> 'Unraveling the Mysteries: Common Challenges F'
+  [ 37/174] OK    unraveling-the-mysteries-of-biblical-history-resea 0chg t=53c d=155c 1276w
+  [ 38/174] OK    unraveling-the-qumran-mystery-nook-insights-into-s 1chg t=57c d=139c 1283w
+           T: 'Unearthing Wisdom: The Daily Life in Biblical' -> 'Unearthing Wisdom: The Daily Life in Biblical'
+  [ 39/174] OK    unraveling-the-qumran-scraps-crate-secrets-of-the- 2chg t=60c d=153c 1406w
+           T: 'New Evidence: Spirituality Secrets in Ancient' -> 'New Evidence: Spirituality Secrets in Ancient'
+           D: 104c -> 153c
+  [ 40/174] OK    unraveling-the-significance-of-biblical-archaeolog 0chg t=64c d=148c 2954w
+  [ 41/174] OK    unveiling-ancient-coins-in-biblical-archaeology    0chg t=47c d=153c 902w
+  [ 42/174] OK    unveiling-biblical-archaeological-finds-discoverin 1chg t=60c d=130c 1116w
+           T: 'Unveiling Biblical Archaeological Finds: Disc' -> 'Unveiling Biblical Archaeological Finds: Disc'
+  [ 43/174] OK    unveiling-qumran-sublevel-a-study-of-generational- 1chg t=55c d=145c 1483w
+           D: 89c -> 145c
+  [ 44/174] OK    unveiling-remarkable-biblical-archaeology-discover 0chg t=58c d=130c 1155w
+  [ 45/174] OK    unveiling-temple-tools-in-biblical-archaeology     0chg t=46c d=128c 1136w
+  [ 46/174] OK    unveiling-temple-mount-construction-methods        2chg t=43c d=155c 812w
+           D: 157c -> 155c
+  [ 47/174] OK    unveiling-the-ancient-secrets-biblical-archaeology 1chg t=63c d=152c 2908w
+           T: 'Unveiling the Ancient Secrets: Biblical Archa' -> 'Unveiling the Ancient Secrets: Biblical Archa'
+  [ 48/174] OK    unveiling-the-bias-exploring-religious-beliefs-in- 1chg t=59c d=150c 1475w
+           T: 'Unveiling the Bias: Exploring Religious Belie' -> 'Unveiling the Bias: Exploring Religious Belie'
+  [ 49/174] OK    unveiling-the-hidden-secrets-the-latest-developmen 2chg t=56c d=155c 1968w
+           T: 'Unveiling the Hidden Secrets: the Latest Deve' -> 'Unveiling the Hidden Secrets: the Latest Deve'
+           D: 157c -> 155c
+  [ 50/174] OK    unveiling-the-discoveries-the-process-of-documenti 2chg t=62c d=151c 2435w
+           T: 'Unveiling the Discoveries: the Process of Doc' -> 'Unveiling the Discoveries: the Process of Doc'
+  [ 51/174] OK    unveiling-the-hidden-stories-the-impact-of-biblica 1chg t=64c d=154c 2137w
+           T: 'Unveiling the Hidden Stories: the Impact of B' -> 'Unveiling the Hidden Stories: the Impact of B'
+  [ 52/174] OK    unveiling-the-intriguing-world-of-biblical-archaeo 0chg t=62c d=121c 1335w
+  [ 53/174] OK    unveiling-the-jericho-underground-ramp-a-study-of- 2chg t=58c d=138c 1172w
+           T: 'Jerichos Underground Ramp: A Marvel of Ancien' -> 'Jerichos Underground Ramp: A Marvel of Ancien'
+           D: 68c -> 138c
+  [ 54/174] OK    unveiling-the-judean-hills-mosaic-ritual-details-o 1chg t=63c d=152c 1317w
+           D: 89c -> 152c
+  [ 55/174] OK    unveiling-the-mystery-of-the-collapsed-tower-over- 1chg t=61c d=125c 1223w
+           T: 'Ancient Secrets Revealed: Uncovering JordanS ' -> 'Ancient Secrets Revealed: Uncovering Jordan's'
+  [ 56/174] OK    unveiling-the-past-biblical-period-dating-methods  1chg t=64c d=130c 1026w
+           T: 'Discovering the BibleS Timeline: the Role of ' -> 'Discovering the Bible's Timeline: the Role of'
+  [ 57/174] OK    unveiling-the-secrets-of-biblical-archaeologists   0chg t=48c d=133c 2769w
+  [ 58/174] OK    unveiling-the-secrets-of-biblical-archaeology-thro 1chg t=61c d=151c 2172w
+           T: 'Unveiling the Secrets of Biblical Archaeology' -> 'Unveiling the Secrets of Biblical Archaeology'
+  [ 59/174] OK    unveiling-the-secrets-of-the-qumran-wall-gap-cland 2chg t=60c d=155c 1331w
+           T: 'Unraveling the Ancient Unity Scroll: Qumran W' -> 'Unraveling the Ancient Unity Scroll: Qumran W'
+           D: 94c -> 155c
+  [ 60/174] OK    unveiling-the-secrets-of-biblical-archaeology-2    1chg t=45c d=154c 4122w
+  [ 61/174] OK    unveiling-the-secrets-the-role-of-biblical-archaeo 1chg t=61c d=154c 1845w
+           T: 'Unveiling the Secrets: the Role of Biblical A' -> 'Unveiling the Secrets: the Role of Biblical A'
+  [ 62/174] OK    unveiling-the-secrets-the-role-of-biblical-archaeo 1chg t=61c d=154c 2995w
+           T: 'Unveiling the Secrets: the Role of Biblical A' -> 'Unveiling the Secrets: the Role of Biblical A'
+  [ 63/174] OK    unveiling-the-women-of-ancient-societies-a-biblica 2chg t=52c d=155c 1098w
+           T: 'Unveiling the Women of Ancient Societies: a B' -> 'Unveiling the Women of Ancient Societies: a B'
+           D: 156c -> 155c
+  [ 64/174] OK    vinyl-revival                                      1chg t=58c d=121c 1348w
+           T: 'The Vinyl Revival: Exploring the Timeless App' -> 'The Vinyl Revival: Exploring the Timeless App'
+  [ 65/174] OK    unveiling-the-truth-biblical-archaeologists-debunk 3chg t=59c d=155c 1832w
+           T: 'Unveiling the Truth: Biblical Archaeologists ' -> 'Unveiling the Truth: Biblical Archaeologists '
+           D: 156c -> 155c
+  [ 66/174] OK    was-the-bible-originally-oral-tradition-or-text    0chg t=48c d=141c 1622w
+  [ 67/174] OK    was-the-first-bible-found-in-ethiopia              1chg t=38c d=152c 1089w
+           D: 102c -> 152c
+  [ 68/174] OK    was-the-new-testament-originally-written-in-hebrew 0chg t=51c d=134c 2306w
+  [ 69/174] OK    was-the-old-testament-originally-written-in-greek  0chg t=50c d=148c 2442w
+  [ 70/174] OK    was-the-old-testament-written-in-aramaic           1chg t=41c d=153c 2500w
+           D: 80c -> 153c
+  [ 71/174] OK    was-the-original-new-testament-written-in-greek-or 0chg t=58c d=152c 1506w
+  [ 72/174] OK    watchtower-jar-navigating-sect-identity-amid-urban 1chg t=58c d=153c 1526w
+           D: 107c -> 153c
+  [ 73/174] OK    ways-to-support-biblical-archaeological-research-a 1chg t=53c d=155c 2280w
+           T: 'Ways to Support Biblical Archaeological Resea' -> 'Ways to Support Biblical Archaeological Resea'
+  [ 74/174] OK    ways-to-involve-the-public-in-the-discoveries-of-b 2chg t=57c d=150c 2384w
+           T: 'Ways to Involve the Public in the Discoveries' -> 'Ways to Involve the Public in the Discoveries'
+  [ 75/174] OK    were-the-new-testament-books-written-in-hebrew     0chg t=47c d=155c 2454w
+  [ 76/174] OK    what-archaeological-evidence-points-to-the-histori 2chg t=62c d=152c 1081w
+           T: 'What Archaeological Evidence Points to the Hi' -> 'What Archaeological Evidence Points to the Hi'
+           D: 103c -> 152c
+  [ 77/174] OK    what-are-the-archaeological-techniques             1chg t=39c d=154c 1085w
+           D: 87c -> 154c
+  [ 78/174] OK    what-are-textual-variants-in-the-new-testament     1chg t=47c d=143c 1150w
+  [ 79/174] OK    what-are-the-contributions-of-archaeology-to-the-b 1chg t=55c d=155c 1105w
+           D: 156c -> 155c
+  [ 80/174] OK    what-are-the-methods-used-in-biblical-archaeology  0chg t=50c d=142c 1058w
+  [ 81/174] OK    what-are-the-most-recent-archaeological-discoverie 1chg t=60c d=155c 1031w
+           D: 77c -> 155c
+  [ 82/174] OK    what-are-the-oldest-biblical-manuscripts-found     0chg t=47c d=132c 1099w
+  [ 83/174] OK    what-are-the-techniques-used-in-archaeological-fie 0chg t=57c d=150c 1059w
+  [ 84/174] OK    what-are-the-techniques-used-in-archaeology-survey 1chg t=54c d=151c 1037w
+           D: 111c -> 151c
+  [ 85/174] OK    what-bible-artifacts-were-found-in-2023            0chg t=40c d=134c 1128w
+  [ 86/174] OK    what-can-you-do-with-a-degree-in-biblical-studies  0chg t=50c d=152c 1061w
+  [ 87/174] OK    what-dead-sea-scrolls-reveal-about-scripture       1chg t=44c d=151c 1205w
+           D: 94c -> 151c
+  [ 88/174] OK    what-do-people-mean-by-original-bible-explained    1chg t=64c d=126c 977w
+           D: 62c -> 126c
+  [ 89/174] OK    what-does-the-name-archaeology-mean                1chg t=36c d=155c 1006w
+           D: 156c -> 155c
+  [ 90/174] OK    what-have-archaeologists-found-from-the-bible      0chg t=46c d=143c 1103w
+  [ 91/174] OK    what-is-archaeology-in-the-bible                   0chg t=33c d=134c 1073w
+  [ 92/174] OK    what-is-codex-sinaiticus-and-why-its-important     0chg t=63c d=126c 1228w
+  [ 93/174] OK    what-is-the-course-on-biblical-archeology          0chg t=42c d=149c 1062w
+  [ 94/174] OK    what-is-the-difference-between-archaeology-and-arc 0chg t=58c d=130c 1125w
+  [ 95/174] OK    what-is-the-difference-between-archeological-and-a 0chg t=64c d=146c 1030w
+  [ 96/174] OK    what-is-the-difference-between-archeology-and-hist 2chg t=56c d=155c 1008w
+           T: 'What is the Difference Between Archeology and' -> 'What is the Difference Between Archeology and'
+           D: 156c -> 155c
+  [ 97/174] OK    what-is-the-difference-between-the-ethiopian-bible 0chg t=65c d=139c 1012w
+  [ 98/174] OK    what-is-the-earliest-archaeological-evidence-of-th 0chg t=58c d=155c 1036w
+  [ 99/174] OK    what-is-the-earliest-archeological-evidence-of-the 0chg t=62c d=153c 1067w
+  [100/174] OK    what-is-the-masoretic-text-and-how-was-it-formed   1chg t=59c d=128c 1489w
+           D: 63c -> 128c
+  [101/174] OK    what-is-the-meaning-of-biblical-archaeology        0chg t=44c d=153c 1148w
+  [102/174] OK    what-is-the-most-recent-archaeological-discovery-2 0chg t=54c d=154c 1005w
+  [103/174] OK    what-is-the-old-testament-called                   0chg t=33c d=154c 5545w
+  [104/174] OK    what-is-the-oldest-archaeological-evidence-of-isra 1chg t=53c d=155c 1034w
+           D: 157c -> 155c
+  [105/174] OK    what-is-the-oldest-archaeological-evidence-of-the- 0chg t=56c d=155c 1109w
+  [106/174] OK    what-is-the-oldest-archaeological-find-in-israel   1chg t=49c d=155c 1044w
+           D: 157c -> 155c
+  [107/174] OK    what-is-the-oldest-bible-found                     1chg t=31c d=151c 1039w
+           D: 105c -> 151c
+  [108/174] OK    what-is-the-oldest-bible-in-existence-today        0chg t=44c d=149c 1058w
+  [109/174] OK    what-is-the-oldest-biblical-artifact-ever-found    0chg t=48c d=148c 1049w
+  [110/174] OK    what-is-the-oldest-biblical-manuscript-we-have     0chg t=47c d=122c 1138w
+  [111/174] OK    what-is-the-oldest-complete-old-testament-manuscri 0chg t=53c d=149c 2341w
+  [112/174] OK    what-is-the-oldest-known-bible-artifact            0chg t=40c d=140c 1153w
+  [113/174] OK    what-is-the-relationship-between-the-bible-and-arc 1chg t=59c d=155c 1061w
+           D: 156c -> 155c
+  [114/174] OK    what-is-the-science-of-biblical-archeology         0chg t=43c d=154c 1123w
+  [115/174] OK    what-is-the-original-new-testament-called          2chg t=42c d=132c 2713w
+           D: 65c -> 132c
+  [116/174] OK    what-is-the-study-of-archeology-called             0chg t=39c d=133c 1087w
+  [117/174] OK    what-is-the-study-of-biblical-archaeology          0chg t=42c d=147c 1108w
+  [118/174] OK    what-is-the-synoptic-problem-and-why-it-matters    1chg t=47c d=130c 1407w
+  [119/174] OK    what-is-the-study-of-biblical-archeology           1chg t=41c d=152c 1152w
+  [120/174] OK    what-is-the-textus-receptus-and-why-it-still-matte 1chg t=56c d=123c 1117w
+           T: 'Can you Answer These Questions on the Biblica' -> 'Can you Answer These Questions on the Biblica'
+  [121/174] OK    what-is-the-ubs-na-critical-edition-of-the-bible   1chg t=49c d=154c 1522w
+           T: 'What Is The UBS/NA Critical Edition Of The Bi' -> 'What Is The UB's/NA Critical Edition Of The B'
+  [122/174] OK    what-language-is-most-of-the-old-testament-written 0chg t=54c d=132c 2873w
+  [123/174] OK    what-is-the-value-of-biblical-archeology           0chg t=41c d=139c 1100w
+  [124/174] OK    what-language-was-the-new-testament-originally-wri 2chg t=58c d=153c 2624w
+           D: 81c -> 153c
+  [125/174] OK    what-language-was-the-new-testament-first-written- 2chg t=53c d=152c 1758w
+           D: 114c -> 152c
+  [126/174] OK    what-language-was-the-new-testament-written-in     1chg t=47c d=155c 2055w
+           D: 156c -> 155c
+  [127/174] OK    what-languages-was-the-bible-first-written-in      0chg t=46c d=128c 1101w
+  [128/174] OK    what-proves-the-bible-is-historically-accurate     0chg t=47c d=131c 1071w
+  [129/174] OK    what-language-was-the-old-testament-written-in     4chg t=47c d=148c 5562w
+           D: 84c -> 148c
+  [130/174] OK    what-techniques-did-archaeologists-use             1chg t=39c d=144c 1159w
+           D: 101c -> 144c
+  [131/174] OK    what-techniques-do-archaeologists-use-to-survey    1chg t=48c d=151c 1037w
+           D: 107c -> 151c
+  [132/174] OK    what-were-the-scriptures-called-in-jesus-time      0chg t=46c d=133c 2360w
+  [133/174] OK    whats-the-earliest-fragments-of-the-bible-we-have  1chg t=57c d=150c 1267w
+           D: 74c -> 150c
+  [134/174] OK    when-did-biblical-archeology-start                 0chg t=35c d=154c 1033w
+  [135/174] OK    when-was-the-biblical-canon-officially-closed      1chg t=46c d=149c 1182w
+           D: 92c -> 149c
+  [136/174] OK    when-was-the-first-bible-written-and-who-wrote-it  1chg t=50c d=155c 1126w
+           D: 119c -> 155c
+  [137/174] OK    when-was-the-new-testament-actually-written        0chg t=44c d=150c 2780w
+  [138/174] OK    when-was-the-new-testament-written-after-jesuss-de 2chg t=55c d=153c 2571w
+           T: 'When was the new Testament Written After Jesu' -> 'When was the new Testament Written After Jesu'
+           D: 97c -> 153c
+  [139/174] OK    where-are-the-original-copies-of-the-bible-kept    0chg t=48c d=130c 1092w
+  [140/174] OK    where-are-the-original-manuscripts-of-the-bible-ke 1chg t=53c d=155c 1167w
+           D: 157c -> 155c
+  [141/174] OK    when-was-the-new-testament-originally-written      1chg t=46c d=148c 1684w
+  [142/174] OK    where-did-the-bible-originate                      1chg t=30c d=153c 1039w
+           D: 112c -> 153c
+  [143/174] OK    where-did-the-original-books-of-the-bible-come-fro 0chg t=52c d=127c 1053w
+  [144/174] OK    where-did-the-story-of-the-bible-begin             0chg t=39c d=155c 1040w
+  [145/174] OK    where-is-the-first-original-bible-located          1chg t=42c d=150c 1106w
+           D: 109c -> 150c
+  [146/174] OK    where-is-the-oldest-bible-in-the-world-kept        0chg t=44c d=145c 1026w
+  [147/174] OK    where-is-the-oldest-version-of-the-bible-located   0chg t=49c d=151c 1153w
+  [148/174] OK    where-is-the-original-bible-kept                   0chg t=33c d=152c 1156w
+  [149/174] OK    where-is-the-original-bible-located                0chg t=36c d=136c 1137w
+  [150/174] OK    where-to-access-biblical-manuscripts-online-today  1chg t=49c d=155c 1404w
+           D: 156c -> 155c
+  [151/174] OK    where-was-the-bible-originally-found               0chg t=37c d=123c 1121w
+  [152/174] OK    where-was-the-first-bible-found                    1chg t=32c d=154c 1134w
+           D: 115c -> 154c
+  [153/174] OK    where-were-the-original-books-of-the-bible-found   0chg t=49c d=155c 1120w
+  [154/174] OK    where-you-can-view-high%e2%80%91res-original-manus 1chg t=47c d=155c 1129w
+           D: 110c -> 155c
+  [155/174] OK    which-bible-is-the-oldest-in-the-world             1chg t=39c d=152c 1096w
+           D: 108c -> 152c
+  [156/174] OK    which-books-are-missing-from-the-hebrew-bible      1chg t=46c d=140c 1849w
+           D: 69c -> 140c
+  [157/174] OK    which-bible-verses-are-most-disputed-by-variants   0chg t=48c d=130c 1260w
+  [158/174] OK    who-compiled-the-new-testament                     1chg t=31c d=153c 2351w
+           D: 83c -> 153c
+  [159/174] OK    who-made-the-first-bible-in-the-world              1chg t=38c d=149c 1040w
+           D: 38c -> 149c
+  [160/174] OK    who-wrote-the-first-copy-of-each-gospel            1chg t=40c d=155c 1214w
+           D: 91c -> 155c
+  [161/174] OK    why-are-there-two-different-spellings-archaeology- 0chg t=65c d=155c 1073w
+  [162/174] OK    why-bibles-manuscripts-outnumber-many-histories    1chg t=48c d=147c 1482w
+           D: 106c -> 147c
+  [163/174] OK    why-is-archaeology-called-archaeology              0chg t=38c d=120c 1029w
+  [164/174] OK    why-is-it-called-old-testament-and-new-testament   0chg t=49c d=150c 9380w
+  [165/174] OK    why-is-the-old-testament-called-the-old-testament  1chg t=50c d=155c 4193w
+           D: 157c -> 155c
+  [166/174] OK    why-is-the-old-testament-written                   0chg t=33c d=154c 2077w
+  [167/174] OK    why-is-the-new-testament-written-in-greek-and-not- 2chg t=57c d=152c 2149w
+           D: 84c -> 152c
+  [168/174] OK    why-jerome-rejected-parts-of-the-septuagint        0chg t=43c d=132c 1213w
+  [169/174] OK    why-the-samaritan-pentateuch-matters-to-origins    2chg t=59c d=155c 1227w
+           D: 105c -> 155c
+  [170/174] OK    why-the-gutenberg-bible-marked-a-turning-point     2chg t=46c d=150c 1175w
+           D: 81c -> 150c
+  [171/174] OK    why-the-septuagint-is-called-the-first-bible       1chg t=62c d=152c 1113w
+           D: 75c -> 152c
+  [172/174] OK    why-we-dont-have-the-bibles-original-autographs    2chg t=61c d=152c 1139w
+           T: 'Manuscript Mysteries: What Led to the Loss of' -> 'Manuscript Mysteries: What Led to the Loss of'
+           D: 115c -> 152c
+  [173/174] OK    windstorm-in-judean-valley-a-call-for-moral-renewa 0chg t=59c d=125c 1423w
+  [174/174] OK    worship-in-the-old-and-new-testament               0chg t=36c d=149c 3347w
+
+======================================================================
+DONE in 1.5s (0.009s/article)
+  Saved: 174 | Errors: 0
+  Articles changed: 106
+
+  Avg Semantic: entities=39.8 years=1.1 people=31.2 sources=1.3
+
+  By Category:
+    biblical-archaeology       40 articles  avg 1423w  24 changed
+    scripture                  47 articles  avg 1998w  23 changed
+    excavations                37 articles  avg 1848w  28 changed
+    artifacts                  28 articles  avg 1389w  18 changed
+    faith                      22 articles  avg 1695w  13 changed
+======================================================================
