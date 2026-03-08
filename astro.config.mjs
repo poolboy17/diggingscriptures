@@ -3,23 +3,25 @@ import react from '@astrojs/react';
 import tailwindcss from '@tailwindcss/vite';
 import sitemap from '@astrojs/sitemap';
 import sentry from '@sentry/astro';
+import netlify from '@astrojs/netlify';
 
 // ================================================================================
 // ASTRO CONFIGURATION — PILGRIMAGE SITE
 // ================================================================================
-// MODE: Static Site Generation (SSG) ONLY
-// NO SSR, NO APIs, NO CMS, NO Databases
+// MODE: Hybrid (ISR via Netlify On-Demand Builders)
+// Pre-renders all pages at build time; new routes generate on first request
+// and are permanently cached at the CDN until next deploy.
 // ================================================================================
 
 export default defineConfig({
-    // Static output mode - no server required
-    output: 'static',
-    
+    output: 'hybrid',
+    adapter: netlify(),
+
     // Vite plugins
     vite: {
         plugins: [tailwindcss()]
     },
-    
+
     // Integrations
     integrations: [
         react(),
@@ -35,16 +37,15 @@ export default defineConfig({
             },
         }),
     ],
-    
+
     // Build configuration
     build: {
-        // Inline stylesheets for performance
         inlineStylesheets: 'auto'
     },
-    
+
     // Site configuration
     site: 'https://diggingscriptures.com',
-    
+
     // Trailing slashes for clean URLs
     trailingSlash: 'never'
 });
