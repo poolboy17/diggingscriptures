@@ -82,3 +82,9 @@
   from = "/how-many-times-has-the-bible-been-changed"
   to = "/research/scripture/how-many-times-has-the-bible-been-changed/"
   status = 301
+
+[[headers]]
+  for = "/*"
+  [headers.values]
+    Content-Security-Policy = "default-src 'self'; script-src 'self' 'unsafe-inline'; style-src 'self' 'unsafe-inline'; font-src 'self'; img-src 'self' data: https:; connect-src 'self' https://o4508247438655488.ingest.us.sentry.io; worker-src 'self' blob:;"
+
