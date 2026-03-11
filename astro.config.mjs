@@ -14,7 +14,7 @@ import netlify from '@astrojs/netlify';
 // ================================================================================
 
 export default defineConfig({
-    output: 'hybrid',
+    output: 'static',
     adapter: netlify(),
 
     // Vite plugins
